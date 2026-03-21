@@ -178,6 +178,63 @@ def detect_topic_type(category, title, summary):
     return best_topic if best_score > 0 else "general"
 
 
+def contains_any(text, keywords):
+    return any(keyword in text for keyword in keywords)
+
+
+def detect_event_type(category, topic_type, title, summary):
+    text = f"{title} {summary}".lower()
+
+    launch_words = ["launch", "launches", "launched", "unveil", "unveils", "release", "releases", "rolls out", "introduces"]
+    regulation_words = ["regulator", "regulation", "fine", "fines", "antitrust", "lawsuit", "investigation", "ban", "bans", "blocks", "approves"]
+    partnership_words = ["partner", "partners", "partnership", "deal", "agreement", "ties up", "collaboration"]
+    earnings_words = ["earnings", "revenue", "profit", "forecast", "sales", "quarter", "results"]
+    rate_words = ["interest rate", "rates", "federal reserve", "ecb", "boe", "central bank", "rate decision", "holds rates", "cuts rates", "raises rates"]
+    inflation_words = ["inflation", "cpi", "consumer prices", "price growth"]
+    market_words = ["stocks", "shares", "markets", "bonds", "investors", "selloff", "rally"]
+    energy_words = ["oil", "gas", "opec", "crude", "output", "energy"]
+    election_words = ["election", "vote", "poll", "campaign", "parliament"]
+    security_words = ["war", "missile", "military", "attack", "defence", "defense", "security", "troops"]
+    diplomacy_words = ["summit", "talks", "ceasefire", "sanction", "minister", "diplomatic", "meeting"]
+
+    if category == "technology":
+        if contains_any(text, regulation_words):
+            return "regulation_action"
+        if contains_any(text, partnership_words):
+            return "partnership_move"
+        if contains_any(text, launch_words):
+            return "product_launch"
+        if contains_any(text, earnings_words):
+            return "commercial_update"
+        return "strategic_move"
+
+    if category == "politics":
+        if contains_any(text, election_words):
+            return "election_move"
+        if contains_any(text, security_words):
+            return "security_event"
+        if contains_any(text, diplomacy_words):
+            return "diplomatic_move"
+        if contains_any(text, regulation_words):
+            return "policy_action"
+        return "political_signal"
+
+    if category == "economy":
+        if contains_any(text, rate_words):
+            return "rate_decision"
+        if contains_any(text, inflation_words):
+            return "inflation_data"
+        if contains_any(text, energy_words):
+            return "energy_supply_move"
+        if contains_any(text, earnings_words):
+            return "corporate_results"
+        if contains_any(text, market_words):
+            return "market_repricing"
+        return "macro_signal"
+
+    return "general_event"
+    
+
 def compute_relevance_score(category, topic_type, title, summary, source_name):
     title_l = title.lower()
     summary_l = summary.lower()
@@ -257,6 +314,96 @@ def get_topic_priority_score(category, topic_type):
     }
 
     return priority_map.get(category, {}).get(topic_type, 3)
+
+
+def build_event_background(category, topic_type, event_type):
+    backgrounds = {
+        "technology": {
+            "product_launch": "這則消息反映科技公司正持續透過新產品、新模型或新服務爭奪市場注意力與商業落地機會。近期競爭已不只是功能展示，更是平台整合、客戶導入與變現效率的比拼。",
+            "regulation_action": "這則消息延續近年各國政府對大型科技公司、市場支配力、資料治理與平台責任的監管趨勢。對企業而言，監管風向正逐步成為與產品競爭同等重要的變數。",
+            "partnership_move": "這則消息反映科技公司正透過合作、整合或生態系聯盟擴大市場位置。近來競爭已從單一產品能力，延伸到誰能串接更多企業客戶、資料資源與平台場景。",
+            "commercial_update": "這則消息顯示科技競爭正進一步回到商業基本面，包括營收成長、成本控制與資本支出效率。市場不再只看技術敘事，也更重視獲利與執行能力。",
+            "strategic_move": "這則消息反映科技產業仍處於快速重組階段，企業正透過策略調整來回應市場競爭、資本壓力與政策環境變化。",
+        },
+        "politics": {
+            "election_move": "這則消息反映政治競爭正進入民意、政策與權力重組的關鍵階段。選舉相關動向通常不只影響國內政治，也會改變市場對後續政策方向的預期。",
+            "security_event": "這則消息反映安全局勢仍是國際政治的主軸之一。這類事件通常不只涉及軍事風險本身，也牽動外交回應、能源價格與盟友協調。",
+            "diplomatic_move": "這則消息顯示各方仍在透過外交互動、談判與政策訊號調整彼此立場。對外界而言，重點往往不只是會談本身，而是後續可執行的政策空間。",
+            "policy_action": "這則消息反映政府正透過制度、政策或限制性措施回應政治壓力與外部局勢。這類行動通常同時具有內政管理與對外訊號的雙重意義。",
+            "political_signal": "這則消息顯示政治環境正在釋出新的方向訊號，可能影響後續政策議程、盟友互動與市場判斷。",
+        },
+        "economy": {
+            "rate_decision": "這則消息延續市場對央行政策路徑的高度敏感。利率相關訊號通常不只影響借貸成本，也會重塑投資人對成長、通膨與資產價格的預期。",
+            "inflation_data": "這則消息反映價格壓力仍是市場與政策制定者關注的核心。通膨數據往往會直接影響央行政策預期、家庭購買力與企業成本結構。",
+            "energy_supply_move": "這則消息顯示能源供應與價格仍深受地緣政治、產量決策與需求預期影響。能源變動往往進一步外溢至通膨與市場風險偏好。",
+            "corporate_results": "這則消息反映企業端正透過財報與前景指引釋放對需求、成本與市場環境的判斷。對投資人而言，重點往往在於結果背後的趨勢訊號。",
+            "market_repricing": "這則消息顯示市場正重新調整對利率、成長或風險事件的定價。資產價格波動往往反映的不只是單一事件，而是整體預期的再平衡。",
+            "macro_signal": "這則消息反映總體經濟環境仍在調整中，市場與政策制定者正在重新評估成長、通膨與風險之間的平衡。",
+        }
+    }
+
+    category_map = backgrounds.get(category, {})
+    return category_map.get(event_type, "這則消息反映該領域近期正在出現新的結構性變化，值得放回更大的政策、競爭與市場脈絡中理解。")
+
+
+def build_event_analysis(category, topic_type, event_type):
+    analyses = {
+        "technology": {
+            "product_launch": "這次角力焦點不只在產品本身，而在誰能更快把新能力轉化為實際用戶成長、企業採用與商業收入，同時避免成本失控。",
+            "regulation_action": "這次角力的核心在於企業能否維持成長與市場控制力，同時降低監管風險與合規成本。監管機構則希望重新界定技術平台的責任邊界。",
+            "partnership_move": "這次角力不只是合作是否成立，而在誰能透過聯盟取得更大的客戶入口、資料優勢與生態系控制力。",
+            "commercial_update": "這次市場真正關注的不是單一數字，而是企業能否同時維持成長敘事、改善獲利能力，並證明先前投入開始轉化為可持續回報。",
+            "strategic_move": "這次角力重點在於企業如何在競爭升級、監管壓力與資本市場要求之間重新調整策略節奏。",
+        },
+        "politics": {
+            "election_move": "這次角力的核心在於誰能把議題主導權轉化為實際政治動員，並在選後取得足夠的政策正當性與執行空間。",
+            "security_event": "這次角力重點不只是事件本身，而在各方如何控制升高風險、釋放威懾訊號，並避免局勢失控帶來更高政治與經濟成本。",
+            "diplomatic_move": "這次角力在於各方是否真願意交換籌碼，還是僅透過外交表態爭取時間、盟友支持或輿論優勢。",
+            "policy_action": "這次角力重點在於政策工具是否足以改變對手行為，同時又不會對本國經濟、企業或政治支持造成過高反噬。",
+            "political_signal": "這次真正需要觀察的，是這些政治訊號是否會進一步轉化為具體政策、制度變動或外交行動。",
+        },
+        "economy": {
+            "rate_decision": "這次市場關注的核心不只是利率是否調整，而是央行如何描述後續路徑。真正的角力在於通膨風險與成長放緩風險，哪一方更值得被優先處理。",
+            "inflation_data": "這次角力焦點在於價格壓力究竟是暫時波動，還是仍足以改變央行政策節奏。對市場而言，數據背後的政策含義比數字本身更重要。",
+            "energy_supply_move": "這次角力重點在於供應控制、價格穩定與地緣政治目標是否能同時兼顧。能源市場的變化也會迅速傳導到通膨與風險資產定價。",
+            "corporate_results": "這次角力不只是企業是否達標，而在管理層如何說明需求前景、成本壓力與未來投資節奏，這些訊號將直接影響市場信心。",
+            "market_repricing": "這次市場波動反映的是預期重新定價。真正關鍵在於投資人是否相信原有的利率、成長或風險假設仍然成立。",
+            "macro_signal": "這次角力核心在於政策制定者、企業與市場參與者如何重新校準對成長與風險的判斷。",
+        }
+    }
+
+    category_map = analyses.get(category, {})
+    return category_map.get(event_type, "這次角力的重點在於各方如何在政策、競爭與市場壓力之間重新分配風險與資源。")
+
+
+def build_event_stakeholders(category, topic_type, event_type):
+    stakeholder_map = {
+        "technology": {
+            "product_launch": ["科技公司", "企業客戶", "開發者", "投資人"],
+            "regulation_action": ["科技公司", "監管機構", "競爭對手", "消費者"],
+            "partnership_move": ["科技公司", "合作夥伴", "企業客戶", "投資人"],
+            "commercial_update": ["企業管理層", "投資人", "客戶", "供應鏈"],
+            "strategic_move": ["科技公司", "投資人", "監管機構", "使用者"],
+        },
+        "politics": {
+            "election_move": ["執政黨", "反對黨", "選民", "市場"],
+            "security_event": ["相關政府", "軍事同盟", "國際組織", "市場"],
+            "diplomatic_move": ["相關國家政府", "盟友", "企業", "市場"],
+            "policy_action": ["政府", "企業", "盟友", "公眾"],
+            "political_signal": ["政府", "政黨", "盟友", "公眾"],
+        },
+        "economy": {
+            "rate_decision": ["央行", "投資人", "借貸者", "政府"],
+            "inflation_data": ["央行", "家庭", "企業", "市場"],
+            "energy_supply_move": ["產油國", "能源企業", "進口國政府", "市場"],
+            "corporate_results": ["企業管理層", "投資人", "員工", "客戶"],
+            "market_repricing": ["投資人", "金融機構", "企業", "央行"],
+            "macro_signal": ["政府", "央行", "企業", "消費者"],
+        }
+    }
+
+    category_map = stakeholder_map.get(category, {})
+    return category_map.get(event_type, ["政府", "企業", "市場", "公眾"])
     
 
 def find_supporting_sources(primary_item, candidate_items):
@@ -319,142 +466,26 @@ def build_news_focus(title, summary):
     return focus
 
 
-def build_briefing(category, topic_type, title, summary):
+def build_news_focus(title, summary):
+    if summary:
+        summary_clean = summary.strip()
+        summary_clean = re.sub(r"\s+", " ", summary_clean)
+        return summary_clean
+    return title.strip()
+
+
+def build_briefing(category, topic_type, event_type, title, summary):
     news_focus = build_news_focus(title, summary)
-
-    templates = {
-        "technology": {
-            "ai": {
-                "background": "此議題通常涉及生成式 AI、模型能力競爭、算力供應，以及商業化與監管之間的平衡。",
-                "stakeholders": ["科技公司", "雲端平台", "企業客戶", "監管機構", "投資人"],
-                "analysis": "核心角力在於誰能掌握模型能力、算力資源與商業應用場景，同時控制成本與政策風險。"
-            },
-            "chips": {
-                "background": "半導體議題通常牽涉先進製程、供應鏈韌性、出口管制與國家產業政策。",
-                "stakeholders": ["晶片設計公司", "晶圓代工廠", "設備供應商", "各國政府", "終端品牌商"],
-                "analysis": "主要角力點在於技術領先、產能配置、地緣政治風險，以及供應鏈控制權。"
-            },
-            "platforms": {
-                "background": "平台與大型科技公司的新聞，通常反映用戶流量、廣告收入、內容治理與生態系競爭。",
-                "stakeholders": ["平台公司", "廣告主", "內容創作者", "監管機構", "使用者"],
-                "analysis": "核心角力在於流量分配、商業模式穩定性，以及平台治理與市場支配力之間的平衡。"
-            },
-            "cybersecurity": {
-                "background": "資安議題通常涉及企業防護能力、國家安全、供應鏈漏洞與合規壓力。",
-                "stakeholders": ["企業", "政府機構", "資安供應商", "終端用戶", "威脅行為者"],
-                "analysis": "角力重點在於防護成本、營運持續性、資料安全與責任歸屬。"
-            },
-            "devices": {
-                "background": "裝置與硬體新聞通常牽涉消費需求、產品週期、零組件供應與品牌競爭。",
-                "stakeholders": ["品牌商", "供應鏈廠商", "零售通路", "消費者", "投資人"],
-                "analysis": "核心角力在於產品差異化、定價能力、供應穩定性與市場需求變化。"
-            },
-            "regulation": {
-                "background": "科技監管議題通常圍繞反壟斷、資料治理、內容責任與跨境規則。",
-                "stakeholders": ["科技公司", "監管機構", "消費者", "競爭對手", "政策制定者"],
-                "analysis": "主要角力在於創新自由、市場支配力限制，以及公共風險治理。"
-            },
-            "general": {
-                "background": "此議題反映科技產業近期的重要動向，通常涉及商業競爭、產品策略與政策環境。",
-                "stakeholders": ["科技公司", "監管機構", "用戶", "投資人"],
-                "analysis": "核心角力通常在於技術節奏、商業模式與市場預期的重新調整。"
-            }
-        },
-        "politics": {
-            "us_china": {
-                "background": "美中相關議題通常同時涉及戰略競爭、貿易規則、科技限制與區域安全。",
-                "stakeholders": ["美國政府", "中國政府", "盟友國家", "跨國企業", "金融市場"],
-                "analysis": "核心角力在於經濟互賴與戰略脫鉤之間如何重新劃界。"
-            },
-            "europe": {
-                "background": "歐洲政治議題通常涉及歐盟治理、成員國利益協調、安全政策與經濟穩定。",
-                "stakeholders": ["歐盟機構", "成員國政府", "企業", "選民", "盟友"],
-                "analysis": "主要角力在於共同政策目標與各國本身政治現實之間的平衡。"
-            },
-            "uk": {
-                "background": "英國政治議題往往反映國內治理、脫歐後定位、財政壓力與對外政策調整。",
-                "stakeholders": ["英國政府", "反對黨", "企業", "選民", "國際夥伴"],
-                "analysis": "核心角力在於內政壓力、政策執行能力與國際定位之間的重新調整。"
-            },
-            "taiwan": {
-                "background": "台灣相關政治議題通常與兩岸關係、區域安全、供應鏈地位及國際支持有關。",
-                "stakeholders": ["台灣政府", "中國政府", "美國及盟友", "企業", "區域市場"],
-                "analysis": "主要角力在於安全承諾、政治訊號與經濟穩定之間的平衡。"
-            },
-            "election": {
-                "background": "選舉新聞通常反映政策方向、民意結構與權力重新分配的可能性。",
-                "stakeholders": ["執政黨", "反對黨", "選民", "媒體", "市場"],
-                "analysis": "核心角力在於議題設定能力、民意動員與選後政策可執行性。"
-            },
-            "security": {
-                "background": "安全與衝突議題通常牽涉軍事風險、外交回應、能源與市場連動效應。",
-                "stakeholders": ["衝突各方政府", "軍事同盟", "國際組織", "能源市場", "民間社會"],
-                "analysis": "主要角力在於軍事升高風險、外交降溫空間與國際成本分攤。"
-            },
-            "diplomacy": {
-                "background": "外交與制裁議題通常反映國家間談判、壓力施加與政策交換。",
-                "stakeholders": ["相關國家政府", "國際組織", "企業", "盟友", "市場參與者"],
-                "analysis": "核心角力在於談判籌碼、政策讓步空間與執行可信度。"
-            },
-            "general": {
-                "background": "此議題屬於近期重要政治發展，通常涉及政策方向、國際關係與權力重組。",
-                "stakeholders": ["政府", "政黨", "盟友", "企業", "公眾"],
-                "analysis": "主要角力在於政策目標、政治成本與外部反應之間的調整。"
-            }
-        },
-        "economy": {
-            "rates": {
-                "background": "利率相關議題通常反映央行對通膨、成長與金融穩定之間的取捨。",
-                "stakeholders": ["央行", "政府", "借貸者", "銀行", "投資人"],
-                "analysis": "核心角力在於壓抑通膨、維持經濟活動與控制金融市場波動。"
-            },
-            "inflation": {
-                "background": "通膨新聞通常反映價格壓力、需求強弱、供應鏈變化與政策回應。",
-                "stakeholders": ["央行", "家庭", "企業", "零售商", "投資人"],
-                "analysis": "主要角力在於成本轉嫁能力、實質購買力與政策調整節奏。"
-            },
-            "jobs": {
-                "background": "就業數據通常被視為經濟韌性與消費能力的重要觀察指標。",
-                "stakeholders": ["勞工", "雇主", "政府", "央行", "市場"],
-                "analysis": "核心角力在於工資壓力、企業用工策略與政策對景氣判斷的影響。"
-            },
-            "energy": {
-                "background": "能源議題通常影響通膨、供應安全、地緣政治與企業成本。",
-                "stakeholders": ["產油國", "能源企業", "進口國政府", "消費者", "市場"],
-                "analysis": "主要角力在於供應控制、價格穩定與地緣政治風險管理。"
-            },
-            "supply_chain": {
-                "background": "供應鏈議題通常涉及運輸瓶頸、製造能力、庫存調整與地區風險。",
-                "stakeholders": ["製造商", "物流業者", "零售商", "政府", "消費者"],
-                "analysis": "核心角力在於成本控制、交付穩定性與供應來源多元化。"
-            },
-            "markets": {
-                "background": "市場新聞通常反映投資人風險偏好、政策預期與資產重新定價。",
-                "stakeholders": ["投資人", "金融機構", "企業", "監管單位", "央行"],
-                "analysis": "主要角力在於預期管理、流動性環境與風險資產估值調整。"
-            },
-            "corporate": {
-                "background": "企業營運與財報新聞通常反映需求變化、成本結構與管理層對前景的判斷。",
-                "stakeholders": ["企業管理層", "投資人", "員工", "供應商", "客戶"],
-                "analysis": "核心角力在於成長預期、利潤壓力與資本市場信心。"
-            },
-            "general": {
-                "background": "此議題反映總體經濟或市場的重要變化，通常與政策預期與風險偏好有關。",
-                "stakeholders": ["政府", "央行", "企業", "投資人", "消費者"],
-                "analysis": "主要角力在於成長、價格穩定與市場信心之間的平衡。"
-            }
-        }
-    }
-
-    section_templates = templates.get(category, {})
-    template = section_templates.get(topic_type, section_templates.get("general"))
+    background = build_event_background(category, topic_type, event_type)
+    analysis = build_event_analysis(category, topic_type, event_type)
+    stakeholders = build_event_stakeholders(category, topic_type, event_type)
 
     return {
         "news_focus": news_focus,
         "news_focus_zh": news_focus,
-        "background": template["background"],
-        "stakeholders": template["stakeholders"],
-        "analysis": template["analysis"],
+        "background": background,
+        "stakeholders": stakeholders,
+        "analysis": analysis,
     }
 
 
@@ -479,7 +510,8 @@ def dedupe_items(items):
         category = item.get("category", "")
         source_name = item.get("source_name", "")
         topic_type = detect_topic_type(category, title_clean, summary_clean)
-        briefing = build_briefing(category, topic_type, title_clean, summary_clean)
+        event_type = detect_event_type(category, topic_type, title_clean, summary_clean)
+        briefing = build_briefing(category, topic_type, event_type, title_clean, summary_clean)
         dt = best_datetime(item)
         relevance_score = compute_relevance_score(category, topic_type, title_clean, summary_clean, source_name)
         topic_priority_score = get_topic_priority_score(category, topic_type)
@@ -498,6 +530,7 @@ def dedupe_items(items):
             "relevance_score": relevance_score,
             "briefing": briefing,
             "topic_priority_score": topic_priority_score,
+            "event_type": event_type,
         }
         deduped.append(cleaned_item)
 
