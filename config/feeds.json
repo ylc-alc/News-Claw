@@ -1,1 +1,32 @@
-
+{
+  "technology": [
+    {
+      "name": "Reuters Technology",
+      "url": "https://feeds.reuters.com/reuters/technologyNews"
+    },
+    {
+      "name": "BBC Technology",
+      "url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
+    }
+  ],
+  "politics": [
+    {
+      "name": "Reuters World News",
+      "url": "https://feeds.reuters.com/Reuters/worldNews"
+    },
+    {
+      "name": "BBC World",
+      "url": "http://feeds.bbci.co.uk/news/world/rss.xml"
+    }
+  ],
+  "economy": [
+    {
+      "name": "Reuters Business News",
+      "url": "https://feeds.reuters.com/reuters/businessNews"
+    },
+    {
+      "name": "BBC Business",
+      "url": "http://feeds.bbci.co.uk/news/business/rss.xml"
+    }
+  ]
+}
