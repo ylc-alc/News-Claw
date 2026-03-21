@@ -76,7 +76,11 @@ def build_topic_card(item):
     published_at = format_item_time(item.get("published_at_utc", ""))
 
     briefing = item.get("briefing", {})
-    news_focus = escape_html(briefing.get("news_focus", item.get("summary", "")))
+    news_focus = escape_html(
+    briefing.get("news_focus_zh")
+    or briefing.get("news_focus")
+    or item.get("summary", "")
+)
     background = escape_html(briefing.get("background", ""))
     analysis = escape_html(briefing.get("analysis", ""))
     stakeholders = briefing.get("stakeholders", [])
