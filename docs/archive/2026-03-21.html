@@ -20,6 +20,9 @@
     h1 {
       margin-bottom: 8px;
     }
+    h2 {
+      margin-top: 0;
+    }
     .meta {
       color: #6b7280;
       margin-bottom: 28px;
@@ -42,6 +45,56 @@
     .topic-card:first-of-type {
       border-top: none;
       padding-top: 6px;
+    }
+    .topic-summary {
+      margin-top: 10px;
+    }
+    .section-intro {
+      color: #4b5563;
+      margin-bottom: 14px;
+    }
+    .quick-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 12px;
+    }
+    .quick-nav a {
+      display: inline-block;
+      padding: 8px 12px;
+      border: 1px solid #d1d5db;
+      border-radius: 999px;
+      background: #f9fafb;
+      color: #1f2937;
+      text-decoration: none;
+      font-size: 14px;
+    }
+    .quick-nav a:hover {
+      background: #eef2ff;
+      text-decoration: none;
+    }
+    .meta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      margin: 6px 0 4px;
+    }
+    .source-badge,
+    .time-badge {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 13px;
+      line-height: 1.4;
+    }
+    .source-badge {
+      background: #e0ecff;
+      color: #1e3a8a;
+    }
+    .time-badge {
+      background: #f3f4f6;
+      color: #4b5563;
     }
     .archive-list {
       list-style: none;
@@ -83,14 +136,19 @@
 <body>
   <header>
     <h1>News-Claw</h1>
-    <p class="meta">每日新聞簡報｜科技、政治、經濟｜最後更新：2026-03-21 17:10 UTC</p>
+    <p class="meta">每日新聞簡報｜科技、政治、經濟｜最後更新：2026-03-21 17:15 UTC</p>
     <p>此頁根據 RSS 來源自動整理每日代表性新聞，並由 GitHub Pages 發布。</p>
   </header>
 
   
     <section class="nav-box">
       <h2>導覽</h2>
-      <p><a href="../archive.html">查看歷史簡報</a></p>
+      <div class="quick-nav">
+        <a href="#section-technology">科技</a>
+        <a href="#section-politics">政治</a>
+        <a href="#section-economy">經濟</a>
+        <a href="../archive.html">歷史簡報</a>
+      </div>
     </section>
     
     <section class="summary-box">
@@ -103,64 +161,79 @@
       </ul>
     </section>
     
-    <section class="section-block">
+    <section class="section-block" id="section-technology">
       <h2>科技新聞</h2>
+      <p class='section-intro'>聚焦 AI、晶片、平台、資安與重大科技產業動向。</p>
       
     <article class="topic-card">
       <h3><a href="https://www.bbc.co.uk/iplayer/episode/m002t71c?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Tech Now</a></h3>
-      <p>Alasdair Keane visits the underground insect farm turning food waste into animal feed.</p>
-      <p><strong>來源：</strong>BBC Technology</p>
-      <p><strong>時間：</strong>2026-03-21T01:00:00+00:00</p>
+      <div class="meta-row">
+        <span class='source-badge'>BBC Technology</span>
+        <span class='time-badge'>2026-03-21 01:00 UTC</span>
+      </div>
+      <p class='topic-summary'>Alasdair Keane visits the underground insect farm turning food waste into animal feed.</p>
     </article>
     
 
     <article class="topic-card">
       <h3><a href="https://www.bbc.com/news/articles/cx2reyjdyjzo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Hargreaves Lansdown says IT issues which affected thousands are over</a></h3>
-      <p>The finance firm has apologised for the disruption to its website and app, which has angered many customers.</p>
-      <p><strong>來源：</strong>BBC Technology</p>
-      <p><strong>時間：</strong>2026-03-20T17:44:22+00:00</p>
+      <div class="meta-row">
+        <span class='source-badge'>BBC Technology</span>
+        <span class='time-badge'>2026-03-20 17:44 UTC</span>
+      </div>
+      <p class='topic-summary'>The finance firm has apologised for the disruption to its website and app, which has angered many customers.</p>
     </article>
     
     </section>
     
 
-    <section class="section-block">
+    <section class="section-block" id="section-politics">
       <h2>政治新聞</h2>
+      <p class='section-intro'>聚焦國際關係、政策變化、外交動態與地緣政治風險。</p>
       
     <article class="topic-card">
       <h3><a href="https://www.bbc.com/news/articles/cwy3961xdr8o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Pentagon restrictions on press violate First Amendment, judge rules</a></h3>
-      <p>The Department of Defense had required reporters to agree to certain rules on what information they could gather in order to maintain access to the Pentagon.</p>
-      <p><strong>來源：</strong>BBC World</p>
-      <p><strong>時間：</strong>2026-03-21T16:11:58+00:00</p>
+      <div class="meta-row">
+        <span class='source-badge'>BBC World</span>
+        <span class='time-badge'>2026-03-21 16:11 UTC</span>
+      </div>
+      <p class='topic-summary'>The Department of Defense had required reporters to agree to certain rules on what information they could gather in order to maintain access to the Pentagon.</p>
     </article>
     
 
     <article class="topic-card">
       <h3><a href="https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Thousands evacuated as Hawaii faces worst flooding in 20 years</a></h3>
-      <p>More than 230 people have been rescued so far, the authorities said on Friday.</p>
-      <p><strong>來源：</strong>BBC World</p>
-      <p><strong>時間：</strong>2026-03-21T16:09:50+00:00</p>
+      <div class="meta-row">
+        <span class='source-badge'>BBC World</span>
+        <span class='time-badge'>2026-03-21 16:09 UTC</span>
+      </div>
+      <p class='topic-summary'>More than 230 people have been rescued so far, the authorities said on Friday.</p>
     </article>
     
     </section>
     
 
-    <section class="section-block">
+    <section class="section-block" id="section-economy">
       <h2>經濟新聞</h2>
+      <p class='section-intro'>聚焦利率、通膨、能源、供應鏈、企業與市場重要變化。</p>
       
     <article class="topic-card">
       <h3><a href="https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">US lifts sanctions on some Iranian oil as energy prices soar</a></h3>
-      <p>The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets.</p>
-      <p><strong>來源：</strong>BBC Business</p>
-      <p><strong>時間：</strong>2026-03-21T12:15:20+00:00</p>
+      <div class="meta-row">
+        <span class='source-badge'>BBC Business</span>
+        <span class='time-badge'>2026-03-21 12:15 UTC</span>
+      </div>
+      <p class='topic-summary'>The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets.</p>
     </article>
     
 
     <article class="topic-card">
       <h3><a href="https://www.bbc.com/news/articles/cdrmle57mm8o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Comic Relief helps fund free school uniform charity</a></h3>
-      <p>Julie Waller, who heads up the charity, says donations have helped more than 2,000 families.</p>
-      <p><strong>來源：</strong>BBC Business</p>
-      <p><strong>時間：</strong>2026-03-21T07:27:01+00:00</p>
+      <div class="meta-row">
+        <span class='source-badge'>BBC Business</span>
+        <span class='time-badge'>2026-03-21 07:27 UTC</span>
+      </div>
+      <p class='topic-summary'>Julie Waller, who heads up the charity, says donations have helped more than 2,000 families.</p>
     </article>
     
     </section>
