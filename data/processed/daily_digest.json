@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-21T20:35:36.550945+00:00",
+  "generated_at_utc": "2026-03-21T20:41:08.216870+00:00",
   "summary": {
     "total_raw_items": 106,
     "total_deduped_items": 97,
@@ -8,15 +8,15 @@
     "topic_mix": {
       "technology": [
         "ai",
-        "platforms"
+        "regulation"
       ],
       "politics": [
         "security",
-        "election"
+        "us_china"
       ],
       "economy": [
         "rates",
-        "energy"
+        "inflation"
       ]
     },
     "multi_source_selected_count": 0
@@ -48,6 +48,7 @@
           ],
           "analysis": "核心角力在於誰能掌握模型能力、算力資源與商業應用場景，同時控制成本與政策風險。"
         },
+        "topic_priority_score": 9,
         "supporting_sources": [],
         "supporting_titles": [],
         "source_count": 1
@@ -55,28 +56,29 @@
       {
         "category": "technology",
         "source_name": "BBC Technology",
-        "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
-        "link": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&at_campaign=rss",
-        "summary": "Meta wants creators to \"rediscover\" Facebook, but a social media expert says viewers will not follow.",
-        "published": "Thu, 19 Mar 2026 15:33:22 GMT",
-        "updated": "Thu, 19 Mar 2026 15:33:22 GMT",
-        "published_at_utc": "2026-03-19T15:33:22+00:00",
-        "id": "https://www.bbc.com/news/articles/c895wwp3kqlo#0",
-        "topic_type": "platforms",
+        "title": "US messageboard 4Chan mocks £520,000 fine for UK online safety breaches",
+        "link": "https://www.bbc.com/news/articles/c624330lg1ko?at_medium=RSS&at_campaign=rss",
+        "summary": "The fine includes £450,000 for lack of age checks to prevent children from seeing pornography.",
+        "published": "Thu, 19 Mar 2026 12:13:04 GMT",
+        "updated": "Thu, 19 Mar 2026 12:13:04 GMT",
+        "published_at_utc": "2026-03-19T12:13:04+00:00",
+        "id": "https://www.bbc.com/news/articles/c624330lg1ko#0",
+        "topic_type": "regulation",
         "relevance_score": 11,
         "briefing": {
-          "news_focus": "Meta wants creators to \"rediscover\" Facebook, but a social media expert says viewers will not follow.",
-          "news_focus_zh": "Meta wants creators to \"rediscover\" Facebook, but a social media expert says viewers will not follow.",
-          "background": "平台與大型科技公司的新聞，通常反映用戶流量、廣告收入、內容治理與生態系競爭。",
+          "news_focus": "The fine includes £450,000 for lack of age checks to prevent children from seeing pornography.",
+          "news_focus_zh": "The fine includes £450,000 for lack of age checks to prevent children from seeing pornography.",
+          "background": "科技監管議題通常圍繞反壟斷、資料治理、內容責任與跨境規則。",
           "stakeholders": [
-            "平台公司",
-            "廣告主",
-            "內容創作者",
+            "科技公司",
             "監管機構",
-            "使用者"
+            "消費者",
+            "競爭對手",
+            "政策制定者"
           ],
-          "analysis": "核心角力在於流量分配、商業模式穩定性，以及平台治理與市場支配力之間的平衡。"
+          "analysis": "主要角力在於創新自由、市場支配力限制，以及公共風險治理。"
         },
+        "topic_priority_score": 8,
         "supporting_sources": [],
         "supporting_titles": [],
         "source_count": 1
@@ -108,6 +110,7 @@
           ],
           "analysis": "主要角力在於軍事升高風險、外交降溫空間與國際成本分攤。"
         },
+        "topic_priority_score": 10,
         "supporting_sources": [],
         "supporting_titles": [],
         "source_count": 1
@@ -115,28 +118,29 @@
       {
         "category": "politics",
         "source_name": "BBC World",
-        "title": "Socialists battle to hold Paris in key mayoral elections across France",
-        "link": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss",
-        "summary": "Emmanuel Grégoire is facing a challenge from Rachida Dati on the right who is behind in the opinion polls.",
-        "published": "Sat, 21 Mar 2026 01:03:36 GMT",
-        "updated": "Sat, 21 Mar 2026 01:03:36 GMT",
-        "published_at_utc": "2026-03-21T01:03:36+00:00",
-        "id": "https://www.bbc.com/news/articles/c87wgw27201o#1",
-        "topic_type": "election",
-        "relevance_score": 13,
+        "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
+        "link": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
+        "summary": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
+        "published": "Fri, 20 Mar 2026 22:34:05 GMT",
+        "updated": "Fri, 20 Mar 2026 22:34:05 GMT",
+        "published_at_utc": "2026-03-20T22:34:05+00:00",
+        "id": "https://www.bbc.com/news/articles/cddq7j48p35o#0",
+        "topic_type": "us_china",
+        "relevance_score": 11,
         "briefing": {
-          "news_focus": "Emmanuel Grégoire is facing a challenge from Rachida Dati on the right who is behind in the opinion polls.",
-          "news_focus_zh": "Emmanuel Grégoire is facing a challenge from Rachida Dati on the right who is behind in the opinion polls.",
-          "background": "選舉新聞通常反映政策方向、民意結構與權力重新分配的可能性。",
+          "news_focus": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
+          "news_focus_zh": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
+          "background": "美中相關議題通常同時涉及戰略競爭、貿易規則、科技限制與區域安全。",
           "stakeholders": [
-            "執政黨",
-            "反對黨",
-            "選民",
-            "媒體",
-            "市場"
+            "美國政府",
+            "中國政府",
+            "盟友國家",
+            "跨國企業",
+            "金融市場"
           ],
-          "analysis": "核心角力在於議題設定能力、民意動員與選後政策可執行性。"
+          "analysis": "核心角力在於經濟互賴與戰略脫鉤之間如何重新劃界。"
         },
+        "topic_priority_score": 9,
         "supporting_sources": [],
         "supporting_titles": [],
         "source_count": 1
@@ -168,6 +172,7 @@
           ],
           "analysis": "核心角力在於壓抑通膨、維持經濟活動與控制金融市場波動。"
         },
+        "topic_priority_score": 10,
         "supporting_sources": [],
         "supporting_titles": [],
         "source_count": 1
@@ -175,28 +180,29 @@
       {
         "category": "economy",
         "source_name": "BBC Business",
-        "title": "US lifts sanctions on some Iranian oil as energy prices soar",
-        "link": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
-        "summary": "The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets.",
-        "published": "Sat, 21 Mar 2026 12:15:20 GMT",
-        "updated": "Sat, 21 Mar 2026 12:15:20 GMT",
-        "published_at_utc": "2026-03-21T12:15:20+00:00",
-        "id": "https://www.bbc.com/news/articles/c9d415g55nno#1",
-        "topic_type": "energy",
-        "relevance_score": 13,
+        "title": "A small US grocer is calling out the lower prices at big chains",
+        "link": "https://www.bbc.com/news/articles/cr57g1ddqmdo?at_medium=RSS&at_campaign=rss",
+        "summary": "It is 'impossible for us to compete', says the boss of a New York grocery store.",
+        "published": "Thu, 12 Mar 2026 00:02:54 GMT",
+        "updated": "Thu, 12 Mar 2026 00:02:54 GMT",
+        "published_at_utc": "2026-03-12T00:02:54+00:00",
+        "id": "https://www.bbc.com/news/articles/cr57g1ddqmdo#2",
+        "topic_type": "inflation",
+        "relevance_score": 11,
         "briefing": {
-          "news_focus": "The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets.",
-          "news_focus_zh": "The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets.",
-          "background": "能源議題通常影響通膨、供應安全、地緣政治與企業成本。",
+          "news_focus": "It is 'impossible for us to compete', says the boss of a New York grocery store.",
+          "news_focus_zh": "It is 'impossible for us to compete', says the boss of a New York grocery store.",
+          "background": "通膨新聞通常反映價格壓力、需求強弱、供應鏈變化與政策回應。",
           "stakeholders": [
-            "產油國",
-            "能源企業",
-            "進口國政府",
-            "消費者",
-            "市場"
+            "央行",
+            "家庭",
+            "企業",
+            "零售商",
+            "投資人"
           ],
-          "analysis": "主要角力在於供應控制、價格穩定與地緣政治風險管理。"
+          "analysis": "主要角力在於成本轉嫁能力、實質購買力與政策調整節奏。"
         },
+        "topic_priority_score": 9,
         "supporting_sources": [],
         "supporting_titles": [],
         "source_count": 1
