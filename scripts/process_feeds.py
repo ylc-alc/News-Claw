@@ -228,6 +228,8 @@ def find_supporting_sources(primary_item, candidate_items):
     primary_source = primary_item.get("source_name", "")
     primary_title = primary_item.get("title", "")
 
+    primary_tokens = set(tokenise_title(primary_title))
+
     supporting_sources = []
     supporting_titles = []
 
@@ -240,20 +242,34 @@ def find_supporting_sources(primary_item, candidate_items):
         if item.get("category", "") != primary_category:
             continue
 
-        if item.get("topic_type", "general") != primary_topic:
-            continue
-
         candidate_source = item.get("source_name", "")
         if candidate_source == primary_source:
             continue
 
-        overlap = title_overlap_score(primary_title, item.get("title", ""))
+        candidate_topic = item.get("topic_type", "general")
+        candidate_title = item.get("title", "")
+        candidate_tokens = set(tokenise_title(candidate_title))
 
-        # 第一版採保守門檻，避免亂綁定
-        if overlap >= 0.5:
+        # topic_type 放寬：相同即可，或任一方為 general
+        topic_compatible = (
+            candidate_topic == primary_topic
+            or candidate_topic == "general"
+            or primary_topic == "general"
+        )
+
+        if not topic_compatible:
+            continue
+
+        overlap = title_overlap_score(primary_title, candidate_title)
+        shared_tokens = primary_tokens.intersection(candidate_tokens)
+
+        # 放寬規則：
+        # 1) overlap >= 0.4
+        # 或 2) 共享至少 2 個 token
+        if overlap >= 0.4 or len(shared_tokens) >= 2:
             if candidate_source not in seen_sources:
                 supporting_sources.append(candidate_source)
-                supporting_titles.append(item.get("title", ""))
+                supporting_titles.append(candidate_title)
                 seen_sources.add(candidate_source)
 
     return supporting_sources, supporting_titles
