@@ -90,6 +90,28 @@ def normalise_title(title):
     return title
 
 
+def tokenise_title(title):
+    text = normalise_title(title)
+    tokens = [t for t in text.split() if len(t) >= 3]
+    return tokens
+    
+
+def title_overlap_score(title_a, title_b):
+    tokens_a = set(tokenise_title(title_a))
+    tokens_b = set(tokenise_title(title_b))
+
+    if not tokens_a or not tokens_b:
+        return 0.0
+
+    overlap = tokens_a.intersection(tokens_b)
+    smaller_size = min(len(tokens_a), len(tokens_b))
+
+    if smaller_size == 0:
+        return 0.0
+
+    return len(overlap) / smaller_size
+
+
 def parse_datetime(value):
     if not value:
         return None
