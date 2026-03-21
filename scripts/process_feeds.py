@@ -222,6 +222,42 @@ def compute_relevance_score(category, topic_type, title, summary, source_name):
 
     return score
 
+def find_supporting_sources(primary_item, candidate_items):
+    primary_category = primary_item.get("category", "")
+    primary_topic = primary_item.get("topic_type", "general")
+    primary_source = primary_item.get("source_name", "")
+    primary_title = primary_item.get("title", "")
+
+    supporting_sources = []
+    supporting_titles = []
+
+    seen_sources = set()
+
+    for item in candidate_items:
+        if item is primary_item:
+            continue
+
+        if item.get("category", "") != primary_category:
+            continue
+
+        if item.get("topic_type", "general") != primary_topic:
+            continue
+
+        candidate_source = item.get("source_name", "")
+        if candidate_source == primary_source:
+            continue
+
+        overlap = title_overlap_score(primary_title, item.get("title", ""))
+
+        # 第一版採保守門檻，避免亂綁定
+        if overlap >= 0.5:
+            if candidate_source not in seen_sources:
+                supporting_sources.append(candidate_source)
+                supporting_titles.append(item.get("title", ""))
+                seen_sources.add(candidate_source)
+
+    return supporting_sources, supporting_titles
+
 
 def build_news_focus(title, summary):
     # 先保守處理：若有摘要則用摘要，否則用標題
@@ -437,7 +473,7 @@ def select_top_items_by_section(items):
         selected = []
 
         # 第 1 則：直接取最高分
-        first_item = section_items[0]
+        first_item = dict(section_items[0])
         selected.append(first_item)
 
         # 第 2 則：優先找不同 topic_type
@@ -446,25 +482,39 @@ def select_top_items_by_section(items):
 
         for item in section_items[1:]:
             if item.get("topic_type", "general") != first_topic:
-                second_item = item
+                second_item = dict(item)
                 break
 
         # 若找不到不同 topic_type，才退回下一則最高分
         if second_item is None and len(section_items) > 1:
-            second_item = section_items[1]
+            second_item = dict(section_items[1])
 
         if second_item is not None:
             selected.append(second_item)
 
-        sections[section] = selected[:MAX_TOPICS_PER_SECTION]
+        # 為已選項目補上多來源支撐資訊
+        enriched_selected = []
+        for selected_item in selected:
+            supporting_sources, supporting_titles = find_supporting_sources(selected_item, section_items)
+
+            selected_item["supporting_sources"] = supporting_sources
+            selected_item["supporting_titles"] = supporting_titles
+            selected_item["source_count"] = 1 + len(supporting_sources)
+
+            enriched_selected.append(selected_item)
+
+        sections[section] = enriched_selected[:MAX_TOPICS_PER_SECTION]
 
     return sections
-
+    
 
 def build_digest(raw_items, deduped_items, sections):
     topic_mix = {}
+    multi_source_count = 0
+
     for section, items in sections.items():
         topic_mix[section] = [item.get("topic_type", "general") for item in items]
+        multi_source_count += sum(1 for item in items if item.get("source_count", 1) > 1)
 
     return {
         "generated_at_utc": datetime.now(timezone.utc).isoformat(),
@@ -474,6 +524,7 @@ def build_digest(raw_items, deduped_items, sections):
             "selected_total": sum(len(v) for v in sections.values()),
             "max_topics_per_section": MAX_TOPICS_PER_SECTION,
             "topic_mix": topic_mix,
+            "multi_source_selected_count": multi_source_count,
         },
         "sections": sections,
     }
