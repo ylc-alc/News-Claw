@@ -87,9 +87,22 @@ def build_topic_card(item):
 
     supporting_sources = item.get("supporting_sources", [])
     source_count = item.get("source_count", 1)
+    cross_refs = item.get("cross_section_refs", [])
+    is_major_update = item.get("is_major_update", False)
 
     time_html = f"<span class='time-badge'>{escape_html(published_at)}</span>" if published_at else ""
     primary_source_html = f"<span class='source-badge'>{source_name}</span>"
+
+    update_badge_html = "<span class='update-badge'>重大進展</span>" if is_major_update else ""
+
+    cross_section_labels = {"technology": "科技", "politics": "政治", "economy": "經濟"}
+    cross_ref_html = ""
+    if cross_refs:
+        badges = "".join(
+            f'<a href="#section-{ref}" class="cross-section-badge">↔ {cross_section_labels.get(ref, ref)}</a>'
+            for ref in cross_refs
+        )
+        cross_ref_html = f'<div class="cross-section-row">{badges}</div>'
 
     supporting_source_html = ""
     if supporting_sources:
@@ -132,8 +145,10 @@ def build_topic_card(item):
         {primary_source_html}
         {time_html}
         {source_count_html}
+        {update_badge_html}
       </div>
 
+      {cross_ref_html}
       {supporting_source_html}
 
       <div class="briefing-block">
@@ -438,6 +453,47 @@ def page_shell(title, meta_line, intro_text, body_html):
       color: #6b7280;
       font-size: 14px;
     }}
+    .theme-of-day {{
+      background: #f0f9ff;
+      border-left: 3px solid #0ea5e9;
+      padding: 12px 16px;
+      margin-bottom: 16px;
+      border-radius: 6px;
+      color: #0c4a6e;
+      font-size: 15px;
+      line-height: 1.7;
+    }}
+    .update-badge {{
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 13px;
+      line-height: 1.4;
+      background: #fef3c7;
+      color: #92400e;
+      font-weight: 600;
+    }}
+    .cross-section-row {{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 6px 0 4px;
+    }}
+    .cross-section-badge {{
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 13px;
+      line-height: 1.4;
+      background: #fdf4ff;
+      color: #7e22ce;
+      border: 1px solid #e9d5ff;
+      text-decoration: none;
+    }}
+    .cross-section-badge:hover {{
+      background: #f3e8ff;
+      text-decoration: none;
+    }}
   </style>
 </head>
 <body>
@@ -484,9 +540,16 @@ def build_main_content(digest, archive_link):
 
     nav_html = build_quick_nav(archive_link)
 
+    theme = digest.get("theme_of_day", "")
+    theme_html = (
+        f'<div class="theme-of-day"><p>{escape_html(theme)}</p></div>'
+        if theme else ""
+    )
+
     intro_html = f"""
     <section class="summary-box">
       <h2>今日總覽</h2>
+      {theme_html}
       <p>本頁由 GitHub Actions 自動更新，整理科技、政治與經濟三大領域的代表性新聞。</p>
       <ul>
         <li>原始新聞總數：{summary.get("total_raw_items", 0)}</li>
