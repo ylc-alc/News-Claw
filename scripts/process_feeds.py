@@ -13,42 +13,6 @@ OUTPUT_FILE = PROCESSED_DIR / "daily_digest.json"
 
 TARGET_SECTIONS = ["technology", "politics", "economy"]
 MAX_TOPICS_PER_SECTION = 3
-```
-
-This matches your Custom GPT prompt's instruction of "每一部分請涵蓋兩至三則" (2 to 3 per section), and since the LLM is now doing the analysis work, the cost of one extra story per section is 3 additional API calls per day -- well within free tier limits.
-
----
-
-## Plain English Explanations
-
-**Why does adding an LLM fix the depth problem?**
-
-The old `process_feeds.py` is like having a form with pre-printed answers. It reads a news headline, looks up which box it belongs in (e.g. "tech regulation"), and pastes in a pre-written paragraph about tech regulation in general. It never actually reads the story. The new `analyse_items.py` sends the actual headline and summary to GPT-4o-mini and asks it to reason about that specific story -- which companies, which countries, which policy mechanism -- and write analysis that is specific to what happened, not a category placeholder.
-
-**Why GitHub Models and not OpenAI directly?**
-
-Every repository on GitHub already has a `GITHUB_TOKEN` injected into every Actions run automatically. GitHub Models uses that same token. You add zero new secrets, create zero new accounts, and pay nothing. The free tier allows 150 calls per day on GPT-4o-mini, and your pipeline uses at most 9 per run (3 sections times 3 stories).
-
-**Why does the new script run after selection, not before?**
-
-Running the LLM on every RSS item before selection would waste API calls on stories that get filtered out. `process_feeds.py` narrows the field to the best 9 stories first, and only then does `analyse_items.py` call the API -- once per story that actually appears on the page.
-
-**Why does the script keep running if the API fails?**
-
-The `analyse_items.py` script catches every possible error per item and falls back to the template text from `process_feeds.py`. This means a GitHub outage, a network blip, or a rate-limit hit on a given day does not break your published site. It just means that story gets a generic paragraph instead of a specific one, which is exactly what you have today.
-
-**Why were the action versions wrong?**
-
-`actions/checkout@v6` and `actions/setup-python@v6` do not exist as of early 2026. GitHub may resolve these gracefully today, but it is a fragile dependency. The corrected versions (`checkout@v4`, `setup-python@v5`) are the current stable releases and will not break on future runner updates.
-
----
-
-## Commit order
-```
-1. Add requirements.txt          (the openai package must install before anything runs)
-2. Add scripts/analyse_items.py  (the new script)
-3. Edit scripts/process_feeds.py (two surgical fixes)
-4. Replace .github/workflows/daily-news.yml
 
 TECH_KEYWORDS = {
     "ai": ["ai", "artificial intelligence", "openai", "chatgpt", "model", "llm", "nvidia", "anthropic", "gemini"],
