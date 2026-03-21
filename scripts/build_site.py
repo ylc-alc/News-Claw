@@ -77,16 +77,36 @@ def build_topic_card(item):
 
     briefing = item.get("briefing", {})
     news_focus = escape_html(
-    briefing.get("news_focus_zh")
-    or briefing.get("news_focus")
-    or item.get("summary", "")
-)
+        briefing.get("news_focus_zh")
+        or briefing.get("news_focus")
+        or item.get("summary", "")
+    )
     background = escape_html(briefing.get("background", ""))
     analysis = escape_html(briefing.get("analysis", ""))
-    stakeholders = briefing.get("stakeholders", [])
+    stakeholders = item.get("briefing", {}).get("stakeholders", [])
+
+    supporting_sources = item.get("supporting_sources", [])
+    source_count = item.get("source_count", 1)
 
     time_html = f"<span class='time-badge'>{escape_html(published_at)}</span>" if published_at else ""
-    source_html = f"<span class='source-badge'>{source_name}</span>"
+    primary_source_html = f"<span class='source-badge'>{source_name}</span>"
+
+    supporting_source_html = ""
+    if supporting_sources:
+        extra_badges = "".join(
+            f"<span class='supporting-source-badge'>{escape_html(src)}</span>"
+            for src in supporting_sources
+        )
+        supporting_source_html = f"""
+        <div class="supporting-source-row">
+          <span class="supporting-label">補充來源：</span>
+          {extra_badges}
+        </div>
+        """
+
+    source_count_html = ""
+    if source_count > 1:
+        source_count_html = f"<span class='source-count-badge'>{source_count} 個來源支撐</span>"
 
     stakeholder_html = ""
     if stakeholders:
@@ -109,9 +129,12 @@ def build_topic_card(item):
     <article class="topic-card">
       {title_html}
       <div class="meta-row">
-        {source_html}
+        {primary_source_html}
         {time_html}
+        {source_count_html}
       </div>
+
+      {supporting_source_html}
 
       <div class="briefing-block">
         <p><strong>重點新聞內容：</strong>{news_focus}</p>
@@ -261,6 +284,35 @@ def page_shell(title, meta_line, intro_text, body_html):
       background: #ecfdf5;
       color: #065f46;
     }}
+        .supporting-source-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      margin: 8px 0 4px;
+    }
+    .supporting-label {
+      font-size: 13px;
+      color: #6b7280;
+    }
+    .supporting-source-badge {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 13px;
+      line-height: 1.4;
+      background: #f3f4f6;
+      color: #374151;
+    }
+    .source-count-badge {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 13px;
+      line-height: 1.4;
+      background: #ede9fe;
+      color: #5b21b6;
+    }
     .time-badge {{
       background: #f3f4f6;
       color: #4b5563;
