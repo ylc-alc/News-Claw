@@ -16,6 +16,12 @@ SECTION_LABELS = {
     "economy": "經濟新聞",
 }
 
+SECTION_INTROS = {
+    "technology": "聚焦 AI、晶片、平台、資安與重大科技產業動向。",
+    "politics": "聚焦國際關係、政策變化、外交動態與地緣政治風險。",
+    "economy": "聚焦利率、通膨、能源、供應鏈、企業與市場重要變化。",
+}
+
 
 def load_digest():
     with open(DIGEST_FILE, "r", encoding="utf-8") as f:
@@ -42,6 +48,16 @@ def extract_archive_date(iso_string):
         return datetime.utcnow().strftime("%Y-%m-%d")
 
 
+def format_item_time(iso_string):
+    if not iso_string:
+        return ""
+    try:
+        dt = datetime.fromisoformat(iso_string.replace("Z", "+00:00"))
+        return dt.strftime("%Y-%m-%d %H:%M UTC")
+    except Exception:
+        return iso_string
+
+
 def escape_html(text):
     if not text:
         return ""
@@ -58,10 +74,11 @@ def build_topic_card(item):
     summary = escape_html(item.get("summary", ""))
     source_name = escape_html(item.get("source_name", "Unknown source"))
     link = escape_html(item.get("link", ""))
-    published_at = escape_html(item.get("published_at_utc", ""))
+    published_at = format_item_time(item.get("published_at_utc", ""))
 
-    summary_html = f"<p>{summary}</p>" if summary else "<p>暫無摘要。</p>"
-    time_html = f"<p><strong>時間：</strong>{published_at}</p>" if published_at else ""
+    summary_html = f"<p class='topic-summary'>{summary}</p>" if summary else "<p class='topic-summary'>暫無摘要。</p>"
+    time_html = f"<span class='time-badge'>{escape_html(published_at)}</span>" if published_at else ""
+    source_html = f"<span class='source-badge'>{source_name}</span>"
 
     if link:
         title_html = f'<h3><a href="{link}" target="_blank" rel="noopener noreferrer">{title}</a></h3>'
@@ -71,24 +88,31 @@ def build_topic_card(item):
     return f"""
     <article class="topic-card">
       {title_html}
+      <div class="meta-row">
+        {source_html}
+        {time_html}
+      </div>
       {summary_html}
-      <p><strong>來源：</strong>{source_name}</p>
-      {time_html}
     </article>
     """
 
 
 def build_section(section_key, items):
     label = SECTION_LABELS.get(section_key, section_key)
+    intro = SECTION_INTROS.get(section_key, "")
+    section_id = f"section-{section_key}"
 
     if not items:
         topics_html = "<p>今日暫無資料。</p>"
     else:
         topics_html = "\n".join(build_topic_card(item) for item in items)
 
+    intro_html = f"<p class='section-intro'>{escape_html(intro)}</p>" if intro else ""
+
     return f"""
-    <section class="section-block">
+    <section class="section-block" id="{section_id}">
       <h2>{label}</h2>
+      {intro_html}
       {topics_html}
     </section>
     """
@@ -117,6 +141,9 @@ def page_shell(title, meta_line, intro_text, body_html):
     h1 {{
       margin-bottom: 8px;
     }}
+    h2 {{
+      margin-top: 0;
+    }}
     .meta {{
       color: #6b7280;
       margin-bottom: 28px;
@@ -139,6 +166,56 @@ def page_shell(title, meta_line, intro_text, body_html):
     .topic-card:first-of-type {{
       border-top: none;
       padding-top: 6px;
+    }}
+    .topic-summary {{
+      margin-top: 10px;
+    }}
+    .section-intro {{
+      color: #4b5563;
+      margin-bottom: 14px;
+    }}
+    .quick-nav {{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 12px;
+    }}
+    .quick-nav a {{
+      display: inline-block;
+      padding: 8px 12px;
+      border: 1px solid #d1d5db;
+      border-radius: 999px;
+      background: #f9fafb;
+      color: #1f2937;
+      text-decoration: none;
+      font-size: 14px;
+    }}
+    .quick-nav a:hover {{
+      background: #eef2ff;
+      text-decoration: none;
+    }}
+    .meta-row {{
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+      margin: 6px 0 4px;
+    }}
+    .source-badge,
+    .time-badge {{
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 13px;
+      line-height: 1.4;
+    }}
+    .source-badge {{
+      background: #e0ecff;
+      color: #1e3a8a;
+    }}
+    .time-badge {{
+      background: #f3f4f6;
+      color: #4b5563;
     }}
     .archive-list {{
       list-style: none;
@@ -194,17 +271,26 @@ def page_shell(title, meta_line, intro_text, body_html):
 """
 
 
+def build_quick_nav(archive_link):
+    return f"""
+    <section class="nav-box">
+      <h2>導覽</h2>
+      <div class="quick-nav">
+        <a href="#section-technology">科技</a>
+        <a href="#section-politics">政治</a>
+        <a href="#section-economy">經濟</a>
+        <a href="{archive_link}">歷史簡報</a>
+      </div>
+    </section>
+    """
+
+
 def build_main_content(digest, archive_link):
     generated_at = format_generated_date(digest.get("generated_at_utc", ""))
     summary = digest.get("summary", {})
     sections = digest.get("sections", {})
 
-    nav_html = f"""
-    <section class="nav-box">
-      <h2>導覽</h2>
-      <p><a href="{archive_link}">查看歷史簡報</a></p>
-    </section>
-    """
+    nav_html = build_quick_nav(archive_link)
 
     intro_html = f"""
     <section class="summary-box">
@@ -249,7 +335,9 @@ def build_archive_page():
     body_html = f"""
     <section class="nav-box">
       <h2>導覽</h2>
-      <p><a href="./index.html">返回首頁</a></p>
+      <div class="quick-nav">
+        <a href="./index.html">返回首頁</a>
+      </div>
     </section>
 
     <section class="archive-box">
