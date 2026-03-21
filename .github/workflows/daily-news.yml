@@ -3,7 +3,7 @@ name: Daily News Pipeline
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 22 * * *"
+    - cron: "0 08 * * *"
 
 permissions:
   contents: write
