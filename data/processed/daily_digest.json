@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-21T18:00:29.417836+00:00",
+  "generated_at_utc": "2026-03-21T18:09:16.834773+00:00",
   "summary": {
     "total_raw_items": 105,
     "total_deduped_items": 96,
@@ -8,7 +8,7 @@
     "topic_mix": {
       "technology": [
         "ai",
-        "ai"
+        "platforms"
       ],
       "politics": [
         "security",
@@ -16,7 +16,7 @@
       ],
       "economy": [
         "rates",
-        "rates"
+        "energy"
       ]
     }
   },
@@ -51,27 +51,27 @@
       {
         "category": "technology",
         "source_name": "BBC Technology",
-        "title": "Luke Littler applies to trademark his face to combat AI fakes",
-        "link": "https://www.bbc.com/news/articles/c5y7374x9n4o?at_medium=RSS&at_campaign=rss",
-        "summary": "The darts star's image has been used legally on darts merchandise, snacks and fashion brands.",
-        "published": "Fri, 20 Mar 2026 16:16:30 GMT",
-        "updated": "Fri, 20 Mar 2026 16:16:30 GMT",
-        "published_at_utc": "2026-03-20T16:16:30+00:00",
-        "id": "https://www.bbc.com/news/articles/c5y7374x9n4o#0",
-        "topic_type": "ai",
+        "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
+        "link": "https://www.bbc.com/news/articles/c895wwp3kqlo?at_medium=RSS&at_campaign=rss",
+        "summary": "Meta wants creators to \"rediscover\" Facebook, but a social media expert says viewers will not follow.",
+        "published": "Thu, 19 Mar 2026 15:33:22 GMT",
+        "updated": "Thu, 19 Mar 2026 15:33:22 GMT",
+        "published_at_utc": "2026-03-19T15:33:22+00:00",
+        "id": "https://www.bbc.com/news/articles/c895wwp3kqlo#0",
+        "topic_type": "platforms",
         "relevance_score": 11,
         "briefing": {
-          "news_focus": "The darts star's image has been used legally on darts merchandise, snacks and fashion brands.",
-          "news_focus_zh": "The darts star's image has been used legally on darts merchandise, snacks and fashion brands.",
-          "background": "此議題通常涉及生成式 AI、模型能力競爭、算力供應，以及商業化與監管之間的平衡。",
+          "news_focus": "Meta wants creators to \"rediscover\" Facebook, but a social media expert says viewers will not follow.",
+          "news_focus_zh": "Meta wants creators to \"rediscover\" Facebook, but a social media expert says viewers will not follow.",
+          "background": "平台與大型科技公司的新聞，通常反映用戶流量、廣告收入、內容治理與生態系競爭。",
           "stakeholders": [
-            "科技公司",
-            "雲端平台",
-            "企業客戶",
+            "平台公司",
+            "廣告主",
+            "內容創作者",
             "監管機構",
-            "投資人"
+            "使用者"
           ],
-          "analysis": "核心角力在於誰能掌握模型能力、算力資源與商業應用場景，同時控制成本與政策風險。"
+          "analysis": "核心角力在於流量分配、商業模式穩定性，以及平台治理與市場支配力之間的平衡。"
         }
       }
     ],
@@ -159,27 +159,27 @@
       {
         "category": "economy",
         "source_name": "BBC Business",
-        "title": "UK borrowing costs hit highest level since 2008 financial crisis",
-        "link": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
-        "summary": "The interest rate on government debt is climbing over fears about inflation, interest rates, and public spending, experts have said.",
-        "published": "Fri, 20 Mar 2026 14:55:02 GMT",
-        "updated": "Fri, 20 Mar 2026 14:55:02 GMT",
-        "published_at_utc": "2026-03-20T14:55:02+00:00",
-        "id": "https://www.bbc.com/news/articles/cx23yn735jdo#0",
-        "topic_type": "rates",
-        "relevance_score": 15,
+        "title": "US lifts sanctions on some Iranian oil as energy prices soar",
+        "link": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
+        "summary": "The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets.",
+        "published": "Sat, 21 Mar 2026 12:15:20 GMT",
+        "updated": "Sat, 21 Mar 2026 12:15:20 GMT",
+        "published_at_utc": "2026-03-21T12:15:20+00:00",
+        "id": "https://www.bbc.com/news/articles/c9d415g55nno#1",
+        "topic_type": "energy",
+        "relevance_score": 13,
         "briefing": {
-          "news_focus": "The interest rate on government debt is climbing over fears about inflation, interest rates, and public spending, experts have said.",
-          "news_focus_zh": "The interest rate on government debt is climbing over fears about inflation, interest rates, and public spending, experts have said.",
-          "background": "利率相關議題通常反映央行對通膨、成長與金融穩定之間的取捨。",
+          "news_focus": "The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets.",
+          "news_focus_zh": "The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets.",
+          "background": "能源議題通常影響通膨、供應安全、地緣政治與企業成本。",
           "stakeholders": [
-            "央行",
-            "政府",
-            "借貸者",
-            "銀行",
-            "投資人"
+            "產油國",
+            "能源企業",
+            "進口國政府",
+            "消費者",
+            "市場"
           ],
-          "analysis": "核心角力在於壓抑通膨、維持經濟活動與控制金融市場波動。"
+          "analysis": "主要角力在於供應控制、價格穩定與地緣政治風險管理。"
         }
       }
     ]
