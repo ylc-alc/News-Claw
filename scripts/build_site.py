@@ -147,7 +147,39 @@ def build_topic_card(item):
     """
 
 
-def build_section(section_key, items):
+def build_further_reading_list(items):
+    if not items:
+        return ""
+
+    rows = []
+    for item in items:
+        title = escape_html(item.get("title", ""))
+        link = escape_html(item.get("link", ""))
+        source = escape_html(item.get("source_name", ""))
+
+        if link:
+            title_html = f'<a href="{link}" target="_blank" rel="noopener noreferrer">{title}</a>'
+        else:
+            title_html = title
+
+        rows.append(
+            f'<li>{title_html}'
+            f'<span class="fr-source">{source}</span>'
+            f'</li>'
+        )
+
+    rows_html = "\n".join(rows)
+    return f"""
+    <details class="further-reading-block">
+      <summary>延伸閱讀 ({len(items)} 則)</summary>
+      <ul class="further-reading-list">
+        {rows_html}
+      </ul>
+    </details>
+    """
+    
+
+def build_section(section_key, items, further_items=None):
     label = SECTION_LABELS.get(section_key, section_key)
     intro = SECTION_INTROS.get(section_key, "")
     section_id = f"section-{section_key}"
@@ -158,12 +190,14 @@ def build_section(section_key, items):
         topics_html = "\n".join(build_topic_card(item) for item in items)
 
     intro_html = f"<p class='section-intro'>{escape_html(intro)}</p>" if intro else ""
+    further_html = build_further_reading_list(further_items or [])
 
     return f"""
     <section class="section-block" id="{section_id}">
       <h2>{label}</h2>
       {intro_html}
       {topics_html}
+      {further_html}
     </section>
     """
 
@@ -313,6 +347,58 @@ def page_shell(title, meta_line, intro_text, body_html):
       background: #ede9fe;
       color: #5b21b6;
     }}
+    .further-reading-block {{
+      margin-top: 20px;
+      border-top: 1px dashed #e5e7eb;
+      padding-top: 12px;
+    }}
+    .further-reading-block summary {{
+      cursor: pointer;
+      color: #4b5563;
+      font-size: 14px;
+      font-weight: 600;
+      list-style: none;
+      padding: 4px 0;
+    }}
+    .further-reading-block summary::-webkit-details-marker {{
+      display: none;
+    }}
+    .further-reading-block summary::before {{
+      content: "▶ ";
+      font-size: 11px;
+    }}
+    details[open] .further-reading-block summary::before,
+    .further-reading-block[open] summary::before {{
+      content: "▼ ";
+      font-size: 11px;
+    }}
+    .further-reading-list {{
+      list-style: none;
+      padding-left: 0;
+      margin: 12px 0 4px;
+    }}
+    .further-reading-list li {{
+      padding: 7px 0;
+      border-top: 1px solid #f3f4f6;
+      font-size: 14px;
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 10px;
+    }}
+    .further-reading-list li:first-child {{
+      border-top: none;
+    }}
+    .further-reading-list a {{
+      color: #1f2937;
+      flex: 1;
+    }}
+    .fr-source {{
+      font-size: 12px;
+      color: #9ca3af;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }}
     .time-badge {{
       background: #f3f4f6;
       color: #4b5563;
@@ -410,8 +496,9 @@ def build_main_content(digest, archive_link):
     </section>
     """
 
+    further_reading = digest.get("further_reading", {})
     sections_html = "\n".join(
-        build_section(section, sections.get(section, []))
+        build_section(section, sections.get(section, []), further_reading.get(section, []))
         for section in ["technology", "politics", "economy"]
     )
 
