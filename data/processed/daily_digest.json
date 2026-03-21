@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-03-21T18:09:16.834773+00:00",
+  "generated_at_utc": "2026-03-21T20:32:27.280213+00:00",
   "summary": {
     "total_raw_items": 105,
     "total_deduped_items": 96,
@@ -18,7 +18,8 @@
         "rates",
         "energy"
       ]
-    }
+    },
+    "multi_source_selected_count": 0
   },
   "sections": {
     "technology": [
@@ -46,7 +47,10 @@
             "投資人"
           ],
           "analysis": "核心角力在於誰能掌握模型能力、算力資源與商業應用場景，同時控制成本與政策風險。"
-        }
+        },
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "source_count": 1
       },
       {
         "category": "technology",
@@ -72,7 +76,10 @@
             "使用者"
           ],
           "analysis": "核心角力在於流量分配、商業模式穩定性，以及平台治理與市場支配力之間的平衡。"
-        }
+        },
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "source_count": 1
       }
     ],
     "politics": [
@@ -81,16 +88,16 @@
         "source_name": "BBC World",
         "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
         "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
-        "summary": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia.",
-        "published": "Sat, 21 Mar 2026 10:34:53 GMT",
-        "updated": "Sat, 21 Mar 2026 10:34:53 GMT",
-        "published_at_utc": "2026-03-21T10:34:53+00:00",
+        "summary": "Two children, aged 11 and 15, were also injured in the attack which took place in Zaporizhzhia.",
+        "published": "Sat, 21 Mar 2026 19:39:57 GMT",
+        "updated": "Sat, 21 Mar 2026 19:39:57 GMT",
+        "published_at_utc": "2026-03-21T19:39:57+00:00",
         "id": "https://www.bbc.com/news/articles/crl18nwjzzzo#0",
         "topic_type": "security",
         "relevance_score": 13,
         "briefing": {
-          "news_focus": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia.",
-          "news_focus_zh": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia.",
+          "news_focus": "Two children, aged 11 and 15, were also injured in the attack which took place in Zaporizhzhia.",
+          "news_focus_zh": "Two children, aged 11 and 15, were also injured in the attack which took place in Zaporizhzhia.",
           "background": "安全與衝突議題通常牽涉軍事風險、外交回應、能源與市場連動效應。",
           "stakeholders": [
             "衝突各方政府",
@@ -100,7 +107,10 @@
             "民間社會"
           ],
           "analysis": "主要角力在於軍事升高風險、外交降溫空間與國際成本分攤。"
-        }
+        },
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "source_count": 1
       },
       {
         "category": "politics",
@@ -126,7 +136,10 @@
             "市場"
           ],
           "analysis": "核心角力在於議題設定能力、民意動員與選後政策可執行性。"
-        }
+        },
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "source_count": 1
       }
     ],
     "economy": [
@@ -154,7 +167,10 @@
             "投資人"
           ],
           "analysis": "核心角力在於壓抑通膨、維持經濟活動與控制金融市場波動。"
-        }
+        },
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "source_count": 1
       },
       {
         "category": "economy",
@@ -180,7 +196,10 @@
             "市場"
           ],
           "analysis": "主要角力在於供應控制、價格穩定與地緣政治風險管理。"
-        }
+        },
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "source_count": 1
       }
     ]
   }
