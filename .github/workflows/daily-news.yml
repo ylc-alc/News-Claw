@@ -42,6 +42,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/raw/*.json data/processed/*.json docs/index.html
-          git commit -m "Update news data and homepage" || echo "No changes to commit"
+          git add data/raw/*.json data/processed/*.json docs/index.html docs/archive.html docs/archive/*.html
+          git commit -m "Update news data, homepage, and archive pages" || echo "No changes to commit"
           git push
