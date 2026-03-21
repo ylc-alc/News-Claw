@@ -1,32 +1,68 @@
 {
   "technology": [
     {
-      "name": "Reuters Technology",
-      "url": "https://feeds.reuters.com/reuters/technologyNews"
-    },
-    {
       "name": "BBC Technology",
       "url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
+    },
+    {
+      "name": "The Guardian Technology",
+      "url": "https://www.theguardian.com/uk/technology/rss"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+technology&ceid=US:en&hl=en-US&gl=US"
+    },
+    {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+technology&ceid=US:en&hl=en-US&gl=US"
     }
   ],
   "politics": [
     {
-      "name": "Reuters World News",
-      "url": "https://feeds.reuters.com/Reuters/worldNews"
-    },
-    {
       "name": "BBC World",
       "url": "http://feeds.bbci.co.uk/news/world/rss.xml"
+    },
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/world/rss"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US"
+    },
+    {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+world-news&ceid=US:en&hl=en-US&gl=US"
+    },
+    {
+      "name": "Focus Taiwan (CNA)",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US"
+    },
+    {
+      "name": "Taipei Times",
+      "url": "https://www.taipeitimes.com/xml/index.rss"
     }
   ],
   "economy": [
     {
-      "name": "Reuters Business News",
-      "url": "https://feeds.reuters.com/reuters/businessNews"
-    },
-    {
       "name": "BBC Business",
       "url": "http://feeds.bbci.co.uk/news/business/rss.xml"
+    },
+    {
+      "name": "The Guardian Business",
+      "url": "https://www.theguardian.com/uk/business/rss"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+business&ceid=US:en&hl=en-US&gl=US"
+    },
+    {
+      "name": "Associated Press",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+business&ceid=US:en&hl=en-US&gl=US"
+    },
+    {
+      "name": "Focus Taiwan (CNA)",
+      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw+economy&ceid=US:en&hl=en-US&gl=US"
     }
   ]
 }
