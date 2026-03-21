@@ -142,7 +142,7 @@ def build_section(section_key, items):
 
 
 def page_shell(title, meta_line, intro_text, body_html):
-    return f"""<!DOCTYPE html>
+    template = """<!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
   <meta charset="UTF-8" />
@@ -313,6 +313,12 @@ def page_shell(title, meta_line, intro_text, body_html):
 </body>
 </html>
 """
+    return template.format(
+        title=title,
+        meta_line=meta_line,
+        intro_text=intro_text,
+        body_html=body_html,
+    )
 
 
 def build_quick_nav(archive_link):
