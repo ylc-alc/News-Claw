@@ -236,19 +236,19 @@ def page_shell(title, meta_line, intro_text, body_html):
       background: #e0ecff;
       color: #1e3a8a;
     }}
-        .briefing-block {
+        .briefing-block {{
       margin-top: 10px;
-    }
-    .briefing-block p {
+    }}
+    .briefing-block p {{
       margin: 8px 0;
-    }
-    .stakeholder-row {
+    }}
+    .stakeholder-row {{
       display: flex;
       flex-wrap: wrap;
       gap: 8px;
       margin-top: 12px;
-    }
-    .stakeholder-badge {
+    }}
+    .stakeholder-badge {{
       display: inline-block;
       padding: 4px 10px;
       border-radius: 999px;
@@ -256,6 +256,7 @@ def page_shell(title, meta_line, intro_text, body_html):
       line-height: 1.4;
       background: #ecfdf5;
       color: #065f46;
+    }}
     }.time-badge {{
       background: #f3f4f6;
       color: #4b5563;
