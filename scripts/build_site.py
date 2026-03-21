@@ -236,7 +236,7 @@ def page_shell(title, meta_line, intro_text, body_html):
       background: #e0ecff;
       color: #1e3a8a;
     }}
-        .briefing-block {{
+    .briefing-block {{
       margin-top: 10px;
     }}
     .briefing-block p {{
@@ -257,7 +257,7 @@ def page_shell(title, meta_line, intro_text, body_html):
       background: #ecfdf5;
       color: #065f46;
     }}
-    }.time-badge {{
+    .time-badge {{
       background: #f3f4f6;
       color: #4b5563;
     }}
