@@ -1,26 +1,42 @@
 {
-  "generated_at_utc": "2026-03-21T17:44:57.225854+00:00",
+  "generated_at_utc": "2026-03-21T18:00:29.417836+00:00",
   "summary": {
     "total_raw_items": 105,
     "total_deduped_items": 96,
     "selected_total": 6,
-    "max_topics_per_section": 2
+    "max_topics_per_section": 2,
+    "topic_mix": {
+      "technology": [
+        "ai",
+        "ai"
+      ],
+      "politics": [
+        "security",
+        "election"
+      ],
+      "economy": [
+        "rates",
+        "rates"
+      ]
+    }
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
         "source_name": "BBC Technology",
-        "title": "Tech Now",
-        "link": "https://www.bbc.co.uk/iplayer/episode/m002t71c?at_medium=RSS&at_campaign=rss",
-        "summary": "Alasdair Keane visits the underground insect farm turning food waste into animal feed.",
-        "published": "Sat, 21 Mar 2026 01:00:00 GMT",
-        "updated": "Sat, 21 Mar 2026 01:00:00 GMT",
-        "published_at_utc": "2026-03-21T01:00:00+00:00",
-        "id": "https://www.bbc.co.uk/iplayer/episode/m002t71c#4",
+        "title": "Ad for AI editing app which said it could 'remove anything' banned",
+        "link": "https://www.bbc.com/news/articles/cx2g8888q53o?at_medium=RSS&at_campaign=rss",
+        "summary": "The UK regulator said the ad condoned \"digitally altering and exposing women's bodies without their consent.\"",
+        "published": "Wed, 18 Mar 2026 00:00:09 GMT",
+        "updated": "Wed, 18 Mar 2026 00:00:09 GMT",
+        "published_at_utc": "2026-03-18T00:00:09+00:00",
+        "id": "https://www.bbc.com/news/articles/cx2g8888q53o#1",
         "topic_type": "ai",
+        "relevance_score": 13,
         "briefing": {
-          "news_focus": "Alasdair Keane visits the underground insect farm turning food waste into animal feed.",
+          "news_focus": "The UK regulator said the ad condoned \"digitally altering and exposing women's bodies without their consent.\"",
+          "news_focus_zh": "The UK regulator said the ad condoned \"digitally altering and exposing women's bodies without their consent.\"",
           "background": "此議題通常涉及生成式 AI、模型能力競爭、算力供應，以及商業化與監管之間的平衡。",
           "stakeholders": [
             "科技公司",
@@ -35,24 +51,27 @@
       {
         "category": "technology",
         "source_name": "BBC Technology",
-        "title": "Hargreaves Lansdown says IT issues which affected thousands are over",
-        "link": "https://www.bbc.com/news/articles/cx2reyjdyjzo?at_medium=RSS&at_campaign=rss",
-        "summary": "The finance firm has apologised for the disruption to its website and app, which has angered many customers.",
-        "published": "Fri, 20 Mar 2026 17:44:22 GMT",
-        "updated": "Fri, 20 Mar 2026 17:44:22 GMT",
-        "published_at_utc": "2026-03-20T17:44:22+00:00",
-        "id": "https://www.bbc.com/news/articles/cx2reyjdyjzo#0",
-        "topic_type": "general",
+        "title": "Luke Littler applies to trademark his face to combat AI fakes",
+        "link": "https://www.bbc.com/news/articles/c5y7374x9n4o?at_medium=RSS&at_campaign=rss",
+        "summary": "The darts star's image has been used legally on darts merchandise, snacks and fashion brands.",
+        "published": "Fri, 20 Mar 2026 16:16:30 GMT",
+        "updated": "Fri, 20 Mar 2026 16:16:30 GMT",
+        "published_at_utc": "2026-03-20T16:16:30+00:00",
+        "id": "https://www.bbc.com/news/articles/c5y7374x9n4o#0",
+        "topic_type": "ai",
+        "relevance_score": 11,
         "briefing": {
-          "news_focus": "The finance firm has apologised for the disruption to its website and app, which has angered many customers.",
-          "background": "此議題反映科技產業近期的重要動向，通常涉及商業競爭、產品策略與政策環境。",
+          "news_focus": "The darts star's image has been used legally on darts merchandise, snacks and fashion brands.",
+          "news_focus_zh": "The darts star's image has been used legally on darts merchandise, snacks and fashion brands.",
+          "background": "此議題通常涉及生成式 AI、模型能力競爭、算力供應，以及商業化與監管之間的平衡。",
           "stakeholders": [
             "科技公司",
+            "雲端平台",
+            "企業客戶",
             "監管機構",
-            "用戶",
             "投資人"
           ],
-          "analysis": "核心角力通常在於技術節奏、商業模式與市場預期的重新調整。"
+          "analysis": "核心角力在於誰能掌握模型能力、算力資源與商業應用場景，同時控制成本與政策風險。"
         }
       }
     ],
@@ -60,16 +79,18 @@
       {
         "category": "politics",
         "source_name": "BBC World",
-        "title": "Pentagon restrictions on press violate First Amendment, judge rules",
-        "link": "https://www.bbc.com/news/articles/cwy3961xdr8o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Department of Defense had required reporters to agree to certain rules on what information they could gather in order to maintain access to the Pentagon.",
-        "published": "Sat, 21 Mar 2026 16:11:58 GMT",
-        "updated": "Sat, 21 Mar 2026 16:11:58 GMT",
-        "published_at_utc": "2026-03-21T16:11:58+00:00",
-        "id": "https://www.bbc.com/news/articles/cwy3961xdr8o#0",
+        "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
+        "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
+        "summary": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia.",
+        "published": "Sat, 21 Mar 2026 10:34:53 GMT",
+        "updated": "Sat, 21 Mar 2026 10:34:53 GMT",
+        "published_at_utc": "2026-03-21T10:34:53+00:00",
+        "id": "https://www.bbc.com/news/articles/crl18nwjzzzo#0",
         "topic_type": "security",
+        "relevance_score": 13,
         "briefing": {
-          "news_focus": "The Department of Defense had required reporters to agree to certain rules on what information they could gather in order to maintain access to the Pentagon.",
+          "news_focus": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia.",
+          "news_focus_zh": "Two children, aged 11 and 15 were also injured in the attack which took place in Zaporizhzhia.",
           "background": "安全與衝突議題通常牽涉軍事風險、外交回應、能源與市場連動效應。",
           "stakeholders": [
             "衝突各方政府",
@@ -84,25 +105,27 @@
       {
         "category": "politics",
         "source_name": "BBC World",
-        "title": "Thousands evacuated as Hawaii faces worst flooding in 20 years",
-        "link": "https://www.bbc.com/news/articles/c20qj970gwro?at_medium=RSS&at_campaign=rss",
-        "summary": "More than 230 people have been rescued so far, the authorities said on Friday.",
-        "published": "Sat, 21 Mar 2026 16:09:50 GMT",
-        "updated": "Sat, 21 Mar 2026 16:09:50 GMT",
-        "published_at_utc": "2026-03-21T16:09:50+00:00",
-        "id": "https://www.bbc.com/news/articles/c20qj970gwro#0",
-        "topic_type": "us_china",
+        "title": "Socialists battle to hold Paris in key mayoral elections across France",
+        "link": "https://www.bbc.com/news/articles/c87wgw27201o?at_medium=RSS&at_campaign=rss",
+        "summary": "Emmanuel Grégoire is facing a challenge from Rachida Dati on the right who is behind in the opinion polls.",
+        "published": "Sat, 21 Mar 2026 01:03:36 GMT",
+        "updated": "Sat, 21 Mar 2026 01:03:36 GMT",
+        "published_at_utc": "2026-03-21T01:03:36+00:00",
+        "id": "https://www.bbc.com/news/articles/c87wgw27201o#0",
+        "topic_type": "election",
+        "relevance_score": 13,
         "briefing": {
-          "news_focus": "More than 230 people have been rescued so far, the authorities said on Friday.",
-          "background": "美中相關議題通常同時涉及戰略競爭、貿易規則、科技限制與區域安全。",
+          "news_focus": "Emmanuel Grégoire is facing a challenge from Rachida Dati on the right who is behind in the opinion polls.",
+          "news_focus_zh": "Emmanuel Grégoire is facing a challenge from Rachida Dati on the right who is behind in the opinion polls.",
+          "background": "選舉新聞通常反映政策方向、民意結構與權力重新分配的可能性。",
           "stakeholders": [
-            "美國政府",
-            "中國政府",
-            "盟友國家",
-            "跨國企業",
-            "金融市場"
+            "執政黨",
+            "反對黨",
+            "選民",
+            "媒體",
+            "市場"
           ],
-          "analysis": "核心角力在於經濟互賴與戰略脫鉤之間如何重新劃界。"
+          "analysis": "核心角力在於議題設定能力、民意動員與選後政策可執行性。"
         }
       }
     ],
@@ -110,49 +133,53 @@
       {
         "category": "economy",
         "source_name": "BBC Business",
-        "title": "US lifts sanctions on some Iranian oil as energy prices soar",
-        "link": "https://www.bbc.com/news/articles/c9d415g55nno?at_medium=RSS&at_campaign=rss",
-        "summary": "The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets.",
-        "published": "Sat, 21 Mar 2026 12:15:20 GMT",
-        "updated": "Sat, 21 Mar 2026 12:15:20 GMT",
-        "published_at_utc": "2026-03-21T12:15:20+00:00",
-        "id": "https://www.bbc.com/news/articles/c9d415g55nno#1",
-        "topic_type": "inflation",
+        "title": "US holds interest rates as Iran war triggers inflation fears",
+        "link": "https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US central bank is moving cautiously, despite pressure from the president to cut interest rates.",
+        "published": "Wed, 18 Mar 2026 20:20:24 GMT",
+        "updated": "Wed, 18 Mar 2026 20:20:24 GMT",
+        "published_at_utc": "2026-03-18T20:20:24+00:00",
+        "id": "https://www.bbc.com/news/articles/c36364d06x3o#1",
+        "topic_type": "rates",
+        "relevance_score": 17,
         "briefing": {
-          "news_focus": "The treasury secretary says the move will quickly bring about 140m barrels of oil to global markets.",
-          "background": "通膨新聞通常反映價格壓力、需求強弱、供應鏈變化與政策回應。",
+          "news_focus": "The US central bank is moving cautiously, despite pressure from the president to cut interest rates.",
+          "news_focus_zh": "The US central bank is moving cautiously, despite pressure from the president to cut interest rates.",
+          "background": "利率相關議題通常反映央行對通膨、成長與金融穩定之間的取捨。",
           "stakeholders": [
             "央行",
-            "家庭",
-            "企業",
-            "零售商",
+            "政府",
+            "借貸者",
+            "銀行",
             "投資人"
           ],
-          "analysis": "主要角力在於成本轉嫁能力、實質購買力與政策調整節奏。"
+          "analysis": "核心角力在於壓抑通膨、維持經濟活動與控制金融市場波動。"
         }
       },
       {
         "category": "economy",
         "source_name": "BBC Business",
-        "title": "Comic Relief helps fund free school uniform charity",
-        "link": "https://www.bbc.com/news/articles/cdrmle57mm8o?at_medium=RSS&at_campaign=rss",
-        "summary": "Julie Waller, who heads up the charity, says donations have helped more than 2,000 families.",
-        "published": "Sat, 21 Mar 2026 07:27:01 GMT",
-        "updated": "Sat, 21 Mar 2026 07:27:01 GMT",
-        "published_at_utc": "2026-03-21T07:27:01+00:00",
-        "id": "https://www.bbc.com/news/articles/cdrmle57mm8o#4",
-        "topic_type": "general",
+        "title": "UK borrowing costs hit highest level since 2008 financial crisis",
+        "link": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
+        "summary": "The interest rate on government debt is climbing over fears about inflation, interest rates, and public spending, experts have said.",
+        "published": "Fri, 20 Mar 2026 14:55:02 GMT",
+        "updated": "Fri, 20 Mar 2026 14:55:02 GMT",
+        "published_at_utc": "2026-03-20T14:55:02+00:00",
+        "id": "https://www.bbc.com/news/articles/cx23yn735jdo#0",
+        "topic_type": "rates",
+        "relevance_score": 15,
         "briefing": {
-          "news_focus": "Julie Waller, who heads up the charity, says donations have helped more than 2,000 families.",
-          "background": "此議題反映總體經濟或市場的重要變化，通常與政策預期與風險偏好有關。",
+          "news_focus": "The interest rate on government debt is climbing over fears about inflation, interest rates, and public spending, experts have said.",
+          "news_focus_zh": "The interest rate on government debt is climbing over fears about inflation, interest rates, and public spending, experts have said.",
+          "background": "利率相關議題通常反映央行對通膨、成長與金融穩定之間的取捨。",
           "stakeholders": [
-            "政府",
             "央行",
-            "企業",
-            "投資人",
-            "消費者"
+            "政府",
+            "借貸者",
+            "銀行",
+            "投資人"
           ],
-          "analysis": "主要角力在於成長、價格穩定與市場信心之間的平衡。"
+          "analysis": "核心角力在於壓抑通膨、維持經濟活動與控制金融市場波動。"
         }
       }
     ]
