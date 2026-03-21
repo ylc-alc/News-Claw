@@ -1,58 +1,65 @@
 {
-  "generated_at_utc": "2026-03-21T21:46:07.000266+00:00",
+  "generated_at_utc": "2026-03-21T22:20:16.128073+00:00",
   "summary": {
-    "total_raw_items": 106,
-    "total_deduped_items": 97,
-    "selected_total": 6,
+    "total_raw_items": 263,
+    "total_deduped_items": 254,
+    "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
         "ai",
-        "regulation"
+        "regulation",
+        "platforms"
       ],
       "politics": [
         "security",
-        "us_china"
+        "us_china",
+        "uk"
       ],
       "economy": [
         "rates",
-        "inflation"
+        "inflation",
+        "energy"
       ]
     },
-    "multi_source_selected_count": 0
+    "multi_source_selected_count": 5
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "BBC Technology",
-        "title": "Ad for AI editing app which said it could 'remove anything' banned",
-        "link": "https://www.bbc.com/news/articles/cx2g8888q53o?at_medium=RSS&at_campaign=rss",
-        "summary": "The UK regulator said the ad condoned \"digitally altering and exposing women's bodies without their consent.\"",
-        "published": "Wed, 18 Mar 2026 00:00:09 GMT",
-        "updated": "Wed, 18 Mar 2026 00:00:09 GMT",
-        "published_at_utc": "2026-03-18T00:00:09+00:00",
-        "id": "https://www.bbc.com/news/articles/cx2g8888q53o#1",
+        "source_name": "The Guardian Technology",
+        "title": "Thousands of people are selling their identities to train AI – but at what cost?",
+        "link": "https://www.theguardian.com/technology/2026/mar/21/ai-trainers-identity-cost",
+        "summary": "Gig AI trainers worldwide are selling moments of their lives, including calls and texts, to AI companies for quick cash One morning last year, Jacobus Louw set out on his daily neighborhood walk to feed the seagulls he finds along the way. Except this time, he recorded several videos of his feet and the view as he walked on the pavement. The video earned him $14, about 10 times the country’s minimum wage, or for Louw, a 27-year-old based in Cape Town, South Africa, half a week’s worth of groceries. The video was for an “Urban Navigation” task Louw found on Kled AI, an app that pays contributors for uploading their data, such as videos and photos, to train artificial intelligence models. In a couple of weeks, Louw made $50 by uploading pictures and videos of his everyday life. Continue reading...",
+        "published": "Sat, 21 Mar 2026 14:00:54 GMT",
+        "updated": "2026-03-21T14:00:54Z",
+        "published_at_utc": "2026-03-21T14:00:54+00:00",
+        "id": "https://www.theguardian.com/technology/2026/mar/21/ai-trainers-identity-cost",
         "topic_type": "ai",
         "relevance_score": 13,
         "briefing": {
-          "news_focus": "The UK regulator said the ad condoned \"digitally altering and exposing women's bodies without their consent.\"",
-          "news_focus_zh": "英國監管機構禁止了一則宣稱能夠「移除任何東西」的AI編輯應用廣告，因為該廣告被指控在未經女性同意的情況下，鼓勵數位篡改和暴露女性身體。",
-          "background": "隨著AI技術的快速發展，數位編輯工具的使用越來越普遍，尤其是在社交媒體上。然而，這些技術的濫用可能導致對個人隱私和尊嚴的侵犯。英國的廣告標準管理局（ASA）對於涉及性別和身體形象的廣告持有嚴格的監管政策，旨在保護消費者免受不當影響，特別是在性別平等和女性權益方面。",
+          "news_focus": "Gig AI trainers worldwide are selling moments of their lives, including calls and texts, to AI companies for quick cash One morning last year, Jacobus Louw set out on his daily neighborhood walk to feed the seagulls he finds along the way. Except this time, he recorded several videos of his feet and the view as he walked on the pavement. The video earned him $14, about 10 times the country’s minimum wage, or for Louw, a 27-year-old based in Cape Town, South Africa, half a week’s worth of groceries. The video was for an “Urban Navigation” task Louw found on Kled AI, an app that pays contributors for uploading their data, such as videos and photos, to train artificial intelligence models. In a couple of weeks, Louw made $50 by uploading pictures and videos of his everyday life. Continue reading...",
+          "news_focus_zh": "全球數千人透過出售個人生活片段來賺取快錢，以協助訓練人工智慧（AI）模型，這一現象引發了對個人隱私與數據價值的深刻思考。",
+          "background": "隨著AI技術的迅速發展，對於訓練數據的需求日益增加，促使一些平台出現，讓用戶能夠出售自己的生活片段以獲取報酬。這種模式在發展中國家尤為流行，因為它提供了額外的收入來源，尤其是在經濟困境中。然而，這也引發了對於數據隱私和個人身份安全的擔憂，因為參與者可能未充分理解其數據的長期影響。",
           "stakeholders": [
-            "英國監管機構",
-            "AI技術開發者",
-            "女性權益組織",
-            "廣告商",
-            "消費者"
+            "AI公司",
+            "數據提供者",
+            "政府監管機構",
+            "消費者保護組織",
+            "社會公眾"
           ],
-          "analysis": "這則新聞突顯了科技公司在推廣新技術時需考慮的倫理責任。廣告的禁令反映了對女性權益的重視，並可能促使其他科技公司在市場推廣中更加謹慎。對於AI編輯應用的開發者而言，這一事件可能促使他們重新評估其產品的使用方式及其社會影響，並可能引發更廣泛的討論關於數位內容的道德界限。"
+          "analysis": "這一現象涉及多方利益關係。對於參與者而言，這是一種快速獲利的方式，尤其是在經濟困難的環境中。然而，AI公司則受益於大量的數據來提升其技術，可能忽視了參與者的隱私權益。政府和監管機構面臨挑戰，需平衡創新與保護個人數據之間的矛盾。未來，若無適當的法律框架，這種數據交易可能會導致更嚴重的隱私問題。"
         },
         "topic_priority_score": 9,
         "event_type": "regulation_action",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "source_count": 1
+        "supporting_sources": [
+          "BBC Technology"
+        ],
+        "supporting_titles": [
+          "Hargreaves Lansdown says IT issues which affected thousands are over"
+        ],
+        "source_count": 2
       },
       {
         "category": "technology",
@@ -68,18 +75,49 @@
         "relevance_score": 11,
         "briefing": {
           "news_focus": "The fine includes £450,000 for lack of age checks to prevent children from seeing pornography.",
-          "news_focus_zh": "美國論壇4Chan對英國因未能執行年齡檢查而被罰52萬英鎊的事件表示嘲諷，該罰款中包括45萬英鎊專門針對未能防止兒童接觸色情內容的缺失。",
-          "background": "英國政府在推動網絡安全法案的背景下，強調保護兒童免受不當內容影響的重要性。此法案要求在線平台實施年齡檢查，以確保未成年人無法接觸色情內容。4Chan作為一個知名的社交平台，因其內容管理不善而受到監管機構的關注，這次罰款反映了英國對網絡安全的重視及其執法力度的增強。",
+          "news_focus_zh": "美國論壇4Chan對英國因未能執行年齡檢查而被罰款52萬英鎊的事件表示嘲諷，其中45萬英鎊是因未能防止兒童接觸色情內容而處罰的金額。",
+          "background": "英國政府在推動網絡安全法案，旨在加強對兒童的保護，特別是在網絡內容方面。該法案要求網站必須實施有效的年齡檢查，以防止未成年人接觸不當內容。4Chan作為一個知名的匿名論壇，因其內容的自由度和爭議性，常常成為網絡安全討論的焦點。此事件突顯了不同國家在網絡監管上的立場差異。",
           "stakeholders": [
             "英國政府",
             "4Chan",
             "兒童保護組織",
-            "在線平台",
-            "網絡使用者"
+            "網絡用戶",
+            "社交媒體平台"
           ],
-          "analysis": "4Chan的嘲諷反映了其對監管措施的不屑，可能會引發其他平台對類似規範的反彈。對於英國政府而言，這一罰款是強化網絡安全政策的信號，然而，如何有效執行這些規範仍然是一大挑戰。若其他平台也面臨類似處罰，可能會導致行業內部對於合規成本的重新評估，並影響其業務模式。"
+          "analysis": "4Chan的嘲諷反映了對於網絡監管措施的抵制，尤其是在美國與英國之間對於網絡自由與安全的不同看法。英國政府強調保護兒童的必要性，而4Chan則可能視此為對言論自由的侵犯。此事件可能引發更廣泛的討論，關於如何平衡網絡安全與用戶自由，未來可能促使更多平台重新評估其內容管理政策。"
         },
         "topic_priority_score": 8,
+        "event_type": "regulation_action",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "The Guardian Technology",
+        "title": "Fire experts ‘kept awake’ over growing hazard of lithium-ion batteries",
+        "link": "https://www.theguardian.com/technology/2026/mar/20/fire-experts-losing-sleep-over-growing-hazard-of-lithium-ion-batteries",
+        "summary": "Fire service warns ubiquity of batteries in everyday products is outpacing public understanding and safety regulations Lithium-ion batteries represent a new technological hazard that one fire science expert has said keeps him awake at night, as fire service chiefs warn the ubiquity of the batteries in everyday products is outpacing public understanding and safety regulations. The blaze that devastated a historic building in Glasgow and resulted in the closure of Central Station , Scotland’s largest rail interchange, is believed to have started in a shop selling vapes, which are powered by lithium-ion batteries. Glasgow’s Central Station has since reopened. Continue reading...",
+        "published": "Fri, 20 Mar 2026 11:11:50 GMT",
+        "updated": "2026-03-20T11:11:50Z",
+        "published_at_utc": "2026-03-20T11:11:50+00:00",
+        "id": "https://www.theguardian.com/technology/2026/mar/20/fire-experts-losing-sleep-over-growing-hazard-of-lithium-ion-batteries",
+        "topic_type": "platforms",
+        "relevance_score": 11,
+        "briefing": {
+          "news_focus": "Fire service warns ubiquity of batteries in everyday products is outpacing public understanding and safety regulations Lithium-ion batteries represent a new technological hazard that one fire science expert has said keeps him awake at night, as fire service chiefs warn the ubiquity of the batteries in everyday products is outpacing public understanding and safety regulations. The blaze that devastated a historic building in Glasgow and resulted in the closure of Central Station , Scotland’s largest rail interchange, is believed to have started in a shop selling vapes, which are powered by lithium-ion batteries. Glasgow’s Central Station has since reopened. Continue reading...",
+          "news_focus_zh": "隨著鋰離子電池在日常產品中的普及，消防專家警告其潛在火災危險超過了公眾的理解與安全規範。最近在格拉斯哥發生的火災事件被認為與鋰離子電池有關，進一步引發了對這一技術危害的關注。",
+          "background": "鋰離子電池因其高能量密度和可重複充電的特性，廣泛應用於各類電子產品中。然而，隨著市場需求的增加，對其安全性與管理的關注卻未能同步提升。消防部門指出，許多消費者對鋰離子電池的潛在危險缺乏足夠認識，這使得相關的安全規範滯後於技術的發展。",
+          "stakeholders": [
+            "消防部門",
+            "鋰離子電池製造商",
+            "消費者",
+            "政府監管機構",
+            "電子產品零售商"
+          ],
+          "analysis": "此事件突顯了科技進步與公共安全之間的矛盾。消防專家擔心，若不加強對鋰離子電池的安全教育與監管，未來可能會出現更多火災事故。製造商與監管機構面臨壓力，需加快制定相應的安全標準與使用指導，而消費者則需提高對產品安全性的認識。若不解決這些問題，可能會導致更嚴重的公共安全危機。"
+        },
+        "topic_priority_score": 7,
         "event_type": "regulation_action",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -89,62 +127,97 @@
     "politics": [
       {
         "category": "politics",
-        "source_name": "BBC World",
-        "title": "Trump threatens to send ICE into airports unless funding deal reached",
-        "link": "https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&at_campaign=rss",
-        "summary": "The president said ICE would \"do security\" as airport security staff have gone without pay for weeks due to a partial government shutdown.",
-        "published": "Sat, 21 Mar 2026 20:22:10 GMT",
-        "updated": "Sat, 21 Mar 2026 20:22:10 GMT",
-        "published_at_utc": "2026-03-21T20:22:10+00:00",
-        "id": "https://www.bbc.com/news/articles/c3ex9nq2qywo#0",
+        "source_name": "The Guardian World",
+        "title": "Trump threatens to send ICE to airports on Monday amid DHS funding standoff",
+        "link": "https://www.theguardian.com/us-news/2026/mar/21/trump-threatens-to-send-ice-agents-to-airports-unless-dhs-deal-reached",
+        "summary": "President attacks ‘Radical Left Democrats’ after homeland security funding bill again sinks in Senate Sign up for the Breaking News US email to get newsletter alerts in your inbox Donald Trump threatened on Saturday to deploy federal immigration agents to US airports on Monday if Democrats do not agree to measures aimed at strengthening security and immigration enforcement. “If the Radical Left Democrats don’t immediately sign an agreement to let our Country, in particular, our Airports, be FREE and SAFE again, I will move our brilliant and patriotic ICE Agents to the Airports,” Trump said in a Truth Social post. Continue reading...",
+        "published": "Sat, 21 Mar 2026 18:11:06 GMT",
+        "updated": "2026-03-21T18:11:06Z",
+        "published_at_utc": "2026-03-21T18:11:06+00:00",
+        "id": "https://www.theguardian.com/us-news/2026/mar/21/trump-threatens-to-send-ice-agents-to-airports-unless-dhs-deal-reached",
         "topic_type": "security",
-        "relevance_score": 13,
+        "relevance_score": 15,
         "briefing": {
-          "news_focus": "The president said ICE would \"do security\" as airport security staff have gone without pay for weeks due to a partial government shutdown.",
-          "news_focus_zh": "特朗普威脅若未達成資金協議，將派遣移民和海關執法局（ICE）進入機場執行安全任務，因為機場安檢人員因政府部分關閉而未獲支付。",
-          "background": "美國政府的部分關閉已持續數週，導致許多聯邦員工，包括機場安檢人員，未能按時領薪。特朗普政府面臨的資金爭議主要圍繞邊界安全與移民政策，特別是對於美墨邊界的圍牆建設。這一情況使得政府運作受到影響，並引發了對公共安全的擔憂。",
+          "news_focus": "President attacks ‘Radical Left Democrats’ after homeland security funding bill again sinks in Senate Sign up for the Breaking News US email to get newsletter alerts in your inbox Donald Trump threatened on Saturday to deploy federal immigration agents to US airports on Monday if Democrats do not agree to measures aimed at strengthening security and immigration enforcement. “If the Radical Left Democrats don’t immediately sign an agreement to let our Country, in particular, our Airports, be FREE and SAFE again, I will move our brilliant and patriotic ICE Agents to the Airports,” Trump said in a Truth Social post. Continue reading...",
+          "news_focus_zh": "特朗普威脅若民主黨不支持國土安全資金法案，將於週一派遣移民執法局（ICE）人員至美國機場，強調加強安全與移民執法的重要性。",
+          "background": "目前美國國土安全部（DHS）的資金法案在參議院遭遇困境，這反映出民主黨與共和黨之間在移民政策上的深刻分歧。特朗普的威脅不僅是對民主黨的壓力，也是其對選民強硬立場的展現。過去幾年，移民問題一直是美國政治的核心議題，尤其在特朗普任內，強化邊境安全與移民執法成為其主要政策之一。",
           "stakeholders": [
             "特朗普政府",
-            "國會",
-            "機場安檢人員",
-            "旅客",
-            "ICE"
+            "民主黨",
+            "國土安全部",
+            "移民權益團體",
+            "機場運營商"
           ],
-          "analysis": "特朗普的威脅可能旨在施壓國會以促成資金協議，滿足其對邊界安全的要求。此舉可能會引發機場安全的混亂，並使旅客感到不安。對於機場安檢人員來說，這種情況可能進一步加劇他們的工作壓力與不安情緒。若未能達成協議，政府關閉可能持續，影響更廣泛的經濟活動與公共服務。"
+          "analysis": "特朗普的威脅可能會引發民主黨的強烈反對，進一步加劇兩黨之間的對立。對於特朗普及其支持者而言，這是展現強硬立場的機會，可能會在選舉中獲得支持。然而，若ICE實際部署至機場，可能會引發民眾的不安與抗議，並對機場運營造成影響。民主黨則可能利用此事件強調特朗普的極端政策，試圖爭取中間選民的支持。"
         },
         "topic_priority_score": 10,
         "event_type": "security_event",
+        "supporting_sources": [
+          "BBC World"
+        ],
+        "supporting_titles": [
+          "Trump threatens to send ICE into airports unless funding deal reached"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "politics",
+        "source_name": "The Guardian World",
+        "title": "Gabbard testimony on Puerto Rico voting machines raises questions about role of Venezuela conspiracy theory",
+        "link": "https://www.theguardian.com/us-news/2026/mar/20/puerto-rico-voting-machines-trump-2020-election-loss-venezuela",
+        "summary": "National intelligence director said voting machine seizure was requested by US attorney in Puerto Rico – who’s been trying to revive 2020 election conspiracy theory When the US director of national intelligence (DNI), Tulsi Gabbard, testified on Thursday that her office seized voting machines from Puerto Rico , she said it was at the request of the office of the US attorney in Puerto Rico. Left unsaid was that the prosecutor, as the Guardian previously reported , has been the center of a push by Donald Trump supporters to revive a long discredited conspiracy theory purporting to link Venezuela to Trump’s 2020 electoral defeat. Venezuelan president Nicolás Maduro, the conspiracy theory maintains, controlled electronic voting machines worldwide and remotely manipulated results in 2020 to deprive Trump of a presidential victory. Continue reading...",
+        "published": "Fri, 20 Mar 2026 17:50:56 GMT",
+        "updated": "2026-03-20T17:50:56Z",
+        "published_at_utc": "2026-03-20T17:50:56+00:00",
+        "id": "https://www.theguardian.com/us-news/2026/mar/20/puerto-rico-voting-machines-trump-2020-election-loss-venezuela",
+        "topic_type": "us_china",
+        "relevance_score": 15,
+        "briefing": {
+          "news_focus": "National intelligence director said voting machine seizure was requested by US attorney in Puerto Rico – who’s been trying to revive 2020 election conspiracy theory When the US director of national intelligence (DNI), Tulsi Gabbard, testified on Thursday that her office seized voting machines from Puerto Rico , she said it was at the request of the office of the US attorney in Puerto Rico. Left unsaid was that the prosecutor, as the Guardian previously reported , has been the center of a push by Donald Trump supporters to revive a long discredited conspiracy theory purporting to link Venezuela to Trump’s 2020 electoral defeat. Venezuelan president Nicolás Maduro, the conspiracy theory maintains, controlled electronic voting machines worldwide and remotely manipulated results in 2020 to deprive Trump of a presidential victory. Continue reading...",
+          "news_focus_zh": "美國國家情報總監Tulsi Gabbard在聽證會上表示，根據波多黎各檢察官的要求，該辦公室已經扣押了波多黎各的投票機。此事件引發了對於與委內瑞拉陰謀論的關聯質疑，該陰謀論聲稱委內瑞拉總統馬杜羅操控全球電子投票機以影響2020年美國大選結果。",
+          "background": "此事件發生在美國政治環境中，特別是在2020年大選後，許多支持特朗普的人士試圖重振有關選舉舞弊的陰謀論。波多黎各的投票機問題引起了關注，因為這些機器的安全性和公正性直接影響選舉的完整性。美國國家情報總監的介入，顯示出政府對於選舉過程的監控與干預，尤其是在陰謀論持續存在的背景下。",
+          "stakeholders": [
+            "Tulsi Gabbard",
+            "波多黎各檢察官",
+            "特朗普支持者",
+            "委內瑞拉政府",
+            "美國選舉監察機構"
+          ],
+          "analysis": "此事件突顯了美國政治中對於選舉公正性的深刻分歧。支持特朗普的勢力試圖利用此事重申其對2020年選舉結果的不滿，並將其與外部勢力如委內瑞拉聯繫起來，這可能會進一步撕裂美國社會。另一方面，Gabbard的行動可能被視為對選舉完整性的保護，但也可能引發對政府干預選舉過程的擔憂，未來可能會引發更多的法律與政治爭議。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "election_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "source_count": 1
       },
       {
         "category": "politics",
-        "source_name": "BBC World",
-        "title": "Iranian strikes on bases used by US caused $800m in damage, new analysis shows",
-        "link": "https://www.bbc.com/news/articles/cddq7j48p35o?at_medium=RSS&at_campaign=rss",
-        "summary": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
-        "published": "Fri, 20 Mar 2026 22:34:05 GMT",
-        "updated": "Fri, 20 Mar 2026 22:34:05 GMT",
-        "published_at_utc": "2026-03-20T22:34:05+00:00",
-        "id": "https://www.bbc.com/news/articles/cddq7j48p35o#0",
-        "topic_type": "us_china",
-        "relevance_score": 11,
+        "source_name": "The Guardian World",
+        "title": "Some of the world’s poorest countries to lose UK aid due to 56% budget cut",
+        "link": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
+        "summary": "UK’s bilateral aid to African countries, which funds areas such as schools and clinics, to be cut by almost £900m by 2028-29 Some of the world’s poorest countries will lose out on UK aid that funds programmes such as schools and clinics, due to budget cuts set out by the foreign secretary. The UK’s bilateral aid to African countries will be reduced by almost £900m by 2028-29 – a 56% cut – as part of more than £6bn in cuts which are funding an increase in defence spending. Continue reading...",
+        "published": "Thu, 19 Mar 2026 18:46:36 GMT",
+        "updated": "2026-03-19T18:46:36Z",
+        "published_at_utc": "2026-03-19T18:46:36+00:00",
+        "id": "https://www.theguardian.com/global-development/2026/mar/19/poorest-countries-lose-uk-aid-56-per-cent-budget-cut",
+        "topic_type": "uk",
+        "relevance_score": 10,
         "briefing": {
-          "news_focus": "Much of the damage was caused in initial retaliatory strikes by Iran in the week after the US and Israel launched its operation.",
-          "news_focus_zh": "伊朗對美國基地的攻擊造成了約8億美元的損失，這一數據來自於最新的分析。這些損失主要源於美國和以色列發動行動後一週內，伊朗的初步報復性攻擊。",
-          "background": "美國與以色列在中東地區的軍事行動加劇了與伊朗的緊張關係。伊朗的報復行動反映了其對外部威脅的強烈反應，並顯示出該國在地緣政治中的堅定立場。此事件發生在美國與伊朗之間的長期對抗背景下，涉及核協議的破裂及地區勢力的重新配置。",
+          "news_focus": "UK’s bilateral aid to African countries, which funds areas such as schools and clinics, to be cut by almost £900m by 2028-29 Some of the world’s poorest countries will lose out on UK aid that funds programmes such as schools and clinics, due to budget cuts set out by the foreign secretary. The UK’s bilateral aid to African countries will be reduced by almost £900m by 2028-29 – a 56% cut – as part of more than £6bn in cuts which are funding an increase in defence spending. Continue reading...",
+          "news_focus_zh": "英國外長宣布將對非洲國家的雙邊援助削減近9億英鎊，這一56%的預算削減將影響教育和醫療等項目，並將資金轉向國防支出。",
+          "background": "英國的對外援助政策歷來受到國內外的廣泛關注，尤其是在面對經濟壓力時。此次預算削減反映了英國政府在資源分配上的優先考量，尤其是在國防開支上升的背景下。過去幾年，英國對非洲的援助主要集中於改善基礎設施和社會服務，但隨著全球經濟不穩定，這些援助面臨壓力。",
           "stakeholders": [
-            "美國政府",
-            "伊朗政府",
-            "以色列政府",
-            "中東地區盟友",
-            "國際社會"
+            "英國政府",
+            "非洲受援國",
+            "國際援助組織",
+            "英國納稅人",
+            "國防部門"
           ],
-          "analysis": "此次事件加劇了美伊之間的敵對情緒，可能導致更頻繁的軍事衝突。對美國而言，這不僅是財務損失的問題，更是其在中東影響力的挑戰。伊朗則可能利用這次攻擊來強化內部凝聚力，並向其他地區勢力展示其軍事能力。未來的發展可能包括更強的軍事回應或外交談判的重新啟動。"
+          "analysis": "此項預算削減將對受援國造成直接影響，尤其是那些依賴英國援助以維持基本公共服務的國家。英國政府的立場是將資金重點轉向國防以應對安全威脅，但這可能引發國際社會的批評，認為英國在全球責任上退縮。非洲國家可能需要尋找其他資金來源或重新調整其發展計劃，以應對援助減少的挑戰。"
         },
         "topic_priority_score": 9,
-        "event_type": "political_signal",
+        "event_type": "security_event",
         "supporting_sources": [],
         "supporting_titles": [],
         "source_count": 1
@@ -153,72 +226,333 @@
     "economy": [
       {
         "category": "economy",
-        "source_name": "BBC Business",
-        "title": "US holds interest rates as Iran war triggers inflation fears",
-        "link": "https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&at_campaign=rss",
-        "summary": "The US central bank is moving cautiously, despite pressure from the president to cut interest rates.",
-        "published": "Wed, 18 Mar 2026 20:20:24 GMT",
-        "updated": "Wed, 18 Mar 2026 20:20:24 GMT",
-        "published_at_utc": "2026-03-18T20:20:24+00:00",
-        "id": "https://www.bbc.com/news/articles/c36364d06x3o#1",
+        "source_name": "The Guardian Business",
+        "title": "BoE delivers message Britons don’t want to hear as inflation – and rates – look set to rise",
+        "link": "https://www.theguardian.com/business/2026/mar/19/bank-of-england-inflation-interest-rates-iran-war-oil-prices",
+        "summary": "Decision to hold interest rates is backed by gloomy assessment of economy as Iran war pushes up oil prices Bank of England holds interest rates at 3.75% Business live – latest updates The US-Israel attack on Iran has already driven prices higher and not just at the petrol pumps, the Bank of England said on Thursday in a gloomy assessment of the UK’s economic outlook. An inflation rate that was on track to fall from 3% to the Bank’s 2% target in the coming months is now expected to rise to 3.5%. That is one probable impact of the US and Israel’s war on Iran. Continue reading...",
+        "published": "Thu, 19 Mar 2026 12:56:02 GMT",
+        "updated": "2026-03-19T12:56:02Z",
+        "published_at_utc": "2026-03-19T12:56:02+00:00",
+        "id": "https://www.theguardian.com/business/2026/mar/19/bank-of-england-inflation-interest-rates-iran-war-oil-prices",
         "topic_type": "rates",
-        "relevance_score": 17,
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "The US central bank is moving cautiously, despite pressure from the president to cut interest rates.",
-          "news_focus_zh": "美國中央銀行在伊朗戰爭引發通脹擔憂的背景下，決定維持利率不變，儘管總統施壓要求降息。",
-          "background": "美國經濟面臨多重挑戰，包括通脹上升和地緣政治緊張局勢。伊朗戰爭可能導致能源價格上漲，進一步加劇通脹壓力。美國中央銀行的利率政策歷來受到政治影響，但在當前經濟環境下，維持利率不變顯示出其對通脹風險的重視，並試圖在經濟增長和物價穩定之間取得平衡。",
+          "news_focus": "Decision to hold interest rates is backed by gloomy assessment of economy as Iran war pushes up oil prices Bank of England holds interest rates at 3.75% Business live – latest updates The US-Israel attack on Iran has already driven prices higher and not just at the petrol pumps, the Bank of England said on Thursday in a gloomy assessment of the UK’s economic outlook. An inflation rate that was on track to fall from 3% to the Bank’s 2% target in the coming months is now expected to rise to 3.5%. That is one probable impact of the US and Israel’s war on Iran. Continue reading...",
+          "news_focus_zh": "英國央行（BoE）在經濟前景黯淡的情況下，決定維持利率在3.75%，並預測通脹率將上升至3.5%，主要受到美國和以色列對伊朗的攻擊影響，推高了油價。",
+          "background": "英國央行的利率決策通常反映出對經濟的評估，通脹率的變化直接影響貨幣政策。近期，因為地緣政治緊張局勢，油價上漲，導致通脹壓力加大。這一情況使得央行在面對經濟增長乏力的同時，必須考慮如何應對通脹上升的挑戰，特別是在全球經濟復甦不均的背景下。",
           "stakeholders": [
-            "美國中央銀行",
-            "美國總統",
-            "企業界",
+            "英國央行",
             "消費者",
-            "國際市場"
+            "企業",
+            "政府",
+            "投資者"
           ],
-          "analysis": "美國中央銀行的決策反映出對通脹的高度警覺，這對於消費者和企業均有深遠影響。若通脹持續上升，將可能迫使中央銀行在未來提高利率，從而影響借貸成本和經濟增長。總統的施壓則可能引發政治上的緊張，影響央行的獨立性。各方需密切關注伊朗戰爭的發展及其對全球市場的影響，以評估未來的經濟政策走向。"
+          "analysis": "英國央行的決策凸顯了其在控制通脹與促進經濟增長之間的兩難。對於消費者來說，通脹上升將減少實際購買力，可能引發社會不滿。而企業則面臨成本上升的壓力，可能影響投資決策。政府可能需要加強支持措施以穩定經濟，然而，這也可能導致財政赤字擴大。各方對於如何平衡經濟增長與通脹控制的看法存在分歧，未來的政策走向將受到密切關注。"
         },
         "topic_priority_score": 10,
         "event_type": "rate_decision",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "source_count": 1
+        "supporting_sources": [
+          "BBC Business"
+        ],
+        "supporting_titles": [
+          "US holds interest rates as Iran war triggers inflation fears"
+        ],
+        "source_count": 2
       },
       {
         "category": "economy",
-        "source_name": "BBC Business",
-        "title": "A small US grocer is calling out the lower prices at big chains",
-        "link": "https://www.bbc.com/news/articles/cr57g1ddqmdo?at_medium=RSS&at_campaign=rss",
-        "summary": "It is 'impossible for us to compete', says the boss of a New York grocery store.",
-        "published": "Thu, 12 Mar 2026 00:02:54 GMT",
-        "updated": "Thu, 12 Mar 2026 00:02:54 GMT",
-        "published_at_utc": "2026-03-12T00:02:54+00:00",
-        "id": "https://www.bbc.com/news/articles/cr57g1ddqmdo#2",
+        "source_name": "The Guardian Business",
+        "title": "What will happen now the £100 contactless card limit has been scrapped?",
+        "link": "https://www.theguardian.com/money/2026/mar/19/contactless-card-100-pound-limit-scrapped",
+        "summary": "Watchdog says banks will be able to respond to changing consumer demands, inflation and new technology The limit on contactless spending with a credit or debit card has been scrapped, and banks will be allowed to set their own restrictions. The City watchdog, the Financial Conduct Authority (FCA), said the move would allow banks to respond to changing consumer demands, inflation and new technology. Continue reading...",
+        "published": "Thu, 19 Mar 2026 08:12:33 GMT",
+        "updated": "2026-03-19T08:12:33Z",
+        "published_at_utc": "2026-03-19T08:12:33+00:00",
+        "id": "https://www.theguardian.com/money/2026/mar/19/contactless-card-100-pound-limit-scrapped",
         "topic_type": "inflation",
-        "relevance_score": 11,
+        "relevance_score": 15,
         "briefing": {
-          "news_focus": "It is 'impossible for us to compete', says the boss of a New York grocery store.",
-          "news_focus_zh": "一位紐約雜貨店的老闆指出，與大型連鎖超市相比，他們無法在價格上競爭，並呼籲消費者注意這一現象。",
-          "background": "隨著大型連鎖超市在價格上具備規模優勢，小型雜貨店面臨日益嚴峻的競爭環境。這種情況在美國特別明顯，因為大型超市能夠利用供應鏈優化和大宗採購來降低成本。近年來，消費者對價格敏感度提高，進一步加劇了小型商家的困境。政策方面，政府對小型企業的支持措施尚未能有效改善其競爭地位。",
+          "news_focus": "Watchdog says banks will be able to respond to changing consumer demands, inflation and new technology The limit on contactless spending with a credit or debit card has been scrapped, and banks will be allowed to set their own restrictions. The City watchdog, the Financial Conduct Authority (FCA), said the move would allow banks to respond to changing consumer demands, inflation and new technology. Continue reading...",
+          "news_focus_zh": "英國金融監管機構已取消100英鎊的非接觸式支付限額，銀行將能根據消費者需求、通脹及新技術自行設定限制。",
+          "background": "隨著數位支付的普及，非接觸式支付成為消費者日常交易的重要方式。過去的100英鎊限額旨在防範詐騙與保護消費者，但隨著通脹上升與消費習慣改變，金融行業面臨調整的壓力。英國金融行為監管局（FCA）此舉意在促進銀行靈活應對市場變化，並提升消費者便利性。",
           "stakeholders": [
-            "小型雜貨店",
-            "大型連鎖超市",
+            "銀行",
             "消費者",
-            "政府",
-            "供應商"
+            "金融監管機構",
+            "支付技術公司",
+            "零售商"
           ],
-          "analysis": "小型雜貨店的呼聲反映出市場競爭的不平衡，尤其是在價格戰中，大型連鎖超市的優勢使得小型商家難以生存。這可能導致消費者選擇更便宜的選項，進一步削弱小型商家的市場份額。若不加強對小型企業的政策支持，未來可能會出現更多小型商家關閉的情況，影響社區經濟及多樣性。"
+          "analysis": "取消限額將使銀行能夠根據市場需求調整支付政策，可能促進非接觸式支付的普及。然而，這也可能引發消費者對於安全性的擔憂，尤其是在詐騙風險上升的背景下。銀行需平衡便利性與安全性，並可能面臨來自監管機構的進一步審查。對於消費者而言，這一變化可能帶來更高的消費自由度，但也需提高警覺以防止潛在的金融風險。"
         },
         "topic_priority_score": 9,
-        "event_type": "macro_signal",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "source_count": 1
+        "event_type": "inflation_data",
+        "supporting_sources": [
+          "BBC Business"
+        ],
+        "supporting_titles": [
+          "Why the average age of a first-time buyer has risen"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "‘Liquid gold’: heating oil thefts rise in Northern Ireland as Iran war sends prices soaring",
+        "link": "https://www.theguardian.com/money/2026/mar/21/liquid-gold-heating-oil-thefts-rise-in-northern-ireland-as-iran-war-sends-prices-soaring",
+        "summary": "Police issue alerts and security tips to households reliant on heating oil to deter a crime that can leave victims with bills of thousands There is no subtle way to receive heating oil deliveries in rural Northern Ireland: clearly marked tankers trundle through roads and lanes and park outside homes while they replenish storage tanks. The trucks’ comings and goings are visible to the entire community, indicating which households have stocked up on oil, and that is a problem because criminals monitor deliveries to identify targets. Continue reading...",
+        "published": "Sat, 21 Mar 2026 14:00:53 GMT",
+        "updated": "2026-03-21T14:00:53Z",
+        "published_at_utc": "2026-03-21T14:00:53+00:00",
+        "id": "https://www.theguardian.com/money/2026/mar/21/liquid-gold-heating-oil-thefts-rise-in-northern-ireland-as-iran-war-sends-prices-soaring",
+        "topic_type": "energy",
+        "relevance_score": 13,
+        "briefing": {
+          "news_focus": "Police issue alerts and security tips to households reliant on heating oil to deter a crime that can leave victims with bills of thousands There is no subtle way to receive heating oil deliveries in rural Northern Ireland: clearly marked tankers trundle through roads and lanes and park outside homes while they replenish storage tanks. The trucks’ comings and goings are visible to the entire community, indicating which households have stocked up on oil, and that is a problem because criminals monitor deliveries to identify targets. Continue reading...",
+          "news_focus_zh": "由於伊朗戰爭導致供應鏈緊張，北愛爾蘭的取暖油盜竊事件上升，警方已發出警報並提供安全建議，以防止受害者承擔高額費用。",
+          "background": "隨著全球能源價格上漲，特別是取暖油的價格因地緣政治緊張而飆升，北愛爾蘭的家庭愈加依賴這種能源供應。該地區的取暖油主要通過明顯標示的油罐車配送，這使得犯罪分子能夠輕易識別目標。歷史上，北愛爾蘭的能源供應受到多重因素影響，包括政治不穩定和經濟結構的脆弱性，這使得當前的盜竊問題更加複雜。",
+          "stakeholders": [
+            "北愛爾蘭家庭",
+            "警方",
+            "取暖油供應商",
+            "地方政府",
+            "犯罪團夥"
+          ],
+          "analysis": "隨著取暖油價格的上漲，家庭面臨更大的經濟壓力，這使得盜竊行為更具吸引力。警方的警報和安全建議雖然旨在保護家庭，但也反映出當地社區對於安全的擔憂。對於供應商而言，這可能促使他們加強配送安全措施，增加運營成本。政府則需考慮如何在保障家庭能源需求的同時，打擊犯罪行為，這可能導致政策上的調整。"
+        },
+        "topic_priority_score": 8,
+        "event_type": "energy_supply_move",
+        "supporting_sources": [
+          "BBC Business"
+        ],
+        "supporting_titles": [
+          "US lifts sanctions on some Iranian oil as energy prices soar"
+        ],
+        "source_count": 2
+      }
+    ]
+  },
+  "further_reading": {
+    "technology": [
+      {
+        "title": "Ad for AI editing app which said it could 'remove anything' banned",
+        "link": "https://www.bbc.com/news/articles/cx2g8888q53o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Technology",
+        "published_at_utc": "2026-03-18T00:00:09+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "‘It’s stupid’: why western carmakers’ retreat from electric risks dooming them to irrelevance",
+        "link": "https://www.theguardian.com/business/2026/mar/21/west-carmakers-retreat-electric-vehicle-risks-irrelevance-iran-war-evs-china",
+        "source_name": "The Guardian Technology",
+        "published_at_utc": "2026-03-21T12:00:52+00:00",
+        "relevance_score": 11
+      },
+      {
+        "title": "Luke Littler applies to trademark his face to combat AI fakes",
+        "link": "https://www.bbc.com/news/articles/c5y7374x9n4o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Technology",
+        "published_at_utc": "2026-03-20T16:16:30+00:00",
+        "relevance_score": 11
+      },
+      {
+        "title": "Senior European journalist suspended over AI-generated quotes",
+        "link": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes",
+        "source_name": "The Guardian Technology",
+        "published_at_utc": "2026-03-20T16:13:08+00:00",
+        "relevance_score": 11
+      },
+      {
+        "title": "Publisher cancels horror novel's release over AI claims",
+        "link": "https://www.bbc.com/news/articles/c5y9d44jj24o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Technology",
+        "published_at_utc": "2026-03-20T15:30:58+00:00",
+        "relevance_score": 11
+      },
+      {
+        "title": "Meta AI agent’s instruction causes large sensitive data leak to employees",
+        "link": "https://www.theguardian.com/technology/2026/mar/20/meta-ai-agents-instruction-causes-large-sensitive-data-leak-to-employees",
+        "source_name": "The Guardian Technology",
+        "published_at_utc": "2026-03-20T06:00:13+00:00",
+        "relevance_score": 11
+      },
+      {
+        "title": "‘It does feel like an intimidation campaign’: why is US tech giant Palantir suing a small Swiss magazine?",
+        "link": "https://www.theguardian.com/global-development/2026/mar/20/us-tech-giant-palantir-swiss-magazine-wav",
+        "source_name": "The Guardian Technology",
+        "published_at_utc": "2026-03-20T06:00:12+00:00",
+        "relevance_score": 11
+      },
+      {
+        "title": "Prolonged high oil prices could ‘crimp’ AI boom, WTO warns",
+        "link": "https://www.theguardian.com/business/2026/mar/19/oil-prices-ai-boom-wto-iran-war-energy-global-economy",
+        "source_name": "The Guardian Technology",
+        "published_at_utc": "2026-03-19T14:00:51+00:00",
+        "relevance_score": 11
+      },
+      {
+        "title": "In the killer world of online gaming, there are no hits any more – just survivors",
+        "link": "https://www.theguardian.com/games/2026/mar/19/in-the-killer-world-of-online-gaming-there-are-no-hits-any-more-just-survivors",
+        "source_name": "The Guardian Technology",
+        "published_at_utc": "2026-03-19T12:30:50+00:00",
+        "relevance_score": 11
+      },
+      {
+        "title": "Government backtracks on AI and copyright after outcry from major artists",
+        "link": "https://www.bbc.com/news/articles/cvg1gr5v333o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Technology",
+        "published_at_utc": "2026-03-18T13:24:39+00:00",
+        "relevance_score": 11
+      }
+    ],
+    "politics": [
+      {
+        "title": "Pakistan to pause Afghan strikes for Eid, two days after deadly Kabul attack",
+        "link": "https://www.theguardian.com/world/2026/mar/18/afghans-search-for-loved-ones-kabul-rehab-centre-pakistan-airstrike",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-03-18T16:40:30+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Peru’s presidential hopefuls zero in on country’s growing security crisis",
+        "link": "https://www.taipeitimes.com/News/world/archives/2026/03/22/2003854276",
+        "source_name": "Taipei Times",
+        "published_at_utc": "2026-03-22T00:00:00+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Concerns grow after woman hurt in dog attack",
+        "link": "https://www.taipeitimes.com/News/taiwan/archives/2026/03/22/2003854264",
+        "source_name": "Taipei Times",
+        "published_at_utc": "2026-03-22T00:00:00+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Attacks on premier’s Japan trip infuriating",
+        "link": "https://www.taipeitimes.com/News/editorials/archives/2026/03/22/2003854241",
+        "source_name": "Taipei Times",
+        "published_at_utc": "2026-03-22T00:00:00+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Trump threatens to send ICE into airports unless funding deal reached",
+        "link": "https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-03-21T20:22:10+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Russian drone attack kills two in Ukraine ahead of talks in US, officials say",
+        "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-03-21T19:39:57+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Is it time for the UK to acknowledge the ‘rhetoric to reality gap’ on its military power?",
+        "link": "https://www.theguardian.com/politics/2026/mar/20/britain-defence-policy-military-power-world-stage",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-03-20T18:50:04+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Madagascar’s military ruler decrees that ministers must pass lie detector tests",
+        "link": "https://www.theguardian.com/world/2026/mar/20/madagascar-military-ruler-new-ministers-lie-detector-tests",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-03-20T10:26:47+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Trump makes Pearl Harbor remark in meeting with Japan's PM",
+        "link": "https://www.bbc.com/news/articles/c8dlpr074q3o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-03-20T09:55:19+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Delcy Rodríguez replaces Venezuela’s top military commanders",
+        "link": "https://www.theguardian.com/world/2026/mar/20/delcy-rodriguez-replaces-venezuelas-top-military-commanders",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-03-20T09:15:43+00:00",
+        "relevance_score": 13
+      }
+    ],
+    "economy": [
+      {
+        "title": "US holds interest rates as Iran war triggers inflation fears",
+        "link": "https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-03-18T20:20:24+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "UK borrowing costs hit highest level since 2008 financial crisis",
+        "link": "https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-03-20T14:55:02+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Bank ready to raise interest rates if Iran war price 'shock' persists",
+        "link": "https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-03-19T15:44:09+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Faisal Islam: Iran war is having a dramatic effect on the UK economy",
+        "link": "https://www.bbc.com/news/articles/c33lnd1gxxro?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-03-19T16:21:28+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Nearly 400 firms fined over failure to pay minimum wage",
+        "link": "https://www.bbc.com/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-03-19T10:46:39+00:00",
+        "relevance_score": 11
+      },
+      {
+        "title": "What’s really behind Trump’s latest tantrums over Iran? – podcast",
+        "link": "https://www.theguardian.com/politics/audio/2026/mar/20/donald-trump-nato-tantrum-sign-failing-iran-podcast",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-03-20T05:00:12+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Anger grows among UK ministers amid fears Iran war could jeopardise Britain’s fragile finances",
+        "link": "https://www.theguardian.com/world/2026/mar/20/uk-ministers-begin-contingency-planning-amid-fears-for-economic-effects-of-iran-war",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-03-21T12:54:23+00:00",
+        "relevance_score": 11
+      },
+      {
+        "title": "From Goop to gavel: Gwyneth Paltrow’s wardrobe clearout heads to auction",
+        "link": "https://www.theguardian.com/film/2026/mar/21/from-goop-to-gavel-gwyneth-paltrows-wardrobe-clearout-heads-to-auction",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-03-21T11:00:51+00:00",
+        "relevance_score": 11
+      },
+      {
+        "title": "‘It’s not sustainable’: US farmers reeling as Iran war pushes fertilizer costs up",
+        "link": "https://www.theguardian.com/us-news/2026/mar/20/iran-war-us-farming-impact",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-03-20T11:00:35+00:00",
+        "relevance_score": 11
+      },
+      {
+        "title": "A small US grocer is calling out the lower prices at big chains",
+        "link": "https://www.bbc.com/news/articles/cr57g1ddqmdo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-03-12T00:02:54+00:00",
+        "relevance_score": 11
       }
     ]
   },
   "enrichment_summary": {
     "model": "gpt-4o-mini",
-    "enriched": 6,
+    "enriched": 9,
     "failed": 0,
-    "total": 6
+    "total": 9
   }
 }
