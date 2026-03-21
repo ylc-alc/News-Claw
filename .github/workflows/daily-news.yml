@@ -1,4 +1,4 @@
-name: Daily News Fetch
+name: Daily News Pipeline
 
 on:
   workflow_dispatch:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 jobs:
-  fetch-rss:
+  news-pipeline:
     runs-on: ubuntu-latest
 
     steps:
@@ -30,10 +30,14 @@ jobs:
         run: |
           python scripts/fetch_rss.py
 
-      - name: Commit and push raw feed files
+      - name: Process feeds into daily digest
+        run: |
+          python scripts/process_feeds.py
+
+      - name: Commit and push generated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/raw/*.json
-          git commit -m "Fetch latest RSS raw data" || echo "No changes to commit"
+          git add data/raw/*.json data/processed/*.json
+          git commit -m "Update raw feeds and daily digest" || echo "No changes to commit"
           git push
