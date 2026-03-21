@@ -284,18 +284,18 @@ def page_shell(title, meta_line, intro_text, body_html):
       background: #ecfdf5;
       color: #065f46;
     }}
-        .supporting-source-row {
+        .supporting-source-row {{
       display: flex;
       flex-wrap: wrap;
       gap: 8px;
       align-items: center;
       margin: 8px 0 4px;
-    }
-    .supporting-label {
+    }}
+    .supporting-label {[
       font-size: 13px;
       color: #6b7280;
-    }
-    .supporting-source-badge {
+    }}
+    .supporting-source-badge {{
       display: inline-block;
       padding: 4px 10px;
       border-radius: 999px;
@@ -303,8 +303,8 @@ def page_shell(title, meta_line, intro_text, body_html):
       line-height: 1.4;
       background: #f3f4f6;
       color: #374151;
-    }
-    .source-count-badge {
+    }}
+    .source-count-badge {{
       display: inline-block;
       padding: 4px 10px;
       border-radius: 999px;
@@ -312,7 +312,7 @@ def page_shell(title, meta_line, intro_text, body_html):
       line-height: 1.4;
       background: #ede9fe;
       color: #5b21b6;
-    }
+    }}
     .time-badge {{
       background: #f3f4f6;
       color: #4b5563;
