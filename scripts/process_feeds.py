@@ -1,7 +1,7 @@
 import json
 import re
 from pathlib import Path
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from html import unescape
 from email.utils import parsedate_to_datetime
 
@@ -13,6 +13,19 @@ OUTPUT_FILE = PROCESSED_DIR / "daily_digest.json"
 
 TARGET_SECTIONS = ["technology", "politics", "economy"]
 MAX_TOPICS_PER_SECTION = 3
+
+SEEN_TOPICS_FILE = BASE_DIR / "data" / "processed" / "seen_topics.json"
+NOVELTY_LOOKBACK_DAYS = 3
+
+MAJOR_UPDATE_SIGNALS = [
+    "breaking", "breaks", "escalat", "confirms", "confirmed",
+    "signs", "signed", "collapses", "collapse", "resigns", "resign",
+    "fires", "invad", "ceasefire", "deal reached", "agreement reached",
+    "verdict", "sentenced", "convicted", "overturned", "reversed",
+    "record high", "record low", "historic", "unprecedented",
+    "emergency", "default", "bankrupt", "arrested", "indicted",
+    "new sanctions", "snap election", "declares",
+]
 
 TECH_KEYWORDS = {
     "ai": ["ai", "artificial intelligence", "openai", "chatgpt", "model", "llm", "nvidia", "anthropic", "gemini"],
@@ -234,7 +247,7 @@ def detect_event_type(category, topic_type, title, summary):
     return "general_event"
     
 
-def compute_relevance_score(category, topic_type, title, summary, source_name):
+def compute_relevance_score(category, topic_type, title, summary, source_name, published_dt=None):
     title_l = title.lower()
     summary_l = summary.lower()
     blob = f"{title_l} {summary_l}"
@@ -275,6 +288,17 @@ def compute_relevance_score(category, topic_type, title, summary, source_name):
 
     if category == "economy" and topic_type in {"rates", "inflation", "energy", "markets", "corporate"}:
         score += 3
+
+    if published_dt is not None:
+        age_hours = (datetime.now(timezone.utc) - published_dt).total_seconds() / 3600
+        if age_hours <= 6:
+            score += 5
+        elif age_hours <= 12:
+            score += 3
+        elif age_hours <= 18:
+            score += 1
+        elif age_hours > 24:
+            score -= 3
 
     return score
 
@@ -481,6 +505,121 @@ def build_briefing(category, topic_type, event_type, title, summary):
     }
 
 
+def load_seen_topics():
+    if SEEN_TOPICS_FILE.exists():
+        with open(SEEN_TOPICS_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {"stories": []}
+
+
+def is_major_update(title, summary):
+    text = f"{title} {summary}".lower()
+    return contains_any(text, MAJOR_UPDATE_SIGNALS)
+
+
+def apply_novelty_penalties(items, seen_topics):
+    today = datetime.now(timezone.utc).date()
+    cutoff = today - timedelta(days=NOVELTY_LOOKBACK_DAYS)
+
+    recent = [
+        s for s in seen_topics.get("stories", [])
+        if s.get("last_seen_date", "") >= cutoff.isoformat()
+    ]
+
+    for item in items:
+        title = item.get("title", "")
+        category = item.get("category", "")
+        summary = item.get("summary", "")
+        item_tokens = set(tokenise_title(title))
+
+        for seen in recent:
+            if seen.get("category") != category:
+                continue
+            seen_tokens = set(seen.get("title_tokens", []))
+            if not seen_tokens or not item_tokens:
+                continue
+            overlap = len(seen_tokens & item_tokens) / min(len(seen_tokens), len(item_tokens))
+            if overlap >= 0.5:
+                if is_major_update(title, summary):
+                    item["relevance_score"] = item.get("relevance_score", 0) + 4
+                    item["is_major_update"] = True
+                else:
+                    item["relevance_score"] = item.get("relevance_score", 0) - 12
+                    item["is_repeat_story"] = True
+                break
+
+    return items
+
+
+def detect_cross_section_stories(sections):
+    all_selected = [
+        (section_key, item)
+        for section_key, items in sections.items()
+        for item in items
+    ]
+
+    section_labels = {"technology": "科技", "politics": "政治", "economy": "經濟"}
+
+    for i, (sec_a, item_a) in enumerate(all_selected):
+        for j, (sec_b, item_b) in enumerate(all_selected):
+            if i >= j or sec_a == sec_b:
+                continue
+            overlap = title_overlap_score(item_a.get("title", ""), item_b.get("title", ""))
+            if overlap >= 0.4:
+                refs_a = item_a.setdefault("cross_section_refs", [])
+                if sec_b not in refs_a:
+                    refs_a.append(sec_b)
+                refs_b = item_b.setdefault("cross_section_refs", [])
+                if sec_a not in refs_b:
+                    refs_b.append(sec_a)
+
+    return sections
+
+
+def save_seen_topics(seen_topics, sections):
+    today = datetime.now(timezone.utc).date().isoformat()
+    cutoff = (datetime.now(timezone.utc).date() - timedelta(days=7)).isoformat()
+
+    existing = [
+        s for s in seen_topics.get("stories", [])
+        if s.get("last_seen_date", "") >= cutoff
+    ]
+
+    for section_key, items in sections.items():
+        for item in items:
+            title_tokens = list(set(tokenise_title(item.get("title", ""))))
+            item_token_set = set(title_tokens)
+            updated = False
+
+            for seen in existing:
+                if seen.get("category") != section_key:
+                    continue
+                seen_token_set = set(seen.get("title_tokens", []))
+                if seen_token_set and item_token_set:
+                    overlap = len(seen_token_set & item_token_set) / min(len(seen_token_set), len(item_token_set))
+                    if overlap >= 0.5:
+                        seen["last_seen_date"] = today
+                        seen["times_seen"] = seen.get("times_seen", 1) + 1
+                        updated = True
+                        break
+
+            if not updated:
+                existing.append({
+                    "title_tokens": title_tokens,
+                    "category": section_key,
+                    "topic_type": item.get("topic_type", "general"),
+                    "last_seen_date": today,
+                    "times_seen": 1,
+                })
+
+    seen_topics["stories"] = existing
+    seen_topics["last_updated"] = today
+
+    SEEN_TOPICS_FILE.parent.mkdir(parents=True, exist_ok=True)
+    with open(SEEN_TOPICS_FILE, "w", encoding="utf-8") as f:
+        json.dump(seen_topics, f, ensure_ascii=False, indent=2)
+        
+
 def dedupe_items(items):
     seen = set()
     deduped = []
@@ -505,7 +644,7 @@ def dedupe_items(items):
         event_type = detect_event_type(category, topic_type, title_clean, summary_clean)
         briefing = build_briefing(category, topic_type, event_type, title_clean, summary_clean)
         dt = best_datetime(item)
-        relevance_score = compute_relevance_score(category, topic_type, title_clean, summary_clean, source_name)
+        relevance_score = compute_relevance_score(category, topic_type, title_clean, summary_clean, source_name, published_dt=dt)
         topic_priority_score = get_topic_priority_score(category, topic_type)
 
         cleaned_item = {
@@ -648,20 +787,20 @@ def build_digest(raw_items, deduped_items, sections, further_reading):
 def main():
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
 
+    seen_topics = load_seen_topics()
     raw_items = load_raw_files()
     deduped_items = dedupe_items(raw_items)
+    deduped_items = apply_novelty_penalties(deduped_items, seen_topics)
     sections, further_reading = select_top_items_by_section(deduped_items)
+    sections = detect_cross_section_stories(sections)
     digest = build_digest(raw_items, deduped_items, sections, further_reading)
+    save_seen_topics(seen_topics, sections)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(digest, f, ensure_ascii=False, indent=2)
 
     print("Daily digest generated.")
     print(json.dumps(digest["summary"], ensure_ascii=False, indent=2))
-
-
-if __name__ == "__main__":
-    main()
 
 
 if __name__ == "__main__":
