@@ -284,14 +284,14 @@ def page_shell(title, meta_line, intro_text, body_html):
       background: #ecfdf5;
       color: #065f46;
     }}
-        .supporting-source-row {{
+    .supporting-source-row {{
       display: flex;
       flex-wrap: wrap;
       gap: 8px;
       align-items: center;
       margin: 8px 0 4px;
     }}
-    .supporting-label {[
+    .supporting-label {{
       font-size: 13px;
       color: #6b7280;
     }}
