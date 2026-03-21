@@ -3,6 +3,7 @@ import re
 from pathlib import Path
 from datetime import datetime, timezone
 from html import unescape
+from email.utils import parsedate_to_datetime
 
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -48,13 +49,42 @@ def normalise_title(title):
     return title
 
 
+def parse_datetime(value):
+    if not value:
+        return None
+
+    value = value.strip()
+
+    # Try RFC 2822 / common RSS format first
+    try:
+        dt = parsedate_to_datetime(value)
+        if dt is not None:
+            return dt.astimezone(timezone.utc)
+    except Exception:
+        pass
+
+    # Try ISO format
+    try:
+        dt = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        return dt.astimezone(timezone.utc)
+    except Exception:
+        pass
+
+    return None
+
+
+def best_datetime(item):
+    published_dt = parse_datetime(item.get("published", ""))
+    updated_dt = parse_datetime(item.get("updated", ""))
+    return published_dt or updated_dt
+
+
 def dedupe_items(items):
     seen = set()
     deduped = []
 
     for item in items:
         title = item.get("title", "")
-        link = item.get("link", "")
         norm_title = normalise_title(title)
 
         dedupe_key = (item.get("category", ""), norm_title)
@@ -67,14 +97,17 @@ def dedupe_items(items):
 
         seen.add(dedupe_key)
 
+        dt = best_datetime(item)
+
         cleaned_item = {
             "category": item.get("category", ""),
             "source_name": item.get("source_name", ""),
             "title": clean_text(title),
-            "link": link,
+            "link": item.get("link", ""),
             "summary": clean_text(item.get("summary", "")),
             "published": item.get("published", ""),
             "updated": item.get("updated", ""),
+            "published_at_utc": dt.isoformat() if dt else "",
             "id": item.get("id", ""),
         }
         deduped.append(cleaned_item)
@@ -84,10 +117,9 @@ def dedupe_items(items):
 
 def sort_items(items):
     def sort_key(item):
-        published = item.get("published", "")
-        updated = item.get("updated", "")
+        parsed = item.get("published_at_utc", "")
         title = item.get("title", "")
-        return (published or updated or "", title)
+        return (parsed, title)
 
     return sorted(items, key=sort_key, reverse=True)
 
