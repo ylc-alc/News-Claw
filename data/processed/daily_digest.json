@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-21T20:53:14.982047+00:00",
+  "generated_at_utc": "2026-03-21T21:32:40.756014+00:00",
   "summary": {
     "total_raw_items": 106,
     "total_deduped_items": 97,
     "selected_total": 6,
-    "max_topics_per_section": 2,
+    "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
         "ai",
@@ -208,5 +208,11 @@
         "source_count": 1
       }
     ]
+  },
+  "enrichment_summary": {
+    "model": "gpt-4o-mini",
+    "enriched": 0,
+    "failed": 6,
+    "total": 6
   }
 }
