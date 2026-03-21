@@ -16,16 +16,16 @@ MAX_TOPICS_PER_SECTION = 2
 
 
 TECH_KEYWORDS = {
-    "ai": ["ai", "artificial intelligence", "openai", "chatgpt", "model", "llm", "nvidia"],
-    "chips": ["chip", "chips", "semiconductor", "tsmc", "intel", "amd", "qualcomm", "gpu"],
-    "platforms": ["meta", "x", "tiktok", "google", "apple", "microsoft", "amazon", "platform"],
+    "ai": ["ai", "artificial intelligence", "openai", "chatgpt", "model", "llm", "nvidia", "anthropic", "gemini"],
+    "chips": ["chip", "chips", "semiconductor", "tsmc", "intel", "amd", "qualcomm", "gpu", "foundry"],
+    "platforms": ["meta", "x", "tiktok", "google", "apple", "microsoft", "amazon", "platform", "social media"],
     "cybersecurity": ["cyber", "security", "hack", "breach", "malware", "ransomware"],
-    "devices": ["iphone", "smartphone", "device", "laptop", "hardware"],
-    "regulation": ["antitrust", "regulator", "regulation", "eu", "commission", "fine"],
+    "devices": ["iphone", "smartphone", "device", "laptop", "hardware", "wearable"],
+    "regulation": ["antitrust", "regulator", "regulation", "eu", "commission", "fine", "lawsuit"],
 }
 
 POLITICS_KEYWORDS = {
-    "us_china": ["china", "beijing", "washington", "us", "u.s.", "tariff", "trade war"],
+    "us_china": ["china", "beijing", "washington", "u.s.", "us ", "tariff", "trade war"],
     "europe": ["eu", "european union", "brussels", "commission", "nato"],
     "uk": ["uk", "britain", "british", "london", "westminster"],
     "taiwan": ["taiwan", "taipei", "strait"],
@@ -43,6 +43,18 @@ ECONOMY_KEYWORDS = {
     "markets": ["stocks", "market", "bonds", "investors", "shares"],
     "corporate": ["earnings", "revenue", "profit", "forecast", "sales"],
 }
+
+LOW_SIGNAL_PATTERNS = [
+    "visits",
+    "inside",
+    "how ",
+    "feature",
+    "lifestyle",
+    "animal",
+    "food waste",
+    "travel",
+    "culture",
+]
 
 
 def load_raw_files():
@@ -103,27 +115,101 @@ def best_datetime(item):
     return parse_datetime(item.get("published", "")) or parse_datetime(item.get("updated", ""))
 
 
-def detect_topic_type(category, text):
-    text = text.lower()
-
-    keyword_map = {}
-    if category == "technology":
-        keyword_map = TECH_KEYWORDS
-    elif category == "politics":
-        keyword_map = POLITICS_KEYWORDS
-    elif category == "economy":
-        keyword_map = ECONOMY_KEYWORDS
+def keyword_score(text, keyword_map, title_weight=3, summary_weight=1):
+    scores = {topic_type: 0 for topic_type in keyword_map.keys()}
+    title = text["title"]
+    summary = text["summary"]
 
     for topic_type, keywords in keyword_map.items():
         for keyword in keywords:
-            if keyword in text:
-                return topic_type
+            if keyword in title:
+                scores[topic_type] += title_weight
+            if keyword in summary:
+                scores[topic_type] += summary_weight
 
-    return "general"
+    return scores
+
+
+def detect_topic_type(category, title, summary):
+    title_l = title.lower()
+    summary_l = summary.lower()
+
+    text = {"title": title_l, "summary": summary_l}
+
+    if category == "technology":
+        scores = keyword_score(text, TECH_KEYWORDS)
+    elif category == "politics":
+        scores = keyword_score(text, POLITICS_KEYWORDS)
+    elif category == "economy":
+        scores = keyword_score(text, ECONOMY_KEYWORDS)
+    else:
+        return "general"
+
+    best_topic = "general"
+    best_score = 0
+
+    for topic_type, score in scores.items():
+        if score > best_score:
+            best_topic = topic_type
+            best_score = score
+
+    return best_topic if best_score > 0 else "general"
+
+
+def compute_relevance_score(category, topic_type, title, summary, source_name):
+    title_l = title.lower()
+    summary_l = summary.lower()
+    blob = f"{title_l} {summary_l}"
+
+    score = 0
+
+    # Base topical relevance
+    if topic_type != "general":
+        score += 8
+    else:
+        score += 2
+
+    # Stronger score for clearer hard-news style items
+    strong_terms = [
+        "announces", "launches", "cuts", "raises", "approves", "blocks",
+        "ban", "tariff", "election", "interest rate", "inflation",
+        "earnings", "profit", "security", "attack", "sanction"
+    ]
+    for term in strong_terms:
+        if term in blob:
+            score += 2
+
+    # Down-rank soft / feature-like items
+    for term in LOW_SIGNAL_PATTERNS:
+        if term in blob:
+            score -= 4
+
+    # Slight boost for Reuters hard-news style
+    if "reuters" in source_name.lower():
+        score += 2
+
+    # Section-specific relevance boosts
+    if category == "technology" and topic_type in {"ai", "chips", "cybersecurity", "regulation", "platforms"}:
+        score += 3
+
+    if category == "politics" and topic_type in {"us_china", "security", "election", "diplomacy", "taiwan"}:
+        score += 3
+
+    if category == "economy" and topic_type in {"rates", "inflation", "energy", "markets", "corporate"}:
+        score += 3
+
+    return score
+
+
+def build_news_focus(title, summary):
+    # 先保守處理：若有摘要則用摘要，否則用標題
+    # 暫不假裝做高品質翻譯，避免輸出失真繁中
+    focus = summary if summary else title
+    return focus
 
 
 def build_briefing(category, topic_type, title, summary):
-    news_focus = summary if summary else f"此則新聞聚焦於：{title}"
+    news_focus = build_news_focus(title, summary)
 
     templates = {
         "technology": {
@@ -144,7 +230,7 @@ def build_briefing(category, topic_type, title, summary):
             },
             "cybersecurity": {
                 "background": "資安議題通常涉及企業防護能力、國家安全、供應鏈漏洞與合規壓力。",
-                "stakeholders": ["企業", "政府機構", "資安供應商", "終端用戶", "攻擊者或威脅行為者"],
+                "stakeholders": ["企業", "政府機構", "資安供應商", "終端用戶", "威脅行為者"],
                 "analysis": "角力重點在於防護成本、營運持續性、資料安全與責任歸屬。"
             },
             "devices": {
@@ -254,6 +340,7 @@ def build_briefing(category, topic_type, title, summary):
 
     return {
         "news_focus": news_focus,
+        "news_focus_zh": news_focus,
         "background": template["background"],
         "stakeholders": template["stakeholders"],
         "analysis": template["analysis"],
@@ -279,15 +366,15 @@ def dedupe_items(items):
         title_clean = clean_text(title)
         summary_clean = clean_text(item.get("summary", ""))
         category = item.get("category", "")
-        text_blob = f"{title_clean} {summary_clean}"
-
-        topic_type = detect_topic_type(category, text_blob)
+        source_name = item.get("source_name", "")
+        topic_type = detect_topic_type(category, title_clean, summary_clean)
         briefing = build_briefing(category, topic_type, title_clean, summary_clean)
         dt = best_datetime(item)
+        relevance_score = compute_relevance_score(category, topic_type, title_clean, summary_clean, source_name)
 
         cleaned_item = {
             "category": category,
-            "source_name": item.get("source_name", ""),
+            "source_name": source_name,
             "title": title_clean,
             "link": item.get("link", ""),
             "summary": summary_clean,
@@ -296,6 +383,7 @@ def dedupe_items(items):
             "published_at_utc": dt.isoformat() if dt else "",
             "id": item.get("id", ""),
             "topic_type": topic_type,
+            "relevance_score": relevance_score,
             "briefing": briefing,
         }
         deduped.append(cleaned_item)
@@ -305,9 +393,10 @@ def dedupe_items(items):
 
 def sort_items(items):
     def sort_key(item):
+        relevance = item.get("relevance_score", 0)
         parsed = item.get("published_at_utc", "")
         title = item.get("title", "")
-        return (parsed, title)
+        return (relevance, parsed, title)
 
     return sorted(items, key=sort_key, reverse=True)
 
@@ -324,6 +413,10 @@ def select_top_items_by_section(items):
 
 
 def build_digest(raw_items, deduped_items, sections):
+    topic_mix = {}
+    for section, items in sections.items():
+        topic_mix[section] = [item.get("topic_type", "general") for item in items]
+
     return {
         "generated_at_utc": datetime.now(timezone.utc).isoformat(),
         "summary": {
@@ -331,6 +424,7 @@ def build_digest(raw_items, deduped_items, sections):
             "total_deduped_items": len(deduped_items),
             "selected_total": sum(len(v) for v in sections.values()),
             "max_topics_per_section": MAX_TOPICS_PER_SECTION,
+            "topic_mix": topic_mix,
         },
         "sections": sections,
     }
