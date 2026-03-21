@@ -1,1 +1,15 @@
-
+{
+  "site_name": "News-Claw",
+  "site_title": "每日新聞簡報",
+  "language": "zh-Hant",
+  "timezone": "Asia/Taipei",
+  "max_topics_per_section": 2,
+  "sections": [
+    "technology",
+    "politics",
+    "economy"
+  ],
+  "output_dir": "docs",
+  "archive_dir": "docs/archive",
+  "data_dir": "data/processed"
+}
