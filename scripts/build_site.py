@@ -194,15 +194,15 @@ def page_shell(title, meta_line, intro_text, body_html):
 """
 
 
-def build_main_content(digest):
+def build_main_content(digest, archive_link):
     generated_at = format_generated_date(digest.get("generated_at_utc", ""))
     summary = digest.get("summary", {})
     sections = digest.get("sections", {})
 
-    nav_html = """
+    nav_html = f"""
     <section class="nav-box">
       <h2>導覽</h2>
-      <p><a href="./archive.html">查看歷史簡報</a></p>
+      <p><a href="{archive_link}">查看歷史簡報</a></p>
     </section>
     """
 
@@ -274,23 +274,23 @@ def main():
     generated_at = digest.get("generated_at_utc", "")
     archive_date = extract_archive_date(generated_at)
 
-    main_html = build_main_content(digest)
-    archive_html = build_archive_page()
-
     OUTPUT_INDEX.parent.mkdir(parents=True, exist_ok=True)
     ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
 
     archive_output_file = ARCHIVE_DIR / f"{archive_date}.html"
 
+    homepage_html = build_main_content(digest, archive_link="./archive.html")
+    archive_day_html = build_main_content(digest, archive_link="../archive.html")
+    archive_index_html = build_archive_page()
+
     with open(OUTPUT_INDEX, "w", encoding="utf-8") as f:
-        f.write(main_html)
+        f.write(homepage_html)
 
     with open(archive_output_file, "w", encoding="utf-8") as f:
-        f.write(main_html)
+        f.write(archive_day_html)
 
-    archive_html = build_archive_page()
     with open(ARCHIVE_INDEX, "w", encoding="utf-8") as f:
-        f.write(archive_html)
+        f.write(archive_index_html)
 
     print(f"Homepage generated: {OUTPUT_INDEX}")
     print(f"Archive page generated: {archive_output_file}")
