@@ -407,7 +407,34 @@ def select_top_items_by_section(items):
     for section in TARGET_SECTIONS:
         section_items = [item for item in items if item.get("category") == section]
         section_items = sort_items(section_items)
-        sections[section] = section_items[:MAX_TOPICS_PER_SECTION]
+
+        if not section_items:
+            sections[section] = []
+            continue
+
+        selected = []
+
+        # 第 1 則：直接取最高分
+        first_item = section_items[0]
+        selected.append(first_item)
+
+        # 第 2 則：優先找不同 topic_type
+        first_topic = first_item.get("topic_type", "general")
+        second_item = None
+
+        for item in section_items[1:]:
+            if item.get("topic_type", "general") != first_topic:
+                second_item = item
+                break
+
+        # 若找不到不同 topic_type，才退回下一則最高分
+        if second_item is None and len(section_items) > 1:
+            second_item = section_items[1]
+
+        if second_item is not None:
+            selected.append(second_item)
+
+        sections[section] = selected[:MAX_TOPICS_PER_SECTION]
 
     return sections
 
