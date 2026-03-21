@@ -222,6 +222,43 @@ def compute_relevance_score(category, topic_type, title, summary, source_name):
 
     return score
 
+
+def get_topic_priority_score(category, topic_type):
+    priority_map = {
+        "technology": {
+            "chips": 10,
+            "ai": 9,
+            "regulation": 8,
+            "cybersecurity": 8,
+            "platforms": 7,
+            "devices": 5,
+            "general": 3,
+        },
+        "politics": {
+            "security": 10,
+            "us_china": 9,
+            "uk": 9,
+            "election": 8,
+            "europe": 8,
+            "taiwan": 7,
+            "diplomacy": 7,
+            "general": 3,
+        },
+        "economy": {
+            "rates": 10,
+            "inflation": 9,
+            "energy": 8,
+            "markets": 7,
+            "corporate": 6,
+            "jobs": 5,
+            "supply_chain": 5,
+            "general": 3,
+        },
+    }
+
+    return priority_map.get(category, {}).get(topic_type, 3)
+    
+
 def find_supporting_sources(primary_item, candidate_items):
     primary_category = primary_item.get("category", "")
     primary_topic = primary_item.get("topic_type", "general")
@@ -445,6 +482,7 @@ def dedupe_items(items):
         briefing = build_briefing(category, topic_type, title_clean, summary_clean)
         dt = best_datetime(item)
         relevance_score = compute_relevance_score(category, topic_type, title_clean, summary_clean, source_name)
+        topic_priority_score = get_topic_priority_score(category, topic_type)
 
         cleaned_item = {
             "category": category,
@@ -459,6 +497,7 @@ def dedupe_items(items):
             "topic_type": topic_type,
             "relevance_score": relevance_score,
             "briefing": briefing,
+            "topic_priority_score": topic_priority_score,
         }
         deduped.append(cleaned_item)
 
@@ -467,10 +506,11 @@ def dedupe_items(items):
 
 def sort_items(items):
     def sort_key(item):
+        topic_priority = item.get("topic_priority_score", 0)
         relevance = item.get("relevance_score", 0)
         parsed = item.get("published_at_utc", "")
         title = item.get("title", "")
-        return (relevance, parsed, title)
+        return (topic_priority, relevance, parsed, title)
 
     return sorted(items, key=sort_key, reverse=True)
 
