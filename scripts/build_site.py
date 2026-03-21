@@ -71,14 +71,30 @@ def escape_html(text):
 
 def build_topic_card(item):
     title = escape_html(item.get("title", "未命名標題"))
-    summary = escape_html(item.get("summary", ""))
     source_name = escape_html(item.get("source_name", "Unknown source"))
     link = escape_html(item.get("link", ""))
     published_at = format_item_time(item.get("published_at_utc", ""))
 
-    summary_html = f"<p class='topic-summary'>{summary}</p>" if summary else "<p class='topic-summary'>暫無摘要。</p>"
+    briefing = item.get("briefing", {})
+    news_focus = escape_html(briefing.get("news_focus", item.get("summary", "")))
+    background = escape_html(briefing.get("background", ""))
+    analysis = escape_html(briefing.get("analysis", ""))
+    stakeholders = briefing.get("stakeholders", [])
+
     time_html = f"<span class='time-badge'>{escape_html(published_at)}</span>" if published_at else ""
     source_html = f"<span class='source-badge'>{source_name}</span>"
+
+    stakeholder_html = ""
+    if stakeholders:
+        tags = "".join(
+            f"<span class='stakeholder-badge'>{escape_html(str(x))}</span>"
+            for x in stakeholders
+        )
+        stakeholder_html = f"""
+        <div class="stakeholder-row">
+          {tags}
+        </div>
+        """
 
     if link:
         title_html = f'<h3><a href="{link}" target="_blank" rel="noopener noreferrer">{title}</a></h3>'
@@ -92,7 +108,14 @@ def build_topic_card(item):
         {source_html}
         {time_html}
       </div>
-      {summary_html}
+
+      <div class="briefing-block">
+        <p><strong>重點新聞內容：</strong>{news_focus}</p>
+        <p><strong>背景說明與脈絡：</strong>{background}</p>
+        <p><strong>涉及利益方的角力分析：</strong>{analysis}</p>
+      </div>
+
+      {stakeholder_html}
     </article>
     """
 
@@ -213,7 +236,27 @@ def page_shell(title, meta_line, intro_text, body_html):
       background: #e0ecff;
       color: #1e3a8a;
     }}
-    .time-badge {{
+        .briefing-block {
+      margin-top: 10px;
+    }
+    .briefing-block p {
+      margin: 8px 0;
+    }
+    .stakeholder-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 12px;
+    }
+    .stakeholder-badge {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 13px;
+      line-height: 1.4;
+      background: #ecfdf5;
+      color: #065f46;
+    }.time-badge {{
       background: #f3f4f6;
       color: #4b5563;
     }}
