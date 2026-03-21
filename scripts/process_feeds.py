@@ -542,6 +542,7 @@ def sort_items(items):
 
 def select_top_items_by_section(items):
     sections = {section: [] for section in TARGET_SECTIONS}
+    further_reading = {section: [] for section in TARGET_SECTIONS}
 
     for section in TARGET_SECTIONS:
         section_items = [item for item in items if item.get("category") == section]
@@ -549,15 +550,14 @@ def select_top_items_by_section(items):
 
         if not section_items:
             sections[section] = []
+            further_reading[section] = []
             continue
 
         selected = []
 
-        # 第 1 則：直接取最高分
         first_item = dict(section_items[0])
         selected.append(first_item)
 
-        # 第 2 則：優先找不同 topic_type
         first_topic = first_item.get("topic_type", "general")
         second_item = None
 
@@ -566,30 +566,63 @@ def select_top_items_by_section(items):
                 second_item = dict(item)
                 break
 
-        # 若找不到不同 topic_type，才退回下一則最高分
         if second_item is None and len(section_items) > 1:
             second_item = dict(section_items[1])
 
         if second_item is not None:
             selected.append(second_item)
 
-        # 為已選項目補上多來源支撐資訊
+        # Third item: different topic_type from both prior selections
+        selected_topics = {i.get("topic_type", "general") for i in selected}
+        third_item = None
+
+        for item in section_items:
+            if item in selected:
+                continue
+            if item.get("topic_type", "general") not in selected_topics:
+                third_item = dict(item)
+                break
+
+        if third_item is None:
+            for item in section_items:
+                if item not in selected and len(selected) < MAX_TOPICS_PER_SECTION:
+                    third_item = dict(item)
+                    break
+
+        if third_item is not None:
+            selected.append(third_item)
+
+        # Enrich selected items with supporting source data
         enriched_selected = []
         for selected_item in selected:
             supporting_sources, supporting_titles = find_supporting_sources(selected_item, section_items)
-
             selected_item["supporting_sources"] = supporting_sources
             selected_item["supporting_titles"] = supporting_titles
             selected_item["source_count"] = 1 + len(supporting_sources)
-
             enriched_selected.append(selected_item)
 
         sections[section] = enriched_selected[:MAX_TOPICS_PER_SECTION]
 
-    return sections
+        # Capture further reading: ranked items not already selected, up to 10
+        selected_titles = {i.get("title", "") for i in enriched_selected}
+        further = [
+            {
+                "title": item.get("title", ""),
+                "link": item.get("link", ""),
+                "source_name": item.get("source_name", ""),
+                "published_at_utc": item.get("published_at_utc", ""),
+                "relevance_score": item.get("relevance_score", 0),
+            }
+            for item in section_items
+            if item.get("title", "") not in selected_titles
+        ][:10]
+
+        further_reading[section] = further
+
+    return sections, further_reading
     
 
-def build_digest(raw_items, deduped_items, sections):
+def build_digest(raw_items, deduped_items, sections, further_reading):
     topic_mix = {}
     multi_source_count = 0
 
@@ -608,6 +641,7 @@ def build_digest(raw_items, deduped_items, sections):
             "multi_source_selected_count": multi_source_count,
         },
         "sections": sections,
+        "further_reading": further_reading,
     }
 
 
@@ -616,14 +650,18 @@ def main():
 
     raw_items = load_raw_files()
     deduped_items = dedupe_items(raw_items)
-    sections = select_top_items_by_section(deduped_items)
-    digest = build_digest(raw_items, deduped_items, sections)
+    sections, further_reading = select_top_items_by_section(deduped_items)
+    digest = build_digest(raw_items, deduped_items, sections, further_reading)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(digest, f, ensure_ascii=False, indent=2)
 
     print("Daily digest generated.")
     print(json.dumps(digest["summary"], ensure_ascii=False, indent=2))
+
+
+if __name__ == "__main__":
+    main()
 
 
 if __name__ == "__main__":
