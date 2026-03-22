@@ -5,11 +5,24 @@
     "feed_url": "https://techcrunch.com/feed/",
     "feed_title": "TechCrunch",
     "feed_link": "https://techcrunch.com/",
-    "fetched_at_utc": "2026-03-22T18:27:28.010422+00:00",
+    "fetched_at_utc": "2026-03-22T19:02:55.160942+00:00",
     "entry_count": 20,
-    "bozo": false
+    "bozo": false,
+    "failed": false,
+    "failure_reason": ""
   },
   "items": [
+    {
+      "category": "technology",
+      "source_name": "TechCrunch",
+      "feed_url": "https://techcrunch.com/feed/",
+      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+      "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "summary": "Building on top of a Chinese model feels particularly fraught right now.",
+      "published": "Sun, 22 Mar 2026 18:41:09 +0000",
+      "updated": "Sun, 22 Mar 2026 18:41:09 +0000",
+      "id": "https://techcrunch.com/?p=3104724"
+    },
     {
       "category": "technology",
       "source_name": "TechCrunch",
@@ -218,17 +231,6 @@
       "published": "Fri, 20 Mar 2026 16:27:43 +0000",
       "updated": "Fri, 20 Mar 2026 16:27:43 +0000",
       "id": "https://techcrunch.com/?p=3104370"
-    },
-    {
-      "category": "technology",
-      "source_name": "TechCrunch",
-      "feed_url": "https://techcrunch.com/feed/",
-      "title": "US accuses Iran’s government of operating hacktivist group that hacked Stryker",
-      "link": "https://techcrunch.com/2026/03/20/u-s-accuses-irans-government-of-operating-hacktivist-group-that-hacked-stryker/",
-      "summary": "The U.S. Justice Department said an Iranian security ministry operates the fake activist persona known as Handala, which claimed responsibility for the destructive hack targeting medical tech giant Stryker.",
-      "published": "Fri, 20 Mar 2026 16:18:57 +0000",
-      "updated": "Fri, 20 Mar 2026 16:18:57 +0000",
-      "id": "https://techcrunch.com/?p=3104401"
     }
   ]
 }
