@@ -63,8 +63,7 @@ def parse_feed(category, source):
         "bozo": getattr(parsed, "bozo", 0),
         "failed": failed,
         "failure_reason": failure_reason,
-    },
-    }
+        }
 
     return {
         "meta": feed_meta,
