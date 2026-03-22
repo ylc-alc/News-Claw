@@ -28,45 +28,170 @@ MAJOR_UPDATE_SIGNALS = [
 ]
 
 TECH_KEYWORDS = {
-    "ai": ["ai", "artificial intelligence", "openai", "chatgpt", "model", "llm", "nvidia", "anthropic", "gemini"],
-    "chips": ["chip", "chips", "semiconductor", "tsmc", "intel", "amd", "qualcomm", "gpu", "foundry"],
-    "platforms": ["meta", "x", "tiktok", "google", "apple", "microsoft", "amazon", "platform", "social media"],
-    "cybersecurity": ["cyber", "security", "hack", "breach", "malware", "ransomware"],
-    "devices": ["iphone", "smartphone", "device", "laptop", "hardware", "wearable"],
-    "regulation": ["antitrust", "regulator", "regulation", "eu", "commission", "fine", "lawsuit"],
+    "ai": [
+        "artificial intelligence", "openai", "chatgpt", "llm", "anthropic",
+        "machine learning", "neural network", "deep learning", "gemini",
+        "claude ai", "copilot", "grok", "large language model",
+    ],
+    "chips": [
+        "semiconductor", "tsmc", "nvidia", "silicon", "chip fabrication",
+        "export controls", "intel", "arm chips", "microchip", "gpu",
+        "chip shortage", "foundry", "palantir", "defense tech",
+        "pentagon tech", "military ai", "anduril",
+    ],
+    "quantum_computing": [
+        "quantum computing", "qubit", "quantum supremacy",
+        "quantum encryption", "ibm quantum", "google quantum",
+    ],
+    "platform_regulation": [
+        "platform regulation", "digital markets act", "dma",
+        "digital services act", "antitrust", "tech monopoly",
+        "fcc", "ftc tech", "tech regulation", "content moderation",
+    ],
+    "cybersecurity": [
+        "cybersecurity", "ransomware", "malware", "phishing",
+        "data breach", "zero day", "cyberattack", "state sponsored cyber",
+        "hacked", "vulnerability", "exploit",
+    ],
+    "space_tech": [
+        "spacex", "nasa", "esa", "satellite", "orbital",
+        "blue origin", "lunar mission", "rocket launch", "space station",
+    ],
+    "green_tech": [
+        "cleantech", "ev battery", "solar tech", "carbon capture",
+        "solid state battery", "renewable energy tech", "electric vehicle tech",
+    ],
+    "data_privacy": [
+        "data privacy", "gdpr", "ccpa", "user tracking",
+        "cookie", "privacy policy", "data surveillance", "facial recognition",
+    ],
+    "social_media": [
+        "algorithm", "social media", "tiktok", "meta", "x twitter",
+        "recommendation engine", "shadowban", "content moderation",
+        "feed ranking", "youtube algorithm",
+    ],
 }
 
 POLITICS_KEYWORDS = {
-    "us_china": ["china", "beijing", "washington", "u.s.", "us ", "tariff", "trade war"],
-    "europe": ["eu", "european union", "brussels", "commission", "nato"],
-    "uk": ["uk", "britain", "british", "london", "westminster"],
-    "taiwan": ["taiwan", "taipei", "strait"],
-    "election": ["election", "vote", "poll", "campaign", "parliament"],
-    "security": ["war", "missile", "military", "defence", "defense", "security", "attack"],
-    "diplomacy": ["sanction", "summit", "diplomatic", "talks", "ceasefire", "minister"],
+    "war_and_conflict": [
+        "ukraine", "russia ukraine", "gaza", "israel hamas", "middle east escalation",
+        "myanmar junta", "sudan conflict", "airstrike", "missile strike",
+        "ground offensive", "ceasefire talks", "war crimes", "siege",
+        "occupation", "iran attack", "hezbollah", "drone strike",
+    ],
+    "us_china_relations": [
+        "us-china", "sino-us", "taiwan strait", "beijing washington",
+        "south china sea", "chip export ban", "decoupling",
+        "tech war", "us china trade", "prc",
+    ],
+    "eu_policy": [
+        "european union", "european commission", "brussels",
+        "ursula von der leyen", "european parliament",
+        "eu regulation", "eu policy", "nato", "eu sanctions",
+    ],
+    "uk_politics": [
+        "westminster", "downing street", "keir starmer",
+        "house of commons", "tories", "labour party",
+        "uk government", "uk policy", "parliament uk",
+    ],
+    "us_politics": [
+        "white house", "congress", "senate", "trump",
+        "us election", "presidential", "swing state",
+        "electoral college", "house representatives",
+    ],
+    "diplomacy": [
+        "summit", "bilateral talks", "un security council",
+        "g7", "g20", "diplomatic envoy", "peace treaty",
+        "brics", "state visit", "foreign minister",
+    ],
+    "democracy_autocracy": [
+        "democracy", "autocracy", "human rights",
+        "democratic backsliding", "authoritarian", "political prisoner",
+        "press freedom", "election fraud",
+    ],
+    "social_protests": [
+        "protest", "riot", "demonstration", "mass movement",
+        "civil unrest", "police crackdown", "coup",
+    ],
 }
 
 ECONOMY_KEYWORDS = {
-    "rates": ["interest rate", "rates", "federal reserve", "ecb", "boe", "central bank"],
-    "inflation": ["inflation", "cpi", "prices", "consumer prices"],
-    "jobs": ["jobs", "employment", "unemployment", "labour", "labor", "wages"],
-    "energy": ["oil", "gas", "energy", "opec", "crude"],
-    "supply_chain": ["supply chain", "shipping", "logistics", "factory", "manufacturing"],
-    "markets": ["stocks", "market", "bonds", "investors", "shares"],
-    "corporate": ["earnings", "revenue", "profit", "forecast", "sales"],
+    "interest_rates": [
+        "interest rate", "fed hike", "rate cut", "federal reserve",
+        "ecb rate", "boe rate", "bank of japan", "monetary policy",
+        "rate decision", "hawkish", "dovish",
+    ],
+    "inflation": [
+        "inflation", "cpi", "pce", "price index", "deflation",
+        "cost of living", "core inflation", "consumer prices",
+    ],
+    "trade_wars": [
+        "trade war", "tariffs", "protectionism", "wto",
+        "export ban", "import duty", "trade deficit", "us-china trade",
+        "trade deal", "trade barrier",
+    ],
+    "sanctions": [
+        "sanctions", "ofac", "economic sanctions", "embargo",
+        "asset freeze", "swift ban", "oligarch", "trade ban",
+    ],
+    "energy_markets": [
+        "oil price", "brent crude", "wti", "natural gas",
+        "opec", "energy market", "lng export", "energy crisis",
+    ],
+    "labour_markets": [
+        "jobs report", "unemployment rate", "labour market",
+        "wage growth", "jobless claims", "payroll", "layoffs",
+        "hiring freeze", "workforce",
+    ],
+    "supply_chain": [
+        "supply chain", "logistics", "freight", "shipping disruption",
+        "port strike", "semiconductor shortage", "manufacturing bottleneck",
+    ],
+    "emerging_markets": [
+        "emerging market", "sovereign default", "imf bailout",
+        "world bank", "global south debt", "debt restructuring",
+        "developing economy",
+    ],
+    "corporate_earnings": [
+        "earnings", "revenue growth", "profit margin",
+        "guidance", "wall street", "quarterly results",
+        "beat estimates", "missed forecast",
+    ],
+    "markets": [
+        "stocks", "bonds", "investors", "selloff", "rally",
+        "market volatility", "equity", "yield curve",
+    ],
 }
 
 LOW_SIGNAL_PATTERNS = [
-    "visits",
-    "inside",
-    "how ",
-    "feature",
-    "lifestyle",
-    "animal",
-    "food waste",
-    "travel",
-    "culture",
+    "visits", "inside look", "lifestyle", "food waste", "travel guide",
+    "culture review", "film review", "movie review", "book review",
+    "recipe", "fashion", "celebrity", "gossip", "entertainment",
+    "wins wimbledon", "tennis match", "match result", "game result",
+    "tournament result", "sporting victory", "beats in final",
+    "scores goal", "nfl week", "nba scores", "premier league result",
+    "cricket scores", "formula one race result",
 ]
+
+
+REGIONAL_PRIORITY = {
+    "high": [
+        "united states", "u.s.", " us ", "american", "washington dc",
+        "white house", "pentagon", "congress",
+        "china", "chinese", "beijing", " prc ",
+        "united kingdom", " uk ", "british", "britain", "london",
+        "downing street", "westminster",
+        "european union", "europe", "european", "brussels",
+        "nato", "g7", "g20",
+        "taiwan", "taipei", "taiwan strait",
+    ],
+    "medium": [
+        "japan", "tokyo", "india", "new delhi", "germany", "berlin",
+        "france", "paris", "russia", "moscow", "ukraine", "kyiv",
+        "south korea", "seoul", "middle east", "israel", "gaza",
+        "iran", "tehran", "saudi arabia",
+    ],
+}
 
 
 def load_raw_files():
@@ -286,8 +411,21 @@ def compute_relevance_score(category, topic_type, title, summary, source_name, p
     if category == "politics" and topic_type in {"us_china", "security", "election", "diplomacy", "taiwan"}:
         score += 3
 
-    if category == "economy" and topic_type in {"rates", "inflation", "energy", "markets", "corporate"}:
+    if category == "economy" and topic_type in {
+        "interest_rates", "inflation", "trade_wars", "sanctions", "energy_markets", "markets"
+    }:
         score += 3
+
+    blob_lower = f"{title_l} {summary_l}"
+    for region in REGIONAL_PRIORITY["high"]:
+        if region in blob_lower:
+            score += 4
+            break
+    else:
+        for region in REGIONAL_PRIORITY["medium"]:
+            if region in blob_lower:
+                score += 2
+                break
 
     if published_dt is not None:
         age_hours = (datetime.now(timezone.utc) - published_dt).total_seconds() / 3600
@@ -306,36 +444,42 @@ def compute_relevance_score(category, topic_type, title, summary, source_name, p
 def get_topic_priority_score(category, topic_type):
     priority_map = {
         "technology": {
-            "chips": 10,
-            "ai": 9,
-            "regulation": 8,
-            "cybersecurity": 8,
-            "platforms": 7,
-            "devices": 5,
-            "general": 3,
+            "chips":             10,
+            "ai":                 9,
+            "cybersecurity":      9,
+            "platform_regulation":8,
+            "data_privacy":       7,
+            "quantum_computing":  7,
+            "social_media":       6,
+            "green_tech":         5,
+            "space_tech":         4,
+            "general":            3,
         },
         "politics": {
-            "security": 10,
-            "us_china": 9,
-            "uk": 9,
-            "election": 8,
-            "europe": 8,
-            "taiwan": 7,
-            "diplomacy": 7,
-            "general": 3,
+            "war_and_conflict":  11,
+            "us_china_relations":10,
+            "eu_policy":          9,
+            "uk_politics":        9,
+            "us_politics":        8,
+            "diplomacy":          7,
+            "democracy_autocracy":6,
+            "social_protests":    5,
+            "general":            3,
         },
         "economy": {
-            "rates": 10,
-            "inflation": 9,
-            "energy": 8,
-            "markets": 7,
-            "corporate": 6,
-            "jobs": 5,
-            "supply_chain": 5,
-            "general": 3,
+            "interest_rates":    10,
+            "inflation":          9,
+            "trade_wars":         9,
+            "sanctions":          8,
+            "energy_markets":     8,
+            "labour_markets":     7,
+            "supply_chain":       6,
+            "emerging_markets":   6,
+            "corporate_earnings": 5,
+            "markets":            4,
+            "general":            3,
         },
     }
-
     return priority_map.get(category, {}).get(topic_type, 3)
 
 
@@ -551,30 +695,85 @@ def apply_novelty_penalties(items, seen_topics):
     return items
 
 
-def detect_cross_section_stories(sections):
-    all_selected = [
-        (section_key, item)
-        for section_key, items in sections.items()
-        for item in items
-    ]
+def resolve_cross_section_conflicts(sections, section_pools, further_reading):
+    section_keys = list(sections.keys())
+    processed_pairs = set()
 
-    section_labels = {"technology": "科技", "politics": "政治", "economy": "經濟"}
+    for i, sec_a in enumerate(section_keys):
+        for sec_b in section_keys[i + 1:]:
+            for item_a in list(sections.get(sec_a, [])):
+                for item_b in list(sections.get(sec_b, [])):
+                    title_a = item_a.get("title", "")
+                    title_b = item_b.get("title", "")
+                    pair_key = (min(title_a, title_b), max(title_a, title_b))
+                    if pair_key in processed_pairs:
+                        continue
+                    if title_overlap_score(title_a, title_b) < 0.4:
+                        continue
 
-    for i, (sec_a, item_a) in enumerate(all_selected):
-        for j, (sec_b, item_b) in enumerate(all_selected):
-            if i >= j or sec_a == sec_b:
-                continue
-            overlap = title_overlap_score(item_a.get("title", ""), item_b.get("title", ""))
-            if overlap >= 0.4:
-                refs_a = item_a.setdefault("cross_section_refs", [])
-                if sec_b not in refs_a:
-                    refs_a.append(sec_b)
-                refs_b = item_b.setdefault("cross_section_refs", [])
-                if sec_a not in refs_b:
-                    refs_b.append(sec_a)
+                    processed_pairs.add(pair_key)
 
-    return sections
+                    selected_a = {x.get("title", "") for x in sections.get(sec_a, [])}
+                    selected_b = {x.get("title", "") for x in sections.get(sec_b, [])}
+                    further_a  = {x.get("title", "") for x in further_reading.get(sec_a, [])}
+                    further_b  = {x.get("title", "") for x in further_reading.get(sec_b, [])}
 
+                    next_a = next(
+                        (x for x in section_pools.get(sec_a, [])
+                         if x.get("title", "") not in selected_a | further_a
+                         and x.get("title", "") != title_a),
+                        None,
+                    )
+                    next_b = next(
+                        (x for x in section_pools.get(sec_b, [])
+                         if x.get("title", "") not in selected_b | further_b
+                         and x.get("title", "") != title_b),
+                        None,
+                    )
+
+                    score_next_a = next_a.get("relevance_score", 0) if next_a else -999
+                    score_next_b = next_b.get("relevance_score", 0) if next_b else -999
+
+                    if score_next_b >= score_next_a:
+                        keeper_sec, keeper_item = sec_a, item_a
+                        loser_sec,  loser_item  = sec_b, item_b
+                        promotee = next_b
+                    else:
+                        keeper_sec, keeper_item = sec_b, item_b
+                        loser_sec,  loser_item  = sec_a, item_a
+                        promotee = next_a
+
+                    sections[loser_sec] = [
+                        x for x in sections[loser_sec]
+                        if x.get("title", "") != loser_item.get("title", "")
+                    ]
+
+                    fr_entry = {
+                        "title":          loser_item.get("title", ""),
+                        "link":           loser_item.get("link", ""),
+                        "source_name":    loser_item.get("source_name", ""),
+                        "published_at_utc": loser_item.get("published_at_utc", ""),
+                        "relevance_score": loser_item.get("relevance_score", 0),
+                    }
+                    fr_list = further_reading.setdefault(loser_sec, [])
+                    fr_list.insert(0, fr_entry)
+                    further_reading[loser_sec] = fr_list[:10]
+
+                    if promotee:
+                        p = dict(promotee)
+                        sup, sup_titles = find_supporting_sources(
+                            p, section_pools.get(loser_sec, [])
+                        )
+                        p["supporting_sources"] = sup
+                        p["supporting_titles"]  = sup_titles
+                        p["source_count"]        = 1 + len(sup)
+                        sections[loser_sec].append(p)
+
+                    refs = keeper_item.setdefault("cross_section_refs", [])
+                    if loser_sec not in refs:
+                        refs.append(loser_sec)
+
+    return sections, further_reading
 
 def save_seen_topics(seen_topics, sections):
     today = datetime.now(timezone.utc).date().isoformat()
@@ -682,67 +881,60 @@ def sort_items(items):
 def select_top_items_by_section(items):
     sections = {section: [] for section in TARGET_SECTIONS}
     further_reading = {section: [] for section in TARGET_SECTIONS}
+    section_pools = {section: [] for section in TARGET_SECTIONS}
 
     for section in TARGET_SECTIONS:
         section_items = [item for item in items if item.get("category") == section]
         section_items = sort_items(section_items)
+        section_pools[section] = section_items
 
         if not section_items:
-            sections[section] = []
-            further_reading[section] = []
             continue
 
         selected = []
-
         first_item = dict(section_items[0])
         selected.append(first_item)
 
         first_topic = first_item.get("topic_type", "general")
         second_item = None
-
         for item in section_items[1:]:
             if item.get("topic_type", "general") != first_topic:
                 second_item = dict(item)
                 break
-
         if second_item is None and len(section_items) > 1:
             second_item = dict(section_items[1])
-
         if second_item is not None:
             selected.append(second_item)
 
-        # Third item: different topic_type from both prior selections
         selected_topics = {i.get("topic_type", "general") for i in selected}
         third_item = None
-
         for item in section_items:
-            if item in selected:
+            if any(i.get("title") == item.get("title") for i in selected):
                 continue
             if item.get("topic_type", "general") not in selected_topics:
                 third_item = dict(item)
                 break
-
         if third_item is None:
             for item in section_items:
-                if item not in selected and len(selected) < MAX_TOPICS_PER_SECTION:
-                    third_item = dict(item)
-                    break
-
+                if not any(i.get("title") == item.get("title") for i in selected):
+                    if len(selected) < MAX_TOPICS_PER_SECTION:
+                        third_item = dict(item)
+                        break
         if third_item is not None:
             selected.append(third_item)
 
-        # Enrich selected items with supporting source data
         enriched_selected = []
-        for selected_item in selected:
-            supporting_sources, supporting_titles = find_supporting_sources(selected_item, section_items)
+        for selected_item in selected[:MAX_TOPICS_PER_SECTION]:
+            supporting_sources, supporting_titles = find_supporting_sources(
+                selected_item, section_items
+            )
             selected_item["supporting_sources"] = supporting_sources
             selected_item["supporting_titles"] = supporting_titles
             selected_item["source_count"] = 1 + len(supporting_sources)
             enriched_selected.append(selected_item)
 
-        sections[section] = enriched_selected[:MAX_TOPICS_PER_SECTION]
+        sections[section] = enriched_selected
 
-        # Capture further reading: ranked items not already selected, up to 10
         selected_titles = {i.get("title", "") for i in enriched_selected}
         further = [
             {
@@ -755,10 +947,9 @@ def select_top_items_by_section(items):
             for item in section_items
             if item.get("title", "") not in selected_titles
         ][:10]
-
         further_reading[section] = further
 
-    return sections, further_reading
+    return sections, further_reading, section_pools
     
 
 def build_digest(raw_items, deduped_items, sections, further_reading):
@@ -791,8 +982,10 @@ def main():
     raw_items = load_raw_files()
     deduped_items = dedupe_items(raw_items)
     deduped_items = apply_novelty_penalties(deduped_items, seen_topics)
-    sections, further_reading = select_top_items_by_section(deduped_items)
-    sections = detect_cross_section_stories(sections)
+    sections, further_reading, section_pools = select_top_items_by_section(deduped_items)
+    sections, further_reading = resolve_cross_section_conflicts(
+        sections, section_pools, further_reading
+    )
     digest = build_digest(raw_items, deduped_items, sections, further_reading)
     save_seen_topics(seen_topics, sections)
 
