@@ -578,21 +578,18 @@ def find_supporting_sources(primary_item, candidate_items):
     primary_topic = primary_item.get("topic_type", "general")
     primary_source = primary_item.get("source_name", "")
     primary_title = primary_item.get("title", "")
-
     primary_tokens = set(tokenise_title(primary_title))
 
     supporting_sources = []
     supporting_titles = []
-
+    supporting_links = []
     seen_sources = set()
 
     for item in candidate_items:
         if item is primary_item:
             continue
-
         if item.get("category", "") != primary_category:
             continue
-
         candidate_source = item.get("source_name", "")
         if candidate_source == primary_source:
             continue
@@ -601,29 +598,25 @@ def find_supporting_sources(primary_item, candidate_items):
         candidate_title = item.get("title", "")
         candidate_tokens = set(tokenise_title(candidate_title))
 
-        # topic_type 放寬：相同即可，或任一方為 general
         topic_compatible = (
             candidate_topic == primary_topic
             or candidate_topic == "general"
             or primary_topic == "general"
         )
-
         if not topic_compatible:
             continue
 
         overlap = title_overlap_score(primary_title, candidate_title)
         shared_tokens = primary_tokens.intersection(candidate_tokens)
 
-        # 放寬規則：
-        # 1) overlap >= 0.4
-        # 或 2) 共享至少 2 個 token
         if overlap >= 0.4 or len(shared_tokens) >= 2:
             if candidate_source not in seen_sources:
                 supporting_sources.append(candidate_source)
                 supporting_titles.append(candidate_title)
+                supporting_links.append(item.get("link", ""))
                 seen_sources.add(candidate_source)
 
-    return supporting_sources, supporting_titles
+    return supporting_sources, supporting_titles, supporting_links
 
 
 def build_news_focus(title, summary):
@@ -761,11 +754,12 @@ def resolve_cross_section_conflicts(sections, section_pools, further_reading):
 
                     if promotee:
                         p = dict(promotee)
-                        sup, sup_titles = find_supporting_sources(
+                        sup, sup_titles, sup_links = find_supporting_sources(
                             p, section_pools.get(loser_sec, [])
                         )
                         p["supporting_sources"] = sup
                         p["supporting_titles"]  = sup_titles
+                        p["supporting_links"]   = sup_links
                         p["source_count"]        = 1 + len(sup)
                         sections[loser_sec].append(p)
 
@@ -925,11 +919,12 @@ def select_top_items_by_section(items):
 
         enriched_selected = []
         for selected_item in selected[:MAX_TOPICS_PER_SECTION]:
-            supporting_sources, supporting_titles = find_supporting_sources(
+            supporting_sources, supporting_titles, supporting_links = find_supporting_sources(
                 selected_item, section_items
             )
             selected_item["supporting_sources"] = supporting_sources
             selected_item["supporting_titles"] = supporting_titles
+            selected_item["supporting_links"] = supporting_links
             selected_item["source_count"] = 1 + len(supporting_sources)
             enriched_selected.append(selected_item)
 
