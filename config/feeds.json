@@ -1,68 +1,37 @@
 {
   "technology": [
-    {
-      "name": "BBC Technology",
-      "url": "http://feeds.bbci.co.uk/news/technology/rss.xml"
-    },
-    {
-      "name": "The Guardian Technology",
-      "url": "https://www.theguardian.com/uk/technology/rss"
-    },
-    {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+technology&ceid=US:en&hl=en-US&gl=US"
-    },
-    {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+technology&ceid=US:en&hl=en-US&gl=US"
-    }
+    { "name": "BBC Technology",        "url": "http://feeds.bbci.co.uk/news/technology/rss.xml" },
+    { "name": "TechCrunch",            "url": "https://techcrunch.com/feed/" },
+    { "name": "The Verge",             "url": "https://www.theverge.com/rss/index.xml" },
+    { "name": "Wired",                 "url": "https://www.wired.com/feed/rss" },
+    { "name": "Ars Technica",          "url": "http://feeds.arstechnica.com/arstechnica/index/" },
+    { "name": "Rest of World",         "url": "https://restofworld.org/feed/latest" },
+    { "name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/" },
+    { "name": "Reuters",               "url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+technology&ceid=US:en&hl=en-US&gl=US" },
+    { "name": "Associated Press",      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+technology&ceid=US:en&hl=en-US&gl=US" }
   ],
   "politics": [
-    {
-      "name": "BBC World",
-      "url": "http://feeds.bbci.co.uk/news/world/rss.xml"
-    },
-    {
-      "name": "The Guardian World",
-      "url": "https://www.theguardian.com/world/rss"
-    },
-    {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US"
-    },
-    {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+world-news&ceid=US:en&hl=en-US&gl=US"
-    },
-    {
-      "name": "Focus Taiwan (CNA)",
-      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US"
-    },
-    {
-      "name": "Taipei Times",
-      "url": "https://www.taipeitimes.com/xml/index.rss"
-    }
+    { "name": "BBC World",             "url": "http://feeds.bbci.co.uk/news/world/rss.xml" },
+    { "name": "Al Jazeera",            "url": "https://www.aljazeera.com/xml/rss/all.xml" },
+    { "name": "The Guardian World",    "url": "https://www.theguardian.com/world/rss" },
+    { "name": "Fox News World",        "url": "https://moxie.foxnews.com/google-publisher/world.xml" },
+    { "name": "The Hindu International", "url": "https://www.thehindu.com/news/international/feeder/default.rss" },
+    { "name": "SCMP World",            "url": "https://www.scmp.com/rss/91/feed" },
+    { "name": "The Diplomat",          "url": "https://thediplomat.com/feed" },
+    { "name": "Focus Taiwan (CNA)",    "url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US" },
+    { "name": "Taipei Times",          "url": "https://www.taipeitimes.com/xml/index.rss" },
+    { "name": "Reuters",               "url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US" },
+    { "name": "Associated Press",      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+world-news&ceid=US:en&hl=en-US&gl=US" }
   ],
   "economy": [
-    {
-      "name": "BBC Business",
-      "url": "http://feeds.bbci.co.uk/news/business/rss.xml"
-    },
-    {
-      "name": "The Guardian Business",
-      "url": "https://www.theguardian.com/uk/business/rss"
-    },
-    {
-      "name": "Reuters",
-      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+business&ceid=US:en&hl=en-US&gl=US"
-    },
-    {
-      "name": "Associated Press",
-      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+business&ceid=US:en&hl=en-US&gl=US"
-    },
-    {
-      "name": "Focus Taiwan (CNA)",
-      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw+economy&ceid=US:en&hl=en-US&gl=US"
-    }
+    { "name": "BBC Business",          "url": "http://feeds.bbci.co.uk/news/business/rss.xml" },
+    { "name": "The Guardian Business", "url": "https://www.theguardian.com/uk/business/rss" },
+    { "name": "The Economist",         "url": "https://www.economist.com/finance-and-economics/rss.xml" },
+    { "name": "Nikkei Asia",           "url": "https://asia.nikkei.com/rss/feed/nar" },
+    { "name": "SCMP Business",         "url": "https://www.scmp.com/rss/92/feed" },
+    { "name": "Focus Taiwan (CNA)",    "url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw+economy&ceid=US:en&hl=en-US&gl=US" },
+    { "name": "Reuters",               "url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+business&ceid=US:en&hl=en-US&gl=US" },
+    { "name": "Associated Press",      "url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+business&ceid=US:en&hl=en-US&gl=US" },
+    { "name": "Wall Street Journal",   "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml" }
   ]
 }
