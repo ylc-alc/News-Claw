@@ -166,6 +166,69 @@ def update_multi_source_rate(digest, today):
     print(f"Multi-source rate log updated.")
 
 
+def update_feed_health(today):
+    raw_dir = BASE_DIR / "data" / "raw"
+    path = LOGS_DIR / "feed_health.json"
+    log = load_rolling_log(path)
+    entries = prune_old_entries(log.get("entries", []))
+
+    manifest_path = raw_dir / "_manifest.json"
+    if not manifest_path.exists():
+        print("Feed health: manifest not found, skipping.")
+        return
+
+    with open(manifest_path, "r", encoding="utf-8") as f:
+        manifest = json.load(f)
+
+    failed_feeds = []
+    healthy_feeds = []
+
+    for raw_file in sorted(raw_dir.glob("*.json")):
+        if raw_file.name == "_manifest.json":
+            continue
+        with open(raw_file, "r", encoding="utf-8") as f:
+            feed_data = json.load(f)
+        meta = feed_data.get("meta", {})
+        if meta.get("failed"):
+            failed_feeds.append({
+                "source_name":    meta.get("source_name", ""),
+                "category":       meta.get("category", ""),
+                "feed_url":       meta.get("feed_url", ""),
+                "failure_reason": meta.get("failure_reason", ""),
+            })
+        else:
+            healthy_feeds.append(meta.get("source_name", ""))
+
+    entries.append({
+        "date":          today,
+        "healthy_count": len(healthy_feeds),
+        "failed_count":  len(failed_feeds),
+        "failed_feeds":  failed_feeds,
+    })
+
+    persistent_failures = {}
+    for entry in entries:
+        for ff in entry.get("failed_feeds", []):
+            name = ff.get("source_name", "")
+            persistent_failures[name] = persistent_failures.get(name, 0) + 1
+
+    log["entries"] = entries
+    log["persistent_failures"] = dict(
+        sorted(persistent_failures.items(), key=lambda x: -x[1])
+    )
+    log["window_days"] = ROLLING_WINDOW_DAYS
+    log["last_updated"] = today
+
+    save_log(path, log)
+
+    if failed_feeds:
+        print(f"Feed health: {len(failed_feeds)} failed feed(s) today:")
+        for ff in failed_feeds:
+            print(f"  - {ff['source_name']} ({ff['category']}): {ff['failure_reason']}")
+    else:
+        print("Feed health: all feeds returned entries.")
+        
+
 def main():
     today = datetime.now(timezone.utc).date().isoformat()
 
