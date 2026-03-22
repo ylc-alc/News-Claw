@@ -27,6 +27,16 @@ def parse_feed(category, source):
 
     parsed = feedparser.parse(feed_url)
 
+    failed = False
+    failure_reason = ""
+
+    if getattr(parsed, "bozo", 0) and not parsed.entries:
+        failed = True
+        failure_reason = str(getattr(parsed, "bozo_exception", "unknown parse error"))
+    elif not parsed.entries:
+        failed = True
+        failure_reason = "feed returned zero entries"
+
     items = []
     for entry in parsed.entries:
         item = {
@@ -51,6 +61,9 @@ def parse_feed(category, source):
         "fetched_at_utc": datetime.now(timezone.utc).isoformat(),
         "entry_count": len(items),
         "bozo": getattr(parsed, "bozo", 0),
+        "failed": failed,
+        "failure_reason": failure_reason,
+    },
     }
 
     return {
