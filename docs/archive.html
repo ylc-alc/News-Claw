@@ -177,22 +177,19 @@
       border-top: 1px solid #f3f4f6;
       font-size: 14px;
       display: flex;
-      justify-content: space-between;
-      align-items: baseline;
-      gap: 10px;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 2px;
     }
     .further-reading-list li:first-child {
       border-top: none;
     }
     .further-reading-list a {
       color: #1f2937;
-      flex: 1;
     }
     .fr-source {
       font-size: 12px;
       color: #9ca3af;
-      white-space: nowrap;
-      flex-shrink: 0;
     }
     .time-badge {
       background: #f3f4f6;
@@ -295,7 +292,8 @@
       <h2>歷史簡報</h2>
       <p class="small-note">以下列出已保存的每日簡報頁面。</p>
       <ul class="archive-list">
-        <li><a href="./archive/2026-03-21.html">2026-03-21</a></li>
+        <li><a href="./archive/2026-03-22.html">2026-03-22</a></li>
+<li><a href="./archive/2026-03-21.html">2026-03-21</a></li>
       </ul>
     </section>
     
@@ -303,5 +301,34 @@
   <footer>
     <p>News-Claw automated daily briefing prototype.</p>
   </footer>
+  #back-to-top {
+      position: fixed;
+      bottom: 24px;
+      right: 20px;
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background: #2563eb;
+      color: #ffffff;
+      border: none;
+      font-size: 20px;
+      line-height: 1;
+      cursor: pointer;
+      display: none;
+      z-index: 999;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.18);
+    }
+    #back-to-top:hover {
+      background: #1d4ed8;
+    }
+    <button id="back-to-top" onclick="scrollToTop()" aria-label="回到頂部">↑</button>
+
+    <script>
+    function scrollToTop() { window.scrollTo({top: 0, behavior: 'smooth'}); }
+    window.addEventListener('scroll', function() {
+      document.getElementById('back-to-top').style.display =
+        window.scrollY > 300 ? 'block' : 'none';
+    });
+  </script>
 </body>
 </html>

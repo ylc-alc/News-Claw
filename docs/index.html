@@ -177,22 +177,19 @@
       border-top: 1px solid #f3f4f6;
       font-size: 14px;
       display: flex;
-      justify-content: space-between;
-      align-items: baseline;
-      gap: 10px;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 2px;
     }
     .further-reading-list li:first-child {
       border-top: none;
     }
     .further-reading-list a {
       color: #1f2937;
-      flex: 1;
     }
     .fr-source {
       font-size: 12px;
       color: #9ca3af;
-      white-space: nowrap;
-      flex-shrink: 0;
     }
     .time-badge {
       background: #f3f4f6;
@@ -279,7 +276,7 @@
 <body>
   <header>
     <h1>News-Claw</h1>
-    <p class="meta">每日新聞簡報｜科技、政治、經濟｜最後更新：2026-03-22 08:23 UTC</p>
+    <p class="meta">每日新聞簡報｜科技、政治、經濟｜最後更新：2026-03-22 18:27 UTC</p>
     <p>此頁根據 RSS 來源自動整理每日代表性新聞，並由 GitHub Pages 發布。</p>
   </header>
 
@@ -296,11 +293,11 @@
     
     <section class="summary-box">
       <h2>今日總覽</h2>
-      <div class="theme-of-day"><p>今日新聞呈現出科技、政治及經濟三大領域間的緊密聯繫。科技版面中，西方汽車製造商因未能跟上電動車發展而面臨市場邊緣化的風險，這一點與政治版面上特朗普對國土安全資金的威脅相呼應，顯示出在不確定的政策環境下，企業創新可能受到進一步抑制。此外，伊朗戰爭引發的通脹擔憂在經濟版面中引起廣泛關注，反映出地緣政治緊張局勢對全球市場的潛在衝擊，尤其是在能源價格上漲的背景下，進一步影響了民生及企業運營。</p></div>
+      <div class="theme-of-day"><p>今日新聞的整體敘事主軸圍繞著科技、政治與經濟之間的相互影響與緊張局勢。在科技版面中，Palantir的訴訟與馬斯克的晶片工廠計劃反映出科技企業在面對外部挑戰及市場需求時的應對策略；而政治版面則揭示中東及南海地區的緊張局勢如何影響國際關係，特別是美國對伊朗的軍事策略與菲律賓的間諜案件。經濟方面，金價的下滑與能源企業利潤的討論顯示出地緣政治對市場的深遠影響，尤其是在霍爾木茲海峽的衝突背景下，能源價格波動將進一步影響全球經濟格局。</p></div>
       <p>本頁由 GitHub Actions 自動更新，整理科技、政治與經濟三大領域的代表性新聞。</p>
       <ul>
-        <li>原始新聞總數：253</li>
-        <li>去重後新聞數：243</li>
+        <li>原始新聞總數：1058</li>
+        <li>去重後新聞數：1048</li>
         <li>最終入選主題數：9</li>
       </ul>
     </section>
@@ -310,62 +307,72 @@
       <p class='section-intro'>聚焦 AI、晶片、平台、資安與重大科技產業動向。</p>
       
     <article class="topic-card">
-      <h3><a href="https://www.theguardian.com/business/2026/mar/21/west-carmakers-retreat-electric-vehicle-risks-irrelevance-iran-war-evs-china" target="_blank" rel="noopener noreferrer">‘It’s stupid’: why western carmakers’ retreat from electric risks dooming them to irrelevance</a></h3>
+      <h3><a href="https://www.theguardian.com/global-development/2026/mar/20/us-tech-giant-palantir-swiss-magazine-wav" target="_blank" rel="noopener noreferrer">‘It does feel like an intimidation campaign’: why is US tech giant Palantir suing a small Swiss magazine?</a></h3>
       <div class="meta-row">
         <span class='source-badge'>The Guardian Technology</span>
-        <span class='time-badge'>2026-03-21 12:00 UTC</span>
-        
+        <span class='time-badge'>2026-03-20 06:00 UTC</span>
+        <span class='source-count-badge'>2 個來源支撐</span>
         
       </div>
 
       
       
+        <div class="supporting-source-row">
+          <span class="supporting-label">補充來源：</span>
+          <span class='supporting-source-badge'>BBC Technology</span>
+        </div>
+        
 
       <div class="briefing-block">
-        <p><strong>重點新聞內容：</strong>西方汽車製造商因重新聚焦於內燃機而放慢電動車（EV）發展，專家警告這可能導致其在全球市場的邊緣化，尤其是在中國競爭者迅速崛起的背景下。</p>
-        <p><strong>背景說明與脈絡：</strong>自1980年代以來，底特律的汽車製造商因未能適應市場變化而遭遇重創，當時日本汽車的燃油效率吸引了大量消費者。如今，隨著油價再次上漲，西方汽車製造商再次面臨類似的挑戰，但這次的威脅來自中國，該國在電動車領域的迅速發展使其成為全球領導者。西方企業的策略調整可能會影響整個產業的未來及美國的就業市場。</p>
-        <p><strong>涉及利益方的角力分析：</strong>西方汽車製造商的回退策略可能導致其在電動車市場的競爭力下降，尤其是在中國企業已經取得顯著進展的情況下。這一決策可能使他們失去未來市場的主導地位，並對美國的就業造成長期影響。另一方面，中國企業則可能利用這一機會進一步擴展其市場份額，並加強其在全球汽車產業中的影響力。各方對於未來汽車市場的看法存在分歧，西方企業似乎低估了電動車的潛力與市場需求。</p>
+        <p><strong>重點新聞內容：</strong>美國科技巨頭Palantir對瑞士小型雜誌Republik提起訴訟，原因是該雜誌的調查報導暗示Palantir在瑞士的業務表現不佳，這引發了對該公司的質疑與爭議。</p>
+        <p><strong>背景說明與脈絡：</strong>Palantir成立於2003年，專注於數據分析和軟體開發，並在全球範圍內提供服務。2019年，Palantir宣布在瑞士建立歐洲中心，期望擴展其在歐洲的市場。然而，隨著時間推移，該公司在瑞士的業務表現受到質疑，特別是當地媒體開始進行深入調查，揭露其業務運作的透明度問題，這引發了Palantir的強烈反應。</p>
+        <p><strong>涉及利益方的角力分析：</strong>Palantir的訴訟被視為對媒體自由的挑戰，可能會引發更廣泛的討論關於企業如何應對負面報導。對於Palantir而言，這一行動旨在保護其品牌形象及商業利益，但也可能被視為對言論自由的威脅。Republik雜誌則強調其調查的公正性，並可能因此獲得更多公眾支持，進一步促進對企業透明度的討論。此事件可能引發其他企業在面對媒體報導時的反應模式改變。</p>
       </div>
 
       
         <div class="stakeholder-row">
-          <span class='stakeholder-badge'>西方汽車製造商</span><span class='stakeholder-badge'>中國汽車製造商</span><span class='stakeholder-badge'>美國政府</span><span class='stakeholder-badge'>消費者</span><span class='stakeholder-badge'>環保組織</span>
+          <span class='stakeholder-badge'>Palantir</span><span class='stakeholder-badge'>Republik雜誌</span><span class='stakeholder-badge'>瑞士政府</span><span class='stakeholder-badge'>媒體界</span><span class='stakeholder-badge'>公眾</span>
         </div>
         
     </article>
     
 
     <article class="topic-card">
-      <h3><a href="https://www.bbc.com/news/articles/c624330lg1ko?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">US messageboard 4Chan mocks £520,000 fine for UK online safety breaches</a></h3>
+      <h3><a href="https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant" target="_blank" rel="noopener noreferrer">Musk says he’s building Terafab chip plant in Austin, Texas</a></h3>
       <div class="meta-row">
-        <span class='source-badge'>BBC Technology</span>
-        <span class='time-badge'>2026-03-19 12:13 UTC</span>
-        
+        <span class='source-badge'>The Verge</span>
+        <span class='time-badge'>2026-03-22 14:06 UTC</span>
+        <span class='source-count-badge'>2 個來源支撐</span>
         
       </div>
 
       
       
+        <div class="supporting-source-row">
+          <span class="supporting-label">補充來源：</span>
+          <span class='supporting-source-badge'>TechCrunch</span>
+        </div>
+        
 
       <div class="briefing-block">
-        <p><strong>重點新聞內容：</strong>美國論壇4Chan對英國因未能進行年齡檢查而遭罰52萬英鎊的事件表示嘲諷，該罰款中有45萬英鎊是針對未能防止兒童接觸色情內容的缺失。</p>
-        <p><strong>背景說明與脈絡：</strong>隨著數位平台的興起，網路安全和兒童保護成為全球關注的焦點。英國政府在推動網路安全法案中，強調需要對在線內容進行更嚴格的監管，以保護未成年人免受不當內容的影響。4Chan作為一個匿名論壇，因其自由言論的特性，常常成為爭議的中心，對於這類法規的反應也顯示出其對於監管的抵觸情緒。</p>
-        <p><strong>涉及利益方的角力分析：</strong>4Chan的嘲諷反映出其對於政府監管的反感，並可能激發其他類似平台的反對聲音。對於英國政府而言，這項罰款是強調網路安全的重要性，但也可能引發對於執法有效性及其對言論自由影響的討論。對於兒童保護倡導者來說，這是推動更嚴格法規的契機，而對於平台運營者則可能增加合規成本，影響其業務模式。</p>
+        <p><strong>重點新聞內容：</strong>埃隆·馬斯克宣布計劃在德克薩斯州奧斯汀建立一座Terafab晶片工廠，該工廠將由特斯拉和SpaceX共同運營，目標是為機器人、人工智慧及太空數據中心大規模生產晶片。</p>
+        <p><strong>背景說明與脈絡：</strong>隨著科技的迅速發展，晶片需求持續上升，特別是在人工智慧和自動化領域。馬斯克的Terafab工廠計劃反映出對晶片供應鏈的擔憂，尤其是在全球晶片短缺的背景下。特斯拉和SpaceX的合作將使兩家公司能夠更有效地控制其晶片生產，並減少對外部供應商的依賴，這在當前的市場環境中尤為重要。</p>
+        <p><strong>涉及利益方的角力分析：</strong>馬斯克的計劃可能會改變晶片產業的競爭格局，特別是對於專注於AI和太空技術的公司。特斯拉和SpaceX的合作將使他們能夠針對特定需求開發專用晶片，這可能會使其他科技公司面臨更大的競爭壓力。此外，這一舉措也可能引發對於晶片製造的政策支持和資金投入的討論，特別是在美國政府推動半導體自給自足的背景下。</p>
       </div>
 
       
         <div class="stakeholder-row">
-          <span class='stakeholder-badge'>英國政府</span><span class='stakeholder-badge'>4Chan</span><span class='stakeholder-badge'>兒童保護組織</span><span class='stakeholder-badge'>網路平台運營者</span><span class='stakeholder-badge'>公眾</span>
+          <span class='stakeholder-badge'>特斯拉</span><span class='stakeholder-badge'>SpaceX</span><span class='stakeholder-badge'>晶片製造商</span><span class='stakeholder-badge'>美國政府</span><span class='stakeholder-badge'>投資者</span>
         </div>
         
     </article>
     
 
     <article class="topic-card">
-      <h3><a href="https://www.bbc.com/news/articles/c070e283k8vo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">AI videos of sexualised black women removed from TikTok after BBC investigation</a></h3>
+      <h3><a href="https://www.wired.com/story/security-news-this-week-cyberattack-on-a-car-breathalyzer-firm-leaves-drivers-stuck/" target="_blank" rel="noopener noreferrer">Cyberattack on a Car Breathalyzer Firm Leaves Drivers Stuck</a></h3>
       <div class="meta-row">
-        <span class='source-badge'>BBC Technology</span>
-        <span class='time-badge'>2026-03-22 00:45 UTC</span>
+        <span class='source-badge'>Wired</span>
+        <span class='time-badge'>2026-03-21 10:30 UTC</span>
         
         
       </div>
@@ -374,14 +381,14 @@
       
 
       <div class="briefing-block">
-        <p><strong>重點新聞內容：</strong>BBC調查發現，許多Instagram和TikTok帳號利用AI虛擬形象推廣性暗示內容，特別針對黑人女性的影片已被TikTok移除，顯示出平台對於性別與種族議題的敏感性。</p>
-        <p><strong>背景說明與脈絡：</strong>隨著AI技術的進步，社交媒體平台上出現了大量利用虛擬形象創作的內容，這些內容常常涉及性暗示，尤其是針對特定族群的表現。TikTok及Instagram面對日益嚴格的內容審查要求，特別是針對性別與種族的敏感議題，這使得平台必須在創新與社會責任之間找到平衡。</p>
-        <p><strong>涉及利益方的角力分析：</strong>此次事件凸顯了社交媒體平台在內容管理上的挑戰。對於TikTok而言，移除這些影片是回應公眾關注與保護用戶的必要措施，但也可能引發創作者與用戶對於言論自由的質疑。另一方面，這一行動可能促使其他平台也加強對類似內容的監管，從而影響整個社交媒體生態系統的運作。</p>
+        <p><strong>重點新聞內容：</strong>一場針對汽車呼氣測試儀公司的網路攻擊，導致許多駕駛者無法正常使用該設備，影響其駕駛權限及安全性。</p>
+        <p><strong>背景說明與脈絡：</strong>隨著汽車科技的進步，呼氣測試儀成為確保酒駕防治的重要工具。這些設備通常與車輛的啟動系統連結，若遭受網路攻擊，將直接影響駕駛者的日常生活。近年來，網路攻擊事件頻繁，特別是針對關鍵基礎設施及醫療系統，顯示出網路安全的重要性與脆弱性。</p>
+        <p><strong>涉及利益方的角力分析：</strong>此次攻擊對於汽車呼氣測試儀公司及其用戶造成直接影響，駕駛者可能面臨無法啟動車輛的困境。該事件可能引發對網路安全的更大關注，促使相關企業加強防護措施。此外，FBI購買手機數據的行為也可能引發隱私權的討論，進一步影響公眾對政府監控的信任度。各方可能在未來對網路安全與個人隱私的平衡展開激烈辯論。</p>
       </div>
 
       
         <div class="stakeholder-row">
-          <span class='stakeholder-badge'>TikTok</span><span class='stakeholder-badge'>Instagram</span><span class='stakeholder-badge'>AI技術開發者</span><span class='stakeholder-badge'>社會運動團體</span><span class='stakeholder-badge'>用戶</span>
+          <span class='stakeholder-badge'>汽車呼氣測試儀公司</span><span class='stakeholder-badge'>駕駛者</span><span class='stakeholder-badge'>FBI</span><span class='stakeholder-badge'>網路安全企業</span><span class='stakeholder-badge'>政府監管機構</span>
         </div>
         
     </article>
@@ -390,16 +397,16 @@
     <details class="further-reading-block">
       <summary>延伸閱讀 (10 則)</summary>
       <ul class="further-reading-list">
-        <li><a href="https://www.bbc.com/news/articles/cx2g8888q53o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Ad for AI editing app which said it could 'remove anything' banned</a><span class="fr-source">BBC Technology</span></li>
-<li><a href="https://www.bbc.com/news/articles/c5y7374x9n4o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Luke Littler applies to trademark his face to combat AI fakes</a><span class="fr-source">BBC Technology</span></li>
-<li><a href="https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes" target="_blank" rel="noopener noreferrer">Senior European journalist suspended over AI-generated quotes</a><span class="fr-source">The Guardian Technology</span></li>
-<li><a href="https://www.bbc.com/news/articles/c5y9d44jj24o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Publisher cancels horror novel's release over AI claims</a><span class="fr-source">BBC Technology</span></li>
-<li><a href="https://www.theguardian.com/technology/2026/mar/20/meta-ai-agents-instruction-causes-large-sensitive-data-leak-to-employees" target="_blank" rel="noopener noreferrer">Meta AI agent’s instruction causes large sensitive data leak to employees</a><span class="fr-source">The Guardian Technology</span></li>
-<li><a href="https://www.theguardian.com/global-development/2026/mar/20/us-tech-giant-palantir-swiss-magazine-wav" target="_blank" rel="noopener noreferrer">‘It does feel like an intimidation campaign’: why is US tech giant Palantir suing a small Swiss magazine?</a><span class="fr-source">The Guardian Technology</span></li>
-<li><a href="https://www.theguardian.com/thefilter/2025/apr/18/best-pressure-washers-cleaners-uk" target="_blank" rel="noopener noreferrer">The best pressure washers in the UK for cleaning garden furniture and patios – tested</a><span class="fr-source">The Guardian Technology</span></li>
-<li><a href="https://www.theguardian.com/games/2026/mar/19/in-the-killer-world-of-online-gaming-there-are-no-hits-any-more-just-survivors" target="_blank" rel="noopener noreferrer">In the killer world of online gaming, there are no hits any more – just survivors</a><span class="fr-source">The Guardian Technology</span></li>
-<li><a href="https://www.bbc.com/news/articles/cvg1gr5v333o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Government backtracks on AI and copyright after outcry from major artists</a><span class="fr-source">BBC Technology</span></li>
-<li><a href="https://www.bbc.co.uk/sounds/play/w3ct6zq8?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Tech Life</a><span class="fr-source">BBC Technology</span></li>
+        <li><a href="https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution" target="_blank" rel="noopener noreferrer">Inside China’s robotics revolution</a><span class="fr-source">The Guardian Technology</span></li>
+<li><a href="https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/" target="_blank" rel="noopener noreferrer">Why Wall Street wasn’t won over by Nvidia’s big conference</a><span class="fr-source">TechCrunch</span></li>
+<li><a href="https://arstechnica.com/science/2026/03/doge-goes-nuclear-how-trump-invited-silicon-valley-into-americas-nuclear-power-regulator/" target="_blank" rel="noopener noreferrer">DOGE goes nuclear: How Trump invited Silicon Valley into America’s nuclear power regulator</a><span class="fr-source">Ars Technica</span></li>
+<li><a href="https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/" target="_blank" rel="noopener noreferrer">What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet</a><span class="fr-source">TechCrunch</span></li>
+<li><a href="https://www.wired.com/story/gamers-hate-nvidia-dlss-5-developers-arent-crazy-about-it-either/" target="_blank" rel="noopener noreferrer">Gamers Hate Nvidia's DLSS 5. Developers Aren’t Crazy About It, Either</a><span class="fr-source">Wired</span></li>
+<li><a href="https://arstechnica.com/gadgets/2026/03/major-steamos-update-adds-support-for-steam-machine-even-more-third-party-hardware/" target="_blank" rel="noopener noreferrer">Major SteamOS update adds support for Steam Machine, even more third-party hardware</a><span class="fr-source">Ars Technica</span></li>
+<li><a href="https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/" target="_blank" rel="noopener noreferrer">At Palantir’s Developer Conference, AI Is Built to Win Wars</a><span class="fr-source">Wired</span></li>
+<li><a href="https://www.wired.com/story/uncanny-valley-podcast-nvidia-gtc-tesla-disappointed-fans-meta-horizon-worlds/" target="_blank" rel="noopener noreferrer">‘Uncanny Valley’: Nvidia’s ‘Super Bowl of AI,’ Tesla Disappoints, and Meta’s VR Metaverse ‘Shutdown’</a><span class="fr-source">Wired</span></li>
+<li><a href="https://www.wired.com/story/google-shakes-up-project-mariner-team-web-browsing-agents/" target="_blank" rel="noopener noreferrer">Google Shakes Up Its Browser Agent Team Amid OpenClaw Craze</a><span class="fr-source">Wired</span></li>
+<li><a href="https://www.theguardian.com/games/2026/mar/17/mythmatch-review-match-three-game-team-artichoke" target="_blank" rel="noopener noreferrer">Mythmatch review – a match-three game made in heaven</a><span class="fr-source">The Guardian Technology</span></li>
       </ul>
     </details>
     
@@ -411,68 +418,11 @@
       <p class='section-intro'>聚焦國際關係、政策變化、外交動態與地緣政治風險。</p>
       
     <article class="topic-card">
-      <h3><a href="https://www.theguardian.com/us-news/2026/mar/21/trump-threatens-to-send-ice-agents-to-airports-unless-dhs-deal-reached" target="_blank" rel="noopener noreferrer">Trump threatens to send ICE to airports on Monday amid DHS funding standoff</a></h3>
+      <h3><a href="https://www.scmp.com/news/world/middle-east/article/3347503/hezbollah-claims-rocket-killed-one-israeli-army-demolishes-houses?utm_source=rss_feed" target="_blank" rel="noopener noreferrer">Israel says investigating whether own soldiers shot civilian on Lebanon border</a></h3>
       <div class="meta-row">
-        <span class='source-badge'>The Guardian World</span>
-        <span class='time-badge'>2026-03-21 23:29 UTC</span>
-        <span class='source-count-badge'>2 個來源支撐</span>
-        <span class='update-badge'>重大進展</span>
-      </div>
-
-      
-      
-        <div class="supporting-source-row">
-          <span class="supporting-label">補充來源：</span>
-          <span class='supporting-source-badge'>BBC World</span>
-        </div>
-        
-
-      <div class="briefing-block">
-        <p><strong>重點新聞內容：</strong>特朗普威脅若民主黨不簽署國土安全資金法案，將於週一派遣移民執法局（ICE）至美國機場，指責民主黨為‘激進左派’。</p>
-        <p><strong>背景說明與脈絡：</strong>美國國土安全部的資金問題一直是兩黨爭論的焦點，尤其在移民政策上。特朗普政府強調加強邊境安全和移民執法，而民主黨則主張人道對待移民，導致兩者在資金分配上難以達成共識。此事件發生在國會對於國土安全預算的爭執中，反映出當前美國政治的高度對立與分裂。</p>
-        <p><strong>涉及利益方的角力分析：</strong>特朗普的威脅意在施壓民主黨，促使其在國土安全資金問題上妥協，特別是在移民執法的強化措施上。對於特朗普及其支持者而言，這是一種展現強硬立場的策略，可能會在其選民中增強支持。然而，民主黨則可能會反擊，指責特朗普利用恐懼來推動其政治 agenda，進一步激化兩黨間的對立。若特朗普真的派遣ICE至機場，可能會引發社會的強烈反彈，並影響民眾對政府的信任。</p>
-      </div>
-
-      
-        <div class="stakeholder-row">
-          <span class='stakeholder-badge'>特朗普政府</span><span class='stakeholder-badge'>民主黨</span><span class='stakeholder-badge'>國土安全部</span><span class='stakeholder-badge'>移民權益團體</span><span class='stakeholder-badge'>美國民眾</span>
-        </div>
-        
-    </article>
-    
-
-    <article class="topic-card">
-      <h3><a href="https://www.theguardian.com/politics/2026/mar/22/tory-chief-whip-reposts-ai-video-created-by-far-right-figure-jailed-for-hate-crimes" target="_blank" rel="noopener noreferrer">Tory chief whip reposts AI video created by far-right figure jailed for hate crimes</a></h3>
-      <div class="meta-row">
-        <span class='source-badge'>The Guardian World</span>
-        <span class='time-badge'>2026-03-22 08:00 UTC</span>
-        
-        
-      </div>
-
-      
-      
-
-      <div class="briefing-block">
-        <p><strong>重點新聞內容：</strong>英國保守黨首席鞭子瑞貝卡·哈里斯（Rebecca Harris）因轉發由被監禁的極右派人物喬舒亞·博恩希爾-佩恩（Joshua Bonehill-Paine）創作的AI視頻而受到譴責。該視頻將保守黨成員描繪為《疤面煞星》中的角色，涉及對猶太人的仇恨犯罪。</p>
-        <p><strong>背景說明與脈絡：</strong>此事件發生在英國政治環境中，保守黨面臨內部與外部的壓力，尤其是在極右派勢力抬頭的背景下。喬舒亞·博恩希爾-佩恩因其仇恨言論而被判刑，這使得他與保守黨的連結引發廣泛關注。哈里斯的行為被視為對黨內極端主義的默許，可能影響保守黨的形象及選民支持度。</p>
-        <p><strong>涉及利益方的角力分析：</strong>哈里斯的行為引發了黨內外的強烈反對，反映出保守黨在應對極右派影響方面的困境。支持者可能認為這是幽默的表現，但反對者則指出這助長了仇恨言論，損害了社會的包容性。此事件可能導致黨內對極端主義的進一步討論，並影響未來的選舉策略，尤其是在多元文化的選民中。</p>
-      </div>
-
-      
-        <div class="stakeholder-row">
-          <span class='stakeholder-badge'>保守黨</span><span class='stakeholder-badge'>瑞貝卡·哈里斯</span><span class='stakeholder-badge'>猶太社群</span><span class='stakeholder-badge'>選民</span><span class='stakeholder-badge'>極右派團體</span>
-        </div>
-        
-    </article>
-    
-
-    <article class="topic-card">
-      <h3><a href="https://www.bbc.com/news/videos/c62k8xgjkggo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Israeli strike next to British journalist is not AI-generated</a></h3>
-      <div class="meta-row">
-        <span class='source-badge'>BBC World</span>
-        <span class='time-badge'>2026-03-20 18:52 UTC</span>
-        <span class='source-count-badge'>2 個來源支撐</span>
+        <span class='source-badge'>SCMP World</span>
+        <span class='time-badge'>2026-03-22 14:54 UTC</span>
+        <span class='source-count-badge'>4 個來源支撐</span>
         
       </div>
 
@@ -480,19 +430,81 @@
       
         <div class="supporting-source-row">
           <span class="supporting-label">補充來源：</span>
-          <span class='supporting-source-badge'>The Guardian World</span>
+          <span class='supporting-source-badge'>Al Jazeera</span><span class='supporting-source-badge'>The Hindu International</span><span class='supporting-source-badge'>Fox News World</span>
         </div>
         
 
       <div class="briefing-block">
-        <p><strong>重點新聞內容：</strong>以色列在黎巴嫩南部的空襲事件中，距離英國記者Steve Sweeney及其團隊僅數米，該事件的視頻並非由人工智慧生成，強調了現場報導的真實性。</p>
-        <p><strong>背景說明與脈絡：</strong>該事件發生在以色列與黎巴嫩之間的緊張局勢中，特別是在以色列與哈馬斯及其他武裝組織的衝突背景下。隨著媒體報導的多樣化，對於新聞真實性的質疑也隨之增加，尤其是在社交媒體上，AI生成內容的風險日益受到關注。這一事件突顯了記者在衝突地區的安全與報導挑戰。</p>
-        <p><strong>涉及利益方的角力分析：</strong>此事件對於媒體界及公眾的影響深遠。首先，記者的安全問題再次被提上日程，尤其是在衝突地區的報導中。其次，對於新聞真實性的質疑可能會影響公眾對媒體報導的信任度。以色列方面可能會利用此事件來強調其行動的正當性，而記者及媒體則可能強調報導的真實性與重要性，形成不同立場的角力。</p>
+        <p><strong>重點新聞內容：</strong>以色列軍方正在調查是否其士兵的火力導致一名以色列平民在黎巴嫩邊境被擊斃，該事件發生在真主黨宣稱在同一地區攻擊以色列士兵之後。</p>
+        <p><strong>背景說明與脈絡：</strong>以色列與黎巴嫩的緊張關係由來已久，特別是與真主黨的衝突。近期，兩國邊境地區的軍事活動頻繁，真主黨的攻擊行動常常引發以色列的報復。此次事件發生在這樣的背景下，並且涉及平民傷亡，可能會進一步加劇雙方的緊張局勢，影響國際社會對該地區安全的關注。</p>
+        <p><strong>涉及利益方的角力分析：</strong>此次事件揭示了以色列軍方在邊境衝突中的複雜性。若調查結果確認是以色列士兵誤擊平民，將對以色列政府的內部與外部形象造成負面影響，並可能引發國內對軍事行動的質疑。而真主黨則可能利用此事件加強其在黎巴嫩的支持基礎，並指責以色列的軍事行為。各方的立場差異可能導致局勢進一步升級，特別是在國際社會的壓力下。</p>
       </div>
 
       
         <div class="stakeholder-row">
-          <span class='stakeholder-badge'>以色列政府</span><span class='stakeholder-badge'>英國媒體</span><span class='stakeholder-badge'>黎巴嫩政府</span><span class='stakeholder-badge'>國際新聞組織</span><span class='stakeholder-badge'>公眾</span>
+          <span class='stakeholder-badge'>以色列軍方</span><span class='stakeholder-badge'>黎巴嫩政府</span><span class='stakeholder-badge'>真主黨</span><span class='stakeholder-badge'>以色列平民</span><span class='stakeholder-badge'>國際社會</span>
+        </div>
+        
+    </article>
+    
+
+    <article class="topic-card">
+      <h3><a href="https://www.scmp.com/week-asia/politics/article/3347461/philippine-military-uncovers-alleged-new-beijing-spy-tactics-south-china-sea-row?utm_source=rss_feed" target="_blank" rel="noopener noreferrer">Philippine military uncovers alleged new Beijing spy tactics in South China Sea row</a></h3>
+      <div class="meta-row">
+        <span class='source-badge'>SCMP World</span>
+        <span class='time-badge'>2026-03-22 05:15 UTC</span>
+        <span class='source-count-badge'>3 個來源支撐</span>
+        
+      </div>
+
+      
+      
+        <div class="supporting-source-row">
+          <span class="supporting-label">補充來源：</span>
+          <span class='supporting-source-badge'>Taipei Times</span><span class='supporting-source-badge'>The Diplomat</span>
+        </div>
+        
+
+      <div class="briefing-block">
+        <p><strong>重點新聞內容：</strong>菲律賓軍方逮捕三名涉嫌為北京從事間諜活動的菲律賓人，這些人被指控洩漏信息，導致南海爭端中的海上對峙。此案件顯示出北京在招募間諜方面的新策略，改為利用本國人員而非假身份人士。</p>
+        <p><strong>背景說明與脈絡：</strong>南海爭端涉及多個國家，包括中國、菲律賓、越南等，這些國家對海域的主權聲索互有交錯。隨著地緣政治緊張加劇，各國在情報戰方面的活動也愈加頻繁。菲律賓軍方的反間諜行動顯示出其對國家安全的重視，並反映出中國在該地區的影響力擴張策略，特別是在招募當地人員進行間諜活動的方式上。</p>
+        <p><strong>涉及利益方的角力分析：</strong>此次事件突顯了中國在南海的間諜活動新策略，可能使菲律賓政府面臨更大的內部安全挑戰。對於菲律賓而言，這不僅是對國家安全的威脅，也可能影響其與美國及其他盟友的合作關係，因為美方可能會加強對菲律賓的安全支持。另一方面，中國則可能利用此事件進一步加強其在南海的軍事存在，並試圖削弱菲律賓的抵抗意志，導致地區局勢更加複雜。</p>
+      </div>
+
+      
+        <div class="stakeholder-row">
+          <span class='stakeholder-badge'>菲律賓政府</span><span class='stakeholder-badge'>中國政府</span><span class='stakeholder-badge'>美國政府</span><span class='stakeholder-badge'>菲律賓軍方</span><span class='stakeholder-badge'>南海周邊國家</span>
+        </div>
+        
+    </article>
+    
+
+    <article class="topic-card">
+      <h3><a href="https://www.scmp.com/news/world/middle-east/article/3347506/us-may-escalate-de-escalate-attacks-against-iran-says-scott-bessent?utm_source=rss_feed" target="_blank" rel="noopener noreferrer">US may ‘escalate to de-escalate’ attacks against Iran, says Scott Bessent</a></h3>
+      <div class="meta-row">
+        <span class='source-badge'>SCMP World</span>
+        <span class='time-badge'>2026-03-22 16:42 UTC</span>
+        <span class='source-count-badge'>2 個來源支撐</span>
+        
+      </div>
+
+      
+      
+        <div class="supporting-source-row">
+          <span class="supporting-label">補充來源：</span>
+          <span class='supporting-source-badge'>The Hindu International</span>
+        </div>
+        
+
+      <div class="briefing-block">
+        <p><strong>重點新聞內容：</strong>美國財政部長斯科特·貝森特表示，美國可能需要加大對伊朗的攻擊力度，以便最終能夠結束戰爭。此言論出現在特朗普總統對美國軍事行動的矛盾表述之後，特朗普威脅如果伊朗不完全開放霍爾木茲海峽，將摧毀其能源設施。</p>
+        <p><strong>背景說明與脈絡：</strong>美國與伊朗之間的緊張關係持續升級，特別是在特朗普政府推行的制裁政策下。霍爾木茲海峽是全球重要的石油運輸通道，任何對該地區的軍事行動都可能影響全球能源市場。特朗普的言論反映出其政府在應對伊朗問題上的矛盾策略，既希望透過威脅施壓達成外交目的，又又希望避免全面衝突。</p>
+        <p><strong>涉及利益方的角力分析：</strong>美國的軍事策略面臨內部矛盾，特朗普的強硬言辭與希望結束戰爭的意圖相互抵觸。這可能導致國內外對美國政策的質疑，特別是盟友可能擔心美國的軍事行動會引發更大範圍的衝突。伊朗則可能利用這一局勢加強其反美立場，進一步激化地區緊張局勢。未來的發展將取決於美國是否能夠在強硬與外交之間找到平衡。</p>
+      </div>
+
+      
+        <div class="stakeholder-row">
+          <span class='stakeholder-badge'>美國政府</span><span class='stakeholder-badge'>伊朗政府</span><span class='stakeholder-badge'>中東地區盟友</span><span class='stakeholder-badge'>全球能源市場</span><span class='stakeholder-badge'>國際社會</span>
         </div>
         
     </article>
@@ -501,16 +513,16 @@
     <details class="further-reading-block">
       <summary>延伸閱讀 (10 則)</summary>
       <ul class="further-reading-list">
-        <li><a href="https://www.theguardian.com/world/2026/mar/22/iran-social-media-strategy-information-war-us-israel-attack" target="_blank" rel="noopener noreferrer">Iran social media strategy pivots to information war amid US-Israel attack</a><span class="fr-source">The Guardian World</span></li>
-<li><a href="https://www.bbc.com/news/articles/c3ex9nq2qywo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Trump threatens to send ICE into airports unless funding deal reached</a><span class="fr-source">BBC World</span></li>
-<li><a href="https://www.theguardian.com/society/2026/mar/22/mps-threaten-fresh-inquiry-into-carers-allowance-scandal-amid-redress-delays" target="_blank" rel="noopener noreferrer">MPs threaten fresh inquiry into carers allowance scandal amid redress delays</a><span class="fr-source">The Guardian World</span></li>
-<li><a href="https://www.theguardian.com/australia-news/live/2026/mar/22/australia-news-live-tropical-cyclone-narelle-south-australia-election-peter-malinauskas-labor-one-nation-chris-bowen-anthony-albanese-fuel-prices-ntwnfb" target="_blank" rel="noopener noreferrer">Liberals have ‘a lot of work to do’ after SA wipeout, Anne Ruston says – As it happened</a><span class="fr-source">The Guardian World</span></li>
-<li><a href="https://www.theguardian.com/world/live/2026/mar/21/middle-east-crisis-live-iran-war-trump-eases-oil-sanctions-israel-strikes" target="_blank" rel="noopener noreferrer">Projectile strikes vessel off coast of UAE - as it happened</a><span class="fr-source">The Guardian World</span></li>
-<li><a href="https://www.taipeitimes.com/News/world/archives/2026/03/22/2003854276" target="_blank" rel="noopener noreferrer">Peru’s presidential hopefuls zero in on country’s growing security crisis</a><span class="fr-source">Taipei Times</span></li>
-<li><a href="https://www.taipeitimes.com/News/taiwan/archives/2026/03/22/2003854264" target="_blank" rel="noopener noreferrer">Concerns grow after woman hurt in dog attack</a><span class="fr-source">Taipei Times</span></li>
-<li><a href="https://www.taipeitimes.com/News/editorials/archives/2026/03/22/2003854241" target="_blank" rel="noopener noreferrer">Attacks on premier’s Japan trip infuriating</a><span class="fr-source">Taipei Times</span></li>
-<li><a href="https://www.theguardian.com/world/2026/mar/21/strike-on-sudan-hospital-kills-wounds-world-health-organization-reports" target="_blank" rel="noopener noreferrer">Strike on Sudan hospital kills at least 64 and wounds 89 more, WHO reports</a><span class="fr-source">The Guardian World</span></li>
-<li><a href="https://www.theguardian.com/world/2026/mar/21/wounded-iranian-missile-strikes-southern-israel" target="_blank" rel="noopener noreferrer">Almost 100 wounded in Iranian missile strikes on southern Israel</a><span class="fr-source">The Guardian World</span></li>
+        <li><a href="https://www.aljazeera.com/news/2026/3/22/hezbollah-attack-kills-one-in-north-israel-as-assault-on-lebanon-continues?traffic_source=rss" target="_blank" rel="noopener noreferrer">Hezbollah attack kills one in north Israel as assault on Lebanon continues</a><span class="fr-source">Al Jazeera</span></li>
+<li><a href="https://www.aljazeera.com/news/2026/3/22/ukraines-zelenskyy-urges-allies-to-pressure-russia-ahead-of-us-talks?traffic_source=rss" target="_blank" rel="noopener noreferrer">Ukraine’s Zelenskyy urges allies to pressure Russia ahead of US talks</a><span class="fr-source">Al Jazeera</span></li>
+<li><a href="https://www.aljazeera.com/video/people-power/2026/3/22/the-gaza-tribunal-a-question-of-complicity?traffic_source=rss" target="_blank" rel="noopener noreferrer">The Gaza Tribunal: A question of complicity</a><span class="fr-source">Al Jazeera</span></li>
+<li><a href="https://www.aljazeera.com/video/newsfeed/2026/3/22/iran-claims-missile-attacks-on-key-israeli-military-bases?traffic_source=rss" target="_blank" rel="noopener noreferrer">Iran claims missile attacks on key Israeli military bases</a><span class="fr-source">Al Jazeera</span></li>
+<li><a href="https://www.foxnews.com/world/churchill-shakespeare-uk-flag-all-under-siege-modern-britain-commentators-say" target="_blank" rel="noopener noreferrer">Churchill, Shakespeare and the UK flag all under siege in modern Britain, commentators say</a><span class="fr-source">Fox News World</span></li>
+<li><a href="https://www.foxnews.com/world/analysts-say-gaza-civilian-deaths-include-hamas-other-terror-members-working-medics-media-workers" target="_blank" rel="noopener noreferrer">Analysts say Gaza 'civilian' deaths include Hamas, other terror members working as medics, media workers</a><span class="fr-source">Fox News World</span></li>
+<li><a href="https://www.thehindu.com/news/international/russia-claims-control-of-border-village-in-ukraines-sumy-region/article70773152.ece" target="_blank" rel="noopener noreferrer">Russia claims control of border village in Ukraine's Sumy region</a><span class="fr-source">The Hindu International</span></li>
+<li><a href="https://www.thehindu.com/news/international/netanyahu-visits-site-of-iranian-missile-attack-claims-us-israel-fighting-for-entire-world/article70772387.ece" target="_blank" rel="noopener noreferrer">Netanyahu visits site of Iranian missile attack, claims U.S.-Israel fighting for entire world</a><span class="fr-source">The Hindu International</span></li>
+<li><a href="https://www.theguardian.com/world/2026/mar/21/wounded-iranian-missile-strikes-southern-israel" target="_blank" rel="noopener noreferrer">About 200 injured in Iranian missile strikes near nuclear facility in Israel</a><span class="fr-source">The Guardian World</span></li>
+<li><a href="https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Russian attacks kill six in Ukraine, officials say</a><span class="fr-source">BBC World</span></li>
       </ul>
     </details>
     
@@ -522,42 +534,37 @@
       <p class='section-intro'>聚焦利率、通膨、能源、供應鏈、企業與市場重要變化。</p>
       
     <article class="topic-card">
-      <h3><a href="https://www.bbc.com/news/articles/c36364d06x3o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">US holds interest rates as Iran war triggers inflation fears</a></h3>
+      <h3><a href="https://www.scmp.com/business/commodities/article/3347473/gold-slides-hawkish-fed-and-strong-us-dollar-override-geopolitical-fears?utm_source=rss_feed" target="_blank" rel="noopener noreferrer">Gold slides as hawkish Fed and strong US dollar override geopolitical fears</a></h3>
       <div class="meta-row">
-        <span class='source-badge'>BBC Business</span>
-        <span class='time-badge'>2026-03-18 20:20 UTC</span>
-        <span class='source-count-badge'>2 個來源支撐</span>
+        <span class='source-badge'>SCMP Business</span>
+        <span class='time-badge'>2026-03-22 09:00 UTC</span>
+        
         
       </div>
 
       
       
-        <div class="supporting-source-row">
-          <span class="supporting-label">補充來源：</span>
-          <span class='supporting-source-badge'>The Guardian Business</span>
-        </div>
-        
 
       <div class="briefing-block">
-        <p><strong>重點新聞內容：</strong>美國中央銀行因伊朗戰爭引發的通脹擔憂而決定維持利率不變，儘管面臨總統要求降息的壓力。</p>
-        <p><strong>背景說明與脈絡：</strong>美國中央銀行在面對全球地緣政治緊張局勢時，選擇保持利率不變，以應對可能的通脹風險。伊朗戰爭可能影響能源價格，進而影響整體經濟。過去幾年，美國經濟在疫情後逐步復甦，利率政策一直是經濟穩定的重要工具。當前的經濟環境使得中央銀行在利率政策上需謹慎行事，以避免過快降息引發的通脹壓力。</p>
-        <p><strong>涉及利益方的角力分析：</strong>美國中央銀行的決策反映了對通脹風險的高度警覺，尤其是在地緣政治不穩定的背景下。總統的降息要求與中央銀行的穩健政策形成對比，顯示出政府與央行在經濟管理上的不同立場。若通脹持續上升，央行可能不得不調整利率以穩定經濟，這將影響消費者支出和投資決策。未來幾個月，市場將密切關注央行的政策走向及其對經濟的影響。</p>
+        <p><strong>重點新聞內容：</strong>近期金價持續下滑，儘管美國與以色列與伊朗之間的緊張局勢加劇，市場對於利率降息的預期減弱以及美元走強，對金價造成壓力，打破了金屬作為地緣政治避險工具的傳統角色。</p>
+        <p><strong>背景說明與脈絡：</strong>金價通常在地緣政治緊張時期上漲，作為避險資產。然而，近期美國聯邦儲備系統（Fed）表現出鷹派立場，暗示可能不會降息，並且美元強勢上升，這些因素共同影響了金價。自3月2日金價短暫上漲以來，金價已下跌約15%，顯示出市場對於金屬的需求減弱，尤其是在經濟前景不確定的情況下。</p>
+        <p><strong>涉及利益方的角力分析：</strong>美國聯邦儲備系統的鷹派政策使投資者對金價的信心下降，因為高利率通常會使持有黃金的機會成本上升。另一方面，美元的強勢也使得以其他貨幣計價的金價上升困難。這對於投資者、金礦公司及地緣政治風險較高的國家而言，均可能導致資本流出及市場波動，未來金價可能會繼續受到這些因素的影響。</p>
       </div>
 
       
         <div class="stakeholder-row">
-          <span class='stakeholder-badge'>美國中央銀行</span><span class='stakeholder-badge'>美國政府</span><span class='stakeholder-badge'>投資者</span><span class='stakeholder-badge'>消費者</span><span class='stakeholder-badge'>能源市場</span>
+          <span class='stakeholder-badge'>美國聯邦儲備系統</span><span class='stakeholder-badge'>金礦公司</span><span class='stakeholder-badge'>投資者</span><span class='stakeholder-badge'>美元持有者</span><span class='stakeholder-badge'>地緣政治風險國家</span>
         </div>
         
     </article>
     
 
     <article class="topic-card">
-      <h3><a href="https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation" target="_blank" rel="noopener noreferrer">‘The stakes are enormous’: how a prolonged Iran war could shock the global economy</a></h3>
+      <h3><a href="https://www.theguardian.com/money/2026/mar/22/starmer-adviser-richard-walker-profits-cap-energy-petrol-firms" target="_blank" rel="noopener noreferrer">Starmer adviser urges ministers to look at profits cap for energy and petrol firms</a></h3>
       <div class="meta-row">
         <span class='source-badge'>The Guardian Business</span>
-        <span class='time-badge'>2026-03-22 06:00 UTC</span>
-        <span class='source-count-badge'>2 個來源支撐</span>
+        <span class='time-badge'>2026-03-22 13:26 UTC</span>
+        <span class='source-count-badge'>5 個來源支撐</span>
         
       </div>
 
@@ -565,30 +572,30 @@
       
         <div class="supporting-source-row">
           <span class="supporting-label">補充來源：</span>
-          <span class='supporting-source-badge'>BBC Business</span>
+          <span class='supporting-source-badge'>Nikkei Asia</span><span class='supporting-source-badge'>SCMP Business</span><span class='supporting-source-badge'>BBC Business</span><span class='supporting-source-badge'>The Economist</span>
         </div>
         
 
       <div class="briefing-block">
-        <p><strong>重點新聞內容：</strong>美國與以色列對伊朗的空襲可能對全球經濟造成長期影響，專家指出，油價、通脹及經濟增長將受到衝擊，儘管市場最初預期影響短暫。</p>
-        <p><strong>背景說明與脈絡：</strong>美國與伊朗之間的緊張關係歷史悠久，尤其是在特朗普政府時期，對伊朗的制裁與軍事行動頻繁。此次空襲針對伊朗最高領導人，可能引發更大規模的衝突，影響中東地區的穩定性及全球能源供應。油價的波動與通脹壓力在過去的地緣政治事件中常常相互影響，這使得市場對未來經濟增長的預測充滿不確定性。</p>
-        <p><strong>涉及利益方的角力分析：</strong>此次事件對不同利益方的影響顯著。美國及其盟友可能希望通過軍事行動削弱伊朗的影響力，但長期來看，這可能導致油價上漲，進而影響全球經濟增長。另一方面，伊朗及其支持者可能會加強反抗，進一步升高地緣政治緊張。市場對此的反應顯示出對經濟前景的擔憂，尤其是在通脹壓力加大的背景下，這可能迫使各國央行重新考量貨幣政策。</p>
+        <p><strong>重點新聞內容：</strong>英國政府的成本生活顧問呼籲考慮對能源和石油公司的利潤設置臨時上限，以防止這些公司在中東衝突中過度獲利，特別是在伊朗封鎖霍爾木茲海峽的背景下。</p>
+        <p><strong>背景說明與脈絡：</strong>隨著中東地區的緊張局勢加劇，能源價格隨之上漲，英國政府面臨民眾對生活成本上升的壓力。能源和石油公司在此情況下的高利潤引發了社會對公平與正義的討論。過去幾年，英國的能源市場經歷了多次波動，尤其是在疫情後，供應鏈問題和地緣政治因素加劇了價格的不穩定性。</p>
+        <p><strong>涉及利益方的角力分析：</strong>此呼籲反映了政府對民生問題的關注，但也可能引發企業界的反彈。能源公司可能會反對利潤上限，認為這會抑制投資和創新。另一方面，消費者和社會團體則可能支持此措施，認為應該防止企業在危機中獲取不當利益。若政府採取行動，可能會在短期內緩解民生壓力，但長期影響仍需觀察，包括對能源市場的投資意願及價格穩定性。</p>
       </div>
 
       
         <div class="stakeholder-row">
-          <span class='stakeholder-badge'>美國政府</span><span class='stakeholder-badge'>以色列政府</span><span class='stakeholder-badge'>伊朗政府</span><span class='stakeholder-badge'>全球投資者</span><span class='stakeholder-badge'>能源市場</span>
+          <span class='stakeholder-badge'>英國政府</span><span class='stakeholder-badge'>能源公司</span><span class='stakeholder-badge'>消費者</span><span class='stakeholder-badge'>社會團體</span><span class='stakeholder-badge'>經濟學家</span>
         </div>
         
     </article>
     
 
     <article class="topic-card">
-      <h3><a href="https://www.theguardian.com/money/2026/mar/21/liquid-gold-heating-oil-thefts-rise-in-northern-ireland-as-iran-war-sends-prices-soaring" target="_blank" rel="noopener noreferrer">‘Liquid gold’: heating oil thefts rise in Northern Ireland as Iran war sends prices soaring</a></h3>
+      <h3><a href="https://www.scmp.com/business/banking-finance/article/3347465/hsbc-vows-keep-investing-china-amid-global-tensions-new-trade-corridors-emerge?utm_source=rss_feed" target="_blank" rel="noopener noreferrer">HSBC vows to keep investing in China amid global tensions as new trade corridors emerge</a></h3>
       <div class="meta-row">
-        <span class='source-badge'>The Guardian Business</span>
-        <span class='time-badge'>2026-03-21 14:00 UTC</span>
-        <span class='source-count-badge'>2 個來源支撐</span>
+        <span class='source-badge'>SCMP Business</span>
+        <span class='time-badge'>2026-03-22 06:27 UTC</span>
+        <span class='source-count-badge'>4 個來源支撐</span>
         
       </div>
 
@@ -596,19 +603,19 @@
       
         <div class="supporting-source-row">
           <span class="supporting-label">補充來源：</span>
-          <span class='supporting-source-badge'>BBC Business</span>
+          <span class='supporting-source-badge'>The Economist</span><span class='supporting-source-badge'>Nikkei Asia</span><span class='supporting-source-badge'>BBC Business</span>
         </div>
         
 
       <div class="briefing-block">
-        <p><strong>重點新聞內容：</strong>隨著伊朗戰爭推高取暖油價格，北愛爾蘭的取暖油盜竊事件增加，警方發出警報並提供安全建議以保護依賴取暖油的家庭。</p>
-        <p><strong>背景說明與脈絡：</strong>北愛爾蘭的取暖油市場長期以來受到價格波動的影響，近期因國際局勢變化，特別是伊朗戰爭導致全球能源價格上漲，家庭取暖成本大幅增加。這使得取暖油成為犯罪分子的目標，因為其價值隨著價格上漲而提升。當地社區的取暖油配送方式也使得家庭容易成為盜竊的目標，進一步加劇了安全隱患。</p>
-        <p><strong>涉及利益方的角力分析：</strong>隨著取暖油價格的上漲，家庭面臨更高的經濟壓力，這使得取暖油盜竊事件增多，對社區安全構成威脅。警方的警報與安全建議雖然有助於提高居民的警覺性，但無法根本解決盜竊問題。這一情況可能促使政府考慮加強對取暖油市場的監管，並提高對犯罪行為的懲罰力度。同時，能源價格的波動也可能影響到其他相關產業，如保險業和能源供應商的業務策略。</p>
+        <p><strong>重點新聞內容：</strong>匯豐銀行首席執行官喬治·埃爾赫德里在中國發展論壇上表示，儘管全球貿易緊張局勢升級，匯豐仍將持續在中國投資，並指出中國企業的全球化為新貿易機會帶來了潛力。</p>
+        <p><strong>背景說明與脈絡：</strong>隨著中國經濟的持續增長和全球貿易格局的變化，中國企業正逐漸在國際市場上擴展影響力。匯豐銀行作為一家全球性金融機構，長期以來在中國市場中扮演重要角色。近年來，隨著中美貿易摩擦及其他地緣政治因素的影響，許多外資企業面臨重新評估其在中國的投資策略的挑戰。匯豐的投資承諾反映了其對中國市場潛力的信心。</p>
+        <p><strong>涉及利益方的角力分析：</strong>匯豐的立場顯示出其對中國市場的長期承諾，這與其他一些外資企業的謹慎態度形成對比。儘管全球貿易環境不確定性增加，匯豐仍認為中國的發展潛力將為其帶來盈利機會。此舉可能會吸引其他外資企業重新考慮其在中國的投資策略，並可能促進中國企業的國際化進程。然而，隨著貿易政策的不斷變化，匯豐也需謹慎應對潛在的風險。</p>
       </div>
 
       
         <div class="stakeholder-row">
-          <span class='stakeholder-badge'>當地居民</span><span class='stakeholder-badge'>警方</span><span class='stakeholder-badge'>能源供應商</span><span class='stakeholder-badge'>保險公司</span><span class='stakeholder-badge'>政府</span>
+          <span class='stakeholder-badge'>匯豐銀行</span><span class='stakeholder-badge'>中國政府</span><span class='stakeholder-badge'>外資企業</span><span class='stakeholder-badge'>中國企業</span><span class='stakeholder-badge'>國際貿易組織</span>
         </div>
         
     </article>
@@ -617,16 +624,16 @@
     <details class="further-reading-block">
       <summary>延伸閱讀 (10 則)</summary>
       <ul class="further-reading-list">
-        <li><a href="https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">UK borrowing costs hit highest since 2008 financial crisis</a><span class="fr-source">BBC Business</span></li>
-<li><a href="https://www.bbc.com/news/articles/c8d5dee3ep8o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Bank ready to raise interest rates if Iran war price 'shock' persists</a><span class="fr-source">BBC Business</span></li>
+        <li><a href="https://www.scmp.com/business/banking-finance/article/3347088/hong-kong-follows-federal-reserve-keep-base-rate-unchanged-amid-middle-east-war?utm_source=rss_feed" target="_blank" rel="noopener noreferrer">HKMA says interest rate outlook uncertain as it follows Fed, keeps base rate unchanged</a><span class="fr-source">SCMP Business</span></li>
 <li><a href="https://www.bbc.com/news/articles/c33lnd1gxxro?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Faisal Islam: Iran war is having a dramatic effect on the UK economy</a><span class="fr-source">BBC Business</span></li>
-<li><a href="https://www.bbc.com/news/articles/cy7e8mpdxpro?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Nearly 400 firms fined over failure to pay minimum wage</a><span class="fr-source">BBC Business</span></li>
-<li><a href="https://www.theguardian.com/business/2026/mar/19/bank-of-england-inflation-interest-rates-iran-war-oil-prices" target="_blank" rel="noopener noreferrer">BoE delivers message Britons don’t want to hear as inflation – and rates – look set to rise</a><span class="fr-source">The Guardian Business</span></li>
-<li><a href="https://www.theguardian.com/business/2026/mar/22/trumpflation-how-the-iran-war-economic-storm-could-affect-britons" target="_blank" rel="noopener noreferrer">‘Trumpflation’: how the Iran war’s economic storm could affect Britons</a><span class="fr-source">The Guardian Business</span></li>
-<li><a href="https://www.theguardian.com/money/2026/mar/19/contactless-card-100-pound-limit-scrapped" target="_blank" rel="noopener noreferrer">What will happen now the £100 contactless card limit has been scrapped?</a><span class="fr-source">The Guardian Business</span></li>
-<li><a href="https://www.theguardian.com/politics/audio/2026/mar/20/donald-trump-nato-tantrum-sign-failing-iran-podcast" target="_blank" rel="noopener noreferrer">What’s really behind Trump’s latest tantrums over Iran? – podcast</a><span class="fr-source">The Guardian Business</span></li>
-<li><a href="https://www.bbc.com/news/articles/cr57g1ddqmdo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">A small US grocer is calling out the lower prices at big chains</a><span class="fr-source">BBC Business</span></li>
-<li><a href="https://www.bbc.com/news/articles/cj6d66w0995o?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">Why are gas prices soaring and how could it affect you?</a><span class="fr-source">BBC Business</span></li>
+<li><a href="https://www.economist.com/finance-and-economics/2025/07/17/americans-can-still-get-a-2-mortgage" target="_blank" rel="noopener noreferrer">Americans can still get a 2% mortgage</a><span class="fr-source">The Economist</span></li>
+<li><a href="https://www.bbc.com/news/articles/cx23yn735jdo?at_medium=RSS&amp;at_campaign=rss" target="_blank" rel="noopener noreferrer">UK borrowing costs hit highest since 2008 financial crisis</a><span class="fr-source">BBC Business</span></li>
+<li><a href="https://www.economist.com/finance-and-economics/2025/09/14/americas-economy-defies-gloomy-expectations" target="_blank" rel="noopener noreferrer">America’s economy defies gloomy expectations</a><span class="fr-source">The Economist</span></li>
+<li><a href="https://www.economist.com/finance-and-economics/2025/06/05/stanley-fischer-mixed-rigour-and-realism-compassion-and-calm" target="_blank" rel="noopener noreferrer">Stanley Fischer mixed rigour and realism, compassion and calm</a><span class="fr-source">The Economist</span></li>
+<li><a href="https://www.economist.com/finance-and-economics/2026/01/30/what-will-kevin-warshs-federal-reserve-look-like" target="_blank" rel="noopener noreferrer">What will Kevin Warsh’s Federal Reserve look like?</a><span class="fr-source">The Economist</span></li>
+<li><a href="https://www.economist.com/finance-and-economics/2026/01/07/is-it-better-to-rent-or-buy" target="_blank" rel="noopener noreferrer">Is it better to rent or buy?</a><span class="fr-source">The Economist</span></li>
+<li><a href="https://www.economist.com/finance-and-economics/2025/09/01/america-is-escaping-its-office-crisis" target="_blank" rel="noopener noreferrer">America is escaping its office crisis</a><span class="fr-source">The Economist</span></li>
+<li><a href="https://www.economist.com/finance-and-economics/2025/08/28/how-trumps-war-on-the-federal-reserve-could-do-serious-damage" target="_blank" rel="noopener noreferrer">How Trump’s war on the Federal Reserve could do serious damage</a><span class="fr-source">The Economist</span></li>
       </ul>
     </details>
     
@@ -636,5 +643,34 @@
   <footer>
     <p>News-Claw automated daily briefing prototype.</p>
   </footer>
+  #back-to-top {
+      position: fixed;
+      bottom: 24px;
+      right: 20px;
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background: #2563eb;
+      color: #ffffff;
+      border: none;
+      font-size: 20px;
+      line-height: 1;
+      cursor: pointer;
+      display: none;
+      z-index: 999;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.18);
+    }
+    #back-to-top:hover {
+      background: #1d4ed8;
+    }
+    <button id="back-to-top" onclick="scrollToTop()" aria-label="回到頂部">↑</button>
+
+    <script>
+    function scrollToTop() { window.scrollTo({top: 0, behavior: 'smooth'}); }
+    window.addEventListener('scroll', function() {
+      document.getElementById('back-to-top').style.display =
+        window.scrollY > 300 ? 'block' : 'none';
+    });
+  </script>
 </body>
 </html>
