@@ -1,0 +1,43 @@
+{
+  "entries": [
+    {
+      "date": "2026-03-22",
+      "topics": {
+        "technology": [
+          "chips",
+          "cybersecurity",
+          "ai"
+        ],
+        "politics": [
+          "war_and_conflict",
+          "us_china_relations",
+          "uk_politics"
+        ],
+        "economy": [
+          "interest_rates",
+          "inflation",
+          "trade_wars"
+        ]
+      }
+    }
+  ],
+  "rolling_frequency": {
+    "technology": {
+      "chips": 1,
+      "cybersecurity": 1,
+      "ai": 1
+    },
+    "politics": {
+      "war_and_conflict": 1,
+      "us_china_relations": 1,
+      "uk_politics": 1
+    },
+    "economy": {
+      "interest_rates": 1,
+      "inflation": 1,
+      "trade_wars": 1
+    }
+  },
+  "window_days": 30,
+  "last_updated": "2026-03-22"
+}

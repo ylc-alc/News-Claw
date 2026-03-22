@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-03-22T19:03:01.102594+00:00",
+  "generated_at_utc": "2026-03-22T20:19:38.271577+00:00",
   "summary": {
-    "total_raw_items": 1070,
-    "total_deduped_items": 1060,
+    "total_raw_items": 1063,
+    "total_deduped_items": 1053,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
         "chips",
-        "ai",
-        "cybersecurity"
+        "cybersecurity",
+        "ai"
       ],
       "politics": [
         "war_and_conflict",
@@ -18,8 +18,8 @@
       ],
       "economy": [
         "interest_rates",
-        "trade_wars",
-        "inflation"
+        "inflation",
+        "trade_wars"
       ]
     },
     "multi_source_selected_count": 6
@@ -28,76 +28,35 @@
     "technology": [
       {
         "category": "technology",
-        "source_name": "The Guardian Technology",
-        "title": "Inside China’s robotics revolution",
-        "link": "https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution",
-        "summary": "How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out Chen Liang, the founder of Guchi Robotics, an automation company headquartered in Shanghai, is a tall, heavy-set man in his mid-40s with square-rimmed glasses. His everyday manner is calm and understated, but when he is in his element – up close with the technology he builds, or in business meetings discussing the imminent replacement of human workers by robots – he wears an exuberant smile that brings to mind an intern on his first day at his dream job. Guchi makes the machines that install wheels, dashboards and windows for many of the top Chinese car brands, including BYD and Nio. He took the name from the Chinese word guzhi , “steadfast intelligence”, though the fact that it sounded like an Italian luxury brand was not entirely unwelcome. For the better part of two decades, Chen has tried to solve what, to him, is an engineering problem: how to eliminate – or, in his view, liberate – as many workers in car factories as technologically possible. Late last year, I visited him at Guchi headquarters on the western outskirts of Shanghai. Next to the head office are several warehouses where Guchi’s engineers tinker with robots to fit the specifications of their customers. Chen, an engineer by training, founded Guchi in 2019 with the aim of tackling the hardest automation task in the car factory: “final assembly”, the last leg of production, when all the composite pieces – the dashboard, windows, wheels and seat cushions – come together. At present, his robots can mount wheels, dashboards and windows on to a car without any human intervention, but 80% of the final assembly, he estimates, has yet to be automated. That is what Chen has set his sights on. Continue reading...",
-        "published": "Thu, 19 Mar 2026 05:01:00 GMT",
-        "updated": "2026-03-19T05:01:00Z",
-        "published_at_utc": "2026-03-19T05:01:00+00:00",
-        "id": "https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution",
+        "source_name": "TechCrunch",
+        "title": "Do you want to build a robot snowman?",
+        "link": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+        "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
+        "published": "Sun, 22 Mar 2026 19:45:07 +0000",
+        "updated": "Sun, 22 Mar 2026 19:45:07 +0000",
+        "published_at_utc": "2026-03-22T19:45:07+00:00",
+        "id": "https://techcrunch.com/?p=3104729",
         "topic_type": "chips",
-        "relevance_score": 12,
+        "relevance_score": 16,
         "briefing": {
-          "news_focus": "How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out Chen Liang, the founder of Guchi Robotics, an automation company headquartered in Shanghai, is a tall, heavy-set man in his mid-40s with square-rimmed glasses. His everyday manner is calm and understated, but when he is in his element – up close with the technology he builds, or in business meetings discussing the imminent replacement of human workers by robots – he wears an exuberant smile that brings to mind an intern on his first day at his dream job. Guchi makes the machines that install wheels, dashboards and windows for many of the top Chinese car brands, including BYD and Nio. He took the name from the Chinese word guzhi , “steadfast intelligence”, though the fact that it sounded like an Italian luxury brand was not entirely unwelcome. For the better part of two decades, Chen has tried to solve what, to him, is an engineering problem: how to eliminate – or, in his view, liberate – as many workers in car factories as technologically possible. Late last year, I visited him at Guchi headquarters on the western outskirts of Shanghai. Next to the head office are several warehouses where Guchi’s engineers tinker with robots to fit the specifications of their customers. Chen, an engineer by training, founded Guchi in 2019 with the aim of tackling the hardest automation task in the car factory: “final assembly”, the last leg of production, when all the composite pieces – the dashboard, windows, wheels and seat cushions – come together. At present, his robots can mount wheels, dashboards and windows on to a car without any human intervention, but 80% of the final assembly, he estimates, has yet to be automated. That is what Chen has set his sights on. Continue reading...",
-          "news_focus_zh": "中國的機器人革命正在加速，Guchi Robotics的創始人陳亮專注於自動化汽車生產的最終組裝，目標是取代人類工人。該公司已經能夠無需人類介入地安裝車輪、儀表板和窗戶，但仍有80%的最終組裝工作尚未自動化。",
-          "background": "中國的製造業正面臨轉型，隨著技術進步，自動化成為提升生產效率的重要手段。過去二十年，隨著勞動力成本上升及技術發展，中國企業逐漸將重心轉向機器人技術，尤其是在汽車產業中。Guchi Robotics成立於2019年，專注於解決汽車生產中的自動化挑戰，尤其是最終組裝階段，這一階段對於生產效率至關重要。",
+          "news_focus": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
+          "news_focus_zh": "Nvidia CEO Jensen Huang 在 GTC 大會上的主題演講引發了對公司未來的討論，特別是其在機器人技術和人工智慧領域的潛力。",
+          "background": "Nvidia 作為全球領先的圖形處理單元（GPU）製造商，近年來積極擴展其在人工智慧和機器學習領域的影響力。GTC 大會是該公司展示新技術和未來願景的重要平台。隨著市場對 AI 應用需求的增加，Nvidia 的策略調整可能會影響整個科技產業的發展方向。",
           "stakeholders": [
-            "Guchi Robotics",
-            "中國汽車製造商",
-            "工廠工人",
-            "政府",
-            "技術供應商"
+            "Nvidia",
+            "投資者",
+            "開發者",
+            "競爭對手",
+            "企業客戶"
           ],
-          "analysis": "Guchi Robotics的發展反映了中國在全球自動化競賽中的雄心，尤其是在汽車行業。陳亮的目標是提高生產效率，同時減少對人力的依賴，這對於工廠工人來說可能意味著失業風險。然而，這也可能促使工人轉型，向更高技能的工作轉移。政府和企業在推動自動化的同時，需考慮社會影響及勞動市場的調整，以避免社會不穩定。"
+          "analysis": "Nvidia 的未來發展將受到多方利益的影響。首先，投資者期望公司能在 AI 和機器人技術上持續創新，以維持其市場領導地位。其次，競爭對手如 AMD 和 Intel 也在加碼 AI 領域，可能會對 Nvidia 造成壓力。此外，開發者和企業客戶對於新技術的需求將影響 Nvidia 的產品策略。若能成功推出創新產品，將進一步鞏固其市場地位。"
         },
         "topic_priority_score": 10,
-        "event_type": "commercial_update",
+        "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
         "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
-        "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
-        "summary": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
-        "published": "Sun, 22 Mar 2026 12:00:00 +0000",
-        "updated": "Sun, 22 Mar 2026 12:00:00 +0000",
-        "published_at_utc": "2026-03-22T12:00:00+00:00",
-        "id": "https://techcrunch.com/?p=3104178",
-        "topic_type": "ai",
-        "relevance_score": 14,
-        "briefing": {
-          "news_focus": "Shortly after Amazon announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
-          "news_focus_zh": "亞馬遜宣布對OpenAI進行500億美元的投資，並邀請媒體參觀其Trainium晶片實驗室，該晶片已獲得Anthropic、OpenAI及Apple的青睞。",
-          "background": "亞馬遜的Trainium晶片是其在雲計算和人工智慧領域競爭的關鍵組件。隨著AI技術的迅速發展，企業對高效能計算資源的需求激增，促使亞馬遜加大對AI基礎設施的投資。此次500億美元的投資不僅顯示亞馬遜對AI市場的重視，也反映出其在與其他科技巨頭競爭中的策略調整。",
-          "stakeholders": [
-            "亞馬遜",
-            "OpenAI",
-            "Anthropic",
-            "Apple",
-            "Google"
-          ],
-          "analysis": "亞馬遜的投資將使其在AI領域的競爭力大幅提升，特別是對OpenAI和Anthropic等公司而言，這意味著更強大的計算能力和資源支持。然而，這也可能引發其他科技公司如Google和Microsoft的警覺，促使其加速技術創新和投資。各方利益的角力將影響未來AI技術的發展方向及市場格局。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "partnership_move",
-        "supporting_sources": [
-          "MIT Technology Review",
-          "The Verge"
-        ],
-        "supporting_titles": [
-          "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
-          "The best early deals you can already grab from Amazon’s Big Spring Sale"
-        ],
-        "supporting_links": [
-          "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
-          "https://www.theverge.com/gadgets/895635/best-amazon-big-spring-sale-early-deals-2026"
-        ],
-        "source_count": 3
       },
       {
         "category": "technology",
@@ -110,26 +69,74 @@
         "published_at_utc": "2026-03-20T00:07:30+00:00",
         "id": "69bc0fc990a1aefd26b02424",
         "topic_type": "cybersecurity",
-        "relevance_score": 14,
+        "relevance_score": 18,
         "briefing": {
           "news_focus": "The Aisuru, Kimwolf, JackSkid, and Mossad botnets had infected more than 3 million devices in total, many inside home networks, according to the US Justice Department.",
-          "news_focus_zh": "美國司法部宣布成功摧毀Aisuru、Kimwolf、JackSkid和Mossad四個大型機器人網路，這些網路共感染超過300萬個設備，許多位於家庭網路中，這一行動旨在打擊創紀錄的網路攻擊事件。",
-          "background": "隨著數位化進程加速，網路安全問題日益嚴重，特別是家庭網路的安全性受到威脅。這些機器人網路的存在，顯示出網路犯罪集團如何利用大量受感染設備進行分散式拒絕服務攻擊（DDoS）。美國政府在過去幾年中加強了對網路犯罪的打擊，這次行動是其持續努力的一部分，旨在保護公民和企業的網路安全。",
+          "news_focus_zh": "美國司法部宣布成功摧毀Aisuru、Kimwolf、JackSkid和Mossad四個大型機器人網絡，這些網絡共感染超過300萬台設備，許多位於家庭網絡中，標誌著對網絡安全的重大進展。",
+          "background": "隨著數位化進程加速，網絡攻擊事件日益頻繁，特別是針對家庭和小型企業的攻擊。這些機器人網絡通常被用於發動分散式拒絕服務攻擊（DDoS），對網絡基礎設施造成嚴重威脅。美國政府在過去幾年中加強了對網絡犯罪的打擊，並推出多項政策以提升網絡安全防護。",
           "stakeholders": [
             "美國司法部",
+            "網絡安全公司",
             "家庭用戶",
-            "網路安全公司",
-            "網路犯罪集團",
-            "國際網路安全組織"
+            "網絡犯罪集團",
+            "國際網絡安全機構"
           ],
-          "analysis": "此次行動對於美國政府來說，象徵著在網路安全方面的一次重大勝利，可能會增強公眾對政府保護網路安全能力的信心。然而，網路犯罪集團可能會迅速調整策略，尋找新的攻擊方式。對於家庭用戶而言，這一事件突顯了加強個人網路安全的重要性。此外，這也可能促使其他國家加強對網路犯罪的監管與合作，形成更廣泛的國際網路安全聯盟。"
+          "analysis": "此次行動標誌著美國在打擊網絡犯罪方面的重大進展，特別是在針對家庭網絡的攻擊上。與先前的行動相比，此次摧毀的機器人網絡規模更大，且涉及的設備數量創下新高。這不僅顯示出美國政府在網絡安全上的決心，也可能促使其他國家加強對類似威脅的應對措施。未來，隨著網絡攻擊手法的演變，各國可能需要進一步合作以應對日益複雜的網絡安全挑戰。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
+        "is_major_update": true,
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
         "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "TechCrunch",
+        "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+        "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+        "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
+        "published": "Sat, 21 Mar 2026 01:40:28 +0000",
+        "updated": "Sat, 21 Mar 2026 01:40:28 +0000",
+        "published_at_utc": "2026-03-21T01:40:28+00:00",
+        "id": "https://techcrunch.com/?p=3104644",
+        "topic_type": "ai",
+        "relevance_score": 14,
+        "briefing": {
+          "news_focus": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
+          "news_focus_zh": "Anthropic向加州聯邦法院提交的宣誓聲明反駁五角大廈對其的國家安全風險指控，並指出政府的論點基於技術誤解及未曾在談判中提出的主張。",
+          "background": "Anthropic是一家專注於人工智慧的公司，近年來在AI技術的發展上受到關注。美國政府對於AI技術的監管日益嚴格，尤其是在國家安全方面。特朗普政府時期對科技公司與政府的關係持保守態度，近期的政策變化可能影響到AI公司的運作與發展。此事件發生在特朗普宣佈與五角大廈的關係破裂後，顯示出政府與科技公司之間的緊張局勢。",
+          "stakeholders": [
+            "Anthropic",
+            "五角大廈",
+            "美國政府",
+            "AI技術開發者",
+            "國家安全專家"
+          ],
+          "analysis": "Anthropic與五角大廈的對峙反映出政府對AI技術的擔憂與企業對於自身技術的辯護。五角大廈認為Anthropic的技術可能對國家安全構成威脅，而Anthropic則主張這些指控缺乏實質依據，並強調其在談判中的透明度。此事件可能導致政府在AI監管政策上進一步收緊，或促使企業在技術開發上更加謹慎，未來雙方的關係將取決於如何解決這些誤解。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "strategic_move",
+        "supporting_sources": [
+          "MIT Technology Review",
+          "The Verge",
+          "Wired",
+          "Ars Technica"
+        ],
+        "supporting_titles": [
+          "The Pentagon is planning for AI companies to train on classified data, defense official says",
+          "The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price",
+          "‘A Rigged and Dangerous Product’: The Wildest Week for Prediction Markets Yet",
+          "Monte Verde site gets a new date, but the big picture doesn't change"
+        ],
+        "supporting_links": [
+          "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+          "https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal",
+          "https://www.wired.com/story/why-this-was-the-wildest-week-for-prediction-markets-yet/",
+          "https://arstechnica.com/science/2026/03/an-early-indigenous-site-may-not-be-early-but-it-doesnt-really-matter/"
+        ],
+        "source_count": 5
       }
     ],
     "politics": [
@@ -147,16 +154,16 @@
         "relevance_score": 23,
         "briefing": {
           "news_focus": "Israel’s military said it was investigating whether its own fire killed an Israeli civilian near the Lebanese border on Sunday, after Hezbollah claimed an attack in the same area. Israeli emergency workers said earlier on Sunday that a man was killed in a “direct hit” on his car by a rocket from Lebanon. Lebanon’s Iran-backed Hezbollah militant group said after the incident that its fighters had attacked Israeli soldiers in the same area. But the Israeli army later said it was “conducting a...",
-          "news_focus_zh": "以色列軍方正在調查是否其士兵的火力導致一名以色列平民在黎巴嫩邊界附近喪生，這一事件發生在真主黨宣稱在同一地區攻擊以色列士兵之後。",
-          "background": "以色列與黎巴嫩之間的緊張局勢歷史悠久，尤其是以色列與真主黨的衝突。真主黨作為伊朗支持的武裝組織，經常對以色列進行攻擊，而以色列則對其回應進行空襲或地面行動。此次事件發生在一個敏感的地區，可能加劇雙方的敵對情緒，並影響地區安全局勢。",
+          "news_focus_zh": "以色列軍方正在調查是否因自家士兵的火力導致一名以色列平民在黎巴嫩邊境遇害，該事件發生在真主黨宣稱在同一地區攻擊以軍後不久。",
+          "background": "以色列與黎巴嫩的緊張關係由於真主黨的存在而持續升溫，該組織受到伊朗的支持，並經常與以色列軍隊發生衝突。近期，邊境地區的衝突頻繁，雙方都在加強軍事部署。這一事件的發生，正值以色列與黎巴嫩之間的緊張局勢加劇，並引發國際社會的關注。",
           "stakeholders": [
-            "以色列軍方",
             "以色列政府",
-            "真主黨",
-            "黎巴嫩政府",
-            "國際社會"
+            "黎巴嫩真主黨",
+            "以色列軍方",
+            "國際社會",
+            "黎巴嫩政府"
           ],
-          "analysis": "此次事件的調查顯示以色列軍方對內部火力的責任感，這與以往對外部威脅的強硬回應形成對比。若調查結果確認是以色列士兵誤擊，將可能引發國內對軍方的質疑，並影響以色列政府的公信力。同時，真主黨可能會利用此事件來強化其在黎巴嫩的影響力，進一步挑釁以色列。此事件的後續發展可能導致更高的軍事緊張與政治動盪。"
+          "analysis": "此次事件的調查顯示以色列軍方對於自我行動的透明度與責任感，這在過去的衝突中並不常見。若調查結果確認是以色列士兵誤擊，將可能引發國內外對以色列軍事行動的質疑，並加劇與黎巴嫩的緊張局勢。另一方面，真主黨的聲明可能會被視為挑釁，進一步激化雙方的敵對情緒，未來可能導致更大規模的軍事衝突。"
         },
         "topic_priority_score": 11,
         "event_type": "security_event",
@@ -167,12 +174,12 @@
           "Fox News World"
         ],
         "supporting_titles": [
-          "Hezbollah attack kills one in north Israel as assault on Lebanon continues",
+          "Israel vows to escalate campaign against Hezbollah in Lebanon",
           "Why is Israel attacking Lebanon? | Explained",
           "Neither the US nor Israel will 'succeed in replacing the Iranian regime,' retired US general says"
         ],
         "supporting_links": [
-          "https://www.aljazeera.com/news/2026/3/22/hezbollah-attack-kills-one-in-north-israel-as-assault-on-lebanon-continues?traffic_source=rss",
+          "https://www.aljazeera.com/video/newsfeed/2026/3/22/israel-vows-to-escalate-campaign-against-hezbollah-in-lebanon?traffic_source=rss",
           "https://www.thehindu.com/news/international/explained-why-is-israel-attacking-lebanon/article70770015.ece",
           "https://www.foxnews.com/world/neither-us-nor-israel-succeed-replacing-iranian-regime-retired-us-general-says"
         ],
@@ -192,16 +199,16 @@
         "relevance_score": 17,
         "briefing": {
           "news_focus": "At least three Filipinos with ties to the country’s military have been arrested on suspicion of spying for Beijing, allegedly leaking information that sparked maritime confrontations in the disputed South China Sea. The case, which came to light last year during an ongoing multi-agency counter-intelligence effort, marks a new strategy of recruiting Filipinos for espionage instead of planting individuals with fake local identities in the country, according to Philippine Navy Rear Admiral Roy...",
-          "news_focus_zh": "菲律賓軍方逮捕三名與軍方有關的菲律賓人，涉嫌為北京間諜，洩漏導致南海爭端的情報。此案顯示北京採取新策略，招募當地人進行間諜活動，而非以假身份潛入。",
-          "background": "南海爭端涉及中國、菲律賓及其他東南亞國家，長期以來各方在此區域的主權聲索引發緊張局勢。菲律賓與美國的防務合作加強，並在國際上尋求支持以對抗中國的擴張行為。此事件發生在多機構的反情報行動中，顯示出菲律賓對於國內間諜活動的重視及應對策略的調整。",
+          "news_focus_zh": "菲律賓軍方逮捕至少三名與軍方有關的菲律賓人，涉嫌為北京從事間諜活動，洩露導致南海爭端的情報。此案件揭示了北京新的間諜招募策略，改為招募本地人而非假冒身份者。",
+          "background": "南中國海的領土爭端涉及多國，包括中國、菲律賓、越南等，長期以來引發緊張局勢。菲律賓政府在面對中國的擴張行為時，積極加強國防與情報工作。此次事件的曝光，正值菲律賓多機構反間諜行動的背景下，顯示出對外部威脅的高度警覺。",
           "stakeholders": [
             "菲律賓政府",
             "中國政府",
-            "美國政府",
             "菲律賓軍方",
+            "國際社會",
             "南海周邊國家"
           ],
-          "analysis": "此次事件標誌著中國在南海的間諜活動策略的轉變，從過去的假身份潛入轉向利用當地人進行情報收集，這可能使菲律賓的反間諜工作面臨更大挑戰。此外，這一發展可能引發菲律賓政府對國內安全的重新評估，並促使其加強與美國及其他盟友的合作，以應對潛在的安全威脅。各方對此事的反應可能會影響南海的地緣政治局勢。"
+          "analysis": "此次事件標誌著中國在南海的間諜策略出現新變化，從以往的假身份者轉向直接招募當地人，這可能使得情報收集更為有效。對於菲律賓而言，這不僅是國家安全的警示，也可能引發民眾對於外國勢力滲透的擔憂，進一步影響對中國的外交政策。此事件可能促使菲律賓加強國內反間諜措施，並尋求更多國際支持以對抗外來威脅。"
         },
         "topic_priority_score": 10,
         "event_type": "security_event",
@@ -234,16 +241,16 @@
         "relevance_score": 23,
         "briefing": {
           "news_focus": "The United States may need to “escalate” its attacks against Iran to be able to wind down the war, US Treasury Secretary Scott Bessent said on Sunday, after US President Donald Trump gave seemingly contradictory trajectories for the US military campaign. Trump on Saturday threatened to “obliterate” Iranian energy plants if Tehran did not fully open the pivotal Strait of Hormuz, just a day after saying US objectives were “very close” and that he was considering “winding down” the war. Asked on...",
-          "news_focus_zh": "美國財政部長斯科特·貝森特表示，美國可能需要加大對伊朗的攻擊力度，以便最終結束戰爭。這一言論出現在特朗普總統對美軍行動的矛盾表述之後，特朗普威脅要摧毀伊朗能源設施，並提到考慮結束戰爭的可能性。",
-          "background": "美國與伊朗之間的緊張關係持續升溫，尤其是在霍爾木茲海峽的戰略重要性上。美國對伊朗的制裁政策已經持續多年，並且在特朗普政府下加強。此時，美國內部對於如何處理與伊朗的關係出現分歧，特別是在軍事行動的強度與目標上。",
+          "news_focus_zh": "美國財政部長斯科特·貝森特表示，美國可能需要加大對伊朗的攻擊，以便最終能夠結束戰爭。這一言論出現在特朗普總統對美軍行動的矛盾表述之後，特朗普威脅如果伊朗不完全開放霍爾木茲海峽，將摧毀其能源設施。",
+          "background": "美國與伊朗之間的緊張關係持續升級，特別是在特朗普政府對伊朗的制裁政策以及對其核計劃的強硬立場下。霍爾木茲海峽是全球重要的石油運輸通道，控制該地區的安全對於美國及其盟友至關重要。近期的軍事行動和言辭威脅顯示出美國在應對伊朗挑釁時的策略不斷調整，反映出其在中東地區的政策脈絡。",
           "stakeholders": [
             "美國政府",
             "伊朗政府",
             "中東地區盟友",
             "國際能源市場",
-            "全球安全觀察者"
+            "全球安全組織"
           ],
-          "analysis": "此次發言顯示美國在對伊朗政策上的不確定性，尤其是特朗普的矛盾言論可能使國際社會對美國的軍事策略感到困惑。加大攻擊力度的提議可能引發伊朗的強烈反應，進一步加劇地區緊張局勢。此外，這一策略也可能影響美國與其盟友的關係，特別是在如何應對伊朗的問題上，盟友可能對美國的軍事行動持不同看法。"
+          "analysis": "此次發言顯示出美國在對伊朗政策上的矛盾與不確定性，尤其是在特朗普的強硬威脅與其希望結束戰爭的意圖之間的張力。這一策略的升級可能會引發伊朗的強烈反應，進一步加劇地區緊張局勢。對於美國軍方而言，這意味著可能需要更多的資源與軍事行動來達成其目標，而對於伊朗來說，則可能促使其加強防禦措施或尋求外部支持以應對美國的壓力。"
         },
         "topic_priority_score": 9,
         "event_type": "election_move",
@@ -275,16 +282,16 @@
         "relevance_score": 26,
         "briefing": {
           "news_focus": "Gold prices have continued to weaken despite escalating tensions in the US-Israel conflict with Iran, breaking from the metal’s traditional role as a geopolitical hedge, as fading expectations of interest rate cuts and a stronger US dollar weigh on sentiment, analysts said. The metal has declined about 15 per cent since a brief surge on March 2, when prices climbed to around US$5,300 per ounce following US and Israeli strikes on Iran. A modest rebound driven by technical buying on Friday did...",
-          "news_focus_zh": "儘管美國與以色列與伊朗之間的緊張局勢升級，金價仍持續下滑，顯示出市場對於利率下降預期減弱及美元走強的反應，打破了金屬作為地緣政治避險工具的傳統角色。",
-          "background": "金價通常在地緣政治不穩定時上升，作為投資者的避險選擇。然而，隨著美國聯邦儲備系統（Fed）持續採取鷹派立場，市場對於未來利率降低的預期逐漸減弱，這使得金價受到壓力。此外，美元的強勢也進一步削弱了金價的吸引力，這一切都發生在美國與以色列對伊朗的軍事行動之後，市場情緒的變化顯示出投資者對金價的信心正在減弱。",
+          "news_focus_zh": "儘管美國與以色列與伊朗之間的緊張局勢加劇，黃金價格仍持續下滑，顯示出其作為地緣政治避險資產的傳統角色受到挑戰。分析指出，聯邦儲備局的鷹派立場及強勁的美元對市場情緒造成壓力。",
+          "background": "黃金通常被視為在地緣政治不穩定時期的避險資產，但近期的市場動態顯示出其傳統角色的變化。隨著美國聯邦儲備局持續採取鷹派政策，市場對降息的預期逐漸減弱，加上美元走強，這些因素共同影響了黃金的需求。自3月2日以來，黃金價格已下跌約15%，顯示出市場對地緣政治風險的反應不如預期。",
           "stakeholders": [
-            "美國聯邦儲備系統",
-            "投資者",
-            "黃金市場交易商",
+            "美國聯邦儲備局",
+            "黃金投資者",
             "美元持有者",
-            "地緣政治分析師"
+            "地緣政治分析師",
+            "商品交易商"
           ],
-          "analysis": "此次金價下滑的主要變化在於，傳統上金價會在地緣政治緊張時上升，但目前的情況顯示出市場對於利率政策的敏感度更高。美國聯邦儲備系統的鷹派立場使得投資者更傾向於持有美元資產，而非金屬，這對金價造成了持續的壓力。未來，若美國經濟數據持續強勁，可能會進一步加劇金價的下行壓力，投資者需密切關注Fed的政策走向及美元走勢。"
+          "analysis": "此次黃金價格的下滑顯示出市場對地緣政治風險的敏感度下降，與以往在衝突加劇時黃金價格上漲的趨勢相悖。美國聯邦儲備局的鷹派立場使得投資者更傾向於持有美元資產，進一步壓制了黃金的吸引力。這一變化可能導致投資者重新評估其資產配置，特別是在面對不確定的地緣政治環境時。未來，若美國經濟數據持續強勁，黃金價格可能面臨進一步下行壓力。"
         },
         "topic_priority_score": 10,
         "event_type": "rate_decision",
@@ -293,6 +300,54 @@
         "supporting_titles": [],
         "supporting_links": [],
         "source_count": 1
+      },
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "‘The new ketchup’? How hummus spread beyond a niche into a British staple",
+        "link": "https://www.theguardian.com/business/2026/mar/22/new-ketchup-hummus-uk-inflation-basket",
+        "summary": "News that chickpea dip is to join list of products used for UK inflation basket confirms its move into the mainstream The best (and worst) supermarket hummus tasted and rated It is a sign of the times. This week it was revealed that hummus is joining the list of foods used to measure the cost of living in Britain as the ubiquity of the dip at mealtimes sees it billed as the “new ketchup”. The decision to drop a pot of hummus in the inflation basket is a moment for the all-conquering chickpea dip, which arrived on supermarket shelves in the late 1980s. Since then Britons have gone from spending virtually nothing to £170m a year on the versatile stuff. Continue reading...",
+        "published": "Sun, 22 Mar 2026 13:00:22 GMT",
+        "updated": "2026-03-22T13:00:22Z",
+        "published_at_utc": "2026-03-22T13:00:22+00:00",
+        "id": "https://www.theguardian.com/business/2026/mar/22/new-ketchup-hummus-uk-inflation-basket",
+        "topic_type": "inflation",
+        "relevance_score": 24,
+        "briefing": {
+          "news_focus": "News that chickpea dip is to join list of products used for UK inflation basket confirms its move into the mainstream The best (and worst) supermarket hummus tasted and rated It is a sign of the times. This week it was revealed that hummus is joining the list of foods used to measure the cost of living in Britain as the ubiquity of the dip at mealtimes sees it billed as the “new ketchup”. The decision to drop a pot of hummus in the inflation basket is a moment for the all-conquering chickpea dip, which arrived on supermarket shelves in the late 1980s. Since then Britons have gone from spending virtually nothing to £170m a year on the versatile stuff. Continue reading...",
+          "news_focus_zh": "英國的鷹嘴豆泥（hummus）被納入通脹指數的食品清單，顯示其已從小眾產品轉變為主流食品，並被稱為‘新番茄醬’。這一變化反映了消費者飲食習慣的演變。",
+          "background": "鷹嘴豆泥自1980年代末進入英國超市以來，逐漸受到消費者的青睞。隨著健康飲食趨勢的興起，鷹嘴豆泥的市場需求顯著增加，英國每年在這一產品上的消費已達1.7億英鎊。此次納入通脹指數，標誌著其在英國飲食文化中的重要性日益上升。",
+          "stakeholders": [
+            "消費者",
+            "食品生產商",
+            "零售商",
+            "政府經濟政策制定者",
+            "健康飲食倡導者"
+          ],
+          "analysis": "此次鷹嘴豆泥被納入通脹指數，顯示其已成為英國飲食的主流選擇，反映出消費者對健康與多樣化飲食的需求。這一變化可能促使生產商進一步擴大產品線，並提升市場競爭力。同時，這也可能影響其他類似產品的市場定位，促進健康食品的消費趨勢。對於消費者而言，這意味著在通脹計算中，健康選擇將獲得更多關注。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "inflation_data",
+        "is_major_update": true,
+        "supporting_sources": [
+          "SCMP Business",
+          "Nikkei Asia",
+          "The Economist",
+          "BBC Business"
+        ],
+        "supporting_titles": [
+          "How China opened the door to creating a direct rival to US payment systems",
+          "South Korea has a huge gender pay gap. Seoul wants to bring it into the open",
+          "The green transition has a surprising new home",
+          "How the Iran war may affect your money and bills"
+        ],
+        "supporting_links": [
+          "https://www.scmp.com/economy/china-economy/article/3347053/how-china-opened-door-creating-direct-rival-us-payment-systems?utm_source=rss_feed",
+          "https://asia.nikkei.com/spotlight/gender/south-korea-has-a-huge-gender-pay-gap.-seoul-wants-to-bring-it-into-the-open",
+          "https://www.economist.com/finance-and-economics/2025/08/21/the-green-transition-has-a-surprising-new-home",
+          "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss"
+        ],
+        "source_count": 5
       },
       {
         "category": "economy",
@@ -308,16 +363,16 @@
         "relevance_score": 22,
         "briefing": {
           "news_focus": "HSBC CEO Georges Elhedery has vowed to continue investing in China amid escalating trade tensions after witnessing new trade opportunities from Chinese companies going global. While attending the two-day China Development Forum (CDF) 2026 in Beijing on Sunday, Elhedery characterised China’s current trajectory as a “new phase of development” that would define the next era of global economic growth. Although 2025 saw steady growth in global trade, the landscape was complicated by shifting tariffs,...",
-          "news_focus_zh": "匯豐銀行首席執行官喬治·埃爾赫德里在北京的中國發展論壇上表示，儘管全球貿易緊張局勢加劇，仍將繼續在中國投資，並指出中國企業全球化帶來的新貿易機會。",
-          "background": "在全球貿易環境不斷變化的背景下，中國正面臨來自美國及其他國家的貿易摩擦。隨著中國企業逐步向外擴展，形成新的貿易走廊，這對於外資企業如匯豐銀行而言，提供了新的投資機會。匯豐銀行長期以來在中國市場的投資策略，反映了其對中國經濟增長潛力的信心，尤其是在全球經濟復甦的過程中。",
+          "news_focus_zh": "匯豐銀行首席執行官Georges Elhedery在北京的中國發展論壇上表示，儘管全球貿易緊張局勢升級，匯豐仍將持續在中國投資，並指出中國企業的全球化為新貿易機會帶來了潛力。",
+          "background": "隨著全球貿易環境的變化，中國的經濟發展進入新階段，吸引外資的潛力持續增強。匯豐銀行作為全球主要金融機構之一，對中國市場的重視反映了其對中國經濟未來的信心。過去幾年，中國在貿易政策和市場開放方面的調整，促使外資企業重新評估其在中國的投資策略。",
           "stakeholders": [
             "匯豐銀行",
             "中國政府",
-            "全球貿易公司",
-            "其他外資銀行",
-            "國際投資者"
+            "外資企業",
+            "中資企業",
+            "全球貿易組織"
           ],
-          "analysis": "此次發言標誌著匯豐銀行在面對全球貿易緊張局勢時的戰略調整，強調了其對中國市場的長期承諾。與以往相比，埃爾赫德里提到的「新階段發展」表明中國經濟的轉型將帶來更多機會，這可能促使其他外資銀行重新評估其在中國的投資策略。儘管存在風險，匯豐的立場可能會吸引更多外資進入中國市場，進一步加劇國際間的競爭。"
+          "analysis": "此次發言標誌著匯豐在面對全球貿易緊張局勢時，仍堅持其在中國的長期投資計劃，這與其他一些外資企業的觀望態度形成對比。此舉可能會吸引更多外資進入中國市場，進一步促進中資企業的國際化。同時，這也可能引發其他金融機構的競爭，促使它們重新考量在中國的業務策略，尤其是在新貿易走廊的開發上。"
         },
         "topic_priority_score": 9,
         "event_type": "macro_signal",
@@ -338,53 +393,6 @@
           "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss"
         ],
         "source_count": 4
-      },
-      {
-        "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "‘The new ketchup’? How hummus spread beyond a niche into a British staple",
-        "link": "https://www.theguardian.com/business/2026/mar/22/new-ketchup-hummus-uk-inflation-basket",
-        "summary": "News that chickpea dip is to join list of products used for UK inflation basket confirms its move into the mainstream The best (and worst) supermarket hummus tasted and rated It is a sign of the times. This week it was revealed that hummus is joining the list of foods used to measure the cost of living in Britain as the ubiquity of the dip at mealtimes sees it billed as the “new ketchup”. The decision to drop a pot of hummus in the inflation basket is a moment for the all-conquering chickpea dip, which arrived on supermarket shelves in the late 1980s. Since then Britons have gone from spending virtually nothing to £170m a year on the versatile stuff. Continue reading...",
-        "published": "Sun, 22 Mar 2026 13:00:22 GMT",
-        "updated": "2026-03-22T13:00:22Z",
-        "published_at_utc": "2026-03-22T13:00:22+00:00",
-        "id": "https://www.theguardian.com/business/2026/mar/22/new-ketchup-hummus-uk-inflation-basket",
-        "topic_type": "inflation",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "News that chickpea dip is to join list of products used for UK inflation basket confirms its move into the mainstream The best (and worst) supermarket hummus tasted and rated It is a sign of the times. This week it was revealed that hummus is joining the list of foods used to measure the cost of living in Britain as the ubiquity of the dip at mealtimes sees it billed as the “new ketchup”. The decision to drop a pot of hummus in the inflation basket is a moment for the all-conquering chickpea dip, which arrived on supermarket shelves in the late 1980s. Since then Britons have gone from spending virtually nothing to £170m a year on the versatile stuff. Continue reading...",
-          "news_focus_zh": "英國將鷹嘴豆醬（hummus）納入通脹測量食品清單，顯示其已成為主流食品，並被譽為‘新番茄醬’。自1980年代末進入超市以來，英國人對鷹嘴豆醬的消費從幾乎為零增至每年1.7億英鎊。",
-          "background": "鷹嘴豆醬在英國的流行反映了飲食習慣的變化，特別是在健康飲食趨勢興起的背景下。自1980年代末進入市場以來，鷹嘴豆醬逐漸從小眾產品轉變為家庭餐桌上的常見選擇。其受歡迎程度促使超市不斷推出各種口味和品牌，並使其成為衡量生活成本的重要指標。",
-          "stakeholders": [
-            "食品生產商",
-            "超市零售商",
-            "消費者",
-            "經濟政策制定者",
-            "健康飲食倡導者"
-          ],
-          "analysis": "鷹嘴豆醬的普及對於食品產業、消費者和經濟政策都有重要影響。對於食品生產商而言，這意味著市場需求的增長，可能促使更多創新產品的推出。消費者則能享受到更多健康選擇，反映出對健康飲食的重視。然而，將其納入通脹測量也可能引發對價格上漲的關注，特別是在生活成本上升的背景下，可能會影響消費者的購買行為。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "inflation_data",
-        "supporting_sources": [
-          "SCMP Business",
-          "Nikkei Asia",
-          "The Economist",
-          "BBC Business"
-        ],
-        "supporting_titles": [
-          "How China opened the door to creating a direct rival to US payment systems",
-          "South Korea has a huge gender pay gap. Seoul wants to bring it into the open",
-          "The green transition has a surprising new home",
-          "How the Iran war may affect your money and bills"
-        ],
-        "supporting_links": [
-          "https://www.scmp.com/economy/china-economy/article/3347053/how-china-opened-door-creating-direct-rival-us-payment-systems?utm_source=rss_feed",
-          "https://asia.nikkei.com/spotlight/gender/south-korea-has-a-huge-gender-pay-gap.-seoul-wants-to-bring-it-into-the-open",
-          "https://www.economist.com/finance-and-economics/2025/08/21/the-green-transition-has-a-surprising-new-home",
-          "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss"
-        ],
-        "source_count": 5
       }
     ]
   },
@@ -470,11 +478,18 @@
         "relevance_score": 19
       },
       {
-        "title": "Hezbollah attack kills one in north Israel as assault on Lebanon continues",
-        "link": "https://www.aljazeera.com/news/2026/3/22/hezbollah-attack-kills-one-in-north-israel-as-assault-on-lebanon-continues?traffic_source=rss",
+        "title": "Russian attacks kill six in Ukraine, officials say",
+        "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-03-22T19:29:06+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Israel vows to escalate campaign against Hezbollah in Lebanon",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/israel-vows-to-escalate-campaign-against-hezbollah-in-lebanon?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-03-22T13:09:57+00:00",
-        "relevance_score": 19
+        "published_at_utc": "2026-03-22T19:21:20+00:00",
+        "relevance_score": 17
       },
       {
         "title": "Ukraine’s Zelenskyy urges allies to pressure Russia ahead of US talks",
@@ -498,6 +513,13 @@
         "relevance_score": 17
       },
       {
+        "title": "Hezbollah attack kills one in north Israel as assault on Lebanon continues",
+        "link": "https://www.aljazeera.com/news/2026/3/22/hezbollah-attack-kills-one-in-north-israel-as-assault-on-lebanon-continues?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-03-22T13:09:57+00:00",
+        "relevance_score": 17
+      },
+      {
         "title": "Churchill, Shakespeare and the UK flag all under siege in modern Britain, commentators say",
         "link": "https://www.foxnews.com/world/churchill-shakespeare-uk-flag-all-under-siege-modern-britain-commentators-say",
         "source_name": "Fox News World",
@@ -505,31 +527,17 @@
         "relevance_score": 17
       },
       {
+        "title": "Kenyans fighting illegally for Russia in Ukraine to be granted amnesty",
+        "link": "https://www.bbc.com/news/articles/cj94jmj2p28o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-03-22T19:05:30+00:00",
+        "relevance_score": 15
+      },
+      {
         "title": "Analysts say Gaza 'civilian' deaths include Hamas, other terror members working as medics, media workers",
         "link": "https://www.foxnews.com/world/analysts-say-gaza-civilian-deaths-include-hamas-other-terror-members-working-medics-media-workers",
         "source_name": "Fox News World",
         "published_at_utc": "2026-03-22T17:18:37+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Russia claims control of border village in Ukraine's Sumy region",
-        "link": "https://www.thehindu.com/news/international/russia-claims-control-of-border-village-in-ukraines-sumy-region/article70773152.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-03-22T16:42:35+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Netanyahu visits site of Iranian missile attack, claims U.S.-Israel fighting for entire world",
-        "link": "https://www.thehindu.com/news/international/netanyahu-visits-site-of-iranian-missile-attack-claims-us-israel-fighting-for-entire-world/article70772387.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-03-22T13:42:19+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "About 200 injured in Iranian missile strikes near nuclear facility in Israel",
-        "link": "https://www.theguardian.com/world/2026/mar/21/wounded-iranian-missile-strikes-southern-israel",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-03-22T11:29:13+00:00",
         "relevance_score": 15
       }
     ],
@@ -612,5 +620,5 @@
     "failed": 0,
     "total": 9
   },
-  "theme_of_day": "今日新聞的整體敘事主軸圍繞科技創新與地緣政治的交織影響。科技版面中，中國的機器人革命與美國對網路攻擊的打擊行動顯示出各國在自動化及網路安全領域的競爭日益激烈，這與政治版面上以色列與黎巴嫩的緊張局勢及美國對伊朗的軍事策略相互呼應，反映出科技發展在當前國際局勢中的重要性。此外，經濟版面中金價的下滑與美國強勢美元的關聯，顯示出地緣政治風險對市場的影響正在減弱，這與科技創新所帶來的市場信心形成鮮明對比。"
+  "theme_of_day": "今日新聞的整體敘事主軸圍繞著科技進步與國際政治緊張局勢之間的相互影響。在科技版面中，Nvidia的演講和美國對機器人網絡的打擊反映了人工智慧和網絡安全的日益重要性，這與政治版面中美國對伊朗的強硬立場及以色列的調查事件形成鮮明對比，顯示出科技與地緣政治的交織影響。此外，經濟版面提及的黃金價格下滑，亦反映出市場對於美國貨幣政策及國際局勢的敏感反應，進一步強化了科技、政治與經濟之間的連動關係。"
 }
