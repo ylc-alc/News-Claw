@@ -238,6 +238,7 @@ def main():
     digest = load_digest()
 
     log_pipeline_run(digest, today)
+    update_feed_health(today)
     update_source_contribution(digest, today)
     update_topic_distribution(digest, today)
     update_multi_source_rate(digest, today)
