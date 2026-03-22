@@ -104,16 +104,26 @@ def build_topic_card(item):
         )
         cross_ref_html = f'<div class="cross-section-row">{badges}</div>'
 
+    supporting_links = item.get("supporting_links", [])
     supporting_source_html = ""
     if supporting_sources:
-        extra_badges = "".join(
-            f"<span class='supporting-source-badge'>{escape_html(src)}</span>"
-            for src in supporting_sources
-        )
+        extra_badges = []
+        for idx, src in enumerate(supporting_sources):
+            link_url = supporting_links[idx] if idx < len(supporting_links) else ""
+            if link_url:
+                badge = (
+                    f"<a href='{escape_html(link_url)}' target='_blank' "
+                    f"rel='noopener noreferrer' class='supporting-source-badge'>"
+                    f"{escape_html(src)}</a>"
+                )
+            else:
+                badge = f"<span class='supporting-source-badge'>{escape_html(src)}</span>"
+            extra_badges.append(badge)
+        badges_html = "".join(extra_badges)
         supporting_source_html = f"""
         <div class="supporting-source-row">
           <span class="supporting-label">補充來源：</span>
-          {extra_badges}
+          {badges_html}
         </div>
         """
 
@@ -352,6 +362,12 @@ def page_shell(title, meta_line, intro_text, body_html):
       line-height: 1.4;
       background: #f3f4f6;
       color: #374151;
+      text-decoration: none;
+      cursor: pointer;
+    }}
+    .supporting-source-badge:hover {{
+      background: #e5e7eb;
+      text-decoration: none;
     }}
     .source-count-badge {{
       display: inline-block;
@@ -450,6 +466,26 @@ def page_shell(title, meta_line, intro_text, body_html):
       color: #6b7280;
       font-size: 14px;
     }}
+    .back-to-top {{
+      position: fixed;
+      bottom: 20px;
+      right: 16px;
+      font-size: 13px;
+      color: #6b7280;
+      background: rgba(255,255,255,0.88);
+      border: 1px solid #e5e7eb;
+      border-radius: 6px;
+      padding: 4px 10px;
+      cursor: pointer;
+      display: none;
+      z-index: 999;
+      text-decoration: none;
+      backdrop-filter: blur(4px);
+    }}
+    #back-to-top:hover {{
+      color: #111827;
+      background: #ffffff;
+    }}
     .theme-of-day {{
       background: #f0f9ff;
       border-left: 3px solid #0ea5e9;
@@ -505,30 +541,10 @@ def page_shell(title, meta_line, intro_text, body_html):
   <footer>
     <p>News-Claw automated daily briefing prototype.</p>
   </footer>
-  #back-to-top {{
-      position: fixed;
-      bottom: 24px;
-      right: 20px;
-      width: 44px;
-      height: 44px;
-      border-radius: 50%;
-      background: #2563eb;
-      color: #ffffff;
-      border: none;
-      font-size: 20px;
-      line-height: 1;
-      cursor: pointer;
-      display: none;
-      z-index: 999;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.18);
-    }}
-    #back-to-top:hover {{
-      background: #1d4ed8;
-    }}
-    <button id="back-to-top" onclick="scrollToTop()" aria-label="回到頂部">↑</button>
+  
+  <a id="back-to-top" href="#" onclick="window.scrollTo({{top:0,behavior:'smooth'}});return false;">Top</a>
 
-    <script>
-    function scrollToTop() {{ window.scrollTo({{top: 0, behavior: 'smooth'}}); }}
+  <script>
     window.addEventListener('scroll', function() {{
       document.getElementById('back-to-top').style.display =
         window.scrollY > 300 ? 'block' : 'none';
