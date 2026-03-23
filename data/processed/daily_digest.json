@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-03-22T20:19:38.271577+00:00",
+  "generated_at_utc": "2026-03-23T08:43:43.258733+00:00",
   "summary": {
-    "total_raw_items": 1063,
-    "total_deduped_items": 1053,
+    "total_raw_items": 1059,
+    "total_deduped_items": 1048,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
@@ -18,45 +18,51 @@
       ],
       "economy": [
         "interest_rates",
-        "inflation",
-        "trade_wars"
+        "trade_wars",
+        "inflation"
       ]
     },
-    "multi_source_selected_count": 6
+    "multi_source_selected_count": 7
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
         "source_name": "TechCrunch",
-        "title": "Do you want to build a robot snowman?",
-        "link": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
-        "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
-        "published": "Sun, 22 Mar 2026 19:45:07 +0000",
-        "updated": "Sun, 22 Mar 2026 19:45:07 +0000",
-        "published_at_utc": "2026-03-22T19:45:07+00:00",
-        "id": "https://techcrunch.com/?p=3104729",
+        "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+        "link": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+        "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
+        "published": "Sat, 21 Mar 2026 16:28:00 +0000",
+        "updated": "Sat, 21 Mar 2026 16:28:00 +0000",
+        "published_at_utc": "2026-03-21T16:28:00+00:00",
+        "id": "https://techcrunch.com/?p=3104563",
         "topic_type": "chips",
-        "relevance_score": 16,
+        "relevance_score": 8,
         "briefing": {
-          "news_focus": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
-          "news_focus_zh": "Nvidia CEO Jensen Huang 在 GTC 大會上的主題演講引發了對公司未來的討論，特別是其在機器人技術和人工智慧領域的潛力。",
-          "background": "Nvidia 作為全球領先的圖形處理單元（GPU）製造商，近年來積極擴展其在人工智慧和機器學習領域的影響力。GTC 大會是該公司展示新技術和未來願景的重要平台。隨著市場對 AI 應用需求的增加，Nvidia 的策略調整可能會影響整個科技產業的發展方向。",
+          "news_focus": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility.",
+          "news_focus_zh": "儘管投資者對人工智慧泡沫的擔憂，Nvidia最近的會議顯示業界大多數人並不擔心這一可能性，Wall Street卻未被說服。",
+          "background": "Nvidia作為人工智慧領域的領導者，近期舉辦的會議展示了其在AI技術上的最新進展。儘管市場對AI技術的潛力持樂觀態度，但投資者仍對可能出現的泡沫表示擔憂。過去幾年，AI產業的快速增長引發了對其可持續性的質疑，特別是在經濟不確定性加劇的背景下。",
           "stakeholders": [
             "Nvidia",
             "投資者",
-            "開發者",
-            "競爭對手",
-            "企業客戶"
+            "市場分析師",
+            "科技產業",
+            "經濟學家"
           ],
-          "analysis": "Nvidia 的未來發展將受到多方利益的影響。首先，投資者期望公司能在 AI 和機器人技術上持續創新，以維持其市場領導地位。其次，競爭對手如 AMD 和 Intel 也在加碼 AI 領域，可能會對 Nvidia 造成壓力。此外，開發者和企業客戶對於新技術的需求將影響 Nvidia 的產品策略。若能成功推出創新產品，將進一步鞏固其市場地位。"
+          "analysis": "Nvidia的會議雖然展示了其技術的前景，但Wall Street的冷淡反應反映出投資者對市場過熱的擔憂。對於Nvidia而言，這可能意味著需要加強與投資者的溝通，增強信心。另一方面，市場分析師可能會持續關注AI技術的實際應用與收益，這將影響未來的投資決策。若泡沫擔憂持續，可能導致資金流出，影響Nvidia及其他科技公司的股價表現。"
         },
         "topic_priority_score": 10,
         "event_type": "strategic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
+        "supporting_sources": [
+          "The Verge"
+        ],
+        "supporting_titles": [
+          "AI was everywhere at gaming’s big developer conference — except the games"
+        ],
+        "supporting_links": [
+          "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference"
+        ],
+        "source_count": 2
       },
       {
         "category": "technology",
@@ -72,16 +78,16 @@
         "relevance_score": 18,
         "briefing": {
           "news_focus": "The Aisuru, Kimwolf, JackSkid, and Mossad botnets had infected more than 3 million devices in total, many inside home networks, according to the US Justice Department.",
-          "news_focus_zh": "美國司法部宣布成功摧毀Aisuru、Kimwolf、JackSkid和Mossad四個大型機器人網絡，這些網絡共感染超過300萬台設備，許多位於家庭網絡中，標誌著對網絡安全的重大進展。",
-          "background": "隨著數位化進程加速，網絡攻擊事件日益頻繁，特別是針對家庭和小型企業的攻擊。這些機器人網絡通常被用於發動分散式拒絕服務攻擊（DDoS），對網絡基礎設施造成嚴重威脅。美國政府在過去幾年中加強了對網絡犯罪的打擊，並推出多項政策以提升網絡安全防護。",
+          "news_focus_zh": "美國司法部宣布摧毀Aisuru、Kimwolf、JackSkid及Mossad四個大型機器人網絡，這些網絡共感染超過300萬台設備，許多位於家庭網絡中，標誌著對網絡安全的重大打擊。",
+          "background": "隨著物聯網設備的普及，家庭網絡成為網絡攻擊的新目標。這些機器人網絡通常用於發動分散式拒絕服務攻擊（DDoS），對企業和個人造成重大威脅。美國政府在過去幾年中加強了對網絡犯罪的打擊，並與國際夥伴合作，以應對日益嚴重的網絡安全挑戰。",
           "stakeholders": [
             "美國司法部",
             "網絡安全公司",
             "家庭用戶",
-            "網絡犯罪集團",
-            "國際網絡安全機構"
+            "國際網絡犯罪組織",
+            "政府安全機構"
           ],
-          "analysis": "此次行動標誌著美國在打擊網絡犯罪方面的重大進展，特別是在針對家庭網絡的攻擊上。與先前的行動相比，此次摧毀的機器人網絡規模更大，且涉及的設備數量創下新高。這不僅顯示出美國政府在網絡安全上的決心，也可能促使其他國家加強對類似威脅的應對措施。未來，隨著網絡攻擊手法的演變，各國可能需要進一步合作以應對日益複雜的網絡安全挑戰。"
+          "analysis": "此次行動標誌著美國在打擊網絡犯罪方面的重大進展，特別是針對家庭網絡的攻擊。與以往的行動相比，此次摧毀的機器人網絡規模更大且影響範圍更廣，顯示出美國在應對新型網絡威脅方面的能力提升。這也可能促使其他國家加強對類似威脅的防範與應對，進一步改變全球網絡安全格局。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
@@ -93,144 +99,154 @@
       },
       {
         "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
-        "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
-        "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
-        "published": "Sat, 21 Mar 2026 01:40:28 +0000",
-        "updated": "Sat, 21 Mar 2026 01:40:28 +0000",
-        "published_at_utc": "2026-03-21T01:40:28+00:00",
-        "id": "https://techcrunch.com/?p=3104644",
+        "source_name": "MIT Technology Review",
+        "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+        "link": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+        "summary": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned. AI models like Anthropic’s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on…",
+        "published": "Tue, 17 Mar 2026 22:30:46 +0000",
+        "updated": "Tue, 17 Mar 2026 22:30:46 +0000",
+        "published_at_utc": "2026-03-17T22:30:46+00:00",
+        "id": "https://www.technologyreview.com/?p=1134351",
         "topic_type": "ai",
-        "relevance_score": 14,
+        "relevance_score": 12,
         "briefing": {
-          "news_focus": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that were never actually raised during the months of negotiations.",
-          "news_focus_zh": "Anthropic向加州聯邦法院提交的宣誓聲明反駁五角大廈對其的國家安全風險指控，並指出政府的論點基於技術誤解及未曾在談判中提出的主張。",
-          "background": "Anthropic是一家專注於人工智慧的公司，近年來在AI技術的發展上受到關注。美國政府對於AI技術的監管日益嚴格，尤其是在國家安全方面。特朗普政府時期對科技公司與政府的關係持保守態度，近期的政策變化可能影響到AI公司的運作與發展。此事件發生在特朗普宣佈與五角大廈的關係破裂後，顯示出政府與科技公司之間的緊張局勢。",
+          "news_focus": "The Pentagon is discussing plans to set up secure environments for generative AI companies to train military-specific versions of their models on classified data, MIT Technology Review has learned. AI models like Anthropic’s Claude are already used to answer questions in classified settings; applications include analyzing targets in Iran. But allowing models to train on…",
+          "news_focus_zh": "美國國防部正在討論為生成式人工智慧公司設立安全環境，以便這些公司能在機密數據上訓練軍事專用版本的模型，這可能會改變軍事情報分析的方式。",
+          "background": "隨著人工智慧技術的迅速發展，軍事應用成為各國競爭的焦點。美國國防部已經開始探索如何利用AI來提升情報分析能力，特別是在面對如伊朗等國的軍事威脅時。此舉不僅涉及技術創新，還涉及國家安全與數據保護的複雜性，因為機密數據的使用需遵循嚴格的法律與倫理標準。",
           "stakeholders": [
-            "Anthropic",
-            "五角大廈",
-            "美國政府",
-            "AI技術開發者",
-            "國家安全專家"
+            "美國國防部",
+            "生成式AI公司",
+            "國際軍事對手",
+            "數據安全專家",
+            "公眾與監管機構"
           ],
-          "analysis": "Anthropic與五角大廈的對峙反映出政府對AI技術的擔憂與企業對於自身技術的辯護。五角大廈認為Anthropic的技術可能對國家安全構成威脅，而Anthropic則主張這些指控缺乏實質依據，並強調其在談判中的透明度。此事件可能導致政府在AI監管政策上進一步收緊，或促使企業在技術開發上更加謹慎，未來雙方的關係將取決於如何解決這些誤解。"
+          "analysis": "國防部的計劃可能會引發不同利益方的關注與擔憂。對於AI公司而言，這是擴大商業機會的良機，但同時也需面對數據安全與倫理的挑戰。國防部希望透過這些技術提升軍事效率，但也需考慮到可能的監管與公眾反對聲音。此外，這一策略可能會引發其他國家的技術競爭，進一步加劇全球軍備競賽。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
         "supporting_sources": [
-          "MIT Technology Review",
-          "The Verge",
+          "TechCrunch",
           "Wired",
+          "The Guardian Technology",
+          "Rest of World",
           "Ars Technica"
         ],
         "supporting_titles": [
-          "The Pentagon is planning for AI companies to train on classified data, defense official says",
-          "The AirPods Pro 3 are $50 off right now, nearly matching their best-ever price",
-          "‘A Rigged and Dangerous Product’: The Wildest Week for Prediction Markets Yet",
-          "Monte Verde site gets a new date, but the big picture doesn't change"
+          "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+          "China Approves the First Brain Chips for Sale—and Has a Plan to Dominate the Industry",
+          "The best pressure washers in the UK for cleaning garden furniture and patios – tested",
+          "The Gulf built oil pipelines to avoid Hormuz. It’s now doing the same for data",
+          "Jeff Bezos just announced plans for a third megaconstellation—this one for data centers"
         ],
         "supporting_links": [
-          "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
-          "https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal",
-          "https://www.wired.com/story/why-this-was-the-wildest-week-for-prediction-markets-yet/",
-          "https://arstechnica.com/science/2026/03/an-early-indigenous-site-may-not-be-early-but-it-doesnt-really-matter/"
+          "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+          "https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/",
+          "https://www.theguardian.com/thefilter/2025/apr/18/best-pressure-washers-cleaners-uk",
+          "https://restofworld.org/2026/gulf-overland-data-cables-europe-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "https://arstechnica.com/space/2026/03/jeff-bezos-throws-his-hat-in-the-ring-for-an-orbital-data-center-megaconstellation-too/"
         ],
-        "source_count": 5
+        "source_count": 6
       }
     ],
     "politics": [
       {
         "category": "politics",
         "source_name": "SCMP World",
-        "title": "Israel says investigating whether own soldiers shot civilian on Lebanon border",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3347503/hezbollah-claims-rocket-killed-one-israeli-army-demolishes-houses?utm_source=rss_feed",
-        "summary": "Israel’s military said it was investigating whether its own fire killed an Israeli civilian near the Lebanese border on Sunday, after Hezbollah claimed an attack in the same area. Israeli emergency workers said earlier on Sunday that a man was killed in a “direct hit” on his car by a rocket from Lebanon. Lebanon’s Iran-backed Hezbollah militant group said after the incident that its fighters had attacked Israeli soldiers in the same area. But the Israeli army later said it was “conducting a...",
-        "published": "Sun, 22 Mar 2026 14:54:27 +0000",
-        "updated": "Sun, 22 Mar 2026 14:54:27 +0000",
-        "published_at_utc": "2026-03-22T14:54:27+00:00",
-        "id": "https://www.scmp.com/news/world/middle-east/article/3347503/hezbollah-claims-rocket-killed-one-israeli-army-demolishes-houses?utm_source=rss_feed",
+        "title": "Iran war delivers new inflation stress to African economies emerging from older shocks",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3347572/iran-war-delivers-new-inflation-stress-african-economies-emerging-older-shocks?utm_source=rss_feed",
+        "summary": "The ripples of the war against Iran by the US and Israel are exerting inflationary pressures across Africa through higher energy and fertiliser prices, threatening an already fragile economic recovery. Most of Africa’s 54 countries depend on fuel imports and have experienced sharp increases in fuel prices, driven by disruptions to Middle East exports and the surge in global prices. Most are just getting over the price shocks caused by Russia’s war with Ukraine, which started in 2022 and has hurt...",
+        "published": "Mon, 23 Mar 2026 08:13:26 +0000",
+        "updated": "Mon, 23 Mar 2026 08:13:26 +0000",
+        "published_at_utc": "2026-03-23T08:13:26+00:00",
+        "id": "https://www.scmp.com/news/china/diplomacy/article/3347572/iran-war-delivers-new-inflation-stress-african-economies-emerging-older-shocks?utm_source=rss_feed",
         "topic_type": "war_and_conflict",
-        "relevance_score": 23,
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "Israel’s military said it was investigating whether its own fire killed an Israeli civilian near the Lebanese border on Sunday, after Hezbollah claimed an attack in the same area. Israeli emergency workers said earlier on Sunday that a man was killed in a “direct hit” on his car by a rocket from Lebanon. Lebanon’s Iran-backed Hezbollah militant group said after the incident that its fighters had attacked Israeli soldiers in the same area. But the Israeli army later said it was “conducting a...",
-          "news_focus_zh": "以色列軍方正在調查是否因自家士兵的火力導致一名以色列平民在黎巴嫩邊境遇害，該事件發生在真主黨宣稱在同一地區攻擊以軍後不久。",
-          "background": "以色列與黎巴嫩的緊張關係由於真主黨的存在而持續升溫，該組織受到伊朗的支持，並經常與以色列軍隊發生衝突。近期，邊境地區的衝突頻繁，雙方都在加強軍事部署。這一事件的發生，正值以色列與黎巴嫩之間的緊張局勢加劇，並引發國際社會的關注。",
+          "news_focus": "The ripples of the war against Iran by the US and Israel are exerting inflationary pressures across Africa through higher energy and fertiliser prices, threatening an already fragile economic recovery. Most of Africa’s 54 countries depend on fuel imports and have experienced sharp increases in fuel prices, driven by disruptions to Middle East exports and the surge in global prices. Most are just getting over the price shocks caused by Russia’s war with Ukraine, which started in 2022 and has hurt...",
+          "news_focus_zh": "美國與以色列對伊朗的戰爭引發非洲各國面臨新的通脹壓力，能源與肥料價格上漲威脅到脆弱的經濟復甦，尤其是在剛從俄烏戰爭的價格衝擊中恢復之際。",
+          "background": "非洲54個國家大多依賴燃料進口，近期因中東出口中斷及全球價格上漲，燃料價格急劇上升，對經濟復甦造成重大挑戰。自2022年俄烏戰爭以來，非洲國家已經面臨高通脹的困擾，這次新的衝突進一步加劇了其經濟脆弱性，影響了各國的能源安全與糧食供應。",
           "stakeholders": [
-            "以色列政府",
-            "黎巴嫩真主黨",
-            "以色列軍方",
-            "國際社會",
-            "黎巴嫩政府"
+            "非洲各國政府",
+            "能源進口商",
+            "農業生產者",
+            "國際金融機構",
+            "中東出口國"
           ],
-          "analysis": "此次事件的調查顯示以色列軍方對於自我行動的透明度與責任感，這在過去的衝突中並不常見。若調查結果確認是以色列士兵誤擊，將可能引發國內外對以色列軍事行動的質疑，並加劇與黎巴嫩的緊張局勢。另一方面，真主黨的聲明可能會被視為挑釁，進一步激化雙方的敵對情緒，未來可能導致更大規模的軍事衝突。"
+          "analysis": "這場戰爭使非洲國家面臨更高的能源與肥料成本，影響農業生產與民生，可能導致社會不穩定。各國政府需在控制通脹與維持經濟增長之間尋求平衡。對於依賴進口的國家，這將加大財政壓力，可能引發抗議或政治動盪。另一方面，能源出口國如尼日利亞或安哥拉可能在短期內受益於價格上漲，但長期來看，整體經濟仍面臨挑戰。"
         },
         "topic_priority_score": 11,
         "event_type": "security_event",
-        "is_major_update": true,
         "supporting_sources": [
+          "The Guardian World",
+          "The Diplomat",
+          "BBC World",
           "Al Jazeera",
           "The Hindu International",
           "Fox News World"
         ],
         "supporting_titles": [
-          "Israel vows to escalate campaign against Hezbollah in Lebanon",
-          "Why is Israel attacking Lebanon? | Explained",
-          "Neither the US nor Israel will 'succeed in replacing the Iranian regime,' retired US general says"
+          "Iran war energy crisis equal to 70s twin oil shocks and fallout from Ukraine war, says IEA chief",
+          "Responding to the Israel-US vs Iran War: Indonesia’s Board of Peace Dilemma Intensifies",
+          "Asia stocks slide as US and Iran threaten to escalate war",
+          "China ‘is playing the long game’ in Iran war by staying neutral",
+          "Iran-Israel war LIVE: Iran issues indirect threat at West Asian electrical, water stations, including a UAE nuclear plant",
+          "Iran threatens mass ‘water war’ with strikes on key plants in days, UN official warns"
         ],
         "supporting_links": [
-          "https://www.aljazeera.com/video/newsfeed/2026/3/22/israel-vows-to-escalate-campaign-against-hezbollah-in-lebanon?traffic_source=rss",
-          "https://www.thehindu.com/news/international/explained-why-is-israel-attacking-lebanon/article70770015.ece",
-          "https://www.foxnews.com/world/neither-us-nor-israel-succeed-replacing-iranian-regime-retired-us-general-says"
+          "https://www.theguardian.com/world/2026/mar/23/iran-war-energy-crisis-1970s-oil-shocks-fatih-birol-iea",
+          "https://thediplomat.com/2026/03/responding-to-the-israel-us-vs-iran-war-indonesias-board-of-peace-dilemma-intensifies/",
+          "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+          "https://www.aljazeera.com/video/quotable/2026/3/23/china-is-playing-the-long-game-in-iran-war-by-staying-neutral?traffic_source=rss",
+          "https://www.thehindu.com/news/international/iran-israel-war-usa-strait-of-hormuz-donald-trump-iran-israel-west-asia-live-updates-march-23-2026/article70774180.ece",
+          "https://www.foxnews.com/world/iran-threatens-mass-water-war-un-official-says-desalination-plants-hit-days"
         ],
-        "source_count": 4
+        "source_count": 7
       },
       {
         "category": "politics",
-        "source_name": "SCMP World",
-        "title": "Philippine military uncovers alleged new Beijing spy tactics in South China Sea row",
-        "link": "https://www.scmp.com/week-asia/politics/article/3347461/philippine-military-uncovers-alleged-new-beijing-spy-tactics-south-china-sea-row?utm_source=rss_feed",
-        "summary": "At least three Filipinos with ties to the country’s military have been arrested on suspicion of spying for Beijing, allegedly leaking information that sparked maritime confrontations in the disputed South China Sea. The case, which came to light last year during an ongoing multi-agency counter-intelligence effort, marks a new strategy of recruiting Filipinos for espionage instead of planting individuals with fake local identities in the country, according to Philippine Navy Rear Admiral Roy...",
-        "published": "Sun, 22 Mar 2026 05:15:07 +0000",
-        "updated": "Sun, 22 Mar 2026 05:15:07 +0000",
-        "published_at_utc": "2026-03-22T05:15:07+00:00",
-        "id": "https://www.scmp.com/week-asia/politics/article/3347461/philippine-military-uncovers-alleged-new-beijing-spy-tactics-south-china-sea-row?utm_source=rss_feed",
+        "source_name": "The Diplomat",
+        "title": "Deterring China: The Growing Japan–Philippines Security Partnership",
+        "link": "https://thediplomat.com/2026/03/deterring-china-the-growing-japan-philippines-security-partnership/",
+        "summary": "The growing partnership between Japan and the Philippines is not an actual alliance – but it could affect the balance of power in the South China Sea.",
+        "published": "Fri, 13 Mar 2026 02:35:00 +0900",
+        "updated": "Fri, 13 Mar 2026 02:35:00 +0900",
+        "published_at_utc": "2026-03-12T17:35:00+00:00",
+        "id": "https://thediplomat.com/2026/03/deterring-china-the-growing-japan-philippines-security-partnership/",
         "topic_type": "us_china_relations",
-        "relevance_score": 17,
+        "relevance_score": 11,
         "briefing": {
-          "news_focus": "At least three Filipinos with ties to the country’s military have been arrested on suspicion of spying for Beijing, allegedly leaking information that sparked maritime confrontations in the disputed South China Sea. The case, which came to light last year during an ongoing multi-agency counter-intelligence effort, marks a new strategy of recruiting Filipinos for espionage instead of planting individuals with fake local identities in the country, according to Philippine Navy Rear Admiral Roy...",
-          "news_focus_zh": "菲律賓軍方逮捕至少三名與軍方有關的菲律賓人，涉嫌為北京從事間諜活動，洩露導致南海爭端的情報。此案件揭示了北京新的間諜招募策略，改為招募本地人而非假冒身份者。",
-          "background": "南中國海的領土爭端涉及多國，包括中國、菲律賓、越南等，長期以來引發緊張局勢。菲律賓政府在面對中國的擴張行為時，積極加強國防與情報工作。此次事件的曝光，正值菲律賓多機構反間諜行動的背景下，顯示出對外部威脅的高度警覺。",
+          "news_focus": "The growing partnership between Japan and the Philippines is not an actual alliance – but it could affect the balance of power in the South China Sea.",
+          "news_focus_zh": "日本與菲律賓之間日益增強的安全夥伴關係雖然不是正式的聯盟，但可能會影響南海的權力平衡。",
+          "background": "日本與菲律賓的安全合作逐漸加深，主要是因應中國在南海的擴張行為。兩國在歷史上有著複雜的關係，但隨著地緣政治的變化，特別是中國的軍事活動加劇，雙方開始尋求更緊密的合作以維護區域安全。日本作為美國的主要盟友，對於維持南海的航行自由和地區穩定具有重要的戰略意義，而菲律賓則希望透過這種合作來增強自身的防衛能力。",
           "stakeholders": [
+            "日本政府",
             "菲律賓政府",
             "中國政府",
-            "菲律賓軍方",
-            "國際社會",
-            "南海周邊國家"
+            "美國政府",
+            "東南亞國家聯盟"
           ],
-          "analysis": "此次事件標誌著中國在南海的間諜策略出現新變化，從以往的假身份者轉向直接招募當地人，這可能使得情報收集更為有效。對於菲律賓而言，這不僅是國家安全的警示，也可能引發民眾對於外國勢力滲透的擔憂，進一步影響對中國的外交政策。此事件可能促使菲律賓加強國內反間諜措施，並尋求更多國際支持以對抗外來威脅。"
+          "analysis": "日本與菲律賓的安全夥伴關係可能會引發中國的警覺，並促使其加強在南海的軍事部署。對於日本來說，這樣的合作不僅能提升其在東南亞的影響力，還能在一定程度上平衡中國的擴張。菲律賓則希望透過此夥伴關係獲得更多的安全保障，尤其是在面對中國的領土主張時。然而，這種非正式的合作關係也可能引發其他地區國家的擔憂，進一步複雜化南海的安全局勢。"
         },
         "topic_priority_score": 10,
         "event_type": "security_event",
-        "is_major_update": true,
         "supporting_sources": [
-          "Taipei Times",
-          "The Diplomat"
+          "Al Jazeera",
+          "SCMP World"
         ],
         "supporting_titles": [
-          "China could use new law against Taiwanese: MAC",
-          "Taiwan’s New Southbound 2.0: Rewiring the Indo-Pacific Beyond China"
+          "China ‘is playing the long game’ in Iran war by staying neutral",
+          "China developing first tourist submersible for trips 1,000 metres under the sea"
         ],
         "supporting_links": [
-          "https://www.taipeitimes.com/News/taiwan/archives/2026/03/23/2003854314",
-          "https://thediplomat.com/2026/03/taiwans-new-southbound-2-0-rewiring-the-indo-pacific-beyond-china/"
+          "https://www.aljazeera.com/video/quotable/2026/3/23/china-is-playing-the-long-game-in-iran-war-by-staying-neutral?traffic_source=rss",
+          "https://www.scmp.com/economy/china-economy/article/3346863/china-developing-first-tourist-submersible-trips-1000-metres-under-sea?utm_source=rss_feed"
         ],
         "source_count": 3
       },
       {
         "category": "politics",
         "source_name": "SCMP World",
-        "title": "US may ‘escalate to de-escalate’ attacks against Iran, says Scott Bessent",
+        "title": "US may need to ‘escalate to de-escalate’ Iran war, Bessent says",
         "link": "https://www.scmp.com/news/world/middle-east/article/3347506/us-may-escalate-de-escalate-attacks-against-iran-says-scott-bessent?utm_source=rss_feed",
         "summary": "The United States may need to “escalate” its attacks against Iran to be able to wind down the war, US Treasury Secretary Scott Bessent said on Sunday, after US President Donald Trump gave seemingly contradictory trajectories for the US military campaign. Trump on Saturday threatened to “obliterate” Iranian energy plants if Tehran did not fully open the pivotal Strait of Hormuz, just a day after saying US objectives were “very close” and that he was considering “winding down” the war. Asked on...",
         "published": "Sun, 22 Mar 2026 16:42:39 +0000",
@@ -238,33 +254,45 @@
         "published_at_utc": "2026-03-22T16:42:39+00:00",
         "id": "https://www.scmp.com/news/world/middle-east/article/3347506/us-may-escalate-de-escalate-attacks-against-iran-says-scott-bessent?utm_source=rss_feed",
         "topic_type": "uk_politics",
-        "relevance_score": 23,
+        "relevance_score": 19,
         "briefing": {
           "news_focus": "The United States may need to “escalate” its attacks against Iran to be able to wind down the war, US Treasury Secretary Scott Bessent said on Sunday, after US President Donald Trump gave seemingly contradictory trajectories for the US military campaign. Trump on Saturday threatened to “obliterate” Iranian energy plants if Tehran did not fully open the pivotal Strait of Hormuz, just a day after saying US objectives were “very close” and that he was considering “winding down” the war. Asked on...",
-          "news_focus_zh": "美國財政部長斯科特·貝森特表示，美國可能需要加大對伊朗的攻擊，以便最終能夠結束戰爭。這一言論出現在特朗普總統對美軍行動的矛盾表述之後，特朗普威脅如果伊朗不完全開放霍爾木茲海峽，將摧毀其能源設施。",
-          "background": "美國與伊朗之間的緊張關係持續升級，特別是在特朗普政府對伊朗的制裁政策以及對其核計劃的強硬立場下。霍爾木茲海峽是全球重要的石油運輸通道，控制該地區的安全對於美國及其盟友至關重要。近期的軍事行動和言辭威脅顯示出美國在應對伊朗挑釁時的策略不斷調整，反映出其在中東地區的政策脈絡。",
+          "news_focus_zh": "美國財政部長斯科特·貝森特表示，美國可能需要加大對伊朗的攻擊力度，以便最終結束戰爭。此言論出現在特朗普總統對美軍行動的矛盾表述之後，特朗普威脅若伊朗不開放霍爾木茲海峽，將摧毀其能源設施。",
+          "background": "美國與伊朗的緊張關係已持續多年，尤其是在特朗普政府期間，對伊朗的制裁與軍事行動頻繁。霍爾木茲海峽是全球重要的石油運輸通道，控制該地區對於美國及其盟友至關重要。近期的軍事行動與言論反映出美國在面對伊朗時的策略不斷調整，尤其是在國內外壓力的影響下。",
           "stakeholders": [
             "美國政府",
             "伊朗政府",
-            "中東地區盟友",
-            "國際能源市場",
-            "全球安全組織"
+            "沙烏地阿拉伯",
+            "以色列",
+            "國際能源市場"
           ],
-          "analysis": "此次發言顯示出美國在對伊朗政策上的矛盾與不確定性，尤其是在特朗普的強硬威脅與其希望結束戰爭的意圖之間的張力。這一策略的升級可能會引發伊朗的強烈反應，進一步加劇地區緊張局勢。對於美國軍方而言，這意味著可能需要更多的資源與軍事行動來達成其目標，而對於伊朗來說，則可能促使其加強防禦措施或尋求外部支持以應對美國的壓力。"
+          "analysis": "此次貝森特的言論顯示出美國在對伊朗政策上的一種新思路，即透過加大軍事壓力來達成最終的和平解決。這與特朗普的矛盾表述形成鮮明對比，可能導致國內外對美國政策的不確定性加劇。對於伊朗而言，這意味著面臨更大的軍事威脅，而對於美國的盟友，如沙烏地阿拉伯和以色列，則可能感到更有安全保障，但也可能引發更大的地區衝突風險。"
         },
         "topic_priority_score": 9,
         "event_type": "election_move",
         "is_major_update": true,
         "supporting_sources": [
-          "The Hindu International"
+          "BBC World",
+          "Al Jazeera",
+          "The Hindu International",
+          "Fox News World",
+          "The Diplomat"
         ],
         "supporting_titles": [
-          "Iran-Israel war LIVE: Will completely close Strait of Hormuz if U.S. targets power plants, says Iran"
+          "Asia stocks slide as US and Iran threaten to escalate war",
+          "China ‘is playing the long game’ in Iran war by staying neutral",
+          "Iran-Israel war LIVE: Iran issues indirect threat at West Asian electrical, water stations, including a UAE nuclear plant",
+          "Iran threatens mass ‘water war’ with strikes on key plants in days, UN official warns",
+          "Why India Is Right to Support the US and Israel in the Iran War"
         ],
         "supporting_links": [
-          "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-hezbollah-oil-supply-march-22-2026/article70771375.ece"
+          "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+          "https://www.aljazeera.com/video/quotable/2026/3/23/china-is-playing-the-long-game-in-iran-war-by-staying-neutral?traffic_source=rss",
+          "https://www.thehindu.com/news/international/iran-israel-war-usa-strait-of-hormuz-donald-trump-iran-israel-west-asia-live-updates-march-23-2026/article70774180.ece",
+          "https://www.foxnews.com/world/iran-threatens-mass-water-war-un-official-says-desalination-plants-hit-days",
+          "https://thediplomat.com/2026/03/why-india-is-right-to-support-the-us-and-israel-in-the-iran-war/"
         ],
-        "source_count": 2
+        "source_count": 6
       }
     ],
     "economy": [
@@ -279,19 +307,19 @@
         "published_at_utc": "2026-03-22T09:00:27+00:00",
         "id": "https://www.scmp.com/business/commodities/article/3347473/gold-slides-hawkish-fed-and-strong-us-dollar-override-geopolitical-fears?utm_source=rss_feed",
         "topic_type": "interest_rates",
-        "relevance_score": 26,
+        "relevance_score": 23,
         "briefing": {
           "news_focus": "Gold prices have continued to weaken despite escalating tensions in the US-Israel conflict with Iran, breaking from the metal’s traditional role as a geopolitical hedge, as fading expectations of interest rate cuts and a stronger US dollar weigh on sentiment, analysts said. The metal has declined about 15 per cent since a brief surge on March 2, when prices climbed to around US$5,300 per ounce following US and Israeli strikes on Iran. A modest rebound driven by technical buying on Friday did...",
-          "news_focus_zh": "儘管美國與以色列與伊朗之間的緊張局勢加劇，黃金價格仍持續下滑，顯示出其作為地緣政治避險資產的傳統角色受到挑戰。分析指出，聯邦儲備局的鷹派立場及強勁的美元對市場情緒造成壓力。",
-          "background": "黃金通常被視為在地緣政治不穩定時期的避險資產，但近期的市場動態顯示出其傳統角色的變化。隨著美國聯邦儲備局持續採取鷹派政策，市場對降息的預期逐漸減弱，加上美元走強，這些因素共同影響了黃金的需求。自3月2日以來，黃金價格已下跌約15%，顯示出市場對地緣政治風險的反應不如預期。",
+          "news_focus_zh": "儘管美國與以色列與伊朗之間的緊張局勢升級，金價仍持續下滑，顯示出傳統上作為地緣政治避險工具的金屬角色正在減弱。分析指出，市場對於利率減少的期待減退及美元強勢影響了投資者情緒。",
+          "background": "金價通常在地緣政治緊張時期上升，作為避險資產。然而，近期美國聯邦儲備系統（Fed）持續採取鷹派政策，並且美元走強，使得金價反而下滑。自3月2日金價短暫上漲至每盎司5300美元以來，金價已下跌約15%。這一變化反映出市場對於利率政策的重新評估及美元強勢的影響。",
           "stakeholders": [
-            "美國聯邦儲備局",
-            "黃金投資者",
+            "美國聯邦儲備系統",
+            "金礦公司",
+            "投資者",
             "美元持有者",
-            "地緣政治分析師",
-            "商品交易商"
+            "地緣政治分析師"
           ],
-          "analysis": "此次黃金價格的下滑顯示出市場對地緣政治風險的敏感度下降，與以往在衝突加劇時黃金價格上漲的趨勢相悖。美國聯邦儲備局的鷹派立場使得投資者更傾向於持有美元資產，進一步壓制了黃金的吸引力。這一變化可能導致投資者重新評估其資產配置，特別是在面對不確定的地緣政治環境時。未來，若美國經濟數據持續強勁，黃金價格可能面臨進一步下行壓力。"
+          "analysis": "此次金價下滑的主要變化在於，市場對於地緣政治風險的反應不再如以往強烈，顯示出投資者對於利率政策的關注度上升。這對於金礦公司及相關投資者可能造成負面影響，因為金價下跌直接影響其盈利能力。同時，強勢美元也可能使其他貨幣持有者對金的需求減少，進一步壓低金價。未來，若Fed持續保持鷹派立場，金價可能會面臨更大壓力。"
         },
         "topic_priority_score": 10,
         "event_type": "rate_decision",
@@ -304,6 +332,47 @@
       {
         "category": "economy",
         "source_name": "The Guardian Business",
+        "title": "HS2 firm says new steel tariffs will ‘exacerbate’ cost pressures for UK construction industry",
+        "link": "https://www.theguardian.com/business/2026/mar/22/hs2-firm-says-new-steel-tariffs-will-exacerbate-cost-pressures-for-uk-construction-industry",
+        "summary": "Doubling tariffs on imported steel will raise cost of the metal when Iran war is already inflating steel and concrete prices One of HS2’s biggest contractors has warned the government that raising tariffs on foreign steel imports will “exacerbate” cost pressures for the UK construction industry, amid growing concern over the £100bn railway’s rising budget. Ministers said last week they would double the tariffs on imported steel and slash the amount that can be bought from overseas, in an attempt to save Britain’s struggling steelmakers. Continue reading...",
+        "published": "Mon, 23 Mar 2026 05:00:42 GMT",
+        "updated": "2026-03-23T05:00:42Z",
+        "published_at_utc": "2026-03-23T05:00:42+00:00",
+        "id": "https://www.theguardian.com/business/2026/mar/22/hs2-firm-says-new-steel-tariffs-will-exacerbate-cost-pressures-for-uk-construction-industry",
+        "topic_type": "trade_wars",
+        "relevance_score": 22,
+        "briefing": {
+          "news_focus": "Doubling tariffs on imported steel will raise cost of the metal when Iran war is already inflating steel and concrete prices One of HS2’s biggest contractors has warned the government that raising tariffs on foreign steel imports will “exacerbate” cost pressures for the UK construction industry, amid growing concern over the £100bn railway’s rising budget. Ministers said last week they would double the tariffs on imported steel and slash the amount that can be bought from overseas, in an attempt to save Britain’s struggling steelmakers. Continue reading...",
+          "news_focus_zh": "英國政府決定將進口鋼材的關稅加倍，這一舉措引發HS2項目主要承包商的警告，稱此舉將加劇英國建築業的成本壓力，尤其是在伊朗戰爭已推高鋼材和混凝土價格的背景下。",
+          "background": "英國政府的這一政策旨在保護本國鋼鐵產業，面對全球鋼材價格上漲及供應鏈問題，特別是在地緣政治緊張的情況下。HS2作為一個耗資巨大的基礎建設項目，其預算已經面臨上升壓力，這使得政府的政策選擇更加複雜。進口關稅的提高可能會導致建築成本進一步上升，影響整體經濟發展。",
+          "stakeholders": [
+            "英國政府",
+            "HS2承包商",
+            "本國鋼鐵生產商",
+            "建築業者",
+            "消費者"
+          ],
+          "analysis": "政府的關稅政策旨在支持本國鋼鐵生產商，但卻可能對建築業造成負面影響。承包商擔心成本上升將導致HS2項目預算進一步膨脹，可能影響到項目的可行性與進度。另一方面，鋼鐵生產商可能會受益於保護措施，但若建築業受到影響，長期來看也可能導致需求下降，形成供需不平衡。各方利益的角力將影響未來政策的走向。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "macro_signal",
+        "supporting_sources": [
+          "The Economist",
+          "Nikkei Asia"
+        ],
+        "supporting_titles": [
+          "Who will win from Trump’s tariffs?",
+          "New Japanese satellite effort to use light for faster communication"
+        ],
+        "supporting_links": [
+          "https://www.economist.com/finance-and-economics/2025/08/14/who-will-win-from-trumps-tariffs",
+          "https://asia.nikkei.com/business/telecommunication/new-japanese-satellite-effort-to-use-light-for-faster-communication"
+        ],
+        "source_count": 3
+      },
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
         "title": "‘The new ketchup’? How hummus spread beyond a niche into a British staple",
         "link": "https://www.theguardian.com/business/2026/mar/22/new-ketchup-hummus-uk-inflation-basket",
         "summary": "News that chickpea dip is to join list of products used for UK inflation basket confirms its move into the mainstream The best (and worst) supermarket hummus tasted and rated It is a sign of the times. This week it was revealed that hummus is joining the list of foods used to measure the cost of living in Britain as the ubiquity of the dip at mealtimes sees it billed as the “new ketchup”. The decision to drop a pot of hummus in the inflation basket is a moment for the all-conquering chickpea dip, which arrived on supermarket shelves in the late 1980s. Since then Britons have gone from spending virtually nothing to £170m a year on the versatile stuff. Continue reading...",
@@ -312,19 +381,19 @@
         "published_at_utc": "2026-03-22T13:00:22+00:00",
         "id": "https://www.theguardian.com/business/2026/mar/22/new-ketchup-hummus-uk-inflation-basket",
         "topic_type": "inflation",
-        "relevance_score": 24,
+        "relevance_score": 21,
         "briefing": {
           "news_focus": "News that chickpea dip is to join list of products used for UK inflation basket confirms its move into the mainstream The best (and worst) supermarket hummus tasted and rated It is a sign of the times. This week it was revealed that hummus is joining the list of foods used to measure the cost of living in Britain as the ubiquity of the dip at mealtimes sees it billed as the “new ketchup”. The decision to drop a pot of hummus in the inflation basket is a moment for the all-conquering chickpea dip, which arrived on supermarket shelves in the late 1980s. Since then Britons have gone from spending virtually nothing to £170m a year on the versatile stuff. Continue reading...",
-          "news_focus_zh": "英國的鷹嘴豆泥（hummus）被納入通脹指數的食品清單，顯示其已從小眾產品轉變為主流食品，並被稱為‘新番茄醬’。這一變化反映了消費者飲食習慣的演變。",
-          "background": "鷹嘴豆泥自1980年代末進入英國超市以來，逐漸受到消費者的青睞。隨著健康飲食趨勢的興起，鷹嘴豆泥的市場需求顯著增加，英國每年在這一產品上的消費已達1.7億英鎊。此次納入通脹指數，標誌著其在英國飲食文化中的重要性日益上升。",
+          "news_focus_zh": "英國的鷹嘴豆泥（hummus）被納入通脹計算籃，標誌著其從小眾食品轉變為主流飲食的里程碑，顯示出其在英國餐桌上的普及程度。",
+          "background": "鷹嘴豆泥自1980年代末進入英國超市以來，逐漸成為受歡迎的食品，消費額從幾乎為零增至每年1.7億英鎊。這一變化反映了消費者飲食習慣的演變，尤其是對健康飲食的重視。隨著素食和植物基飲食的興起，鷹嘴豆泥的需求顯著增加，並成為許多家庭的常見選擇。",
           "stakeholders": [
             "消費者",
             "食品生產商",
             "零售商",
-            "政府經濟政策制定者",
+            "政策制定者",
             "健康飲食倡導者"
           ],
-          "analysis": "此次鷹嘴豆泥被納入通脹指數，顯示其已成為英國飲食的主流選擇，反映出消費者對健康與多樣化飲食的需求。這一變化可能促使生產商進一步擴大產品線，並提升市場競爭力。同時，這也可能影響其他類似產品的市場定位，促進健康食品的消費趨勢。對於消費者而言，這意味著在通脹計算中，健康選擇將獲得更多關注。"
+          "analysis": "此次將鷹嘴豆泥納入通脹計算籃，標誌著其在英國飲食文化中的地位提升，顯示出消費者對健康和多樣化飲食的需求。這一變化不僅影響食品生產商和零售商的市場策略，也可能促使其他類似產品的市場擴張。對於消費者而言，這意味著他們的飲食選擇將更加多元化，而對於政策制定者，則需重新評估食品價格對生活成本的影響。"
         },
         "topic_priority_score": 9,
         "event_type": "inflation_data",
@@ -336,75 +405,23 @@
           "BBC Business"
         ],
         "supporting_titles": [
-          "How China opened the door to creating a direct rival to US payment systems",
+          "What is ‘tokenomics’ and how would China gain the edge in artificial intelligence era?",
           "South Korea has a huge gender pay gap. Seoul wants to bring it into the open",
           "The green transition has a surprising new home",
           "How the Iran war may affect your money and bills"
         ],
         "supporting_links": [
-          "https://www.scmp.com/economy/china-economy/article/3347053/how-china-opened-door-creating-direct-rival-us-payment-systems?utm_source=rss_feed",
+          "https://www.scmp.com/tech/big-tech/article/3347495/how-china-could-dominate-ai-eras-tokenomics-vast-power-grids-and-low-cost-models?utm_source=rss_feed",
           "https://asia.nikkei.com/spotlight/gender/south-korea-has-a-huge-gender-pay-gap.-seoul-wants-to-bring-it-into-the-open",
           "https://www.economist.com/finance-and-economics/2025/08/21/the-green-transition-has-a-surprising-new-home",
           "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss"
         ],
         "source_count": 5
-      },
-      {
-        "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "HSBC vows to keep investing in China amid global tensions as new trade corridors emerge",
-        "link": "https://www.scmp.com/business/banking-finance/article/3347465/hsbc-vows-keep-investing-china-amid-global-tensions-new-trade-corridors-emerge?utm_source=rss_feed",
-        "summary": "HSBC CEO Georges Elhedery has vowed to continue investing in China amid escalating trade tensions after witnessing new trade opportunities from Chinese companies going global. While attending the two-day China Development Forum (CDF) 2026 in Beijing on Sunday, Elhedery characterised China’s current trajectory as a “new phase of development” that would define the next era of global economic growth. Although 2025 saw steady growth in global trade, the landscape was complicated by shifting tariffs,...",
-        "published": "Sun, 22 Mar 2026 06:27:09 +0000",
-        "updated": "Sun, 22 Mar 2026 06:27:09 +0000",
-        "published_at_utc": "2026-03-22T06:27:09+00:00",
-        "id": "https://www.scmp.com/business/banking-finance/article/3347465/hsbc-vows-keep-investing-china-amid-global-tensions-new-trade-corridors-emerge?utm_source=rss_feed",
-        "topic_type": "trade_wars",
-        "relevance_score": 22,
-        "briefing": {
-          "news_focus": "HSBC CEO Georges Elhedery has vowed to continue investing in China amid escalating trade tensions after witnessing new trade opportunities from Chinese companies going global. While attending the two-day China Development Forum (CDF) 2026 in Beijing on Sunday, Elhedery characterised China’s current trajectory as a “new phase of development” that would define the next era of global economic growth. Although 2025 saw steady growth in global trade, the landscape was complicated by shifting tariffs,...",
-          "news_focus_zh": "匯豐銀行首席執行官Georges Elhedery在北京的中國發展論壇上表示，儘管全球貿易緊張局勢升級，匯豐仍將持續在中國投資，並指出中國企業的全球化為新貿易機會帶來了潛力。",
-          "background": "隨著全球貿易環境的變化，中國的經濟發展進入新階段，吸引外資的潛力持續增強。匯豐銀行作為全球主要金融機構之一，對中國市場的重視反映了其對中國經濟未來的信心。過去幾年，中國在貿易政策和市場開放方面的調整，促使外資企業重新評估其在中國的投資策略。",
-          "stakeholders": [
-            "匯豐銀行",
-            "中國政府",
-            "外資企業",
-            "中資企業",
-            "全球貿易組織"
-          ],
-          "analysis": "此次發言標誌著匯豐在面對全球貿易緊張局勢時，仍堅持其在中國的長期投資計劃，這與其他一些外資企業的觀望態度形成對比。此舉可能會吸引更多外資進入中國市場，進一步促進中資企業的國際化。同時，這也可能引發其他金融機構的競爭，促使它們重新考量在中國的業務策略，尤其是在新貿易走廊的開發上。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "macro_signal",
-        "is_major_update": true,
-        "supporting_sources": [
-          "The Economist",
-          "Nikkei Asia",
-          "BBC Business"
-        ],
-        "supporting_titles": [
-          "Trump’s trade deals try a creative way to hobble China",
-          "Toyota, GM, others press Trump to keep China auto import restrictions",
-          "Russia, China and the US – the global winners and losers of the Iran war"
-        ],
-        "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2025/07/08/trumps-trade-deals-try-a-creative-way-to-hobble-china",
-          "https://asia.nikkei.com/business/automobiles/toyota-gm-others-press-trump-to-keep-china-auto-import-restrictions",
-          "https://www.bbc.com/news/articles/c3wlwnn05zqo?at_medium=RSS&at_campaign=rss"
-        ],
-        "source_count": 4
       }
     ]
   },
   "further_reading": {
     "technology": [
-      {
-        "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
-        "link": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-03-21T16:28:00+00:00",
-        "relevance_score": 8
-      },
       {
         "title": "DOGE goes nuclear: How Trump invited Silicon Valley into America’s nuclear power regulator",
         "link": "https://arstechnica.com/science/2026/03/doge-goes-nuclear-how-trump-invited-silicon-valley-into-americas-nuclear-power-regulator/",
@@ -467,81 +484,109 @@
         "source_name": "The Guardian Technology",
         "published_at_utc": "2026-03-11T07:00:12+00:00",
         "relevance_score": 8
+      },
+      {
+        "title": "Do you want to build a robot snowman?",
+        "link": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-03-22T19:45:07+00:00",
+        "relevance_score": 0
       }
     ],
     "politics": [
       {
-        "title": "Lebanon’s Aoun warns Israeli attack on bridge ‘prelude to ground invasion’",
-        "link": "https://www.aljazeera.com/news/2026/3/22/lebanons-aoun-calls-israel-strikes-on-bridges-prelude-to-ground-invasion?traffic_source=rss",
+        "title": "Rescue teams brave fire in suspected attack on Gaza City residential area",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/23/rescue-teams-brave-fire-in-suspected-attack-on-gaza-city-residential-area?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-03-22T18:48:15+00:00",
-        "relevance_score": 19
+        "published_at_utc": "2026-03-23T07:34:46+00:00",
+        "relevance_score": 17
       },
       {
-        "title": "Russian attacks kill six in Ukraine, officials say",
-        "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
+        "title": "Ukraine and US conclude talks as Zelensky urges sanctions pressure on Russia",
+        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3347513/ukraine-and-us-teams-conclude-talks-zelensky-says-new-prisoner-exchange-possible?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-03-22T21:11:33+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Monday briefing: What a new Guardian podcast reveals about the US justice system",
+        "link": "https://www.theguardian.com/world/2026/mar/23/first-edition-off-duty-guardian-podcast",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-03-23T06:50:42+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Iran war energy crisis equal to 70s twin oil shocks and fallout from Ukraine war, says IEA chief",
+        "link": "https://www.theguardian.com/world/2026/mar/23/iran-war-energy-crisis-1970s-oil-shocks-fatih-birol-iea",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-03-23T05:04:11+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Why is Israel targeting Lebanon's bridges?",
+        "link": "https://www.bbc.com/news/videos/c2087lr223lo?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC World",
-        "published_at_utc": "2026-03-22T19:29:06+00:00",
-        "relevance_score": 17
+        "published_at_utc": "2026-03-22T21:46:30+00:00",
+        "relevance_score": 15
       },
       {
-        "title": "Israel vows to escalate campaign against Hezbollah in Lebanon",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/israel-vows-to-escalate-campaign-against-hezbollah-in-lebanon?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-03-22T19:21:20+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Ukraine’s Zelenskyy urges allies to pressure Russia ahead of US talks",
-        "link": "https://www.aljazeera.com/news/2026/3/22/ukraines-zelenskyy-urges-allies-to-pressure-russia-ahead-of-us-talks?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-03-22T17:42:52+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "The Gaza Tribunal: A question of complicity",
-        "link": "https://www.aljazeera.com/video/people-power/2026/3/22/the-gaza-tribunal-a-question-of-complicity?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-03-22T16:13:27+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Iran claims missile attacks on key Israeli military bases",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/22/iran-claims-missile-attacks-on-key-israeli-military-bases?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-03-22T15:40:46+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Hezbollah attack kills one in north Israel as assault on Lebanon continues",
-        "link": "https://www.aljazeera.com/news/2026/3/22/hezbollah-attack-kills-one-in-north-israel-as-assault-on-lebanon-continues?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-03-22T13:09:57+00:00",
-        "relevance_score": 17
+        "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
+        "link": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-03-22T20:23:07+00:00",
+        "relevance_score": 15
       },
       {
         "title": "Churchill, Shakespeare and the UK flag all under siege in modern Britain, commentators say",
         "link": "https://www.foxnews.com/world/churchill-shakespeare-uk-flag-all-under-siege-modern-britain-commentators-say",
         "source_name": "Fox News World",
         "published_at_utc": "2026-03-22T11:00:11+00:00",
-        "relevance_score": 17
+        "relevance_score": 14
       },
       {
-        "title": "Kenyans fighting illegally for Russia in Ukraine to be granted amnesty",
-        "link": "https://www.bbc.com/news/articles/cj94jmj2p28o?at_medium=RSS&at_campaign=rss",
+        "title": "Russian attacks kill six in Ukraine, officials say",
+        "link": "https://www.bbc.com/news/articles/crl18nwjzzzo?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC World",
-        "published_at_utc": "2026-03-22T19:05:30+00:00",
-        "relevance_score": 15
+        "published_at_utc": "2026-03-22T19:29:06+00:00",
+        "relevance_score": 13
       },
       {
-        "title": "Analysts say Gaza 'civilian' deaths include Hamas, other terror members working as medics, media workers",
-        "link": "https://www.foxnews.com/world/analysts-say-gaza-civilian-deaths-include-hamas-other-terror-members-working-medics-media-workers",
-        "source_name": "Fox News World",
-        "published_at_utc": "2026-03-22T17:18:37+00:00",
-        "relevance_score": 15
+        "title": "About 200 injured in Iranian missile strikes near nuclear facility in Israel",
+        "link": "https://www.theguardian.com/world/2026/mar/21/wounded-iranian-missile-strikes-southern-israel",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-03-22T11:29:13+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "Israeli air strikes on Gaza kill four Palestinians",
+        "link": "https://www.aljazeera.com/news/2026/3/22/israeli-air-strikes-on-gaza-kill-four-palestinians?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-03-22T20:17:33+00:00",
+        "relevance_score": 11
       }
     ],
     "economy": [
+      {
+        "title": "War-induced interest rate shocks unlikely to upset Asia’s property markets",
+        "link": "https://www.scmp.com/opinion/asia-opinion/article/3347540/war-induced-interest-rate-shocks-unlikely-upset-asias-property-markets?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-03-23T08:30:09+00:00",
+        "relevance_score": 22
+      },
+      {
+        "title": "Global markets brace for rate hikes as Iran war and US$100 oil stoke tightening fears",
+        "link": "https://www.scmp.com/business/china-business/article/3347552/global-markets-brace-rate-hikes-iran-war-and-us100-oil-stoke-tightening-fears?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-03-23T06:09:38+00:00",
+        "relevance_score": 22
+      },
+      {
+        "title": "Potential rate cut pause, geopolitical tensions may cloud Hong Kong property recovery",
+        "link": "https://www.scmp.com/business/article/3347469/potential-rate-cut-pause-geopolitical-tensions-may-cloud-hong-kong-property-recovery?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-03-22T23:30:16+00:00",
+        "relevance_score": 20
+      },
       {
         "title": "HKMA says interest rate outlook uncertain as it follows Fed, keeps base rate unchanged",
         "link": "https://www.scmp.com/business/banking-finance/article/3347088/hong-kong-follows-federal-reserve-keep-base-rate-unchanged-amid-middle-east-war?utm_source=rss_feed",
@@ -590,27 +635,6 @@
         "source_name": "The Economist",
         "published_at_utc": "2026-01-30T17:17:34+00:00",
         "relevance_score": 10
-      },
-      {
-        "title": "Is it better to rent or buy?",
-        "link": "https://www.economist.com/finance-and-economics/2026/01/07/is-it-better-to-rent-or-buy",
-        "source_name": "The Economist",
-        "published_at_utc": "2026-01-07T12:42:46+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "America is escaping its office crisis",
-        "link": "https://www.economist.com/finance-and-economics/2025/09/01/america-is-escaping-its-office-crisis",
-        "source_name": "The Economist",
-        "published_at_utc": "2025-09-01T19:20:16+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "How Trump’s war on the Federal Reserve could do serious damage",
-        "link": "https://www.economist.com/finance-and-economics/2025/08/28/how-trumps-war-on-the-federal-reserve-could-do-serious-damage",
-        "source_name": "The Economist",
-        "published_at_utc": "2025-08-28T09:56:45+00:00",
-        "relevance_score": 10
       }
     ]
   },
@@ -620,5 +644,5 @@
     "failed": 0,
     "total": 9
   },
-  "theme_of_day": "今日新聞的整體敘事主軸圍繞著科技進步與國際政治緊張局勢之間的相互影響。在科技版面中，Nvidia的演講和美國對機器人網絡的打擊反映了人工智慧和網絡安全的日益重要性，這與政治版面中美國對伊朗的強硬立場及以色列的調查事件形成鮮明對比，顯示出科技與地緣政治的交織影響。此外，經濟版面提及的黃金價格下滑，亦反映出市場對於美國貨幣政策及國際局勢的敏感反應，進一步強化了科技、政治與經濟之間的連動關係。"
+  "theme_of_day": "今日新聞整體呈現出科技、政治與經濟之間的緊密聯繫。科技版面中，Nvidia的會議與美國國防部對AI的計畫顯示出人工智慧在軍事及商業領域的潛力，然而投資者的謹慎反映出對市場泡沫的擔憂。而政治版面則聚焦於伊朗戰爭對全球經濟的影響，特別是對非洲及英國建築業的通脹壓力，進一步強調地緣政治事件如何影響經濟決策及市場情緒。"
 }
