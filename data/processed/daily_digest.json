@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-03-25T08:38:20.525898+00:00",
+  "generated_at_utc": "2026-03-26T08:42:58.883461+00:00",
   "summary": {
-    "total_raw_items": 1141,
-    "total_deduped_items": 1131,
+    "total_raw_items": 1131,
+    "total_deduped_items": 1122,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
@@ -22,113 +22,131 @@
         "trade_wars"
       ]
     },
-    "multi_source_selected_count": 6
+    "multi_source_selected_count": 7
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
         "source_name": "The Verge",
-        "title": "Apple is testing a standalone app for its overhauled Siri",
-        "link": "https://www.theverge.com/tech/899801/apple-wwdc-2026-new-siri-apple-intelligence-standalone-app",
-        "summary": "Apple's efforts to rebuild its Apple Intelligence AI platform will make its debut at its Worldwide Developers Conference on June 8th. A new version of Siri that transforms the voice assistant into a \"systemwide AI agent with deep integration across applications\" will be announced at WWDC 2026, according to a new report from Bloomberg's Mark […]",
-        "published": "2026-03-24T16:41:24-04:00",
-        "updated": "2026-03-24T16:41:24-04:00",
-        "published_at_utc": "2026-03-24T20:41:24+00:00",
-        "id": "https://www.theverge.com/?p=899801",
+        "title": "Intel and LG Display may have beaten Apple and Qualcomm with the best laptop battery life ever",
+        "link": "https://www.theverge.com/tech/901155/dell-xps-16-best-battery-lg-display-1hz-panther-lake-intel",
+        "summary": "One of the coolest laptops we saw at CES in January was the new Dell XPS 16, with a unique 1-120Hz variable refresh rate display that can sip power when you don't need the screen to stay speedy. Just how little power might it consume? Notebookcheck has tested a version of the laptop with that […]",
+        "published": "2026-03-25T20:33:07-04:00",
+        "updated": "2026-03-25T22:01:07-04:00",
+        "published_at_utc": "2026-03-26T00:33:07+00:00",
+        "id": "https://www.theverge.com/?p=901155",
         "topic_type": "chips",
         "relevance_score": 14,
         "briefing": {
-          "news_focus": "Apple's efforts to rebuild its Apple Intelligence AI platform will make its debut at its Worldwide Developers Conference on June 8th. A new version of Siri that transforms the voice assistant into a \"systemwide AI agent with deep integration across applications\" will be announced at WWDC 2026, according to a new report from Bloomberg's Mark […]",
-          "news_focus_zh": "蘋果公司正在測試一款獨立應用程式，旨在全面改造其Siri語音助手，預計將於2026年全球開發者大會上正式發布，並將其轉型為一個深度整合於各應用程式的系統級AI代理。",
-          "background": "蘋果的Siri自2011年推出以來，一直是其生態系統中的重要組成部分，但面臨來自Google Assistant和Amazon Alexa等競爭對手的壓力。隨著AI技術的迅速發展，蘋果決定重塑Siri，將其轉變為一個更具智能和整合性的系統，這與當前市場對智能助手的需求趨勢相符，特別是在多任務處理和個性化服務方面。",
+          "news_focus": "One of the coolest laptops we saw at CES in January was the new Dell XPS 16, with a unique 1-120Hz variable refresh rate display that can sip power when you don't need the screen to stay speedy. Just how little power might it consume? Notebookcheck has tested a version of the laptop with that […]",
+          "news_focus_zh": "Intel 和 LG Display 可能在筆記型電腦電池壽命方面超越 Apple 和 Qualcomm，特別是新款 Dell XPS 16 採用的變頻顯示技術，顯示出其在能耗管理上的潛力。",
+          "background": "隨著筆記型電腦市場競爭加劇，電池壽命成為消費者選擇的重要因素。Intel 和 LG Display 的合作開發了具變頻刷新率的顯示技術，旨在提高能效，這在 CES 展會上引起了廣泛關注。過去，Apple 和 Qualcomm 在高效能與電池壽命方面一直是市場領導者，這使得新技術的出現可能改變市場格局。",
           "stakeholders": [
+            "Intel",
+            "LG Display",
             "Apple",
-            "開發者",
-            "用戶",
-            "競爭對手",
-            "數據隱私監管機構"
+            "Qualcomm",
+            "Dell"
           ],
-          "analysis": "蘋果的這一舉措可能會對其生態系統內的開發者和用戶產生深遠影響。對於開發者而言，新的Siri提供了更強大的工具來創建應用程式，可能促進更多創新。然而，這也可能引發對數據隱私和安全性的擔憂，特別是在AI深度整合的背景下。用戶則可能期待更流暢的使用體驗，但也需適應新的操作方式。市場競爭將更加激烈，其他科技公司可能會加速其AI助手的升級。"
+          "analysis": "Intel 和 LG Display 的新技術可能會對 Apple 和 Qualcomm 造成壓力，迫使他們加速創新以維持市場競爭力。對於消費者而言，這意味著更長的電池壽命和更高的性能，可能會改變消費者的購買決策。此外，這一技術的成功實施可能促使其他廠商跟進，進一步推動整個行業的技術進步。"
         },
         "topic_priority_score": 10,
         "event_type": "strategic_move",
         "supporting_sources": [
+          "The Guardian Technology",
           "TechCrunch",
+          "Associated Press",
           "Ars Technica",
+          "MIT Technology Review",
+          "Wired",
           "Rest of World"
         ],
         "supporting_titles": [
-          "Crusoe makes big battery buys for its data centers",
-          "Apple confirms that its Maps app will begin showing ads to users \"this summer\"",
-          "The Gulf built oil pipelines to avoid Hormuz. It’s now doing the same for data"
+          "Apple iPad Air M4 review: still the premium tablet to beat",
+          "A little-known Croatian startup is coming for the robotaxi market with help from Uber",
+          "Melania Trump shares the spotlight with a robot at an education and technology event - AP News",
+          "Apple begins age checks in the UK with latest iOS update",
+          "The Download: reawakening frozen brains, and the AI Hype Index returns",
+          "The Best Digital Wall Calendar (2026): Skylight, Apolosign",
+          "The stark divide in the UAE and India war info systems"
         ],
         "supporting_links": [
-          "https://techcrunch.com/2026/03/24/crusoe-makes-big-battery-buys-for-its-data-centers/",
-          "https://arstechnica.com/gadgets/2026/03/apple-confirms-that-its-maps-app-will-begin-showing-ads-to-users-this-summer/",
-          "https://restofworld.org/2026/gulf-overland-data-cables-europe-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+          "https://www.theguardian.com/technology/2026/mar/11/apple-ipad-air-m4-review-still-the-premium-tablet-to-beat",
+          "https://techcrunch.com/2026/03/26/a-little-known-croatian-startup-is-coming-for-the-robotaxi-market-with-help-from-uber/",
+          "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcXpaSW04M1RDRlEtN2dMZGl1X3BteEVWWDBWcC05bG1NUGtJY2JFc3dmOXhJYkllUkFnNzJ5TGJzZU9MZTJmeGdiMVVEdjlFNEJWcXlrd010NU9SUFhJTnFDWk9tQU5fMzQzR0QtT2dQYUx5SEIzcVJsTmVUTUtkMTNCY09LdWNGaHI5VExTRzgwTm1uYXcyaFV0cFd2T21nbW1rV0h3X2F6NWs?oc=5",
+          "https://arstechnica.com/tech-policy/2026/03/apple-begins-age-checks-in-the-uk-with-latest-ios-update/",
+          "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
+          "https://www.wired.com/story/are-digital-wall-calendars-worth-it/",
+          "https://restofworld.org/2026/the-stark-divide-in-the-uae-and-india-war-info-systems/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
         ],
-        "source_count": 4
+        "source_count": 8
       },
       {
         "category": "technology",
-        "source_name": "Wired",
-        "title": "Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says",
-        "link": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
-        "summary": "During a hearing Tuesday, a district court judge questioned the Department of Defense’s motivations for labeling the Claude AI developer a supply-chain risk.",
-        "published": "Tue, 24 Mar 2026 22:13:17 +0000",
-        "updated": "Tue, 24 Mar 2026 22:13:17 +0000",
-        "published_at_utc": "2026-03-24T22:13:17+00:00",
-        "id": "69c3093aa0256027504fdd2c",
+        "source_name": "TechCrunch",
+        "title": "Delve did the security compliance on LiteLLM, an AI project hit by malware",
+        "link": "https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
+        "summary": "LiteLLM offers an AI open source project used by millions that was infected by credential harvesting malware.",
+        "published": "Thu, 26 Mar 2026 00:03:52 +0000",
+        "updated": "Thu, 26 Mar 2026 00:03:52 +0000",
+        "published_at_utc": "2026-03-26T00:03:52+00:00",
+        "id": "https://techcrunch.com/?p=3106318",
         "topic_type": "ai",
-        "relevance_score": 18,
+        "relevance_score": 16,
         "briefing": {
-          "news_focus": "During a hearing Tuesday, a district court judge questioned the Department of Defense’s motivations for labeling the Claude AI developer a supply-chain risk.",
-          "news_focus_zh": "美國國防部將Claude AI開發商Anthropic標示為供應鏈風險，引發地方法院法官質疑其動機，認為此舉可能對該公司造成重大影響。",
-          "background": "隨著人工智慧技術的迅速發展，國防部對於AI供應鏈的安全性越來越重視。Anthropic作為一個新興的AI開發公司，專注於安全和可控的AI技術。將其標示為供應鏈風險，可能反映出政府對於AI技術在國防應用中的潛在威脅的擔憂，並可能影響其商業運作及資金流入。",
+          "news_focus": "LiteLLM offers an AI open source project used by millions that was infected by credential harvesting malware.",
+          "news_focus_zh": "LiteLLM，一個被數百萬人使用的開源AI項目，遭遇了憑證竊取惡意軟體的感染，Delve負責其安全合規性檢查。",
+          "background": "LiteLLM作為一個開源AI項目，吸引了大量開發者與使用者，然而，開源軟體的特性也使其更容易受到安全威脅。隨著AI技術的迅速發展，相關的安全問題愈加突出，尤其是惡意軟體的威脅。Delve作為安全合規性檢查的提供者，其角色在此事件中顯得尤為重要，因為它需要確保LiteLLM的安全性，以維護用戶信任與項目完整性。",
           "stakeholders": [
-            "美國國防部",
-            "Anthropic",
-            "投資者",
-            "科技產業",
-            "法律界"
+            "LiteLLM開發團隊",
+            "Delve",
+            "使用LiteLLM的企業",
+            "開源社群",
+            "網路安全專家"
           ],
-          "analysis": "法官的質疑顯示出對國防部行為的懷疑，可能暗示政府在監管新興科技時的過度干預。對Anthropic來說，這一標示可能導致投資者信心下降，影響其市場競爭力。另一方面，國防部則可能認為此舉是為了保護國家安全，然而，這樣的行為可能引發其他科技公司的擔憂，進一步影響整體產業的發展方向。"
+          "analysis": "此次事件凸顯了開源AI項目在安全性上的脆弱性，對於使用LiteLLM的開發者與企業而言，這可能導致信任危機，並影響其業務運作。Delve的介入可能有助於修復安全漏洞，但也可能引發對其安全檢查能力的質疑。不同利益方的立場可能有所不同，開發者希望快速解決問題以恢復使用，而企業則可能考慮轉向其他更安全的選擇，這可能影響LiteLLM的市場地位。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
+        "supporting_sources": [
+          "The Verge"
+        ],
+        "supporting_titles": [
+          "The surprise hit Nex Playground is the latest console to get a price hike"
+        ],
+        "supporting_links": [
+          "https://www.theverge.com/entertainment/900856/nex-playground-price-hike"
+        ],
+        "source_count": 2
       },
       {
         "category": "technology",
-        "source_name": "Ars Technica",
-        "title": "Self-propagating malware poisons open source software and wipes Iran-based machines",
-        "link": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
-        "summary": "Development houses: It's time to check your networks for infections.",
-        "published": "Tue, 24 Mar 2026 12:38:09 +0000",
-        "updated": "Tue, 24 Mar 2026 12:38:09 +0000",
-        "published_at_utc": "2026-03-24T12:38:09+00:00",
-        "id": "https://arstechnica.com/security/2026/03/self-propagating-malware-poisons-open-source-software-and-wipes-iran-based-machines/",
+        "source_name": "The Guardian Technology",
+        "title": "Resident Evil at 30: how Capcom’s horror opus has survived and thrived",
+        "link": "https://www.theguardian.com/games/2026/mar/20/resident-evil-30-years-history-video-game",
+        "summary": "From owing a debt to obscure Japanese horror Sweet Home to the influence of Aliens and Texas Chain Saw Massacre, the franchise continues to petrify players three decades on To many of us playing and writing about video games in the 1990s, Resident Evil seemed to come out of nowhere. The emerging PlayStation and Saturn consoles were all about slick, bright arcade conversions – the shiny thrills of Daytona and Tekken – and Japanese publisher Capcom was in a rut of coin-op conversions and endless sequels to Street Fighter and Mega Man. Scary games were rare at the time and mostly confined to the PC. So when the news of a horror title named Biohazard (the Japanese name for the series) started to emerge in 1995, it caught the attention of games journalists as it seemed radically out of step with prevailing trends. Games were about power, but as early demos quickly revealed, Resident Evil was about vulnerability. Thirty years later, it’s still here. The series has sold more than 180m copies worldwide, with 11 core titles and dozens of spinoffs and remakes, as well as film, television and anime tie-ins. Its characters and monsters are icons, its tropes now embedded in game design practice. What has allowed it to not only survive but flourish in such a rapidly changing industry? Why do we still let it scare us? Continue reading...",
+        "published": "Fri, 20 Mar 2026 10:00:17 GMT",
+        "updated": "2026-03-20T10:00:17Z",
+        "published_at_utc": "2026-03-20T10:00:17+00:00",
+        "id": "https://www.theguardian.com/games/2026/mar/20/resident-evil-30-years-history-video-game",
         "topic_type": "cybersecurity",
-        "relevance_score": 13,
+        "relevance_score": 12,
         "briefing": {
-          "news_focus": "Development houses: It's time to check your networks for infections.",
-          "news_focus_zh": "一種自我傳播的惡意軟體正在影響開源軟體，並對伊朗的機器造成損害，開發商被提醒檢查其網絡是否受到感染。",
-          "background": "隨著開源軟體的普及，安全性問題日益受到關注。開源軟體的特性使其更容易受到攻擊，因為其代碼對所有人公開，任何人都可以進行修改。近期的惡意軟體事件突顯了這一點，特別是在地緣政治緊張的背景下，伊朗的網絡安全狀況受到威脅，這可能與國際制裁及其在網絡戰爭中的角色有關。",
+          "news_focus": "From owing a debt to obscure Japanese horror Sweet Home to the influence of Aliens and Texas Chain Saw Massacre, the franchise continues to petrify players three decades on To many of us playing and writing about video games in the 1990s, Resident Evil seemed to come out of nowhere. The emerging PlayStation and Saturn consoles were all about slick, bright arcade conversions – the shiny thrills of Daytona and Tekken – and Japanese publisher Capcom was in a rut of coin-op conversions and endless sequels to Street Fighter and Mega Man. Scary games were rare at the time and mostly confined to the PC. So when the news of a horror title named Biohazard (the Japanese name for the series) started to emerge in 1995, it caught the attention of games journalists as it seemed radically out of step with prevailing trends. Games were about power, but as early demos quickly revealed, Resident Evil was about vulnerability. Thirty years later, it’s still here. The series has sold more than 180m copies worldwide, with 11 core titles and dozens of spinoffs and remakes, as well as film, television and anime tie-ins. Its characters and monsters are icons, its tropes now embedded in game design practice. What has allowed it to not only survive but flourish in such a rapidly changing industry? Why do we still let it scare us? Continue reading...",
+          "news_focus_zh": "《生化危機》系列在推出三十年後，依然持續吸引玩家，並成功銷售超過1.8億部。該系列的成功源於其獨特的恐怖元素與角色設計，並在遊戲產業中樹立了新的標準。",
+          "background": "《生化危機》最初於1996年推出，當時遊戲市場以動作與競技類型為主，恐怖遊戲相對稀少。Capcom憑藉此系列開創了生存恐怖類型，並受到了早期日本恐怖作品及西方電影的影響。隨著遊戲技術的進步，該系列不斷推出新作與重製版，並擴展至電影及電視等媒體，形成龐大的品牌生態。",
           "stakeholders": [
-            "開發者",
-            "開源軟體社群",
-            "伊朗政府",
-            "網絡安全公司",
-            "國際社會"
+            "Capcom",
+            "玩家社群",
+            "遊戲開發者",
+            "媒體",
+            "投資者"
           ],
-          "analysis": "這一事件對開發者和使用開源軟體的企業構成了重大風險。開發者需要加強對其網絡的安全檢查，以防止惡意軟體的擴散。對於伊朗的機器來說，這可能導致重要數據的損失，進一步影響其經濟與技術發展。各方可能會對這一事件的責任進行指責，特別是在美國與伊朗之間的緊張關係中，可能會引發更廣泛的網絡安全討論。"
+          "analysis": "《生化危機》的成功反映了玩家對於恐怖與挑戰的持續需求。Capcom透過不斷創新與適應市場變化，成功維持了品牌的活力。對於玩家而言，這不僅是遊戲，更是一種文化現象，象徵著恐懼與勇氣的對抗。未來，隨著虛擬實境等新技術的發展，該系列可能會進一步拓展其表現形式與玩家體驗。"
         },
         "topic_priority_score": 9,
-        "event_type": "strategic_move",
+        "event_type": "regulation_action",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -139,55 +157,46 @@
       {
         "category": "politics",
         "source_name": "The Guardian World",
-        "title": "Ukraine war briefing: Moldova declares emergency after Russian attack cuts key power line",
-        "link": "https://www.theguardian.com/world/2026/mar/25/ukraine-war-briefing-moldova-declares-emergency-after-russian-attack-cuts-key-power-line",
-        "summary": "President urges people to reduce consumption after power line passing through Ukraine damaged by drones; Moscow spring offensive steps up. What we know on day 1,491 Moldova declared a state of emergency in the energy sector after a key power line with Europe was disconnected following Russian strikes in Ukraine. The declaration comes into effect on Wednesday and lasts for 60 days. The prime minister, Alexandru Munteanu, appealed to people to “avoid unnecessary consumption, especially during peak hours” and “stay united”, according to a statement from parliament. The former Soviet republic imports electricity from neighbouring EU member Romania, mostly via a power cable that passes through southern Ukraine. Moldovan authorities said crashed drones had been identified in Ukraine near the line and that “demining operations” were needed before repairs could be done. Restoring the power line itself was expected to take up to seven days, the energy minister, Dorin Junghietu was quoted by the Moldovan media outlet Ziarul de Gardă as saying. “Russia alone bears responsibility,” the Moldovan president, Maia Sandu, wrote on X, while the foreign ministry also condemned the Russian attacks. Russia has frequently targeted Ukraine’s energy infrastructure since it invaded its neighbour in 2022. The Ukrainian president, Volodymyr Zelenskyy, has accused Russia of “absolute depravity” after Moscow fired an unprecedented daytime barrage across Ukraine, including on the historical centre of the western city of Lviv. “Iranian ‘shaheds’ [attack drones], modernised by Russia, are striking a church in Lviv – this is absolute depravity, and only someone like [Vladimir] Putin could find this appealing,” Zelenskyy said in his daily address. “The scale of this attack makes it abundantly clear that Russia has no intention of actually ending this war,” Zelenskyy added, vowing that Ukraine “will certainly respond to any attacks”. Russia’s military said on Wednesday it had shot down 389 Ukrainian drones overnight in one of the largest attacks to date. Russian regions bordering Ukraine, as well as Moscow and northwestern Leningrad were the main areas targeted, according to the military. Moscow appears to be stepping up a spring offensive intended to break Ukrainian resistance , writes Pjotr Sauer. Ukrainian officials said Moscow fired nearly 400 long-range drones and 23 cruise missiles overnight, followed by another 556 drones in an unusual daytime assault on Tuesday , hitting cities across the west of the country and killing at least seven people. Taken together, the barrage marks one of the largest aerial bombardments of Ukraine since the start of the full-scale invasion more than four years ago. One Russian drone struck the Bernardine monastery, a 16th-century church in Lviv’s Unesco-listed medieval centre, causing damage, local authorities said. North Korea’s leader, Kim Jong-un, said his country would always support Russia in a thank-you letter to his Russian counterpart, Vladimir Putin. Ties between the two have grown closer since Putin began the full-scale invasion of Ukraine, with Pyongyang sending ground troops and weapons systems to aid Russia’s war effort. “I express my sincere thanks to you for sending warm and sincere congratulations first on my reassumption of the heavy duty as president of the state affairs,” Kim said in the message on Tuesday, the official Korean central news agency said. “Today the DPRK and Russia are closely cooperating to defend the sovereignty of the two countries,” Kim said, using the initials of the North’s official name. “Pyongyang will always be with Moscow. This is our choice and unshakable will,” he added. South Korean and western intelligence agencies have estimated that the North has sent thousands of soldiers to Russia, primarily to the Kursk region, along with artillery shells, missiles and long-range rocket systems. Analysts say the assistance has been provided in exchange for Russia’s provision of food and weapons technologies. Continue reading...",
-        "published": "Wed, 25 Mar 2026 05:49:33 GMT",
-        "updated": "2026-03-25T05:49:33Z",
-        "published_at_utc": "2026-03-25T05:49:33+00:00",
-        "id": "https://www.theguardian.com/world/2026/mar/25/ukraine-war-briefing-moldova-declares-emergency-after-russian-attack-cuts-key-power-line",
+        "title": "Ukraine war briefing: Zelenskyy says US has linked security guarantees to ceding of Donbas",
+        "link": "https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas",
+        "summary": "Ukrainian president says peace deal proposed by US includes handing over land to Russia. What we know on day 1,492 Continue reading...",
+        "published": "Thu, 26 Mar 2026 06:51:05 GMT",
+        "updated": "2026-03-26T06:51:05Z",
+        "published_at_utc": "2026-03-26T06:51:05+00:00",
+        "id": "https://www.theguardian.com/world/2026/mar/26/ukraine-war-briefing-zelenskyy-says-us-has-linked-security-guarantees-to-ceding-of-donbas",
         "topic_type": "war_and_conflict",
-        "relevance_score": 21,
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "President urges people to reduce consumption after power line passing through Ukraine damaged by drones; Moscow spring offensive steps up. What we know on day 1,491 Moldova declared a state of emergency in the energy sector after a key power line with Europe was disconnected following Russian strikes in Ukraine. The declaration comes into effect on Wednesday and lasts for 60 days. The prime minister, Alexandru Munteanu, appealed to people to “avoid unnecessary consumption, especially during peak hours” and “stay united”, according to a statement from parliament. The former Soviet republic imports electricity from neighbouring EU member Romania, mostly via a power cable that passes through southern Ukraine. Moldovan authorities said crashed drones had been identified in Ukraine near the line and that “demining operations” were needed before repairs could be done. Restoring the power line itself was expected to take up to seven days, the energy minister, Dorin Junghietu was quoted by the Moldovan media outlet Ziarul de Gardă as saying. “Russia alone bears responsibility,” the Moldovan president, Maia Sandu, wrote on X, while the foreign ministry also condemned the Russian attacks. Russia has frequently targeted Ukraine’s energy infrastructure since it invaded its neighbour in 2022. The Ukrainian president, Volodymyr Zelenskyy, has accused Russia of “absolute depravity” after Moscow fired an unprecedented daytime barrage across Ukraine, including on the historical centre of the western city of Lviv. “Iranian ‘shaheds’ [attack drones], modernised by Russia, are striking a church in Lviv – this is absolute depravity, and only someone like [Vladimir] Putin could find this appealing,” Zelenskyy said in his daily address. “The scale of this attack makes it abundantly clear that Russia has no intention of actually ending this war,” Zelenskyy added, vowing that Ukraine “will certainly respond to any attacks”. Russia’s military said on Wednesday it had shot down 389 Ukrainian drones overnight in one of the largest attacks to date. Russian regions bordering Ukraine, as well as Moscow and northwestern Leningrad were the main areas targeted, according to the military. Moscow appears to be stepping up a spring offensive intended to break Ukrainian resistance , writes Pjotr Sauer. Ukrainian officials said Moscow fired nearly 400 long-range drones and 23 cruise missiles overnight, followed by another 556 drones in an unusual daytime assault on Tuesday , hitting cities across the west of the country and killing at least seven people. Taken together, the barrage marks one of the largest aerial bombardments of Ukraine since the start of the full-scale invasion more than four years ago. One Russian drone struck the Bernardine monastery, a 16th-century church in Lviv’s Unesco-listed medieval centre, causing damage, local authorities said. North Korea’s leader, Kim Jong-un, said his country would always support Russia in a thank-you letter to his Russian counterpart, Vladimir Putin. Ties between the two have grown closer since Putin began the full-scale invasion of Ukraine, with Pyongyang sending ground troops and weapons systems to aid Russia’s war effort. “I express my sincere thanks to you for sending warm and sincere congratulations first on my reassumption of the heavy duty as president of the state affairs,” Kim said in the message on Tuesday, the official Korean central news agency said. “Today the DPRK and Russia are closely cooperating to defend the sovereignty of the two countries,” Kim said, using the initials of the North’s official name. “Pyongyang will always be with Moscow. This is our choice and unshakable will,” he added. South Korean and western intelligence agencies have estimated that the North has sent thousands of soldiers to Russia, primarily to the Kursk region, along with artillery shells, missiles and long-range rocket systems. Analysts say the assistance has been provided in exchange for Russia’s provision of food and weapons technologies. Continue reading...",
-          "news_focus_zh": "摩爾多瓦因俄羅斯攻擊導致與歐洲的關鍵電力線中斷，宣布能源部門進入緊急狀態，並呼籲民眾減少用電。此事件發生在俄烏戰爭持續升級之際，顯示出俄羅斯對烏克蘭能源基礎設施的持續攻擊。",
-          "background": "摩爾多瓦是一個前蘇聯國家，依賴從羅馬尼亞進口電力，而這一供應主要通過經烏克蘭的電纜。自2022年俄烏戰爭爆發以來，俄羅斯不斷針對烏克蘭的能源基礎設施進行攻擊，這使得周邊國家如摩爾多瓦的能源安全受到威脅。摩爾多瓦政府的緊急狀態宣告，反映出該國在面對外部威脅時的脆弱性及對能源供應的依賴。",
+          "news_focus": "Ukrainian president says peace deal proposed by US includes handing over land to Russia. What we know on day 1,492 Continue reading...",
+          "news_focus_zh": "烏克蘭總統澤倫斯基表示，美國提出的和平協議將烏克蘭的安全保障與讓渡頓巴斯地區的條件相連結，這一消息引發了對烏克蘭主權及未來和平進程的擔憂。",
+          "background": "自2014年克里米亞危機以來，烏克蘭與俄羅斯之間的衝突持續升級，頓巴斯地區成為主要戰場。美國在此衝突中扮演重要角色，提供軍事和經濟支持。隨著戰爭進入第1492天，和平談判的可能性再次被提上日程，但涉及領土的讓步問題一直是各方難以達成共識的焦點。",
           "stakeholders": [
-            "摩爾多瓦政府",
-            "俄羅斯政府",
             "烏克蘭政府",
-            "羅馬尼亞政府",
-            "北韓政府"
+            "美國政府",
+            "俄羅斯政府",
+            "烏克蘭民眾",
+            "國際社會"
           ],
-          "analysis": "摩爾多瓦的緊急狀態反映了該國對俄羅斯軍事行動的高度敏感性，並可能促使其尋求更穩定的能源來源。對於俄羅斯而言，持續的攻擊旨在削弱烏克蘭及其鄰國的抵抗力，並加強其在地區的影響力。烏克蘭則面臨更大的壓力，必須加強防禦以應對俄方的攻勢。此外，北韓對俄羅斯的支持表明，這場衝突可能引發更廣泛的地緣政治聯盟，進一步複雜化局勢。"
+          "analysis": "澤倫斯基的聲明顯示出烏克蘭政府對美國提議的強烈不滿，認為這可能損害其國家主權。美國在此問題上的立場可能反映出其希望促進和平的戰略考量，但也可能引發烏克蘭內部的政治反彈。俄羅斯則可能利用這一提議來加強其在頓巴斯地區的影響力，進一步挑戰烏克蘭的領土完整。各方的立場差異將對未來的和平進程產生深遠影響。"
         },
         "topic_priority_score": 11,
-        "event_type": "election_move",
+        "event_type": "security_event",
         "supporting_sources": [
-          "Al Jazeera",
-          "BBC World",
           "SCMP World",
-          "Reuters",
-          "The Hindu International",
-          "Fox News World"
+          "Fox News World",
+          "Al Jazeera"
         ],
         "supporting_titles": [
-          "Russia, Ukraine tit-for-tat attacks knock out power for over half a million",
-          "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
-          "Russia fires hundreds of drones at Ukraine in deadly massive attack",
-          "Philippines declares energy emergency amid Middle East conflict - Reuters",
-          "Philippine President declares energy emergency over West Asia conflict risks",
-          "Iran threatens mass ‘water war’ with strikes on key plants in days, UN official warns"
+          "Iran war deflects attention from Ukraine as Russia starts spring offensive",
+          "Zelenskyy says Ukraine has evidence Russia is aiding Iran with intelligence",
+          "Malaysia’s prime minister says Iran talks should end war"
         ],
         "supporting_links": [
-          "https://www.aljazeera.com/news/2026/3/25/russia-ukraine-tit-for-tat-attacks-knock-out-power-for-over-half-a-million?traffic_source=rss",
-          "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
-          "https://www.scmp.com/news/world/europe/article/3347764/4-dead-russia-fires-nearly-400-drones-ukraine-signs-spring-offensive-has-begun?utm_source=rss_feed",
-          "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Vc0ttemRndTM3QUk3a0Z0aERoS1Bral83QUs4ekVDTm5md1AyYlNnNjlHcXgwc0RBVFMzMkRFbTFtU0dqQ2VWWEJVa2hGVENyLTdOZ29NcjlaNnFoZGdhTmFRNXBQd3ptbFBlcWlZTjB1U0xMUkctaGtn?oc=5",
-          "https://www.thehindu.com/news/international/philippine-president-declares-energy-emergency-over-west-asia-conflict-risks/article70779722.ece",
-          "https://www.foxnews.com/world/iran-threatens-mass-water-war-un-official-says-desalination-plants-hit-days"
+          "https://www.scmp.com/news/world/europe/article/3347956/iran-war-deflects-attention-ukraine-russia-starts-spring-offensive?utm_source=rss_feed",
+          "https://www.foxnews.com/world/zelenskyy-russia-iran-intelligence-support",
+          "https://www.aljazeera.com/video/newsfeed/2026/3/26/malaysias-prime-minister-says-iran-talks-should-end-war?traffic_source=rss"
         ],
-        "source_count": 7
+        "source_count": 4
       },
       {
         "category": "politics",
@@ -200,22 +209,23 @@
         "published_at_utc": "2026-03-17T12:32:00+00:00",
         "id": "https://thediplomat.com/2026/03/taiwans-first-prc-born-legislator-stokes-controversy/",
         "topic_type": "us_china_relations",
-        "relevance_score": 9,
+        "relevance_score": -3,
         "briefing": {
           "news_focus": "The status of Chinese spouses of Taiwanese has been increasingly a topic of debate in Taiwan.",
-          "news_focus_zh": "台灣首位中國出生的立法委員引發爭議，特別是有關台灣與中國配偶的地位問題日益受到關注。",
-          "background": "隨著兩岸關係的變化，台灣社會對於中國籍配偶的接受度和法律地位的討論愈加頻繁。過去，台灣對於中國配偶的政策相對保守，隨著社會多元化，對於這些配偶的權益與融入問題開始受到重視。此事件反映出台灣在面對中國影響力時的內部矛盾與挑戰，尤其是在立法機構中出現中國籍成員後，相關議題的敏感性更為加劇。",
+          "news_focus_zh": "台灣首位中國出生的立法委員引發爭議，尤其是關於中國配偶在台灣的地位問題，成為當前政治辯論的焦點。",
+          "background": "隨著兩岸關係的變化，台灣社會對中國配偶的接納度與法律地位的討論日益增加。過去幾年，隨著中國籍配偶在台灣家庭中的比例上升，相關政策及法律問題逐漸浮出水面。此事件的發生，反映出台灣對於中國籍人士的態度與政策的複雜性，尤其是在政治層面上，涉及國家認同與社會整合的議題。",
           "stakeholders": [
             "台灣政府",
             "中國籍配偶",
             "台灣民眾",
-            "立法委員",
-            "兩岸關係專家"
+            "政治團體",
+            "社會運動組織"
           ],
-          "analysis": "此事件引發的爭議主要在於對中國籍配偶的法律地位與社會認同的不同看法。支持者認為，這是台灣社會包容性增強的表現，能促進兩岸交流；反對者則擔心這可能影響台灣的主權與安全，並可能引發對中國影響力的擔憂。隨著立法委員的身份引發的討論，未來可能會促使政府重新檢視相關政策，並引發更廣泛的社會對話。"
+          "analysis": "此事件引發的爭議主要集中在兩岸關係的敏感性及台灣內部的政治分歧。支持者認為，這是對多元文化的接受與包容，能促進社會和諧；而反對者則擔心這可能會影響台灣的主權與國家安全，特別是在中國對台政策日益強硬的背景下。各方的立場差異顯示出台灣社會在面對中國配偶問題上的分歧，未來可能會影響相關政策的制定與社會氛圍。"
         },
         "topic_priority_score": 10,
         "event_type": "political_signal",
+        "is_repeat_story": true,
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -223,194 +233,214 @@
       },
       {
         "category": "politics",
-        "source_name": "SCMP World",
-        "title": "China’s consumer goods factories cut output as Iran war sends costs soaring",
-        "link": "https://www.scmp.com/economy/china-economy/article/3347808/chinas-consumer-goods-factories-cut-output-iran-war-sends-costs-soaring?utm_source=rss_feed",
-        "summary": "The disruption to shipping traffic along the Strait of Hormuz is starting to bite in China, where some manufacturers are reducing production due to soaring energy, raw material and freight costs. Zhao, who runs a bicycle factory in Guangzhou serving clients in the United States, Middle East and Europe, has already put most export business on hold. “We also cancelled all orders from Iran,” he said. “The cost of aluminium, a key raw material for bicycle production, has risen by 30 per...",
-        "published": "Wed, 25 Mar 2026 05:23:59 +0000",
-        "updated": "Wed, 25 Mar 2026 05:23:59 +0000",
-        "published_at_utc": "2026-03-25T05:23:59+00:00",
-        "id": "https://www.scmp.com/economy/china-economy/article/3347808/chinas-consumer-goods-factories-cut-output-iran-war-sends-costs-soaring?utm_source=rss_feed",
+        "source_name": "The Guardian World",
+        "title": "Fears net zero is ‘next Brexit’ as oil crisis fuels political climate divide",
+        "link": "https://www.theguardian.com/environment/2026/mar/26/fears-net-zero-is-next-brexit-as-oil-crisis-fuels-political-climate-divide",
+        "summary": "Rising energy bills give Reform and Tories opening to attack net zero while government hesitant to make case for clean energy Could net zero become “the next Brexit”? That is the fear stalking climate advocates as the oil crisis caused by the war on Iran starts to bite. A powerful coalition of the well-funded Reform party , led by Nigel Farage, the Conservative party, some business interests, and the UK’s right-wing media , are engaged in an onslaught against the longstanding target of reaching net zero greenhouse gas emissions by 2050 . Continue reading...",
+        "published": "Thu, 26 Mar 2026 08:00:31 GMT",
+        "updated": "2026-03-26T08:00:31Z",
+        "published_at_utc": "2026-03-26T08:00:31+00:00",
+        "id": "https://www.theguardian.com/environment/2026/mar/26/fears-net-zero-is-next-brexit-as-oil-crisis-fuels-political-climate-divide",
         "topic_type": "uk_politics",
         "relevance_score": 17,
         "briefing": {
-          "news_focus": "The disruption to shipping traffic along the Strait of Hormuz is starting to bite in China, where some manufacturers are reducing production due to soaring energy, raw material and freight costs. Zhao, who runs a bicycle factory in Guangzhou serving clients in the United States, Middle East and Europe, has already put most export business on hold. “We also cancelled all orders from Iran,” he said. “The cost of aluminium, a key raw material for bicycle production, has risen by 30 per...",
-          "news_focus_zh": "由於伊朗戰爭導致霍爾木茲海峽的航運交通受阻，中國的消費品工廠面臨能源、原材料和運輸成本飆升的挑戰，部分製造商已減少產量，並暫停大部分出口業務。",
-          "background": "霍爾木茲海峽是全球重要的石油運輸通道，任何衝突都可能影響全球能源供應鏈。隨著伊朗戰爭的升級，運輸成本上漲，導致中國製造業面臨原材料價格飆升的壓力。特別是鋁等關鍵原材料的價格上漲，對依賴進口的製造商影響尤為明顯，進一步加劇了中國經濟的下行壓力。",
+          "news_focus": "Rising energy bills give Reform and Tories opening to attack net zero while government hesitant to make case for clean energy Could net zero become “the next Brexit”? That is the fear stalking climate advocates as the oil crisis caused by the war on Iran starts to bite. A powerful coalition of the well-funded Reform party , led by Nigel Farage, the Conservative party, some business interests, and the UK’s right-wing media , are engaged in an onslaught against the longstanding target of reaching net zero greenhouse gas emissions by 2050 . Continue reading...",
+          "news_focus_zh": "英國面臨能源危機，導致能源費用上升，改革黨與保守黨聯手攻擊政府的淨零排放政策，氣候倡導者擔心這會成為類似於脫歐的政治分歧。",
+          "background": "隨著全球能源價格上漲，特別是因伊朗戰爭引發的油價危機，英國政府在推動2050年達成淨零排放的目標上面臨越來越大的壓力。改革黨與保守黨利用此機會質疑淨零政策的可行性，並試圖吸引選民對清潔能源的懷疑，這可能會影響未來的氣候政策與能源戰略。",
           "stakeholders": [
-            "中國製造商",
-            "國際買家",
-            "伊朗政府",
-            "能源供應商",
-            "全球物流公司"
+            "改革黨",
+            "保守黨",
+            "氣候倡導者",
+            "商業利益團體",
+            "右派媒體"
           ],
-          "analysis": "中國製造商面臨的挑戰主要來自於成本上升和市場需求減少。對於如廣州的自行車工廠，取消來自伊朗的訂單意味著失去了一部分市場，但同時也反映出對供應鏈穩定性的擔憂。美國和歐洲的客戶可能會尋求其他供應來源，這對中國的出口業務構成長期威脅。各方利益關係中，製造商希望降低成本，而國際買家則在尋求穩定的供應鏈，這可能導致市場重新配置。"
+          "analysis": "改革黨與保守黨的聯手攻擊可能導致英國社會對淨零排放政策的支持度下降，並引發類似脫歐的政治分裂。氣候倡導者擔心，若政府未能有效溝通清潔能源的長期利益，將可能使英國在全球氣候行動中處於不利地位。此外，企業界的利益也可能因政策不確定性而受到影響，進而影響投資決策與市場信心。"
         },
         "topic_priority_score": 9,
         "event_type": "security_event",
         "supporting_sources": [
-          "Al Jazeera",
-          "The Guardian World",
-          "The Hindu International",
-          "Taipei Times",
-          "BBC World",
-          "The Diplomat",
-          "Fox News World"
+          "The Diplomat"
         ],
         "supporting_titles": [
-          "US-Israel war on Iran: What’s happening on day 26 of attacks?",
-          "Philippines declares ‘national energy emergency’ and boosts coal power as Iran war grinds on",
-          "Why a prolonged war with Iran will constrain the U.S. | Data",
-          "Taiwan faces rising prices as Iran war drives up costs: CRIF",
-          "Iran war shows norms of international conflicts have been overturned",
-          "The Economic Consequences of the Iran War Reverberate in South Korea",
-          "Iran threatens mass ‘water war’ with strikes on key plants in days, UN official warns"
+          "Philippines Approves Shift to Dirtier Fuels as Oil Supply Crisis Bites"
         ],
         "supporting_links": [
-          "https://www.aljazeera.com/news/2026/3/25/us-israel-war-on-iran-whats-happening-on-day-26-of-attacks?traffic_source=rss",
-          "https://www.theguardian.com/world/2026/mar/25/philippines-declares-national-energy-emergency-iran-war",
-          "https://www.thehindu.com/data/why-a-prolonged-war-with-iran-will-constrain-the-us/article70781421.ece",
-          "https://www.taipeitimes.com/News/biz/archives/2026/03/25/2003854408",
-          "https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&at_campaign=rss",
-          "https://thediplomat.com/2026/03/the-economic-consequences-of-the-iran-war-reverberate-in-south-korea/",
-          "https://www.foxnews.com/world/iran-threatens-mass-water-war-un-official-says-desalination-plants-hit-days"
+          "https://thediplomat.com/2026/03/philippines-approves-shift-to-dirtier-fuels-as-oil-supply-crisis-bites/"
         ],
-        "source_count": 8
+        "source_count": 2
       }
     ],
     "economy": [
       {
         "category": "economy",
         "source_name": "SCMP Business",
-        "title": "Gold slides as hawkish Fed and strong US dollar override geopolitical fears",
-        "link": "https://www.scmp.com/business/commodities/article/3347473/gold-slides-hawkish-fed-and-strong-us-dollar-override-geopolitical-fears?utm_source=rss_feed",
-        "summary": "Gold prices have continued to weaken despite escalating tensions in the US-Israel conflict with Iran, breaking from the metal’s traditional role as a geopolitical hedge, as fading expectations of interest rate cuts and a stronger US dollar weigh on sentiment, analysts said. The metal has declined about 15 per cent since a brief surge on March 2, when prices climbed to around US$5,300 per ounce following US and Israeli strikes on Iran. A modest rebound driven by technical buying on Friday did...",
-        "published": "Sun, 22 Mar 2026 09:00:27 +0000",
-        "updated": "Sun, 22 Mar 2026 09:00:27 +0000",
-        "published_at_utc": "2026-03-22T09:00:27+00:00",
-        "id": "https://www.scmp.com/business/commodities/article/3347473/gold-slides-hawkish-fed-and-strong-us-dollar-override-geopolitical-fears?utm_source=rss_feed",
+        "title": "Global markets brace for rate hikes as prolonged Iran war stokes tightening fears",
+        "link": "https://www.scmp.com/business/china-business/article/3347552/global-markets-brace-rate-hikes-iran-war-and-us100-oil-stoke-tightening-fears?utm_source=rss_feed",
+        "summary": "Expectations of monetary tightening by global central banks have intensified, triggering a fresh wave of sell-offs in risk assets as the US-Israel war with Iran enters its fourth week. Rates traders are now projecting no rate cuts by the Federal Reserve this year after chair Jerome Powell said last week that rising oil prices added uncertainty to the monetary outlook. That stands in contrast to the forecast of two reductions before the outbreak of the hostilities in the Middle East. The European...",
+        "published": "Mon, 23 Mar 2026 06:09:38 +0000",
+        "updated": "Mon, 23 Mar 2026 06:09:38 +0000",
+        "published_at_utc": "2026-03-23T06:09:38+00:00",
+        "id": "https://www.scmp.com/business/china-business/article/3347552/global-markets-brace-rate-hikes-iran-war-and-us100-oil-stoke-tightening-fears?utm_source=rss_feed",
         "topic_type": "interest_rates",
-        "relevance_score": 20,
+        "relevance_score": 16,
         "briefing": {
-          "news_focus": "Gold prices have continued to weaken despite escalating tensions in the US-Israel conflict with Iran, breaking from the metal’s traditional role as a geopolitical hedge, as fading expectations of interest rate cuts and a stronger US dollar weigh on sentiment, analysts said. The metal has declined about 15 per cent since a brief surge on March 2, when prices climbed to around US$5,300 per ounce following US and Israeli strikes on Iran. A modest rebound driven by technical buying on Friday did...",
-          "news_focus_zh": "儘管美國與以色列與伊朗之間的緊張局勢升高，金價仍持續下滑，顯示出其作為地緣政治避險資產的傳統角色受到挑戰。分析指出，聯邦儲備局的鷹派立場及強勁的美元對市場情緒造成壓力。",
-          "background": "金價的變化通常與地緣政治緊張局勢呈現反向關係，然而，近期美國聯邦儲備局對利率政策的明確鷹派立場及美元走強，導致金價未能如預期上漲。自3月2日金價短暫上漲以來，金價已下跌約15%。這一情況反映出市場對於利率政策的敏感度及美元強勢的影響力，顯示出投資者對金屬的避險需求減弱。",
+          "news_focus": "Expectations of monetary tightening by global central banks have intensified, triggering a fresh wave of sell-offs in risk assets as the US-Israel war with Iran enters its fourth week. Rates traders are now projecting no rate cuts by the Federal Reserve this year after chair Jerome Powell said last week that rising oil prices added uncertainty to the monetary outlook. That stands in contrast to the forecast of two reductions before the outbreak of the hostilities in the Middle East. The European...",
+          "news_focus_zh": "隨著美以與伊朗的戰爭進入第四週，全球市場對於央行加息的預期加劇，導致風險資產出現新一波拋售。美國聯邦儲備主席鮑威爾表示，油價上漲增加了貨幣政策的不確定性，市場預測今年不會有降息。",
+          "background": "自從美以與伊朗的衝突加劇以來，全球經濟面臨不確定性，特別是能源價格的波動。過去幾個月，市場原本預期美國聯邦儲備會在年內進行兩次降息，但隨著地緣政治風險的上升，這一預期已經改變。央行的貨幣政策將受到油價上漲的影響，進一步影響全球市場的流動性和風險偏好。",
           "stakeholders": [
-            "美國聯邦儲備局",
+            "美國聯邦儲備",
             "投資者",
-            "金礦公司",
-            "美元持有者",
-            "地緣政治分析師"
+            "能源生產國",
+            "消費者",
+            "全球市場"
           ],
-          "analysis": "此次金價下滑的主要變化在於，金屬未能在地緣政治緊張局勢中發揮其避險功能，顯示出市場對於利率政策及美元強度的反應更為敏感。聯邦儲備局的鷹派信號使市場預期利率不會如先前預期般下調，進一步壓制了金價。這對於投資者及金礦公司而言，可能意味著未來的投資策略需要重新評估，尤其是在全球經濟不確定性加劇的背景下。"
+          "analysis": "各方利益關係在此事件中顯著交織。美國聯邦儲備的加息預期將對投資者情緒產生壓力，特別是在風險資產市場。投資者可能會轉向更安全的資產，導致股市和其他風險資產的進一步下跌。另一方面，能源生產國可能會因油價上漲而受益，但這也可能加劇全球通脹壓力，影響消費者支出和經濟增長。各國央行在應對這一局勢時，將面臨政策選擇的困難。"
         },
         "topic_priority_score": 10,
         "event_type": "rate_decision",
-        "is_major_update": true,
         "supporting_sources": [
-          "Reuters"
+          "BBC Business",
+          "Reuters",
+          "The Guardian Business",
+          "Nikkei Asia",
+          "The Economist"
         ],
         "supporting_titles": [
-          "Gulf warnings and fears of miscalculation preceded Trump’s pause in Iran showdown - Reuters"
+          "Trump confirms May meeting with Xi Jinping as Iran war forces postponement",
+          "Iran war damage to Qatar hits global LNG outlook, upends Asia demand growth - Reuters",
+          "Trump’s trip to meet Xi Jinping in China rescheduled for May due to Iran war",
+          "Iran war exposes energy divide between Bangladesh, solar-rich Pakistan",
+          "The Iran war is roiling commodities far beyond oil"
         ],
         "supporting_links": [
-          "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaG9uTGVmcHlRUDlNWmNqOUpYMmxHNGI1Z21DVk00S3VmZG82NkxuRmM5VkhfSGZsdU5uUXg2bUR6Y3RjejJnWGtMcC11eUQxczVQMko1eVBLaTFaT2RFWHh1Q1g0TURqcEVuZDBHbmpTZTd2SWNSd2JOeXNINUVlbXlnUGNxMThjMVh0akUwYVRfUUVoUHBRV1VyM1RWTy1xYzJxYk1RTE1uand3WFdUMXBFWG83R0RtV0lUdFJyaw?oc=5"
+          "https://www.bbc.com/news/articles/c05dpr1m71go?at_medium=RSS&at_campaign=rss",
+          "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdjBvWFc1RVJOWVZRRHFTV3BfaUtObWRKRzFYYUhoLTVDQzAxM2hWZFJZb0kySlFhTVhQb0Jsd1BSQU5ob3Fjc21uNjBDTmI0N2F0UTAyYmdwTndNZFV3LWM2aW5EWkE1eWRjVWdsaXpPTlFYeTU2R0YtU2lIdTFGRmZGQWtxNnFENndhMTZnVWNfSXYwNlYyVTZWN0IzRWI5VDExZWZPSnE4Zy1jY0dhUkhyZHl5dmxCcjdHaHNVT0M?oc=5",
+          "https://www.theguardian.com/us-news/2026/mar/26/trump-xi-jinping-china-trip-rescheduled-may",
+          "https://asia.nikkei.com/spotlight/iran-tensions/iran-war-exposes-energy-divide-between-bangladesh-solar-rich-pakistan",
+          "https://www.economist.com/finance-and-economics/2026/03/16/the-iran-war-is-roiling-commodities-far-beyond-oil"
         ],
-        "source_count": 2
+        "source_count": 6
       },
       {
         "category": "economy",
-        "source_name": "BBC Business",
-        "title": "Why are UK prices still rising?",
-        "link": "https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-        "summary": "UK Inflation has dropped back from record highs but remains above the Bank of England's 2% target.",
-        "published": "Wed, 25 Mar 2026 08:35:11 GMT",
-        "updated": "Wed, 25 Mar 2026 08:35:11 GMT",
-        "published_at_utc": "2026-03-25T08:35:11+00:00",
-        "id": "https://www.bbc.com/news/articles/c17rgd8e9gjo#0",
+        "source_name": "The Guardian Business",
+        "title": "UK consumer confidence has ‘collapsed’ during Iran war, retail industry says",
+        "link": "https://www.theguardian.com/business/2026/mar/26/uk-consumer-confidence-has-collapsed-iran-war-retail-industry-energy-prices-inflation",
+        "summary": "BRC survey finds public even more pessimistic about finances as higher energy prices fuel inflation fears Consumer confidence in the UK has “collapsed” since the start of the Iran war, according to new research from the British Retail Consortium. The sharp rise in energy prices caused by the effective closure of the strait of Hormuz and attacks on infrastructure in the region has led to fears of higher inflation and weaker growth across oil-importing countries. Continue reading...",
+        "published": "Thu, 26 Mar 2026 06:00:28 GMT",
+        "updated": "2026-03-26T06:00:28Z",
+        "published_at_utc": "2026-03-26T06:00:28+00:00",
+        "id": "https://www.theguardian.com/business/2026/mar/26/uk-consumer-confidence-has-collapsed-iran-war-retail-industry-energy-prices-inflation",
         "topic_type": "inflation",
         "relevance_score": 24,
         "briefing": {
-          "news_focus": "UK Inflation has dropped back from record highs but remains above the Bank of England's 2% target.",
-          "news_focus_zh": "英國的通脹率雖然已從歷史高點回落，但仍高於英格蘭銀行設定的2%目標，顯示出價格持續上漲的壓力。",
-          "background": "英國的通脹問題源於多重因素，包括供應鏈中斷、能源價格上漲及疫情後的需求回升。自2021年以來，全球經濟復甦帶動了需求，但供應卻未能及時跟上，造成價格上漲。英格蘭銀行的通脹目標是2%，但目前的數據顯示，通脹仍高於此標準，顯示出政策調整的必要性。",
+          "news_focus": "BRC survey finds public even more pessimistic about finances as higher energy prices fuel inflation fears Consumer confidence in the UK has “collapsed” since the start of the Iran war, according to new research from the British Retail Consortium. The sharp rise in energy prices caused by the effective closure of the strait of Hormuz and attacks on infrastructure in the region has led to fears of higher inflation and weaker growth across oil-importing countries. Continue reading...",
+          "news_focus_zh": "根據英國零售協會的調查，自伊朗戰爭開始以來，英國消費者信心已經大幅下滑，主要因為能源價格上漲引發的通脹擔憂，影響了民眾對財務狀況的看法。",
+          "background": "伊朗戰爭的爆發導致霍爾木茲海的運輸通道受到威脅，這對全球能源市場造成了直接影響。英國作為一個主要的石油進口國，面臨著能源價格飆升的挑戰，進一步加劇了通脹壓力。隨著生活成本上升，消費者的購買力受到侵蝕，這使得零售行業的前景變得更加黯淡。",
           "stakeholders": [
-            "英格蘭銀行",
-            "消費者",
-            "企業",
+            "英國消費者",
+            "英國零售商",
             "政府",
+            "能源供應商",
             "經濟學家"
           ],
-          "analysis": "持續的高通脹對消費者購買力造成壓力，可能導致消費支出減少，影響整體經濟增長。英格蘭銀行面臨兩難，需在控制通脹與促進經濟增長之間取得平衡。企業則可能因成本上升而提高價格，進一步推高通脹。政府和中央銀行的政策反應將影響未來的經濟走向，特別是在應對潛在的經濟衰退風險時。"
+          "analysis": "消費者信心的崩潰將對零售業造成嚴重影響，尤其是在高通脹環境下，消費者可能會減少非必需品的支出。零售商面臨的挑戰是如何應對成本上升與需求減少的雙重壓力。政府可能需要考慮推出刺激措施以穩定經濟，但這也可能引發財政赤字的擔憂。不同利益方之間的角力將影響未來的政策走向。"
         },
         "topic_priority_score": 9,
         "event_type": "inflation_data",
         "supporting_sources": [
-          "The Economist",
-          "The Guardian Business"
+          "BBC Business",
+          "SCMP Business",
+          "Reuters",
+          "Nikkei Asia",
+          "The Economist"
         ],
         "supporting_titles": [
-          "Why American bondholders are jumpy about inflation",
-          "What levers could Rachel Reeves pull to help with rising prices?"
+          "UK inflation rate stays at 3% before Iran war hits oil prices",
+          "‘Demand shock’: China cannot escape the impact of a long Iran war, analyst warns",
+          "Iran war damage to Qatar hits global LNG outlook, upends Asia demand growth - Reuters",
+          "Iran war exposes energy divide between Bangladesh, solar-rich Pakistan",
+          "The Iran war is roiling commodities far beyond oil"
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2025/09/10/why-american-bondholders-are-jumpy-about-inflation",
-          "https://www.theguardian.com/business/2026/mar/24/rachel-reeves-prices-iran-war-fuel-duty-rises"
+          "https://www.bbc.com/news/articles/cx2w47e9v2vo?at_medium=RSS&at_campaign=rss",
+          "https://www.scmp.com/economy/china-economy/article/3347932/demand-shock-china-cannot-escape-impact-long-iran-war-analyst-warns?utm_source=rss_feed",
+          "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdjBvWFc1RVJOWVZRRHFTV3BfaUtObWRKRzFYYUhoLTVDQzAxM2hWZFJZb0kySlFhTVhQb0Jsd1BSQU5ob3Fjc21uNjBDTmI0N2F0UTAyYmdwTndNZFV3LWM2aW5EWkE1eWRjVWdsaXpPTlFYeTU2R0YtU2lIdTFGRmZGQWtxNnFENndhMTZnVWNfSXYwNlYyVTZWN0IzRWI5VDExZWZPSnE4Zy1jY0dhUkhyZHl5dmxCcjdHaHNVT0M?oc=5",
+          "https://asia.nikkei.com/spotlight/iran-tensions/iran-war-exposes-energy-divide-between-bangladesh-solar-rich-pakistan",
+          "https://www.economist.com/finance-and-economics/2026/03/16/the-iran-war-is-roiling-commodities-far-beyond-oil"
         ],
-        "source_count": 3
+        "source_count": 6
       },
       {
         "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "HSBC vows to keep investing in China amid global tensions as new trade corridors emerge",
-        "link": "https://www.scmp.com/business/banking-finance/article/3347465/hsbc-vows-keep-investing-china-amid-global-tensions-new-trade-corridors-emerge?utm_source=rss_feed",
-        "summary": "HSBC CEO Georges Elhedery has vowed to continue investing in China amid escalating trade tensions after witnessing new trade opportunities from Chinese companies going global. While attending the two-day China Development Forum (CDF) 2026 in Beijing on Sunday, Elhedery characterised China’s current trajectory as a “new phase of development” that would define the next era of global economic growth. Although 2025 saw steady growth in global trade, the landscape was complicated by shifting tariffs,...",
-        "published": "Sun, 22 Mar 2026 06:27:09 +0000",
-        "updated": "Sun, 22 Mar 2026 06:27:09 +0000",
-        "published_at_utc": "2026-03-22T06:27:09+00:00",
-        "id": "https://www.scmp.com/business/banking-finance/article/3347465/hsbc-vows-keep-investing-china-amid-global-tensions-new-trade-corridors-emerge?utm_source=rss_feed",
+        "source_name": "Reuters",
+        "title": "Trump's tariffs had little impact on GDP in 2025, but raised revenue, academic paper finds - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWm9VOERZZTF4a2E5ejExRURkNS1JOUZnUHVBVHRTU0JGOHAyVzdLeW1kZVg3Mzh4QWtwdGxoV0dGeTBFZlpPWGhPOGtpa0FnWUhZQzA1UldFMWFWTzI5SGJQQWhPVDdwZ24wVGtSNHZQcER4MXdDY0k5NTF6NGVUSEN6SFdFZnZWOWdPeUt1YWdpSE1NWWdqQ2pDVlpaekcxQjlyVGQ4b2szdE1KVTRzeFBueUpzQzNJSThHVUtzbw?oc=5",
+        "summary": "Trump's tariffs had little impact on GDP in 2025, but raised revenue, academic paper finds Reuters",
+        "published": "Thu, 26 Mar 2026 01:05:00 GMT",
+        "updated": "Thu, 26 Mar 2026 01:05:00 GMT",
+        "published_at_utc": "2026-03-26T01:05:00+00:00",
+        "id": "CBMivwFBVV95cUxOWm9VOERZZTF4a2E5ejExRURkNS1JOUZnUHVBVHRTU0JGOHAyVzdLeW1kZVg3Mzh4QWtwdGxoV0dGeTBFZlpPWGhPOGtpa0FnWUhZQzA1UldFMWFWTzI5SGJQQWhPVDdwZ24wVGtSNHZQcER4MXdDY0k5NTF6NGVUSEN6SFdFZnZWOWdPeUt1YWdpSE1NWWdqQ2pDVlpaekcxQjlyVGQ4b2szdE1KVTRzeFBueUpzQzNJSThHVUtzbw",
         "topic_type": "trade_wars",
         "relevance_score": 18,
         "briefing": {
-          "news_focus": "HSBC CEO Georges Elhedery has vowed to continue investing in China amid escalating trade tensions after witnessing new trade opportunities from Chinese companies going global. While attending the two-day China Development Forum (CDF) 2026 in Beijing on Sunday, Elhedery characterised China’s current trajectory as a “new phase of development” that would define the next era of global economic growth. Although 2025 saw steady growth in global trade, the landscape was complicated by shifting tariffs,...",
-          "news_focus_zh": "匯豐銀行首席執行官喬治·埃爾赫德里在北京的中國發展論壇上表示，儘管全球貿易緊張局勢加劇，匯豐仍將持續在中國投資，並指出中國企業全球化帶來的新貿易機會。",
-          "background": "隨著中美貿易戰及其他地緣政治緊張局勢的升級，許多外資企業對中國市場的投資持謹慎態度。然而，中國政府積極推動企業走向全球，並尋求擴大貿易合作。匯豐銀行作為全球最大的銀行之一，長期以來在中國市場中扮演重要角色，並在當前的經濟環境中，仍然看好中國的發展潛力。",
+          "news_focus": "Trump's tariffs had little impact on GDP in 2025, but raised revenue, academic paper finds Reuters",
+          "news_focus_zh": "一篇學術論文指出，特朗普的關稅政策在2025年對美國GDP的影響微乎其微，但卻顯著提高了政府的稅收收入。",
+          "background": "特朗普政府於2018年開始實施的關稅政策，旨在保護美國製造業並減少貿易赤字。這些關稅主要針對中國及其他國家，雖然初期引發了貿易戰，但隨著時間推移，經濟學者對其長期影響的研究逐漸增多。根據最新研究，儘管關稅增加了政府收入，但對GDP的影響卻不如預期，顯示出政策效果的複雜性。",
           "stakeholders": [
-            "匯豐銀行",
-            "中國政府",
+            "特朗普政府",
             "美國企業",
-            "全球投資者",
-            "貿易夥伴國家"
+            "經濟學者",
+            "消費者",
+            "國際貿易夥伴"
           ],
-          "analysis": "此次匯豐的表態顯示出其對中國市場的長期信心，並可能促使其他外資企業重新評估在中國的投資策略。與此同時，這一立場可能引發與美國及其他西方國家在貿易政策上的摩擦，因為這些國家對中國的經濟政策持懷疑態度。匯豐的決策可能會影響其在全球的業務佈局，尤其是在面對不確定的貿易環境時。"
+          "analysis": "這項研究的結果可能引發對特朗普關稅政策的重新評估。支持者可能會強調提高稅收的正面影響，而批評者則可能指出政策未能有效促進經濟增長。企業界可能會對未來的貿易政策感到不安，尤其是在全球供應鏈重組的背景下。此外，這一結果也可能影響未來政府的貿易決策，尤其是在選舉期間，候選人可能會重新考量關稅政策的利弊。"
         },
         "topic_priority_score": 9,
-        "event_type": "macro_signal",
-        "is_major_update": true,
+        "event_type": "corporate_results",
         "supporting_sources": [
-          "Nikkei Asia",
-          "The Economist",
-          "BBC Business",
-          "Reuters"
+          "The Economist"
         ],
         "supporting_titles": [
-          "India's trade deficit with China set to cross $100bn for first time",
-          "Trump’s trade deals try a creative way to hobble China",
-          "Australia and EU agree sweeping trade deal in face of global uncertainty",
-          "US business activity slips to 11-month low in March amid Iran war, S&P Global survey shows - Reuters"
+          "Donald Trump’s Greenland tariffs are no great blow to Europe"
         ],
         "supporting_links": [
-          "https://asia.nikkei.com/economy/trade/india-s-trade-deficit-with-china-set-to-cross-100bn-for-first-time",
-          "https://www.economist.com/finance-and-economics/2025/07/08/trumps-trade-deals-try-a-creative-way-to-hobble-china",
-          "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss",
-          "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNHZkV2FteGV2alg2X1JnT1Nud1pmSkV4WjJQcV8wYVJqTUwtVHMtX3NIQmtzRk51V2hxbmk0Nmc5a2JVcDNzQUZITnpzcmR5WXAwVXlkLUUzTGg5UmV5aVhYNDNDMzdXWWpfa2UwTGVYZ0g4dlJPV3FSU3d3Z1hKZ2hBanpwNTRUTkJGc1NzVkVlbHBuSndyb0FOTTdJaGtpbmhMa0VCNDF1UmdfX2hLYVgxRk9wUElSS3Fqc1FR?oc=5"
+          "https://www.economist.com/finance-and-economics/2026/01/19/donald-trumps-greenland-tariffs-are-no-great-blow-to-europe"
         ],
-        "source_count": 5
+        "source_count": 2
       }
     ]
   },
   "further_reading": {
     "technology": [
+      {
+        "title": "Convicted spyware chief hints that Greece’s government was behind dozens of phone hacks",
+        "link": "https://techcrunch.com/2026/03/25/convicted-spyware-chief-hints-that-greeces-government-was-behind-dozens-of-phone-hacks/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-03-25T21:19:57+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "Razer’s new Blade 16 gaming laptop has an Intel Panther Lake chip and very fast RAM",
+        "link": "https://www.theverge.com/gadgets/900518/razers-new-blade-16-gaming-laptop-has-an-intel-panther-lake-chip-and-very-fast-ram",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-03-25T20:36:58+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "‘It does feel like an intimidation campaign’: why is US tech giant Palantir suing a small Swiss magazine?",
+        "link": "https://www.theguardian.com/global-development/2026/mar/20/us-tech-giant-palantir-swiss-magazine-wav",
+        "source_name": "The Guardian Technology",
+        "published_at_utc": "2026-03-20T06:00:12+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "Inside China’s robotics revolution",
+        "link": "https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution",
+        "source_name": "The Guardian Technology",
+        "published_at_utc": "2026-03-19T05:01:00+00:00",
+        "relevance_score": 12
+      },
       {
         "title": "The Gulf was Silicon Valley’s bet on the future. Trump has put it in the crosshairs",
         "link": "https://restofworld.org/2026/gulf-war-aws-data-center-attack-ai-investment-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
@@ -433,154 +463,112 @@
         "relevance_score": 8
       },
       {
-        "title": "‘It does feel like an intimidation campaign’: why is US tech giant Palantir suing a small Swiss magazine?",
-        "link": "https://www.theguardian.com/global-development/2026/mar/20/us-tech-giant-palantir-swiss-magazine-wav",
-        "source_name": "The Guardian Technology",
-        "published_at_utc": "2026-03-20T06:00:12+00:00",
-        "relevance_score": 0
+        "title": "The AI Hype Index: AI goes to war",
+        "link": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+        "source_name": "MIT Technology Review",
+        "published_at_utc": "2026-03-25T09:00:00+00:00",
+        "relevance_score": 15
       },
       {
-        "title": "Inside China’s robotics revolution",
-        "link": "https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution",
-        "source_name": "The Guardian Technology",
-        "published_at_utc": "2026-03-19T05:01:00+00:00",
-        "relevance_score": 0
-      },
-      {
-        "title": "Nvidia CEO tries to explain why DLSS 5 isn’t just “AI slop”",
-        "link": "https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-03-23T21:19:51+00:00",
-        "relevance_score": -4
-      },
-      {
-        "title": "OpenAI ends Disney partnership as it closes Sora video-making app",
-        "link": "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Technology",
-        "published_at_utc": "2026-03-25T04:48:56+00:00",
-        "relevance_score": 16
-      },
-      {
-        "title": "OpenAI announces plans to shut down its Sora video generator",
-        "link": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-03-24T21:19:50+00:00",
-        "relevance_score": 16
-      },
-      {
-        "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
-        "link": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+        "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+        "link": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-03-24T23:57:55+00:00",
+        "published_at_utc": "2026-03-25T21:44:13+00:00",
         "relevance_score": 14
       },
       {
-        "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
-        "link": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+        "title": "Google launches Lyria 3 Pro music generation model",
+        "link": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-03-24T22:22:57+00:00",
+        "published_at_utc": "2026-03-25T16:37:43+00:00",
         "relevance_score": 14
       }
     ],
     "politics": [
       {
-        "title": "Australia backs Lebanon’s sovereignty and opposes occupation, Penny Wong tells Israel",
-        "link": "https://www.theguardian.com/australia-news/2026/mar/25/penny-wong-tells-israel-australia-backs-lebanons-sovereignty-and-opposes-occupation",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-03-25T04:07:11+00:00",
+        "title": "Iran war deflects attention from Ukraine as Russia starts spring offensive",
+        "link": "https://www.scmp.com/news/world/europe/article/3347956/iran-war-deflects-attention-ukraine-russia-starts-spring-offensive?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-03-26T06:08:22+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Russia, Ukraine tit-for-tat attacks knock out power for over half a million",
-        "link": "https://www.aljazeera.com/news/2026/3/25/russia-ukraine-tit-for-tat-attacks-knock-out-power-for-over-half-a-million?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-03-25T08:21:08+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Russia launches 948 drones at Ukraine in largest attack over 24-hour period",
-        "link": "https://www.bbc.com/news/articles/cz90gpyw90wo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC World",
-        "published_at_utc": "2026-03-24T21:47:10+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Pete said, ‘Let’s do it’: Trump on decision-making over Iran attack",
-        "link": "https://www.thehindu.com/news/international/pete-said-lets-do-it-trump-on-decision-making-over-iran-attack/article70779303.ece",
+        "title": "North Korea, Belarus sign ‘friendship’ treaty during Lukashenko visit",
+        "link": "https://www.thehindu.com/news/international/north-korea-belarus-sign-friendship-treaty-during-lukashenko-visit/article70787249.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-03-24T11:23:21+00:00",
-        "relevance_score": 14
+        "published_at_utc": "2026-03-26T07:43:44+00:00",
+        "relevance_score": 17
       },
       {
-        "title": "Russian weapons, tactics seen in Ukraine are shaping Myanmar’s civil war",
-        "link": "https://www.aljazeera.com/news/2026/3/24/russian-weapons-tactics-seen-in-ukraine-are-shaping-myanmars-civil-war?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-03-24T23:43:51+00:00",
+        "title": "Lukashenko greeted by Kim Jong-un on Belarus leader’s first visit to North Korea",
+        "link": "https://www.scmp.com/news/asia/east-asia/article/3347922/lukashenko-greeted-kim-jong-un-belarus-leaders-first-visit-north-korea?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-03-25T23:33:07+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "US strikes against Iran-backed militias in Iraq reportedly continue as Baghdad warns of 'right to respond'",
+        "link": "https://www.foxnews.com/world/us-strikes-against-iran-backed-militias-iraq-reportedly-continue-baghdad-warns-right-respond",
+        "source_name": "Fox News World",
+        "published_at_utc": "2026-03-25T15:09:31+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Russia says it shot down almost 400 Ukrainian drones as Moscow, Kyiv escalate aerial barrages",
+        "link": "https://www.thehindu.com/news/international/russia-says-it-shot-down-almost-400-ukrainian-drones-as-moscow-kyiv-escalate-aerial-barrages/article70785468.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-03-25T18:19:29+00:00",
         "relevance_score": 13
       },
       {
-        "title": "Russia fires nearly 1,000 drones in one of its largest aerial attacks on Ukraine",
-        "link": "https://www.theguardian.com/world/2026/mar/24/russia-strikes-civilian-areas-ukraine",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-03-24T18:15:48+00:00",
-        "relevance_score": 13
+        "title": "Airstrike in western Anbar kills 7 Iraqi soldiers, wounds 13",
+        "link": "https://www.thehindu.com/news/international/airstrike-in-western-anbar/article70785373.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-03-25T17:29:26+00:00",
+        "relevance_score": 11
+      },
+      {
+        "title": "Churchill, Shakespeare and the UK flag all under siege in modern Britain, commentators say",
+        "link": "https://www.foxnews.com/world/churchill-shakespeare-uk-flag-all-under-siege-modern-britain-commentators-say",
+        "source_name": "Fox News World",
+        "published_at_utc": "2026-03-22T11:00:11+00:00",
+        "relevance_score": 11
       },
       {
         "title": "NATO scrambles jets as Russia fires nearly 400 drones toward Ukraine, signaling new spring offensive",
         "link": "https://www.foxnews.com/world/nato-scrambles-jets-russia-fires-nearly-400-drones-toward-ukraine-signaling-new-spring-offensive",
         "source_name": "Fox News World",
         "published_at_utc": "2026-03-24T17:11:38+00:00",
-        "relevance_score": 13
+        "relevance_score": 9
       },
       {
-        "title": "Russia fires hundreds of drones at Ukraine in deadly massive attack",
-        "link": "https://www.scmp.com/news/world/europe/article/3347764/4-dead-russia-fires-nearly-400-drones-ukraine-signs-spring-offensive-has-begun?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-03-24T16:48:16+00:00",
-        "relevance_score": 13
+        "title": "Responding to the Israel-US vs Iran War: Indonesia’s Board of Peace Dilemma Intensifies",
+        "link": "https://thediplomat.com/2026/03/responding-to-the-israel-us-vs-iran-war-indonesias-board-of-peace-dilemma-intensifies/",
+        "source_name": "The Diplomat",
+        "published_at_utc": "2026-03-18T14:04:00+00:00",
+        "relevance_score": 9
       },
       {
-        "title": "Russia fires nearly 400 drones at Ukraine with signs its spring offensive has started",
-        "link": "https://www.thehindu.com/news/international/russia-fires-nearly-400-drones-at-ukraine-with-signs-its-spring-offensive-has-started/article70781167.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-03-24T17:01:55+00:00",
-        "relevance_score": 11
-      },
-      {
-        "title": "U.S. military pause on Iran attack: India tracking developments, says Centre",
-        "link": "https://www.thehindu.com/news/international/india-closely-monitoring-developments-centre-says-on-trump-pause/article70776684.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-03-23T20:24:46+00:00",
-        "relevance_score": 11
+        "title": "Musketeer d'Artagnan's remains believed found under Dutch church",
+        "link": "https://www.bbc.com/news/articles/cm2rew2dgzzo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-03-25T14:30:39+00:00",
+        "relevance_score": 8
       }
     ],
     "economy": [
       {
-        "title": "Wall Street indexes fall on worries about Middle East war, interest rates - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT20wNUNGYlluM2xZZGczYUhCRGlvZFZrdW1GazNBZ2ZZYXF1cjZ0N1c4T2hQNjUxc1FJMFIyaW9BakQzbC1ZZmJPa0JKQjdSalNBdTBPa3Y5MjJUaWd3Y3RwUTdOU3I5eVQzU0ViWFZ2elFIX1NfTHk1NnpmOFcwRjZPTG1qRHhfWHl6Y1Y4ei1aSmhJeTVBaGM1ekJMa3BvSEV1T0U2UGpLa1J3Ujdv?oc=5",
+        "title": "ECB still set to hold interest rates through 2026, most economists say: Reuters poll - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblFCRDFyNTMxYk1pTGJSOTIzbHdhMDNDbm15OVBJeHdyVFlwaTZ6OFA2Sng0ZnpFblh1WVFuM3hGQldkUU5ha0FYRHRzUzgyX1RrNEZUTnMzczJNQm9Rd1h3TWIwcVI4LTVNTlZzTEhQNTNzNmh5NmRWSGNKZ21Za2dTaURadi0zOHlpMHpTaTFVX1FUbE9lUF9fSUxjUFVXY0o1bnRFRlNBc3o1MWVwVw?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-03-24T09:36:30+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Global markets brace for rate hikes as prolonged Iran war stokes tightening fears",
-        "link": "https://www.scmp.com/business/china-business/article/3347552/global-markets-brace-rate-hikes-iran-war-and-us100-oil-stoke-tightening-fears?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-03-23T06:09:38+00:00",
-        "relevance_score": 16
+        "published_at_utc": "2026-03-25T12:04:03+00:00",
+        "relevance_score": 15
       },
       {
         "title": "War-induced interest rate shocks unlikely to upset Asia’s property markets",
         "link": "https://www.scmp.com/opinion/asia-opinion/article/3347540/war-induced-interest-rate-shocks-unlikely-upset-asias-property-markets?utm_source=rss_feed",
         "source_name": "SCMP Business",
         "published_at_utc": "2026-03-23T08:30:09+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "Potential rate cut pause, geopolitical tensions may cloud Hong Kong property recovery",
-        "link": "https://www.scmp.com/business/article/3347469/potential-rate-cut-pause-geopolitical-tensions-may-cloud-hong-kong-property-recovery?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-03-22T23:30:16+00:00",
         "relevance_score": 14
       },
       {
@@ -624,6 +612,20 @@
         "source_name": "The Economist",
         "published_at_utc": "2025-09-01T19:20:16+00:00",
         "relevance_score": 10
+      },
+      {
+        "title": "How Trump’s war on the Federal Reserve could do serious damage",
+        "link": "https://www.economist.com/finance-and-economics/2025/08/28/how-trumps-war-on-the-federal-reserve-could-do-serious-damage",
+        "source_name": "The Economist",
+        "published_at_utc": "2025-08-28T09:56:45+00:00",
+        "relevance_score": 10
+      },
+      {
+        "title": "Which Kevin Hassett would lead the Federal Reserve?",
+        "link": "https://www.economist.com/finance-and-economics/2025/12/03/which-kevin-hassett-would-lead-the-federal-reserve",
+        "source_name": "The Economist",
+        "published_at_utc": "2025-12-03T19:26:16+00:00",
+        "relevance_score": 8
       }
     ]
   },
@@ -633,5 +635,5 @@
     "failed": 0,
     "total": 9
   },
-  "theme_of_day": "今日新聞的整體脈絡顯示出科技、政治與經濟三個領域的相互影響。科技版面中，蘋果與國防部的動作反映出AI技術在國際安全與商業應用中的重要性，並可能影響未來的投資決策。政治版面則因俄烏戰爭影響能源供應，進一步加劇了全球經濟的不穩定性，特別是中國消費品工廠因成本上升而減產，這與經濟版面中美國聯邦儲備局的政策走向相互交織，顯示出地緣政治對經濟市場的深遠影響。"
+  "theme_of_day": "今日新聞的整體脈絡顯示出科技、政治與經濟三個領域之間的相互影響。科技版面報導的電池壽命進步及AI安全問題，反映出在全球競爭與數位安全日益重要的背景下，企業如何應對挑戰。而在政治方面，烏克蘭局勢與台灣立法委員的爭議，則顯示出地緣政治對國內政策的影響，進一步加劇了市場的不確定性，特別是在經濟版面中提到的全球央行加息預期與消費者信心下滑，均與當前的政治氣候緊密相關。"
 }

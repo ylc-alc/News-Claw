@@ -79,25 +79,45 @@
           "trade_wars"
         ]
       }
+    },
+    {
+      "date": "2026-03-26",
+      "topics": {
+        "technology": [
+          "chips",
+          "ai",
+          "cybersecurity"
+        ],
+        "politics": [
+          "war_and_conflict",
+          "us_china_relations",
+          "uk_politics"
+        ],
+        "economy": [
+          "interest_rates",
+          "inflation",
+          "trade_wars"
+        ]
+      }
     }
   ],
   "rolling_frequency": {
     "technology": {
-      "chips": 4,
-      "cybersecurity": 4,
-      "ai": 4
+      "chips": 5,
+      "cybersecurity": 5,
+      "ai": 5
     },
     "politics": {
-      "war_and_conflict": 4,
-      "us_china_relations": 4,
-      "uk_politics": 4
+      "war_and_conflict": 5,
+      "us_china_relations": 5,
+      "uk_politics": 5
     },
     "economy": {
-      "interest_rates": 4,
-      "inflation": 4,
-      "trade_wars": 4
+      "interest_rates": 5,
+      "inflation": 5,
+      "trade_wars": 5
     }
   },
   "window_days": 30,
-  "last_updated": "2026-03-25"
+  "last_updated": "2026-03-26"
 }
