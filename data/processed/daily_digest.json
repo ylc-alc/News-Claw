@@ -1,98 +1,66 @@
 {
-  "generated_at_utc": "2026-03-28T08:27:44.566302+00:00",
+  "generated_at_utc": "2026-03-29T08:29:19.548392+00:00",
   "summary": {
-    "total_raw_items": 1097,
-    "total_deduped_items": 1088,
+    "total_raw_items": 1083,
+    "total_deduped_items": 1075,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
         "chips",
-        "ai",
-        "cybersecurity"
+        "cybersecurity",
+        "ai"
       ],
       "politics": [
         "war_and_conflict",
         "us_china_relations",
-        "uk_politics"
+        "eu_policy"
       ],
       "economy": [
         "interest_rates",
-        "inflation",
-        "trade_wars"
+        "trade_wars",
+        "inflation"
       ]
     },
-    "multi_source_selected_count": 7
+    "multi_source_selected_count": 8
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "Physical Intelligence is reportedly in talks to raise $1 billion, again",
-        "link": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
-        "summary": "The deal would effectively double the company's $5.6 billion valuation in just four months.",
-        "published": "Fri, 27 Mar 2026 23:59:40 +0000",
-        "updated": "Fri, 27 Mar 2026 23:59:40 +0000",
-        "published_at_utc": "2026-03-27T23:59:40+00:00",
-        "id": "https://techcrunch.com/?p=3107286",
+        "source_name": "The Guardian Technology",
+        "title": "‘It does feel like an intimidation campaign’: why is US tech giant Palantir suing a small Swiss magazine?",
+        "link": "https://www.theguardian.com/global-development/2026/mar/20/us-tech-giant-palantir-swiss-magazine-wav",
+        "summary": "An investigation by journalists working with Republik magazine may have struck a nerve by suggesting the company has failed in Switzerland It was over beers on an autumn evening in Zurich in 2024 that a group of journalists with an independent Swiss research collective began to discuss investigating Palantir, one of the world’s biggest tech companies. Three years earlier, Palantir had advertised that it was setting up a “European hub” in the Swiss municipality of Altendorf, a sleepy town of roughly 7,000 people on the shores of Lake Zurich. Continue reading...",
+        "published": "Fri, 20 Mar 2026 06:00:12 GMT",
+        "updated": "2026-03-20T06:00:12Z",
+        "published_at_utc": "2026-03-20T06:00:12+00:00",
+        "id": "https://www.theguardian.com/global-development/2026/mar/20/us-tech-giant-palantir-swiss-magazine-wav",
         "topic_type": "chips",
-        "relevance_score": 14,
+        "relevance_score": 12,
         "briefing": {
-          "news_focus": "The deal would effectively double the company's $5.6 billion valuation in just four months.",
-          "news_focus_zh": "Physical Intelligence 正在洽談籌集 10 億美元的資金，若成功將使公司估值在四個月內從 56 億美元翻倍。",
-          "background": "Physical Intelligence 是一家專注於物理智能技術的公司，近年來隨著自動化和人工智慧的快速發展，該領域受到廣泛關注。公司在短時間內獲得高額估值，顯示出市場對其技術潛力的強烈信心。此輪融資若成功，將進一步鞏固其在行業中的領導地位，並可能吸引更多投資者的目光。",
+          "news_focus": "An investigation by journalists working with Republik magazine may have struck a nerve by suggesting the company has failed in Switzerland It was over beers on an autumn evening in Zurich in 2024 that a group of journalists with an independent Swiss research collective began to discuss investigating Palantir, one of the world’s biggest tech companies. Three years earlier, Palantir had advertised that it was setting up a “European hub” in the Swiss municipality of Altendorf, a sleepy town of roughly 7,000 people on the shores of Lake Zurich. Continue reading...",
+          "news_focus_zh": "美國科技巨頭Palantir對瑞士小型雜誌Republik提起訴訟，原因是該雜誌的調查報導暗示Palantir在瑞士的業務表現不佳，可能對其聲譽造成影響。",
+          "background": "Palantir成立於2003年，專注於數據分析和大數據技術，並在全球範圍內提供服務。2019年，Palantir宣佈在瑞士設立歐洲樞紐，旨在擴展其在歐洲市場的影響力。然而，隨著時間的推移，該公司在當地的實際表現受到質疑，這引發了媒體的關注與調查，進而導致了目前的法律糾紛。",
           "stakeholders": [
-            "Physical Intelligence",
-            "投資者",
-            "競爭對手",
-            "行業分析師",
-            "科技創新者"
+            "Palantir",
+            "Republik雜誌",
+            "瑞士媒體界",
+            "科技產業",
+            "公共輿論"
           ],
-          "analysis": "此次融資談判顯示出市場對 Physical Intelligence 的強烈需求，可能反映出投資者對物理智能技術未來增長潛力的樂觀預期。然而，這也可能引發對公司估值合理性的質疑，尤其是在短期內估值翻倍的情況下。競爭對手可能會加大投入以維持市場份額，進一步加劇行業競爭。"
+          "analysis": "Palantir的訴訟行為可能被視為對媒體自由的打壓，這引發了對企業在公共輿論中角色的討論。對於Palantir而言，維護公司形象至關重要，尤其是在面對競爭激烈的科技市場時。而對於Republik雜誌及其記者來說，這一事件則突顯了獨立媒體在監督大型企業方面的重要性。未來，若Palantir的訴訟未能成功，可能會鼓勵更多媒體進行深入調查，反之則可能使企業在面對批評時更加謹慎。"
         },
         "topic_priority_score": 10,
-        "event_type": "partnership_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
-        "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
-        "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
-        "published": "Fri, 27 Mar 2026 21:44:45 +0000",
-        "updated": "Fri, 27 Mar 2026 21:44:45 +0000",
-        "published_at_utc": "2026-03-27T21:44:45+00:00",
-        "id": "https://techcrunch.com/?p=3107152",
-        "topic_type": "ai",
-        "relevance_score": 18,
-        "briefing": {
-          "news_focus": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
-          "news_focus_zh": "軟銀獲得來自摩根大通和高盛的400億美元無擔保貸款，這一舉措被解讀為其可能在2026年進行OpenAI的IPO的前奏。",
-          "background": "軟銀集團在過去幾年中積極投資於科技領域，特別是人工智慧和初創公司。OpenAI作為其投資組合中的重要一環，隨著AI技術的快速發展，市場對其IPO的期待日益增長。此次貸款不僅顯示出金融機構對軟銀的信心，也反映出資本市場對AI未來潛力的看好，尤其是在全球對AI技術需求上升的背景下。",
-          "stakeholders": [
-            "軟銀集團",
-            "摩根大通",
-            "高盛",
-            "OpenAI",
-            "投資者"
-          ],
-          "analysis": "此次貸款的發放對於軟銀來說是一個重要的資金來源，可能用於支持其在AI領域的擴張及OpenAI的上市計畫。摩根大通和高盛的參與顯示出他們對AI市場的看好，但也可能帶來競爭壓力，特別是對其他科技公司的IPO計畫。投資者需關注市場對OpenAI的評價及其在IPO過程中的表現，這將影響整個科技股市場的動態。"
-        },
-        "topic_priority_score": 9,
         "event_type": "regulation_action",
         "supporting_sources": [
-          "Ars Technica"
+          "BBC Technology"
         ],
         "supporting_titles": [
-          "With new plugins feature, OpenAI officially takes Codex beyond coding"
+          "Tech Now"
         ],
         "supporting_links": [
-          "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/"
+          "https://www.bbc.co.uk/iplayer/episode/m002tkdv?at_medium=RSS&at_campaign=rss"
         ],
         "source_count": 2
       },
@@ -110,306 +78,317 @@
         "relevance_score": 18,
         "briefing": {
           "news_focus": "The European Union's top executive body has confirmed a cyberattack after hackers reportedly stole reams of data from the European Commission's cloud storage.",
-          "news_focus_zh": "歐洲聯盟執行委員會確認發生網路攻擊，駭客聲稱從其雲端儲存系統竊取大量數據，這一事件引發對數據安全的關注。",
-          "background": "隨著數位轉型的加速，歐洲聯盟在推動數據共享與雲端服務的同時，也面臨日益嚴峻的網路安全挑戰。過去幾年，歐盟已經加強了對數據保護的立法，例如GDPR，但仍然無法完全防範網路攻擊。此次事件突顯了雲端基礎設施的脆弱性，並可能影響公眾對數據安全的信任。",
+          "news_focus_zh": "歐洲聯盟執行委員會確認發生網路攻擊，駭客聲稱竊取了大量資料，這一事件引發了對其雲端儲存安全性的擔憂。",
+          "background": "隨著數位化進程加速，歐洲聯盟在網路安全方面的挑戰日益增加。過去幾年，歐盟已推出多項政策以增強網路安全，包括GDPR和網路安全法。然而，這次攻擊顯示出現有防護措施的不足，特別是在處理敏感數據方面的脆弱性。",
           "stakeholders": [
             "歐洲聯盟執行委員會",
             "駭客組織",
-            "歐洲各國政府",
-            "雲端服務提供商",
-            "公眾與消費者"
+            "雲端服務供應商",
+            "成員國政府",
+            "網路安全專家"
           ],
-          "analysis": "此次網路攻擊對歐洲聯盟的影響深遠。首先，執行委員會必須面對公眾對數據安全的質疑，可能導致對其數據保護政策的重新評估。其次，駭客的行為可能促使各國加強網路安全防護措施，並促進相關產業的發展。然而，若駭客的身份與動機未明，可能引發各國間的指責與緊張局勢，特別是在地緣政治緊張的背景下。"
+          "analysis": "此次攻擊的確認標誌著歐洲聯盟在網路安全上的一個重大轉折點，因為這是針對其最高執行機構的直接攻擊，可能導致對數據保護政策的重新評估。與先前的網路攻擊相比，此次事件突顯了雲端儲存的安全漏洞，並可能促使歐盟加強對雲端服務供應商的監管。此外，這也可能引發成員國間對於網路安全責任的討論，進一步影響未來的政策制定。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
+        "is_major_update": true,
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
         "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "Wired",
+        "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
+        "link": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
+        "summary": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
+        "published": "Fri, 27 Mar 2026 10:30:00 +0000",
+        "updated": "Fri, 27 Mar 2026 10:30:00 +0000",
+        "published_at_utc": "2026-03-27T10:30:00+00:00",
+        "id": "69c40d0935fd13aa40807d68",
+        "topic_type": "ai",
+        "relevance_score": 12,
+        "briefing": {
+          "news_focus": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
+          "news_focus_zh": "OpenAI的ChatGPT在美國的免費版本中開始推出廣告。為了了解這些廣告的內容及其與使用者提問的關聯性，一位用戶對ChatGPT提出了500個問題，並分析了所見廣告的類型。",
+          "background": "隨著AI技術的普及，OpenAI面臨著如何在商業模式上獲利的挑戰。推出廣告是其免費服務的一種變現方式，旨在吸引更多使用者同時增加收入。此舉也反映了科技公司在提供免費服務與維持盈利之間的平衡，特別是在競爭激烈的AI市場中。",
+          "stakeholders": [
+            "OpenAI",
+            "使用者",
+            "廣告商",
+            "數據隱私監管機構"
+          ],
+          "analysis": "廣告的推出可能會影響使用者體驗，尤其是對於那些習慣無廣告環境的用戶。OpenAI可能希望透過這種方式來獲取使用者數據，以進一步優化廣告投放。然而，這也引發了對於隱私和數據使用的擔憂，特別是在美國對於數據保護的法律環境日益嚴格的背景下。廣告商則可能會對廣告效果的回報率有更高的期待，進一步影響其廣告策略。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "strategic_move",
+        "supporting_sources": [
+          "The Guardian Technology"
+        ],
+        "supporting_titles": [
+          "In the killer world of online gaming, there are no hits any more – just survivors"
+        ],
+        "supporting_links": [
+          "https://www.theguardian.com/games/2026/mar/19/in-the-killer-world-of-online-gaming-there-are-no-hits-any-more-just-survivors"
+        ],
+        "source_count": 2
       }
     ],
     "politics": [
       {
         "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "Rubio sees U.S. action in Iran completed in weeks as airstrikes rumble on",
-        "link": "https://www.thehindu.com/news/international/rubio-sees-us-action-in-iran-completed-in-weeks-as-airstrikes-rumble-on/article70795587.ece",
-        "summary": "",
-        "published": "Sat, 28 Mar 2026 13:30:18 +0530",
-        "updated": "Sat, 28 Mar 2026 13:30:18 +0530",
-        "published_at_utc": "2026-03-28T08:00:18+00:00",
-        "id": "article-70795587",
+        "source_name": "SCMP World",
+        "title": "Iran-linked hackers open low-cost digital front as US-Israeli attacks mount",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3348285/iran-linked-hackers-open-low-cost-digital-front-us-israeli-attacks-mount?utm_source=rss_feed",
+        "summary": "As they fled an Iranian missile strike, some Israelis with Android phones received a text offering a link to real-time information about bomb shelters. But instead of a helpful app, the link downloaded spyware giving hackers access to the device’s camera, location and all its data. The operation, attributed to Iran, showed sophisticated coordination and is just the latest tactic in a cyber conflict that pits the US and Israel against Iran and its digital proxies. As Iran and its supporters seek...",
+        "published": "Sun, 29 Mar 2026 06:49:43 +0000",
+        "updated": "Sun, 29 Mar 2026 06:49:43 +0000",
+        "published_at_utc": "2026-03-29T06:49:43+00:00",
+        "id": "https://www.scmp.com/news/world/middle-east/article/3348285/iran-linked-hackers-open-low-cost-digital-front-us-israeli-attacks-mount?utm_source=rss_feed",
         "topic_type": "war_and_conflict",
-        "relevance_score": 17,
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "Rubio sees U.S. action in Iran completed in weeks as airstrikes rumble on",
-          "news_focus_zh": "美國參議員馬可·魯比奧表示，對伊朗的行動預計在幾週內完成，與此同時，空襲仍在持續進行中。",
-          "background": "美國與伊朗之間的緊張關係已持續多年，尤其是在核協議破裂後。美國經常對伊朗的軍事行動和地區影響力表示擔憂，並對其進行制裁。近期的空襲可能是美國對伊朗在中東地區擴張影響力的回應，顯示出美國在該地區的軍事介入仍然活躍。",
+          "news_focus": "As they fled an Iranian missile strike, some Israelis with Android phones received a text offering a link to real-time information about bomb shelters. But instead of a helpful app, the link downloaded spyware giving hackers access to the device’s camera, location and all its data. The operation, attributed to Iran, showed sophisticated coordination and is just the latest tactic in a cyber conflict that pits the US and Israel against Iran and its digital proxies. As Iran and its supporters seek...",
+          "news_focus_zh": "伊朗相關黑客在美以攻擊加劇的背景下，展開低成本的數位攻擊行動，利用假冒的應用程式向以色列民眾散播間諜軟體，顯示出其在網絡戰中的高效協調能力。",
+          "background": "隨著美國和以色列對伊朗及其盟友的軍事壓力加大，伊朗的網絡攻擊行為也日益增強。這些攻擊不僅針對軍事目標，還擴展至平民，利用社交工程手段來獲取敏感信息。伊朗的網絡戰策略已經成為其對抗西方國家的重要工具，特別是在地緣政治緊張局勢上升的情況下。",
           "stakeholders": [
-            "美國政府",
             "伊朗政府",
-            "中東盟友",
-            "國際社會",
-            "軍事承包商"
+            "以色列政府",
+            "美國政府",
+            "網絡安全公司",
+            "國際社會"
           ],
-          "analysis": "魯比奧的言論反映了美國政府對伊朗的強硬立場，顯示出在國內外壓力下，美國可能加速其軍事行動。這對伊朗來說是一個重大挑戰，可能導致其進一步強化防禦措施或尋求盟友支持。另一方面，這也可能引發國際社會的關注與反對，特別是那些對美國軍事行動持批評態度的國家，如俄羅斯和中國。"
+          "analysis": "此次事件顯示出伊朗在網絡戰中的適應能力和創新策略，對以色列及其盟友構成了新的威脅。以色列可能會加強網絡防禦措施，並考慮對伊朗的網絡基礎設施進行報復性攻擊。美國則可能在情報共享和技術支援方面加強與以色列的合作。這場網絡衝突的升級可能導致更廣泛的地區不穩定，並引發國際社會的關注。"
         },
         "topic_priority_score": 11,
-        "event_type": "political_signal",
+        "event_type": "security_event",
         "supporting_sources": [
-          "The Guardian World",
-          "Al Jazeera"
+          "Al Jazeera",
+          "Fox News World",
+          "The Hindu International"
         ],
         "supporting_titles": [
-          "UK ‘weeks away’ from medicine shortages if Iran war continues, experts say",
-          "How the US-Israel war on Iran unfolded in its first four weeks"
+          "As war on Iran enters second month, Yemen’s Houthis open new front",
+          "Iran-backed Houthis open third front against Israel as Tehran seeks leverage ahead of talks",
+          "Iran-linked hackers breach FBI director Kash Patel's personal email, publish photos and documents"
         ],
         "supporting_links": [
-          "https://www.theguardian.com/business/2026/mar/28/uk-weeks-away-medicine-shortages-iran-war-impacts-experts-warn",
-          "https://www.aljazeera.com/news/2026/3/28/how-the-us-israel-war-on-iran-unfolded-in-its-first-four-weeks?traffic_source=rss"
+          "https://www.aljazeera.com/news/2026/3/29/as-war-on-iran-enters-second-month-yemens-houthis-open-new-front?traffic_source=rss",
+          "https://www.foxnews.com/world/iran-backed-houthis-open-third-front-against-israel-tehran-seeks-leverage-ahead-talks",
+          "https://www.thehindu.com/news/international/iran-linked-hackers-breach-fbi-director-kash-patels-personal-email-publish-photos-and-documents/article70795233.ece"
         ],
-        "source_count": 3
+        "source_count": 4
       },
       {
         "category": "politics",
-        "source_name": "SCMP World",
-        "title": "Asean countries warned against exploiting US-China tensions for short-term gain",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3348238/asean-countries-warned-against-exploiting-us-china-tensions-short-term-gain?utm_source=rss_feed",
-        "summary": "A prominent Chinese political scientist has cautioned Southeast Asian countries against leveraging China-US tensions for short-term benefits, saying this strategy could backfire. Speaking on the sidelines of the Boao Forum for Asia on Friday, Zheng Yongnian, dean of the school of public policy at the Chinese University of Hong Kong, Shenzhen, said that in the context of South China Sea sovereignty disputes, the key challenge lay in how countries interpreted the China-US rivalry. “Many countries...",
-        "published": "Sat, 28 Mar 2026 08:00:08 +0000",
-        "updated": "Sat, 28 Mar 2026 08:00:08 +0000",
-        "published_at_utc": "2026-03-28T08:00:08+00:00",
-        "id": "https://www.scmp.com/news/china/diplomacy/article/3348238/asean-countries-warned-against-exploiting-us-china-tensions-short-term-gain?utm_source=rss_feed",
+        "source_name": "The Diplomat",
+        "title": "Is the Philippines Really About to Restart Joint Oil Exploration With China in the South China Sea?",
+        "link": "https://thediplomat.com/2026/03/is-the-philippines-really-about-to-restart-joint-oil-exploration-with-china-in-the-south-china-sea/",
+        "summary": "Even in the context of the current \"energy emergency,\" President Marcos' proposal would have to surmount considerable constitutional and political hurdles.",
+        "published": "Thu, 26 Mar 2026 09:32:00 +0900",
+        "updated": "Thu, 26 Mar 2026 09:32:00 +0900",
+        "published_at_utc": "2026-03-26T00:32:00+00:00",
+        "id": "https://thediplomat.com/2026/03/is-the-philippines-really-about-to-restart-joint-oil-exploration-with-china-in-the-south-china-sea/",
         "topic_type": "us_china_relations",
-        "relevance_score": 17,
+        "relevance_score": 13,
         "briefing": {
-          "news_focus": "A prominent Chinese political scientist has cautioned Southeast Asian countries against leveraging China-US tensions for short-term benefits, saying this strategy could backfire. Speaking on the sidelines of the Boao Forum for Asia on Friday, Zheng Yongnian, dean of the school of public policy at the Chinese University of Hong Kong, Shenzhen, said that in the context of South China Sea sovereignty disputes, the key challenge lay in how countries interpreted the China-US rivalry. “Many countries...",
-          "news_focus_zh": "中國政治學者鄭永年在博鰲亞洲論壇上警告東南亞國家，切勿利用中美緊張關係來獲取短期利益，否則可能會適得其反，特別是在南海主權爭議的背景下，國家對中美競爭的解讀將成為關鍵挑戰。",
-          "background": "中美兩國在南海的主權爭議持續升溫，東南亞國家面臨在兩大強權之間的選擇。隨著地緣政治的變化，部分國家可能會試圖利用這一局勢以獲取經濟或政治利益。然而，這種短視行為可能會導致更深層的地緣政治風險，影響區域穩定。鄭永年的警告反映了對於長期戰略思考的重要性。",
+          "news_focus": "Even in the context of the current \"energy emergency,\" President Marcos' proposal would have to surmount considerable constitutional and political hurdles.",
+          "news_focus_zh": "菲律賓總統馬科斯提出重啟與中國在南海的聯合油氣勘探計劃，但此提案面臨憲法及政治障礙，尤其在當前能源危機的背景下。",
+          "background": "菲律賓與中國在南海的油氣資源開發長期以來存在爭議，涉及主權與國際法的複雜性。過去幾年，菲律賓在美國的支持下，對中國的海洋主權主張持較為強硬的立場。然而，隨著全球能源價格上漲，菲律賓面臨能源安全挑戰，這使得重新考慮與中國的合作成為可能選項。",
           "stakeholders": [
-            "中國",
-            "美國",
-            "東南亞國家",
-            "國際企業",
-            "地緣政治分析師"
+            "菲律賓政府",
+            "中國政府",
+            "美國政府",
+            "菲律賓國內反對派",
+            "國際能源市場"
           ],
-          "analysis": "鄭永年的警告強調了東南亞國家在中美競爭中應保持謹慎，避免短期利益的誘惑。各國可能面臨的壓力包括來自中國的經濟合作機會與美國的安全承諾。若選擇過度依賴某一方，可能導致與另一方的關係緊張，進而影響國內政治與經濟穩定。未來，東南亞國家需尋求平衡，以維護自身利益與區域穩定。"
+          "analysis": "此次提案標誌著菲律賓在能源政策上的重大轉變，顯示出馬科斯政府在面對能源危機時，願意重新評估與中國的合作關係。這一變化可能引發國內外的激烈辯論，特別是在憲法和主權問題上。支持者認為這有助於解決能源短缺，而反對者則擔心會削弱國家主權，並可能引發與美國的外交摩擦。此提案的進一步發展將取決於國內政治動態及國際反應。"
         },
         "topic_priority_score": 10,
-        "event_type": "security_event",
+        "event_type": "political_signal",
+        "is_major_update": true,
         "supporting_sources": [
+          "SCMP World",
+          "Taipei Times",
+          "BBC World"
+        ],
+        "supporting_titles": [
+          "New China school system rewards diligent pupils with ‘digital pets’ to motivate them",
+          "South Korea’s view on the “China (Taiwan)” spat",
+          "Noah Wyle is back in A&E with new drama The Pitt: 'I hope people watch with empathy'"
+        ],
+        "supporting_links": [
+          "https://www.scmp.com/news/people-culture/trending-china/article/3347866/new-china-school-system-rewards-diligent-pupils-digital-pets-motivate-them?utm_source=rss_feed",
+          "https://www.taipeitimes.com/News/feat/archives/2026/03/29/2003854643",
+          "https://www.bbc.com/news/articles/czjw37ne208o?at_medium=RSS&at_campaign=rss"
+        ],
+        "source_count": 4
+      },
+      {
+        "category": "politics",
+        "source_name": "The Hindu International",
+        "title": "Missing sailboats carrying aid arrive in Cuba after being located by Mexican Navy",
+        "link": "https://www.thehindu.com/news/international/missing-sailboats-carrying-aid-arrive-in-cuba-after-being-located-by-mexican-navy/article70798621.ece",
+        "summary": "Upon arriving to the island, Adnaan Stumo, the coordinator of the sailing convoy, said bad weather was responsible for the delay because the boats had to take a longer route and the sailors were “never in any serious danger”",
+        "published": "Sun, 29 Mar 2026 07:56:29 +0530",
+        "updated": "Sun, 29 Mar 2026 07:56:29 +0530",
+        "published_at_utc": "2026-03-29T02:26:29+00:00",
+        "id": "article-70798621",
+        "topic_type": "eu_policy",
+        "relevance_score": 15,
+        "briefing": {
+          "news_focus": "Upon arriving to the island, Adnaan Stumo, the coordinator of the sailing convoy, said bad weather was responsible for the delay because the boats had to take a longer route and the sailors were “never in any serious danger”",
+          "news_focus_zh": "一批運載人道援助的帆船在遭遇壞天氣後，最終抵達古巴，並由墨西哥海軍定位。協調員表示，延誤是由於需要繞道而行，船員並未面臨嚴重危險。",
+          "background": "此事件發生在古巴面臨人道危機的背景下，國際社會對該國的援助需求日益增加。墨西哥海軍的介入顯示出該國在地區人道援助中的角色，特別是在加勒比海地區的合作與支持。帆船運送援助的方式，反映了對於傳統運輸方式的替代選擇，尤其是在面對自然災害時。",
+          "stakeholders": [
+            "古巴政府",
+            "墨西哥海軍",
+            "國際人道組織",
+            "當地居民",
+            "航運公司"
+          ],
+          "analysis": "此次事件突顯了人道援助運輸的脆弱性，尤其是在極端天氣條件下。墨西哥海軍的介入不僅展示了其在地區安全與合作中的重要性，也可能提升其在國際人道主義領域的形象。對於古巴而言，這次援助的成功抵達可能緩解當前的援助需求，但同時也反映出其對外部支持的依賴性。各方可能會重新評估未來的援助路徑與合作模式。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "political_signal",
+        "supporting_sources": [
+          "BBC World",
           "The Guardian World"
         ],
         "supporting_titles": [
-          "Breonna Taylor shooting: charges dismissed against ex-police officers for falsifying warrant"
+          "Two Cuba-bound aid ships found days after disappearing",
+          "Missing aid boats have safely reached Cuba, US confirms"
         ],
         "supporting_links": [
-          "https://www.theguardian.com/us-news/2026/mar/27/breonna-taylor-shooting-officer-warrant-charges-dismissed"
+          "https://www.bbc.com/news/articles/clye4w10g22o?at_medium=RSS&at_campaign=rss",
+          "https://www.theguardian.com/world/2026/mar/27/cuba-aid-boats-missing-en-route-mexico-our-america-convoy"
         ],
-        "source_count": 2
-      },
-      {
-        "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "Yemen’s Houthis launch first attack on Israel since outbreak of conflict, as Rubio says war to end in ‘weeks’",
-        "link": "https://www.theguardian.com/world/2026/mar/27/us-expects-iran-operation-to-end-in-weeks-not-months-says-marco-rubio",
-        "summary": "Missile fired from Yemen the first since the Iran war began and came hours after the US secretary set a new timeline for the conflict Middle East crisis – live updates Yemen’s Iran-aligned Houthis have confirmed that they launched an attack on Israel for the first time since the outbreak of the Israel-US war on Iran, marking their entry to the conflict just hours after Marco Rubio said the US expected to conclude military operations within “weeks, not months”. While Israel was again hitting targets across Iran’s capital on Saturday, it identified what it said was a missile launched from Yemen. The Houthis said the attack came after continued targeting of infrastructure in Iran, Lebanon, Iraq and the Palestinian territories, adding that their operations would continue until the “aggression” on all fronts ends. Continue reading...",
-        "published": "Sat, 28 Mar 2026 05:56:41 GMT",
-        "updated": "2026-03-28T05:56:41Z",
-        "published_at_utc": "2026-03-28T05:56:41+00:00",
-        "id": "https://www.theguardian.com/world/2026/mar/27/us-expects-iran-operation-to-end-in-weeks-not-months-says-marco-rubio",
-        "topic_type": "uk_politics",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "Missile fired from Yemen the first since the Iran war began and came hours after the US secretary set a new timeline for the conflict Middle East crisis – live updates Yemen’s Iran-aligned Houthis have confirmed that they launched an attack on Israel for the first time since the outbreak of the Israel-US war on Iran, marking their entry to the conflict just hours after Marco Rubio said the US expected to conclude military operations within “weeks, not months”. While Israel was again hitting targets across Iran’s capital on Saturday, it identified what it said was a missile launched from Yemen. The Houthis said the attack came after continued targeting of infrastructure in Iran, Lebanon, Iraq and the Palestinian territories, adding that their operations would continue until the “aggression” on all fronts ends. Continue reading...",
-          "news_focus_zh": "也門胡塞武裝首次對以色列發動攻擊，標誌著他們在以色列與美國的衝突中首次參戰。此事件發生在美國國務卿馬可·魯比奧預測衝突將在數週內結束之後，顯示出該地區局勢的複雜性與緊張程度。",
-          "background": "自以色列與伊朗之間的衝突升級以來，地區局勢持續緊張。胡塞武裝是伊朗支持的武裝團體，長期以來與沙烏地阿拉伯及其盟友對抗。此次攻擊不僅是胡塞武裝的首次行動，還顯示出伊朗在地區衝突中的影響力，並可能改變各方的軍事策略與外交關係。",
-          "stakeholders": [
-            "以色列",
-            "胡塞武裝",
-            "美國",
-            "伊朗",
-            "沙烏地阿拉伯"
-          ],
-          "analysis": "此次攻擊可能會引發以色列對胡塞武裝的報復行動，進一步加劇地區緊張局勢。美國的預測若無法實現，可能會使其在中東的影響力受到質疑。此外，胡塞武裝的行動可能會激勵其他伊朗盟友參與衝突，導致更大規模的地區戰爭。各方在此事件中的立場差異顯示出對未來局勢的不同預期與策略。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "security_event",
-        "supporting_sources": [
-          "The Hindu International",
-          "Al Jazeera",
-          "Taipei Times",
-          "Fox News World",
-          "The Diplomat"
-        ],
-        "supporting_titles": [
-          "Iran-Israel war LIVE: Israel says it intercepted first incoming missile from Yemen as war in Middle East intensifies",
-          "Yemen’s Houthis launch missile attack on Israel as war on Iran intensifies",
-          "Israel says its attacks on Iran ‘will escalate’",
-          "Israel says Iranian leader who ordered Strait of Hormuz closure killed in targeted strike",
-          "The War on Oil: Iran Conflict and the Global Energy Crisis"
-        ],
-        "supporting_links": [
-          "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-strait-of-hormuz-attacks-march-28-2026/article70795241.ece",
-          "https://www.aljazeera.com/news/2026/3/28/yemens-houthis-claim-responsibility-for-a-missile-attack-on-israel-2?traffic_source=rss",
-          "https://www.taipeitimes.com/News/front/archives/2026/03/28/2003854604",
-          "https://www.foxnews.com/world/israel-says-iranian-leader-who-ordered-strait-hormuz-closure-killed-targeted-strike",
-          "https://thediplomat.com/2026/03/the-war-on-oil-iran-conflict-and-the-global-energy-crisis/"
-        ],
-        "source_count": 6
+        "source_count": 3
       }
     ],
     "economy": [
       {
         "category": "economy",
         "source_name": "The Guardian Business",
-        "title": "UK government borrowing costs hit 5% as Iran war fuels bond market sell-off",
-        "link": "https://www.theguardian.com/business/2026/mar/27/uk-government-borrowing-iran-war-bond-market-sell-off",
-        "summary": "Yields on 10-year debt reach highest since the 2008 financial crisis, raising concerns of faster interest rate rises Middle East crisis – live updates UK government borrowing costs have risen above 5% amid an intensifying global bond market sell-off fuelled by the Iran war . The yield – or interest rate – on 10-year debt hit its highest level since the 2008 financial crisis, rising 13 basis points to 5.081%, as investors acted on concerns about the economic fallout from the conflict. Continue reading...",
-        "published": "Fri, 27 Mar 2026 16:59:52 GMT",
-        "updated": "2026-03-27T16:59:52Z",
-        "published_at_utc": "2026-03-27T16:59:52+00:00",
-        "id": "https://www.theguardian.com/business/2026/mar/27/uk-government-borrowing-iran-war-bond-market-sell-off",
+        "title": "US treasury department demands retraction of story on increased oversight of Federal Reserve",
+        "link": "https://www.theguardian.com/us-news/2026/mar/28/treasury-department-financial-times-federal-reserve",
+        "summary": "Treasury department said Financial Times article about Scott Bessent’s views on Fed oversight was ‘manufactured’ The US treasury department demanded on Friday that the Financial Times (FT) retract a report on treasury secretary Scott Bessent’s views on the Federal Reserve, accusing the newspaper of publishing “false claims” in a formal complaint escalated to the outlet’s parent company, Nikkei Inc. The email from treasury officials, addressed to senior editors at the FT and Nikkei, disputed multiple claims in the story and criticized the headline as misrepresenting the underlying reporting. Continue reading...",
+        "published": "Sat, 28 Mar 2026 20:58:06 GMT",
+        "updated": "2026-03-28T20:58:06Z",
+        "published_at_utc": "2026-03-28T20:58:06+00:00",
+        "id": "https://www.theguardian.com/us-news/2026/mar/28/treasury-department-financial-times-federal-reserve",
         "topic_type": "interest_rates",
         "relevance_score": 18,
         "briefing": {
-          "news_focus": "Yields on 10-year debt reach highest since the 2008 financial crisis, raising concerns of faster interest rate rises Middle East crisis – live updates UK government borrowing costs have risen above 5% amid an intensifying global bond market sell-off fuelled by the Iran war . The yield – or interest rate – on 10-year debt hit its highest level since the 2008 financial crisis, rising 13 basis points to 5.081%, as investors acted on concerns about the economic fallout from the conflict. Continue reading...",
-          "news_focus_zh": "英國政府的借貸成本因伊朗戰爭而上升至5%以上，10年期債券收益率達到自2008年金融危機以來的最高水平，市場對經濟影響的擔憂加劇。",
-          "background": "自2008年金融危機以來，全球債券市場一直受到低利率環境的影響。近期，隨著中東局勢緊張，特別是伊朗戰爭的爆發，投資者對未來經濟前景感到不安，導致債券拋售潮。英國政府的借貸成本上升，反映出市場對經濟增長放緩及通脹壓力的擔憂，並可能促使英國央行重新考慮其利率政策。",
+          "news_focus": "Treasury department said Financial Times article about Scott Bessent’s views on Fed oversight was ‘manufactured’ The US treasury department demanded on Friday that the Financial Times (FT) retract a report on treasury secretary Scott Bessent’s views on the Federal Reserve, accusing the newspaper of publishing “false claims” in a formal complaint escalated to the outlet’s parent company, Nikkei Inc. The email from treasury officials, addressed to senior editors at the FT and Nikkei, disputed multiple claims in the story and criticized the headline as misrepresenting the underlying reporting. Continue reading...",
+          "news_focus_zh": "美國財政部要求《金融時報》撤回一篇報導，該報導涉及財政部長斯科特·貝森對美聯儲監管的看法，並指控該報導為虛假信息。",
+          "background": "美國財政部與美聯儲之間的關係歷來複雜，尤其在金融政策與監管方面。隨著經濟環境變化，對美聯儲的監管需求日益增加，這引發了各方的關注與討論。近期，財政部長的言論被媒體報導後，財政部迅速反駁，顯示出對於媒體報導的敏感性及對於自身形象的重視。",
           "stakeholders": [
-            "英國政府",
-            "投資者",
-            "英國央行",
-            "普通民眾",
-            "國際市場"
+            "美國財政部",
+            "金融時報",
+            "日經新聞",
+            "市場分析師",
+            "投資者"
           ],
-          "analysis": "此次借貸成本上升對英國政府、投資者及普通民眾均有深遠影響。政府將面臨更高的融資成本，可能影響公共支出計劃。投資者則需重新評估風險，可能導致資金流向更安全的資產。普通民眾則可能面臨更高的貸款利率，影響消費信心與支出。各方對於央行是否應該加息以應對通脹的看法存在分歧，這可能進一步加劇市場的不穩定性。"
+          "analysis": "財政部的要求反映出其對於媒體報導的控制欲望，並希望避免對其政策立場的誤解。此事件可能影響財政部與媒體之間的信任關係，並引發對於政府與媒體互動的廣泛討論。不同利益方，如財政部、媒體機構及市場分析師，可能對此事件有不同解讀，財政部希望維護其權威性，而媒體則可能強調報導自由的重要性。"
         },
         "topic_priority_score": 10,
         "event_type": "rate_decision",
         "supporting_sources": [
-          "Reuters",
-          "BBC Business",
-          "Nikkei Asia",
-          "SCMP Business",
           "The Economist"
         ],
         "supporting_titles": [
-          "UK economy shows first hits from Iran war, putting policymakers to the test - Reuters",
-          "How the Iran war may affect your money and bills",
-          "Tata, BMW to hike prices in India as Iran war drives up metal costs",
-          "‘Demand shock’: China cannot escape the impact of a long Iran war, analyst warns",
-          "The Iran war is roiling commodities far beyond oil"
+          "What will Kevin Warsh’s Federal Reserve look like?"
         ],
         "supporting_links": [
-          "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcjhxTU1ubU5ZSWt1dVdNZnRpbWZzRVI0U3dGVFdLMGNrLU1YekJ4d2MtUWV1VERfVW5yZ0RXTGJhdUV4UUU1R21TRGJyb0o2N3VsOURuUmxSVFAyOWltVm1fYzVTeVNqY2lTaEY4NWU0cDBZbFAtM0JEOGZwSHkxbWJwR2dHZi12OFRMUkVkcFRjV3lGWk5SVUROZ2xtVVhudW81S1hsQWRrMm5Sa1NlRWlBUnA?oc=5",
-          "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
-          "https://asia.nikkei.com/spotlight/iran-tensions/tata-bmw-to-hike-prices-in-india-as-iran-war-drives-up-metal-costs",
-          "https://www.scmp.com/economy/china-economy/article/3347932/demand-shock-china-cannot-escape-impact-long-iran-war-analyst-warns?utm_source=rss_feed",
-          "https://www.economist.com/finance-and-economics/2026/03/16/the-iran-war-is-roiling-commodities-far-beyond-oil"
-        ],
-        "source_count": 6
-      },
-      {
-        "category": "economy",
-        "source_name": "Reuters",
-        "title": "US consumer sentiment slides to three-month low as war fans inflation fears - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZlZ3aGNndThVZjQ2WklIOG5xeVJ6dHFueGlFemlSekFnMUdtVmw4bm41bUVOWWc4ZlhTb2NWVV9kVTJpRGVLMUpGcWY0dTYxZVhhZEZvU2pPNFRZeWo1WkNjcDZXQTYtUnFuM1NsYU1TUlN2LU5DbEJFU2JZeTdMZ2t0dXJsRC1McGxQVlpJTklKSVpDT1M1T25R?oc=5",
-        "summary": "US consumer sentiment slides to three-month low as war fans inflation fears Reuters",
-        "published": "Fri, 27 Mar 2026 19:14:57 GMT",
-        "updated": "Fri, 27 Mar 2026 19:14:57 GMT",
-        "published_at_utc": "2026-03-27T19:14:57+00:00",
-        "id": "CBMimgFBVV95cUxPZlZ3aGNndThVZjQ2WklIOG5xeVJ6dHFueGlFemlSekFnMUdtVmw4bm41bUVOWWc4ZlhTb2NWVV9kVTJpRGVLMUpGcWY0dTYxZVhhZEZvU2pPNFRZeWo1WkNjcDZXQTYtUnFuM1NsYU1TUlN2LU5DbEJFU2JZeTdMZ2t0dXJsRC1McGxQVlpJTklKSVpDT1M1T25R",
-        "topic_type": "inflation",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "US consumer sentiment slides to three-month low as war fans inflation fears Reuters",
-          "news_focus_zh": "美國消費者信心指數降至三個月來的最低點，主要受到戰爭引發的通脹擔憂影響。",
-          "background": "近期美國面臨多重挑戰，包括全球地緣政治緊張局勢和持續的通脹壓力。隨著俄烏戰爭的持續，能源和糧食價格上漲，消費者對未來經濟狀況的信心受到打擊。根據歷史數據，消費者信心指數通常與經濟增長和消費支出密切相關，因此其下降可能預示著經濟放緩的風險加大。",
-          "stakeholders": [
-            "美國消費者",
-            "零售商",
-            "美國政府",
-            "美聯儲",
-            "經濟學家"
-          ],
-          "analysis": "消費者信心的下降對零售商和服務業造成直接影響，可能導致消費支出減少，進而影響經濟增長。政府和美聯儲面臨兩難局面，需在控制通脹與促進經濟增長之間取得平衡。部分經濟學家預測，若通脹持續高企，可能迫使美聯儲進一步加息，這將對借貸成本和消費者支出產生負面影響。另一方面，消費者的擔憂也可能促使政府加強對通脹的應對措施，影響政策走向。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "inflation_data",
-        "supporting_sources": [
-          "BBC Business"
-        ],
-        "supporting_titles": [
-          "UK inflation rate stays at 3% before Iran war hits oil prices"
-        ],
-        "supporting_links": [
-          "https://www.bbc.com/news/articles/cx2w47e9v2vo?at_medium=RSS&at_campaign=rss"
+          "https://www.economist.com/finance-and-economics/2026/01/30/what-will-kevin-warshs-federal-reserve-look-like"
         ],
         "source_count": 2
       },
       {
         "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "Why DHL is betting on rising Chinese exports – even as war and tariff risks grow",
-        "link": "https://www.scmp.com/economy/china-economy/article/3347709/why-dhl-betting-rising-chinese-exports-even-war-and-tariff-risks-grow?utm_source=rss_feed",
-        "summary": "Global trade flows are facing severe disruption amid the US-Israel war on Iran and unpredictable tariff policies. But logistics giant DHL still expects its revenues to soar in the coming years thanks in large part to Chinese companies’ rising global ambitions. The resilience of China’s outbound trade is a major reason DHL has maintained such an ambitious growth target even amid the Middle East crisis and constantly changing trade barriers, according to Oscar de Bok, CEO of the firm’s global...",
-        "published": "Tue, 24 Mar 2026 12:00:07 +0000",
-        "updated": "Tue, 24 Mar 2026 12:00:07 +0000",
-        "published_at_utc": "2026-03-24T12:00:07+00:00",
-        "id": "https://www.scmp.com/economy/china-economy/article/3347709/why-dhl-betting-rising-chinese-exports-even-war-and-tariff-risks-grow?utm_source=rss_feed",
+        "source_name": "Reuters",
+        "title": "On Canada's tariff frontline, business stalls over US trade deal jitters - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYkQ2ZWRHUUpRXzlyNG9pX2M3bUN3cGJ0MDdzMjMwdGxzOGQ4MjBMTmJaZUZCeEJTSVBKb095b01yclZZeTZ4Zkl0eWpnbnFzMGxlWnFlazUtU1lWWGpuQVVPdHhSYjNvcFVWU09aMmlDNkVhbjJ6Y3ZKMUNpTzNZYU5IWURFX3E4LWYxZjJYR3gyRDVwYlR0bC1HSzhveHJ3bUtHZ2dzeHB5SWoyNFBza3RjMjlNbjVkMGc?oc=5",
+        "summary": "On Canada's tariff frontline, business stalls over US trade deal jitters Reuters",
+        "published": "Sat, 28 Mar 2026 12:54:11 GMT",
+        "updated": "Sat, 28 Mar 2026 12:54:11 GMT",
+        "published_at_utc": "2026-03-28T12:54:11+00:00",
+        "id": "CBMiugFBVV95cUxOYkQ2ZWRHUUpRXzlyNG9pX2M3bUN3cGJ0MDdzMjMwdGxzOGQ4MjBMTmJaZUZCeEJTSVBKb095b01yclZZeTZ4Zkl0eWpnbnFzMGxlWnFlazUtU1lWWGpuQVVPdHhSYjNvcFVWU09aMmlDNkVhbjJ6Y3ZKMUNpTzNZYU5IWURFX3E4LWYxZjJYR3gyRDVwYlR0bC1HSzhveHJ3bUtHZ2dzeHB5SWoyNFBza3RjMjlNbjVkMGc",
         "topic_type": "trade_wars",
-        "relevance_score": 14,
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "Global trade flows are facing severe disruption amid the US-Israel war on Iran and unpredictable tariff policies. But logistics giant DHL still expects its revenues to soar in the coming years thanks in large part to Chinese companies’ rising global ambitions. The resilience of China’s outbound trade is a major reason DHL has maintained such an ambitious growth target even amid the Middle East crisis and constantly changing trade barriers, according to Oscar de Bok, CEO of the firm’s global...",
-          "news_focus_zh": "DHL預測未來幾年營收將顯著增長，儘管面臨美以衝突及不穩定的關稅政策，主要因中國企業的全球擴張潛力。",
-          "background": "全球貿易正面臨美以戰爭及關稅政策的不確定性，這對物流業造成挑戰。然而，中國的出口貿易顯示出韌性，尤其是中國企業在全球市場的野心日益增強。DHL作為全球物流巨頭，對中國市場的信心反映了其對未來貿易趨勢的看法，並可能影響其在其他市場的策略佈局。",
+          "news_focus": "On Canada's tariff frontline, business stalls over US trade deal jitters Reuters",
+          "news_focus_zh": "加拿大企業因對美國貿易協議的不確定性而面臨業務停滯，特別是在關稅問題上，這引發了對未來經濟前景的擔憂。",
+          "background": "加拿大與美國之間的貿易關係歷史悠久，兩國在北美自由貿易協定（NAFTA）後的美墨加協議（USMCA）中重新調整了貿易條款。隨著美國對某些進口商品施加關稅，加拿大企業面臨更高的成本與市場不確定性，這影響了他們的投資決策與業務運作。特別是在當前全球經濟放緩的背景下，企業對未來的貿易政策感到焦慮。",
           "stakeholders": [
-            "DHL",
-            "中國企業",
-            "全球物流業者",
+            "加拿大政府",
             "美國政府",
-            "中東地區國家"
+            "加拿大企業",
+            "進口商",
+            "消費者"
           ],
-          "analysis": "DHL的樂觀預測顯示出其對中國市場的重視，這可能會引發其他物流企業的競爭反應，特別是在面對不確定的地緣政治風險時。中國企業的擴張將促使DHL加強其在亞太地區的投資，並可能影響全球供應鏈的重組。另一方面，隨著貿易壁壘的變化，DHL也需靈活應對，以維持其市場優勢。"
+          "analysis": "企業對美國貿易政策的不確定性使得加拿大商業活動受到壓制。美國政府可能的關稅調整將直接影響加拿大的出口商，特別是農產品與製造業者。這種情況可能導致企業推遲投資，進一步影響經濟增長。另一方面，加拿大政府可能需要加強與美國的外交談判，以減少貿易摩擦，並保護本國企業的利益。各方的立場可能會因經濟壓力而變化，未來的貿易政策走向仍需密切關注。"
         },
         "topic_priority_score": 9,
-        "event_type": "corporate_results",
+        "event_type": "macro_signal",
         "supporting_sources": [
-          "The Economist",
-          "Reuters",
-          "Nikkei Asia",
-          "BBC Business",
-          "The Guardian Business"
+          "The Economist"
         ],
         "supporting_titles": [
-          "The world economy shrugs off both the trade war and AI fears",
-          "War between Hezbollah and Israel deepens fractures in Lebanon - Reuters",
-          "Air China logs sixth straight loss as rail competition bites and risks rise",
-          "How the Iran war may affect your money and bills",
-          "Sony to hike PS5 prices by $100 as AI and Iran war push up memory chip costs"
+          "Who wrangled the best trade deal from Donald Trump?"
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2025/10/20/the-world-economy-shrugs-off-both-the-trade-war-and-ai-fears",
-          "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWFxQ2l5aU93VXZJdEVIekItLUhGaEZROXFYaTNXWl9UeXhsTklWbGhyM2NCWG4tR2tPUUlOSzJ4d2lNWW1GM0JORVJBT1RWOC0wR1lpQU5DUGt5cFRGV2Jxal9TUW12WkRvcXE4aTRBenJaTXNJS2I1T2lWQWZabGM2b3luclZQZWhYT0tVanI0VnBzbFJoMUNtaFJQR2R1MURHOFFuYVlSWGpWTFlIbjhWaktWSEF1?oc=5",
-          "https://asia.nikkei.com/business/transportation/air-china-logs-sixth-straight-loss-as-rail-competition-bites-and-risks-rise",
-          "https://www.bbc.com/news/articles/c2e4ygndjpwo?at_medium=RSS&at_campaign=rss",
-          "https://www.theguardian.com/technology/2026/mar/27/sony-playstation-5-price-hike-ai-iran-war"
+          "https://www.economist.com/finance-and-economics/2026/02/10/who-wrangled-the-best-trade-deal-from-donald-trump"
         ],
-        "source_count": 6
+        "source_count": 2
+      },
+      {
+        "category": "economy",
+        "source_name": "The Economist",
+        "title": "Why American bondholders are jumpy about inflation",
+        "link": "https://www.economist.com/finance-and-economics/2025/09/10/why-american-bondholders-are-jumpy-about-inflation",
+        "summary": "The Federal Reserve prepares to cut interest rates in tricky circumstances",
+        "published": "Wed, 10 Sep 2025 19:05:23 +0000",
+        "updated": "Wed, 10 Sep 2025 19:05:23 +0000",
+        "published_at_utc": "2025-09-10T19:05:23+00:00",
+        "id": "9179ca8f-dd93-4b37-afc7-8378f4fa78b3",
+        "topic_type": "inflation",
+        "relevance_score": 16,
+        "briefing": {
+          "news_focus": "The Federal Reserve prepares to cut interest rates in tricky circumstances",
+          "news_focus_zh": "美國聯邦儲備系統（Fed）在面對複雜情勢下，準備降低利率，這使得美國的債券持有者對通脹感到不安。",
+          "background": "在過去幾年中，美國經濟經歷了劇烈的通脹波動，這使得聯邦儲備系統的貨幣政策面臨挑戰。隨著通脹壓力的上升，Fed曾多次提高利率以抑制通脹。然而，當前經濟增長放緩，Fed考慮降息以刺激經濟，這種政策轉變引發了市場對未來通脹的擔憂，尤其是對固定收益投資者的影響。",
+          "stakeholders": [
+            "美國聯邦儲備系統",
+            "債券持有者",
+            "投資者",
+            "經濟學家",
+            "市場分析師"
+          ],
+          "analysis": "債券持有者對通脹的敏感性使得他們在利率降低的背景下感到不安。降息可能會刺激經濟，但同時也可能導致通脹回升，從而侵蝕債券的實際回報。投資者對未來的預期分歧，一方面擔心通脹上升，另一方面又希望經濟復甦帶來的收益，這使得市場情緒變得不穩定。若通脹持續上升，可能會迫使Fed重新考慮其貨幣政策，進一步影響市場動態。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "rate_decision",
+        "supporting_sources": [
+          "The Guardian Business",
+          "BBC Business"
+        ],
+        "supporting_titles": [
+          "‘It dictated the whole atmosphere’: why some landlords are banning kids from pubs",
+          "The £5.30 orange juice that tells the story of why supermarket prices are sky high"
+        ],
+        "supporting_links": [
+          "https://www.theguardian.com/lifeandstyle/2026/mar/26/it-dictated-the-whole-atmosphere-why-some-landlords-are-banning-kids-from-pubs",
+          "https://www.bbc.com/news/articles/c397n3jl3z8o?at_medium=RSS&at_campaign=rss"
+        ],
+        "source_count": 3
       }
     ]
   },
   "further_reading": {
     "technology": [
-      {
-        "title": "‘It does feel like an intimidation campaign’: why is US tech giant Palantir suing a small Swiss magazine?",
-        "link": "https://www.theguardian.com/global-development/2026/mar/20/us-tech-giant-palantir-swiss-magazine-wav",
-        "source_name": "The Guardian Technology",
-        "published_at_utc": "2026-03-20T06:00:12+00:00",
-        "relevance_score": 12
-      },
       {
         "title": "Inside China’s robotics revolution",
         "link": "https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution",
@@ -446,113 +425,120 @@
         "relevance_score": 8
       },
       {
-        "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
-        "link": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-03-27T10:30:00+00:00",
-        "relevance_score": 15
+        "title": "Physical Intelligence is reportedly in talks to raise $1 billion, again",
+        "link": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-03-27T23:59:40+00:00",
+        "relevance_score": -4
       },
       {
-        "title": "With new plugins feature, OpenAI officially takes Codex beyond coding",
-        "link": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-03-27T21:53:45+00:00",
-        "relevance_score": 14
+        "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
+        "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-03-28T14:15:00+00:00",
+        "relevance_score": 11
       },
       {
         "title": "DOJ confirms FBI Director Kash Patel’s personal email was hacked",
         "link": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
         "source_name": "Ars Technica",
         "published_at_utc": "2026-03-27T16:24:05+00:00",
-        "relevance_score": 14
+        "relevance_score": 10
       },
       {
         "title": "Apple says no one using Lockdown Mode has been hacked with spyware",
         "link": "https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/",
         "source_name": "TechCrunch",
         "published_at_utc": "2026-03-27T14:27:32+00:00",
-        "relevance_score": 13
+        "relevance_score": 10
+      },
+      {
+        "title": "Thousands of people are selling their identities to train AI – but at what cost?",
+        "link": "https://www.theguardian.com/technology/2026/mar/21/ai-trainers-identity-cost",
+        "source_name": "The Guardian Technology",
+        "published_at_utc": "2026-03-21T14:00:54+00:00",
+        "relevance_score": 10
       }
     ],
     "politics": [
       {
-        "title": "Saudi Arabia urging US to ramp up Iran attacks, intelligence source confirms",
-        "link": "https://www.theguardian.com/world/2026/mar/27/saudi-arabia-us-iran-attacks-mohammed-bin-salman",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-03-27T08:16:46+00:00",
+        "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+        "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-03-29T07:51:04+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Pedro Sanchez | Europe’s only anti-war Prime Minister",
+        "link": "https://www.thehindu.com/news/international/pedro-sanchez-europes-only-anti-war-prime-minister/article70797237.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-03-29T05:01:00+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "AI infrastructure on the front line: Lessons for Asean from the Iran war",
+        "link": "https://www.scmp.com/opinion/asia-opinion/article/3347725/ai-infrastructure-front-line-lessons-asean-iran-war?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-03-28T21:30:10+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "As Iran’s drones swarm Gulf, Ukraine’s wartime tech lands billion-dollar deals",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3348273/irans-drones-swarm-gulf-ukraines-wartime-tech-lands-billion-dollar-deals?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-03-29T03:57:47+00:00",
         "relevance_score": 15
       },
       {
-        "title": "Intense bombing in Tehran, Isfahan",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/intense-bombing-in-tehran-isfahan?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-03-28T02:27:33+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Rescue workers rush to save lives after south Tehran missile strike",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/27/rescue-workers-rush-to-save-lives-after-south-tehran-missile-strike?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-03-27T23:28:03+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Iran targets Israeli and U.S. bases in new missile strike",
-        "link": "https://www.thehindu.com/shorts/iran-targets-israeli-and-us-bases-in-new-missile-strike/article70794103.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-03-27T17:36:48+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Europe’s China Confusion: From Global Trade to Russia",
-        "link": "https://thediplomat.com/2026/03/europes-china-confusion-from-global-trade-to-russia/",
-        "source_name": "The Diplomat",
-        "published_at_utc": "2026-03-27T12:15:00+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "Myanmar junta signals change in leadership",
-        "link": "https://www.taipeitimes.com/News/world/archives/2026/03/28/2003854624",
-        "source_name": "Taipei Times",
-        "published_at_utc": "2026-03-28T00:00:00+00:00",
-        "relevance_score": 11
-      },
-      {
-        "title": "Lebanon says Israeli strikes kill five as Hezbollah claims new attacks",
-        "link": "https://www.thehindu.com/news/international/lebanon-israeli-strikes-hezbollah-news-updates/article70789546.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-03-26T17:08:00+00:00",
-        "relevance_score": 11
-      },
-      {
-        "title": "Zelenskyy claims US tied Ukraine security guarantees to giving up Donbas, White House denies",
-        "link": "https://www.foxnews.com/world/zelenskyy-claims-us-tied-ukraine-security-guarantees-giving-up-donbas-white-house-denies",
+        "title": "Zelenskyy offers cutting-edge drone defense to Gulf allies as Ukraine seeks missile support",
+        "link": "https://www.foxnews.com/world/zelenskyy-offers-cutting-edge-drone-defense-gulf-allies-ukraine-seeks-missile-support",
         "source_name": "Fox News World",
-        "published_at_utc": "2026-03-26T15:59:42+00:00",
-        "relevance_score": 11
+        "published_at_utc": "2026-03-28T22:49:16+00:00",
+        "relevance_score": 13
       },
       {
-        "title": "US strikes against Iran-backed militias in Iraq reportedly continue as Baghdad warns of 'right to respond'",
-        "link": "https://www.foxnews.com/world/us-strikes-against-iran-backed-militias-iraq-reportedly-continue-baghdad-warns-right-respond",
-        "source_name": "Fox News World",
-        "published_at_utc": "2026-03-25T15:09:31+00:00",
-        "relevance_score": 11
+        "title": "Michigan student disciplined for protesting against war on Gaza reaches settlement with school",
+        "link": "https://www.theguardian.com/us-news/2026/mar/28/michigan-student-protesting-gaza-war-school-settlement",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-03-28T20:59:33+00:00",
+        "relevance_score": 13
       },
       {
-        "title": "Ukraine, Saudi Arabia agreed to key defence cooperation: Zelenskyy",
-        "link": "https://www.thehindu.com/news/international/ukraine-saudi-arabia-defence-cooperation-talks-updates/article70792161.ece",
+        "title": "Kuwait airport hit by Iranian drone strikes",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/kuwait-airport-hit-by-iranian-drone-strikes?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-03-28T20:58:37+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Could Ukraine’s drone expertise serve Gulf countries?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/3/28/could-ukraines-drone-expertise-serve-gulf-countries?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-03-28T20:50:59+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Russian drones kill four in Ukraine, damage key infrastructure and maternity hospital",
+        "link": "https://www.thehindu.com/news/international/russian-drones-kill-four-in-ukraine-damage-key-infrastructure-and-maternity-hospital/article70797369.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-03-27T12:39:32+00:00",
-        "relevance_score": 10
+        "published_at_utc": "2026-03-28T17:25:06+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Israeli airstrike in southern Lebanon kills 3 journalists covering the war",
+        "link": "https://www.thehindu.com/news/international/israeli-airstrike-in-southern-lebanon-kills-3-journalists-covering-the-war/article70797282.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-03-28T16:51:34+00:00",
+        "relevance_score": 13
       }
     ],
     "economy": [
       {
-        "title": "Philippines central bank warns monetary policy cannot tame inflation",
-        "link": "https://asia.nikkei.com/spotlight/iran-tensions/philippines-central-bank-warns-monetary-policy-cannot-tame-inflation",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 15
+        "title": "Hung Hom flats sell out as Hong Kong homebuyers brush aside Middle East risks",
+        "link": "https://www.scmp.com/business/companies/article/3348249/hung-hom-flats-sell-out-hong-kong-homebuyers-brush-aside-middle-east-risks?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-03-28T09:40:15+00:00",
+        "relevance_score": 17
       },
       {
         "title": "Americans can still get a 2% mortgage",
@@ -560,13 +546,6 @@
         "source_name": "The Economist",
         "published_at_utc": "2025-07-17T09:33:09+00:00",
         "relevance_score": 14
-      },
-      {
-        "title": "Hong Kong developers test market with 222 units released amid interest rate uncertainty",
-        "link": "https://www.scmp.com/business/article/3348175/hong-kong-developers-test-market-222-units-released-amid-interest-rate-uncertainty?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-03-27T11:30:11+00:00",
-        "relevance_score": 13
       },
       {
         "title": "America’s economy defies gloomy expectations",
@@ -581,6 +560,13 @@
         "source_name": "The Economist",
         "published_at_utc": "2025-06-05T09:42:25+00:00",
         "relevance_score": 12
+      },
+      {
+        "title": "Hong Kong developers test market with 222 units released amid interest rate uncertainty",
+        "link": "https://www.scmp.com/business/article/3348175/hong-kong-developers-test-market-222-units-released-amid-interest-rate-uncertainty?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-03-27T11:30:11+00:00",
+        "relevance_score": 10
       },
       {
         "title": "What will Kevin Warsh’s Federal Reserve look like?",
@@ -625,5 +611,5 @@
     "failed": 0,
     "total": 9
   },
-  "theme_of_day": "今日新聞整體呈現出科技、政治與經濟三個版面之間的緊密聯繫。科技版面中，資金流動與IPO預期反映出市場對未來科技發展的樂觀態度，然而政治版面上美國與伊朗的衝突及其對地區穩定的影響，則加劇了經濟版面中對通脹及借貸成本上升的擔憂。這些事件共同構成了當前國際局勢的複雜性，並突顯出地緣政治對全球市場的深遠影響。"
+  "theme_of_day": "今日新聞的整體脈絡顯示，科技、政治與經濟版面之間存在著相互交織的影響。美國科技企業Palantir的訴訟事件與歐盟的網路攻擊確認，反映出在數位安全與商業聲譽之間的緊張關係，尤其在全球科技競爭加劇的背景下。此外，菲律賓與中國的油氣勘探計劃在能源危機中引發的政治討論，與美國貿易政策的不確定性相互影響，顯示出地緣政治對經濟決策的深遠影響。這些事件共同構成了當前國際局勢的複雜面貌，值得持續關注。"
 }
