@@ -1,97 +1,58 @@
 {
-  "generated_at_utc": "2026-03-29T08:29:19.548392+00:00",
+  "generated_at_utc": "2026-03-30T09:03:14.229840+00:00",
   "summary": {
-    "total_raw_items": 1083,
-    "total_deduped_items": 1075,
+    "total_raw_items": 1094,
+    "total_deduped_items": 1086,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
         "chips",
-        "cybersecurity",
-        "ai"
+        "ai",
+        "cybersecurity"
       ],
       "politics": [
         "war_and_conflict",
         "us_china_relations",
-        "eu_policy"
+        "uk_politics"
       ],
       "economy": [
         "interest_rates",
-        "trade_wars",
-        "inflation"
+        "inflation",
+        "trade_wars"
       ]
     },
-    "multi_source_selected_count": 8
+    "multi_source_selected_count": 6
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
         "source_name": "The Guardian Technology",
-        "title": "‘It does feel like an intimidation campaign’: why is US tech giant Palantir suing a small Swiss magazine?",
-        "link": "https://www.theguardian.com/global-development/2026/mar/20/us-tech-giant-palantir-swiss-magazine-wav",
-        "summary": "An investigation by journalists working with Republik magazine may have struck a nerve by suggesting the company has failed in Switzerland It was over beers on an autumn evening in Zurich in 2024 that a group of journalists with an independent Swiss research collective began to discuss investigating Palantir, one of the world’s biggest tech companies. Three years earlier, Palantir had advertised that it was setting up a “European hub” in the Swiss municipality of Altendorf, a sleepy town of roughly 7,000 people on the shores of Lake Zurich. Continue reading...",
-        "published": "Fri, 20 Mar 2026 06:00:12 GMT",
-        "updated": "2026-03-20T06:00:12Z",
-        "published_at_utc": "2026-03-20T06:00:12+00:00",
-        "id": "https://www.theguardian.com/global-development/2026/mar/20/us-tech-giant-palantir-swiss-magazine-wav",
+        "title": "Inside China’s robotics revolution",
+        "link": "https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution",
+        "summary": "How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out Chen Liang, the founder of Guchi Robotics, an automation company headquartered in Shanghai, is a tall, heavy-set man in his mid-40s with square-rimmed glasses. His everyday manner is calm and understated, but when he is in his element – up close with the technology he builds, or in business meetings discussing the imminent replacement of human workers by robots – he wears an exuberant smile that brings to mind an intern on his first day at his dream job. Guchi makes the machines that install wheels, dashboards and windows for many of the top Chinese car brands, including BYD and Nio. He took the name from the Chinese word guzhi , “steadfast intelligence”, though the fact that it sounded like an Italian luxury brand was not entirely unwelcome. For the better part of two decades, Chen has tried to solve what, to him, is an engineering problem: how to eliminate – or, in his view, liberate – as many workers in car factories as technologically possible. Late last year, I visited him at Guchi headquarters on the western outskirts of Shanghai. Next to the head office are several warehouses where Guchi’s engineers tinker with robots to fit the specifications of their customers. Chen, an engineer by training, founded Guchi in 2019 with the aim of tackling the hardest automation task in the car factory: “final assembly”, the last leg of production, when all the composite pieces – the dashboard, windows, wheels and seat cushions – come together. At present, his robots can mount wheels, dashboards and windows on to a car without any human intervention, but 80% of the final assembly, he estimates, has yet to be automated. That is what Chen has set his sights on. Continue reading...",
+        "published": "Thu, 19 Mar 2026 05:01:00 GMT",
+        "updated": "2026-03-19T05:01:00Z",
+        "published_at_utc": "2026-03-19T05:01:00+00:00",
+        "id": "https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution",
         "topic_type": "chips",
         "relevance_score": 12,
         "briefing": {
-          "news_focus": "An investigation by journalists working with Republik magazine may have struck a nerve by suggesting the company has failed in Switzerland It was over beers on an autumn evening in Zurich in 2024 that a group of journalists with an independent Swiss research collective began to discuss investigating Palantir, one of the world’s biggest tech companies. Three years earlier, Palantir had advertised that it was setting up a “European hub” in the Swiss municipality of Altendorf, a sleepy town of roughly 7,000 people on the shores of Lake Zurich. Continue reading...",
-          "news_focus_zh": "美國科技巨頭Palantir對瑞士小型雜誌Republik提起訴訟，原因是該雜誌的調查報導暗示Palantir在瑞士的業務表現不佳，可能對其聲譽造成影響。",
-          "background": "Palantir成立於2003年，專注於數據分析和大數據技術，並在全球範圍內提供服務。2019年，Palantir宣佈在瑞士設立歐洲樞紐，旨在擴展其在歐洲市場的影響力。然而，隨著時間的推移，該公司在當地的實際表現受到質疑，這引發了媒體的關注與調查，進而導致了目前的法律糾紛。",
+          "news_focus": "How close are we to the sci-fi vision of autonomous humanoid robots? I visited 11 companies in five Chinese cities to find out Chen Liang, the founder of Guchi Robotics, an automation company headquartered in Shanghai, is a tall, heavy-set man in his mid-40s with square-rimmed glasses. His everyday manner is calm and understated, but when he is in his element – up close with the technology he builds, or in business meetings discussing the imminent replacement of human workers by robots – he wears an exuberant smile that brings to mind an intern on his first day at his dream job. Guchi makes the machines that install wheels, dashboards and windows for many of the top Chinese car brands, including BYD and Nio. He took the name from the Chinese word guzhi , “steadfast intelligence”, though the fact that it sounded like an Italian luxury brand was not entirely unwelcome. For the better part of two decades, Chen has tried to solve what, to him, is an engineering problem: how to eliminate – or, in his view, liberate – as many workers in car factories as technologically possible. Late last year, I visited him at Guchi headquarters on the western outskirts of Shanghai. Next to the head office are several warehouses where Guchi’s engineers tinker with robots to fit the specifications of their customers. Chen, an engineer by training, founded Guchi in 2019 with the aim of tackling the hardest automation task in the car factory: “final assembly”, the last leg of production, when all the composite pieces – the dashboard, windows, wheels and seat cushions – come together. At present, his robots can mount wheels, dashboards and windows on to a car without any human intervention, but 80% of the final assembly, he estimates, has yet to be automated. That is what Chen has set his sights on. Continue reading...",
+          "news_focus_zh": "中國正快速推進機器人技術，特別是在汽車製造業。Guchi Robotics的創始人陳亮致力於自動化汽車的最終組裝，已經能夠無需人工安裝車輪、儀表板和窗戶，但仍有80%的組裝過程尚未自動化。",
+          "background": "中國的機器人產業在過去幾年中迅速發展，受到政府政策的強力支持。隨著製造業的升級需求，企業如Guchi Robotics正專注於解決汽車製造中的自動化挑戰。這一趨勢不僅反映了中國在全球科技競爭中的地位提升，也顯示出對於勞動力市場的潛在影響，尤其是在面對人口老齡化和工資上升的背景下。",
           "stakeholders": [
-            "Palantir",
-            "Republik雜誌",
-            "瑞士媒體界",
-            "科技產業",
-            "公共輿論"
+            "Guchi Robotics",
+            "中國汽車製造商",
+            "中國政府",
+            "工人階層",
+            "國際汽車市場"
           ],
-          "analysis": "Palantir的訴訟行為可能被視為對媒體自由的打壓，這引發了對企業在公共輿論中角色的討論。對於Palantir而言，維護公司形象至關重要，尤其是在面對競爭激烈的科技市場時。而對於Republik雜誌及其記者來說，這一事件則突顯了獨立媒體在監督大型企業方面的重要性。未來，若Palantir的訴訟未能成功，可能會鼓勵更多媒體進行深入調查，反之則可能使企業在面對批評時更加謹慎。"
+          "analysis": "Guchi Robotics的發展對於中國汽車製造商來說是一把雙刃劍。一方面，自動化可提高生產效率並降低成本，對企業利潤有直接促進作用；另一方面，這也可能導致大量工人失業，引發社會問題。政府可能會面臨如何平衡技術進步與就業保障的挑戰。國際市場上，若中國的自動化技術成熟，將可能改變全球汽車產業的競爭格局。"
         },
         "topic_priority_score": 10,
-        "event_type": "regulation_action",
-        "supporting_sources": [
-          "BBC Technology"
-        ],
-        "supporting_titles": [
-          "Tech Now"
-        ],
-        "supporting_links": [
-          "https://www.bbc.co.uk/iplayer/episode/m002tkdv?at_medium=RSS&at_campaign=rss"
-        ],
-        "source_count": 2
-      },
-      {
-        "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "European Commission confirms cyberattack after hackers claim data breach",
-        "link": "https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/",
-        "summary": "The European Union's top executive body has confirmed a cyberattack after hackers reportedly stole reams of data from the European Commission's cloud storage.",
-        "published": "Fri, 27 Mar 2026 17:59:29 +0000",
-        "updated": "Fri, 27 Mar 2026 17:59:29 +0000",
-        "published_at_utc": "2026-03-27T17:59:29+00:00",
-        "id": "https://techcrunch.com/?p=3107097",
-        "topic_type": "cybersecurity",
-        "relevance_score": 18,
-        "briefing": {
-          "news_focus": "The European Union's top executive body has confirmed a cyberattack after hackers reportedly stole reams of data from the European Commission's cloud storage.",
-          "news_focus_zh": "歐洲聯盟執行委員會確認發生網路攻擊，駭客聲稱竊取了大量資料，這一事件引發了對其雲端儲存安全性的擔憂。",
-          "background": "隨著數位化進程加速，歐洲聯盟在網路安全方面的挑戰日益增加。過去幾年，歐盟已推出多項政策以增強網路安全，包括GDPR和網路安全法。然而，這次攻擊顯示出現有防護措施的不足，特別是在處理敏感數據方面的脆弱性。",
-          "stakeholders": [
-            "歐洲聯盟執行委員會",
-            "駭客組織",
-            "雲端服務供應商",
-            "成員國政府",
-            "網路安全專家"
-          ],
-          "analysis": "此次攻擊的確認標誌著歐洲聯盟在網路安全上的一個重大轉折點，因為這是針對其最高執行機構的直接攻擊，可能導致對數據保護政策的重新評估。與先前的網路攻擊相比，此次事件突顯了雲端儲存的安全漏洞，並可能促使歐盟加強對雲端服務供應商的監管。此外，這也可能引發成員國間對於網路安全責任的討論，進一步影響未來的政策制定。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "strategic_move",
-        "is_major_update": true,
+        "event_type": "commercial_update",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -99,38 +60,77 @@
       },
       {
         "category": "technology",
-        "source_name": "Wired",
-        "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
-        "link": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
-        "summary": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
-        "published": "Fri, 27 Mar 2026 10:30:00 +0000",
-        "updated": "Fri, 27 Mar 2026 10:30:00 +0000",
-        "published_at_utc": "2026-03-27T10:30:00+00:00",
-        "id": "69c40d0935fd13aa40807d68",
+        "source_name": "TechCrunch",
+        "title": "Why OpenAI really shut down Sora",
+        "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+        "summary": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
+        "published": "Mon, 30 Mar 2026 03:09:38 +0000",
+        "updated": "Mon, 30 Mar 2026 03:09:38 +0000",
+        "published_at_utc": "2026-03-30T03:09:38+00:00",
+        "id": "https://techcrunch.com/?p=3107404",
         "topic_type": "ai",
-        "relevance_score": 12,
+        "relevance_score": 16,
         "briefing": {
-          "news_focus": "Ads are rolling out across the US on ChatGPT’s free tier. I asked OpenAI's bot 500 questions to see what these ads were like and how they related to my prompts.",
-          "news_focus_zh": "OpenAI的ChatGPT在美國的免費版本中開始推出廣告。為了了解這些廣告的內容及其與使用者提問的關聯性，一位用戶對ChatGPT提出了500個問題，並分析了所見廣告的類型。",
-          "background": "隨著AI技術的普及，OpenAI面臨著如何在商業模式上獲利的挑戰。推出廣告是其免費服務的一種變現方式，旨在吸引更多使用者同時增加收入。此舉也反映了科技公司在提供免費服務與維持盈利之間的平衡，特別是在競爭激烈的AI市場中。",
+          "news_focus": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own faces — so was this some kind of elaborate data grab?",
+          "news_focus_zh": "OpenAI於上週關閉其AI視頻生成工具Sora，僅在公開發布六個月後，引發外界對其背後原因的懷疑，特別是用戶上傳面部數據的問題。",
+          "background": "Sora作為OpenAI推出的視頻生成工具，旨在利用AI技術簡化視頻創作過程。然而，隨著用戶數據隱私問題日益受到關注，尤其是在數據使用和保護方面的法律規範逐漸嚴格，OpenAI的決策可能反映了對潛在法律風險的考量。此外，AI技術的快速發展也使得市場競爭加劇，企業需謹慎管理用戶數據以維持信任。",
           "stakeholders": [
             "OpenAI",
-            "使用者",
-            "廣告商",
-            "數據隱私監管機構"
+            "用戶",
+            "競爭對手",
+            "數據隱私監管機構",
+            "投資者"
           ],
-          "analysis": "廣告的推出可能會影響使用者體驗，尤其是對於那些習慣無廣告環境的用戶。OpenAI可能希望透過這種方式來獲取使用者數據，以進一步優化廣告投放。然而，這也引發了對於隱私和數據使用的擔憂，特別是在美國對於數據保護的法律環境日益嚴格的背景下。廣告商則可能會對廣告效果的回報率有更高的期待，進一步影響其廣告策略。"
+          "analysis": "OpenAI關閉Sora的決定可能源於對用戶數據隱私的擔憂，尤其是在面對公眾質疑時。這一行動對OpenAI的品牌形象和用戶信任度有直接影響，可能導致用戶對未來產品的使用意願降低。另一方面，競爭對手可能會利用此事件來強調其在數據保護方面的優勢，進一步加劇市場競爭。未來，OpenAI可能需要重新評估其產品設計與數據管理策略，以避免類似情況再次發生。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
         "supporting_sources": [
-          "The Guardian Technology"
+          "BBC Technology"
         ],
         "supporting_titles": [
-          "In the killer world of online gaming, there are no hits any more – just survivors"
+          "OpenAI closes Sora video-making app and cancels $1bn Disney deal"
         ],
         "supporting_links": [
-          "https://www.theguardian.com/games/2026/mar/19/in-the-killer-world-of-online-gaming-there-are-no-hits-any-more-just-survivors"
+          "https://www.bbc.com/news/articles/c3w3e467ewqo?at_medium=RSS&at_campaign=rss"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "technology",
+        "source_name": "The Guardian Technology",
+        "title": "Resident Evil at 30: how Capcom’s horror opus has survived and thrived",
+        "link": "https://www.theguardian.com/games/2026/mar/20/resident-evil-30-years-history-video-game",
+        "summary": "From owing a debt to obscure Japanese horror Sweet Home to the influence of Aliens and Texas Chain Saw Massacre, the franchise continues to petrify players three decades on To many of us playing and writing about video games in the 1990s, Resident Evil seemed to come out of nowhere. The emerging PlayStation and Saturn consoles were all about slick, bright arcade conversions – the shiny thrills of Daytona and Tekken – and Japanese publisher Capcom was in a rut of coin-op conversions and endless sequels to Street Fighter and Mega Man. Scary games were rare at the time and mostly confined to the PC. So when the news of a horror title named Biohazard (the Japanese name for the series) started to emerge in 1995, it caught the attention of games journalists as it seemed radically out of step with prevailing trends. Games were about power, but as early demos quickly revealed, Resident Evil was about vulnerability. Thirty years later, it’s still here. The series has sold more than 180m copies worldwide, with 11 core titles and dozens of spinoffs and remakes, as well as film, television and anime tie-ins. Its characters and monsters are icons, its tropes now embedded in game design practice. What has allowed it to not only survive but flourish in such a rapidly changing industry? Why do we still let it scare us? Continue reading...",
+        "published": "Fri, 20 Mar 2026 10:00:17 GMT",
+        "updated": "2026-03-20T10:00:17Z",
+        "published_at_utc": "2026-03-20T10:00:17+00:00",
+        "id": "https://www.theguardian.com/games/2026/mar/20/resident-evil-30-years-history-video-game",
+        "topic_type": "cybersecurity",
+        "relevance_score": 12,
+        "briefing": {
+          "news_focus": "From owing a debt to obscure Japanese horror Sweet Home to the influence of Aliens and Texas Chain Saw Massacre, the franchise continues to petrify players three decades on To many of us playing and writing about video games in the 1990s, Resident Evil seemed to come out of nowhere. The emerging PlayStation and Saturn consoles were all about slick, bright arcade conversions – the shiny thrills of Daytona and Tekken – and Japanese publisher Capcom was in a rut of coin-op conversions and endless sequels to Street Fighter and Mega Man. Scary games were rare at the time and mostly confined to the PC. So when the news of a horror title named Biohazard (the Japanese name for the series) started to emerge in 1995, it caught the attention of games journalists as it seemed radically out of step with prevailing trends. Games were about power, but as early demos quickly revealed, Resident Evil was about vulnerability. Thirty years later, it’s still here. The series has sold more than 180m copies worldwide, with 11 core titles and dozens of spinoffs and remakes, as well as film, television and anime tie-ins. Its characters and monsters are icons, its tropes now embedded in game design practice. What has allowed it to not only survive but flourish in such a rapidly changing industry? Why do we still let it scare us? Continue reading...",
+          "news_focus_zh": "《生化危機》系列自1996年推出以來，已經走過30年，成為遊戲界的經典。該系列不僅銷售超過1.8億部，還衍生出多部電影、電視劇和動畫，顯示其在快速變化的遊戲產業中持續蓬勃發展的能力。",
+          "background": "《生化危機》最初以其獨特的恐怖氛圍和遊戲機制在1990年代的遊戲市場中脫穎而出。當時，遊戲多以動作和競技為主，恐怖題材相對稀缺。隨著PlayStation的興起，Capcom成功將恐怖元素融入遊戲，開創了生存恐怖類型，並影響了後續的遊戲設計與文化。",
+          "stakeholders": [
+            "Capcom",
+            "玩家社群",
+            "遊戲開發者",
+            "影視製作公司",
+            "遊戲評論媒體"
+          ],
+          "analysis": "《生化危機》的成功在於其不斷創新與適應市場需求，從最初的恐怖生存遊戲演變為多元化的娛樂品牌。對於玩家來說，該系列提供了獨特的恐怖體驗，滿足了對挑戰與故事的需求。Capcom面臨的挑戰包括如何在保持品牌核心的同時，吸引新一代玩家。未來可能會出現更多跨媒體合作與新技術的應用，以維持其市場地位。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "regulation_action",
+        "supporting_sources": [
+          "Ars Technica"
+        ],
+        "supporting_titles": [
+          "How new fishing tech can reduce bycatch of turtles and other creatures"
+        ],
+        "supporting_links": [
+          "https://arstechnica.com/science/2026/03/how-new-fishing-tech-can-reduce-bycatch-of-turtles-and-other-creatures/"
         ],
         "source_count": 2
       }
@@ -139,270 +139,255 @@
       {
         "category": "politics",
         "source_name": "SCMP World",
-        "title": "Iran-linked hackers open low-cost digital front as US-Israeli attacks mount",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3348285/iran-linked-hackers-open-low-cost-digital-front-us-israeli-attacks-mount?utm_source=rss_feed",
-        "summary": "As they fled an Iranian missile strike, some Israelis with Android phones received a text offering a link to real-time information about bomb shelters. But instead of a helpful app, the link downloaded spyware giving hackers access to the device’s camera, location and all its data. The operation, attributed to Iran, showed sophisticated coordination and is just the latest tactic in a cyber conflict that pits the US and Israel against Iran and its digital proxies. As Iran and its supporters seek...",
-        "published": "Sun, 29 Mar 2026 06:49:43 +0000",
-        "updated": "Sun, 29 Mar 2026 06:49:43 +0000",
-        "published_at_utc": "2026-03-29T06:49:43+00:00",
-        "id": "https://www.scmp.com/news/world/middle-east/article/3348285/iran-linked-hackers-open-low-cost-digital-front-us-israeli-attacks-mount?utm_source=rss_feed",
+        "title": "Iran war, rogue drones force European aviation safety rethink",
+        "link": "https://www.scmp.com/news/world/europe/article/3348364/iran-war-rogue-drones-force-european-aviation-safety-rethink?utm_source=rss_feed",
+        "summary": "Wars, including a widening conflict in the Middle East, are heightening risks for aviation as flight corridors are squeezed and drones become more widespread, Europe’s top aviation safety regulator has said. The month-old Iran war is reshaping airspace across the Middle East and increasing disruption to flights, including clogging routes between Asia and Europe that previously transited or ‌flew over the region. On top of the prolonged Russia-Ukraine conflict and fighting between Pakistan and...",
+        "published": "Mon, 30 Mar 2026 06:28:23 +0000",
+        "updated": "Mon, 30 Mar 2026 06:28:23 +0000",
+        "published_at_utc": "2026-03-30T06:28:23+00:00",
+        "id": "https://www.scmp.com/news/world/europe/article/3348364/iran-war-rogue-drones-force-european-aviation-safety-rethink?utm_source=rss_feed",
         "topic_type": "war_and_conflict",
-        "relevance_score": 19,
+        "relevance_score": 17,
         "briefing": {
-          "news_focus": "As they fled an Iranian missile strike, some Israelis with Android phones received a text offering a link to real-time information about bomb shelters. But instead of a helpful app, the link downloaded spyware giving hackers access to the device’s camera, location and all its data. The operation, attributed to Iran, showed sophisticated coordination and is just the latest tactic in a cyber conflict that pits the US and Israel against Iran and its digital proxies. As Iran and its supporters seek...",
-          "news_focus_zh": "伊朗相關黑客在美以攻擊加劇的背景下，展開低成本的數位攻擊行動，利用假冒的應用程式向以色列民眾散播間諜軟體，顯示出其在網絡戰中的高效協調能力。",
-          "background": "隨著美國和以色列對伊朗及其盟友的軍事壓力加大，伊朗的網絡攻擊行為也日益增強。這些攻擊不僅針對軍事目標，還擴展至平民，利用社交工程手段來獲取敏感信息。伊朗的網絡戰策略已經成為其對抗西方國家的重要工具，特別是在地緣政治緊張局勢上升的情況下。",
+          "news_focus": "Wars, including a widening conflict in the Middle East, are heightening risks for aviation as flight corridors are squeezed and drones become more widespread, Europe’s top aviation safety regulator has said. The month-old Iran war is reshaping airspace across the Middle East and increasing disruption to flights, including clogging routes between Asia and Europe that previously transited or ‌flew over the region. On top of the prolonged Russia-Ukraine conflict and fighting between Pakistan and...",
+          "news_focus_zh": "隨著中東地區的伊朗戰爭擴大，歐洲航空安全監管機構指出，航空運輸面臨更高風險，航線受到擠壓，無人機的使用也日益普遍，迫使歐洲重新考慮航空安全措施。",
+          "background": "近年來，中東地區的衝突不斷升級，特別是伊朗戰爭的爆發，對航空運輸造成了重大影響。傳統的航線受到戰爭影響，導致航空公司必須重新規劃航線，增加飛行時間和成本。此外，無人機的使用頻率上升，進一步加劇了航空安全的挑戰。這一情況在俄烏衝突和巴基斯坦的戰鬥背景下顯得尤為複雜，對歐洲航空業的影響深遠。",
           "stakeholders": [
-            "伊朗政府",
-            "以色列政府",
-            "美國政府",
-            "網絡安全公司",
-            "國際社會"
+            "歐洲航空安全監管機構",
+            "航空公司",
+            "中東國家",
+            "乘客",
+            "無人機製造商"
           ],
-          "analysis": "此次事件顯示出伊朗在網絡戰中的適應能力和創新策略，對以色列及其盟友構成了新的威脅。以色列可能會加強網絡防禦措施，並考慮對伊朗的網絡基礎設施進行報復性攻擊。美國則可能在情報共享和技術支援方面加強與以色列的合作。這場網絡衝突的升級可能導致更廣泛的地區不穩定，並引發國際社會的關注。"
+          "analysis": "此事件對航空業的影響主要體現在安全與經濟兩方面。歐洲航空安全監管機構需要在保護乘客安全與維持航班效率之間找到平衡。航空公司可能面臨更高的運營成本，並需調整航班計劃以避開危險區域。各國政府也可能因應安全威脅而加強監管，這可能導致航班延誤和票價上漲。無人機的廣泛使用則可能引發更多的安全隱患，進一步複雜化航空安全的管理。"
         },
         "topic_priority_score": 11,
         "event_type": "security_event",
         "supporting_sources": [
+          "The Hindu International",
           "Al Jazeera",
-          "Fox News World",
-          "The Hindu International"
+          "The Guardian World",
+          "The Diplomat"
         ],
         "supporting_titles": [
-          "As war on Iran enters second month, Yemen’s Houthis open new front",
-          "Iran-backed Houthis open third front against Israel as Tehran seeks leverage ahead of talks",
-          "Iran-linked hackers breach FBI director Kash Patel's personal email, publish photos and documents"
+          "Iran-Israel war highlights: U.N. force in southern Lebanon says peacekeeper killed",
+          "Did Israel miscalculate in launching the war on Iran?",
+          "What the Houthis’ entry into the Iran war means for the conflict and the wider region",
+          "How the Iran War Will Reconfigure Militancy in Balochistan"
         ],
         "supporting_links": [
-          "https://www.aljazeera.com/news/2026/3/29/as-war-on-iran-enters-second-month-yemens-houthis-open-new-front?traffic_source=rss",
-          "https://www.foxnews.com/world/iran-backed-houthis-open-third-front-against-israel-tehran-seeks-leverage-ahead-talks",
-          "https://www.thehindu.com/news/international/iran-linked-hackers-breach-fbi-director-kash-patels-personal-email-publish-photos-and-documents/article70795233.ece"
+          "https://www.thehindu.com/news/international/iran-israel-us-war-updates-live-march-29-2026/article70798605.ece",
+          "https://www.aljazeera.com/opinions/2026/3/30/did-israel-miscalculate-in-launching-the-war-on-iran?traffic_source=rss",
+          "https://www.theguardian.com/world/2026/mar/29/what-the-houthis-entry-into-the-iran-war-means-for-the-conflict-and-the-wider-region",
+          "https://thediplomat.com/2026/03/how-the-iran-war-will-reconfigure-militancy-in-balochistan/"
         ],
-        "source_count": 4
+        "source_count": 5
       },
       {
         "category": "politics",
-        "source_name": "The Diplomat",
-        "title": "Is the Philippines Really About to Restart Joint Oil Exploration With China in the South China Sea?",
-        "link": "https://thediplomat.com/2026/03/is-the-philippines-really-about-to-restart-joint-oil-exploration-with-china-in-the-south-china-sea/",
-        "summary": "Even in the context of the current \"energy emergency,\" President Marcos' proposal would have to surmount considerable constitutional and political hurdles.",
-        "published": "Thu, 26 Mar 2026 09:32:00 +0900",
-        "updated": "Thu, 26 Mar 2026 09:32:00 +0900",
-        "published_at_utc": "2026-03-26T00:32:00+00:00",
-        "id": "https://thediplomat.com/2026/03/is-the-philippines-really-about-to-restart-joint-oil-exploration-with-china-in-the-south-china-sea/",
+        "source_name": "SCMP World",
+        "title": "Why revived China-Philippine talks won’t lead to energy cooperation in the South China Sea",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3348303/why-revived-china-philippine-talks-wont-lead-energy-cooperation-south-china-sea?utm_source=rss_feed",
+        "summary": "Maritime tensions between China and the Philippines are likely to persist despite Manila’s call for energy cooperation, Chinese observers said after revived diplomatic talks on the weekend. Senior diplomats from the two countries met in the Chinese city of Quanzhou on Friday and Saturday for two rounds of talks, covering a range of issues from oil and gas cooperation in the South China Sea to renewable energy and coastguard communication. The foreign ministry consultations were held for the...",
+        "published": "Mon, 30 Mar 2026 00:00:15 +0000",
+        "updated": "Mon, 30 Mar 2026 00:00:15 +0000",
+        "published_at_utc": "2026-03-30T00:00:15+00:00",
+        "id": "https://www.scmp.com/news/china/diplomacy/article/3348303/why-revived-china-philippine-talks-wont-lead-energy-cooperation-south-china-sea?utm_source=rss_feed",
         "topic_type": "us_china_relations",
-        "relevance_score": 13,
+        "relevance_score": 15,
         "briefing": {
-          "news_focus": "Even in the context of the current \"energy emergency,\" President Marcos' proposal would have to surmount considerable constitutional and political hurdles.",
-          "news_focus_zh": "菲律賓總統馬科斯提出重啟與中國在南海的聯合油氣勘探計劃，但此提案面臨憲法及政治障礙，尤其在當前能源危機的背景下。",
-          "background": "菲律賓與中國在南海的油氣資源開發長期以來存在爭議，涉及主權與國際法的複雜性。過去幾年，菲律賓在美國的支持下，對中國的海洋主權主張持較為強硬的立場。然而，隨著全球能源價格上漲，菲律賓面臨能源安全挑戰，這使得重新考慮與中國的合作成為可能選項。",
+          "news_focus": "Maritime tensions between China and the Philippines are likely to persist despite Manila’s call for energy cooperation, Chinese observers said after revived diplomatic talks on the weekend. Senior diplomats from the two countries met in the Chinese city of Quanzhou on Friday and Saturday for two rounds of talks, covering a range of issues from oil and gas cooperation in the South China Sea to renewable energy and coastguard communication. The foreign ministry consultations were held for the...",
+          "news_focus_zh": "中國與菲律賓的外交談判雖然重啟，但專家指出，雙方在南海的海洋緊張關係仍將持續，並不會導致實質的能源合作。",
+          "background": "南海地區的能源資源豐富，但由於主權爭議，特別是中國與菲律賓之間的領土糾紛，能源合作一直受到阻礙。近期，兩國高層外交官在泉州舉行會談，討論包括油氣合作在內的多項議題，顯示出雙方希望改善關係的意願。然而，過去的經驗表明，外交談判常常無法轉化為實際的合作成果，尤其是在涉及主權的敏感問題上。",
           "stakeholders": [
-            "菲律賓政府",
             "中國政府",
-            "美國政府",
-            "菲律賓國內反對派",
-            "國際能源市場"
+            "菲律賓政府",
+            "國際社會",
+            "能源企業",
+            "地區安全機構"
           ],
-          "analysis": "此次提案標誌著菲律賓在能源政策上的重大轉變，顯示出馬科斯政府在面對能源危機時，願意重新評估與中國的合作關係。這一變化可能引發國內外的激烈辯論，特別是在憲法和主權問題上。支持者認為這有助於解決能源短缺，而反對者則擔心會削弱國家主權，並可能引發與美國的外交摩擦。此提案的進一步發展將取決於國內政治動態及國際反應。"
+          "analysis": "中國與菲律賓在能源合作上的分歧主要源於對南海主權的不同認知。中國希望強化對該區域的控制，而菲律賓則尋求國際支持以維護其主權。儘管雙方表達了合作意願，但由於缺乏信任和明確的法律框架，實質進展難以實現。未來，若無法解決主權爭議，雙方的合作將面臨重重挑戰，可能導致局勢進一步緊張。"
         },
         "topic_priority_score": 10,
-        "event_type": "political_signal",
-        "is_major_update": true,
+        "event_type": "diplomatic_move",
         "supporting_sources": [
-          "SCMP World",
+          "The Diplomat",
           "Taipei Times",
           "BBC World"
         ],
         "supporting_titles": [
-          "New China school system rewards diligent pupils with ‘digital pets’ to motivate them",
-          "South Korea’s view on the “China (Taiwan)” spat",
-          "Noah Wyle is back in A&E with new drama The Pitt: 'I hope people watch with empathy'"
+          "Is the Philippines Really About to Restart Joint Oil Exploration With China in the South China Sea?",
+          "MAC on why songs may be banned in China",
+          "'Memory of a generation': China mourns the sudden death of a controversial education influencer"
         ],
         "supporting_links": [
-          "https://www.scmp.com/news/people-culture/trending-china/article/3347866/new-china-school-system-rewards-diligent-pupils-digital-pets-motivate-them?utm_source=rss_feed",
-          "https://www.taipeitimes.com/News/feat/archives/2026/03/29/2003854643",
-          "https://www.bbc.com/news/articles/czjw37ne208o?at_medium=RSS&at_campaign=rss"
+          "https://thediplomat.com/2026/03/is-the-philippines-really-about-to-restart-joint-oil-exploration-with-china-in-the-south-china-sea/",
+          "https://www.taipeitimes.com/News/taiwan/archives/2026/03/30/2003854706",
+          "https://www.bbc.com/news/articles/c15dz7ql59yo?at_medium=RSS&at_campaign=rss"
         ],
         "source_count": 4
       },
       {
         "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "Missing sailboats carrying aid arrive in Cuba after being located by Mexican Navy",
-        "link": "https://www.thehindu.com/news/international/missing-sailboats-carrying-aid-arrive-in-cuba-after-being-located-by-mexican-navy/article70798621.ece",
-        "summary": "Upon arriving to the island, Adnaan Stumo, the coordinator of the sailing convoy, said bad weather was responsible for the delay because the boats had to take a longer route and the sailors were “never in any serious danger”",
-        "published": "Sun, 29 Mar 2026 07:56:29 +0530",
-        "updated": "Sun, 29 Mar 2026 07:56:29 +0530",
-        "published_at_utc": "2026-03-29T02:26:29+00:00",
-        "id": "article-70798621",
-        "topic_type": "eu_policy",
-        "relevance_score": 15,
+        "source_name": "The Guardian World",
+        "title": "Starmer to say Iran war means Labour’s values needed more than ever at local elections campaign launch – UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/mar/30/starmer-iran-war-labour-values-local-elections-campaign-launch-uk-politics-latest",
+        "summary": "UK PM to chair meeting in Downing Street on how government responds to economic consequences of Iran war later on Monday As Jessica Elgot reports in her overnight story on the Labour local elections launch this morning, Keir Starmer will also highlight what Labour is doing to help people with the cost of living. In his news release issued ahead of the launch, Labour has highlighted more than a dozen measures coming into force within the next week that it says will help people with the cost of living. Here is the list. Key cost of living measures coming into force on 1 April: -Prescription charge freeze, keeping prescriptions under £10 Continue reading...",
+        "published": "Mon, 30 Mar 2026 08:44:11 GMT",
+        "updated": "2026-03-30T08:44:11Z",
+        "published_at_utc": "2026-03-30T08:44:11+00:00",
+        "id": "https://www.theguardian.com/politics/live/2026/mar/30/starmer-iran-war-labour-values-local-elections-campaign-launch-uk-politics-latest",
+        "topic_type": "uk_politics",
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "Upon arriving to the island, Adnaan Stumo, the coordinator of the sailing convoy, said bad weather was responsible for the delay because the boats had to take a longer route and the sailors were “never in any serious danger”",
-          "news_focus_zh": "一批運載人道援助的帆船在遭遇壞天氣後，最終抵達古巴，並由墨西哥海軍定位。協調員表示，延誤是由於需要繞道而行，船員並未面臨嚴重危險。",
-          "background": "此事件發生在古巴面臨人道危機的背景下，國際社會對該國的援助需求日益增加。墨西哥海軍的介入顯示出該國在地區人道援助中的角色，特別是在加勒比海地區的合作與支持。帆船運送援助的方式，反映了對於傳統運輸方式的替代選擇，尤其是在面對自然災害時。",
+          "news_focus": "UK PM to chair meeting in Downing Street on how government responds to economic consequences of Iran war later on Monday As Jessica Elgot reports in her overnight story on the Labour local elections launch this morning, Keir Starmer will also highlight what Labour is doing to help people with the cost of living. In his news release issued ahead of the launch, Labour has highlighted more than a dozen measures coming into force within the next week that it says will help people with the cost of living. Here is the list. Key cost of living measures coming into force on 1 April: -Prescription charge freeze, keeping prescriptions under £10 Continue reading...",
+          "news_focus_zh": "英國工黨領袖基爾·斯塔默在地方選舉活動啟動時強調，因伊朗戰爭帶來的經濟影響，使工黨的價值觀比以往更為重要。他指出工黨將推出多項措施以應對生活成本上升的挑戰。",
+          "background": "近期伊朗戰爭的爆發對全球經濟造成衝擊，特別是能源價格的上漲，進一步加劇了英國的生活成本危機。工黨在此背景下，試圖透過推出一系列政策來強化其在選民心中的形象，並展示其對民生問題的關注。地方選舉即將來臨，工黨希望藉此機會重新獲得選民支持，尤其是在經濟困境中。",
           "stakeholders": [
-            "古巴政府",
-            "墨西哥海軍",
-            "國際人道組織",
-            "當地居民",
-            "航運公司"
+            "工黨",
+            "保守黨",
+            "選民",
+            "經濟學家",
+            "社會福利組織"
           ],
-          "analysis": "此次事件突顯了人道援助運輸的脆弱性，尤其是在極端天氣條件下。墨西哥海軍的介入不僅展示了其在地區安全與合作中的重要性，也可能提升其在國際人道主義領域的形象。對於古巴而言，這次援助的成功抵達可能緩解當前的援助需求，但同時也反映出其對外部支持的依賴性。各方可能會重新評估未來的援助路徑與合作模式。"
+          "analysis": "斯塔默的發言反映了工黨在當前政治環境中的策略調整，強調其對民生議題的重視，並試圖與執政保守黨形成鮮明對比。保守黨可能會面臨來自工黨的壓力，因為選民對生活成本的關注日益增加。工黨的措施若能有效緩解民生困境，將有助於提升其在即將到來的選舉中的競爭力，但若措施效果不彰，則可能進一步削弱其公信力。"
         },
         "topic_priority_score": 9,
-        "event_type": "political_signal",
+        "event_type": "election_move",
         "supporting_sources": [
-          "BBC World",
-          "The Guardian World"
+          "SCMP World",
+          "Al Jazeera",
+          "The Hindu International",
+          "The Diplomat"
         ],
         "supporting_titles": [
-          "Two Cuba-bound aid ships found days after disappearing",
-          "Missing aid boats have safely reached Cuba, US confirms"
+          "UK’s PM Starmer to host industry leaders for Middle East war talks on Monday",
+          "Did Israel miscalculate in launching the war on Iran?",
+          "One month of Israel-U.S. war on Iran: A timeline",
+          "How the Iran War Will Reconfigure Militancy in Balochistan"
         ],
         "supporting_links": [
-          "https://www.bbc.com/news/articles/clye4w10g22o?at_medium=RSS&at_campaign=rss",
-          "https://www.theguardian.com/world/2026/mar/27/cuba-aid-boats-missing-en-route-mexico-our-america-convoy"
+          "https://www.scmp.com/news/world/europe/article/3348327/uks-pm-starmer-host-industry-leaders-middle-east-war-talks-monday?utm_source=rss_feed",
+          "https://www.aljazeera.com/opinions/2026/3/30/did-israel-miscalculate-in-launching-the-war-on-iran?traffic_source=rss",
+          "https://www.thehindu.com/news/international/one-month-of-israel-us-war-on-iran-a-timeline/article70800535.ece",
+          "https://thediplomat.com/2026/03/how-the-iran-war-will-reconfigure-militancy-in-balochistan/"
         ],
-        "source_count": 3
+        "source_count": 5
       }
     ],
     "economy": [
       {
         "category": "economy",
         "source_name": "The Guardian Business",
-        "title": "US treasury department demands retraction of story on increased oversight of Federal Reserve",
-        "link": "https://www.theguardian.com/us-news/2026/mar/28/treasury-department-financial-times-federal-reserve",
-        "summary": "Treasury department said Financial Times article about Scott Bessent’s views on Fed oversight was ‘manufactured’ The US treasury department demanded on Friday that the Financial Times (FT) retract a report on treasury secretary Scott Bessent’s views on the Federal Reserve, accusing the newspaper of publishing “false claims” in a formal complaint escalated to the outlet’s parent company, Nikkei Inc. The email from treasury officials, addressed to senior editors at the FT and Nikkei, disputed multiple claims in the story and criticized the headline as misrepresenting the underlying reporting. Continue reading...",
-        "published": "Sat, 28 Mar 2026 20:58:06 GMT",
-        "updated": "2026-03-28T20:58:06Z",
-        "published_at_utc": "2026-03-28T20:58:06+00:00",
-        "id": "https://www.theguardian.com/us-news/2026/mar/28/treasury-department-financial-times-federal-reserve",
+        "title": "UK savers told to act now before Easter Sunday cash Isa deadline",
+        "link": "https://www.theguardian.com/money/2026/mar/30/uk-savers-told-to-act-now-before-easter-sunday-cash-isa-deadline",
+        "summary": "Interest rates as high as 4.45% and a steep cut in next year’s allowance fuel forecast of last-minute rush Cost of living: how to prepare for the ‘awful April’ shower of bill increases Savers who want to make the most of this year’s cash Isa allowance are being urged not to leave it to the last minute, as the deadline for applications falls on the Easter weekend. The Isa wrapper allows people to save or invest money and benefit from the returns free of tax. Each tax year, people can pay in up to £20,000, which can then be moved around in subsequent years without the tax benefits being lost. Continue reading...",
+        "published": "Mon, 30 Mar 2026 06:00:20 GMT",
+        "updated": "2026-03-30T06:00:20Z",
+        "published_at_utc": "2026-03-30T06:00:20+00:00",
+        "id": "https://www.theguardian.com/money/2026/mar/30/uk-savers-told-to-act-now-before-easter-sunday-cash-isa-deadline",
         "topic_type": "interest_rates",
         "relevance_score": 18,
         "briefing": {
-          "news_focus": "Treasury department said Financial Times article about Scott Bessent’s views on Fed oversight was ‘manufactured’ The US treasury department demanded on Friday that the Financial Times (FT) retract a report on treasury secretary Scott Bessent’s views on the Federal Reserve, accusing the newspaper of publishing “false claims” in a formal complaint escalated to the outlet’s parent company, Nikkei Inc. The email from treasury officials, addressed to senior editors at the FT and Nikkei, disputed multiple claims in the story and criticized the headline as misrepresenting the underlying reporting. Continue reading...",
-          "news_focus_zh": "美國財政部要求《金融時報》撤回一篇報導，該報導涉及財政部長斯科特·貝森對美聯儲監管的看法，並指控該報導為虛假信息。",
-          "background": "美國財政部與美聯儲之間的關係歷來複雜，尤其在金融政策與監管方面。隨著經濟環境變化，對美聯儲的監管需求日益增加，這引發了各方的關注與討論。近期，財政部長的言論被媒體報導後，財政部迅速反駁，顯示出對於媒體報導的敏感性及對於自身形象的重視。",
+          "news_focus": "Interest rates as high as 4.45% and a steep cut in next year’s allowance fuel forecast of last-minute rush Cost of living: how to prepare for the ‘awful April’ shower of bill increases Savers who want to make the most of this year’s cash Isa allowance are being urged not to leave it to the last minute, as the deadline for applications falls on the Easter weekend. The Isa wrapper allows people to save or invest money and benefit from the returns free of tax. Each tax year, people can pay in up to £20,000, which can then be moved around in subsequent years without the tax benefits being lost. Continue reading...",
+          "news_focus_zh": "英國儲戶被提醒在復活節前行動，以利用今年的現金ISA限額，因為利率高達4.45%，且明年限額將大幅削減。",
+          "background": "現金ISA（個人儲蓄帳戶）是英國政府為鼓勵儲蓄而設立的稅收優惠工具，允許個人每年存入最高20,000英鎊而不需繳稅。隨著利率上升，儲戶對於利用這一優惠的需求增加。2024年將面臨的限額削減，使得今年的儲蓄行為更為迫切，尤其是在生活成本上升的背景下，儲戶需謹慎規劃財務。",
           "stakeholders": [
-            "美國財政部",
-            "金融時報",
-            "日經新聞",
-            "市場分析師",
-            "投資者"
+            "英國儲戶",
+            "銀行與金融機構",
+            "英國政府",
+            "經濟分析師",
+            "消費者權益組織"
           ],
-          "analysis": "財政部的要求反映出其對於媒體報導的控制欲望，並希望避免對其政策立場的誤解。此事件可能影響財政部與媒體之間的信任關係，並引發對於政府與媒體互動的廣泛討論。不同利益方，如財政部、媒體機構及市場分析師，可能對此事件有不同解讀，財政部希望維護其權威性，而媒體則可能強調報導自由的重要性。"
+          "analysis": "這則新聞突顯了儲戶面臨的緊迫性，尤其是在生活成本上升的情況下，許多人可能會因為即將到來的開支而忽視儲蓄機會。銀行和金融機構將受益於儲戶的最後一刻申請，可能會加強市場競爭，進一步提高利率。此外，政府的限額調整可能會引發對未來儲蓄政策的討論，特別是在經濟不穩定的環境中，如何平衡稅收政策與促進儲蓄的需求將成為焦點。"
         },
         "topic_priority_score": 10,
         "event_type": "rate_decision",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "Cost of living: how to prepare for the ‘awful April’ shower of bill increases",
+        "link": "https://www.theguardian.com/money/2026/mar/30/cost-of-living-how-to-prepare-for-the-awful-april-shower-of-bill-increases",
+        "summary": "From council tax to water, broadband to stamps, costs climb again from next month …. and that’s before any knock-on effects from Iran war UK savers told to act now before Easter Sunday cash Isa deadline Next month, UK households face a bill surge in which the annual cost of essentials, including council tax and water, increase by more than £200 – and that is before the full impact of price jumps caused by the Iran war hit your pocket. The “awful April” increases are particularly unwelcome as the financial turmoil caused by the Middle East conflict has pushed up mortgage rates, fuel prices and energy bills for rural households . Continue reading...",
+        "published": "Mon, 30 Mar 2026 06:00:17 GMT",
+        "updated": "2026-03-30T06:00:17Z",
+        "published_at_utc": "2026-03-30T06:00:17+00:00",
+        "id": "https://www.theguardian.com/money/2026/mar/30/cost-of-living-how-to-prepare-for-the-awful-april-shower-of-bill-increases",
+        "topic_type": "inflation",
+        "relevance_score": 22,
+        "briefing": {
+          "news_focus": "From council tax to water, broadband to stamps, costs climb again from next month …. and that’s before any knock-on effects from Iran war UK savers told to act now before Easter Sunday cash Isa deadline Next month, UK households face a bill surge in which the annual cost of essentials, including council tax and water, increase by more than £200 – and that is before the full impact of price jumps caused by the Iran war hit your pocket. The “awful April” increases are particularly unwelcome as the financial turmoil caused by the Middle East conflict has pushed up mortgage rates, fuel prices and energy bills for rural households . Continue reading...",
+          "news_focus_zh": "英國家庭將在下月面臨生活成本上升，尤其是市政稅和水費等基本開支預計增加超過200英鎊，這一波漲價尚未考慮到伊朗戰爭帶來的後續影響。",
+          "background": "隨著全球經濟不穩定，英國的生活成本持續上升，特別是在能源和房貸利率方面。伊朗戰爭的爆發進一步加劇了市場的不確定性，導致燃料和能源價格上漲。這些因素共同影響了家庭的財務狀況，尤其是在即將到來的四月，預期的費用增加將對家庭預算造成壓力。",
+          "stakeholders": [
+            "英國政府",
+            "家庭",
+            "金融機構",
+            "能源公司",
+            "投資者"
+          ],
+          "analysis": "此次生活成本上升對英國家庭來說是一個重大挑戰，尤其是低收入家庭將受到更大影響。政府面臨的壓力在於如何平衡經濟復甦與民生需求，可能需要考慮推出補貼或減稅措施以緩解民眾負擔。而金融機構則需應對因利率上升帶來的貸款風險，可能會影響其信貸政策。對於投資者而言，市場的不穩定性可能導致資本流動的變化，影響整體經濟增長。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "rate_decision",
         "supporting_sources": [
-          "The Economist"
+          "The Economist",
+          "BBC Business",
+          "SCMP Business"
         ],
         "supporting_titles": [
-          "What will Kevin Warsh’s Federal Reserve look like?"
+          "The hard right’s plans for Europe’s economy",
+          "How the Hormuz closure could affect food, medicines and smartphones",
+          "Rewriting Commerce For The Agentic Age"
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2026/01/30/what-will-kevin-warshs-federal-reserve-look-like"
+          "https://www.economist.com/finance-and-economics/2025/09/04/the-hard-rights-plans-for-europes-economy",
+          "https://www.bbc.com/news/articles/c4gjxv5g19no?at_medium=RSS&at_campaign=rss",
+          "https://www.scmp.com/presented/business/topics/c-suite-game-changers/article/3347944/rewriting-commerce-agentic-age?utm_source=rss_feed"
         ],
-        "source_count": 2
+        "source_count": 4
       },
       {
         "category": "economy",
         "source_name": "Reuters",
-        "title": "On Canada's tariff frontline, business stalls over US trade deal jitters - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYkQ2ZWRHUUpRXzlyNG9pX2M3bUN3cGJ0MDdzMjMwdGxzOGQ4MjBMTmJaZUZCeEJTSVBKb095b01yclZZeTZ4Zkl0eWpnbnFzMGxlWnFlazUtU1lWWGpuQVVPdHhSYjNvcFVWU09aMmlDNkVhbjJ6Y3ZKMUNpTzNZYU5IWURFX3E4LWYxZjJYR3gyRDVwYlR0bC1HSzhveHJ3bUtHZ2dzeHB5SWoyNFBza3RjMjlNbjVkMGc?oc=5",
-        "summary": "On Canada's tariff frontline, business stalls over US trade deal jitters Reuters",
-        "published": "Sat, 28 Mar 2026 12:54:11 GMT",
-        "updated": "Sat, 28 Mar 2026 12:54:11 GMT",
-        "published_at_utc": "2026-03-28T12:54:11+00:00",
-        "id": "CBMiugFBVV95cUxOYkQ2ZWRHUUpRXzlyNG9pX2M3bUN3cGJ0MDdzMjMwdGxzOGQ4MjBMTmJaZUZCeEJTSVBKb095b01yclZZeTZ4Zkl0eWpnbnFzMGxlWnFlazUtU1lWWGpuQVVPdHhSYjNvcFVWU09aMmlDNkVhbjJ6Y3ZKMUNpTzNZYU5IWURFX3E4LWYxZjJYR3gyRDVwYlR0bC1HSzhveHJ3bUtHZ2dzeHB5SWoyNFBza3RjMjlNbjVkMGc",
+        "title": "E-commerce duties moratorium expires as WTO talks run out of time, officials say - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeDlOZkJCTDI0RGNiSFBnUkZCcmJsQWlVNTZzRi1VNV9xYkhSU0pHLWpMWkJaRC1QRWd2d3J6UmU0TlBDcGwzajI5R0xBRkpaY25FcFRNSXNENndqdnpZRVFBOEt5QWU2V1pLU3RQRWstdHphcUZfdEdDcTMtNkJFRFB6VV9xenhBQUwzYWpaYlM2Tmk1OFJnOG84dmZ6d2ppbTJYUS1jd2VaTTBoM01qLWs2T3BxbUZJdlE?oc=5",
+        "summary": "E-commerce duties moratorium expires as WTO talks run out of time, officials say Reuters",
+        "published": "Mon, 30 Mar 2026 00:58:00 GMT",
+        "updated": "Mon, 30 Mar 2026 00:58:00 GMT",
+        "published_at_utc": "2026-03-30T00:58:00+00:00",
+        "id": "CBMiugFBVV95cUxOeDlOZkJCTDI0RGNiSFBnUkZCcmJsQWlVNTZzRi1VNV9xYkhSU0pHLWpMWkJaRC1QRWd2d3J6UmU0TlBDcGwzajI5R0xBRkpaY25FcFRNSXNENndqdnpZRVFBOEt5QWU2V1pLU3RQRWstdHphcUZfdEdDcTMtNkJFRFB6VV9xenhBQUwzYWpaYlM2Tmk1OFJnOG84dmZ6d2ppbTJYUS1jd2VaTTBoM01qLWs2T3BxbUZJdlE",
         "topic_type": "trade_wars",
-        "relevance_score": 19,
+        "relevance_score": 16,
         "briefing": {
-          "news_focus": "On Canada's tariff frontline, business stalls over US trade deal jitters Reuters",
-          "news_focus_zh": "加拿大企業因對美國貿易協議的不確定性而面臨業務停滯，特別是在關稅問題上，這引發了對未來經濟前景的擔憂。",
-          "background": "加拿大與美國之間的貿易關係歷史悠久，兩國在北美自由貿易協定（NAFTA）後的美墨加協議（USMCA）中重新調整了貿易條款。隨著美國對某些進口商品施加關稅，加拿大企業面臨更高的成本與市場不確定性，這影響了他們的投資決策與業務運作。特別是在當前全球經濟放緩的背景下，企業對未來的貿易政策感到焦慮。",
+          "news_focus": "E-commerce duties moratorium expires as WTO talks run out of time, officials say Reuters",
+          "news_focus_zh": "世界貿易組織（WTO）關於電子商務關稅的暫停措施到期，因為相關談判未能達成共識，這可能對全球電子商務市場造成影響。",
+          "background": "自2019年以來，WTO成員國對電子商務關稅的暫停措施一直在進行討論。這項措施旨在促進數位貿易，避免對電子商務施加額外的稅負。然而，隨著談判的拖延，各國對於如何規範電子商務的立場出現分歧，導致暫停措施到期，可能影響未來的貿易政策和市場環境。",
           "stakeholders": [
-            "加拿大政府",
-            "美國政府",
-            "加拿大企業",
-            "進口商",
-            "消費者"
+            "WTO成員國",
+            "電子商務企業",
+            "消費者",
+            "發展中國家",
+            "發達國家"
           ],
-          "analysis": "企業對美國貿易政策的不確定性使得加拿大商業活動受到壓制。美國政府可能的關稅調整將直接影響加拿大的出口商，特別是農產品與製造業者。這種情況可能導致企業推遲投資，進一步影響經濟增長。另一方面，加拿大政府可能需要加強與美國的外交談判，以減少貿易摩擦，並保護本國企業的利益。各方的立場可能會因經濟壓力而變化，未來的貿易政策走向仍需密切關注。"
+          "analysis": "各國在電子商務稅收政策上的立場差異明顯。發展中國家可能支持徵收關稅以保護本國產業，而發達國家則傾向於維持暫停以促進自由貿易。這一局面可能導致全球電子商務市場的不確定性，影響企業的投資決策及消費者的購物成本，未來可能需要重新啟動談判以達成共識。"
         },
         "topic_priority_score": 9,
         "event_type": "macro_signal",
-        "supporting_sources": [
-          "The Economist"
-        ],
-        "supporting_titles": [
-          "Who wrangled the best trade deal from Donald Trump?"
-        ],
-        "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2026/02/10/who-wrangled-the-best-trade-deal-from-donald-trump"
-        ],
-        "source_count": 2
-      },
-      {
-        "category": "economy",
-        "source_name": "The Economist",
-        "title": "Why American bondholders are jumpy about inflation",
-        "link": "https://www.economist.com/finance-and-economics/2025/09/10/why-american-bondholders-are-jumpy-about-inflation",
-        "summary": "The Federal Reserve prepares to cut interest rates in tricky circumstances",
-        "published": "Wed, 10 Sep 2025 19:05:23 +0000",
-        "updated": "Wed, 10 Sep 2025 19:05:23 +0000",
-        "published_at_utc": "2025-09-10T19:05:23+00:00",
-        "id": "9179ca8f-dd93-4b37-afc7-8378f4fa78b3",
-        "topic_type": "inflation",
-        "relevance_score": 16,
-        "briefing": {
-          "news_focus": "The Federal Reserve prepares to cut interest rates in tricky circumstances",
-          "news_focus_zh": "美國聯邦儲備系統（Fed）在面對複雜情勢下，準備降低利率，這使得美國的債券持有者對通脹感到不安。",
-          "background": "在過去幾年中，美國經濟經歷了劇烈的通脹波動，這使得聯邦儲備系統的貨幣政策面臨挑戰。隨著通脹壓力的上升，Fed曾多次提高利率以抑制通脹。然而，當前經濟增長放緩，Fed考慮降息以刺激經濟，這種政策轉變引發了市場對未來通脹的擔憂，尤其是對固定收益投資者的影響。",
-          "stakeholders": [
-            "美國聯邦儲備系統",
-            "債券持有者",
-            "投資者",
-            "經濟學家",
-            "市場分析師"
-          ],
-          "analysis": "債券持有者對通脹的敏感性使得他們在利率降低的背景下感到不安。降息可能會刺激經濟，但同時也可能導致通脹回升，從而侵蝕債券的實際回報。投資者對未來的預期分歧，一方面擔心通脹上升，另一方面又希望經濟復甦帶來的收益，這使得市場情緒變得不穩定。若通脹持續上升，可能會迫使Fed重新考慮其貨幣政策，進一步影響市場動態。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "rate_decision",
-        "supporting_sources": [
-          "The Guardian Business",
-          "BBC Business"
-        ],
-        "supporting_titles": [
-          "‘It dictated the whole atmosphere’: why some landlords are banning kids from pubs",
-          "The £5.30 orange juice that tells the story of why supermarket prices are sky high"
-        ],
-        "supporting_links": [
-          "https://www.theguardian.com/lifeandstyle/2026/mar/26/it-dictated-the-whole-atmosphere-why-some-landlords-are-banning-kids-from-pubs",
-          "https://www.bbc.com/news/articles/c397n3jl3z8o?at_medium=RSS&at_campaign=rss"
-        ],
-        "source_count": 3
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
       }
     ]
   },
   "further_reading": {
     "technology": [
-      {
-        "title": "Inside China’s robotics revolution",
-        "link": "https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution",
-        "source_name": "The Guardian Technology",
-        "published_at_utc": "2026-03-19T05:01:00+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "Anduril Wants to Own the Future of War Tech. Mishaps, Delays, and Challenges Abound",
-        "link": "https://www.wired.com/story/andurils-real-war-is-with-itself/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-03-26T10:00:00+00:00",
-        "relevance_score": 8
-      },
       {
         "title": "The Gulf was Silicon Valley’s bet on the future. Trump has put it in the crosshairs",
         "link": "https://restofworld.org/2026/gulf-war-aws-data-center-attack-ai-investment-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
@@ -425,6 +410,13 @@
         "relevance_score": 8
       },
       {
+        "title": "‘It does feel like an intimidation campaign’: why is US tech giant Palantir suing a small Swiss magazine?",
+        "link": "https://www.theguardian.com/global-development/2026/mar/20/us-tech-giant-palantir-swiss-magazine-wav",
+        "source_name": "The Guardian Technology",
+        "published_at_utc": "2026-03-20T06:00:12+00:00",
+        "relevance_score": 0
+      },
+      {
         "title": "Physical Intelligence is reportedly in talks to raise $1 billion, again",
         "link": "https://techcrunch.com/2026/03/27/physical-intelligence-is-reportedly-in-talks-to-raise-1-billion-again/",
         "source_name": "TechCrunch",
@@ -432,11 +424,11 @@
         "relevance_score": -4
       },
       {
-        "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
-        "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-03-28T14:15:00+00:00",
-        "relevance_score": 11
+        "title": "Bluesky’s new app is an AI for customizing your feed",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-03-29T21:44:41+00:00",
+        "relevance_score": 14
       },
       {
         "title": "DOJ confirms FBI Director Kash Patel’s personal email was hacked",
@@ -446,90 +438,97 @@
         "relevance_score": 10
       },
       {
-        "title": "Apple says no one using Lockdown Mode has been hacked with spyware",
-        "link": "https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-03-27T14:27:32+00:00",
-        "relevance_score": 10
-      },
-      {
         "title": "Thousands of people are selling their identities to train AI – but at what cost?",
         "link": "https://www.theguardian.com/technology/2026/mar/21/ai-trainers-identity-cost",
         "source_name": "The Guardian Technology",
         "published_at_utc": "2026-03-21T14:00:54+00:00",
         "relevance_score": 10
+      },
+      {
+        "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
+        "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-03-28T14:15:00+00:00",
+        "relevance_score": 8
+      },
+      {
+        "title": "With new plugins feature, OpenAI officially takes Codex beyond coding",
+        "link": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-03-27T21:53:45+00:00",
+        "relevance_score": 8
       }
     ],
     "politics": [
       {
-        "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
-        "link": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+        "title": "Myanmar junta chief Min Aung Hlaing nominated as president",
+        "link": "https://www.bbc.com/news/articles/clyew40w249o?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC World",
-        "published_at_utc": "2026-03-29T07:51:04+00:00",
-        "relevance_score": 17
+        "published_at_utc": "2026-03-30T05:26:09+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Netanyahu says Israel will widen its invasion of southern Lebanon",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3348324/netanyahu-says-israel-will-widen-its-invasion-southern-lebanon?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-03-29T17:59:50+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Israeli PM says ordered military to ‘further expand’ security zone in Lebanon",
+        "link": "https://www.thehindu.com/news/international/israeli-pm-says-ordered-military-to-further-expand-security-zone-in-lebanon/article70800448.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-03-29T16:58:07+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Myanmar junta chief Min Aung Hlaing nominated in presidential process",
+        "link": "https://www.thehindu.com/news/international/myanmar-junta-chief-min-aung-hlaing-nominated-in-presidential-process/article70801720.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-03-30T04:47:49+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Ukrainian drones kill one, damage homes, industry in southern Russia's Taganrog",
+        "link": "https://www.thehindu.com/news/international/ukrainian-drone-strike-in-southern-russias-taganrog/article70800846.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-03-30T02:40:31+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Ukraine and Gulf states agree on air defense partnership",
+        "link": "https://www.taipeitimes.com/News/world/archives/2026/03/30/2003854722",
+        "source_name": "Taipei Times",
+        "published_at_utc": "2026-03-30T00:00:00+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Russia reports fire in new Ukrainian strike on major Baltic port",
+        "link": "https://www.thehindu.com/news/international/russia-reports-fire-in-new-ukrainian-strike-on-major-baltic-port/article70800282.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-03-29T16:18:11+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Zelenskyy claims US tied Ukraine security guarantees to giving up Donbas, White House denies",
+        "link": "https://www.foxnews.com/world/zelenskyy-claims-us-tied-ukraine-security-guarantees-giving-up-donbas-white-house-denies",
+        "source_name": "Fox News World",
+        "published_at_utc": "2026-03-26T15:59:42+00:00",
+        "relevance_score": 11
+      },
+      {
+        "title": "US strikes against Iran-backed militias in Iraq reportedly continue as Baghdad warns of 'right to respond'",
+        "link": "https://www.foxnews.com/world/us-strikes-against-iran-backed-militias-iraq-reportedly-continue-baghdad-warns-right-respond",
+        "source_name": "Fox News World",
+        "published_at_utc": "2026-03-25T15:09:31+00:00",
+        "relevance_score": 11
       },
       {
         "title": "Pedro Sanchez | Europe’s only anti-war Prime Minister",
         "link": "https://www.thehindu.com/news/international/pedro-sanchez-europes-only-anti-war-prime-minister/article70797237.ece",
         "source_name": "The Hindu International",
         "published_at_utc": "2026-03-29T05:01:00+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "AI infrastructure on the front line: Lessons for Asean from the Iran war",
-        "link": "https://www.scmp.com/opinion/asia-opinion/article/3347725/ai-infrastructure-front-line-lessons-asean-iran-war?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-03-28T21:30:10+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "As Iran’s drones swarm Gulf, Ukraine’s wartime tech lands billion-dollar deals",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3348273/irans-drones-swarm-gulf-ukraines-wartime-tech-lands-billion-dollar-deals?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-03-29T03:57:47+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Zelenskyy offers cutting-edge drone defense to Gulf allies as Ukraine seeks missile support",
-        "link": "https://www.foxnews.com/world/zelenskyy-offers-cutting-edge-drone-defense-gulf-allies-ukraine-seeks-missile-support",
-        "source_name": "Fox News World",
-        "published_at_utc": "2026-03-28T22:49:16+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Michigan student disciplined for protesting against war on Gaza reaches settlement with school",
-        "link": "https://www.theguardian.com/us-news/2026/mar/28/michigan-student-protesting-gaza-war-school-settlement",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-03-28T20:59:33+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Kuwait airport hit by Iranian drone strikes",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/kuwait-airport-hit-by-iranian-drone-strikes?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-03-28T20:58:37+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Could Ukraine’s drone expertise serve Gulf countries?",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/3/28/could-ukraines-drone-expertise-serve-gulf-countries?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-03-28T20:50:59+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Russian drones kill four in Ukraine, damage key infrastructure and maternity hospital",
-        "link": "https://www.thehindu.com/news/international/russian-drones-kill-four-in-ukraine-damage-key-infrastructure-and-maternity-hospital/article70797369.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-03-28T17:25:06+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Israeli airstrike in southern Lebanon kills 3 journalists covering the war",
-        "link": "https://www.thehindu.com/news/international/israeli-airstrike-in-southern-lebanon-kills-3-journalists-covering-the-war/article70797282.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-03-28T16:51:34+00:00",
-        "relevance_score": 13
+        "relevance_score": 9
       }
     ],
     "economy": [
@@ -538,7 +537,7 @@
         "link": "https://www.scmp.com/business/companies/article/3348249/hung-hom-flats-sell-out-hong-kong-homebuyers-brush-aside-middle-east-risks?utm_source=rss_feed",
         "source_name": "SCMP Business",
         "published_at_utc": "2026-03-28T09:40:15+00:00",
-        "relevance_score": 17
+        "relevance_score": 14
       },
       {
         "title": "Americans can still get a 2% mortgage",
@@ -611,5 +610,5 @@
     "failed": 0,
     "total": 9
   },
-  "theme_of_day": "今日新聞的整體脈絡顯示，科技、政治與經濟版面之間存在著相互交織的影響。美國科技企業Palantir的訴訟事件與歐盟的網路攻擊確認，反映出在數位安全與商業聲譽之間的緊張關係，尤其在全球科技競爭加劇的背景下。此外，菲律賓與中國的油氣勘探計劃在能源危機中引發的政治討論，與美國貿易政策的不確定性相互影響，顯示出地緣政治對經濟決策的深遠影響。這些事件共同構成了當前國際局勢的複雜面貌，值得持續關注。"
+  "theme_of_day": "今日新聞的整體脈絡圍繞著全球科技進步與地緣政治的交互影響。中國在機器人技術上的快速發展，特別是在汽車製造業，顯示出科技對經濟結構的重塑潛力，而OpenAI關閉Sora的事件則反映出科技企業在數據隱私問題上的挑戰。與此同時，伊朗戰爭的擴大不僅影響了歐洲航空安全，也使得英國工黨在面對生活成本上升的背景下，強調其政策的重要性，顯示出政治與經濟之間的密切聯繫。"
 }
