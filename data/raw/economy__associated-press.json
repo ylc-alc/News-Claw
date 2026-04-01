@@ -5,23 +5,11 @@
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+business&ceid=US:en&hl=en-US&gl=US",
     "feed_title": "\"when:24h allinurl:apnews.com business\" - Google News",
     "feed_link": "https://news.google.com/search?q=when:24h+allinurl:apnews.com+business&ceid=US:en&hl=en-US&gl=US",
-    "fetched_at_utc": "2026-03-31T08:45:37.053667+00:00",
-    "entry_count": 1,
+    "fetched_at_utc": "2026-04-01T08:54:23.432672+00:00",
+    "entry_count": 0,
     "bozo": false,
-    "failed": false,
-    "failure_reason": ""
+    "failed": true,
+    "failure_reason": "feed returned zero entries"
   },
-  "items": [
-    {
-      "category": "economy",
-      "source_name": "Associated Press",
-      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+business&ceid=US:en&hl=en-US&gl=US",
-      "title": "Big change for California small businesses: No more SBA loans for non-citizens - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQjNRbXcxYkQ0TUFvaFhZUlh2c1JLWHdwcHZZV2Yydi1INlRKX0JNd25MMkRBZ2pvdjFBazQyWnE2T2VGeVUya3hNMnowODF0OVM4cmtSd0hDNG10c3lZeDllMHM0TFdnZ3lQLXFHdmo4YnVIY1pmS3pacGJGQUNzaWhWWER3UXBsMlEyenpUUHZaaElxbm5iX1BYTmVJZm1GRlRZaA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOQjNRbXcxYkQ0TUFvaFhZUlh2c1JLWHdwcHZZV2Yydi1INlRKX0JNd25MMkRBZ2pvdjFBazQyWnE2T2VGeVUya3hNMnowODF0OVM4cmtSd0hDNG10c3lZeDllMHM0TFdnZ3lQLXFHdmo4YnVIY1pmS3pacGJGQUNzaWhWWER3UXBsMlEyenpUUHZaaElxbm5iX1BYTmVJZm1GRlRZaA?oc=5\" target=\"_blank\">Big change for California small businesses: No more SBA loans for non-citizens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "Mon, 30 Mar 2026 19:45:00 GMT",
-      "updated": "Mon, 30 Mar 2026 19:45:00 GMT",
-      "id": "CBMipAFBVV95cUxOQjNRbXcxYkQ0TUFvaFhZUlh2c1JLWHdwcHZZV2Yydi1INlRKX0JNd25MMkRBZ2pvdjFBazQyWnE2T2VGeVUya3hNMnowODF0OVM4cmtSd0hDNG10c3lZeDllMHM0TFdnZ3lQLXFHdmo4YnVIY1pmS3pacGJGQUNzaWhWWER3UXBsMlEyenpUUHZaaElxbm5iX1BYTmVJZm1GRlRZaA"
-    }
-  ]
+  "items": []
 }
