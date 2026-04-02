@@ -1,25 +1,25 @@
 {
-  "generated_at_utc": "2026-04-01T08:54:23.856922+00:00",
+  "generated_at_utc": "2026-04-02T08:44:30.631470+00:00",
   "summary": {
-    "total_raw_items": 1139,
-    "total_deduped_items": 1130,
+    "total_raw_items": 1134,
+    "total_deduped_items": 1125,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
         "chips",
-        "ai",
-        "cybersecurity"
+        "cybersecurity",
+        "ai"
       ],
       "politics": [
         "war_and_conflict",
         "us_china_relations",
-        "uk_politics"
+        "eu_policy"
       ],
       "economy": [
         "interest_rates",
-        "inflation",
-        "trade_wars"
+        "trade_wars",
+        "inflation"
       ]
     },
     "multi_source_selected_count": 7
@@ -29,57 +29,77 @@
       {
         "category": "technology",
         "source_name": "Ars Technica",
-        "title": "Iran's hackers are on the offensive against the US and Israel",
-        "link": "https://arstechnica.com/security/2026/03/irans-hackers-are-on-the-offensive-against-the-us-and-israel/",
-        "summary": "Tehran hopes to stoke fear and extract intel in a series of cyber attacks.",
-        "published": "Tue, 31 Mar 2026 13:37:48 +0000",
-        "updated": "Tue, 31 Mar 2026 13:37:48 +0000",
-        "published_at_utc": "2026-03-31T13:37:48+00:00",
-        "id": "https://arstechnica.com/security/2026/03/irans-hackers-are-on-the-offensive-against-the-us-and-israel/",
+        "title": "Nvidia rolls out its fix for PC gaming's \"compiling shaders\" wait times",
+        "link": "https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/",
+        "summary": "Microsoft, Intel are also working on their own solutions for the issue.",
+        "published": "Wed, 01 Apr 2026 20:46:48 +0000",
+        "updated": "Wed, 01 Apr 2026 20:46:48 +0000",
+        "published_at_utc": "2026-04-01T20:46:48+00:00",
+        "id": "https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/",
         "topic_type": "chips",
-        "relevance_score": 17,
+        "relevance_score": 14,
         "briefing": {
-          "news_focus": "Tehran hopes to stoke fear and extract intel in a series of cyber attacks.",
-          "news_focus_zh": "伊朗駭客對美國和以色列發起了一系列網路攻擊，旨在引發恐懼並獲取情報，顯示出其在網路戰爭中的積極進攻態勢。",
-          "background": "伊朗的網路攻擊行動近年來逐漸增多，這與其地緣政治環境及與美國和以色列的緊張關係密切相關。隨著科技的進步，網路戰成為國際衝突的重要戰場，伊朗希望透過這些攻擊來提升其在地區的影響力及威懾力。此外，伊朗的駭客組織如APT33和Charming Kitten等，已經在過去的攻擊中顯示出其技術能力和策略性。",
+          "news_focus": "Microsoft, Intel are also working on their own solutions for the issue.",
+          "news_focus_zh": "Nvidia推出了針對PC遊戲中「編譯著色器」等待時間的修正方案，並且微軟和英特爾也在針對此問題開發各自的解決方案。",
+          "background": "隨著PC遊戲的普及，著色器編譯的等待時間成為玩家體驗中的一大痛點。Nvidia作為圖形處理器的主要供應商，面對玩家對遊戲流暢度的需求，推出了相應的技術改進。此外，微軟和英特爾的參與顯示出此問題的普遍性，並且反映了業界對提升遊戲性能的重視。",
           "stakeholders": [
-            "伊朗政府",
-            "美國政府",
-            "以色列政府",
-            "網路安全公司",
-            "國際社會"
+            "Nvidia",
+            "微軟",
+            "英特爾",
+            "遊戲開發者",
+            "玩家社群"
           ],
-          "analysis": "此次攻擊對美國和以色列的影響深遠。美國可能會加強其網路防禦措施，並考慮對伊朗的回應行動，以維護國家安全。而以色列則可能會在情報收集和反制措施上加大投入，以防範未來的威脅。伊朗則希望透過這些行動來展示其網路能力，並在國內外塑造強硬形象，進一步鞏固政權。各方的利益和立場在此事件中交織，未來可能引發更大的網路戰爭。"
+          "analysis": "Nvidia的修正方案將直接提升其顯示卡的競爭力，可能吸引更多玩家選擇其產品。然而，微軟和英特爾的介入可能會導致市場競爭加劇，三者之間的技術解決方案可能會影響玩家的選擇和遊戲開發者的策略。若各方能夠協同合作，將有助於整體生態系統的改善，但若各自為政，則可能導致技術標準的分歧，影響遊戲性能的整體提升。"
         },
         "topic_priority_score": 10,
-        "event_type": "strategic_move",
+        "event_type": "product_launch",
         "supporting_sources": [
-          "The Verge",
-          "Wired",
-          "The Guardian Technology",
-          "Rest of World",
-          "MIT Technology Review"
+          "TechCrunch"
         ],
         "supporting_titles": [
-          "The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale",
-          "Artemis II Countdown: How and When to Watch the Launch",
-          "The best pressure washers in the UK for cleaning garden furniture and patios – tested",
-          "Workers around the world are not getting what they want from AI",
-          "The Download: brainless human clones and the first uterus kept alive outside a body"
+          "Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks"
         ],
         "supporting_links": [
-          "https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal",
-          "https://www.wired.com/story/artemis-ii-countdown-how-and-when-to-watch-the-launch-of-the-manned-mission-to-the-moon/",
-          "https://www.theguardian.com/thefilter/2025/apr/18/best-pressure-washers-cleaners-uk",
-          "https://restofworld.org/2026/workers-ai-jobs-concerns/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-          "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/"
+          "https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/"
         ],
-        "source_count": 6
+        "source_count": 2
+      },
+      {
+        "category": "technology",
+        "source_name": "Reuters",
+        "title": "Hasbro investigates cybersecurity incident, takes some systems offline - reuters.com",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWmZsYzBUMXY0RzN4OENraDRyLV9GWDF2ekdocXp4Uk5Ga1JQS3lwN2Fzb1RjR29NbXZQUGxlcko3cFdwdHhDTFlyd1VjYl8tVVMzQ2NoM0xiaDRFak1BRzFLZ3lFc1VWTFZNMlJ0Ymh6dnJuaG1lNXB5TlJXQ0FpVUVaTFdlQXdlVDB3Rkl3djJRT2g1VEJQLWVrRQ?oc=5",
+        "summary": "Hasbro investigates cybersecurity incident, takes some systems offline reuters.com",
+        "published": "Wed, 01 Apr 2026 20:20:37 GMT",
+        "updated": "Wed, 01 Apr 2026 20:20:37 GMT",
+        "published_at_utc": "2026-04-01T20:20:37+00:00",
+        "id": "CBMimwFBVV95cUxPWmZsYzBUMXY0RzN4OENraDRyLV9GWDF2ekdocXp4Uk5Ga1JQS3lwN2Fzb1RjR29NbXZQUGxlcko3cFdwdHhDTFlyd1VjYl8tVVMzQ2NoM0xiaDRFak1BRzFLZ3lFc1VWTFZNMlJ0Ymh6dnJuaG1lNXB5TlJXQ0FpVUVaTFdlQXdlVDB3Rkl3djJRT2g1VEJQLWVrRQ",
+        "topic_type": "cybersecurity",
+        "relevance_score": 16,
+        "briefing": {
+          "news_focus": "Hasbro investigates cybersecurity incident, takes some systems offline reuters.com",
+          "news_focus_zh": "玩具公司哈斯布羅（Hasbro）正在調查一起網絡安全事件，並已將部分系統下線以防止進一步損害。",
+          "background": "哈斯布羅是全球知名的玩具和娛樂公司，擁有多個知名品牌。隨著數字化轉型的加速，企業面臨的網絡安全威脅日益增加。過去幾年，許多大型企業遭受過類似的網絡攻擊，這使得企業在數據保護和系統安全方面的投資變得尤為重要。此次事件可能會影響哈斯布羅的運營效率及其品牌形象，尤其是在假期銷售季節來臨之際。",
+          "stakeholders": [
+            "Hasbro",
+            "消費者",
+            "網絡安全專家",
+            "供應商",
+            "投資者"
+          ],
+          "analysis": "此次網絡安全事件對哈斯布羅的影響可能是多方面的。首先，公司的運營可能會受到影響，尤其是在供應鏈和客戶服務方面。其次，消費者對品牌的信任可能會受到損害，這在競爭激烈的玩具市場中尤為重要。此外，哈斯布羅需要與網絡安全專家合作，評估事件的範圍和影響，並制定相應的應對措施。投資於網絡安全基礎設施將成為未來的重點。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "strategic_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
       },
       {
         "category": "technology",
         "source_name": "TechCrunch",
-        "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+        "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
         "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
         "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
         "published": "Wed, 01 Apr 2026 01:42:59 +0000",
@@ -87,153 +107,116 @@
         "published_at_utc": "2026-04-01T01:42:59+00:00",
         "id": "https://techcrunch.com/?p=3108357",
         "topic_type": "ai",
-        "relevance_score": 18,
+        "relevance_score": 16,
         "briefing": {
           "news_focus": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
-          "news_focus_zh": "AI招聘初創公司Mercor確認遭遇網絡攻擊，黑客團體聲稱竊取了公司的數據，事件與開源LiteLLM項目的安全漏洞有關。",
-          "background": "隨著人工智慧技術的快速發展，AI招聘工具的需求日益增加，許多初創公司如Mercor迅速崛起。然而，開源項目的安全性問題日益受到關注，LiteLLM作為一個廣泛使用的開源工具，其安全漏洞可能影響多個依賴該技術的企業。這一事件突顯了開源軟體在商業應用中的潛在風險，尤其是在數據安全和隱私保護方面。",
+          "news_focus_zh": "AI招聘初創公司Mercor確認遭受網路攻擊，黑客團體聲稱竊取了公司的數據，並與開源LiteLLM項目的安全漏洞有關。",
+          "background": "隨著人工智慧技術的快速發展，AI招聘工具的需求日益增加。然而，開源項目的安全性問題也隨之浮現，LiteLLM作為一個開源項目，曾受到廣泛關注。Mercor的事件突顯了開源軟體在商業應用中的潛在風險，尤其是在數據安全和隱私方面。這一事件也反映出科技行業對於網路安全的脆弱性，特別是在資金和資源有限的初創公司中。",
           "stakeholders": [
             "Mercor",
             "LiteLLM開發者",
-            "客戶企業",
-            "網絡安全專家",
-            "黑客團體"
+            "黑客團體",
+            "客戶",
+            "網路安全專家"
           ],
-          "analysis": "此次網絡攻擊對Mercor及其客戶造成了直接影響，可能導致信任危機和客戶流失。對於黑客團體而言，這次攻擊是利用開源項目漏洞的典型案例，顯示出其對企業數據的威脅。Mercor需要加強其安全防護措施，以防止未來類似事件的發生。此外，這一事件可能促使其他依賴LiteLLM的企業重新評估其安全策略，並可能引發對開源項目安全性的廣泛討論。"
+          "analysis": "此次事件標誌著Mercor在安全防護上的重大失誤，因為這次攻擊與開源LiteLLM項目的漏洞直接相關，顯示出開源軟體的安全性問題可能對商業運作造成實質影響。這不僅影響Mercor的商業信譽，也可能引發客戶對其數據保護能力的質疑。隨著黑客團體的聲明，可能會引發更多針對其他使用LiteLLM的公司的攻擊，進一步擴大影響範圍，並促使業界加強對開源項目的安全審查。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "Toyota’s Woven Capital appoints new CIO and COO in push for finding the ‘future of mobility’",
-        "link": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility/",
-        "summary": "Woven Capital is the growth-stage venture capital arm of Toyota, focused on backing founders building in space, cybersecurity, and autonomous driving.",
-        "published": "Wed, 01 Apr 2026 01:00:00 +0000",
-        "updated": "Wed, 01 Apr 2026 01:00:00 +0000",
-        "published_at_utc": "2026-04-01T01:00:00+00:00",
-        "id": "https://techcrunch.com/?p=3108119",
-        "topic_type": "cybersecurity",
-        "relevance_score": 16,
-        "briefing": {
-          "news_focus": "Woven Capital is the growth-stage venture capital arm of Toyota, focused on backing founders building in space, cybersecurity, and autonomous driving.",
-          "news_focus_zh": "豐田旗下的Woven Capital任命新任首席資訊官和首席營運官，旨在推動未來移動性的發展，特別是在網絡安全和自動駕駛領域的創新。",
-          "background": "Woven Capital作為豐田的成長階段風險投資部門，成立於2018年，專注於支持與未來交通相關的創業公司。隨著自動駕駛技術和智能交通系統的興起，傳統汽車製造商面臨轉型壓力，必須加強在科技領域的投資，以保持競爭力。此任命反映了豐田對於未來移動性解決方案的重視，並希望透過新的人才引入來加速其創新步伐。",
-          "stakeholders": [
-            "Toyota",
-            "Woven Capital",
-            "創業公司",
-            "投資者",
-            "傳統汽車製造商"
-          ],
-          "analysis": "新任CIO和COO的加入將有助於Woven Capital在快速變化的科技環境中更有效地識別和支持潛在的創新企業。這對於豐田而言，不僅是技術投資的擴展，也是其業務模式轉型的關鍵步驟。不同利益方如創業者、投資者及傳統汽車業者可能會對此變化持不同看法，創業者希望獲得更多資金和資源，而傳統汽車製造商則可能擔心市場競爭加劇，影響其市場份額。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "strategic_move",
+        "is_major_update": true,
         "supporting_sources": [
-          "The Verge",
-          "Wired",
-          "Ars Technica",
-          "The Guardian Technology",
-          "Rest of World",
-          "MIT Technology Review"
+          "BBC Technology"
         ],
         "supporting_titles": [
-          "The AirPods Pro 3 are nearly matching their best-ever price for Amazon’s Big Spring Sale",
-          "Artemis II Countdown: How and When to Watch the Launch",
-          "What's the best cabin layout for aircraft evacuation?",
-          "The best pressure washers in the UK for cleaning garden furniture and patios – tested",
-          "The stark divide in the UAE and India war info systems",
-          "The Download: brainless human clones and the first uterus kept alive outside a body"
+          "Peppa Pig and Transformers owner Hasbro hit by cyber-attack"
         ],
         "supporting_links": [
-          "https://www.theverge.com/gadgets/898502/airpods-pro-3-amazon-big-spring-sale-2026-deal",
-          "https://www.wired.com/story/artemis-ii-countdown-how-and-when-to-watch-the-launch-of-the-manned-mission-to-the-moon/",
-          "https://arstechnica.com/science/2026/03/whats-the-best-cabin-layout-for-aircraft-evacuation/",
-          "https://www.theguardian.com/thefilter/2025/apr/18/best-pressure-washers-cleaners-uk",
-          "https://restofworld.org/2026/the-stark-divide-in-the-uae-and-india-war-info-systems/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-          "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/"
+          "https://www.bbc.com/news/articles/cx24e1nryn9o?at_medium=RSS&at_campaign=rss"
         ],
-        "source_count": 7
+        "source_count": 2
       }
     ],
     "politics": [
       {
         "category": "politics",
         "source_name": "The Guardian World",
-        "title": "Emirates says Iranian nationals are not allowed to enter or transit through UAE – as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/mar/31/iran-latest-updates-trump-threats-oil-spill-dubai-tehran-jerusalem-strikes",
-        "summary": "This blog is closed. Follow our new liveblog here . Saudi Arabia’s defence ministry has said it has intercepted and destroyed ten drones over the past hours, and eight missiles launched towards the Riyadh area and the country’s eastern region. Early this morning Kuwait said its air defences were responding to hostile missile and drone attacks. Neither Saudi Arabia nor Kuwait said where the drones or missiles came from. Iran attacked and set ablaze a fully loaded crude oil tanker off Dubai. Local authorities later said response teams contained the incident with no oil leakage and that no injuries had been reported Donald Trump warned that the US would obliterate Iran’s energy plants and oil wells if it did not open the strait of Hormuz. The Israeli military said four soldiers had been killed in combat in southern Lebanon, where its forces are clashing with Iran-backed Hezbollah. Two giant Chinese container ships have sailed through the strait of Hormuz on their second attempt to leave the Gulf after turning back on Friday , ship-tracking data shows. The transit signals a diplomatic breakthrough between Beijing and Tehran as Iran widens its list of approved nations for transiting the vital route, Lloyd’s List reported. Indonesia’s foreign minister called for an emergency UN security council meeting and a thorough investigation” into a “heinous attack” after three UN peacekeepers from Indonesia were killed in southern Lebanon. Blasts were heard in Tehran and power cuts hit some areas of the capital, Iranian media reported on Tuesday. Israel earlier carried out missile strikes on what it called military infrastructure in Tehran and infrastructure used by Hezbollah in Beirut. Japan and Indonesia agreed to step up coordination on energy security , Japanese PM Sanae Takaichi said on Tuesday. Two Iranian missile launches targeted central Israel, Israeli media reported, with the emergency service saying it had not received reports of any injuries. Turkey reported a ballistic missile launched from Iran had entered Turkish airspace before being shot down by Nato air and missile defences. An earlier summary of key developments is here . Continue reading...",
-        "published": "Wed, 01 Apr 2026 04:44:40 GMT",
-        "updated": "2026-04-01T04:44:40Z",
-        "published_at_utc": "2026-04-01T04:44:40+00:00",
-        "id": "https://www.theguardian.com/world/live/2026/mar/31/iran-latest-updates-trump-threats-oil-spill-dubai-tehran-jerusalem-strikes",
+        "title": "‘Weak and pathetic’: why is the EU not using its leverage to stop Israel?",
+        "link": "https://www.theguardian.com/world/2026/apr/02/why-eu-not-using-leverage-israel-lebanon-gaza",
+        "summary": "Deep divisions on Israel mean the union has failed to act over Lebanon, Gaza, or settler violence in the West Bank The human costs of Israel’s attacks on Lebanon were plain to see when the Irish MEP Barry Andrews visited Beirut last month. He met people who had fled Israeli airstrikes and complied with evacuation orders in southern Lebanon. At makeshift shelters – converted schools – conditions were even worse than during Israel’s last incursion in 2024, he was told. “There are dirty mattresses, dirty blankets, [people] are getting infections, they are getting rashes,” he said recalling a picture of misery compounded by swingeing aid budget cuts . Continue reading...",
+        "published": "Thu, 02 Apr 2026 04:00:17 GMT",
+        "updated": "2026-04-02T04:00:17Z",
+        "published_at_utc": "2026-04-02T04:00:17+00:00",
+        "id": "https://www.theguardian.com/world/2026/apr/02/why-eu-not-using-leverage-israel-lebanon-gaza",
         "topic_type": "war_and_conflict",
-        "relevance_score": 27,
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "This blog is closed. Follow our new liveblog here . Saudi Arabia’s defence ministry has said it has intercepted and destroyed ten drones over the past hours, and eight missiles launched towards the Riyadh area and the country’s eastern region. Early this morning Kuwait said its air defences were responding to hostile missile and drone attacks. Neither Saudi Arabia nor Kuwait said where the drones or missiles came from. Iran attacked and set ablaze a fully loaded crude oil tanker off Dubai. Local authorities later said response teams contained the incident with no oil leakage and that no injuries had been reported Donald Trump warned that the US would obliterate Iran’s energy plants and oil wells if it did not open the strait of Hormuz. The Israeli military said four soldiers had been killed in combat in southern Lebanon, where its forces are clashing with Iran-backed Hezbollah. Two giant Chinese container ships have sailed through the strait of Hormuz on their second attempt to leave the Gulf after turning back on Friday , ship-tracking data shows. The transit signals a diplomatic breakthrough between Beijing and Tehran as Iran widens its list of approved nations for transiting the vital route, Lloyd’s List reported. Indonesia’s foreign minister called for an emergency UN security council meeting and a thorough investigation” into a “heinous attack” after three UN peacekeepers from Indonesia were killed in southern Lebanon. Blasts were heard in Tehran and power cuts hit some areas of the capital, Iranian media reported on Tuesday. Israel earlier carried out missile strikes on what it called military infrastructure in Tehran and infrastructure used by Hezbollah in Beirut. Japan and Indonesia agreed to step up coordination on energy security , Japanese PM Sanae Takaichi said on Tuesday. Two Iranian missile launches targeted central Israel, Israeli media reported, with the emergency service saying it had not received reports of any injuries. Turkey reported a ballistic missile launched from Iran had entered Turkish airspace before being shot down by Nato air and missile defences. An earlier summary of key developments is here . Continue reading...",
-          "news_focus_zh": "阿聯酋宣布禁止伊朗國籍人士進入或經過該國，背景是中東地區的緊張局勢升級，特別是與伊朗及其盟友的衝突加劇。",
-          "background": "近期中東局勢因伊朗與沙烏地阿拉伯及以色列的衝突而變得更加緊張。沙烏地阿拉伯和科威特的防空系統已攔截多架無人機和導彈，顯示出對伊朗潛在攻擊的高度警覺。阿聯酋的禁令可能是出於對伊朗擴大影響力的擔憂，尤其是在霍爾木茲海峽的能源運輸安全問題上，這一地區的地緣政治風險持續上升。",
+          "news_focus": "Deep divisions on Israel mean the union has failed to act over Lebanon, Gaza, or settler violence in the West Bank The human costs of Israel’s attacks on Lebanon were plain to see when the Irish MEP Barry Andrews visited Beirut last month. He met people who had fled Israeli airstrikes and complied with evacuation orders in southern Lebanon. At makeshift shelters – converted schools – conditions were even worse than during Israel’s last incursion in 2024, he was told. “There are dirty mattresses, dirty blankets, [people] are getting infections, they are getting rashes,” he said recalling a picture of misery compounded by swingeing aid budget cuts . Continue reading...",
+          "news_focus_zh": "歐盟因內部對以色列政策的深刻分歧，未能有效利用其影響力來制止以色列在黎巴嫩、加沙及西岸的暴力行為，導致人道危機加劇。",
+          "background": "歐盟在中東政策上長期存在分歧，特別是在以色列與巴勒斯坦衝突的應對上。部分成員國如愛爾蘭對以色列的行為持批評態度，而其他國家則較為支持以色列。這種分歧使得歐盟在面對以色列的軍事行動時，無法形成統一的立場，進而影響其對外政策的有效性。",
           "stakeholders": [
-            "阿聯酋政府",
-            "伊朗政府",
-            "沙烏地阿拉伯",
-            "以色列",
-            "中國"
+            "歐盟成員國",
+            "以色列政府",
+            "巴勒斯坦權力機構",
+            "人道援助組織",
+            "國際社會"
           ],
-          "analysis": "阿聯酋的禁令對伊朗及其國民造成直接影響，限制了他們的出行自由，並可能加劇雙方的緊張關係。沙烏地阿拉伯和以色列則可能視此為加強對伊朗施壓的機會，進一步鞏固其在地區的軍事和外交立場。另一方面，伊朗可能會加強與其他國家的合作，尋求對抗西方及其盟友的策略，這可能導致地區局勢的進一步惡化。"
+          "analysis": "歐盟內部的分歧使得其在以色列問題上的影響力大打折扣，這對於人道主義援助和地區穩定造成負面影響。愛爾蘭等國的呼聲未能獲得足夠支持，反映出歐盟在應對人道危機時的無力感。未來，若無法統一立場，歐盟可能會在國際舞台上失去更多的話語權，並可能導致其他國家對其政策的質疑。"
         },
         "topic_priority_score": 11,
         "event_type": "security_event",
         "supporting_sources": [
-          "SCMP World",
+          "BBC World",
+          "Taipei Times",
+          "The Diplomat",
+          "Al Jazeera",
           "The Hindu International",
           "Fox News World"
         ],
         "supporting_titles": [
-          "Iran says will target Apple, Google and Meta if more of its leaders are killed",
-          "Kuwait says oil tanker hit in Iranian attack at Dubai port; crew safe",
-          "Israel says Iranian leader who ordered Strait of Hormuz closure killed in targeted strike"
+          "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
+          "Notes from Central Taiwan: Ko, Xu and the politics of ‘green terror’",
+          "Indonesia’s UNIFIL Dilemma: Don’t Hand the US and Israel a Victory by Proxy",
+          "How long will Artemis II take to reach the moon, and what happens next?",
+          "Artemis II, the international space race, and what is at stake for the U.S.",
+          "Iran's war against the US and Israel is being fueled by North Korean weapons, expert warns"
         ],
         "supporting_links": [
-          "https://www.scmp.com/news/world/middle-east/article/3348585/iran-says-will-target-apple-google-and-meta-if-more-its-leaders-are-killed?utm_source=rss_feed",
-          "https://www.thehindu.com/news/international/kuwait-says-oil-tanker-hit-in-iranian-attack-at-dubai-port/article70805571.ece",
-          "https://www.foxnews.com/world/israel-says-iranian-leader-who-ordered-strait-hormuz-closure-killed-targeted-strike"
+          "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
+          "https://www.taipeitimes.com/News/feat/archives/2026/04/02/2003854871",
+          "https://thediplomat.com/2026/04/indonesias-unifil-dilemma-dont-hand-the-us-and-israel-a-victory-by-proxy/",
+          "https://www.aljazeera.com/news/2026/4/2/how-long-will-artemis-ii-take-to-reach-the-moon-and-what-happens-next?traffic_source=rss",
+          "https://www.thehindu.com/sci-tech/science/artemis-ii-the-international-space-race-and-what-is-at-stake-for-the-us/article70806797.ece",
+          "https://www.foxnews.com/world/irans-war-against-us-israel-being-fueled-north-korean-weapons-expert-warns"
         ],
-        "source_count": 4
+        "source_count": 7
       },
       {
         "category": "politics",
-        "source_name": "Taipei Times",
-        "title": "EU opposes use of force in Taiwan Strait: MEP",
-        "link": "https://www.taipeitimes.com/News/front/archives/2026/04/01/2003854810",
-        "summary": "",
-        "published": "",
-        "updated": "2026-04-01T08:00:00+08:00",
-        "published_at_utc": "2026-04-01T00:00:00+00:00",
-        "id": "https://www.taipeitimes.com/News/front/archives/2026/04/01/2003854810",
+        "source_name": "SCMP World",
+        "title": "Trump-Xi summit hopes, UN ‘manipulation’, stand-up comedy: 7 US-China relations reads",
+        "link": "https://www.scmp.com/news/china/article/3348587/trump-xi-summit-hopes-un-manipulation-stand-comedy-7-us-china-relations-reads?utm_source=rss_feed",
+        "summary": "We have selected seven of the most interesting and important news stories covering US-China relations from the past few weeks. If you would like to see more of our reporting, please consider subscribing. 1. Trump-Xi summit will be very amicable, predicts former Biden official US President Donald Trump’s focus on short-term deliverables and Chinese President Xi Jinping’s bid for bilateral stability are likely to mean an exceptionally amicable summit when they finally sit down, despite “unusual”...",
+        "published": "Wed, 01 Apr 2026 14:30:08 +0000",
+        "updated": "Wed, 01 Apr 2026 14:30:08 +0000",
+        "published_at_utc": "2026-04-01T14:30:08+00:00",
+        "id": "https://www.scmp.com/news/china/article/3348587/trump-xi-summit-hopes-un-manipulation-stand-comedy-7-us-china-relations-reads?utm_source=rss_feed",
         "topic_type": "us_china_relations",
-        "relevance_score": 15,
+        "relevance_score": 12,
         "briefing": {
-          "news_focus": "EU opposes use of force in Taiwan Strait: MEP",
-          "news_focus_zh": "歐洲議會成員表示，歐盟反對在台灣海峽使用武力，強調和平解決爭端的重要性。",
-          "background": "台灣海峽的地緣政治局勢一直是國際關注的焦點。隨著中國對台灣的軍事壓力增加，歐盟在此議題上逐漸表達出對和平解決的支持。歐盟的立場反映了其對於維護區域穩定及國際法的重視，並且與其一貫的外交政策相符，即反對使用武力解決爭端。",
+          "news_focus": "We have selected seven of the most interesting and important news stories covering US-China relations from the past few weeks. If you would like to see more of our reporting, please consider subscribing. 1. Trump-Xi summit will be very amicable, predicts former Biden official US President Donald Trump’s focus on short-term deliverables and Chinese President Xi Jinping’s bid for bilateral stability are likely to mean an exceptionally amicable summit when they finally sit down, despite “unusual”...",
+          "news_focus_zh": "報導指出，前美國拜登政府官員預測特朗普與習近平的峰會將會非常友好，因為特朗普專注於短期成果，而習近平則追求雙邊穩定，這可能促成一場異常和諧的會議。",
+          "background": "美中關係在過去幾年中經歷了顯著的緊張，尤其是在貿易、科技與地緣政治方面。特朗普政府時期的貿易戰使兩國關係降至低點，而拜登政府則試圖重建對話平台。習近平在國內外政策上強調穩定，尤其是在面對經濟挑戰的背景下，雙方的會晤被視為改善關係的重要機會。",
           "stakeholders": [
-            "歐盟",
-            "台灣政府",
+            "美國政府",
             "中國政府",
-            "國際社會",
-            "區域安全組織"
+            "國際商業界",
+            "美國國內政治團體",
+            "全球市場"
           ],
-          "analysis": "歐盟的反對立場顯示出其在台灣問題上的中立性與和平倡議，這對於台灣及中國的關係有重要影響。台灣可能會視此為對其主權的支持，而中國則可能將此視為外部干預。歐盟的立場也可能促使其他國家在此議題上採取更為謹慎的態度，進一步影響國際社會對台灣的支持與中國的行動。"
+          "analysis": "特朗普與習近平的峰會可能會受到多方利益的影響。特朗普希望透過短期成果來提升其政治形象，而習近平則需要展現其在國際舞台上的領導力。美國內部對於與中國的關係存在分歧，部分人士擔心過於友好的會議可能會削弱對中國的強硬立場。相對而言，中國則希望藉此機會緩解外部壓力，促進經濟復甦。"
         },
         "topic_priority_score": 10,
-        "event_type": "political_signal",
+        "event_type": "diplomatic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -241,230 +224,195 @@
       },
       {
         "category": "politics",
-        "source_name": "SCMP World",
-        "title": "China’s electric cars and Iran war, BYD’s profit run ends: 7 EV reads",
-        "link": "https://www.scmp.com/business/china-evs/article/3348606/chinas-electric-cars-and-iran-war-byds-profit-run-ends-7-ev-reads?utm_source=rss_feed",
-        "summary": "We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. The Iran war could widen China’s EV lead over its global rivals. Here’s why Surging oil prices driven by the US-Israel war on Iran could accelerate the global adoption of electric vehicles – a sector that helped China overtake Japan to become the world’s largest seller of automobiles...",
-        "published": "Wed, 01 Apr 2026 07:30:07 +0000",
-        "updated": "Wed, 01 Apr 2026 07:30:07 +0000",
-        "published_at_utc": "2026-04-01T07:30:07+00:00",
-        "id": "https://www.scmp.com/business/china-evs/article/3348606/chinas-electric-cars-and-iran-war-byds-profit-run-ends-7-ev-reads?utm_source=rss_feed",
-        "topic_type": "uk_politics",
-        "relevance_score": 19,
+        "source_name": "The Guardian World",
+        "title": "European concerns over US commitment to Nato persist after Trump’s criticisms – Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/apr/02/europe-nato-rutte-trump-criticisms-iran-ukraine-latest-news-updates",
+        "summary": "After threatening to withdraw from the alliance, the president did not mention it in his address to the nation, and will meet the secretary general, Mark Rutte, next week Meanwhile, Lithuanian prosecutor general Nida Grunskienė said she would request legal assistance from the US as the country continues a pre-trial investigation into potential human trafficking offences triggered by the release of Jeffrey Epstein’s correspondence. The investigation was launched in February after several central and eastern European countries raised concerns about reports linking alleged Epstein’s associates with the region. Latvia and Poland also opened their separate inquiries. Continue reading...",
+        "published": "Thu, 02 Apr 2026 08:35:00 GMT",
+        "updated": "2026-04-02T08:35:00Z",
+        "published_at_utc": "2026-04-02T08:35:00+00:00",
+        "id": "https://www.theguardian.com/world/live/2026/apr/02/europe-nato-rutte-trump-criticisms-iran-ukraine-latest-news-updates",
+        "topic_type": "eu_policy",
+        "relevance_score": 17,
         "briefing": {
-          "news_focus": "We have put together stories from our coverage on electric and new energy vehicles from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. The Iran war could widen China’s EV lead over its global rivals. Here’s why Surging oil prices driven by the US-Israel war on Iran could accelerate the global adoption of electric vehicles – a sector that helped China overtake Japan to become the world’s largest seller of automobiles...",
-          "news_focus_zh": "隨著美國與以色列對伊朗的戰爭導致油價飆升，中國的電動車（EV）市場可能因此獲益，進一步鞏固其在全球汽車銷售中的領先地位。",
-          "background": "中國在電動車領域的快速發展，使其在全球市場中超越日本，成為最大的汽車銷售國。隨著環保意識的提升及政府政策的支持，中國的電動車產業在技術創新和市場擴張方面持續進步。近期的地緣政治衝突，尤其是伊朗的戰爭，可能會推高傳統燃油車的成本，促使更多國家轉向電動車，進一步利好中國的EV產業。",
+          "news_focus": "After threatening to withdraw from the alliance, the president did not mention it in his address to the nation, and will meet the secretary general, Mark Rutte, next week Meanwhile, Lithuanian prosecutor general Nida Grunskienė said she would request legal assistance from the US as the country continues a pre-trial investigation into potential human trafficking offences triggered by the release of Jeffrey Epstein’s correspondence. The investigation was launched in February after several central and eastern European countries raised concerns about reports linking alleged Epstein’s associates with the region. Latvia and Poland also opened their separate inquiries. Continue reading...",
+          "news_focus_zh": "美國總統在國內演說中未提及北約，令歐洲對美國對北約的承諾持續感到擔憂。立陶宛檢察總長則要求美國提供法律協助，調查與性交易有關的案件，該案件與傑弗瑞·愛潑斯坦的通信有關。",
+          "background": "自特朗普任內以來，美國對北約的態度變得不穩定，特朗普曾威脅退出該聯盟，這引發歐洲國家的擔憂。北約作為歐洲安全的基石，其穩定性對於防範外部威脅至關重要。此外，立陶宛等國對愛潑斯坦事件的調查反映出該地區對人權和法律正義的重視，並可能影響其與美國的法律合作。",
           "stakeholders": [
-            "中國政府",
-            "比亞迪",
-            "美國汽車製造商",
-            "歐洲汽車製造商",
-            "消費者"
+            "美國政府",
+            "北約成員國",
+            "立陶宛政府",
+            "拉脫維亞政府",
+            "波蘭政府"
           ],
-          "analysis": "隨著油價上漲，消費者和企業可能會加速轉向電動車，這對中國的電動車製造商如比亞迪（BYD）來說是個機會。然而，這也可能引發其他國家的反應，特別是美國和歐洲市場，這些地區的汽車製造商可能會加強競爭以維持市場份額。長期來看，這可能導致全球電動車市場的格局變化，並影響各國的能源政策與環保目標。"
+          "analysis": "美國對北約的承諾不明確使得歐洲國家感到不安，特別是在安全形勢日益緊張的背景下。立陶宛要求美國協助調查，顯示出該國希望加強與美國的法律合作，並借此提升自身的國際形象。另一方面，拉脫維亞和波蘭的獨立調查也表明，這一事件在中東歐地區引發了廣泛的關注，可能會影響這些國家的外交政策及其與美國的關係。"
         },
         "topic_priority_score": 9,
-        "event_type": "security_event",
+        "event_type": "policy_action",
         "supporting_sources": [
-          "The Guardian World",
           "BBC World",
-          "Al Jazeera",
-          "The Hindu International",
-          "The Diplomat",
-          "Fox News World"
+          "Al Jazeera"
         ],
         "supporting_titles": [
-          "UK food inflation ‘could hit 9% this year’ as Iran war drives up energy prices",
-          "China is trying to play peacemaker in the Iran war - will it work?",
-          "Al-Sharaa says Syria to stay out of war on Iran unless attacked",
-          "Watch: Why a prolonged war with Iran will constrain the U.S. | Data",
-          "China’s Economy Feels the Iran War Shock",
-          "Iran's war against the US and Israel is being fueled by North Korean weapons, expert warns"
+          "What do Trump's latest comments on leaving Nato mean for the alliance?",
+          "Smoke and embers seen over Iran’s Isfahan after strike"
         ],
         "supporting_links": [
-          "https://www.theguardian.com/business/2026/apr/01/uk-food-inflation-iran-war-drives-up-energy-prices",
-          "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
-          "https://www.aljazeera.com/video/newsfeed/2026/4/1/al-sharaa-says-syria-to-stay-out-of-war-on-iran-unless-attacked?traffic_source=rss",
-          "https://www.thehindu.com/videos/shows/watch-why-a-prolonged-war-with-iran-will-constrain-the-us-data/article70807357.ece",
-          "https://thediplomat.com/2026/03/chinas-economy-feels-the-iran-war-shock/",
-          "https://www.foxnews.com/world/irans-war-against-us-israel-being-fueled-north-korean-weapons-expert-warns"
+          "https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss",
+          "https://www.aljazeera.com/video/newsfeed/2026/4/1/smoke-and-embers-seen-over-irans-isfahan-after-strike?traffic_source=rss"
         ],
-        "source_count": 7
+        "source_count": 3
       }
     ],
     "economy": [
       {
         "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "Hong Kong homebuyers pile into new launches despite rate jitters and Middle East tensions",
-        "link": "https://www.scmp.com/business/article/3348547/hong-kong-homebuyers-pile-new-launches-despite-rate-jitters-and-middle-east-tensions?utm_source=rss_feed",
-        "summary": "Hong Kong homebuyers snapped up new launches on Tuesday as developers accelerated sales amid concerns over slower rate cuts and geopolitical tensions in the Middle East. By about 3.50pm, all 254 flats released at the La Mirabelle project in Tseung Kwan O had been sold, according to market agents. “Today’s positive sales results at La Mirabelle is a vote of confidence for the Hong Kong residential market,” said Daryl Ng, chairman of Sino Group. “The Hong Kong residential market fundamentals are...",
-        "published": "Tue, 31 Mar 2026 09:49:52 +0000",
-        "updated": "Tue, 31 Mar 2026 09:49:52 +0000",
-        "published_at_utc": "2026-03-31T09:49:52+00:00",
-        "id": "https://www.scmp.com/business/article/3348547/hong-kong-homebuyers-pile-new-launches-despite-rate-jitters-and-middle-east-tensions?utm_source=rss_feed",
+        "source_name": "The Guardian Business",
+        "title": "Iran war may increase mortgage payments for extra 1.3m households, says Bank of England",
+        "link": "https://www.theguardian.com/money/2026/apr/01/iran-war-higher-mortgage-payments-uk-households-bank-of-england",
+        "summary": "Financial policy committee predicts ‘Trumpflation’ rises, as average two-year fixed rate hits 5.84% Business live – latest updates The US-Israel war on Iran could end up increasing monthly mortgage payments for more than one million more UK households, the Bank of England has predicted, adding that the conflict had dealt “a substantial negative supply shock” to the world economy. Financial market jitters over the conflict in the Middle East have resulted in banks pulling about 1,500 mortgage products, with many banks raising interest rates on their remaining 7,000 home loan products in recent weeks, the Bank’s financial policy committee (FPC) said. Continue reading...",
+        "published": "Wed, 01 Apr 2026 10:35:56 GMT",
+        "updated": "2026-04-01T10:35:56Z",
+        "published_at_utc": "2026-04-01T10:35:56+00:00",
+        "id": "https://www.theguardian.com/money/2026/apr/01/iran-war-higher-mortgage-payments-uk-households-bank-of-england",
         "topic_type": "interest_rates",
-        "relevance_score": 17,
-        "briefing": {
-          "news_focus": "Hong Kong homebuyers snapped up new launches on Tuesday as developers accelerated sales amid concerns over slower rate cuts and geopolitical tensions in the Middle East. By about 3.50pm, all 254 flats released at the La Mirabelle project in Tseung Kwan O had been sold, according to market agents. “Today’s positive sales results at La Mirabelle is a vote of confidence for the Hong Kong residential market,” said Daryl Ng, chairman of Sino Group. “The Hong Kong residential market fundamentals are...",
-          "news_focus_zh": "儘管面臨利率不確定性和中東地緣緊張局勢，香港買家仍積極購買新樓盤。據市場代理商報導，位於將軍澳的La Mirabelle項目254個單位在開盤當日即全部售罄，顯示出市場的信心。",
-          "background": "香港房地產市場在過去幾年經歷了波動，受到利率變化和地緣政治影響。近期，隨著全球經濟放緩及利率政策的不確定性，市場預期可能的降息，但實際情況仍然不明朗。中東地區的緊張局勢也可能影響投資者信心，然而，香港的住宅市場仍顯示出強勁的需求，特別是在新樓盤推出時。",
-          "stakeholders": [
-            "香港買家",
-            "開發商",
-            "市場代理商",
-            "政府政策制定者",
-            "投資者"
-          ],
-          "analysis": "此次La Mirabelle項目的成功銷售反映了香港買家對於住宅市場的信心，儘管外部環境不穩定。開發商加速銷售可能是為了抓住市場機會，並減少未來利率上升的影響。對於買家而言，這是一個進入市場的良機，尤其是在預期利率將來可能下降的情況下。未來，若地緣政治風險持續，可能會影響投資者的情緒，但目前市場需求仍然強勁。"
-        },
-        "topic_priority_score": 10,
-        "event_type": "corporate_results",
-        "supporting_sources": [
-          "Reuters",
-          "Nikkei Asia",
-          "BBC Business",
-          "The Economist"
-        ],
-        "supporting_titles": [
-          "Oil slides as Middle East uncertainty keeps markets on edge - reuters.com",
-          "Hong Kong battles fuel smugglers as Iran war worsens pain at pump",
-          "Why Chinese tech companies are racing to set up in Hong Kong",
-          "China’s new masterplan for its tech economy in 2030 and beyond"
-        ],
-        "supporting_links": [
-          "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZHpvQ1F1U0k4d2JvZy1oblQ2OHRWejNzWnltejNrM1k3MnNDWVpFZmo0Y1BmVlNEdjVIVmhQcmU0clVSUzlOQnJseF9RcFRHUmxIUTUxbWpDZDZZT1NXdy16bjVNUk5IbEU3OFZJcmNpam43LWZ4VjNwZGllbWk2OTdIOGk4cnBSMTdkSEhkZ3E1SnJBUDBzbXhYdE1CdTFySmZUN0Exc1F6NWtIblNDNENreW9UWjJ2NEVBWUMzVXlzS09j?oc=5",
-          "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/hong-kong-battles-fuel-smugglers-as-iran-war-worsens-pain-at-pump",
-          "https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss",
-          "https://www.economist.com/finance-and-economics/2026/03/24/chinas-new-masterplan-for-its-tech-economy-in-2030-and-beyond"
-        ],
-        "source_count": 5
-      },
-      {
-        "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Oil tumbles below $100 a barrel and stock markets soar on hopes Middle East war will end soon – business live",
-        "link": "https://www.theguardian.com/business/live/2026/apr/01/oil-tumbles-stock-markets-gold-bonds-dollar-middle-east-war-manufacturing-factories-news-updates",
-        "summary": "Brent crude prices have fallen sharply, while the FTSE 100 is up 1.8% and government bonds are rallying UK food inflation ‘could hit 9% this year’ as Iran war drives up energy prices Middle East crisis live: Trump claims war will end in ‘two or three weeks’; Rubio says US should ‘re-examine’ Nato relationship Cost of living: how to prepare for the ‘awful April’ shower of bill increases The bond market is also reacting to hopes of peace in the Middle East soon. Government bonds are rallying, which is pushing down the yield (or interest rate) on UK debt. Continue reading...",
-        "published": "Wed, 01 Apr 2026 08:37:08 GMT",
-        "updated": "2026-04-01T08:37:08Z",
-        "published_at_utc": "2026-04-01T08:37:08+00:00",
-        "id": "https://www.theguardian.com/business/live/2026/apr/01/oil-tumbles-stock-markets-gold-bonds-dollar-middle-east-war-manufacturing-factories-news-updates",
-        "topic_type": "inflation",
-        "relevance_score": 24,
-        "briefing": {
-          "news_focus": "Brent crude prices have fallen sharply, while the FTSE 100 is up 1.8% and government bonds are rallying UK food inflation ‘could hit 9% this year’ as Iran war drives up energy prices Middle East crisis live: Trump claims war will end in ‘two or three weeks’; Rubio says US should ‘re-examine’ Nato relationship Cost of living: how to prepare for the ‘awful April’ shower of bill increases The bond market is also reacting to hopes of peace in the Middle East soon. Government bonds are rallying, which is pushing down the yield (or interest rate) on UK debt. Continue reading...",
-          "news_focus_zh": "布倫特原油價格跌破每桶100美元，英國FTSE 100指數上漲1.8%，市場對中東戰爭即將結束的希望推動了股市和政府債券的反彈。",
-          "background": "近期中東地區的緊張局勢，特別是伊朗的衝突，導致能源價格飆升，影響全球市場。隨著市場對和平的期待增加，原油價格回落，促使股市上漲。英國的食品通脹預測達到9%，這也加劇了民眾對生活成本上升的擔憂。市場對政府債券的需求增加，進一步壓低了英國債務的收益率。",
-          "stakeholders": [
-            "投資者",
-            "英國政府",
-            "中東國家",
-            "能源企業",
-            "消費者"
-          ],
-          "analysis": "市場的反應顯示出投資者對中東局勢的樂觀情緒，尤其是在特朗普和魯比奧等美國政界人士表達對戰爭結束的期待後。然而，這種樂觀可能是短暫的，因為地緣政治的不確定性仍然存在。對於能源依賴型國家來說，油價的波動將直接影響其經濟穩定性，而對於投資者而言，股市的上漲可能掩蓋了潛在的通脹風險。各方需密切關注中東局勢的發展，以調整其經濟策略。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "rate_decision",
-        "supporting_sources": [
-          "BBC Business",
-          "Reuters",
-          "Nikkei Asia",
-          "The Economist"
-        ],
-        "supporting_titles": [
-          "Oil briefly falls below $100 and shares jump on Trump Iran war pledge",
-          "Oil slides as Middle East uncertainty keeps markets on edge - reuters.com",
-          "ASICS president warns of price hikes if Middle East war drags on",
-          "If America goes after India’s oil trade, China will benefit"
-        ],
-        "supporting_links": [
-          "https://www.bbc.com/news/articles/c2489v97842o?at_medium=RSS&at_campaign=rss",
-          "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZHpvQ1F1U0k4d2JvZy1oblQ2OHRWejNzWnltejNrM1k3MnNDWVpFZmo0Y1BmVlNEdjVIVmhQcmU0clVSUzlOQnJseF9RcFRHUmxIUTUxbWpDZDZZT1NXdy16bjVNUk5IbEU3OFZJcmNpam43LWZ4VjNwZGllbWk2OTdIOGk4cnBSMTdkSEhkZ3E1SnJBUDBzbXhYdE1CdTFySmZUN0Exc1F6NWtIblNDNENreW9UWjJ2NEVBWUMzVXlzS09j?oc=5",
-          "https://asia.nikkei.com/spotlight/iran-tensions/asics-president-warns-of-price-hikes-if-middle-east-war-drags-on",
-          "https://www.economist.com/finance-and-economics/2025/08/06/if-america-goes-after-indias-oil-trade-china-will-benefit"
-        ],
-        "source_count": 5
-      },
-      {
-        "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Steel bosses warn ‘back door’ loophole in UK trade rules could lead to job cuts and closures",
-        "link": "https://www.theguardian.com/business/2026/mar/31/steel-bosses-warn-back-door-loophole-lead-to-job-cuts-factory-closures",
-        "summary": "New measures will protect Tata and British Steel but allow foreign pre-made parts into the UK, say industry bosses Steel bosses have warned ministers that a “back door” in new trade rules could hit British manufacturers and lead to job cuts and factory closures by allowing a vast array of foreign products to still enter the UK tax-free. The loophole means pre-made steel parts ranging from bridge sections, columns and door frames, all the way to smaller rods and tubes used in buildings, will escape recently announced import tariffs, the Guardian understands. Continue reading...",
-        "published": "Tue, 31 Mar 2026 13:19:21 GMT",
-        "updated": "2026-03-31T13:19:21Z",
-        "published_at_utc": "2026-03-31T13:19:21+00:00",
-        "id": "https://www.theguardian.com/business/2026/mar/31/steel-bosses-warn-back-door-loophole-lead-to-job-cuts-factory-closures",
-        "topic_type": "trade_wars",
         "relevance_score": 19,
         "briefing": {
-          "news_focus": "New measures will protect Tata and British Steel but allow foreign pre-made parts into the UK, say industry bosses Steel bosses have warned ministers that a “back door” in new trade rules could hit British manufacturers and lead to job cuts and factory closures by allowing a vast array of foreign products to still enter the UK tax-free. The loophole means pre-made steel parts ranging from bridge sections, columns and door frames, all the way to smaller rods and tubes used in buildings, will escape recently announced import tariffs, the Guardian understands. Continue reading...",
-          "news_focus_zh": "英國鋼鐵業高層警告，新的貿易規則中的「後門」漏洞可能導致英國製造商面臨裁員和工廠關閉的風險，因為外國預製鋼材將可以免稅進入英國市場。",
-          "background": "英國鋼鐵產業近年來面臨多重挑戰，包括全球供應鏈問題和競爭壓力。政府近期推出的貿易規則旨在保護本土企業如Tata和British Steel，但同時卻存在漏洞，允許大量外國預製鋼材無需繳稅進入市場。這一政策背景下，鋼鐵業者擔心將影響其市場競爭力，進一步加劇行業困境。",
+          "news_focus": "Financial policy committee predicts ‘Trumpflation’ rises, as average two-year fixed rate hits 5.84% Business live – latest updates The US-Israel war on Iran could end up increasing monthly mortgage payments for more than one million more UK households, the Bank of England has predicted, adding that the conflict had dealt “a substantial negative supply shock” to the world economy. Financial market jitters over the conflict in the Middle East have resulted in banks pulling about 1,500 mortgage products, with many banks raising interest rates on their remaining 7,000 home loan products in recent weeks, the Bank’s financial policy committee (FPC) said. Continue reading...",
+          "news_focus_zh": "英國央行預測，由於美國與以色列對伊朗的衝突，將使超過130萬家庭的按揭月供上升，並造成全球經濟的重大供應衝擊。",
+          "background": "近期的美國與以色列對伊朗的軍事行動引發了全球金融市場的不安，導致英國的銀行業出現信貸緊縮。根據英國央行的報告，這場衝突不僅影響了能源價格，還造成了按揭產品的減少和利率的上升。隨著固定利率按揭的平均利率達到5.84%，許多家庭面臨更高的貸款成本，這可能進一步影響英國的住房市場和消費者支出。",
           "stakeholders": [
-            "Tata Steel",
-            "British Steel",
-            "英國政府",
-            "外國鋼鐵製造商",
-            "工會"
+            "英國央行",
+            "銀行業",
+            "家庭借款人",
+            "政府",
+            "投資者"
           ],
-          "analysis": "鋼鐵業高層的警告反映出政府政策與產業需求之間的矛盾。雖然新規則旨在保護本土企業，但漏洞卻可能使外國競爭者在價格上佔優勢，進一步削弱英國鋼鐵產業的生存空間。若不加以修正，可能導致本土企業裁員或關閉工廠，影響整體經濟和就業市場。政府需平衡保護本土產業與促進貿易之間的矛盾，以避免長期的負面影響。"
+          "analysis": "這場衝突對英國家庭的財務狀況造成了直接影響，特別是中低收入家庭將面臨更大的經濟壓力。銀行為了應對市場不確定性，已經開始收緊貸款條件，這可能導致更多家庭無法獲得按揭貸款。英國央行的預測顯示，若衝突持續，可能會引發更廣泛的經濟後果，包括消費者信心下降和經濟增長放緩。各方利益關係中，家庭借款人將是最受影響的一方，而銀行則可能因利率上升而獲利。"
+        },
+        "topic_priority_score": 10,
+        "event_type": "rate_decision",
+        "supporting_sources": [
+          "Reuters",
+          "BBC Business",
+          "The Economist",
+          "Nikkei Asia"
+        ],
+        "supporting_titles": [
+          "Oil jumps nearly 7% after Trump says US to keep up attacks on Iran - reuters.com",
+          "Warning Iran war 'shock' could push up mortgages for 1.3m homeowners",
+          "How Iran is making a mint from Donald Trump’s war",
+          "JAL and ANA to double surcharges as Iran war drives up fuel prices"
+        ],
+        "supporting_links": [
+          "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVDhPTWlRcU1xbGlsbjFuaGVmQ2ZjdVRYc21SQWdSM1lhb2g0bHhUeW1aV28xb2FqTHVMTFJQbmlYMlBVRE91TThLczlSNUpJTGVCUnFGOWZraEdZa1J3SUJIX2RNY1hDOFlMMmpYNy1ocTdIT1FtWHVKNDBjNkRlX1JFQlYyb2RJekw5VV9IWFVjak1kMHducTln?oc=5",
+          "https://www.bbc.com/news/articles/c895pqepwv2o?at_medium=RSS&at_campaign=rss",
+          "https://www.economist.com/finance-and-economics/2026/03/29/how-iran-is-making-a-mint-from-donald-trumps-war",
+          "https://asia.nikkei.com/business/transportation/jal-and-ana-to-double-surcharges-as-iran-war-drives-up-fuel-prices"
+        ],
+        "source_count": 5
+      },
+      {
+        "category": "economy",
+        "source_name": "BBC Business",
+        "title": "A year on: Four ways Trump's tariffs have changed the global economy",
+        "link": "https://www.bbc.com/news/articles/c79j1rd92ypo?at_medium=RSS&at_campaign=rss",
+        "summary": "US tariffs stand at the highest rate in decades. But what has the impact been?",
+        "published": "Thu, 02 Apr 2026 04:43:23 GMT",
+        "updated": "Thu, 02 Apr 2026 04:43:23 GMT",
+        "published_at_utc": "2026-04-02T04:43:23+00:00",
+        "id": "https://www.bbc.com/news/articles/c79j1rd92ypo#0",
+        "topic_type": "trade_wars",
+        "relevance_score": 22,
+        "briefing": {
+          "news_focus": "US tariffs stand at the highest rate in decades. But what has the impact been?",
+          "news_focus_zh": "美國的關稅在數十年來達到最高水平，這一政策對全球經濟產生了深遠影響，值得深入探討其具體變化。",
+          "background": "自特朗普政府於2018年實施高額關稅以來，全球貿易格局發生了顯著變化。這些關稅主要針對中國及其他國家，旨在減少美國的貿易赤字並保護本國產業。隨著關稅的提高，許多國家被迫調整其貿易策略，並尋求新的市場或供應鏈，以應對美國的貿易政策。這一政策也引發了其他國家的報復性關稅，進一步加劇了全球貿易緊張局勢。",
+          "stakeholders": [
+            "美國政府",
+            "中國政府",
+            "美國消費者",
+            "全球製造商",
+            "國際貿易組織"
+          ],
+          "analysis": "特朗普的關稅政策對不同利益方造成了不同影響。美國製造業可能因保護措施而受益，但消費者則因價格上漲而面臨更高的生活成本。中國及其他受影響國家則努力尋找替代市場，並加強與其他經濟體的合作。此外，全球供應鏈的重組可能會導致長期的經濟結構變化，影響未來的貿易協議和國際關係。各國政府和企業需密切關注這些變化，以調整其經營策略。"
         },
         "topic_priority_score": 9,
         "event_type": "macro_signal",
         "supporting_sources": [
-          "The Economist",
-          "SCMP Business",
-          "BBC Business",
-          "Reuters"
+          "The Guardian Business",
+          "Reuters",
+          "The Economist"
         ],
         "supporting_titles": [
-          "The world economy shrugs off both the trade war and AI fears",
-          "Australia and Japan face jet fuel supply crunch as China cuts exports",
-          "Tech giant Oracle makes 'significant' job cuts",
-          "US consumer confidence rises, but job openings and hiring drop sharply - reuters.com"
+          "Trump’s trade war put the UK on the back foot. His actual war may break us | Larry Elliott",
+          "A New York vintner raids US wine cellars to skirt Trump's tariffs - reuters.com",
+          "Donald Trump’s Greenland tariffs are no great blow to Europe"
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2025/10/20/the-world-economy-shrugs-off-both-the-trade-war-and-ai-fears",
-          "https://www.scmp.com/economy/china-economy/article/3348642/australia-and-japan-face-jet-fuel-supply-crunch-china-cuts-exports?utm_source=rss_feed",
-          "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
-          "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmllbWJwaFRtSDdLRFR4d0twd2w1ZjU0T2NkMVBDSDdKeUR6Y3g3b3ppbVc5T1JZMkRtVjMzSGVROGFVS3J5akUxbmpLWi1WMmlNczE4ajB5WWFQRkNxVVExTldqM0pzNkJsemJJRldYQXpVeXhOT1Qwb05tbno5SzVTUmQ4cFVNblc5S0VxRXI?oc=5"
+          "https://www.theguardian.com/commentisfree/2026/apr/02/donald-trump-trade-war-uk-us-iran-stagflation",
+          "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0hfVGFCcGluclhJZWx1X3NUeUhiODZaN05MbVhzSjBZV1FTNEJqVFBpVURsTnctczJ5Rkd2XzJITXYxYldTLXBUVlZSZmhnUzloTnBfQkwyNUtiQzdSRTRvbng0S3VNbV85bEg0UXN2ZHJqdzJxRmdsT0dfTW9nYUVUTVRkdVdBc3BCS0F4a1JNTUVsZXVlR3gzbmtWbXpPTGJTZVFIQQ?oc=5",
+          "https://www.economist.com/finance-and-economics/2026/01/19/donald-trumps-greenland-tariffs-are-no-great-blow-to-europe"
         ],
-        "source_count": 5
+        "source_count": 4
+      },
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "A third inflationary shock in less than a decade is coming: who will pay the price this time around? | Aditya Chakrabortty",
+        "link": "https://www.theguardian.com/commentisfree/2026/apr/01/inflationary-shock-pay-the-price-uk-energy-crisis-us-iran-war",
+        "summary": "Brutal past experience has taught us that a cost of living crisis doesn’t affect us all the same, because we don’t all go into it with the same income or wealth Perhaps the most celebrated writer on oil markets is Daniel Yergin. His work has won a Pulitzer and his advice sought by every president from Bill Clinton to Donald Trump. Let’s start by looking at an example. Fifteen years ago, before the US and Israel started their war on Iran, killing thousands of civilians in the process, before the strait of Hormuz became as infamous as the Bermuda Triangle, and before experts declared “the greatest global energy security threat in history”, Yergin published The Quest : Energy, Security and the Remaking of the Modern World. After hearing Trump announce a “very soon” end to the conflict for the second – or was it the third? – time, I dug out my copy. Just as I remembered, it devotes a chapter to the Persian Gulf. Aditya Chakrabortty is a Guardian columnist Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here . Continue reading...",
+        "published": "Wed, 01 Apr 2026 17:54:41 GMT",
+        "updated": "2026-04-01T17:54:41Z",
+        "published_at_utc": "2026-04-01T17:54:41+00:00",
+        "id": "https://www.theguardian.com/commentisfree/2026/apr/01/inflationary-shock-pay-the-price-uk-energy-crisis-us-iran-war",
+        "topic_type": "inflation",
+        "relevance_score": 20,
+        "briefing": {
+          "news_focus": "Brutal past experience has taught us that a cost of living crisis doesn’t affect us all the same, because we don’t all go into it with the same income or wealth Perhaps the most celebrated writer on oil markets is Daniel Yergin. His work has won a Pulitzer and his advice sought by every president from Bill Clinton to Donald Trump. Let’s start by looking at an example. Fifteen years ago, before the US and Israel started their war on Iran, killing thousands of civilians in the process, before the strait of Hormuz became as infamous as the Bermuda Triangle, and before experts declared “the greatest global energy security threat in history”, Yergin published The Quest : Energy, Security and the Remaking of the Modern World. After hearing Trump announce a “very soon” end to the conflict for the second – or was it the third? – time, I dug out my copy. Just as I remembered, it devotes a chapter to the Persian Gulf. Aditya Chakrabortty is a Guardian columnist Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here . Continue reading...",
+          "news_focus_zh": "本則新聞探討了即將到來的第三次通脹衝擊，並指出生活成本危機對不同收入與財富階層的影響不均，特別是過去的經驗教訓了我們這一點。",
+          "background": "在過去十年內，全球經濟經歷了多次通脹衝擊，這些衝擊往往與地緣政治事件、能源市場波動及政策變化有關。特別是中東地區的衝突，如美國與伊朗的緊張關係，對全球能源供應鏈造成了深遠影響。這些因素使得生活成本上升，並加劇了社會經濟不平等，因為不同收入群體面對的挑戰與資源承受能力各異。",
+          "stakeholders": [
+            "政府",
+            "低收入家庭",
+            "高收入家庭",
+            "能源企業",
+            "政策制定者"
+          ],
+          "analysis": "此次通脹衝擊可能會再次加深社會分化，低收入家庭將面臨更大的生活壓力，而高收入者則相對能夠承受這些變化。政府與政策制定者需考慮如何平衡經濟增長與社會公平，否則可能引發更大規模的社會不滿與抗議。此外，能源市場的波動將影響企業成本，進一步影響消費者價格，形成惡性循環。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "inflation_data",
+        "supporting_sources": [
+          "BBC Business",
+          "The Economist"
+        ],
+        "supporting_titles": [
+          "US petrol price tops $4 for first time since 2022",
+          "China cannot escape the energy shock"
+        ],
+        "supporting_links": [
+          "https://www.bbc.com/news/articles/cn8d47vzz13o?at_medium=RSS&at_campaign=rss",
+          "https://www.economist.com/finance-and-economics/2026/03/17/china-cannot-escape-the-energy-shock"
+        ],
+        "source_count": 3
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
+        "title": "‘It does feel like an intimidation campaign’: why is US tech giant Palantir suing a small Swiss magazine?",
+        "link": "https://www.theguardian.com/global-development/2026/mar/20/us-tech-giant-palantir-swiss-magazine-wav",
+        "source_name": "The Guardian Technology",
+        "published_at_utc": "2026-03-20T06:00:12+00:00",
+        "relevance_score": 12
+      },
+      {
         "title": "Running local models on Macs gets faster with Ollama's MLX support",
         "link": "https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/",
         "source_name": "Ars Technica",
         "published_at_utc": "2026-03-31T23:00:23+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "Nvidia bets $2 billion on Marvell as rising AI adoption fuels competition - reuters.com",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSmh3NHVnejF0NmZSS0FhOXdHdUZ6bW5EdlpBODZ1YzN2b2swbG9WSkJYVW40MWNVN3IzRVk5S0VOeEJNS2g4TEoyVk50MkFVZXVPRk5tSFN5aFU0WWNSMVhGd0hFTXJkbEw2RDQta3FPa0dSamdPX2lMZ291bDNrMTk1eEpWSmY0NTBZNUl5SnJ6WGQ1N2toOHEwYVpuU2FYT1g1ellB?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-03-31T15:10:41+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
-        "link": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-03-31T20:01:07+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "The IRS Wants Smarter Audits. Palantir Could Help Decide Who Gets Flagged",
-        "link": "https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-03-30T09:30:00+00:00",
         "relevance_score": 8
       },
       {
@@ -489,13 +437,6 @@
         "relevance_score": 8
       },
       {
-        "title": "‘It does feel like an intimidation campaign’: why is US tech giant Palantir suing a small Swiss magazine?",
-        "link": "https://www.theguardian.com/global-development/2026/mar/20/us-tech-giant-palantir-swiss-magazine-wav",
-        "source_name": "The Guardian Technology",
-        "published_at_utc": "2026-03-20T06:00:12+00:00",
-        "relevance_score": 0
-      },
-      {
         "title": "Inside China’s robotics revolution",
         "link": "https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution",
         "source_name": "The Guardian Technology",
@@ -503,92 +444,113 @@
         "relevance_score": 0
       },
       {
-        "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-        "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+        "title": "Hasbro says it was hacked, and may take ‘several weeks’ to recover",
+        "link": "https://techcrunch.com/2026/04/01/hasbro-hacked-may-take-several-weeks-to-recover/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-03-31T21:25:04+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-04-01T14:50:32+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+        "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-01T22:12:13+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "Startup funding shatters all records in Q1",
+        "link": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-01T20:25:28+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "Here's what that Claude Code source leak reveals about Anthropic's plans",
+        "link": "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-04-01T20:04:04+00:00",
+        "relevance_score": 12
       }
     ],
     "politics": [
       {
-        "title": "Wednesday briefing: ​How did Russia become the unexpected beneficiary of the Iran war?",
-        "link": "https://www.theguardian.com/world/2026/apr/01/wednesday-briefing-how-did-russia-become-the-unexpected-beneficiary-of-the-iran-war",
+        "title": "Ukraine war briefing: Russia responds to Zelenskyy’s Easter truce offer with drone attack",
+        "link": "https://www.theguardian.com/world/2026/apr/02/ukraine-war-briefing-russia-responds-zelenskyy-easter-truce-drone-attack",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-01T05:46:25+00:00",
-        "relevance_score": 23
-      },
-      {
-        "title": "Iran attacks cause fire in Kuwait, Bahrain; kill man in UAE",
-        "link": "https://www.aljazeera.com/news/2026/4/1/iran-attacks-cause-fire-in-kuwait-bahrain-kill-man-in-uae?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-01T07:54:12+00:00",
+        "published_at_utc": "2026-04-02T02:07:11+00:00",
         "relevance_score": 19
       },
       {
-        "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
-        "link": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC World",
-        "published_at_utc": "2026-03-31T21:08:35+00:00",
+        "title": "Coordinated conflict: how the Ukraine and Iran wars are starting to overlap",
+        "link": "https://www.theguardian.com/world/2026/apr/02/coordinated-conflict-how-the-ukraine-and-iran-wars-are-starting-to-overlap",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-02T08:00:21+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Top Iranian official injured in strike on Tehran – as it happened",
+        "link": "https://www.theguardian.com/world/middle-east-live/live/2026/apr/01/iran-live-updates-trump-claims-war-will-end-rubio-nato-relationship",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-02T00:01:08+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Russia is luring students with large financial packages to join drone units",
+        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3348784/russia-luring-students-large-financial-packages-join-drone-units?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-02T07:42:43+00:00",
         "relevance_score": 15
+      },
+      {
+        "title": "Ukraine signals progress on US security guarantees after call with Trump envoys",
+        "link": "https://www.foxnews.com/world/ukraine-signals-progress-us-security-guarantees-after-call-trump-envoys",
+        "source_name": "Fox News World",
+        "published_at_utc": "2026-04-01T19:41:08+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Israel hits Iran with waves of attacks and says it killed top Hezbollah commander",
+        "link": "https://www.theguardian.com/world/2026/apr/01/israel-hits-iran-attacks-killed-senior-hezbollah-commander",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-01T19:01:01+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
+        "link": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-04-01T10:33:35+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "Russia says it has taken full control of Ukraine’s Luhansk region",
+        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3348720/russia-says-it-has-taken-full-control-ukraines-luhansk-region?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-01T19:55:17+00:00",
+        "relevance_score": 11
+      },
+      {
+        "title": "Israeli strike on Beirut kills senior Hezbollah commander",
+        "link": "https://www.thehindu.com/news/international/israeli-strike-on-beirut-kills-senior-hezbollah-commander/article70812850.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-01T18:07:24+00:00",
+        "relevance_score": 11
       },
       {
         "title": "More than 200,000 fled Lebanon for Syria in March: UNHCR",
         "link": "https://www.thehindu.com/news/international/more-than-200000-fled-lebanon-for-syria-in-march-unhcr/article70808621.ece",
         "source_name": "The Hindu International",
         "published_at_utc": "2026-03-31T17:38:49+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Emergency workers search for victims of Israeli airstrikes on Beirut",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/1/emergency-workers-search-for-victims-of-israeli-airstrikes-on-beirut?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-01T00:56:38+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
-        "link": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC World",
-        "published_at_utc": "2026-03-31T18:57:25+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Min Aung Hlaing, Myanmar junta chief, elected as Vice-President",
-        "link": "https://www.thehindu.com/news/international/myanmar-vice-president-elected-min-aung-hlaing/article70808525.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-01T00:54:49+00:00",
         "relevance_score": 11
-      },
-      {
-        "title": "Pete Hegseth's broker looked to buy defence fund before Iran attack: report",
-        "link": "https://www.thehindu.com/news/international/pete-hegseths-broker-looked-to-buy-defence-fund-before-iran-attack-report/article70805735.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-03-31T05:32:15+00:00",
-        "relevance_score": 11
-      },
-      {
-        "title": "Zelenskyy claims US tied Ukraine security guarantees to giving up Donbas, White House denies",
-        "link": "https://www.foxnews.com/world/zelenskyy-claims-us-tied-ukraine-security-guarantees-giving-up-donbas-white-house-denies",
-        "source_name": "Fox News World",
-        "published_at_utc": "2026-03-26T15:59:42+00:00",
-        "relevance_score": 11
-      },
-      {
-        "title": "Europe’s China Confusion: From Global Trade to Russia",
-        "link": "https://thediplomat.com/2026/03/europes-china-confusion-from-global-trade-to-russia/",
-        "source_name": "The Diplomat",
-        "published_at_utc": "2026-03-27T12:15:00+00:00",
-        "relevance_score": 9
       }
     ],
     "economy": [
       {
-        "title": "Bank of Japan rushes to pave way for rate hikes amid rising oil prices, weak yen",
-        "link": "https://asia.nikkei.com/economy/bank-of-japan/bank-of-japan-rushes-to-pave-way-for-rate-hikes-amid-rising-oil-prices-weak-yen",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 15
+        "title": "Colombia government rift with central bank clouds future rate decisions, analysts say - reuters.com",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNemVaSTh6THhJNWxiaXFMUERWNzhDYzltRDZjSUNFZTNfWlFVVXNjQ0Y0MWxsWmpuNFBLMGc1a19ybW9vVmRCTzlIUnA4SDFKaWZXb2pMWTNDZnNaRHVES0p2NUlBbFluVWZ2cmh0d1g4SWd3N2pMRGVVQ2kyd1JMdlZ6WTNUWG5rQU83bFVIZ0hFMXFERV9NaHhNMXV3VVVWUGVJbFRQQmQtVnBiSHZpWHlaYWRSbGxrZDNmNWU5b3lLM04xM1NFdHFkR3RxQQ?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-01T19:17:43+00:00",
+        "relevance_score": 16
       },
       {
         "title": "Hung Hom flats sell out as Hong Kong homebuyers brush aside Middle East risks",
@@ -619,13 +581,6 @@
         "relevance_score": 12
       },
       {
-        "title": "Hong Kong developers test market with 222 units released amid interest rate uncertainty",
-        "link": "https://www.scmp.com/business/article/3348175/hong-kong-developers-test-market-222-units-released-amid-interest-rate-uncertainty?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-03-27T11:30:11+00:00",
-        "relevance_score": 10
-      },
-      {
         "title": "What will Kevin Warsh’s Federal Reserve look like?",
         "link": "https://www.economist.com/finance-and-economics/2026/01/30/what-will-kevin-warshs-federal-reserve-look-like",
         "source_name": "The Economist",
@@ -652,6 +607,13 @@
         "source_name": "The Economist",
         "published_at_utc": "2025-08-28T09:56:45+00:00",
         "relevance_score": 10
+      },
+      {
+        "title": "Which Kevin Hassett would lead the Federal Reserve?",
+        "link": "https://www.economist.com/finance-and-economics/2025/12/03/which-kevin-hassett-would-lead-the-federal-reserve",
+        "source_name": "The Economist",
+        "published_at_utc": "2025-12-03T19:26:16+00:00",
+        "relevance_score": 8
       }
     ]
   },
@@ -661,5 +623,5 @@
     "failed": 0,
     "total": 9
   },
-  "theme_of_day": "今日新聞的整體脈絡集中於中東地區的緊張局勢及其對全球經濟和科技領域的影響。伊朗的網路攻擊行為不僅加劇了地緣政治的緊張，也促使阿聯酋對伊朗國籍人士的入境限制，顯示出各國對安全的重視。與此同時，油價的波動和香港房市的活躍反映出市場對中東局勢的敏感反應，並可能影響中國電動車市場的發展，突顯出經濟與政治之間的密切連結。"
+  "theme_of_day": "今日新聞的整體敘事主軸圍繞著科技、政治與經濟三個領域的互動與影響。科技版面中，Nvidia及其他公司針對遊戲性能與網絡安全事件的應對，顯示出科技行業在面對挑戰時的快速反應，而這些挑戰也可能對經濟活動產生潛在影響。政治版面則聚焦於歐盟與美國的外交動態，特別是美國對北約的承諾問題，這與經濟版面中提到的全球經濟風險密切相關，特別是在面對可能的通脹衝擊與地緣政治緊張局勢的背景下，將影響家庭的經濟負擔。"
 }
