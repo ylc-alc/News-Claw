@@ -239,26 +239,46 @@
           "inflation"
         ]
       }
+    },
+    {
+      "date": "2026-04-03",
+      "topics": {
+        "technology": [
+          "chips",
+          "cybersecurity",
+          "ai"
+        ],
+        "politics": [
+          "war_and_conflict",
+          "us_china_relations",
+          "uk_politics"
+        ],
+        "economy": [
+          "interest_rates",
+          "trade_wars",
+          "inflation"
+        ]
+      }
     }
   ],
   "rolling_frequency": {
     "technology": {
-      "chips": 12,
-      "cybersecurity": 12,
-      "ai": 12
+      "chips": 13,
+      "cybersecurity": 13,
+      "ai": 13
     },
     "politics": {
-      "war_and_conflict": 12,
-      "us_china_relations": 12,
-      "uk_politics": 9,
+      "war_and_conflict": 13,
+      "us_china_relations": 13,
+      "uk_politics": 10,
       "eu_policy": 3
     },
     "economy": {
-      "interest_rates": 12,
-      "inflation": 12,
-      "trade_wars": 12
+      "interest_rates": 13,
+      "inflation": 13,
+      "trade_wars": 13
     }
   },
   "window_days": 30,
-  "last_updated": "2026-04-02"
+  "last_updated": "2026-04-03"
 }
