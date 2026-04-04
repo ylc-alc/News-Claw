@@ -914,7 +914,6 @@ def dedupe_items(items):
 
 
 def sort_items(items):
-    def sort_key(item):
     relevance = item.get("relevance_score", 0)
     parsed = item.get("published_at_utc", "")
     topic_priority = item.get("topic_priority_score", 0)
