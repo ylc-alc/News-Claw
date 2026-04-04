@@ -1,15 +1,15 @@
 {
-  "generated_at_utc": "2026-04-03T08:41:48.874265+00:00",
+  "generated_at_utc": "2026-04-04T08:29:56.055243+00:00",
   "summary": {
-    "total_raw_items": 1109,
-    "total_deduped_items": 1098,
+    "total_raw_items": 1080,
+    "total_deduped_items": 1070,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
         "chips",
-        "cybersecurity",
-        "ai"
+        "ai",
+        "cybersecurity"
       ],
       "politics": [
         "war_and_conflict",
@@ -22,118 +22,124 @@
         "inflation"
       ]
     },
-    "multi_source_selected_count": 6
+    "multi_source_selected_count": 7
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "Ars Technica",
-        "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
-        "link": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
-        "summary": "Both GDDRHammer and GeForge hammer GPU memory in ways that compromise the CPU.",
-        "published": "Thu, 02 Apr 2026 17:00:11 +0000",
-        "updated": "Thu, 02 Apr 2026 17:00:11 +0000",
-        "published_at_utc": "2026-04-02T17:00:11+00:00",
-        "id": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
+        "source_name": "The Guardian Technology",
+        "title": "‘It does feel like an intimidation campaign’: why is US tech giant Palantir suing a small Swiss magazine?",
+        "link": "https://www.theguardian.com/global-development/2026/mar/20/us-tech-giant-palantir-swiss-magazine-wav",
+        "summary": "An investigation by journalists working with Republik magazine may have struck a nerve by suggesting the company has failed in Switzerland It was over beers on an autumn evening in Zurich in 2024 that a group of journalists with an independent Swiss research collective began to discuss investigating Palantir, one of the world’s biggest tech companies. Three years earlier, Palantir had advertised that it was setting up a “European hub” in the Swiss municipality of Altendorf, a sleepy town of roughly 7,000 people on the shores of Lake Zurich. Continue reading...",
+        "published": "Fri, 20 Mar 2026 06:00:12 GMT",
+        "updated": "2026-03-20T06:00:12Z",
+        "published_at_utc": "2026-03-20T06:00:12+00:00",
+        "id": "https://www.theguardian.com/global-development/2026/mar/20/us-tech-giant-palantir-swiss-magazine-wav",
         "topic_type": "chips",
-        "relevance_score": 14,
+        "relevance_score": 12,
         "briefing": {
-          "news_focus": "Both GDDRHammer and GeForge hammer GPU memory in ways that compromise the CPU.",
-          "news_focus_zh": "最新的Rowhammer攻擊技術GDDRHammer和GeForge能夠完全控制運行Nvidia GPU的機器，這些攻擊通過操縱GPU記憶體來影響CPU的安全性。",
-          "background": "Rowhammer攻擊是一種針對DRAM記憶體的安全漏洞，已知能夠通過不斷訪問特定記憶體位元來引發位元翻轉。隨著GPU在計算和遊戲領域的重要性日益增加，這類攻擊對於依賴Nvidia GPU的系統構成了新的威脅。Nvidia作為市場領導者，其硬體的安全性問題將影響廣泛的用戶群體，包括遊戲玩家和企業用戶。",
+          "news_focus": "An investigation by journalists working with Republik magazine may have struck a nerve by suggesting the company has failed in Switzerland It was over beers on an autumn evening in Zurich in 2024 that a group of journalists with an independent Swiss research collective began to discuss investigating Palantir, one of the world’s biggest tech companies. Three years earlier, Palantir had advertised that it was setting up a “European hub” in the Swiss municipality of Altendorf, a sleepy town of roughly 7,000 people on the shores of Lake Zurich. Continue reading...",
+          "news_focus_zh": "美國科技巨頭Palantir對瑞士小型雜誌Republik提起訴訟，原因是該雜誌的調查報導質疑Palantir在瑞士的業務表現，顯示出該公司對於負面報導的敏感性。",
+          "background": "Palantir是一家專注於數據分析的科技公司，近年來在全球擴展其業務，並在瑞士設立了歐洲樞紐。該公司在瑞士的投資引發了媒體的關注，特別是在其業務表現未達預期的情況下。Republik雜誌的調查報導可能揭示了Palantir在當地市場的挑戰，並引發了該公司對媒體自由的反應，顯示出科技公司在面對負面報導時的脆弱性。",
           "stakeholders": [
-            "Nvidia",
-            "終端用戶",
-            "安全研究人員",
-            "硬體製造商",
-            "遊戲產業"
+            "Palantir",
+            "Republik雜誌",
+            "瑞士政府",
+            "媒體界",
+            "科技產業"
           ],
-          "analysis": "這些新型Rowhammer攻擊對Nvidia及其用戶造成了重大影響。對於Nvidia來說，這不僅是技術挑戰，也可能損害其品牌信譽。用戶則面臨潛在的數據安全風險，尤其是在高性能計算和遊戲環境中。安全專家和研究人員可能會呼籲加強硬體防護措施，這可能促使Nvidia及其他硬體製造商重新評估其產品設計以增強安全性。"
+          "analysis": "Palantir的訴訟行為可能被視為對媒體自由的威脅，並引發了對企業如何處理負面報導的討論。對於Palantir而言，維護品牌形象和市場信任至關重要，而對於Republik雜誌及其支持者來說，這一事件則凸顯了獨立媒體在監督企業行為中的重要性。此事件可能促使其他科技公司重新評估與媒體的關係，並引發對言論自由的更廣泛討論。"
         },
         "topic_priority_score": 10,
-        "event_type": "strategic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "Telehealth giant Hims & Hers says its customer support system was hacked",
-        "link": "https://techcrunch.com/2026/04/02/telehealth-giant-hims-hers-says-its-customer-support-system-was-hacked/",
-        "summary": "The U.S. telehealth giant says hackers stole customer support ticket data over the course of several days in February.",
-        "published": "Thu, 02 Apr 2026 21:26:48 +0000",
-        "updated": "Thu, 02 Apr 2026 21:26:48 +0000",
-        "published_at_utc": "2026-04-02T21:26:48+00:00",
-        "id": "https://techcrunch.com/?p=3109020",
-        "topic_type": "cybersecurity",
-        "relevance_score": 18,
-        "briefing": {
-          "news_focus": "The U.S. telehealth giant says hackers stole customer support ticket data over the course of several days in February.",
-          "news_focus_zh": "美國遠程醫療公司Hims & Hers透露，其客戶支持系統在二月份遭到黑客攻擊，導致客戶支持票據數據被竊取，事件持續數天。",
-          "background": "Hims & Hers是一家專注於提供遠程醫療服務的公司，隨著疫情推動遠程醫療的普及，其業務迅速增長。然而，隨著數據安全問題日益受到重視，企業面臨的網絡安全威脅也隨之增加。此次事件突顯了遠程醫療行業在數據保護方面的脆弱性，尤其是在處理敏感的健康信息時。",
-          "stakeholders": [
-            "Hims & Hers",
-            "客戶",
-            "黑客",
-            "競爭對手",
-            "監管機構"
-          ],
-          "analysis": "此次黑客攻擊對Hims & Hers的客戶信任及品牌形象造成重大影響，可能導致客戶流失及法律責任增加。對於消費者而言，個人數據的安全性受到威脅，可能引發對遠程醫療服務的疑慮。此外，競爭對手可能會利用此事件來強調自身的數據安全措施，進一步加劇市場競爭。Hims & Hers需要加強其網絡安全防護，並透明地向客戶通報事件進展，以重建信任。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "strategic_move",
+        "event_type": "regulation_action",
         "supporting_sources": [
-          "The Guardian Technology"
+          "BBC Technology"
         ],
         "supporting_titles": [
-          "‘Thank God they’re still alive’: Kaiser therapists claim its new screening system puts patients at higher risk by delaying their care"
+          "Tech Now"
         ],
         "supporting_links": [
-          "https://www.theguardian.com/technology/2026/mar/21/kaiser-permanente-therapists-ai-strike"
+          "https://www.bbc.co.uk/iplayer/episode/m002tvm7?at_medium=RSS&at_campaign=rss"
         ],
         "source_count": 2
       },
       {
         "category": "technology",
-        "source_name": "Reuters",
-        "title": "OpenAI acquires technology talk show TBPN in surprise move - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOEdkY2NUYjlCS2lOUkNWVmZHbndQQ1dyMDVVRDZTZ2lkejdVMHUzeHMyTkp5WTYtcVQxSUU0Z2p5NEFyZFVKYXM3WnFsVkY1NHM0a3h3elJ3YS1vOGdYU1hyRWxVblBqZjNXd2g1eTlwWVdxQmxyb2tjamxBS2VBUFc1a2FnRW1rOGVZZlZCTWZLd1IwUE1WOU1Wcy1fRVNtdnpXQTVib0VIaVFfcWNpeGZTV0I?oc=5",
-        "summary": "OpenAI acquires technology talk show TBPN in surprise move Reuters",
-        "published": "Thu, 02 Apr 2026 18:46:07 GMT",
-        "updated": "Thu, 02 Apr 2026 18:46:07 GMT",
-        "published_at_utc": "2026-04-02T18:46:07+00:00",
-        "id": "CBMitAFBVV95cUxQOEdkY2NUYjlCS2lOUkNWVmZHbndQQ1dyMDVVRDZTZ2lkejdVMHUzeHMyTkp5WTYtcVQxSUU0Z2p5NEFyZFVKYXM3WnFsVkY1NHM0a3h3elJ3YS1vOGdYU1hyRWxVblBqZjNXd2g1eTlwWVdxQmxyb2tjamxBS2VBUFc1a2FnRW1rOGVZZlZCTWZLd1IwUE1WOU1Wcy1fRVNtdnpXQTVib0VIaVFfcWNpeGZTV0I",
+        "source_name": "The Verge",
+        "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+        "summary": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw,\" according to an email sent to users on Friday evening. Instead, if users […]",
+        "published": "2026-04-03T19:52:49-04:00",
+        "updated": "2026-04-03T20:14:00-04:00",
+        "published_at_utc": "2026-04-03T23:52:49+00:00",
+        "id": "https://www.theverge.com/?p=907074",
         "topic_type": "ai",
-        "relevance_score": 14,
+        "relevance_score": 16,
         "briefing": {
-          "news_focus": "OpenAI acquires technology talk show TBPN in surprise move Reuters",
-          "news_focus_zh": "OpenAI意外收購科技脫口秀TBPN，顯示其在科技媒體領域的擴張意圖，可能影響其品牌形象與市場策略。",
-          "background": "OpenAI作為人工智慧領域的領導者，過去主要專注於技術開發與應用。TBPN是一個專注於科技話題的脫口秀，擁有一定的觀眾基礎。此次收購可能反映出OpenAI希望透過媒體平台增強與公眾的互動，並提升其品牌影響力，尤其是在AI技術日益受到關注的背景下。",
+          "news_focus": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw,\" according to an email sent to users on Friday evening. Instead, if users […]",
+          "news_focus_zh": "Anthropic 宣布自 4 月 4 日起，使用 OpenClaw 與 Claude AI 的訂閱者需額外支付費用，無法再使用原有的訂閱限制，這一政策改變將顯著提高使用成本。",
+          "background": "Anthropic 是一家專注於人工智慧的公司，Claude 是其推出的 AI 模型。OpenClaw 作為第三方應用，允許用戶更靈活地使用 Claude 的功能。隨著 AI 市場的競爭加劇，企業為了保護自身利益，逐漸對第三方應用施加限制，這一政策變化反映了市場對於平台控制權的重視。",
           "stakeholders": [
-            "OpenAI",
-            "TBPN",
-            "科技媒體觀眾",
-            "AI倫理監管機構",
-            "廣告商"
+            "Anthropic",
+            "OpenClaw",
+            "Claude AI 用戶",
+            "競爭對手",
+            "投資者"
           ],
-          "analysis": "此收購行為可能使OpenAI在科技媒體領域獲得更大的話語權，並能直接影響公眾對AI技術的認知與接受度。然而，這也可能引發對其內容中立性與商業利益之間的質疑。TBPN的原有觀眾可能對OpenAI的立場產生不同看法，尤其在AI倫理與監管議題上，可能出現支持與反對的聲音，影響未來的節目方向與內容。"
+          "analysis": "此政策改變可能會引發用戶的不滿，因為額外的費用將影響使用者的選擇和使用體驗。對於 Anthropic 而言，這是保護其商業模式和獲利的策略，但也可能導致用戶轉向其他 AI 服務。競爭對手如 OpenAI 和 Google 可能會利用這一機會吸引受影響的用戶，進一步加劇市場競爭。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "regulation_action",
+        "supporting_sources": [
+          "Wired"
+        ],
+        "supporting_titles": [
+          "Anthropic Says That Claude Contains Its Own Kind of Emotions"
+        ],
+        "supporting_links": [
+          "https://www.wired.com/story/anthropic-claude-research-functional-emotions/"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "technology",
+        "source_name": "Wired",
+        "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
+        "link": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+        "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
+        "published": "Fri, 03 Apr 2026 21:28:14 +0000",
+        "updated": "Fri, 03 Apr 2026 21:28:14 +0000",
+        "published_at_utc": "2026-04-03T21:28:14+00:00",
+        "id": "69cd4760b07b1f7a1d596ed2",
+        "topic_type": "cybersecurity",
+        "relevance_score": 16,
+        "briefing": {
+          "news_focus": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
+          "news_focus_zh": "Meta 暫停與數據供應商 Mercor 的合作，因為一宗安全事件可能洩露了關鍵的 AI 模型訓練數據，這引起了主要 AI 實驗室的關注。",
+          "background": "隨著 AI 技術的迅速發展，數據安全成為業界的重要議題。Mercor 作為一家領先的數據供應商，為多家 AI 實驗室提供訓練數據。此次安全事件可能影響到 AI 模型的訓練方式，進一步引發對數據保護和商業機密的擔憂。這一事件發生在 AI 競爭日益激烈的背景下，企業對數據的依賴程度加深，使得數據洩露的風險也隨之上升。",
+          "stakeholders": [
+            "Meta",
+            "Mercor",
+            "主要 AI 實驗室",
+            "數據安全專家",
+            "投資者"
+          ],
+          "analysis": "此次事件對 Meta 及其他 AI 實驗室的影響深遠。Meta 暫停與 Mercor 的合作，顯示出對數據安全的高度重視，可能會導致其 AI 研發進度受阻。其他 AI 實驗室也可能重新評估與 Mercor 的合作關係，進一步影響該公司的市場地位。對於 Mercor 來說，這次事件可能損害其聲譽，並引發客戶對其數據安全措施的質疑，未來需要加強透明度和安全防護。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
         "supporting_sources": [
-          "Wired",
-          "TechCrunch"
+          "TechCrunch",
+          "The Guardian Technology"
         ],
         "supporting_titles": [
-          "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
-          "OpenAI acquires TBPN, the buzzy founder-led business talk show"
+          "Europe’s cyber agency blames hacking gangs for massive data breach and leak",
+          "‘Thank God they’re still alive’: Kaiser therapists claim its new screening system puts patients at higher risk by delaying their care"
         ],
         "supporting_links": [
-          "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
-          "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/"
+          "https://techcrunch.com/2026/04/03/europes-cyber-agency-blames-hacking-gangs-for-massive-data-breach-and-leak/",
+          "https://www.theguardian.com/technology/2026/mar/21/kaiser-permanente-therapists-ai-strike"
         ],
         "source_count": 3
       }
@@ -141,156 +147,162 @@
     "politics": [
       {
         "category": "politics",
-        "source_name": "SCMP World",
-        "title": "Trump’s ‘Stone Age’ threats against Iran spark war crimes alarm",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3348912/trumps-stone-age-threats-against-iran-spark-war-crimes-alarm?utm_source=rss_feed",
-        "summary": "Threatening to destroy Iran’s electricity grid and to reduce the country of 90 million to destitution, US President Donald Trump is shattering precedent by not just accepting but gloating about acts seen as potential war crimes. The consequences for Trump, at least in the near term, are probably none, experts say, as his administration works hard to undermine international institutions tasked with keeping norms. The Geneva Conventions governing the laws of war, agreed following World War II,...",
-        "published": "Fri, 03 Apr 2026 06:26:47 +0000",
-        "updated": "Fri, 03 Apr 2026 06:26:47 +0000",
-        "published_at_utc": "2026-04-03T06:26:47+00:00",
-        "id": "https://www.scmp.com/news/world/middle-east/article/3348912/trumps-stone-age-threats-against-iran-spark-war-crimes-alarm?utm_source=rss_feed",
+        "source_name": "The Guardian World",
+        "title": "Ukraine war briefing: Russian army records almost no territorial gains for first time since 2023, analysis shows",
+        "link": "https://www.theguardian.com/world/2026/apr/04/ukraine-war-briefing-russian-army-almost-no-territorial-gains-first-time-since-2023-analysis",
+        "summary": "Russian advances slowing, thinktank’s data shows; 14 killed in Ukraine in massive drone and missile salvo. What we know on day 1,501 Russia’s army recorded almost no territorial gains on the frontline in Ukraine in March for the first time in two-and-a-half years , according to analysis of data from the Institute for the Study of War (ISW) conducted by Agence France-Presse. The Russian army has been slowing in its advances since late 2025 – because of Kyiv’s localised breakthroughs in the south-east of the country. Across the entire frontline, the Russian army seized only 23 sq km (8.9 sq miles) in March, losing territory in some areas, according to the analysis. This figure excludes infiltration operations conducted by Russian forces beyond the frontline, as well as advances claimed by the Russian side but neither confirmed nor denied by the ISW. The Russian army made 319 sq km of gains in January and 123 sq km in February, which was then the smallest advance since April 2024. Its advance in March was the smallest since September 2023. The ISW attributed the slowdown to Ukrainian counteroffensives, but also to “Russia’s ban on using Starlink terminals in Ukraine” and “the Kremlin’s efforts to restrict access to Telegram” . The messaging app – very popular among Russians, including those fighting on the front – has been barely usable in recent months due to blocks imposed by the authorities . As in February, Russia lost ground on the southern section of the frontline, between the Donetsk and Dnipropetrovsk regions. Russian strikes killed 14 people in Ukraine on Friday, officials said, as Moscow launched the latest in an increasing number of daytime barrages . Moscow has been firing aerial broadsides at Ukraine throughout its more than four-year invasion, mostly at night, but in recent weeks has stepped up daytime attacks. The Russian military used more than 500 drones and dozens of missiles in its salvo on Friday, according to the Ukrainian air force. Russia’s Baltic oil export hubs at Ust-Luga and Primorsk remain unable to handle shipments after a series of Ukrainian drone attacks, prompting the country’s refineries to find alternative routes for export , industry sources said on Friday. The attacks have damaged port infrastructure and continued through the last two weeks of March, with at least five strikes on Ust-Luga in the space of 10 days. Sources said the export restrictions, along with disruptions at large refineries, could lead to a decrease in oil production in Russia. Traders said refineries had been unable to deliver diesel fuel to Primorsk for export since 22 March, leaving refineries in European Russia and Siberia without their most viable export route. Traders said refineries were having to consider more expensive rail transport routes to other export terminals. A Ukrainian drone and missile attack on southern Russia killed at least one person, injured four others and sparked a blaze aboard a foreign-flagged vessel , Russian officials said on Saturday. Zelenskyy has called on lawmakers to pass key legislation next week to avert a funding crisis , help Ukraine fight the war against Russia, and enact key reforms required for EU accession. Due to lagging reforms and slow legislative progress in late 2025 and early this year, Ukraine missed deadlines to unlock billions from its key lenders, economists said. With the need for external financing standing at $52bn this year – equivalent to about a quarter of annual economic output – the budget situation is desperate. “I have a list of key draft laws that are critical for securing funding,” the Ukrainian president said in remarks released on Friday. They range from strengthening the court system to reforming energy sector procedures. “I believe that members of parliament from all parties must understand the importance of these bills for Ukraine’s budget,” said Zelenskyy, who has a majority in parliament but its relations with his government have soured. Continue reading...",
+        "published": "Sat, 04 Apr 2026 00:30:54 GMT",
+        "updated": "2026-04-04T00:30:54Z",
+        "published_at_utc": "2026-04-04T00:30:54+00:00",
+        "id": "https://www.theguardian.com/world/2026/apr/04/ukraine-war-briefing-russian-army-almost-no-territorial-gains-first-time-since-2023-analysis",
         "topic_type": "war_and_conflict",
-        "relevance_score": 17,
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Threatening to destroy Iran’s electricity grid and to reduce the country of 90 million to destitution, US President Donald Trump is shattering precedent by not just accepting but gloating about acts seen as potential war crimes. The consequences for Trump, at least in the near term, are probably none, experts say, as his administration works hard to undermine international institutions tasked with keeping norms. The Geneva Conventions governing the laws of war, agreed following World War II,...",
-          "news_focus_zh": "美國總統特朗普威脅摧毀伊朗電力網，並使該國陷入貧困，這一言論引發了對潛在戰爭罪行的警告，專家指出特朗普的行為打破了國際規範的先例。",
-          "background": "特朗普政府在對伊朗的政策上採取強硬立場，尤其是在2018年退出伊朗核協議後，對伊朗實施了嚴厲的經濟制裁。這些制裁旨在削弱伊朗的經濟實力與地緣政治影響力，然而，特朗普的最新威脅則進一步升高了緊張局勢，並引發國際社會對其是否違反日內瓦公約的擔憂，這些公約旨在保護戰爭中的平民與基礎設施。",
+          "news_focus": "Russian advances slowing, thinktank’s data shows; 14 killed in Ukraine in massive drone and missile salvo. What we know on day 1,501 Russia’s army recorded almost no territorial gains on the frontline in Ukraine in March for the first time in two-and-a-half years , according to analysis of data from the Institute for the Study of War (ISW) conducted by Agence France-Presse. The Russian army has been slowing in its advances since late 2025 – because of Kyiv’s localised breakthroughs in the south-east of the country. Across the entire frontline, the Russian army seized only 23 sq km (8.9 sq miles) in March, losing territory in some areas, according to the analysis. This figure excludes infiltration operations conducted by Russian forces beyond the frontline, as well as advances claimed by the Russian side but neither confirmed nor denied by the ISW. The Russian army made 319 sq km of gains in January and 123 sq km in February, which was then the smallest advance since April 2024. Its advance in March was the smallest since September 2023. The ISW attributed the slowdown to Ukrainian counteroffensives, but also to “Russia’s ban on using Starlink terminals in Ukraine” and “the Kremlin’s efforts to restrict access to Telegram” . The messaging app – very popular among Russians, including those fighting on the front – has been barely usable in recent months due to blocks imposed by the authorities . As in February, Russia lost ground on the southern section of the frontline, between the Donetsk and Dnipropetrovsk regions. Russian strikes killed 14 people in Ukraine on Friday, officials said, as Moscow launched the latest in an increasing number of daytime barrages . Moscow has been firing aerial broadsides at Ukraine throughout its more than four-year invasion, mostly at night, but in recent weeks has stepped up daytime attacks. The Russian military used more than 500 drones and dozens of missiles in its salvo on Friday, according to the Ukrainian air force. Russia’s Baltic oil export hubs at Ust-Luga and Primorsk remain unable to handle shipments after a series of Ukrainian drone attacks, prompting the country’s refineries to find alternative routes for export , industry sources said on Friday. The attacks have damaged port infrastructure and continued through the last two weeks of March, with at least five strikes on Ust-Luga in the space of 10 days. Sources said the export restrictions, along with disruptions at large refineries, could lead to a decrease in oil production in Russia. Traders said refineries had been unable to deliver diesel fuel to Primorsk for export since 22 March, leaving refineries in European Russia and Siberia without their most viable export route. Traders said refineries were having to consider more expensive rail transport routes to other export terminals. A Ukrainian drone and missile attack on southern Russia killed at least one person, injured four others and sparked a blaze aboard a foreign-flagged vessel , Russian officials said on Saturday. Zelenskyy has called on lawmakers to pass key legislation next week to avert a funding crisis , help Ukraine fight the war against Russia, and enact key reforms required for EU accession. Due to lagging reforms and slow legislative progress in late 2025 and early this year, Ukraine missed deadlines to unlock billions from its key lenders, economists said. With the need for external financing standing at $52bn this year – equivalent to about a quarter of annual economic output – the budget situation is desperate. “I have a list of key draft laws that are critical for securing funding,” the Ukrainian president said in remarks released on Friday. They range from strengthening the court system to reforming energy sector procedures. “I believe that members of parliament from all parties must understand the importance of these bills for Ukraine’s budget,” said Zelenskyy, who has a majority in parliament but its relations with his government have soured. Continue reading...",
+          "news_focus_zh": "根據分析，俄軍在烏克蘭的前線自2023年以來首次未有實質領土增長，顯示出其進攻速度減緩。烏克蘭的反攻以及俄方對通訊工具的限制被認為是主要原因。俄方在最近的攻擊中造成14人死亡，並面臨石油出口困難。",
+          "background": "自2022年俄烏戰爭爆發以來，俄軍在前線的進展一直是國際關注的焦點。2023年以來，俄軍的領土增長逐漸減少，特別是在烏克蘭的反攻行動下。烏克蘭政府在面對外部資金需求的同時，也在推動必要的內部改革，以促進歐盟的入盟進程。此時，俄方的通訊限制措施也影響了其軍事行動的效率。",
           "stakeholders": [
-            "美國政府",
-            "伊朗政府",
-            "國際人權組織",
-            "聯合國",
-            "美國內部政治團體"
+            "俄羅斯政府",
+            "烏克蘭政府",
+            "歐盟",
+            "國際金融機構",
+            "烏克蘭民眾"
           ],
-          "analysis": "特朗普的威脅可能會在國際上引發強烈反響，尤其是在與伊朗及其盟友的關係上。支持特朗普的美國內部保守派可能會視此為強硬外交的表現，而反對派則可能利用此言論來質疑其對國際法的尊重。此外，這一行為可能會促使其他國家重新評估與美國的外交關係，特別是在涉及人權與國際法的議題上，未來的國際合作可能會受到影響。"
+          "analysis": "俄軍的進展減緩對於克里姆林宮而言是一個重大挫折，可能導致內部壓力增加，尤其是在面對經濟困境和軍事失利的情況下。烏克蘭則在反攻中獲得了戰略優勢，並且急需外部資金以維持戰爭努力。這使得烏克蘭政府必須加快立法進程，以確保國際支持。各方在此局勢中，俄方面臨的軍事與經濟挑戰將影響其未來的戰略選擇。"
         },
         "topic_priority_score": 11,
-        "event_type": "security_event",
+        "event_type": "election_move",
         "supporting_sources": [
-          "Al Jazeera",
-          "The Diplomat",
-          "Fox News World",
           "The Hindu International",
-          "The Guardian World"
+          "Al Jazeera",
+          "SCMP World",
+          "The Diplomat"
         ],
         "supporting_titles": [
-          "Iran war: What is happening on day 35 of US-Israeli attacks?",
-          "Amid Iran War Energy Crunch, Taiwan Turns Back Toward Nuclear Energy",
-          "Iran regime uses war to mask 'brutal' execution surge against political opponents",
-          "Australia PM says Iran war objectives met, 'not clear' what more to achieve",
-          "Asia ramps up use of dirty fuels to cover energy shortfall triggered by Iran war"
+          "Russia made nearly no territorial gains in Ukraine in March: Analysis",
+          "Video shows the moment a Russian drone hit an apartment in Ukraine",
+          "8 die in Ukraine in Russian strikes as Kyiv holds door open for Easter truce",
+          "Iran War Opens New Markets for Kazakhstan"
         ],
         "supporting_links": [
-          "https://www.aljazeera.com/news/2026/4/3/iran-war-what-is-happening-on-day-35-of-us-israeli-attacks?traffic_source=rss",
-          "https://thediplomat.com/2026/04/amid-iran-war-energy-crunch-taiwan-turns-back-toward-nuclear-energy/",
-          "https://www.foxnews.com/world/iran-regime-uses-war-mask-brutal-execution-surge-against-political-opponents",
-          "https://www.thehindu.com/news/international/australia-pm-says-iran-war-objectives-met-not-clear-what-more-to-achieve/article70814341.ece",
-          "https://www.theguardian.com/world/2026/apr/01/iran-energy-crisis-asia-dirty-fuels-coal"
+          "https://www.thehindu.com/news/international/russia-made-nearly-no-territorial-gains-in-ukraine-in-march-analysis/article70822590.ece",
+          "https://www.aljazeera.com/video/newsfeed/2026/4/3/video-shows-the-moment-a-russian-drone-hit-an-apartment-in-ukraine?traffic_source=rss",
+          "https://www.scmp.com/news/world/russia-central-asia/article/3349002/8-die-ukraine-russian-strikes-kyiv-holds-door-open-easter-truce?utm_source=rss_feed",
+          "https://thediplomat.com/2026/04/iran-war-opens-new-markets-for-kazakhstan/"
         ],
-        "source_count": 6
+        "source_count": 5
       },
       {
         "category": "politics",
         "source_name": "SCMP World",
-        "title": "The US-China trade war 1 year on: who really holds the upper hand?",
-        "link": "https://www.scmp.com/economy/global-economy/article/3348826/us-china-trade-war-1-year-who-really-holds-upper-hand?utm_source=rss_feed",
-        "summary": "As China and the United States wrapped up their sixth and most recent round of trade talks in Paris this March, a minor mishap briefly stole the spotlight. A sudden gust of wind toppled two American flags in the background, where journalists were waiting for US Treasury Secretary Scott Bessent. Officials rushed to tape them to the wall – a fitting tableau for a trade war that, one year on, is patched together by a truce yet remains far from resolved. At their respective press appearances,...",
-        "published": "Thu, 02 Apr 2026 22:00:14 +0000",
-        "updated": "Thu, 02 Apr 2026 22:00:14 +0000",
-        "published_at_utc": "2026-04-02T22:00:14+00:00",
-        "id": "https://www.scmp.com/economy/global-economy/article/3348826/us-china-trade-war-1-year-who-really-holds-upper-hand?utm_source=rss_feed",
+        "title": "Competition or ‘co-opetition’: how is convergence shaping AI race between China and US?",
+        "link": "https://www.scmp.com/tech/big-tech/article/3348973/competition-or-co-opetition-how-convergence-shaping-ai-race-between-china-and-us?utm_source=rss_feed",
+        "summary": "There was a surprise guest speaker at Nvidia’s widely watched GPU Technology Conference (GTC) in San Jose, California, last month: Yang Zhilin, the founder of Beijing-based Moonshot AI, the developer behind the Kimi family of foundational artificial intelligence models. Amid heated rhetoric about US-China AI competition, which some have likened to an “arms race”, the participation of a Chinese AI start-up’s CEO at the flagship event of American chipmaking giant Nvidia might have struck some as...",
+        "published": "Sat, 04 Apr 2026 02:00:12 +0000",
+        "updated": "Sat, 04 Apr 2026 02:00:12 +0000",
+        "published_at_utc": "2026-04-04T02:00:12+00:00",
+        "id": "https://www.scmp.com/tech/big-tech/article/3348973/competition-or-co-opetition-how-convergence-shaping-ai-race-between-china-and-us?utm_source=rss_feed",
         "topic_type": "us_china_relations",
         "relevance_score": 15,
         "briefing": {
-          "news_focus": "As China and the United States wrapped up their sixth and most recent round of trade talks in Paris this March, a minor mishap briefly stole the spotlight. A sudden gust of wind toppled two American flags in the background, where journalists were waiting for US Treasury Secretary Scott Bessent. Officials rushed to tape them to the wall – a fitting tableau for a trade war that, one year on, is patched together by a truce yet remains far from resolved. At their respective press appearances,...",
-          "news_focus_zh": "美中貿易戰在經過一年的緊張局勢後，雙方於巴黎進行第六輪貿易談判，雖然表面上達成了暫時的休戰，但實際上仍未解決根本問題，顯示出雙方在貿易政策上的深層矛盾。",
-          "background": "自2018年以來，美中貿易戰持續升溫，雙方互徵關稅，影響全球供應鏈與市場信心。美國對中國的貿易逆差及知識產權問題是主要爭議點。隨著全球經濟的不確定性增加，雙方在貿易談判中尋求妥協，但根本矛盾仍然存在，未來的貿易關係仍然充滿變數。",
+          "news_focus": "There was a surprise guest speaker at Nvidia’s widely watched GPU Technology Conference (GTC) in San Jose, California, last month: Yang Zhilin, the founder of Beijing-based Moonshot AI, the developer behind the Kimi family of foundational artificial intelligence models. Amid heated rhetoric about US-China AI competition, which some have likened to an “arms race”, the participation of a Chinese AI start-up’s CEO at the flagship event of American chipmaking giant Nvidia might have struck some as...",
+          "news_focus_zh": "在美國加州舉行的Nvidia GPU技術大會上，中國初創公司Moonshot AI的創始人楊志林意外出席，這在美中AI競爭的背景下引發關注。此事件突顯了在激烈的科技競爭中，合作與競爭並存的複雜局面。",
+          "background": "隨著人工智慧技術的迅速發展，美國與中國之間的競爭日益加劇，許多專家將其比作軍備競賽。美國在半導體和AI技術領域的領先地位面臨來自中國的挑戰，後者在政策支持下迅速崛起。Nvidia作為全球領先的GPU製造商，其技術在AI發展中扮演關鍵角色，吸引了全球AI企業的關注。",
           "stakeholders": [
+            "Nvidia",
+            "Moonshot AI",
             "美國政府",
             "中國政府",
-            "全球貿易企業",
-            "國際金融市場",
-            "消費者"
+            "AI技術開發者"
           ],
-          "analysis": "美國希望透過貿易談判迫使中國改變其經濟政策，特別是在知識產權和市場准入方面，而中國則試圖維護其經濟主權與發展模式。雙方在談判中各有考量，美國需要穩定的經濟環境以應對內部壓力，而中國則希望減少外部衝擊以促進內需。未來貿易關係的走向將取決於雙方能否在根本利益上達成共識。"
+          "analysis": "楊志林的出席可能象徵著中美兩國在AI領域的合作潛力，儘管競爭激烈，但也顯示出雙方在技術交流上的可能性。美方可能擔心中國企業的崛起會威脅其技術優勢，而中國則希望借助美國的技術平台加速自身發展。這種「合作競爭」的模式可能會影響未來的政策走向及市場動態，促使雙方在某些領域尋求共贏。"
         },
         "topic_priority_score": 10,
-        "event_type": "security_event",
+        "event_type": "political_signal",
         "supporting_sources": [
-          "The Diplomat",
+          "The Guardian World",
+          "Taipei Times",
           "The Hindu International",
-          "Fox News World"
+          "The Diplomat"
         ],
         "supporting_titles": [
-          "Is the Philippines Really About to Restart Joint Oil Exploration With China in the South China Sea?",
-          "The long and lingering shadow of war",
-          "Iran's war against the US and Israel is being fueled by North Korean weapons, expert warns"
+          "Middle East crisis live: US and Iran race to recover missing pilot from downed jet; another ship passes through strait of Hormuz",
+          "US, China and Honduras’ stance",
+          "China says peace talks between Afghanistan and Pakistan are advancing",
+          "China and African Sovereignty: Beyond the Digital Silk Road Narrative"
         ],
         "supporting_links": [
-          "https://thediplomat.com/2026/03/is-the-philippines-really-about-to-restart-joint-oil-exploration-with-china-in-the-south-china-sea/",
-          "https://www.thehindu.com/opinion/op-ed/the-long-and-lingering-shadow-of-war/article70817114.ece",
-          "https://www.foxnews.com/world/irans-war-against-us-israel-being-fueled-north-korean-weapons-expert-warns"
+          "https://www.theguardian.com/world/live/2026/apr/04/middle-east-crisis-live-us-iran-war-missing-pilot-downed-jet-israel-bombards-beirut",
+          "https://www.taipeitimes.com/News/editorials/archives/2026/04/04/2003854993",
+          "https://www.thehindu.com/news/international/china-says-peace-talks-between-afghanistan-and-pakistan-are-advancing/article70820799.ece",
+          "https://thediplomat.com/2026/04/china-and-african-sovereignty-beyond-the-digital-silk-road-narrative/"
         ],
-        "source_count": 4
+        "source_count": 5
       },
       {
         "category": "politics",
-        "source_name": "SCMP World",
-        "title": "US delays Japan’s Tomahawk missile supplies as Iran strikes take priority",
-        "link": "https://www.scmp.com/news/asia/east-asia/article/3348914/us-delays-japans-tomahawk-missile-supplies-iran-strikes-take-priority?utm_source=rss_feed",
-        "summary": "Japan’s order for hundreds of Tomahawk missiles from the US is under threat as the American-Israeli war with Iran burns through inventories, the latest example of how the conflict is drawing in supplies and troops at the expense of defending against Washington’s primary strategic rival, China. Tomahawk missiles are a centrepiece of Tokyo’s new strategy of equipping itself with long-range strike capabilities to deal with challenges from China and North Korea. But Washington has informed Tokyo...",
-        "published": "Fri, 03 Apr 2026 06:30:16 +0000",
-        "updated": "Fri, 03 Apr 2026 06:30:16 +0000",
-        "published_at_utc": "2026-04-03T06:30:16+00:00",
-        "id": "https://www.scmp.com/news/asia/east-asia/article/3348914/us-delays-japans-tomahawk-missile-supplies-iran-strikes-take-priority?utm_source=rss_feed",
+        "source_name": "The Guardian World",
+        "title": "Voters in Wales failed by inaccurate UK media reports on devolved issues, study finds",
+        "link": "https://www.theguardian.com/media/2026/apr/04/voters-in-wales-failed-by-inaccurate-uk-media-reports-on-devolved-issues-study-finds",
+        "summary": "Reports on English policies seen in Wales as relating to whole of UK contribute to widespread confusion, researchers say UK media is failing to report properly on devolved issues in Wales, leaving voters ill-informed about May’s Senedd elections, a report has found. A Cardiff University study of more than 3,000 news items found repeated patterns in coverage across different broadcasters and platforms, including not signposting whether an issue was relevant to England or England and Wales only, widespread references to “the government” rather than “the UK government”, and the use of “you” and “your” in contexts that apply only to people living in England. Continue reading...",
+        "published": "Sat, 04 Apr 2026 06:00:14 GMT",
+        "updated": "2026-04-04T06:00:14Z",
+        "published_at_utc": "2026-04-04T06:00:14+00:00",
+        "id": "https://www.theguardian.com/media/2026/apr/04/voters-in-wales-failed-by-inaccurate-uk-media-reports-on-devolved-issues-study-finds",
         "topic_type": "uk_politics",
-        "relevance_score": 17,
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "Japan’s order for hundreds of Tomahawk missiles from the US is under threat as the American-Israeli war with Iran burns through inventories, the latest example of how the conflict is drawing in supplies and troops at the expense of defending against Washington’s primary strategic rival, China. Tomahawk missiles are a centrepiece of Tokyo’s new strategy of equipping itself with long-range strike capabilities to deal with challenges from China and North Korea. But Washington has informed Tokyo...",
-          "news_focus_zh": "美國因應與伊朗的衝突優先考量，延遲向日本供應數百枚戰斧導彈，這影響了日本加強長程打擊能力的計劃，特別是面對中國與北韓的威脅。",
-          "background": "日本近期訂購的戰斧導彈是其防衛戰略的重要組成部分，旨在提升對中國和北韓的威脅應對能力。然而，隨著美國與伊朗的衝突加劇，導致美方資源被重新分配，影響了對日本的軍售。這一情況反映出美國在中東與亞太地區的軍事優先級之間的矛盾，並可能改變日本的防衛計劃與地區安全平衡。",
+          "news_focus": "Reports on English policies seen in Wales as relating to whole of UK contribute to widespread confusion, researchers say UK media is failing to report properly on devolved issues in Wales, leaving voters ill-informed about May’s Senedd elections, a report has found. A Cardiff University study of more than 3,000 news items found repeated patterns in coverage across different broadcasters and platforms, including not signposting whether an issue was relevant to England or England and Wales only, widespread references to “the government” rather than “the UK government”, and the use of “you” and “your” in contexts that apply only to people living in England. Continue reading...",
+          "news_focus_zh": "一項研究指出，英國媒體在報導威爾斯的權力下放議題時存在不準確性，導致選民對即將舉行的威爾斯議會選舉感到困惑。研究發現，媒體未能清楚區分英國與威爾斯的政策，影響了選民的知識與參與度。",
+          "background": "威爾斯自1999年以來擁有自己的議會，負責地方政策的制定。然而，英國主流媒體在報導時常常將英國政策與威爾斯的權力下放問題混淆，未能清楚標示哪些政策僅適用於英格蘭，這導致選民對地方政治的理解不足。隨著2021年威爾斯議會選舉的臨近，這一問題愈發凸顯，影響了民主參與的質量。",
           "stakeholders": [
-            "美國政府",
-            "日本政府",
-            "伊朗",
-            "中國",
-            "北韓"
+            "威爾斯選民",
+            "英國政府",
+            "威爾斯議會",
+            "媒體機構",
+            "學術界"
           ],
-          "analysis": "美國的延遲供應將對日本的防衛能力造成直接影響，可能迫使東京重新評估其軍事策略及依賴美國的程度。對於美國而言，這一決策顯示出其在中東的軍事承諾優先於亞太地區的戰略需求，可能引發日本對美國安全保證的疑慮。此外，這也可能促使日本加速自主防衛能力的發展，進一步影響地區軍事平衡。"
+          "analysis": "此報告揭示了英國媒體在報導地方議題時的系統性缺陷，對威爾斯選民的影響深遠。對於威爾斯的選民來說，缺乏準確資訊可能導致他們在選舉中做出不知情的選擇，進一步削弱地方政府的合法性。英國政府與威爾斯議會之間的緊張關係也可能因媒體報導的不當而加劇，影響政策的推動與執行。媒體的角色在於提供準確的資訊，若無法做到，將可能引發更大的政治與社會問題。"
         },
         "topic_priority_score": 9,
-        "event_type": "security_event",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
+        "event_type": "election_move",
+        "supporting_sources": [
+          "The Hindu International"
+        ],
+        "supporting_titles": [
+          "Pakistan rejects media reports of collapse of initiative to facilitate U.S., Iran talks"
+        ],
+        "supporting_links": [
+          "https://www.thehindu.com/news/international/pakistan-rejects-media-reports-of-collapse-of-initiative-to-facilitate-us-iran-talks/article70822584.ece"
+        ],
+        "source_count": 2
       }
     ],
     "economy": [
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Lucky few Americans whose student debt was forgiven: ‘I hit the lottery’",
-        "link": "https://www.theguardian.com/money/2026/apr/02/us-student-loan-debt-forgiveness",
-        "summary": "Only a small fraction of about 43 million have had their debt cancelled, the relief for those who have is transformative Of the roughly 43 million Americans carrying student loan debt – totaling nearly $1.7tn – only a small fraction have seen their balances erased. For those who have, the relief has been transformative, with several telling the Guardian how the forgiveness has reshaped financial futures and opened doors to new careers, stability and long-delayed life plans. “My loan was forgiven at the end of 2025 through the Public Service Loan Forgiveness Program,” said Laura Kluss, a 41-year-old clinical social worker based in Sacramento, California. “It was in the six figures at the time of forgiveness. Interest rates were making it extremely difficult to pay it down. Continue reading...",
-        "published": "Thu, 02 Apr 2026 12:00:23 GMT",
-        "updated": "2026-04-02T12:00:23Z",
-        "published_at_utc": "2026-04-02T12:00:23+00:00",
-        "id": "https://www.theguardian.com/money/2026/apr/02/us-student-loan-debt-forgiveness",
+        "source_name": "The Economist",
+        "title": "Americans can still get a 2% mortgage",
+        "link": "https://www.economist.com/finance-and-economics/2025/07/17/americans-can-still-get-a-2-mortgage",
+        "summary": "At a time of high interest rates, there are bargains to be found",
+        "published": "Thu, 17 Jul 2025 09:33:09 +0000",
+        "updated": "Thu, 17 Jul 2025 09:33:09 +0000",
+        "published_at_utc": "2025-07-17T09:33:09+00:00",
+        "id": "0e81a4c2-402e-4422-9823-8935b0215e29",
         "topic_type": "interest_rates",
-        "relevance_score": 17,
+        "relevance_score": 14,
         "briefing": {
-          "news_focus": "Only a small fraction of about 43 million have had their debt cancelled, the relief for those who have is transformative Of the roughly 43 million Americans carrying student loan debt – totaling nearly $1.7tn – only a small fraction have seen their balances erased. For those who have, the relief has been transformative, with several telling the Guardian how the forgiveness has reshaped financial futures and opened doors to new careers, stability and long-delayed life plans. “My loan was forgiven at the end of 2025 through the Public Service Loan Forgiveness Program,” said Laura Kluss, a 41-year-old clinical social worker based in Sacramento, California. “It was in the six figures at the time of forgiveness. Interest rates were making it extremely difficult to pay it down. Continue reading...",
-          "news_focus_zh": "美國學生貸款減免政策的受益者僅為少數，約4300萬名學生貸款者中，只有一小部分的債務獲得取消，這對他們的生活產生了深遠影響。",
-          "background": "美國的學生貸款問題已成為一個重大社會與經濟議題，總額接近1.7兆美元。雖然政府推出了多項減免計畫，如公共服務貸款減免計畫，但實際受益者卻寥寥無幾。這一政策背景源於對高等教育負擔的關注，尤其是對低收入和中產階級家庭的影響。隨著社會對教育公平的呼聲上升，學生貸款減免成為政治辯論的焦點。",
+          "news_focus": "At a time of high interest rates, there are bargains to be found",
+          "news_focus_zh": "在高利率的環境下，美國市場仍然存在可獲得2%利率的抵押貸款選擇，顯示出市場中的一些利率優惠機會。",
+          "background": "隨著美國聯邦儲備系統為了控制通脹而提高利率，抵押貸款利率普遍上升，導致購房成本增加。然而，部分貸款機構仍提供較低利率的抵押貸款，這可能是由於競爭激烈或特定市場需求所驅動。這一現象在過去幾年中，尤其是在疫情後的經濟復甦階段，顯得尤為突出。",
           "stakeholders": [
-            "美國政府",
-            "學生貸款借款者",
-            "高等教育機構",
-            "金融機構",
-            "社會運動團體"
+            "房屋買家",
+            "貸款機構",
+            "房地產投資者",
+            "聯邦儲備系統",
+            "經濟學者"
           ],
-          "analysis": "這則新聞突顯了學生貸款減免政策的選擇性及其對受益者的深遠影響。對於少數受惠者而言，債務的解除不僅減輕了經濟壓力，還為他們的職業生涯和生活計劃帶來了新的可能性。然而，對於未能獲得減免的4300萬人來說，這一政策的局限性可能加劇了社會不平等的問題，並引發對政府政策公平性的質疑。未來，政策的調整與擴大受益範圍將成為關鍵議題。"
+          "analysis": "對於潛在的房屋買家來說，能夠獲得2%的抵押貸款無疑是一個吸引人的機會，尤其是在高利率的背景下。然而，這也可能意味著貸款機構在風險管理上採取了不同的策略，可能會對借款人的信用評分或其他條件提出更高的要求。此外，這種情況可能會吸引投資者進一步進入房地產市場，推高房價，並可能對整體經濟產生影響。"
         },
         "topic_priority_score": 10,
         "event_type": "rate_decision",
@@ -301,114 +313,93 @@
       },
       {
         "category": "economy",
-        "source_name": "BBC Business",
-        "title": "Pharmaceuticals face 100% tariffs in US - unless firms strike a deal",
-        "link": "https://www.bbc.com/news/articles/cx29kke01gpo?at_medium=RSS&at_campaign=rss",
-        "summary": "The order does not affect generic medicines, the most commonly used in the US.",
-        "published": "Thu, 02 Apr 2026 22:06:30 GMT",
-        "updated": "Thu, 02 Apr 2026 22:06:30 GMT",
-        "published_at_utc": "2026-04-02T22:06:30+00:00",
-        "id": "https://www.bbc.com/news/articles/cx29kke01gpo#0",
+        "source_name": "Nikkei Asia",
+        "title": "One year on from Trump tariffs, Taiwan sees 80% rise in exports to US",
+        "link": "https://asia.nikkei.com/economy/trade/one-year-on-from-trump-tariffs-taiwan-sees-80-rise-in-exports-to-us",
+        "summary": "",
+        "published": "",
+        "updated": "",
+        "published_at_utc": "",
+        "id": "https://asia.nikkei.com/economy/trade/one-year-on-from-trump-tariffs-taiwan-sees-80-rise-in-exports-to-us",
         "topic_type": "trade_wars",
-        "relevance_score": 20,
+        "relevance_score": 17,
         "briefing": {
-          "news_focus": "The order does not affect generic medicines, the most commonly used in the US.",
-          "news_focus_zh": "美國對製藥公司可能施加100%的關稅，除非企業達成協議。此命令不影響美國最常用的仿製藥。",
-          "background": "美國製藥行業面臨的關稅政策源於貿易緊張局勢，特別是與其他國家的貿易不平衡及知識產權爭議。過去幾年，美國政府對外國製藥產品的依賴性引發了關於國內生產的討論，促使政策制定者尋求保護本土產業的措施。此政策的推出可能會影響藥品價格及供應鏈，尤其是在新冠疫情後，全球供應鏈的脆弱性更加凸顯。",
+          "news_focus": "One year on from Trump tariffs, Taiwan sees 80% rise in exports to US",
+          "news_focus_zh": "台灣在特朗普關稅政策實施一年後，對美國的出口增長了80%。",
+          "background": "特朗普政府於2018年對中國商品徵收高額關稅，這使得許多企業尋求將供應鏈轉移至其他國家以避免關稅影響。台灣作為亞洲重要的電子產品生產基地，受益於這一政策，吸引了大量美國企業將生產轉移至台灣，進而促進了台灣對美國的出口增長。",
           "stakeholders": [
-            "美國製藥公司",
-            "美國政府",
-            "仿製藥企業",
-            "患者群體",
-            "國際貿易夥伴"
+            "台灣政府",
+            "美國企業",
+            "中國政府",
+            "台灣出口商",
+            "國際投資者"
           ],
-          "analysis": "此政策對製藥公司造成重大壓力，迫使其在成本與市場競爭之間尋求平衡。若企業無法達成協議，將面臨高達100%的關稅，可能導致藥品價格上漲，影響患者的可及性。另一方面，政府可能希望通過此舉促使製藥公司加強本土生產，降低對外依賴。與此同時，仿製藥不受影響，可能使得相關企業受益，並在市場中佔據更大份額。"
+          "analysis": "台灣的出口增長反映了美國企業對於供應鏈多元化的需求，尤其是在中美貿易緊張局勢下。這對台灣經濟而言是一大利好，促進了產業升級與投資。然而，隨著拜登政府的上台，貿易政策可能會有所調整，台灣需警惕未來可能的政策變化對出口的影響。此外，中國可能會加強對台灣的經濟壓力，進一步影響兩岸關係。"
         },
         "topic_priority_score": 9,
         "event_type": "macro_signal",
         "supporting_sources": [
           "The Guardian Business",
-          "The Economist"
+          "The Economist",
+          "BBC Business",
+          "Reuters"
         ],
         "supporting_titles": [
-          "Trump threatens 100% tariff on US drug makers that don’t strike deals to lower prices",
-          "How to strike a trade deal with Donald Trump"
+          "‘If he’d stayed on the golf course, we’d be in a better place’: experts on Trump’s tariffs, one year on",
+          "Who will win from Trump’s tariffs?",
+          "A year on: Four ways Trump's tariffs have changed the global economy",
+          "Senators urge Trump to bar Chinese automakers from building cars in US - reuters.com"
         ],
         "supporting_links": [
-          "https://www.theguardian.com/us-news/2026/apr/02/trump-100-tariff-us-pharmaceutical-drug-makers",
-          "https://www.economist.com/finance-and-economics/2025/07/03/how-to-strike-a-trade-deal-with-donald-trump"
+          "https://www.theguardian.com/business/2026/apr/02/trump-liberation-day-us-tariffs-trade",
+          "https://www.economist.com/finance-and-economics/2025/08/14/who-will-win-from-trumps-tariffs",
+          "https://www.bbc.com/news/articles/c79j1rd92ypo?at_medium=RSS&at_campaign=rss",
+          "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTzlnai1qck50QlpLN0ZTa2NxU3J6UWxXY1NYMjFJZURjVnRWRG5yUTRYVVFNdmJPWGExRF9ZYkRUenpxb01wcXRKRmpHX2ZrZDRsUnQ4SDJFWW95RVR4c1M2VUxvcGlBbElyd19pcW5PZlZTMGMzWURLazhQakxrMUY4b3YtaTd2cGhlWkZTenA4dDNncmxiRUdvbXNMWk5QRHE3NHlsTlZuc1loelVtamY3WGs1RG1VZzhSLUtGTmw5Vkk?oc=5"
         ],
-        "source_count": 3
+        "source_count": 5
       },
       {
         "category": "economy",
-        "source_name": "The Economist",
-        "title": "Why American bondholders are jumpy about inflation",
-        "link": "https://www.economist.com/finance-and-economics/2025/09/10/why-american-bondholders-are-jumpy-about-inflation",
-        "summary": "The Federal Reserve prepares to cut interest rates in tricky circumstances",
-        "published": "Wed, 10 Sep 2025 19:05:23 +0000",
-        "updated": "Wed, 10 Sep 2025 19:05:23 +0000",
-        "published_at_utc": "2025-09-10T19:05:23+00:00",
-        "id": "9179ca8f-dd93-4b37-afc7-8378f4fa78b3",
+        "source_name": "The Guardian Business",
+        "title": "Cost of living: get ready for ‘awful April’ bill increases",
+        "link": "https://www.theguardian.com/money/2026/mar/30/cost-of-living-how-to-prepare-for-the-awful-april-shower-of-bill-increases",
+        "summary": "From council tax to water, broadband to stamps, the annual round of price rises starts on 1 April … and that’s before any fallout from Iran war UK savers told to act now before Easter Sunday cash Isa deadline Britons will typically see more than £200 added to their household bills this year as “awful April” price increases kick in. The annual rises are particularly unwelcome as the financial turmoil caused by the Middle East conflict has pushed up mortgage rates, fuel prices and energy bills for rural households . Continue reading...",
+        "published": "Wed, 01 Apr 2026 08:01:16 GMT",
+        "updated": "2026-04-01T08:01:16Z",
+        "published_at_utc": "2026-04-01T08:01:16+00:00",
+        "id": "https://www.theguardian.com/money/2026/mar/30/cost-of-living-how-to-prepare-for-the-awful-april-shower-of-bill-increases",
         "topic_type": "inflation",
-        "relevance_score": 16,
+        "relevance_score": 14,
         "briefing": {
-          "news_focus": "The Federal Reserve prepares to cut interest rates in tricky circumstances",
-          "news_focus_zh": "美國聯邦儲備系統在面對複雜情勢下，準備降息，這使得美國債券持有者對通脹感到不安。",
-          "background": "隨著全球經濟復甦的步伐不一，通脹壓力在美國逐漸上升。聯邦儲備系統的利率政策一直是市場關注的焦點，因為利率變動直接影響債券收益率與投資者信心。降息通常被視為刺激經濟的手段，但在通脹上升的背景下，這一政策的有效性與後果引發了廣泛討論。",
+          "news_focus": "From council tax to water, broadband to stamps, the annual round of price rises starts on 1 April … and that’s before any fallout from Iran war UK savers told to act now before Easter Sunday cash Isa deadline Britons will typically see more than £200 added to their household bills this year as “awful April” price increases kick in. The annual rises are particularly unwelcome as the financial turmoil caused by the Middle East conflict has pushed up mortgage rates, fuel prices and energy bills for rural households . Continue reading...",
+          "news_focus_zh": "英國即將迎來4月的價格上漲，家庭開支將增加超過200英鎊，這一漲幅受到中東衝突影響，導致抵押貸款利率、燃料價格及能源費用上升。",
+          "background": "隨著4月的來臨，英國各項生活成本將迎來年度調整，包括市政稅、水費、寬頻及郵票等，這些漲幅在當前經濟不穩定的背景下尤為嚴重。中東地區的衝突導致全球能源市場波動，進一步推高了英國的生活成本，特別是對於居住在偏遠地區的家庭影響更大。",
           "stakeholders": [
-            "美國聯邦儲備系統",
-            "債券持有者",
-            "投資者",
-            "經濟學家",
-            "市場分析師"
+            "英國政府",
+            "家庭消費者",
+            "銀行與金融機構",
+            "能源供應商",
+            "零售商"
           ],
-          "analysis": "債券持有者對通脹的擔憂主要源於降息可能導致的資產價值波動。降息雖然能降低借貸成本，促進經濟增長，但若通脹持續上升，實際收益率可能進一步下降，影響投資者的回報。市場對於聯儲的政策反應不一，部分投資者認為降息是必要的經濟刺激，而另一些則擔心這會加劇通脹壓力，導致未來更高的利率調整。"
+          "analysis": "此次價格上漲對英國家庭的財務狀況造成直接衝擊，尤其是在經濟已經因中東衝突而承受壓力的情況下。政府可能面臨民生問題的壓力，需考慮如何平衡經濟穩定與民眾需求。銀行和金融機構則需應對因利率上升而帶來的貸款風險，可能會影響貸款發放政策。此外，消費者的購買力下降可能會對零售業造成進一步影響，形成惡性循環。"
         },
         "topic_priority_score": 9,
         "event_type": "rate_decision",
-        "supporting_sources": [
-          "BBC Business"
-        ],
-        "supporting_titles": [
-          "Why Chinese tech companies are racing to set up in Hong Kong"
-        ],
-        "supporting_links": [
-          "https://www.bbc.com/news/articles/c8d5v404m96o?at_medium=RSS&at_campaign=rss"
-        ],
-        "source_count": 2
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
-        "title": "‘It does feel like an intimidation campaign’: why is US tech giant Palantir suing a small Swiss magazine?",
-        "link": "https://www.theguardian.com/global-development/2026/mar/20/us-tech-giant-palantir-swiss-magazine-wav",
-        "source_name": "The Guardian Technology",
-        "published_at_utc": "2026-03-20T06:00:12+00:00",
-        "relevance_score": 12
-      },
-      {
         "title": "Inside China’s robotics revolution",
         "link": "https://www.theguardian.com/technology/2026/mar/19/inside-chinas-robotics-revolution",
         "source_name": "The Guardian Technology",
         "published_at_utc": "2026-03-19T05:01:00+00:00",
         "relevance_score": 12
-      },
-      {
-        "title": "Diverse teams start with diverse VCs",
-        "link": "https://techcrunch.com/2026/04/02/diverse-teams-start-with-diverse-vcs/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-02T13:45:00+00:00",
-        "relevance_score": 11
-      },
-      {
-        "title": "The Gulf was Silicon Valley’s bet on the future. Trump has put it in the crosshairs",
-        "link": "https://restofworld.org/2026/gulf-war-aws-data-center-attack-ai-investment-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "source_name": "Rest of World",
-        "published_at_utc": "2026-03-23T10:00:00+00:00",
-        "relevance_score": 8
       },
       {
         "title": "Mythmatch review – a match-three game made in heaven",
@@ -425,114 +416,128 @@
         "relevance_score": 8
       },
       {
-        "title": "Nvidia rolls out its fix for PC gaming's \"compiling shaders\" wait times",
-        "link": "https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/",
+        "title": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+        "link": "https://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus/",
         "source_name": "Ars Technica",
-        "published_at_utc": "2026-04-01T20:46:48+00:00",
-        "relevance_score": -4
+        "published_at_utc": "2026-04-02T17:00:11+00:00",
+        "relevance_score": -2
       },
       {
-        "title": "ICE says it bought Paragon’s spyware to use in drug trafficking cases",
-        "link": "https://techcrunch.com/2026/04/02/ice-says-it-bought-paragons-spyware-to-use-in-drug-trafficking-cases/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-02T15:39:51+00:00",
+        "title": "Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions",
+        "link": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-04-03T21:17:01+00:00",
         "relevance_score": 16
       },
       {
-        "title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
-        "link": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-04-02T17:00:00+00:00",
+        "title": "Europe’s cyber agency blames hacking gangs for massive data breach and leak",
+        "link": "https://techcrunch.com/2026/04/03/europes-cyber-agency-blames-hacking-gangs-for-massive-data-breach-and-leak/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-03T15:50:43+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+        "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-04T01:31:00+00:00",
         "relevance_score": 14
       },
       {
-        "title": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
-        "link": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-04-02T19:29:48+00:00",
+        "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+        "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-03T20:35:34+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+        "link": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-03T20:28:40+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "OpenAI’s AGI boss is taking a leave of absence",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-04-03T20:22:59+00:00",
         "relevance_score": 12
       }
     ],
     "politics": [
       {
-        "title": "Ukraine war briefing: Zelenskyy offers expertise on keeping waterways open amid Middle East conflict",
-        "link": "https://www.theguardian.com/world/2026/apr/03/ukraine-war-briefing-zelenskyy-expertise-waterways-open-middle-east-conflict",
+        "title": "‘The frontline is like Terminator’: fighting robots give Ukraine hope in war with Russia",
+        "link": "https://www.theguardian.com/world/2026/apr/04/fighting-robots-give-ukraine-hope-in-war-with-russia",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-03T00:20:23+00:00",
+        "published_at_utc": "2026-04-04T06:00:14+00:00",
         "relevance_score": 17
       },
       {
-        "title": "Israel says Hezbollah chief to pay ‘heavy price’ for Jewish holiday attacks",
-        "link": "https://www.thehindu.com/news/international/israel-says-hezbollah-chief-to-pay-heavy-price-for-jewish-holiday-attacks/article70817165.ece",
+        "title": "Israel targets Iran-backed Hezbollah sites in Lebanon in fresh strikes",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3349021/israel-targets-iran-backed-hezbollah-sites-lebanon-fresh-strikes?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-04T05:16:02+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "14 dead as Russia launches new daytime attacks on Ukraine",
+        "link": "https://www.thehindu.com/news/international/14-dead-as-russia-launches-new-daytime-attacks-on-ukraine/article70821399.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-03T01:01:12+00:00",
+        "published_at_utc": "2026-04-03T22:52:35+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Russia made nearly no territorial gains in Ukraine in March: Analysis",
+        "link": "https://www.thehindu.com/news/international/russia-made-nearly-no-territorial-gains-in-ukraine-in-march-analysis/article70822590.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-04T07:35:34+00:00",
         "relevance_score": 15
       },
       {
-        "title": "Iran's tallest bridge collapses after reported US airstrikes; Iran threatens American allies in retaliation",
-        "link": "https://www.foxnews.com/world/irans-tallest-bridge-collapses-reported-us-airstrikes-iran-threatens-american-allies-retaliation",
-        "source_name": "Fox News World",
-        "published_at_utc": "2026-04-02T21:29:52+00:00",
+        "title": "Drone, missile strike kills one in Russia’s Rostov: Governor",
+        "link": "https://www.thehindu.com/news/international/drone-missile-strike-in-russias-rostov/article70822452.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-04T05:46:18+00:00",
         "relevance_score": 15
       },
       {
-        "title": "9-year-old boy recounts airstrike in Lebanon that killed whole family",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/9-year-old-boy-recounts-airstrike-in-lebanon-that-killed-whole-family?traffic_source=rss",
+        "title": "Lebanon’s displaced Shia Muslims face rising hostility as airstrikes fuel fear and evictions",
+        "link": "https://www.thehindu.com/news/international/lebanons-displaced-shia-muslims-face-rising-hostility-as-airstrikes-fuel-fear-and-evictions/article70822398.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-04T05:19:25+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Israel says striking Hezbollah sites in Beirut after destroying bridge",
+        "link": "https://www.thehindu.com/news/international/israel-says-striking-hezbollah-sites-in-beirut-after-destroying-bridge/article70822270.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-04T04:12:56+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Is the US committing war crimes by targeting Iran’s civilian infrastructure?",
+        "link": "https://www.theguardian.com/law/2026/apr/03/us-war-crimes-iran-civilian-infrastructure-international-law-school-strike",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-03T13:00:53+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "Palestinian Christians in Gaza mark Good Friday",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/palestinian-christians-in-gaza-mark-good-friday?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-02T21:22:53+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Myanmar junta chief Min Aung Hlaing elected President by pro-military parliament",
-        "link": "https://www.thehindu.com/news/international/myanmar-junta-chief-min-aung-hlaing-elected-president-by-pro-military-parliament/article70818847.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-03T06:36:37+00:00",
+        "published_at_utc": "2026-04-04T00:30:08+00:00",
         "relevance_score": 13
       },
       {
-        "title": "Iranian tourist ban doesn’t align with the ‘Australian values’ Hedieh signed up to as a citizen",
-        "link": "https://www.theguardian.com/australia-news/2026/apr/02/iranian-tourist-ban-doesnt-align-with-the-australian-values-hedieh-signed-up-to-as-a-citizen",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-02T14:00:26+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "Israeli paramedic delivers baby, rushes it to bomb shelter during Iran attack",
-        "link": "https://www.foxnews.com/world/israeli-paramedic-delivers-baby-rushes-bomb-shelter-during-iran-attack",
-        "source_name": "Fox News World",
-        "published_at_utc": "2026-04-02T10:00:07+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "Russia fired record number of drones in March: Ukraine air force data",
-        "link": "https://www.thehindu.com/news/international/russia-fired-record-number-of-drones-in-march-ukraine-air-force-data/article70817138.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-02T17:06:18+00:00",
-        "relevance_score": 11
-      },
-      {
-        "title": "Ukraine signals progress on US security guarantees after call with Trump envoys",
-        "link": "https://www.foxnews.com/world/ukraine-signals-progress-us-security-guarantees-after-call-trump-envoys",
-        "source_name": "Fox News World",
-        "published_at_utc": "2026-04-01T19:41:08+00:00",
-        "relevance_score": 11
-      },
-      {
-        "title": "Europe’s China Confusion: From Global Trade to Russia",
-        "link": "https://thediplomat.com/2026/03/europes-china-confusion-from-global-trade-to-russia/",
-        "source_name": "The Diplomat",
-        "published_at_utc": "2026-03-27T12:15:00+00:00",
-        "relevance_score": 9
+        "title": "Video shows the moment a Russian drone hit an apartment in Ukraine",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/video-shows-the-moment-a-russian-drone-hit-an-apartment-in-ukraine?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-04-03T23:40:08+00:00",
+        "relevance_score": 13
       }
     ],
     "economy": [
-      {
-        "title": "Americans can still get a 2% mortgage",
-        "link": "https://www.economist.com/finance-and-economics/2025/07/17/americans-can-still-get-a-2-mortgage",
-        "source_name": "The Economist",
-        "published_at_utc": "2025-07-17T09:33:09+00:00",
-        "relevance_score": 14
-      },
       {
         "title": "Asia can ease Iran war shocks through fiscal, monetary policy: ADB chief",
         "link": "https://asia.nikkei.com/editor-s-picks/interview/asia-can-ease-iran-war-shocks-through-fiscal-monetary-policy-adb-chief",
@@ -595,6 +600,13 @@
         "source_name": "The Economist",
         "published_at_utc": "2025-08-26T08:36:17+00:00",
         "relevance_score": 8
+      },
+      {
+        "title": "Despite double dissent, Jerome Powell retains his hold on markets",
+        "link": "https://www.economist.com/finance-and-economics/2025/07/30/despite-double-dissent-jerome-powell-retains-his-hold-on-markets",
+        "source_name": "The Economist",
+        "published_at_utc": "2025-07-30T22:28:38+00:00",
+        "relevance_score": 8
       }
     ]
   },
@@ -604,5 +616,5 @@
     "failed": 0,
     "total": 9
   },
-  "theme_of_day": "今日新聞整體呈現出科技、政治與經濟三大領域的緊密交織。在科技版面中，針對安全漏洞的報導反映出數位基礎設施面臨的挑戰，這與政治版面中特朗普對伊朗的威脅及美國對外政策的強硬立場形成鮮明對比，暗示出科技安全與國際關係的相互影響。此外，經濟版面則透過學生貸款減免與製藥業關稅的議題，揭示了政策變動對民生的直接影響，進一步強調了當前經濟環境下的脆弱性與不確定性。"
+  "theme_of_day": "今日新聞整體呈現出科技、政治與經濟三大領域的相互交織與影響。在科技版面中，Palantir的訴訟與Meta的數據洩漏事件反映出科技巨頭在面對外部挑戰時的脆弱性，這與政治版面中烏克蘭戰爭的進展及美中AI競爭的複雜性形成鮮明對比。此外，經濟版面報導的台灣對美出口增長與英國生活成本上升，則顯示了全球市場動態如何受到地緣政治與科技發展的影響，進一步強化了各版面之間的聯繫。"
 }
