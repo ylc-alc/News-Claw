@@ -443,8 +443,8 @@ def compute_relevance_score(category, topic_type, title, summary, source_name, p
                 score += 2
                 break
 
-        if published_dt is not None:
-            age_hours = (datetime.now(timezone.utc) - published_dt).total_seconds() / 3600
+    if published_dt is not None:
+        age_hours = (datetime.now(timezone.utc) - published_dt).total_seconds() / 3600
 
         if age_hours <= 6:
             score += 6
@@ -914,11 +914,12 @@ def dedupe_items(items):
 
 
 def sort_items(items):
-    relevance = item.get("relevance_score", 0)
-    parsed = item.get("published_at_utc", "")
-    topic_priority = item.get("topic_priority_score", 0)
-    title = item.get("title", "")
-    return (relevance, parsed, topic_priority, title)
+    def sort_key(item):
+        relevance = item.get("relevance_score", 0)
+        parsed = item.get("published_at_utc", "")
+        topic_priority = item.get("topic_priority_score", 0)
+        title = item.get("title", "")
+        return (relevance, parsed, topic_priority, title)
 
     return sorted(items, key=sort_key, reverse=True)
 
