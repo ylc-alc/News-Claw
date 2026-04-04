@@ -74,12 +74,13 @@ def build_topic_card(item):
     source_name = escape_html(item.get("source_name", "Unknown source"))
     link = escape_html(item.get("link", ""))
     published_at = (
-        format_item_time(item.get("published_at_utc", ""))
-        or format_item_time(item.get("published", ""))
-        or format_item_time(item.get("updated", ""))
-        or item.get("published", "")
-        or item.get("updated", "")
-    )
+    format_item_time(item.get("published_at_utc", ""))
+    or format_item_time(item.get("published", ""))
+    or format_item_time(item.get("updated", ""))
+    or item.get("published", "")
+    or item.get("updated", "")
+    or "日期未提供"
+)
 
 
     briefing = item.get("briefing", {})
