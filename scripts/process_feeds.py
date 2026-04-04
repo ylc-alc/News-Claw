@@ -444,7 +444,7 @@ def compute_relevance_score(category, topic_type, title, summary, source_name, p
                 break
 
         if published_dt is not None:
-        age_hours = (datetime.now(timezone.utc) - published_dt).total_seconds() / 3600
+            age_hours = (datetime.now(timezone.utc) - published_dt).total_seconds() / 3600
 
         if age_hours <= 6:
             score += 6
