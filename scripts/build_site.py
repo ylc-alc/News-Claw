@@ -73,7 +73,11 @@ def build_topic_card(item):
     title = escape_html(item.get("title", "未命名標題"))
     source_name = escape_html(item.get("source_name", "Unknown source"))
     link = escape_html(item.get("link", ""))
-    published_at = format_item_time(item.get("published_at_utc", ""))
+    published_at = (
+    format_item_time(item.get("published_at_utc", ""))
+    or item.get("published", "")
+    or item.get("updated", "")
+    )
 
     briefing = item.get("briefing", {})
     news_focus = escape_html(
