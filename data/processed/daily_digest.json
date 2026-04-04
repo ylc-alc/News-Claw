@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-04T14:40:22.910987+00:00",
+  "generated_at_utc": "2026-04-04T15:00:16.323149+00:00",
   "summary": {
     "total_raw_items": 1079,
     "total_deduped_items": 1059,
@@ -12,14 +12,14 @@
         "ai"
       ],
       "politics": [
-        "eu_policy",
         "war_and_conflict",
-        "uk_politics"
+        "us_politics",
+        "us_politics"
       ],
       "economy": [
         "supply_chain",
-        "energy_markets",
-        "general"
+        "general",
+        "markets"
       ]
     },
     "multi_source_selected_count": 0
@@ -29,27 +29,27 @@
       {
         "category": "technology",
         "source_name": "TechCrunch",
-        "title": "After fighting malware for decades, this cybersecurity veteran is now hacking drones",
-        "link": "https://techcrunch.com/2026/04/04/after-fighting-malware-for-decades-this-cybersecurity-veteran-is-now-hacking-drones/",
-        "summary": "Mikko Hyppönen is one of the most recognizable faces of the cybersecurity industry. After fighting computer viruses, worms, and malware, for more than 35 years, he tells TechCrunch why he is now working on systems to stop killer drones.",
-        "published": "Sat, 04 Apr 2026 13:00:00 +0000",
-        "updated": "Sat, 04 Apr 2026 13:00:00 +0000",
-        "published_at_utc": "2026-04-04T13:00:00+00:00",
-        "id": "https://techcrunch.com/?p=3109040",
+        "title": "Europe’s cyber agency blames hacking gangs for massive data breach and leak",
+        "link": "https://techcrunch.com/2026/04/03/europes-cyber-agency-blames-hacking-gangs-for-massive-data-breach-and-leak/",
+        "summary": "CERT-EU blamed the cybercrime group TeamPCP for the recent hack on the European Commission, and said the notorious ShinyHunters gang was responsible for leaking the stolen data online.",
+        "published": "Fri, 03 Apr 2026 15:50:43 +0000",
+        "updated": "Fri, 03 Apr 2026 15:50:43 +0000",
+        "published_at_utc": "2026-04-03T15:50:43+00:00",
+        "id": "https://techcrunch.com/?p=3109164",
         "topic_type": "cybersecurity",
-        "relevance_score": 19,
+        "relevance_score": 17,
         "briefing": {
-          "news_focus": "Mikko Hyppönen is one of the most recognizable faces of the cybersecurity industry. After fighting computer viruses, worms, and malware, for more than 35 years, he tells TechCrunch why he is now working on systems to stop killer drones.",
-          "news_focus_zh": "資安專家Mikko Hyppönen在經歷35年的電腦病毒與惡意軟體防治後，轉向開發防止殺人無人機的系統，顯示出資安領域對新興威脅的應對策略。",
-          "background": "隨著無人機技術的快速發展，特別是在軍事與商業應用上，無人機的安全性問題日益受到關注。Hyppönen在資安界的豐富經驗使他能夠將過去對抗傳統網路威脅的知識應用於新興的無人機威脅，反映出資安領域的演變與擴展。",
+          "news_focus": "CERT-EU blamed the cybercrime group TeamPCP for the recent hack on the European Commission, and said the notorious ShinyHunters gang was responsible for leaking the stolen data online.",
+          "news_focus_zh": "歐洲網路安全機構CERT-EU指責黑客團體TeamPCP對歐洲委員會的重大數據洩漏事件負責，並指出臭名昭著的ShinyHunters團體則是將被竊取的數據上傳至網路。",
+          "background": "隨著數位化進程加快，歐洲各機構面臨的網路安全威脅日益增加。CERT-EU作為歐盟的網路安全機構，負責監控和應對網路攻擊。TeamPCP和ShinyHunters等黑客團體的活動顯示出網路犯罪的組織化與專業化，這對歐洲的數據保護法規和網路安全政策提出了挑戰。",
           "stakeholders": [
-            "Mikko Hyppönen",
-            "政府機構",
-            "軍事單位",
-            "無人機製造商",
-            "資安企業"
+            "CERT-EU",
+            "歐洲委員會",
+            "TeamPCP",
+            "ShinyHunters",
+            "歐盟成員國政府"
           ],
-          "analysis": "Hyppönen的轉型凸顯了資安專家在應對新型態威脅中的重要性。對於政府與軍事機構而言，無人機的安全性直接關係到國家安全，而企業則需考量商業運營的風險。Hyppönen的努力可能促使更多資安專家關注無人機安全，進一步推動相關技術的發展與政策制定。"
+          "analysis": "此次事件突顯了歐洲在網路安全方面的脆弱性，可能引發各國政府對網路防護措施的重新評估。CERT-EU的指控可能促使歐盟加強對網路犯罪的法律制裁，並提升對關鍵基礎設施的保護。然而，黑客團體的活動也可能因為這些措施而變得更加隱蔽，形成持續的攻防博弈。各國政府、企業及公民的數據安全意識將面臨新的挑戰。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
@@ -60,28 +60,28 @@
       },
       {
         "category": "technology",
-        "source_name": "Ars Technica",
-        "title": "Trump proposes steep cut to NASA budget as astronauts head for the Moon",
-        "link": "https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/",
-        "summary": "Congress will likely reject the White House's NASA cuts, just as it did last year.",
-        "published": "Fri, 03 Apr 2026 23:19:36 +0000",
-        "updated": "Fri, 03 Apr 2026 23:19:36 +0000",
-        "published_at_utc": "2026-04-03T23:19:36+00:00",
-        "id": "https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/",
+        "source_name": "Wired",
+        "title": "The Trajectory of the Artemis II Moon Mission Is a Feat of Engineering",
+        "link": "https://www.wired.com/story/the-trajectory-of-the-artemis-ii-moon-mission-is-a-feat-of-engineering/",
+        "summary": "The astronauts will arrive about 10,300 kilometers beyond our satellite, breaking all previous records for distance from Earth. But how was their route chosen?",
+        "published": "Sat, 04 Apr 2026 09:30:00 +0000",
+        "updated": "Sat, 04 Apr 2026 09:30:00 +0000",
+        "published_at_utc": "2026-04-04T09:30:00+00:00",
+        "id": "69cfc8e8bb5fa9b3a9065404",
         "topic_type": "space_tech",
-        "relevance_score": 16,
+        "relevance_score": 14,
         "briefing": {
-          "news_focus": "Congress will likely reject the White House's NASA cuts, just as it did last year.",
-          "news_focus_zh": "特朗普提議大幅削減NASA預算，儘管美國宇航員正準備前往月球，預計國會將再次拒絕這一提案，與去年情況相似。",
-          "background": "美國NASA的預算通常受到政治因素的影響，尤其是在總統選舉年。特朗普政府曾多次試圖削減NASA的資金，這引發了國會兩黨的強烈反對。隨著美國重返月球的阿爾忒弥斯計劃推進，國會對NASA的支持似乎增強，尤其是在科技與太空探索日益受到重視的背景下。",
+          "news_focus": "The astronauts will arrive about 10,300 kilometers beyond our satellite, breaking all previous records for distance from Earth. But how was their route chosen?",
+          "news_focus_zh": "阿提米絲二號月球任務的航程設計突破了以往距離地球的紀錄，宇航員將抵達距地球約10,300公里的地方，顯示出工程技術的進步。",
+          "background": "阿提米絲計畫是美國國家航空暨太空總署（NASA）的一項重點太空探索計畫，旨在重返月球並為未來的火星任務鋪路。阿提米絲二號任務作為該計畫的第二步，將進行載人飛行，並測試新技術及航程規劃，這對於人類探索深空具有重要意義。此次任務的距離設計不僅是技術挑戰，也反映了對太空探索的長期規劃與國際合作的潛力。",
           "stakeholders": [
-            "特朗普政府",
-            "美國國會",
             "NASA",
-            "太空產業",
-            "科學界"
+            "國際太空合作夥伴",
+            "中國國家航天局",
+            "俄羅斯聯邦航天局",
+            "商業太空公司"
           ],
-          "analysis": "特朗普的預算削減提案可能會引發國會的強烈反對，因為太空探索已成為美國科技競爭的重要組成部分。民主黨和部分共和黨議員可能會認為，削減預算將阻礙美國在太空領域的領導地位，並影響國家安全與經濟發展。未來的預算談判將可能集中在如何平衡預算削減與太空探索的資金需求之間。"
+          "analysis": "此次任務的成功對NASA及其合作夥伴而言，將提升其在全球太空探索領域的領導地位，並可能吸引更多國際合作與資金支持。另一方面，這也引發了其他國家如中國和俄羅斯的關注，因為他們也在積極推進自己的太空計畫。各方可能會在技術、資源和國際影響力上展開競爭，未來的太空政策與合作模式將受到此任務的影響。"
         },
         "topic_priority_score": 4,
         "event_type": "strategic_move",
@@ -92,31 +92,31 @@
       },
       {
         "category": "technology",
-        "source_name": "Ars Technica",
-        "title": "Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions",
-        "link": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/",
-        "summary": "Some banks \"agreed to spend tens of millions on the chatbot,\" NYT reports.",
-        "published": "Fri, 03 Apr 2026 21:17:01 +0000",
-        "updated": "Fri, 03 Apr 2026 21:17:01 +0000",
-        "published_at_utc": "2026-04-03T21:17:01+00:00",
-        "id": "https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/",
+        "source_name": "TechCrunch",
+        "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+        "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+        "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+        "published": "Fri, 03 Apr 2026 20:35:34 +0000",
+        "updated": "Fri, 03 Apr 2026 20:35:34 +0000",
+        "published_at_utc": "2026-04-03T20:35:34+00:00",
+        "id": "https://techcrunch.com/?p=3109304",
         "topic_type": "ai",
-        "relevance_score": 15,
+        "relevance_score": 13,
         "briefing": {
-          "news_focus": "Some banks \"agreed to spend tens of millions on the chatbot,\" NYT reports.",
-          "news_focus_zh": "埃隆·馬斯克要求參與SpaceX首次公開募股（IPO）的銀行必須購買其開發的聊天機器人Grok的訂閱，據報導這些銀行已同意在該聊天機器人上花費數千萬美元。",
-          "background": "SpaceX作為全球領先的私人航天公司，正準備進行首次公開募股，這一舉措將使其獲得更多資金以支持未來的太空探索計劃。Grok是馬斯克旗下公司開發的人工智慧聊天機器人，旨在提升用戶互動與商業應用。馬斯克的要求顯示出他對Grok商業潛力的信心，同時也反映出科技與金融界日益緊密的聯繫。",
+          "news_focus": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+          "news_focus_zh": "OpenAI進行高層人事調整，首席運營官Brad Lightcap將負責領導特別項目，而首席市場官Kate Rouch因健康原因將暫時離職，計劃在康復後回歸。",
+          "background": "OpenAI作為人工智慧領域的領導者，面臨著快速變化的市場需求和技術挑戰。隨著AI技術的廣泛應用，企業內部結構的調整顯得尤為重要。Brad Lightcap的角色調整可能反映出OpenAI對於新項目開發的重視，而Kate Rouch的健康問題則突顯了高壓環境下員工的健康與福祉問題。",
           "stakeholders": [
-            "Elon Musk",
-            "SpaceX",
-            "參與IPO的銀行",
-            "Grok用戶",
-            "投資者"
+            "OpenAI",
+            "Brad Lightcap",
+            "Kate Rouch",
+            "投資者",
+            "員工"
           ],
-          "analysis": "馬斯克的要求可能引發銀行界的不同反應。一方面，參與IPO的銀行可能認為購買Grok訂閱是一種投資，能夠提升其在科技領域的競爭力；另一方面，這也可能被視為對銀行自主性的挑戰，因為他們需要在不直接相關的產品上投入資金。這一舉措可能會影響銀行的決策過程，並對Grok的市場接受度產生影響，進一步影響其未來的商業模式。"
+          "analysis": "這次人事變動可能會影響OpenAI的內部運作與外部形象。Brad Lightcap的特別項目領導角色可能將帶來創新機會，進一步推動公司的技術發展。然而，Kate Rouch的暫時離職可能會對市場推廣策略造成影響，特別是在公司需要強調其產品優勢和品牌形象的時期。各方可能會密切關注這些變化對OpenAI未來發展的影響。"
         },
         "topic_priority_score": 9,
-        "event_type": "regulation_action",
+        "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -126,32 +126,31 @@
     "politics": [
       {
         "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "Cubans study oil tanker diplomacy for signs of progress in secret talks with US",
-        "link": "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks",
-        "summary": "Despite hostile rhetoric Trump let a Russian ship break his blockade – could it herald a Venezuela-style outcome? When a sanctioned Russian oil tanker, the Anatoly Kolodkin, docked at Cuba’s Matanzas oil terminal on Tuesday, unloading 700,000 barrels of crude , it was not immediately clear why the ship had been allowed to pass through Donald Trump’s oil blockade. In January, the US president had proclaimed on social media: “THERE WILL BE NO MORE OIL OR MONEY GOING TO CUBA – ZERO!” yet last week he told reporters, “If a country wants to send some oil into Cuba right now, I have no problem with it” – and waved the Russian ship through. Continue reading...",
-        "published": "Sat, 04 Apr 2026 11:00:19 GMT",
-        "updated": "2026-04-04T11:00:19Z",
-        "published_at_utc": "2026-04-04T11:00:19+00:00",
-        "id": "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks",
-        "topic_type": "eu_policy",
-        "relevance_score": 26,
+        "source_name": "The Hindu International",
+        "title": "Iraq closes Shalamcheh crossing with Iran after airstrikes kill Iraqi",
+        "link": "https://www.thehindu.com/news/international/iraq-closes-shalamcheh-crossing-with-iran-after-airstrikes-kill-iraqi/article70822980.ece",
+        "summary": "Sources said at least ​five Iraqis ‌were seriously wounded in an airstrike, which hit ‌a passenger reception ​area on the Iranian side",
+        "published": "Sat, 04 Apr 2026 16:46:27 +0530",
+        "updated": "Sat, 04 Apr 2026 16:46:27 +0530",
+        "published_at_utc": "2026-04-04T11:16:27+00:00",
+        "id": "article-70822980",
+        "topic_type": "war_and_conflict",
+        "relevance_score": 16,
         "briefing": {
-          "news_focus": "Despite hostile rhetoric Trump let a Russian ship break his blockade – could it herald a Venezuela-style outcome? When a sanctioned Russian oil tanker, the Anatoly Kolodkin, docked at Cuba’s Matanzas oil terminal on Tuesday, unloading 700,000 barrels of crude , it was not immediately clear why the ship had been allowed to pass through Donald Trump’s oil blockade. In January, the US president had proclaimed on social media: “THERE WILL BE NO MORE OIL OR MONEY GOING TO CUBA – ZERO!” yet last week he told reporters, “If a country wants to send some oil into Cuba right now, I have no problem with it” – and waved the Russian ship through. Continue reading...",
-          "news_focus_zh": "美國對古巴的石油封鎖政策出現變化，俄羅斯油輪Anatoly Kolodkin成功進入古巴，卸載70萬桶原油，這可能暗示美國與古巴之間的秘密談判取得進展。",
-          "background": "美國對古巴的經濟制裁歷史悠久，尤其是在特朗普政府期間，對古巴的石油供應進行了嚴格封鎖。隨著古巴經濟困境加劇，尋求外部能源支持的需求上升。此次俄羅斯油輪的到來，可能反映出美國政策的微妙變化，或是對古巴的外交策略重新評估。",
+          "news_focus": "Sources said at least ​five Iraqis ‌were seriously wounded in an airstrike, which hit ‌a passenger reception ​area on the Iranian side",
+          "news_focus_zh": "伊拉克因空襲事件關閉與伊朗的Shalamcheh邊境口岸，該空襲造成至少五名伊拉克人重傷，襲擊發生在伊朗一側的乘客接待區。",
+          "background": "Shalamcheh邊境口岸是伊拉克與伊朗之間重要的貿易與人員往來通道。近期，隨著地區緊張局勢升高，特別是在伊朗與其鄰國的軍事衝突中，該口岸的安全問題愈發受到關注。空襲事件的發生，可能與伊朗在該地區的軍事行動有關，並引發了伊拉克政府對邊境安全的重新評估。",
           "stakeholders": [
-            "美國政府",
-            "古巴政府",
-            "俄羅斯政府",
-            "古巴民眾",
-            "國際能源市場"
+            "伊拉克政府",
+            "伊朗政府",
+            "當地商業利益",
+            "國際社會",
+            "人道主義組織"
           ],
-          "analysis": "此次事件顯示出美國對古巴的政策可能出現調整，特朗普的言論前後不一，可能暗示其政府內部對於古巴政策的分歧。對於古巴而言，這是獲得急需能源的機會，可能促進其經濟復甦。另一方面，這也可能引發美國國內對於外交政策一致性的質疑，特別是在與俄羅斯的關係日益緊張的背景下。此舉可能預示著未來美國與古巴之間的外交接觸將更加頻繁。"
+          "analysis": "此次空襲事件引發伊拉克政府的強烈反應，關閉Shalamcheh口岸可能會影響雙邊貿易及人員流動，對當地經濟造成負面影響。伊朗方面可能會對此表示不滿，並加強對邊境的軍事部署，進一步加劇地區緊張局勢。此外，這一事件也可能引發國際社會對該地區安全局勢的關注，促使外部勢力介入調解。"
         },
-        "topic_priority_score": 9,
-        "event_type": "diplomatic_move",
-        "is_major_update": true,
+        "topic_priority_score": 11,
+        "event_type": "political_signal",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -160,29 +159,29 @@
       {
         "category": "politics",
         "source_name": "BBC World",
-        "title": "Russian attack on Ukraine market kills five",
-        "link": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
-        "summary": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
-        "published": "Sat, 04 Apr 2026 14:00:31 GMT",
-        "updated": "Sat, 04 Apr 2026 14:00:31 GMT",
-        "published_at_utc": "2026-04-04T14:00:31+00:00",
-        "id": "https://www.bbc.com/news/articles/cp869m2gzr0o#0",
-        "topic_type": "war_and_conflict",
-        "relevance_score": 18,
+        "title": "Trump seeks $1.5tn for defence alongside domestic spending cuts",
+        "link": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
+        "summary": "The US president's new budget would cut non-defence spending by 10%, partly by slashing domestic programmes.",
+        "published": "Fri, 03 Apr 2026 15:45:25 GMT",
+        "updated": "Fri, 03 Apr 2026 15:45:25 GMT",
+        "published_at_utc": "2026-04-03T15:45:25+00:00",
+        "id": "https://www.bbc.com/news/articles/crr1q4kjvn2o#1",
+        "topic_type": "us_politics",
+        "relevance_score": 16,
         "briefing": {
-          "news_focus": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
-          "news_focus_zh": "俄羅斯無人機於週六早上襲擊烏克蘭南部一個繁忙的市場，造成五人死亡，另有21人受傷，突顯了持續的衝突對平民生活的影響。",
-          "background": "自2022年俄烏戰爭爆發以來，烏克蘭的平民區域經常成為攻擊目標，無人機和火箭攻擊的頻率增加。這一事件發生在烏克蘭政府加強防空系統的背景下，顯示出俄羅斯仍然能夠對烏克蘭的城市和基礎設施造成重大威脅。國際社會對此類襲擊的譴責不斷上升，並促使更多國家考慮對俄羅斯的制裁措施。",
+          "news_focus": "The US president's new budget would cut non-defence spending by 10%, partly by slashing domestic programmes.",
+          "news_focus_zh": "美國總統特朗普提出新預算，要求撥款1.5萬億美元用於國防，同時計劃將非國防開支削減10%，這將部分影響國內各項計劃。",
+          "background": "特朗普政府在國防支出上持續強調安全與軍事能力，這一預算提案反映出其對國內外威脅的評估。過去幾年，美國國防預算已顯著增加，而非國防開支的削減則可能影響社會福利、教育及基礎設施等領域。這一政策背景下，特朗普希望通過強化軍事來鞏固其政治基礎，並應對國內外的挑戰。",
           "stakeholders": [
-            "烏克蘭政府",
-            "俄羅斯政府",
-            "國際社會",
-            "平民",
-            "軍事援助國家"
+            "特朗普政府",
+            "國會民主黨",
+            "國會共和黨",
+            "國防工業",
+            "社會福利組織"
           ],
-          "analysis": "此次襲擊再次引發國際社會對俄羅斯行為的強烈譴責，並可能促使西方國家加大對烏克蘭的軍事援助。烏克蘭政府面臨著保護平民的壓力，可能會加強對市場和公共場所的防護措施。另一方面，俄羅斯可能會利用這類襲擊來展示其軍事能力，並試圖削弱烏克蘭的士氣。這一事件可能會加劇雙方的敵對情緒，並使和平談判的前景更加渺茫。"
+          "analysis": "特朗普的預算提案引發了民主黨與共和黨之間的激烈爭論。民主黨批評削減非國防開支將損害社會福利，影響弱勢群體，而共和黨則支持加強國防，認為這是保護國家安全的必要措施。此舉可能導致國會在預算通過過程中的對立加劇，並影響特朗普在2024年選舉中的支持度，特別是在選民對社會問題的關注日益增加的背景下。"
         },
-        "topic_priority_score": 11,
+        "topic_priority_score": 8,
         "event_type": "security_event",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -191,31 +190,31 @@
       },
       {
         "category": "politics",
-        "source_name": "SCMP World",
-        "title": "The twilight of US hegemony and Israeli expansionism",
-        "link": "https://www.scmp.com/opinion/world-opinion/article/3348754/twilight-us-hegemony-and-israeli-expansionism?utm_source=rss_feed",
-        "summary": "The whole world has come to oppose the Iran war, including most Americans. Just as Israel took part in the 1956 Suez crisis, which signalled the last hurrah of European imperialism, it is now jointly prosecuting a pointless but destructive war that is likely to spell the twilight of American hegemony. This time, though, the Jewish state won’t get away so easily. From the Palestinian territories to Iran and Lebanon, it can no longer hide its Zionist expansionism that threatens the entire...",
-        "published": "Fri, 03 Apr 2026 21:30:09 +0000",
-        "updated": "Fri, 03 Apr 2026 21:30:09 +0000",
-        "published_at_utc": "2026-04-03T21:30:09+00:00",
-        "id": "https://www.scmp.com/opinion/world-opinion/article/3348754/twilight-us-hegemony-and-israeli-expansionism?utm_source=rss_feed",
-        "topic_type": "uk_politics",
+        "source_name": "Fox News World",
+        "title": "Cuba releases 2,000 prisoners amid Trump pressure, energy crisis",
+        "link": "https://www.foxnews.com/world/cuba-releases-2000-prisoners-amid-trump-pressure-energy-crisis",
+        "summary": "Cuba's government releases over 2,000 prisoners citing good behavior and health conditions as U.S. sanctions worsen the island's economic crisis.",
+        "published": "Fri, 03 Apr 2026 14:15:07 -0400",
+        "updated": "Fri, 03 Apr 2026 14:15:07 -0400",
+        "published_at_utc": "2026-04-03T18:15:07+00:00",
+        "id": "https://www.foxnews.com/world/cuba-releases-2000-prisoners-amid-trump-pressure-energy-crisis",
+        "topic_type": "us_politics",
         "relevance_score": 16,
         "briefing": {
-          "news_focus": "The whole world has come to oppose the Iran war, including most Americans. Just as Israel took part in the 1956 Suez crisis, which signalled the last hurrah of European imperialism, it is now jointly prosecuting a pointless but destructive war that is likely to spell the twilight of American hegemony. This time, though, the Jewish state won’t get away so easily. From the Palestinian territories to Iran and Lebanon, it can no longer hide its Zionist expansionism that threatens the entire...",
-          "news_focus_zh": "這則新聞探討了美國霸權的衰退與以色列擴張主義的關聯，指出當前全球對伊朗戰爭的普遍反對，並強調以色列在中東地區的行動可能加劇其國際孤立。",
-          "background": "自冷戰結束後，美國在全球的影響力逐漸增強，但近年來面臨來自中國、俄羅斯等國家的挑戰。以色列的擴張主義歷史悠久，尤其在巴勒斯坦問題上，這使其在國際社會中受到批評。當前的伊朗戰爭引發了全球的反對聲浪，這反映出對美國及其盟友政策的不滿，並可能影響中東的地緣政治格局。",
+          "news_focus": "Cuba's government releases over 2,000 prisoners citing good behavior and health conditions as U.S. sanctions worsen the island's economic crisis.",
+          "news_focus_zh": "古巴政府在美國制裁加劇的背景下，釋放超過2,000名囚犯，理由為良好行為和健康狀況，這一舉措似乎是對特朗普政府施壓的回應。",
+          "background": "古巴長期以來受到美國的經濟制裁，這些制裁在特朗普任內進一步加強，導致古巴經濟面臨嚴重危機。古巴政府的這一釋放行動，可能旨在改善國內外形象，並緩解因經濟困境而引發的社會不滿。此外，古巴的醫療體系在疫情期間受到重創，釋放囚犯也可能是出於人道考量。",
           "stakeholders": [
+            "古巴政府",
             "美國政府",
-            "以色列政府",
-            "伊朗政府",
-            "阿拉伯國家",
-            "國際社會"
+            "古巴囚犯及其家庭",
+            "國際人權組織",
+            "古巴經濟利益相關者"
           ],
-          "analysis": "美國的霸權地位正受到挑戰，尤其是在中東地區。以色列的行動可能導致其與阿拉伯國家及其他國家的關係惡化，進一步孤立自己。對於美國來說，支持以色列可能會加劇其在國際上的反對聲音，特別是在民意日益反對戰爭的背景下。各方可能會重新評估與以色列的關係，這將影響未來的外交政策與地緣政治動態。"
+          "analysis": "古巴政府的釋放行動可能是為了減輕國內的社會壓力，並向國際社會展示其對人權的改善。然而，特朗普政府及其支持者可能會將此視為古巴政權在壓力下的妥協，進一步強化對古巴的制裁政策。另一方面，古巴的釋放行動也可能吸引國際社會的注意，促進與其他國家的外交關係，特別是在經濟重建方面。"
         },
-        "topic_priority_score": 9,
-        "event_type": "security_event",
+        "topic_priority_score": 8,
+        "event_type": "diplomatic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -225,62 +224,30 @@
     "economy": [
       {
         "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "Global banks carve out roles as semiconductor wealth redraws Taiwan’s finance map",
-        "link": "https://www.scmp.com/business/article/3348941/global-banks-carve-out-roles-semiconductor-wealth-redraws-taiwans-finance-map?utm_source=rss_feed",
-        "summary": "Taiwan’s dominance in semiconductors is no longer just reshaping global technology supply chains – it is also redrawing the island’s financial landscape, as international banks move to capture the wealth being created across the chip ecosystem. From first-generation chip entrepreneurs setting up family offices to retail investors pouring money into exchange-traded funds (ETFs), the capital generated by Taiwan’s technology boom is spreading across multiple layers of the economy. Global lenders...",
-        "published": "Sat, 04 Apr 2026 03:30:11 +0000",
-        "updated": "Sat, 04 Apr 2026 03:30:11 +0000",
-        "published_at_utc": "2026-04-04T03:30:11+00:00",
-        "id": "https://www.scmp.com/business/article/3348941/global-banks-carve-out-roles-semiconductor-wealth-redraws-taiwans-finance-map?utm_source=rss_feed",
+        "source_name": "The Guardian Business",
+        "title": "‘The good old days are gone’: how will US prices stand as war in Iran surges on?",
+        "link": "https://www.theguardian.com/us-news/2026/apr/05/prices-iran-war-gas-flights-economy",
+        "summary": "Beyond rising costs of gas and air travel, experts say this is likely just beginning of higher prices amid global volatility Sign up for the Breaking News US email to get newsletter alerts in your inbox As consumers watch the price of gasoline and airline tickets rise, experts say that the war in Iran will continue to drive up prices across the economy . “The good old days are gone,” said Christopher Tang, a professor at the UCLA Anderson School of Management who studies global supply chain management. “Right now we see the gasoline prices going up , but that is only part of the story. Everything will be more expensive.” Continue reading...",
+        "published": "Sat, 04 Apr 2026 13:00:22 GMT",
+        "updated": "2026-04-04T13:00:22Z",
+        "published_at_utc": "2026-04-04T13:00:22+00:00",
+        "id": "https://www.theguardian.com/us-news/2026/apr/05/prices-iran-war-gas-flights-economy",
         "topic_type": "supply_chain",
         "relevance_score": 18,
         "briefing": {
-          "news_focus": "Taiwan’s dominance in semiconductors is no longer just reshaping global technology supply chains – it is also redrawing the island’s financial landscape, as international banks move to capture the wealth being created across the chip ecosystem. From first-generation chip entrepreneurs setting up family offices to retail investors pouring money into exchange-traded funds (ETFs), the capital generated by Taiwan’s technology boom is spreading across multiple layers of the economy. Global lenders...",
-          "news_focus_zh": "台灣在半導體產業的主導地位不僅改變了全球科技供應鏈，也重塑了其金融格局，國際銀行正積極進入以捕捉半導體生態系統創造的財富。",
-          "background": "台灣的半導體產業長期以來是全球科技供應鏈的核心，尤其在晶圓代工領域。隨著科技需求的增加，台灣的半導體企業如台積電等不斷擴張，帶動了大量資本流入。這股財富不僅吸引了當地的投資者，也引起了國際銀行的注意，這些銀行正試圖透過提供金融服務來參與這一蓬勃發展的市場，進一步改變台灣的金融生態。",
+          "news_focus": "Beyond rising costs of gas and air travel, experts say this is likely just beginning of higher prices amid global volatility Sign up for the Breaking News US email to get newsletter alerts in your inbox As consumers watch the price of gasoline and airline tickets rise, experts say that the war in Iran will continue to drive up prices across the economy . “The good old days are gone,” said Christopher Tang, a professor at the UCLA Anderson School of Management who studies global supply chain management. “Right now we see the gasoline prices going up , but that is only part of the story. Everything will be more expensive.” Continue reading...",
+          "news_focus_zh": "隨著伊朗戰爭升級，美國的油價和航空票價持續上漲，專家預測這只是價格上漲的開始，整體經濟將面臨更高的成本壓力。",
+          "background": "伊朗的地緣政治緊張局勢對全球能源市場產生了深遠影響。美國作為主要的能源消費國，對油價波動特別敏感。過去幾年，隨著全球供應鏈的變化和需求的增加，價格已經出現上升趨勢。此次衝突加劇了市場的不確定性，導致投資者對未來的預期更加悲觀，進一步推高了成本。",
           "stakeholders": [
-            "台灣半導體企業",
-            "國際銀行",
-            "當地投資者",
-            "政府機構",
-            "金融監管機構"
+            "美國消費者",
+            "能源公司",
+            "航空公司",
+            "政府",
+            "全球供應鏈企業"
           ],
-          "analysis": "國際銀行的進入對台灣的金融市場產生了深遠影響。一方面，這些銀行能夠提供更為多樣化的金融產品，滿足半導體企業及其創業者的資金需求；另一方面，這也可能導致本地金融機構面臨更大的競爭壓力。對於投資者而言，半導體行業的繁榮提供了新的投資機會，但也伴隨著市場波動的風險。未來，若半導體需求持續增長，這一趨勢將可能進一步加劇。"
+          "analysis": "隨著伊朗戰爭的持續，油價和航空票價的上漲將影響消費者支出，可能導致經濟增長放緩。企業面臨更高的運輸和生產成本，可能會選擇將這些成本轉嫁給消費者，進一步推高通脹。政府可能需要採取措施來穩定市場，但這可能會面臨政治和經濟上的挑戰，特別是在選舉年期間。"
         },
         "topic_priority_score": 6,
-        "event_type": "market_repricing",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "economy",
-        "source_name": "Nikkei Asia",
-        "title": "Chinese coal miners eye comeback as Iran war shakes energy market",
-        "link": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/chinese-coal-miners-eye-comeback-as-iran-war-shakes-energy-market",
-        "summary": "",
-        "published": "",
-        "updated": "",
-        "published_at_utc": "",
-        "id": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/chinese-coal-miners-eye-comeback-as-iran-war-shakes-energy-market",
-        "topic_type": "energy_markets",
-        "relevance_score": 15,
-        "briefing": {
-          "news_focus": "Chinese coal miners eye comeback as Iran war shakes energy market",
-          "news_focus_zh": "隨著伊朗戰爭對能源市場造成震盪，中國煤礦業者正尋求復甦的機會，可能重新進入市場以滿足需求。",
-          "background": "伊朗戰爭引發的地緣政治緊張局勢，對全球能源供應鏈造成影響，尤其是石油與天然氣價格的波動。中國在過去幾年中逐步減少對煤炭的依賴，轉向可再生能源，但隨著國際市場的不穩定，煤炭的需求可能再次上升。中國煤礦業者面臨的挑戰包括環保政策與市場競爭，但在當前局勢下，他們可能會重新評估煤炭的經濟性。",
-          "stakeholders": [
-            "中國煤礦業者",
-            "中國政府",
-            "國際能源市場",
-            "環保組織",
-            "其他能源出口國"
-          ],
-          "analysis": "中國煤礦業者的復甦可能會引發多方利益的角力。對於中國政府而言，增加煤炭產量可能有助於保障能源安全，但同時也面臨環保壓力。國際市場上，伊朗戰爭導致的能源供應不穩定，可能使中國煤炭在短期內變得更具競爭力。然而，這也可能引起其他能源出口國的反彈，特別是那些依賴穩定能源供應的國家，進一步複雜化全球能源市場的動態。"
-        },
-        "topic_priority_score": 8,
         "event_type": "energy_supply_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -292,31 +259,66 @@
       },
       {
         "category": "economy",
-        "source_name": "Reuters",
-        "title": "Taiwan says it has assurances over LNG supplies from 'major' country - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN0Y4VWlDS0w0SlRFQ3RfbE5CaS1TSjJoVGRBLVhBakxJX2g5QWtpSk0zRHZLbXZMVzlZUklZR3JzTDVSbm9nZnUzQUl1WmRfc2NxODBhSjlRN1NHTEVoUnVjN3IzWF9ZdW9VMmVLcWlkbUtueWJrUXo3cjNtMG8wNDkxN0EyaU1JT3M5MExtSVZzOURRMW85eEZSQnVQYVdJSVpkZzEwdXNoV25NeGZTQjRoWQ?oc=5",
-        "summary": "Taiwan says it has assurances over LNG supplies from 'major' country Reuters",
-        "published": "Sat, 04 Apr 2026 09:15:17 GMT",
-        "updated": "Sat, 04 Apr 2026 09:15:17 GMT",
-        "published_at_utc": "2026-04-04T09:15:17+00:00",
-        "id": "CBMiswFBVV95cUxQN0Y4VWlDS0w0SlRFQ3RfbE5CaS1TSjJoVGRBLVhBakxJX2g5QWtpSk0zRHZLbXZMVzlZUklZR3JzTDVSbm9nZnUzQUl1WmRfc2NxODBhSjlRN1NHTEVoUnVjN3IzWF9ZdW9VMmVLcWlkbUtueWJrUXo3cjNtMG8wNDkxN0EyaU1JT3M5MExtSVZzOURRMW85eEZSQnVQYVdJSVpkZzEwdXNoV25NeGZTQjRoWQ",
+        "source_name": "The Guardian Business",
+        "title": "Cubans study oil tanker diplomacy for signs of progress in secret talks with US",
+        "link": "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks",
+        "summary": "Despite hostile rhetoric Trump let a Russian ship break his blockade – could it herald a Venezuela-style outcome? When a sanctioned Russian oil tanker, the Anatoly Kolodkin, docked at Cuba’s Matanzas oil terminal on Tuesday, unloading 700,000 barrels of crude , it was not immediately clear why the ship had been allowed to pass through Donald Trump’s oil blockade. In January, the US president had proclaimed on social media: “THERE WILL BE NO MORE OIL OR MONEY GOING TO CUBA – ZERO!” yet last week he told reporters, “If a country wants to send some oil into Cuba right now, I have no problem with it” – and waved the Russian ship through. Continue reading...",
+        "published": "Sat, 04 Apr 2026 11:00:19 GMT",
+        "updated": "2026-04-04T11:00:19Z",
+        "published_at_utc": "2026-04-04T11:00:19+00:00",
+        "id": "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks",
         "topic_type": "general",
-        "relevance_score": 14,
+        "relevance_score": 16,
         "briefing": {
-          "news_focus": "Taiwan says it has assurances over LNG supplies from 'major' country Reuters",
-          "news_focus_zh": "台灣表示已獲得來自一個主要國家的液化天然氣（LNG）供應保證，這一消息對台灣的能源安全具有重要意義。",
-          "background": "台灣在能源供應上依賴進口，尤其是液化天然氣，隨著全球能源市場變化，保障能源供應的穩定性成為政策重點。台灣政府近年來積極尋求多元化的能源來源，以減少對單一國家的依賴，並提升能源安全。此消息可能與台灣在國際間的外交努力及其與主要供應國的合作有關。",
+          "news_focus": "Despite hostile rhetoric Trump let a Russian ship break his blockade – could it herald a Venezuela-style outcome? When a sanctioned Russian oil tanker, the Anatoly Kolodkin, docked at Cuba’s Matanzas oil terminal on Tuesday, unloading 700,000 barrels of crude , it was not immediately clear why the ship had been allowed to pass through Donald Trump’s oil blockade. In January, the US president had proclaimed on social media: “THERE WILL BE NO MORE OIL OR MONEY GOING TO CUBA – ZERO!” yet last week he told reporters, “If a country wants to send some oil into Cuba right now, I have no problem with it” – and waved the Russian ship through. Continue reading...",
+          "news_focus_zh": "美國與古巴之間的秘密談判可能出現進展，因為一艘受制裁的俄羅斯油輪在特朗普的封鎖下成功抵達古巴，卸下70萬桶原油，這引發了對未來局勢的猜測。",
+          "background": "古巴長期以來依賴外國石油供應，尤其是來自委內瑞拉的能源。特朗普政府對古巴的經濟制裁加劇了兩國之間的緊張關係。然而，近期俄羅斯油輪的抵達可能顯示出美國政策的微妙變化，尤其是在特朗普對古巴的強硬立場與其後來的言論之間的矛盾。",
           "stakeholders": [
-            "台灣政府",
-            "主要供應國",
-            "能源企業",
-            "國際市場",
-            "地緣政治觀察者"
+            "美國政府",
+            "古巴政府",
+            "俄羅斯政府",
+            "委內瑞拉政府",
+            "國際能源市場"
           ],
-          "analysis": "這則新聞對台灣的能源政策及其國際關係具有深遠影響。台灣獲得LNG供應保證，可能增強其能源安全，降低對特定國家的依賴。然而，這也可能引發其他國家的關注，特別是那些在能源供應鏈中具有競爭關係的國家。主要供應國的選擇也可能影響台灣的外交策略，尤其是在美中競爭加劇的背景下。"
+          "analysis": "此次事件凸顯了美國內部對古巴政策的分歧。一方面，特朗普的強硬派可能希望維持對古巴的經濟壓力，另一方面，特朗普的言論似乎暗示著對某些能源交易的默許。這可能使古巴在能源供應上獲得喘息空間，並可能促進與美國的進一步對話，尤其是在面對委內瑞拉的經濟困境時。各方需密切關注未來的外交動向及其對地區穩定的影響。"
         },
         "topic_priority_score": 3,
-        "event_type": "macro_signal",
+        "event_type": "energy_supply_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1,
+        "cross_section_refs": [
+          "politics"
+        ]
+      },
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "How we won a refund from a cash-grabbing care home firm | Letters",
+        "link": "https://www.theguardian.com/society/2026/apr/03/how-we-won-a-refund-from-a-cash-grabbing-care-home-firm",
+        "summary": "One reader shares their experience of fighting to receive the money they were owed, while Roy Grimwood offers insight into the disastrous effects of a flawed economic model As witness to the cash-grabbing nature of these businesses ( The great care home cash grab: how private equity turned vulnerable elderly people into human ATMs, 28 March ), I would like to draw your attention to a specific practice: that of trying to deny grieving families the balance of fees owed to them when a resident dies in the home with full weeks already paid for. I had already heard of this from someone else, so I was on the alert when the same thing happened to us. We were told that it was not their “policy to refund” when, policy or not, a careful reading of the contract showed that the money was owed. We appealed, and were successful. Continue reading...",
+        "published": "Fri, 03 Apr 2026 16:08:41 GMT",
+        "updated": "2026-04-03T16:08:41Z",
+        "published_at_utc": "2026-04-03T16:08:41+00:00",
+        "id": "https://www.theguardian.com/society/2026/apr/03/how-we-won-a-refund-from-a-cash-grabbing-care-home-firm",
+        "topic_type": "markets",
+        "relevance_score": 13,
+        "briefing": {
+          "news_focus": "One reader shares their experience of fighting to receive the money they were owed, while Roy Grimwood offers insight into the disastrous effects of a flawed economic model As witness to the cash-grabbing nature of these businesses ( The great care home cash grab: how private equity turned vulnerable elderly people into human ATMs, 28 March ), I would like to draw your attention to a specific practice: that of trying to deny grieving families the balance of fees owed to them when a resident dies in the home with full weeks already paid for. I had already heard of this from someone else, so I was on the alert when the same thing happened to us. We were told that it was not their “policy to refund” when, policy or not, a careful reading of the contract showed that the money was owed. We appealed, and were successful. Continue reading...",
+          "news_focus_zh": "一位讀者分享了與一家私營護理院爭取退款的經歷，揭示了該行業內部存在的剝削性經濟模式，特別是對於已故居民的家庭拒絕退款的做法。",
+          "background": "護理院行業近年來受到私營資本的影響，許多企業為了追求利潤而忽視了對老年人的基本照護責任。這種經濟模式導致了對脆弱群體的剝削，並引發了社會對護理服務質量的廣泛關注。隨著人口老齡化，護理院的需求日益增加，卻也伴隨著不當經營和不透明的收費政策，進一步加劇了家庭的經濟負擔。",
+          "stakeholders": [
+            "護理院經營者",
+            "老年居民家庭",
+            "監管機構",
+            "私營資本投資者",
+            "社會福利組織"
+          ],
+          "analysis": "這則新聞突顯了護理院經營者與家庭之間的利益衝突。護理院為了維護自身利潤，往往採取不合理的退款政策，這使得家庭在面對親人過世時，還需承擔額外的經濟壓力。讀者的成功申訴顯示了消費者維權的重要性，可能促使更多家庭質疑並挑戰不公正的政策。然而，若無法有效監管，這種剝削行為仍可能持續，對於整體行業的信譽造成長期損害。"
+        },
+        "topic_priority_score": 4,
+        "event_type": "market_repricing",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -326,20 +328,6 @@
   },
   "further_reading": {
     "technology": [
-      {
-        "title": "Europe’s cyber agency blames hacking gangs for massive data breach and leak",
-        "link": "https://techcrunch.com/2026/04/03/europes-cyber-agency-blames-hacking-gangs-for-massive-data-breach-and-leak/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-03T15:50:43+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "The Trajectory of the Artemis II Moon Mission Is a Feat of Engineering",
-        "link": "https://www.wired.com/story/the-trajectory-of-the-artemis-ii-moon-mission-is-a-feat-of-engineering/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-04-04T09:30:00+00:00",
-        "relevance_score": 14
-      },
       {
         "title": "NASA did eventually solve Artemis II’s Outlook glitch",
         "link": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed",
@@ -353,13 +341,6 @@
         "source_name": "MIT Technology Review",
         "published_at_utc": "2026-04-03T17:03:19+00:00",
         "relevance_score": 14
-      },
-      {
-        "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
-        "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-03T20:35:34+00:00",
-        "relevance_score": 13
       },
       {
         "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
@@ -395,15 +376,43 @@
         "source_name": "TechCrunch",
         "published_at_utc": "2026-04-03T19:48:22+00:00",
         "relevance_score": 10
+      },
+      {
+        "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
+        "link": "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-04-04T10:30:00+00:00",
+        "relevance_score": 9
+      },
+      {
+        "title": "OpenAI takes on another \"side quest,\" buys tech-focused talk show TBPN",
+        "link": "https://arstechnica.com/ai/2026/04/openai-takes-on-another-side-quest-buys-tech-focused-talk-show-tbpn/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-04-03T13:35:13+00:00",
+        "relevance_score": 9
+      },
+      {
+        "title": "OpenAI Acquires Tech Talk Show ‘TBPN’—and Buys Itself Some Positive News",
+        "link": "https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-04-02T19:29:48+00:00",
+        "relevance_score": 9
       }
     ],
     "politics": [
       {
         "title": "For Trump, the cost of Iran war is rising",
-        "link": "https://www.thehindu.com/news/international/for-trump-the-cost-of-iran-war-is-rising/article70823412.ece",
+        "link": "https://www.thehindu.com/news/international/cost-of-iran-war-rising-donald-trump-us/article70823412.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-04T14:28:50+00:00",
+        "published_at_utc": "2026-04-04T14:48:03+00:00",
         "relevance_score": 20
+      },
+      {
+        "title": "Cubans study oil tanker diplomacy for signs of progress in secret talks with US",
+        "link": "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-04T11:00:19+00:00",
+        "relevance_score": 26
       },
       {
         "title": "Iran war: 5 EU nations urge tax on energy firms’ profits",
@@ -411,6 +420,13 @@
         "source_name": "SCMP World",
         "published_at_utc": "2026-04-04T09:32:17+00:00",
         "relevance_score": 20
+      },
+      {
+        "title": "Iran-Israel war LIVE: Trump says Iran has 48 hours to make deal or U.S. will unleash 'Hell'",
+        "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-april-4-2026-live-updates/article70822179.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-04T14:42:09+00:00",
+        "relevance_score": 18
       },
       {
         "title": "‘Unconstrained’ Trump seems to be on a quest to name most everything after himself",
@@ -425,20 +441,6 @@
         "source_name": "The Hindu International",
         "published_at_utc": "2026-04-04T06:55:18+00:00",
         "relevance_score": 18
-      },
-      {
-        "title": "Iran-Israel war LIVE: Iraq closes Shalamcheh crossing with Iran after airstrikes kill Iraqi",
-        "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-april-4-2026-live-updates/article70822179.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-04T14:17:03+00:00",
-        "relevance_score": 16
-      },
-      {
-        "title": "Iraq closes Shalamcheh crossing with Iran after airstrikes kill Iraqi",
-        "link": "https://www.thehindu.com/news/international/iraq-closes-shalamcheh-crossing-with-iran-after-airstrikes-kill-iraqi/article70822980.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-04T11:16:27+00:00",
-        "relevance_score": 16
       },
       {
         "title": "‘The frontline is like Terminator’: fighting robots give Ukraine hope in war with Russia",
@@ -478,13 +480,6 @@
         "relevance_score": 14
       },
       {
-        "title": "How we won a refund from a cash-grabbing care home firm | Letters",
-        "link": "https://www.theguardian.com/society/2026/apr/03/how-we-won-a-refund-from-a-cash-grabbing-care-home-firm",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-03T16:08:41+00:00",
-        "relevance_score": 13
-      },
-      {
         "title": "Leapmotor targets global growth with Europe R&D hub, eyes Canada assembly",
         "link": "https://www.scmp.com/business/china-business/article/3348847/leapmotor-targets-global-growth-europe-rd-hub-eyes-canada-assembly?utm_source=rss_feed",
         "source_name": "SCMP Business",
@@ -502,7 +497,28 @@
         "title": "India makes first Iranian oil buy in seven years with no payment problems - Reuters",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV1liQ3JRLUJKZlo1Ri1xUEZ6UUFldGdOV0hqUkdZRTBDOWQxTVpybzdlSHR4bDNTTGxQMkhtdFgxVWtSa1pQYWV1bkZ6NlRkVzhvS3plblRWX2M5aG1TVFI0V2JfNF9RWXVhbUM1eE53elRlV21TaDlwTTZPa2lQMkI4Rk1vR1N2WjRxRDdKRlNmSjJaQThtbDVWbXZzRnp5Qm1uQ1VPX0JMZU5hSmR0X1FrbVNkS2RHMzYtNw?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-04-04T09:09:50+00:00",
+        "published_at_utc": "2026-04-04T13:52:56+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "Keir Starmalade, anyone? Will marmalade really have to be rebranded in UK?",
+        "link": "https://www.theguardian.com/world/2026/apr/04/breakfast-reset-will-marmalade-really-be-renamed-in-post-brexit-food-deal",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-04T12:58:25+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "‘Not quite Greggs’: TikTok creators put London’s ‘gentrified’ bakeries to the test",
+        "link": "https://www.theguardian.com/cities/2026/apr/04/not-quite-greggs-tiktok-creators-put-londons-gentrified-bakeries-to-the-test",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-04T12:00:22+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "Donald Trump says 'Cuba's next' but what what does it mean? – video explainer",
+        "link": "https://www.theguardian.com/world/video/2026/apr/04/donald-trump-says-cubas-next-but-what-what-does-it-mean-video-explainer",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-04T11:33:32+00:00",
         "relevance_score": 12
       },
       {
@@ -520,24 +536,10 @@
         "relevance_score": 12
       },
       {
-        "title": "What is the triple lock and how much is the state pension worth?",
-        "link": "https://www.bbc.com/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-04-02T14:47:27+00:00",
-        "relevance_score": 11
-      },
-      {
         "title": "Huawei’s profit rises 8.6% in 2025 as overall performance remains steady",
         "link": "https://www.scmp.com/tech/big-tech/article/3348558/huaweis-profit-rises-86-2025-overall-performance-remains-steady?utm_source=rss_feed",
         "source_name": "SCMP Business",
         "published_at_utc": "2026-03-31T12:00:10+00:00",
-        "relevance_score": 11
-      },
-      {
-        "title": "Trump speech sparks oil price jump, Asia stock slide",
-        "link": "https://asia.nikkei.com/business/markets/trump-speech-sparks-oil-price-jump-asia-stock-slide",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
         "relevance_score": 11
       }
     ]
@@ -548,5 +550,5 @@
     "failed": 0,
     "total": 9
   },
-  "theme_of_day": "今日新聞整體敘事主軸圍繞科技發展與地緣政治的交互影響。科技版面中，資安專家針對新興威脅的應對策略及太空探索的預算削減，反映出科技與政治間的緊密聯繫，特別是在國防與外交政策上。經濟版面則強調台灣在全球半導體產業中的重要角色，與美國對古巴及俄烏衝突的政策變化相呼應，顯示出地緣政治對全球供應鏈及能源市場的深遠影響。"
+  "theme_of_day": "今日新聞的整體敘事主軸集中於國際政治與經濟的緊張局勢，以及科技領域的持續創新與挑戰。伊拉克與伊朗的衝突加劇，導致邊境口岸關閉，這一事件可能對地區穩定及能源市場產生深遠影響，尤其在美國油價上漲的背景下，顯示出地緣政治對經濟的直接影響。此外，古巴釋放囚犯的舉措似乎是對特朗普政府施壓的回應，也可能影響美古之間的秘密談判進展，進一步影響兩國的經濟關係。在科技方面，歐洲的數據安全事件提醒各國在數位轉型過程中須加強防護措施，以防範潛在的網路威脅。"
 }

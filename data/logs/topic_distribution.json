@@ -319,28 +319,50 @@
           "general"
         ]
       }
+    },
+    {
+      "date": "2026-04-04",
+      "topics": {
+        "technology": [
+          "cybersecurity",
+          "space_tech",
+          "ai"
+        ],
+        "politics": [
+          "war_and_conflict",
+          "us_politics",
+          "us_politics"
+        ],
+        "economy": [
+          "supply_chain",
+          "general",
+          "markets"
+        ]
+      }
     }
   ],
   "rolling_frequency": {
     "technology": {
       "chips": 15,
-      "cybersecurity": 16,
-      "ai": 16,
-      "space_tech": 1
+      "cybersecurity": 17,
+      "ai": 17,
+      "space_tech": 2
     },
     "politics": {
-      "war_and_conflict": 16,
+      "war_and_conflict": 17,
       "us_china_relations": 15,
       "uk_politics": 12,
-      "eu_policy": 5
+      "eu_policy": 5,
+      "us_politics": 2
     },
     "economy": {
       "interest_rates": 15,
       "inflation": 15,
       "trade_wars": 15,
-      "supply_chain": 1,
+      "supply_chain": 2,
       "energy_markets": 1,
-      "general": 1
+      "general": 2,
+      "markets": 1
     }
   },
   "window_days": 30,
