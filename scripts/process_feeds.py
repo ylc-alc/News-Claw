@@ -227,26 +227,42 @@ def normalise_title(title):
     return title
 
 
+STOPWORDS = {
+    "the", "and", "for", "with", "from", "that", "this", "into", "over", "after",
+    "before", "about", "says", "say", "said", "will", "would", "could", "should",
+    "news", "report", "reports", "reporting", "update", "latest", "live",
+    "amid", "as", "at", "by", "in", "of", "on", "to", "is", "are", "be",
+    "its", "their", "his", "her", "them", "they", "it", "a", "an"
+}
+
 def tokenise_title(title):
     text = normalise_title(title)
-    tokens = [t for t in text.split() if len(t) >= 3]
+    tokens = [t for t in text.split() if len(t) >= 3 and t not in STOPWORDS]
     return tokens
-    
 
-def title_overlap_score(title_a, title_b):
-    tokens_a = set(tokenise_title(title_a))
-    tokens_b = set(tokenise_title(title_b))
+def tokenise_story(title, summary=""):
+    text = normalise_title(f"{title} {summary}")
+    tokens = [t for t in text.split() if len(t) >= 3 and t not in STOPWORDS]
+    return tokens
 
-    if not tokens_a or not tokens_b:
+def overlap_ratio(tokens_a, tokens_b):
+    set_a = set(tokens_a)
+    set_b = set(tokens_b)
+    if not set_a or not set_b:
         return 0.0
-
-    overlap = tokens_a.intersection(tokens_b)
-    smaller_size = min(len(tokens_a), len(tokens_b))
-
+    shared = set_a.intersection(set_b)
+    smaller_size = min(len(set_a), len(set_b))
     if smaller_size == 0:
         return 0.0
+    return len(shared) / smaller_size
 
-    return len(overlap) / smaller_size
+def title_overlap_score(title_a, title_b):
+    return overlap_ratio(tokenise_title(title_a), tokenise_title(title_b))
+
+def story_overlap_score(item_a, item_b):
+    tokens_a = tokenise_story(item_a.get("title", ""), item_a.get("summary", ""))
+    tokens_b = tokenise_story(item_b.get("title", ""), item_b.get("summary", ""))
+    return overlap_ratio(tokens_a, tokens_b)
 
 
 def parse_datetime(value):
@@ -578,7 +594,9 @@ def find_supporting_sources(primary_item, candidate_items):
     primary_topic = primary_item.get("topic_type", "general")
     primary_source = primary_item.get("source_name", "")
     primary_title = primary_item.get("title", "")
-    primary_tokens = set(tokenise_title(primary_title))
+    primary_story_tokens = set(
+        tokenise_story(primary_item.get("title", ""), primary_item.get("summary", ""))
+    )
 
     supporting_sources = []
     supporting_titles = []
@@ -588,33 +606,38 @@ def find_supporting_sources(primary_item, candidate_items):
     for item in candidate_items:
         if item is primary_item:
             continue
+
         if item.get("category", "") != primary_category:
             continue
+
         candidate_source = item.get("source_name", "")
         if candidate_source == primary_source:
             continue
 
-        candidate_topic = item.get("topic_type", "general")
-        candidate_title = item.get("title", "")
-        candidate_tokens = set(tokenise_title(candidate_title))
+        if candidate_source in seen_sources:
+            continue
 
+        candidate_topic = item.get("topic_type", "general")
         topic_compatible = (
             candidate_topic == primary_topic
             or candidate_topic == "general"
             or primary_topic == "general"
         )
+
         if not topic_compatible:
             continue
 
-        overlap = title_overlap_score(primary_title, candidate_title)
-        shared_tokens = primary_tokens.intersection(candidate_tokens)
+        overlap = story_overlap_score(primary_item, item)
+        candidate_story_tokens = set(
+            tokenise_story(item.get("title", ""), item.get("summary", ""))
+        )
+        shared_tokens = primary_story_tokens.intersection(candidate_story_tokens)
 
-        if overlap >= 0.4 or len(shared_tokens) >= 2:
-            if candidate_source not in seen_sources:
-                supporting_sources.append(candidate_source)
-                supporting_titles.append(candidate_title)
-                supporting_links.append(item.get("link", ""))
-                seen_sources.add(candidate_source)
+        if overlap >= 0.55 and len(shared_tokens) >= 3:
+            supporting_sources.append(candidate_source)
+            supporting_titles.append(item.get("title", ""))
+            supporting_links.append(item.get("link", ""))
+            seen_sources.add(candidate_source)
 
     return supporting_sources, supporting_titles, supporting_links
 
@@ -814,30 +837,30 @@ def save_seen_topics(seen_topics, sections):
         
 
 def dedupe_items(items):
-    seen = set()
     deduped = []
 
     for item in items:
         title = item.get("title", "")
-        norm_title = normalise_title(title)
-        dedupe_key = (item.get("category", ""), norm_title)
-
-        if not norm_title:
-            continue
-        if dedupe_key in seen:
-            continue
-
-        seen.add(dedupe_key)
-
         title_clean = clean_text(title)
         summary_clean = clean_text(item.get("summary", ""))
         category = item.get("category", "")
         source_name = item.get("source_name", "")
+
+        if not normalise_title(title_clean):
+            continue
+
         topic_type = detect_topic_type(category, title_clean, summary_clean)
         event_type = detect_event_type(category, topic_type, title_clean, summary_clean)
         briefing = build_briefing(category, topic_type, event_type, title_clean, summary_clean)
         dt = best_datetime(item)
-        relevance_score = compute_relevance_score(category, topic_type, title_clean, summary_clean, source_name, published_dt=dt)
+        relevance_score = compute_relevance_score(
+            category,
+            topic_type,
+            title_clean,
+            summary_clean,
+            source_name,
+            published_dt=dt
+        )
         topic_priority_score = get_topic_priority_score(category, topic_type)
 
         cleaned_item = {
@@ -856,7 +879,31 @@ def dedupe_items(items):
             "topic_priority_score": topic_priority_score,
             "event_type": event_type,
         }
-        deduped.append(cleaned_item)
+
+        is_duplicate_story = False
+
+        for existing in deduped:
+            if existing.get("category") != category:
+                continue
+
+            existing_topic = existing.get("topic_type", "general")
+            topic_compatible = (
+                existing_topic == topic_type
+                or existing_topic == "general"
+                or topic_type == "general"
+            )
+
+            if not topic_compatible:
+                continue
+
+            overlap = story_overlap_score(cleaned_item, existing)
+
+            if overlap >= 0.6:
+                is_duplicate_story = True
+                break
+
+        if not is_duplicate_story:
+            deduped.append(cleaned_item)
 
     return deduped
 
