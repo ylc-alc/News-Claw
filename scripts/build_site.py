@@ -76,7 +76,7 @@ def build_topic_card(item):
     published_at = format_item_time(item.get("published_at_utc", ""))
     or item.get("published", "")
     or item.get("updated", "")
-    )
+    
 
     briefing = item.get("briefing", {})
     news_focus = escape_html(
