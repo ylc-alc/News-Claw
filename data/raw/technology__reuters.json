@@ -5,23 +5,11 @@
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+technology&ceid=US:en&hl=en-US&gl=US",
     "feed_title": "\"when:24h allinurl:reuters.com technology\" - Google News",
     "feed_link": "https://news.google.com/search?q=when:24h+allinurl:reuters.com+technology&ceid=US:en&hl=en-US&gl=US",
-    "fetched_at_utc": "2026-04-04T14:59:59.824484+00:00",
-    "entry_count": 1,
+    "fetched_at_utc": "2026-04-05T08:32:35.309886+00:00",
+    "entry_count": 0,
     "bozo": false,
-    "failed": false,
-    "failure_reason": ""
+    "failed": true,
+    "failure_reason": "feed returned zero entries"
   },
-  "items": [
-    {
-      "category": "technology",
-      "source_name": "Reuters",
-      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+technology&ceid=US:en&hl=en-US&gl=US",
-      "title": "AI is rewiring the world’s most prolific film industry - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlpuQ0JEaTZlYXpGSk5xVGpWY3Vnd3ZJRE5rZVJSMXhmS3pQVzk5Z3N1UEZPX1lFT2dpMzBFcy1kNUhZRFVhZlNIMEVILWR4bENWSnY4M09ZYm5CSVdVOWFBdEhBTm53MVVQbU9HLW8xR0x5VE81X2toMFQyTU50Wll1aF9BWHBnSWlNY29UaDdQMTJMem1XUEFGc1g?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlpuQ0JEaTZlYXpGSk5xVGpWY3Vnd3ZJRE5rZVJSMXhmS3pQVzk5Z3N1UEZPX1lFT2dpMzBFcy1kNUhZRFVhZlNIMEVILWR4bENWSnY4M09ZYm5CSVdVOWFBdEhBTm53MVVQbU9HLW8xR0x5VE81X2toMFQyTU50Wll1aF9BWHBnSWlNY29UaDdQMTJMem1XUEFGc1g?oc=5\" target=\"_blank\">AI is rewiring the world’s most prolific film industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "Sat, 04 Apr 2026 05:00:00 GMT",
-      "updated": "Sat, 04 Apr 2026 05:00:00 GMT",
-      "id": "CBMinAFBVV95cUxNMlpuQ0JEaTZlYXpGSk5xVGpWY3Vnd3ZJRE5rZVJSMXhmS3pQVzk5Z3N1UEZPX1lFT2dpMzBFcy1kNUhZRFVhZlNIMEVILWR4bENWSnY4M09ZYm5CSVdVOWFBdEhBTm53MVVQbU9HLW8xR0x5VE81X2toMFQyTU50Wll1aF9BWHBnSWlNY29UaDdQMTJMem1XUEFGc1g"
-    }
-  ]
+  "items": []
 }
