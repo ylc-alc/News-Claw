@@ -1,59 +1,58 @@
 {
-  "generated_at_utc": "2026-04-05T08:32:52.449305+00:00",
+  "generated_at_utc": "2026-04-06T09:00:55.497888+00:00",
   "summary": {
     "total_raw_items": 1075,
-    "total_deduped_items": 1055,
+    "total_deduped_items": 1061,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "space_tech",
-        "platform_regulation",
-        "general"
+        "chips",
+        "ai",
+        "cybersecurity"
       ],
       "politics": [
-        "diplomacy",
-        "eu_policy",
-        "us_politics"
+        "war_and_conflict",
+        "us_politics",
+        "social_protests"
       ],
       "economy": [
+        "interest_rates",
         "markets",
-        "sanctions",
         "energy_markets"
       ]
     },
-    "multi_source_selected_count": 1
+    "multi_source_selected_count": 0
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
         "source_name": "Wired",
-        "title": "The Trajectory of the Artemis II Moon Mission Is a Feat of Engineering",
-        "link": "https://www.wired.com/story/the-trajectory-of-the-artemis-ii-moon-mission-is-a-feat-of-engineering/",
-        "summary": "The astronauts will arrive about 10,300 kilometers beyond our satellite, breaking all previous records for distance from Earth. But how was their route chosen?",
-        "published": "Sat, 04 Apr 2026 09:30:00 +0000",
-        "updated": "Sat, 04 Apr 2026 09:30:00 +0000",
-        "published_at_utc": "2026-04-04T09:30:00+00:00",
-        "id": "69cfc8e8bb5fa9b3a9065404",
-        "topic_type": "space_tech",
-        "relevance_score": 14,
+        "title": "Best Apple Watch Bands of 2026: Nike, Hermés, and More",
+        "link": "https://www.wired.com/story/best-apple-watch-bands/",
+        "summary": "We’ve been testing bands since the first Apple Watch launched in 2015. From silicone sports straps to leather bands, I’ve rounded up the best for every occasion.",
+        "published": "Sun, 05 Apr 2026 12:00:00 +0000",
+        "updated": "Sun, 05 Apr 2026 12:00:00 +0000",
+        "published_at_utc": "2026-04-05T12:00:00+00:00",
+        "id": "6998d012abd55892ff276b24",
+        "topic_type": "chips",
+        "relevance_score": 15,
         "briefing": {
-          "news_focus": "The astronauts will arrive about 10,300 kilometers beyond our satellite, breaking all previous records for distance from Earth. But how was their route chosen?",
-          "news_focus_zh": "阿爾忒彌斯二號月球任務的航程設計突破了人類探索的距離紀錄，宇航員將到達距地球約10,300公里的地點，這一成就展示了航天工程的進步。",
-          "background": "阿爾忒彌斯計畫是美國國家航空暨太空總署（NASA）的一項重要任務，旨在重返月球並為未來的火星任務鋪路。自阿波羅計畫以來，月球探索的技術與策略經歷了多次演變，這次任務的設計考量了更遠距離的航行需求，並融合了最新的航天科技與數據分析。",
+          "news_focus": "We’ve been testing bands since the first Apple Watch launched in 2015. From silicone sports straps to leather bands, I’ve rounded up the best for every occasion.",
+          "news_focus_zh": "本則新聞回顧了自2015年Apple Watch推出以來的最佳手錶帶，涵蓋了從運動型矽膠帶到高端皮革帶等多種選擇，適合不同場合的需求。",
+          "background": "Apple Watch自2015年上市以來，已經成為可穿戴科技市場的重要產品。隨著消費者對個性化和時尚的需求增加，各種手錶帶的選擇也隨之擴展。Nike和Hermés等品牌的合作，進一步提升了Apple Watch的品牌形象和市場吸引力，顯示出科技與時尚的融合趨勢。",
           "stakeholders": [
-            "NASA",
-            "國際航天機構",
-            "商業航天公司",
-            "科學界",
-            "公眾"
+            "Apple",
+            "Nike",
+            "Hermés",
+            "消費者",
+            "可穿戴設備市場"
           ],
-          "analysis": "此次阿爾忒彌斯二號任務的航程設計，顯著提升了宇航員的飛行距離，這不僅是技術上的突破，也可能改變未來太空任務的規劃方式。與以往任務相比，此次任務的路徑選擇更加注重效率與安全，顯示出NASA在航天工程上的進步。這一變化可能會吸引更多國際合作與商業投資，進一步推動太空探索的發展。"
+          "analysis": "這則新聞反映了Apple Watch在可穿戴設備市場的持續影響力，並突顯了品牌合作對於提升產品價值的重要性。Nike和Hermés等品牌的參與，不僅滿足了不同消費者的需求，也可能引發其他品牌的競爭，進一步推動市場創新。隨著消費者對個性化的追求，未來可能會出現更多定制化的手錶帶選擇，影響整體市場格局。"
         },
-        "topic_priority_score": 4,
-        "event_type": "strategic_move",
-        "is_major_update": true,
+        "topic_priority_score": 10,
+        "event_type": "regulation_action",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -61,30 +60,30 @@
       },
       {
         "category": "technology",
-        "source_name": "Ars Technica",
-        "title": "Tech companies are trying to neuter Colorado’s landmark right-to-repair law",
-        "link": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
-        "summary": "A state bill is a glimpse of how corporations are limiting people's ability to make their own fixes and upgrades.",
-        "published": "Sat, 04 Apr 2026 20:36:49 +0000",
-        "updated": "Sat, 04 Apr 2026 20:36:49 +0000",
-        "published_at_utc": "2026-04-04T20:36:49+00:00",
-        "id": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/",
-        "topic_type": "platform_regulation",
-        "relevance_score": 12,
+        "source_name": "The Verge",
+        "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+        "link": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+        "summary": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a relatively new addition to Maps. And you know what? It's kind of great. To […]",
+        "published": "2026-04-05T10:00:00-04:00",
+        "updated": "2026-04-03T18:59:31-04:00",
+        "published_at_utc": "2026-04-05T14:00:00+00:00",
+        "id": "https://www.theverge.com/?p=907015",
+        "topic_type": "ai",
+        "relevance_score": 13,
         "briefing": {
-          "news_focus": "A state bill is a glimpse of how corporations are limiting people's ability to make their own fixes and upgrades.",
-          "news_focus_zh": "科羅拉多州的一項重要修理權法案正面臨科技公司的抵制，這些公司試圖限制消費者自主修理和升級設備的能力，反映出企業對於維修市場的控制意圖。",
-          "background": "修理權法案旨在保障消費者能夠自行修理和升級其購買的產品，這一政策在全球範圍內逐漸受到重視。隨著科技產品日益複雜，消費者對於修理的需求也在增加。然而，許多科技公司則擔心這會影響其商業模式，並可能導致安全和質量問題的擔憂，因而對此法案提出反對。",
+          "news_focus": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a relatively new addition to Maps. And you know what? It's kind of great. To […]",
+          "news_focus_zh": "Google Maps 新增的 Gemini 功能被評價為有效的日程規劃工具，使用者體驗良好，顯示出 Google 在整合 AI 技術方面的進展。",
+          "background": "Gemini 是 Google 近年來推出的人工智慧技術，旨在提升其各項服務的功能性與使用者互動。自從 Gemini 進入 Gmail 以來，使用者對其功能的接受度與評價參差不齊。隨著 Gemini 在 Google Maps 的應用，這一技術開始展現其潛力，特別是在日程規劃與個性化服務方面，符合當前市場對智能化服務的需求。",
           "stakeholders": [
-            "科技公司",
-            "消費者權益團體",
-            "州政府",
-            "維修服務商",
-            "法律專家"
+            "Google",
+            "使用者",
+            "競爭對手",
+            "隱私權倡導者",
+            "技術開發者"
           ],
-          "analysis": "科技公司如蘋果和谷歌等，主張修理權法案可能會削弱產品安全性，並使其知識產權受到威脅。他們的立場是，消費者缺乏必要的技術知識進行安全修理。然而，支持者則認為，這樣的法律能促進競爭，降低維修成本，並延長產品壽命。未來，若法案通過，可能會促使其他州也跟進，進一步改變科技產品的市場格局。"
+          "analysis": "Gemini 在 Google Maps 的成功應用，顯示出 Google 在 AI 服務整合上的優勢，可能會吸引更多用戶使用其地圖服務。然而，這也引發了對於隱私與數據安全的擔憂，特別是在 AI 收集與分析個人行為數據的過程中。競爭對手如 Apple 和 Microsoft 可能會加速其自身技術的開發，以保持市場競爭力，未來可能出現更多針對 AI 功能的比較與評價。"
         },
-        "topic_priority_score": 8,
+        "topic_priority_score": 9,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -93,30 +92,30 @@
       },
       {
         "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "Embattled startup Delve has ‘parted ways’ with Y Combinator",
-        "link": "https://techcrunch.com/2026/04/04/embattled-startup-delve-has-parted-ways-with-y-combinator/",
-        "summary": "The controversy around Delve appears to have cost the compliance startup its relationship with accelerator Y Combinator.",
-        "published": "Sat, 04 Apr 2026 21:03:43 +0000",
-        "updated": "Sat, 04 Apr 2026 21:03:43 +0000",
-        "published_at_utc": "2026-04-04T21:03:43+00:00",
-        "id": "https://techcrunch.com/?p=3109441",
-        "topic_type": "general",
-        "relevance_score": 10,
+        "source_name": "Wired",
+        "title": "The Hack That Exposed Syria’s Sweeping Security Failures",
+        "link": "https://www.wired.com/story/inside-the-hack-that-exposed-syrias-security-failures/",
+        "summary": "When Syrian government accounts were hijacked in March, the breach looked chaotic. But it revealed something more troubling: a state struggling with the most basic layer of cybersecurity.",
+        "published": "Sun, 05 Apr 2026 09:00:00 +0000",
+        "updated": "Sun, 05 Apr 2026 09:00:00 +0000",
+        "published_at_utc": "2026-04-05T09:00:00+00:00",
+        "id": "69d0299db4952a3941314d23",
+        "topic_type": "cybersecurity",
+        "relevance_score": 11,
         "briefing": {
-          "news_focus": "The controversy around Delve appears to have cost the compliance startup its relationship with accelerator Y Combinator.",
-          "news_focus_zh": "合規初創公司Delve因爭議與加速器Y Combinator解除合作關係，顯示出其在業界面臨的挑戰。",
-          "background": "Delve是一家專注於合規性的初創企業，過去曾獲得Y Combinator的支持，這是一個知名的創業加速器，幫助初創公司獲得資金和指導。然而，Delve近期的爭議可能影響了其商業運作及聲譽，導致與Y Combinator的關係破裂。這一事件反映出初創企業在快速成長過程中可能面臨的合規風險和市場信任問題。",
+          "news_focus": "When Syrian government accounts were hijacked in March, the breach looked chaotic. But it revealed something more troubling: a state struggling with the most basic layer of cybersecurity.",
+          "news_focus_zh": "敘利亞政府帳戶在三月遭到駭客入侵，表面上看似混亂，但實際上揭示了該國在基本網路安全層面上的重大缺失。",
+          "background": "敘利亞的網路安全歷史相對薄弱，尤其是在內戰期間，政府資源分散，無法有效應對網路威脅。隨著數位化進程的加速，政府對於網路安全的重視程度不足，導致其在防禦能力上顯得脆弱。此次駭客事件突顯了敘利亞在面對日益增長的網路攻擊時的無力感，並可能影響其國內外的政治穩定。",
           "stakeholders": [
-            "Delve",
-            "Y Combinator",
-            "投資者",
-            "客戶",
-            "競爭對手"
+            "敘利亞政府",
+            "駭客組織",
+            "國際社會",
+            "敘利亞民眾",
+            "網路安全公司"
           ],
-          "analysis": "Delve的爭議可能涉及其商業模式或合規性問題，這對其投資者及客戶信心造成影響。Y Combinator作為其主要支持者，選擇與其分道揚鑣，顯示出對其未來發展的擔憂。此舉可能使Delve在尋找新資金和合作夥伴方面面臨困難，而其他初創企業則可能從中吸取教訓，強調合規性的重要性。未來，Delve若無法有效解決爭議，將可能面臨更大的市場挑戰。"
+          "analysis": "此次駭客事件對敘利亞政府的影響深遠，首先暴露了其網路安全體系的薄弱，可能削弱民眾對政府的信任。其次，這一事件可能引起外部勢力的關注，進一步加劇國際社會對敘利亞政權的質疑。不同利益方的立場也有所不同，政府可能會加強對網路安全的投資，而反對派則可能利用此事件來強化對政府的不滿與批評，進一步激化內部矛盾。"
         },
-        "topic_priority_score": 3,
+        "topic_priority_score": 9,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -128,62 +127,30 @@
       {
         "category": "politics",
         "source_name": "The Hindu International",
-        "title": "Iran FM Araghchi warns of contamination risk after U.S.-Israeli strikes on Bushehr nuclear power plant",
-        "link": "https://www.thehindu.com/news/international/iran-fm-araghchi-warns-of-contamination-risk-after-us-israeli-strikes-on-bushehr-nuclear-power-plant/article70825722.ece",
-        "summary": "Iranian Foreign Minister Abbas Araghchi warned that continued attacks on the plant on Iran's southern coast could eventually lead to radioactive fallout that would \"end life in GCC (Gulf Cooperation Council) capitals, not Tehran\"; Bushehr is considerably closer to Kuwait, Bahrain and Qatar than it is to the Iranian capital.",
-        "published": "Sun, 05 Apr 2026 09:36:32 +0530",
-        "updated": "Sun, 05 Apr 2026 09:36:32 +0530",
-        "published_at_utc": "2026-04-05T04:06:32+00:00",
-        "id": "article-70825722",
-        "topic_type": "diplomacy",
-        "relevance_score": 23,
-        "briefing": {
-          "news_focus": "Iranian Foreign Minister Abbas Araghchi warned that continued attacks on the plant on Iran's southern coast could eventually lead to radioactive fallout that would \"end life in GCC (Gulf Cooperation Council) capitals, not Tehran\"; Bushehr is considerably closer to Kuwait, Bahrain and Qatar than it is to the Iranian capital.",
-          "news_focus_zh": "伊朗外長阿巴斯·阿拉赫奇警告，若美以聯軍持續攻擊伊朗南部的布什爾核電廠，可能導致放射性污染，影響海灣合作委員會（GCC）各國首都，尤其是科威特、巴林和卡塔爾，而非德黑蘭。",
-          "background": "布什爾核電廠是伊朗主要的核設施之一，位於波斯灣沿岸，對於伊朗的能源政策及地區安全具有重要意義。隨著美國與以色列對伊朗核計劃的持續關注，對該核電廠的攻擊風險上升。GCC國家對伊朗的核能力感到擔憂，並在地緣政治上與伊朗存在緊張關係，這使得核設施的安全成為區域穩定的關鍵因素。",
-          "stakeholders": [
-            "伊朗政府",
-            "美國政府",
-            "以色列政府",
-            "海灣合作委員會(GCC)",
-            "國際原子能機構(IAEA)"
-          ],
-          "analysis": "阿拉赫奇的警告突顯了伊朗與GCC國家之間的緊張局勢。伊朗希望通過強調核電廠的地理位置，來引起GCC國家的關注，並促使其對美以行動的反對。GCC國家可能會擔心核污染的潛在風險，進而影響其對伊朗的政策。美國與以色列則可能認為，對伊朗核設施的打擊是防止其核武擴散的必要措施，這使得各方在安全與外交上面臨更大的挑戰。"
-        },
-        "topic_priority_score": 7,
-        "event_type": "security_event",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "Cubans study oil tanker diplomacy for signs of progress in secret talks with US",
-        "link": "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks",
-        "summary": "Despite hostile rhetoric Trump let a Russian ship break his blockade – could it herald a Venezuela-style outcome? When a sanctioned Russian oil tanker, the Anatoly Kolodkin, docked at Cuba’s Matanzas oil terminal on Tuesday, unloading 700,000 barrels of crude , it was not immediately clear why the ship had been allowed to pass through Donald Trump’s oil blockade. In January, the US president had proclaimed on social media: “THERE WILL BE NO MORE OIL OR MONEY GOING TO CUBA – ZERO!” yet last week he told reporters, “If a country wants to send some oil into Cuba right now, I have no problem with it” – and waved the Russian ship through. Continue reading...",
-        "published": "Sat, 04 Apr 2026 11:00:19 GMT",
-        "updated": "2026-04-04T11:00:19Z",
-        "published_at_utc": "2026-04-04T11:00:19+00:00",
-        "id": "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks",
-        "topic_type": "eu_policy",
+        "title": "Russian drone attack on Ukraine’s Odesa kills three, Regional Governor says",
+        "link": "https://www.thehindu.com/news/international/russian-drone-attack-on-ukraine-odesa-april-6-2026/article70829208.ece",
+        "summary": "With the war now in its fifth year, Moscow has escalated its attacks ‌on Odesa, a key ​logistics hub in southern Ukraine and the ⁠country’s largest port, handling ⁠the majority of the Ukrainian grain ‌and other maritime exports",
+        "published": "Mon, 06 Apr 2026 12:26:38 +0530",
+        "updated": "Mon, 06 Apr 2026 12:26:38 +0530",
+        "published_at_utc": "2026-04-06T06:56:38+00:00",
+        "id": "article-70829208",
+        "topic_type": "war_and_conflict",
         "relevance_score": 22,
         "briefing": {
-          "news_focus": "Despite hostile rhetoric Trump let a Russian ship break his blockade – could it herald a Venezuela-style outcome? When a sanctioned Russian oil tanker, the Anatoly Kolodkin, docked at Cuba’s Matanzas oil terminal on Tuesday, unloading 700,000 barrels of crude , it was not immediately clear why the ship had been allowed to pass through Donald Trump’s oil blockade. In January, the US president had proclaimed on social media: “THERE WILL BE NO MORE OIL OR MONEY GOING TO CUBA – ZERO!” yet last week he told reporters, “If a country wants to send some oil into Cuba right now, I have no problem with it” – and waved the Russian ship through. Continue reading...",
-          "news_focus_zh": "美國總統特朗普在言辭強硬的情況下，卻允許一艘受制裁的俄羅斯油輪進入古巴，這一舉動引發對美國與古巴之間秘密談判進展的猜測。",
-          "background": "美國對古巴的經濟制裁歷史悠久，特朗普政府在任內強化了這一政策，並對任何向古巴輸送石油的行為持強硬立場。然而，近期俄羅斯油輪的到來可能暗示著美國政策的微妙變化。古巴長期依賴外國石油，尤其是來自委內瑞拉的供應，這使得其在國際能源市場中的地位愈發重要。",
+          "news_focus": "With the war now in its fifth year, Moscow has escalated its attacks ‌on Odesa, a key ​logistics hub in southern Ukraine and the ⁠country’s largest port, handling ⁠the majority of the Ukrainian grain ‌and other maritime exports",
+          "news_focus_zh": "俄羅斯對烏克蘭奧德薩的無人機攻擊造成三人死亡，這一事件標誌著莫斯科在持續的戰爭中加大了對該地區的攻擊力度，奧德薩作為烏克蘭最大的港口，對國家的物流和穀物出口至關重要。",
+          "background": "奧德薩是烏克蘭南部的重要物流樞紐，負責大部分的穀物及其他海運出口。隨著俄烏戰爭進入第五年，俄羅斯對烏克蘭的軍事行動愈發頻繁，尤其是在關鍵的經濟地區。此類攻擊不僅影響當地居民的安全，也對全球糧食供應鏈造成潛在威脅。",
           "stakeholders": [
-            "美國政府",
-            "古巴政府",
             "俄羅斯政府",
-            "委內瑞拉政府",
-            "國際能源市場"
+            "烏克蘭政府",
+            "國際社會",
+            "當地居民",
+            "全球糧食市場"
           ],
-          "analysis": "此次事件顯示出特朗普政府在對古巴政策上的矛盾，儘管其強調不再向古巴提供石油，但卻在實際操作中放行了俄羅斯油輪，可能暗示著美國在與古巴的秘密談判中取得了一定進展。這一變化可能會促使古巴在能源供應上尋求更多的靈活性，並可能影響美國與委內瑞拉的關係，因為古巴的能源需求仍然高度依賴於委內瑞拉的供應。"
+          "analysis": "此次攻擊顯示出俄羅斯對烏克蘭重要經濟目標的直接挑釁，並可能導致國際社會對俄羅斯的譴責加劇。與先前的攻擊相比，這次行動的升級意味著俄方可能意圖削弱烏克蘭的經濟基礎，進一步擴大戰爭的影響範圍。烏克蘭政府可能會加強防禦措施，並尋求國際支持以應對這一新挑戰。"
         },
-        "topic_priority_score": 9,
-        "event_type": "diplomatic_move",
+        "topic_priority_score": 11,
+        "event_type": "security_event",
         "is_major_update": true,
         "supporting_sources": [],
         "supporting_titles": [],
@@ -192,71 +159,129 @@
       },
       {
         "category": "politics",
-        "source_name": "Al Jazeera",
-        "title": "Iran war: What is happening on day 37 of US-Israeli attacks?",
-        "link": "https://www.aljazeera.com/news/2026/4/5/iran-war-what-is-happening-on-day-37-of-us-israeli-attacks?traffic_source=rss",
-        "summary": "A US crew member who has been missing since Iran shot down a fighter jet has been rescued, President Donald Trump says.",
-        "published": "Sun, 05 Apr 2026 07:45:48 +0000",
-        "updated": "Sun, 05 Apr 2026 07:45:48 +0000",
-        "published_at_utc": "2026-04-05T07:45:48+00:00",
-        "id": "https://www.aljazeera.com/?t=1775367532",
+        "source_name": "SCMP World",
+        "title": "Orban on the brink: could Hungary’s election dent China’s influence in Europe?",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3349109/orban-brink-could-hungarys-election-dent-chinas-influence-europe?utm_source=rss_feed",
+        "summary": "Major powers are closely watching Hungary’s election next week – a vote seen as a referendum on Europe’s right and crucial for Chinese interests in the EU. Recent polls show self-styled “illiberal democrat” Viktor Orban’s Fidesz trailing challenger Peter Magyar’s Tisza Party by between 19 and 23 points among likely voters ahead of an election on Sunday that has been described as “Europe’s most consequential”. For China, Russia and the United States under President Donald Trump, an Orban defeat...",
+        "published": "Mon, 06 Apr 2026 04:00:08 +0000",
+        "updated": "Mon, 06 Apr 2026 04:00:08 +0000",
+        "published_at_utc": "2026-04-06T04:00:08+00:00",
+        "id": "https://www.scmp.com/news/china/diplomacy/article/3349109/orban-brink-could-hungarys-election-dent-chinas-influence-europe?utm_source=rss_feed",
         "topic_type": "us_politics",
-        "relevance_score": 20,
+        "relevance_score": 22,
         "briefing": {
-          "news_focus": "A US crew member who has been missing since Iran shot down a fighter jet has been rescued, President Donald Trump says.",
-          "news_focus_zh": "美國總統特朗普宣布，一名自伊朗擊落戰鬥機以來失踪的美國機組人員已被救出，這一事件發生在美伊衝突的第37天。",
-          "background": "自從美國與以色列對伊朗展開軍事行動以來，局勢持續緊張。美國的軍事介入主要是基於對伊朗核計劃及其地區影響力的擔憂。伊朗則強調其主權與防衛權，並對外國軍事行動表示強烈反對。這一背景下，戰鬥機被擊落的事件突顯了衝突的激烈程度及其對美國軍事人員的直接威脅。",
+          "news_focus": "Major powers are closely watching Hungary’s election next week – a vote seen as a referendum on Europe’s right and crucial for Chinese interests in the EU. Recent polls show self-styled “illiberal democrat” Viktor Orban’s Fidesz trailing challenger Peter Magyar’s Tisza Party by between 19 and 23 points among likely voters ahead of an election on Sunday that has been described as “Europe’s most consequential”. For China, Russia and the United States under President Donald Trump, an Orban defeat...",
+          "news_focus_zh": "匈牙利即將舉行的選舉被視為對中國在歐洲影響力的重要考驗。現任總理歐爾班的執政黨Fidesz在民調中落後於挑戰者馬捷爾的Tisza黨，這場選舉被形容為「歐洲最具影響力的選舉」。",
+          "background": "匈牙利的選舉背景涉及其與中國的經濟合作及政治聯繫。自歐爾班上任以來，他推動的「非自由民主」政策使匈牙利在歐盟內部的立場獨特，並加強了與中國的經濟關係。中國在匈牙利的投資及基礎建設項目，尤其是「一帶一路」倡議，對於中國在歐洲的影響力至關重要。",
           "stakeholders": [
+            "匈牙利政府",
+            "中國政府",
+            "歐盟",
             "美國政府",
-            "伊朗政府",
-            "以色列政府",
-            "美國軍方",
-            "國際社會"
+            "俄羅斯政府"
           ],
-          "analysis": "此次救援行動顯示美國在面對伊朗挑戰時的決心，可能會進一步加劇雙方的對抗情緒。特朗普政府可能利用此事件強化其在國內的支持，強調對軍事人員的保護。然而，伊朗可能會將此視為美國侵略行為的證據，進一步激化地區緊張局勢。各方在此事件中的立場差異顯示出未來衝突升級的潛在風險。"
+          "analysis": "此次選舉結果可能對中國在歐洲的影響力產生深遠影響。如果歐爾班失利，可能導致匈牙利對中國的政策轉向，削弱中國在歐洲的經濟足跡。對於美國及俄羅斯而言，支持歐爾班的勝利可視為對抗中國影響力的策略。不同利益方的立場明顯，歐盟內部對匈牙利的民主狀況持批評態度，而中國則希望維持與歐爾班的良好關係以促進投資。"
         },
         "topic_priority_score": 8,
-        "event_type": "security_event",
-        "supporting_sources": [
-          "BBC World"
-        ],
-        "supporting_titles": [
-          "What we know so far about rescue of US airman in Iran"
-        ],
-        "supporting_links": [
-          "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss"
-        ],
-        "source_count": 2
+        "event_type": "election_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "politics",
+        "source_name": "The Guardian World",
+        "title": "When Suzuki met Suzuki: why a Tokyo dating agency is matching couples with the same name",
+        "link": "https://www.theguardian.com/world/2026/apr/06/when-suzuki-met-suzuki-tokyo-dating-agency-matching-surnames-japan",
+        "summary": "Japan’s ban on married couples having different surnames has prompted an event to highlight people’s reluctance to change their name At the very least, the three men and three women calming their nerves on a Friday evening at a venue in Tokyo know they have one thing in common. Spaced out across booths, they will soon be placed in pairs and given 15 minutes to get to know one another. Continue reading...",
+        "published": "Mon, 06 Apr 2026 04:57:17 GMT",
+        "updated": "2026-04-06T04:57:17Z",
+        "published_at_utc": "2026-04-06T04:57:17+00:00",
+        "id": "https://www.theguardian.com/world/2026/apr/06/when-suzuki-met-suzuki-tokyo-dating-agency-matching-surnames-japan",
+        "topic_type": "social_protests",
+        "relevance_score": 18,
+        "briefing": {
+          "news_focus": "Japan’s ban on married couples having different surnames has prompted an event to highlight people’s reluctance to change their name At the very least, the three men and three women calming their nerves on a Friday evening at a venue in Tokyo know they have one thing in common. Spaced out across booths, they will soon be placed in pairs and given 15 minutes to get to know one another. Continue reading...",
+          "news_focus_zh": "日本禁止已婚夫婦使用不同姓氏的政策，促使東京一家約會機構舉辦活動，讓擁有相同姓氏的單身男女配對，突顯人們對改姓的抗拒。",
+          "background": "日本的婚姻法規定已婚夫婦必須使用相同的姓氏，這一政策自明治時代以來一直存在，反映了傳統家庭觀念的影響。隨著社會變遷，越來越多的人對此政策表示不滿，認為應該允許夫妻選擇不同的姓氏。這種情況下，約會機構的活動成為一種創新方式，讓人們在遵循法律的同時，尋找情感聯繫。",
+          "stakeholders": [
+            "日本政府",
+            "約會機構",
+            "參加者",
+            "社會運動團體",
+            "傳統家庭觀念支持者"
+          ],
+          "analysis": "這一事件反映了日本社會對於婚姻與個人身份的矛盾心態。對於參加者而言，擁有相同姓氏可能減少了社會壓力，但也可能使他們在尋找伴侶時感到局限。對於政策制定者，這樣的活動可能促使他們重新思考現行法律的合理性，尤其是在年輕人對於傳統婚姻觀念的挑戰日益增長的背景下。未來，若政策未能調整，可能會導致更多人選擇不婚或延遲結婚。"
+        },
+        "topic_priority_score": 5,
+        "event_type": "policy_action",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
       }
     ],
     "economy": [
       {
         "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "The Guardian view on Japan’s hidden century: cheap money, global risk | Editorial",
+        "link": "https://www.theguardian.com/commentisfree/2026/apr/05/the-guardian-view-on-japans-hidden-century-cheap-money-global-risk",
+        "summary": "Ultra-low rates turned the yen into easy cash for bankers. But the carry trade now binds global markets to decisions in Tokyo In 2015, Clyde Prestowitz’s book Japan Restored imagined a Japanese century emerging from upheavals such as an Israeli attack on Iran. While conflict now grips the Middle East, there are few indications of the revolutionary change the former US national security official foresaw. But in one crucial respect this already is a Japanese century – thanks to the yen’s role as easy money for global finance. The Bank of Japan’s loose monetary policy has turned the yen into the world’s cheapest and most reliable funding currency. By suppressing yields on public debt to keep Japan’s domestic economy afloat, the BoJ effectively created a publicly subsidised funding pipeline for bankers. They can make a quick buck by borrowing cheaply in yen and investing in higher-return assets, such as US equities. The “yen carry trade” surged after the pandemic, with speculators betting $435bn in the two years to 2024 out of the estimated $1.7tn worth of yen supplied. The profits for global investors are reckoned to run into tens of billions of dollars. Continue reading...",
+        "published": "Sun, 05 Apr 2026 16:29:55 GMT",
+        "updated": "2026-04-05T16:29:55Z",
+        "published_at_utc": "2026-04-05T16:29:55+00:00",
+        "id": "https://www.theguardian.com/commentisfree/2026/apr/05/the-guardian-view-on-japans-hidden-century-cheap-money-global-risk",
+        "topic_type": "interest_rates",
+        "relevance_score": 25,
+        "briefing": {
+          "news_focus": "Ultra-low rates turned the yen into easy cash for bankers. But the carry trade now binds global markets to decisions in Tokyo In 2015, Clyde Prestowitz’s book Japan Restored imagined a Japanese century emerging from upheavals such as an Israeli attack on Iran. While conflict now grips the Middle East, there are few indications of the revolutionary change the former US national security official foresaw. But in one crucial respect this already is a Japanese century – thanks to the yen’s role as easy money for global finance. The Bank of Japan’s loose monetary policy has turned the yen into the world’s cheapest and most reliable funding currency. By suppressing yields on public debt to keep Japan’s domestic economy afloat, the BoJ effectively created a publicly subsidised funding pipeline for bankers. They can make a quick buck by borrowing cheaply in yen and investing in higher-return assets, such as US equities. The “yen carry trade” surged after the pandemic, with speculators betting $435bn in the two years to 2024 out of the estimated $1.7tn worth of yen supplied. The profits for global investors are reckoned to run into tens of billions of dollars. Continue reading...",
+          "news_focus_zh": "日本的超低利率政策使日圓成為全球金融市場的廉價資金來源，進一步推動了所謂的「日圓套利交易」，這一現象使全球市場與東京的決策緊密相連。",
+          "background": "自2015年以來，日本銀行的寬鬆貨幣政策使日圓成為全球最便宜的資金貨幣。日本為了支持國內經濟，壓低公共債務收益率，這不僅影響了日本本土經濟，也使得全球投資者能夠以低成本借入日圓，並投資於回報更高的資產，如美國股票。這一現象在疫情後更加明顯，日圓套利交易的規模迅速擴大。",
+          "stakeholders": [
+            "日本銀行",
+            "全球投資者",
+            "美國股市",
+            "日本政府",
+            "金融市場監管機構"
+          ],
+          "analysis": "日本的低利率政策使得全球投資者能夠利用日圓進行套利，這對日本經濟和全球市場均有深遠影響。對於日本而言，這種策略雖然短期內支持了經濟，但長期可能導致金融市場的脆弱性增加。另一方面，全球投資者則從中獲利，這使得他們對日本的貨幣政策更加依賴。未來若日本改變貨幣政策，可能會引發全球市場的劇烈波動。"
+        },
+        "topic_priority_score": 10,
+        "event_type": "rate_decision",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "economy",
         "source_name": "SCMP Business",
-        "title": "How changes in home rental laws in England will impact Hong Kong, mainland investors",
-        "link": "https://www.scmp.com/business/article/3349067/how-changes-home-rental-laws-england-will-impact-hong-kong-mainland-investors?utm_source=rss_feed",
-        "summary": "A proposed cap on the ground rents paid by leasehold homeowners in England and Wales is seen as favouring foreign property investors, including those from Hong Kong and mainland China, but another measure tightening rules in setting rents is dampening demand ahead of its implementation, according to analysts. An estimated 203,000 homes in England and Wales are registered to owners with an overseas address. Hongkongers hold 14 per cent, making them the largest group of foreign investors in the...",
-        "published": "Sun, 05 Apr 2026 08:00:07 +0000",
-        "updated": "Sun, 05 Apr 2026 08:00:07 +0000",
-        "published_at_utc": "2026-04-05T08:00:07+00:00",
-        "id": "https://www.scmp.com/business/article/3349067/how-changes-home-rental-laws-england-will-impact-hong-kong-mainland-investors?utm_source=rss_feed",
+        "title": "China IPOs jump 56% as regulator eases restrictions to drive tech innovation",
+        "link": "https://www.scmp.com/business/china-business/article/3348945/china-ipos-jump-56-regulator-eases-restrictions-drive-tech-innovation?utm_source=rss_feed",
+        "summary": "Initial public offerings (IPOs) on mainland Chinese markets surged 56 per cent in the first quarter from a year earlier, as the securities regulator relaxed curbs on equity financing to support the nation’s push for technological innovation. Twenty-nine companies raised a combined 25.7 billion yuan (US$3.7 billion) from the Shanghai, Shenzhen and Beijing stock exchanges in the first three months, according to Bloomberg data. That compared with 16.5 billion yuan raised by 27 companies in the same...",
+        "published": "Mon, 06 Apr 2026 06:00:11 +0000",
+        "updated": "Mon, 06 Apr 2026 06:00:11 +0000",
+        "published_at_utc": "2026-04-06T06:00:11+00:00",
+        "id": "https://www.scmp.com/business/china-business/article/3348945/china-ipos-jump-56-regulator-eases-restrictions-drive-tech-innovation?utm_source=rss_feed",
         "topic_type": "markets",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "A proposed cap on the ground rents paid by leasehold homeowners in England and Wales is seen as favouring foreign property investors, including those from Hong Kong and mainland China, but another measure tightening rules in setting rents is dampening demand ahead of its implementation, according to analysts. An estimated 203,000 homes in England and Wales are registered to owners with an overseas address. Hongkongers hold 14 per cent, making them the largest group of foreign investors in the...",
-          "news_focus_zh": "英國與威爾士計劃對租金進行上限限制的提案，可能會對來自香港與中國大陸的外國投資者產生影響。分析指出，這一政策有利於外國房地產投資者，但同時也有措施收緊租金規定，可能會在實施前抑制需求。",
-          "background": "英國的租賃市場長期以來受到外國投資者的青睞，尤其是來自香港和中國大陸的買家。根據估計，約有203,000套房產的擁有者地址為海外，其中香港投資者佔14%。隨著政府對租金的規範加強，市場動態可能會發生變化，影響投資者的行為及市場供需平衡。",
+          "news_focus": "Initial public offerings (IPOs) on mainland Chinese markets surged 56 per cent in the first quarter from a year earlier, as the securities regulator relaxed curbs on equity financing to support the nation’s push for technological innovation. Twenty-nine companies raised a combined 25.7 billion yuan (US$3.7 billion) from the Shanghai, Shenzhen and Beijing stock exchanges in the first three months, according to Bloomberg data. That compared with 16.5 billion yuan raised by 27 companies in the same...",
+          "news_focus_zh": "中國內地市場的首次公開募股（IPO）在第一季度增長了56%，這是因為監管機構放寬了對股權融資的限制，以促進科技創新。29家公司在上海、深圳和北京的股市上籌集了257億元人民幣（約37億美元）。",
+          "background": "中國政府一直在推動科技創新，以提升國家競爭力。為了支持這一目標，證券監管機構決定放寬對IPO的限制，這是對過去幾年市場低迷的一種反應。隨著市場環境的改善，投資者對科技公司的興趣也在上升，這使得更多企業選擇上市以籌集資金，進一步促進了創新與發展。",
           "stakeholders": [
-            "英國政府",
-            "香港投資者",
-            "中國大陸投資者",
-            "當地租戶",
-            "房地產開發商"
+            "中國證券監管機構",
+            "科技公司",
+            "投資者",
+            "市場分析師",
+            "政府"
           ],
-          "analysis": "此次政策的變化引發了不同利益方的反應。對於香港和中國大陸的投資者來說，租金上限的提案可能提供了更穩定的投資環境，但收緊租金規定則可能降低他們的投資吸引力。英國政府希望通過這些措施來平衡市場，防止房價過快上漲，但這也可能導致外國投資者的需求減少，進而影響整體市場活力。"
+          "analysis": "此次IPO增長對於中國科技企業來說是一個利好消息，顯示出政府對於科技創新的重視。然而，這也可能引發市場的過度投資風險，尤其是在科技泡沫的擔憂下。投資者可能會對新上市公司抱有過高的期望，而監管機構的放寬政策也可能導致市場的波動性增加。不同利益方之間的角力將在於如何平衡創新與風險管理。"
         },
         "topic_priority_score": 4,
-        "event_type": "market_repricing",
+        "event_type": "corporate_results",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -264,60 +289,28 @@
       },
       {
         "category": "economy",
-        "source_name": "Reuters",
-        "title": "Slovak PM says EU should drop sanctions on Russian oil and gas to boost energy security - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMGg1Yk05UjRVQVJmYUxxTUo3ZVBwZXZ4MmZwWEZZRURWb2w5OEFvRlJNYWNQYmFLdkdjdldaeDlJd25yYk1uMkJ6SHZ3M0dMZW0xQUlJTzFBTVhiX1ZFYzZWLWFGeEdDRkRaRndoSkFYR25Kck1YS3ROZmxzNmx1enJzeE43YVpDb0dPMlU2MW51X1hQR0dma091SUNXbl9wQUpSVU5QdWo4a2pXRFVlVW1Ka3pvQ3VFR2YwR1hiMTdKLWUzeEhPUw?oc=5",
-        "summary": "Slovak PM says EU should drop sanctions on Russian oil and gas to boost energy security Reuters",
-        "published": "Sat, 04 Apr 2026 15:32:39 GMT",
-        "updated": "Sat, 04 Apr 2026 15:32:39 GMT",
-        "published_at_utc": "2026-04-04T15:32:39+00:00",
-        "id": "CBMiyAFBVV95cUxOMGg1Yk05UjRVQVJmYUxxTUo3ZVBwZXZ4MmZwWEZZRURWb2w5OEFvRlJNYWNQYmFLdkdjdldaeDlJd25yYk1uMkJ6SHZ3M0dMZW0xQUlJTzFBTVhiX1ZFYzZWLWFGeEdDRkRaRndoSkFYR25Kck1YS3ROZmxzNmx1enJzeE43YVpDb0dPMlU2MW51X1hQR0dma091SUNXbl9wQUpSVU5QdWo4a2pXRFVlVW1Ka3pvQ3VFR2YwR1hiMTdKLWUzeEhPUw",
-        "topic_type": "sanctions",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "Slovak PM says EU should drop sanctions on Russian oil and gas to boost energy security Reuters",
-          "news_focus_zh": "斯洛伐克總理呼籲歐盟解除對俄羅斯石油和天然氣的制裁，以增強能源安全，這一立場引發了對歐盟能源政策的討論。",
-          "background": "自俄烏衝突以來，歐盟對俄羅斯實施了一系列經濟制裁，特別是在能源領域，以削弱俄羅斯的經濟基礎。然而，隨著能源價格上漲和供應鏈不穩定，部分成員國開始質疑這些制裁的有效性，尤其是對於依賴俄羅斯能源的國家，如斯洛伐克。這一背景下，總理的呼籲反映了成員國在能源安全與政治立場之間的掙扎。",
-          "stakeholders": [
-            "斯洛伐克政府",
-            "歐盟成員國",
-            "俄羅斯",
-            "能源供應商",
-            "消費者"
-          ],
-          "analysis": "斯洛伐克總理的呼籲可能會引發歐盟內部的分歧。一方面，解除制裁可能有助於降低能源成本，增強能源供應的穩定性，尤其對於依賴俄羅斯能源的國家而言。另一方面，這一立場可能遭到其他成員國的反對，特別是那些強烈支持制裁的國家，如波蘭和波羅的海國家。此舉可能導致歐盟在能源政策上的重新評估，並影響未來的外交關係。"
-        },
-        "topic_priority_score": 8,
-        "event_type": "energy_supply_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "economy",
-        "source_name": "Reuters",
-        "title": "Egypt raises electricity prices for higher-use households, businesses amid energy crisis - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOEgxSUlwSG9GcW54R2dHUkl2SXQ5SnRwOHBsRGR4Zkd1ZlA5d1hjNmhDUkZLaU1kRGtxWDgxR2I2ZjQ5YlhiVHRxeGF0SFk1cjdkeTJZM1dMbDN4VHhsQkJvYkhBNFR6Y2hCM3FPa1d1YlhjM09sWmlDcUMzZU5uWGdwZEs1MzdpX2FMWVhNTHFObjFVNFh5a2JjbmttZU1raDR1bzlIUEJVenc2Z2haV09aWVJkeWtWRTFNQnVjSQ?oc=5",
-        "summary": "Egypt raises electricity prices for higher-use households, businesses amid energy crisis Reuters",
-        "published": "Sat, 04 Apr 2026 22:00:34 GMT",
-        "updated": "Sat, 04 Apr 2026 22:00:34 GMT",
-        "published_at_utc": "2026-04-04T22:00:34+00:00",
-        "id": "CBMivwFBVV95cUxQOEgxSUlwSG9GcW54R2dHUkl2SXQ5SnRwOHBsRGR4Zkd1ZlA5d1hjNmhDUkZLaU1kRGtxWDgxR2I2ZjQ5YlhiVHRxeGF0SFk1cjdkeTJZM1dMbDN4VHhsQkJvYkhBNFR6Y2hCM3FPa1d1YlhjM09sWmlDcUMzZU5uWGdwZEs1MzdpX2FMWVhNTHFObjFVNFh5a2JjbmttZU1raDR1bzlIUEJVenc2Z2haV09aWVJkeWtWRTFNQnVjSQ",
+        "source_name": "BBC Business",
+        "title": "Oil prices choppy after expletive-laden Trump threat to Iran",
+        "link": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss",
+        "summary": "Brent crude rose above $110 before those gains eased after a report of US-Iran talks over a potential ceasefire.",
+        "published": "Mon, 06 Apr 2026 03:33:35 GMT",
+        "updated": "Mon, 06 Apr 2026 03:33:35 GMT",
+        "published_at_utc": "2026-04-06T03:33:35+00:00",
+        "id": "https://www.bbc.com/news/articles/c8dl7g6e59eo#0",
         "topic_type": "energy_markets",
         "relevance_score": 19,
         "briefing": {
-          "news_focus": "Egypt raises electricity prices for higher-use households, businesses amid energy crisis Reuters",
-          "news_focus_zh": "埃及因應能源危機，決定提高高用電家庭及企業的電價，以應對日益嚴峻的能源供應挑戰。",
-          "background": "埃及長期以來依賴天然氣和水力發電，然而全球能源價格上漲及內部供應問題使得能源危機加劇。政府在面對財政壓力與外部債務的情況下，必須調整電價以維持能源供應的穩定性，這一政策反映了埃及在能源管理上的困境及其對經濟的影響。",
+          "news_focus": "Brent crude rose above $110 before those gains eased after a report of US-Iran talks over a potential ceasefire.",
+          "news_focus_zh": "由於美國前總統特朗普對伊朗的威脅，布倫特原油價格一度上漲至110美元以上，但隨後因美國與伊朗可能進行停火談判的報導而回落。",
+          "background": "近期，全球油價受到地緣政治緊張局勢的影響，特別是美國與伊朗之間的關係。特朗普的威脅可能加劇市場的不確定性，導致投資者對油價的波動反應敏感。伊朗的石油供應對全球市場至關重要，任何衝突都可能影響油價走勢。此外，隨著全球經濟復甦，對能源的需求也在上升，這進一步加劇了市場的波動性。",
           "stakeholders": [
-            "埃及政府",
-            "高用電家庭",
-            "企業",
-            "國際投資者",
-            "能源供應商"
+            "美國政府",
+            "伊朗政府",
+            "全球石油市場",
+            "投資者",
+            "能源消費國"
           ],
-          "analysis": "提高電價將直接影響高用電家庭及企業的運營成本，可能導致生活成本上升及企業利潤下滑，進而影響經濟增長。政府的立場是為了確保能源供應的可持續性，但此舉可能引發民眾的不滿與抗議，特別是在經濟已經面臨挑戰的情況下。企業則可能尋求調整其商業模式以應對新電價，進一步影響市場競爭格局。"
+          "analysis": "特朗普的威脅引發市場對伊朗局勢的擔憂，短期內推高油價。然而，若美國與伊朗之間的停火談判取得進展，則可能緩解市場緊張情緒，導致油價回落。對於美國及其盟友而言，穩定的油價有助於經濟復甦，而伊朗則希望通過談判改善其經濟狀況。這一事件顯示出地緣政治如何直接影響全球能源市場，未來的談判結果將對油價走勢產生深遠影響。"
         },
         "topic_priority_score": 8,
         "event_type": "energy_supply_move",
@@ -331,59 +324,66 @@
   "further_reading": {
     "technology": [
       {
-        "title": "NASA did eventually solve Artemis II’s Outlook glitch",
-        "link": "https://www.theverge.com/science/906988/nasa-artemis-ii-microsoft-outlook-issue-fixed",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-04-03T20:53:48+00:00",
+        "title": "Qingdao Hi Tech Moulds & Plastics Technology's Share Trade To Halt From April 7 - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQd0hkQUtBRE9PLURta2I1UkYxRzBsSmYybTc2aTdXZFdEd1NNV2RNVldSSVg3Vjh5ZlJEcDJMeXlNaDc0XzdRTV92cTJoWkRvV284NjI3R3pLMTlWekVpS25mZUxxZzZxcllXU2ExcjNzclMyX2I3cmZMVU5sMGxfZUhCcWNPQmlGZzl0LUxjT0ZOeU11RElwbl9hdlhCd2JwRVZuaV93Sm50ODc3NzBZci1GNHZsZTFMaDhOR1hJbmVhekFOOUExQkFfS2twWUh5Y1FERTMycGJfQjZuNmZwTw?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-06T07:42:39+00:00",
         "relevance_score": 10
+      },
+      {
+        "title": "How China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
+        "link": "https://www.bbc.com/news/articles/cy41n17e23go?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Technology",
+        "published_at_utc": "2026-04-05T22:07:40+00:00",
+        "relevance_score": 10
+      },
+      {
+        "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
+        "link": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-05T15:40:58+00:00",
+        "relevance_score": 10
+      },
+      {
+        "title": "The Trajectory of the Artemis II Moon Mission Is a Feat of Engineering",
+        "link": "https://www.wired.com/story/the-trajectory-of-the-artemis-ii-moon-mission-is-a-feat-of-engineering/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-04-04T09:30:00+00:00",
+        "relevance_score": 10
+      },
+      {
+        "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+        "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-05T18:51:37+00:00",
+        "relevance_score": 9
+      },
+      {
+        "title": "The Xiaomi 17 Ultra has some impressive add-ons that make snapping photos really fun",
+        "link": "https://techcrunch.com/2026/04/06/xiaomi-17-ultra-review-camera-leica-specs-photography-kit-pro/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-06T07:00:00+00:00",
+        "relevance_score": 8
+      },
+      {
+        "title": "Novogratz, others invest in CNET founder's new blockchain venture - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPazA2dVh1N1NRc01aOHh0UmVmV3ZWSDZ0eTVJTzFFMUhwZ2tWa0VHbUhGODR4c19XclVFdDJlUVVsSzljSVRIR2pNSndnMlVWLUkxZXp2M2VmNE5ndHRweEpNeGFITzlIVVFHeUdYNVd4Z010cXZZazFLMjRLSXRMMndLY0ZyRVJzOTFsaEZ5MG83TldLU1R1UTJMTVdaSVpjeFpGMU5TS3FBdENSSUxsOEpJS1dIbFVvR29fMUtR?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-06T01:03:16+00:00",
+        "relevance_score": 8
+      },
+      {
+        "title": "Polymarket took down wagers tied to rescue of downed Air Force officer",
+        "link": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-05T19:36:03+00:00",
+        "relevance_score": 8
       },
       {
         "title": "Four things we’d need to put data centers in space",
         "link": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
         "source_name": "MIT Technology Review",
         "published_at_utc": "2026-04-03T17:03:19+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-        "link": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-03T20:28:40+00:00",
-        "relevance_score": 9
-      },
-      {
-        "title": "OpenAI’s AGI boss is taking a leave of absence",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-04-03T20:22:59+00:00",
-        "relevance_score": 9
-      },
-      {
-        "title": "Anthropic ramps up its political activities with a new PAC",
-        "link": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-03T20:22:18+00:00",
-        "relevance_score": 9
-      },
-      {
-        "title": "OpenAI takes on another \"side quest,\" buys tech-focused talk show TBPN",
-        "link": "https://arstechnica.com/ai/2026/04/openai-takes-on-another-side-quest-buys-tech-focused-talk-show-tbpn/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-04-03T13:35:13+00:00",
-        "relevance_score": 9
-      },
-      {
-        "title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
-        "link": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-04-02T17:00:00+00:00",
-        "relevance_score": 8
-      },
-      {
-        "title": "Fewer UK adults posting on social media, Ofcom finds",
-        "link": "https://www.bbc.com/news/articles/cgqk718l4neo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Technology",
-        "published_at_utc": "2026-04-02T14:38:24+00:00",
         "relevance_score": 7
       },
       {
@@ -392,115 +392,122 @@
         "source_name": "MIT Technology Review",
         "published_at_utc": "2026-03-31T12:10:00+00:00",
         "relevance_score": 7
-      },
-      {
-        "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
-        "link": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
-        "source_name": "MIT Technology Review",
-        "published_at_utc": "2026-03-30T15:42:50+00:00",
-        "relevance_score": 7
       }
     ],
     "politics": [
       {
-        "title": "Indonesia lays to rest peacekeepers killed in Lebanon, Prabowo condemns attacks",
-        "link": "https://www.scmp.com/news/asia/southeast-asia/article/3349076/indonesia-lays-rest-peacekeepers-killed-lebanon-prabowo-condemns-attacks?utm_source=rss_feed",
+        "title": "Iran and US receive draft proposal for 45-day ceasefire as attacks continue",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3349153/iran-and-us-receive-draft-proposal-45-day-ceasefire-attacks-continue?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-04-05T07:18:15+00:00",
+        "published_at_utc": "2026-04-06T08:18:19+00:00",
         "relevance_score": 20
       },
       {
-        "title": "For Trump, the cost of Iran war is rising",
-        "link": "https://www.thehindu.com/news/international/cost-of-iran-war-rising-donald-trump-us/article70823412.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-05T05:29:02+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Iran attacks Kuwait, Israel after Trump set deadline for deal",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3349059/iran-attacks-kuwait-israel-after-trump-sets-deadline-deal?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-04-05T03:03:40+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Trump administration files emergency motion to resume ballroom work, citing security issues",
-        "link": "https://www.thehindu.com/news/international/trump-administration-files-emergency-motion-to-resume-ballroom-work-citing-security-issues/article70824693.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-05T02:40:39+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Mohammad Ishaq Dar | At the global high table",
-        "link": "https://www.thehindu.com/news/international/mohammad-ishaq-dar-profile-at-the-global-high-table/article70824500.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-05T03:04:25+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "US rescues second crew member of downed F-15E fighter jet from Iran",
-        "link": "https://www.theguardian.com/world/2026/apr/04/iran-search-missing-us-crew-member-downed-fighter-jet-second-day",
+        "title": "Middle East crisis live: Iran warns of ‘devastating’ retaliation after Trump’s expletive-laden threats over strait of Hormuz",
+        "link": "https://www.theguardian.com/world/live/2026/apr/06/iran-war-live-updates-trump-hormuz-oil-netanyahu-israel",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-05T08:22:53+00:00",
+        "published_at_utc": "2026-04-06T08:32:38+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Thousands rally in Iraq against ‘senseless’ US-Israel war on Iran",
-        "link": "https://www.aljazeera.com/gallery/2026/4/5/thousands-rally-in-iraq-against-us-israeli-regional-aggression?traffic_source=rss",
+        "title": "Iran’s top university bombed as US, Israel intensify attacks; 34 killed",
+        "link": "https://www.aljazeera.com/news/2026/4/6/irans-top-university-bombed-as-us-israel-intensify-attacks-34-killed?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-05T08:06:38+00:00",
+        "published_at_utc": "2026-04-06T08:31:35+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Fuel reservoir hit at Russia’s Primorsk, NORSI refinery on fire after drone attacks",
-        "link": "https://www.thehindu.com/news/international/russia-says-ukraine-attack-damages-oil-pipeline/article70826075.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-05T07:56:38+00:00",
+        "title": "Israel estimates 1,000 Iranian missiles still threaten it as war grinds into second month",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3349128/israel-estimates-1000-iranian-missiles-threaten-it-war-grinds-second-month?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-06T05:43:00+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Iran-Israel war LIVE: Iran claims it downed C-130 aircraft and two Black Hawks during U.S. rescue mission",
+        "title": "A new regional order for the Strait of Hormuz",
+        "link": "https://www.aljazeera.com/opinions/2026/4/6/a-new-regional-order-for-the-strait-of-hormuz?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-04-06T05:40:17+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Japan’s Takaichi seeks urgent summit with Iran as Trump’s Hormuz deadline looms",
+        "link": "https://www.scmp.com/news/asia/east-asia/article/3349124/japans-takaichi-seeks-urgent-summit-iran-trumps-hormuz-deadline-looms?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-06T05:32:07+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Iran-Israel war updates: Iranian minister dismisses Trump's threat, calls him 'unstable, delusional figure'",
         "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-april-5-2026-live-updates/article70825713.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-05T07:55:00+00:00",
+        "published_at_utc": "2026-04-06T05:28:36+00:00",
         "relevance_score": 18
       },
       {
-        "title": "‘Miraculous’: US rescues second pilot downed in Iran, Trump confirms",
-        "link": "https://www.aljazeera.com/news/2026/4/5/us-rescues-airman-whose-f-15-was-downed-in-iran-trump-confirms?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-05T06:51:57+00:00",
+        "title": "Defiant Iran ramps up attacks after Trump warning",
+        "link": "https://www.thehindu.com/news/international/defiant-iran-ramps-up-attacks-after-trump-warning/article70828902.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-06T04:50:24+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Chinese-made drone shot in Iran, Australia’s diplomacy pivot: 5 weekend reads you missed",
+        "link": "https://www.scmp.com/news/world/article/3349117/chinese-made-drone-shot-iran-australias-diplomacy-pivot-5-weekend-reads-you-missed?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-06T04:30:26+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Sick pay rule changes to benefit up to 9.6m UK workers, TUC says",
+        "link": "https://www.theguardian.com/law/2026/apr/06/sick-pay-rule-changes-benefit-uk-workers-tuc",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-06T04:00:09+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "‘It’s all fear and headlines’: energy traders race to keep pace with volatile oil markets",
-        "link": "https://www.theguardian.com/business/2026/apr/05/its-all-fear-and-headlines-energy-traders-race-to-keep-pace-with-volatile-oil-markets",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-05T05:00:43+00:00",
+        "title": "Gold may reverse course once Iran war ends, Fed adopts policy easing",
+        "link": "https://www.scmp.com/business/markets/article/3349028/gold-may-reverse-course-once-iran-war-ends-fed-adopts-policy-easing?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-06T03:00:09+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Citigroup pushes back Fed rate cut timeline after strong job numbers - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSEtMb3llZ1plTjFsOEZWbE43ZlhYNzlCbFdsVGk5Z2hzUHJKbTdHTi13SUtLS1pSTGQ0Rm5FTUVHa0N1QTdQclpia2VWSmh2dnBmV1lqeVNVVjlKU2FsMmtxUW93bHlEWFd1Z29OZlhwYlIzQlV3emc4eVQ3WTJlNF9wcFpiQ1BFUE9IcTl0Nk5MS1o5RVpTRVBvbHhmc3VzWEJsZFdnTEVpRzRpd1lBQzJycw?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-06T04:51:00+00:00",
         "relevance_score": 19
       },
       {
-        "title": "‘The good old days are gone’: how will US prices stand as war in Iran surges on?",
-        "link": "https://www.theguardian.com/us-news/2026/apr/05/prices-iran-war-gas-flights-economy",
+        "title": "Iran war driving up funeral costs in the UK",
+        "link": "https://www.theguardian.com/money/2026/apr/05/funeral-costs-uk-iran-war",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-04T13:00:22+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-04-05T10:53:19+00:00",
+        "relevance_score": 19
       },
       {
-        "title": "‘I was beaten and tortured’: how a British father and son made a fortune in Dubai then became wanted men",
-        "link": "https://www.theguardian.com/world/2026/apr/05/british-father-son-dubai-fortune-wanted-men-prison-beaten-tortured",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-05T05:00:42+00:00",
-        "relevance_score": 16
+        "title": "Oil prices little changed as market assesses supply disruptions due to war - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQTFnY2M0NTVsQmJCTWJMbnJpekFQekJ4MkMzMnBVRHRuX2QzSTJ2N3RMN01QbVd3UkFvX0phNW1kbVg3dGRoS19USFRvSWhPTndPYVlJUUpDcjhfZ2ZzckstLWVwbEtocnRNZm1oZUFwQldRX0EzT2VQMHpVc2dDODdqOUF6dE9GNllRaTZPWEEzU2haS0dWZnAxR0pGSHVENU9vRW9kdm1uYUNOUVRrTXh3Uk5NQTZtbnczd0lkWGVuUQ?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-05T22:26:00+00:00",
+        "relevance_score": 17
       },
       {
-        "title": "Cubans study oil tanker diplomacy for signs of progress in secret talks with US",
-        "link": "https://www.theguardian.com/world/2026/apr/04/cuba-oil-tankers-trump-talks",
+        "title": "How Trump’s Iran war could make the world more reliant on coal",
+        "link": "https://www.theguardian.com/business/2026/apr/05/coal-reliance-iran-war-fossil-fuels",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-04T11:00:19+00:00",
-        "relevance_score": 16
+        "published_at_utc": "2026-04-05T11:00:49+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Iran strikes Kuwait’s oil infrastructure before Opec+ supply talks",
+        "link": "https://www.theguardian.com/business/2026/apr/05/iranian-drone-strikes-hit-kuwait-oil-infrastructure-before-opec-supply-talks",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-05T18:22:38+00:00",
+        "relevance_score": 15
       },
       {
         "title": "KMT leader's China visit, key economic outlooks, RBI monetary policy",
@@ -510,39 +517,25 @@
         "relevance_score": 15
       },
       {
-        "title": "Japanese chains Aeon, Ito-Yokado retreat in north China as instant retail race heats up",
-        "link": "https://www.scmp.com/business/article/3348978/japanese-chains-aeon-ito-yokado-retreat-north-china-instant-retail-race-heats?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-05T03:00:07+00:00",
+        "title": "‘It started with a tip-off’: how a Guardian investigation exposed child sex trafficking on Facebook and Instagram",
+        "link": "https://www.theguardian.com/global-development/2026/apr/06/investigation-exposed-child-sex-trafficking-on-facebook-and-instagram-meta",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-06T06:00:12+00:00",
         "relevance_score": 14
       },
       {
-        "title": "Japan's corporate bond issuance hits record high on retail investors",
-        "link": "https://asia.nikkei.com/business/markets/bonds/japan-s-corporate-bond-issuance-hits-record-high-on-retail-investors",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 13
+        "title": "Higher energy costs from Iran war could threaten fragile economics of AI boom | Heather Stewart",
+        "link": "https://www.theguardian.com/business/2026/apr/05/higher-energy-costs-iran-war-oil-economics-ai-boom",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-05T10:38:42+00:00",
+        "relevance_score": 14
       },
       {
-        "title": "An AI bot invited me to its party in Manchester. It was a pretty good night",
-        "link": "https://www.theguardian.com/technology/2026/apr/05/ai-bot-party-manchester-gaskell",
+        "title": "‘The good old days are gone’: how will US prices stand as war in Iran surges on?",
+        "link": "https://www.theguardian.com/us-news/2026/apr/05/prices-iran-war-gas-flights-economy",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-05T07:00:44+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "Waitrose employee sacked after stopping shoplifter from taking Easter eggs",
-        "link": "https://www.theguardian.com/business/2026/apr/05/waitrose-employee-sacked-after-stopping-shoplifter-from-taking-easter-eggs",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-05T05:00:43+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "Is the UK falling out of love with social media?",
-        "link": "https://www.theguardian.com/news/ng-interactive/2026/apr/05/uk-social-media-apps-share",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-05T05:00:41+00:00",
-        "relevance_score": 12
+        "published_at_utc": "2026-04-04T13:00:22+00:00",
+        "relevance_score": 14
       }
     ]
   },
@@ -552,5 +545,5 @@
     "failed": 0,
     "total": 9
   },
-  "theme_of_day": "今日新聞的整體敘事主軸圍繞著科技進步與地緣政治的緊張局勢。阿爾忒彌斯二號月球任務的工程成就與科羅拉多州修理權法案的爭議，反映出科技領域內部的矛盾與挑戰，這些議題同時也與國際政治局勢緊密相連，特別是伊朗核電廠的安全警示及美國與古巴之間的外交動向，均顯示出科技與政治之間的相互影響。此外，經濟版面中英國的租金政策與斯洛伐克對俄能源制裁的呼籲，則揭示了全球能源安全與市場動態的複雜交織，對投資者的影響不容小覷。"
+  "theme_of_day": "今日新聞整體呈現出科技、政治與經濟三大領域之間的相互影響與連動。科技版面中，Google Maps 的新功能與安全漏洞的報導，反映出科技進步與安全風險並存的現實；而政治版面中的俄烏衝突與匈牙利選舉，則顯示出地緣政治對經濟市場的潛在影響，特別是在日本的低利率政策與中國 IPO 的增長背景下，全球資金流動的動態正受到多重因素的驅動。這些事件共同構成了當前國際局勢的複雜脈絡，值得持續關注。"
 }

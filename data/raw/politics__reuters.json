@@ -5,11 +5,23 @@
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
     "feed_title": "\"when:24h allinurl:reuters.com politics\" - Google News",
     "feed_link": "https://news.google.com/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
-    "fetched_at_utc": "2026-04-05T08:32:37.525343+00:00",
-    "entry_count": 0,
+    "fetched_at_utc": "2026-04-06T09:00:40.119144+00:00",
+    "entry_count": 1,
     "bozo": false,
-    "failed": true,
-    "failure_reason": "feed returned zero entries"
+    "failed": false,
+    "failure_reason": ""
   },
-  "items": []
+  "items": [
+    {
+      "category": "politics",
+      "source_name": "Reuters",
+      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
+      "title": "Serbia and Hungary say explosives found near critical gas pipeline - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaDNZTm11SEIxbkZjbHR3OVFwQjc3NTQyNDNTR1dfNHdza3h4LVVHcEhUU1JYWWs4RzdXTEtYeGJISldIWGhsREZZcDYyLU1KN0NkWUo2ZFdQTHRqLTNYMVk0Z3czU2xlc2FQTXN0bTFPNVRQVzNwXzhsQl81NXFwTFhEWUZoeVNESndHTkFCZVQyTzU1OWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOaDNZTm11SEIxbkZjbHR3OVFwQjc3NTQyNDNTR1dfNHdza3h4LVVHcEhUU1JYWWs4RzdXTEtYeGJISldIWGhsREZZcDYyLU1KN0NkWUo2ZFdQTHRqLTNYMVk0Z3czU2xlc2FQTXN0bTFPNVRQVzNwXzhsQl81NXFwTFhEWUZoeVNESndHTkFCZVQyTzU1OWc?oc=5\" target=\"_blank\">Serbia and Hungary say explosives found near critical gas pipeline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "Sun, 05 Apr 2026 16:04:00 GMT",
+      "updated": "Sun, 05 Apr 2026 16:04:00 GMT",
+      "id": "CBMilgFBVV95cUxOaDNZTm11SEIxbkZjbHR3OVFwQjc3NTQyNDNTR1dfNHdza3h4LVVHcEhUU1JYWWs4RzdXTEtYeGJISldIWGhsREZZcDYyLU1KN0NkWUo2ZFdQTHRqLTNYMVk0Z3czU2xlc2FQTXN0bTFPNVRQVzNwXzhsQl81NXFwTFhEWUZoeVNESndHTkFCZVQyTzU1OWc"
+    }
+  ]
 }
