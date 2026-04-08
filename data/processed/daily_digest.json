@@ -1,25 +1,25 @@
 {
-  "generated_at_utc": "2026-04-07T08:52:18.531319+00:00",
+  "generated_at_utc": "2026-04-08T08:52:24.708340+00:00",
   "summary": {
-    "total_raw_items": 1096,
-    "total_deduped_items": 1079,
+    "total_raw_items": 1134,
+    "total_deduped_items": 1108,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "ai",
         "chips",
-        "general"
+        "ai",
+        "cybersecurity"
       ],
       "politics": [
+        "diplomacy",
         "us_politics",
-        "war_and_conflict",
-        "social_protests"
+        "war_and_conflict"
       ],
       "economy": [
         "interest_rates",
-        "energy_markets",
-        "inflation"
+        "markets",
+        "corporate_earnings"
       ]
     },
     "multi_source_selected_count": 0
@@ -28,28 +28,60 @@
     "technology": [
       {
         "category": "technology",
-        "source_name": "The Verge",
-        "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
-        "summary": "Iran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi data center if the US follows through on threats to attack the country's power plants, as reported earlier by Tom's Hardware. The video, which was published to an Iranian state-backed news outlet's X account on April 3rd, says the IRGC […]",
-        "published": "2026-04-06T11:54:19-04:00",
-        "updated": "2026-04-06T14:14:52-04:00",
-        "published_at_utc": "2026-04-06T15:54:19+00:00",
-        "id": "https://www.theverge.com/?p=907427",
+        "source_name": "Reuters",
+        "title": "Germany intelligence agency warns of Russian APT28 cyber spying - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdGdEZ0djU0x0ZmdBZEI3N3pibnk4U08ybkY1NVdodHdnUjNGbGdZOFhCSFc0VkpEWHFmT21aYUJFUUgzS1BadHgxVEdCNHF0UU1SS1hiclhlVmVqdmhVV3Rkb2tmWXBnZy1oVWs2YjFIY2JVMTJHZUpnMldUNFdBRFV3ZWQyd2RZclduVnRzQ2lyQ1dWcml6VHpUOGxOcEtEbFpCX05ISkZvY3c?oc=5",
+        "summary": "Germany intelligence agency warns of Russian APT28 cyber spying Reuters",
+        "published": "Tue, 07 Apr 2026 21:40:58 GMT",
+        "updated": "Tue, 07 Apr 2026 21:40:58 GMT",
+        "published_at_utc": "2026-04-07T21:40:58+00:00",
+        "id": "CBMiqwFBVV95cUxQdGdEZ0djU0x0ZmdBZEI3N3pibnk4U08ybkY1NVdodHdnUjNGbGdZOFhCSFc0VkpEWHFmT21aYUJFUUgzS1BadHgxVEdCNHF0UU1SS1hiclhlVmVqdmhVV3Rkb2tmWXBnZy1oVWs2YjFIY2JVMTJHZUpnMldUNFdBRFV3ZWQyd2RZclduVnRzQ2lyQ1dWcml6VHpUOGxOcEtEbFpCX05ISkZvY3c",
+        "topic_type": "chips",
+        "relevance_score": 19,
+        "briefing": {
+          "news_focus": "Germany intelligence agency warns of Russian APT28 cyber spying Reuters",
+          "news_focus_zh": "德國情報機構警告俄羅斯的APT28網路間諜活動，指出該組織可能對德國及其盟友的資訊安全構成威脅。",
+          "background": "APT28，又稱Fancy Bear，是一個與俄羅斯政府有關的黑客組織，長期以來專注於針對西方國家的網路攻擊。隨著地緣政治緊張局勢升高，特別是在烏克蘭衝突後，德國及其盟友對網路安全的重視程度顯著提升。德國的警告反映了對俄羅斯網路行為的持續關注，並可能促使歐洲國家加強網路防禦措施。",
+          "stakeholders": [
+            "德國政府",
+            "俄羅斯政府",
+            "北約盟國",
+            "網路安全企業",
+            "國際社會"
+          ],
+          "analysis": "德國情報機構的警告可能引發歐洲國家之間的合作加強，以共同應對來自俄羅斯的網路威脅。對於德國而言，這不僅是國內安全的考量，也涉及到與北約盟友的協調與合作。俄羅斯方面則可能會否認這些指控，並強調其網路行為的合法性。隨著網路戰爭的日益普遍，各國在網路安全方面的投資與政策可能會進一步調整，以應對不斷變化的威脅環境。"
+        },
+        "topic_priority_score": 10,
+        "event_type": "strategic_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "TechCrunch",
+        "title": "I can’t help rooting for tiny open source AI model maker Arcee",
+        "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
+        "summary": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.",
+        "published": "Tue, 07 Apr 2026 21:35:02 +0000",
+        "updated": "Tue, 07 Apr 2026 21:35:02 +0000",
+        "published_at_utc": "2026-04-07T21:35:02+00:00",
+        "id": "https://techcrunch.com/?p=3110230",
         "topic_type": "ai",
         "relevance_score": 19,
         "briefing": {
-          "news_focus": "Iran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi data center if the US follows through on threats to attack the country's power plants, as reported earlier by Tom's Hardware. The video, which was published to an Iranian state-backed news outlet's X account on April 3rd, says the IRGC […]",
-          "news_focus_zh": "伊朗伊斯蘭革命衛隊威脅OpenAI在阿布達比的數據中心，若美國對伊朗電廠發動攻擊，將對其採取行動。此威脅透過伊朗國家支持的新聞媒體發布，反映出美伊之間的緊張局勢。",
-          "background": "近年來，伊朗與美國的關係持續緊張，尤其在核協議及地區軍事行動方面。OpenAI計劃在阿布達比建立數據中心，旨在擴展其在中東市場的影響力。此舉可能引發伊朗的警覺，因為數據中心的運作可能被視為外國勢力的介入，進一步加劇地緣政治緊張。",
+          "news_focus": "Arcee is a tiny 26-person U.S. startup that built a high-performing, massive, open source LLM. And it's gaining popularity with OpenClaw users.",
+          "news_focus_zh": "美國初創公司Arcee以26名員工開發出高效能的開源大型語言模型（LLM），並在OpenClaw用戶中獲得了日益增長的受歡迎度。",
+          "background": "隨著人工智慧技術的快速發展，開源模型逐漸成為研究和商業應用的重要選擇。Arcee作為一家小型初創公司，專注於開發高效能的開源AI模型，符合當前市場對於透明度和可定制性的需求。開源AI模型的興起也促進了創新，並吸引了越來越多的開發者和企業參與，形成了一個活躍的生態系統。",
           "stakeholders": [
-            "OpenAI",
-            "伊朗伊斯蘭革命衛隊",
-            "美國政府",
-            "阿聯酋政府",
-            "中東科技產業"
+            "Arcee",
+            "OpenClaw用戶",
+            "大型科技公司",
+            "開源社群",
+            "投資者"
           ],
-          "analysis": "伊朗的威脅顯示出其對外國科技企業在本國境內活動的高度警覺，尤其是在美國可能的軍事行動背景下。對於OpenAI而言，這不僅是商業風險，也可能影響其在中東的擴展計劃。美國政府的立場將影響此事件的後續發展，若美方選擇強硬回應，可能導致更大範圍的衝突，而若選擇外交手段，則可能減少對科技企業的威脅。"
+          "analysis": "Arcee的成功吸引了開發者和企業的注意，特別是在AI技術日益受到重視的背景下。對於大型科技公司而言，這樣的開源解決方案可能挑戰其市場主導地位，因為開源模型提供了更大的靈活性和成本效益。然而，Arcee的規模和資源有限，可能面臨與大型企業競爭的挑戰。未來，若能持續增強其技術優勢並拓展用戶基礎，將可能在市場中佔有一席之地。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
@@ -61,62 +93,30 @@
       {
         "category": "technology",
         "source_name": "TechCrunch",
-        "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
-        "link": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
-        "summary": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
-        "published": "Tue, 07 Apr 2026 05:30:00 +0000",
-        "updated": "Tue, 07 Apr 2026 05:30:00 +0000",
-        "published_at_utc": "2026-04-07T05:30:00+00:00",
-        "id": "https://techcrunch.com/?p=3109837",
-        "topic_type": "chips",
+        "title": "Trump administration plans to cut cybersecurity agency’s budget by $700 million",
+        "link": "https://techcrunch.com/2026/04/07/cisa-budget-cuts-700-million-cybersecurity-agency-trump/",
+        "summary": "The budget proposal would force CISA to operate with a significantly lower budget than previous years, citing the government's claims that the election misinformation programs were used to \"target the President.\"",
+        "published": "Tue, 07 Apr 2026 13:50:51 +0000",
+        "updated": "Tue, 07 Apr 2026 13:50:51 +0000",
+        "published_at_utc": "2026-04-07T13:50:51+00:00",
+        "id": "https://techcrunch.com/?p=3110032",
+        "topic_type": "cybersecurity",
         "relevance_score": 17,
         "briefing": {
-          "news_focus": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
-          "news_focus_zh": "AI初創公司Rocket推出新平台，結合策略、產品開發與競爭情報，提供類似麥肯錫的報告，成本卻低得多，意在超越單純的代碼生成。",
-          "background": "隨著人工智慧技術的迅速發展，越來越多的初創公司進入市場，提供各種解決方案。Rocket的AI平台正是針對企業在策略規劃與市場分析上的需求，試圖以更具成本效益的方式取代傳統顧問服務。這一趨勢反映出企業對於數據驅動決策的需求日益增加，並且希望透過AI技術提升效率與準確性。",
+          "news_focus": "The budget proposal would force CISA to operate with a significantly lower budget than previous years, citing the government's claims that the election misinformation programs were used to \"target the President.\"",
+          "news_focus_zh": "特朗普政府計劃削減網絡安全局（CISA）7億美元的預算，理由是政府聲稱選舉錯誤信息計劃被用來「針對總統」。",
+          "background": "網絡安全局（CISA）成立於2018年，旨在加強美國的網絡安全防護。隨著數位威脅的增加，CISA的角色變得愈加重要，尤其在選舉期間。然而，特朗普政府的預算削減計劃反映了對CISA在選舉期間行動的質疑，並可能影響其未來的運作與資源配置。",
           "stakeholders": [
-            "Rocket",
-            "傳統顧問公司",
-            "中小企業",
-            "投資者",
-            "技術開發者"
+            "特朗普政府",
+            "CISA",
+            "民主黨",
+            "網絡安全專家",
+            "選民"
           ],
-          "analysis": "Rocket的進入可能對傳統顧問公司如麥肯錫造成威脅，因為其提供的報告不僅價格更低，還能快速生成，吸引中小企業及資金有限的客戶。然而，傳統顧問公司可能會質疑AI報告的準確性與深度，並強調人類專家的價值。未來，若Rocket能持續提升其平台的智能與可靠性，將可能改變顧問行業的競爭格局。"
+          "analysis": "此預算削減對CISA及其網絡安全任務將產生重大影響，可能削弱其應對網絡威脅的能力。特朗普政府的立場顯示出對CISA在選舉期間行動的政治不滿，這可能導致CISA的獨立性受到質疑。民主黨及網絡安全專家可能會強烈反對此舉，認為削減預算將危害國家安全，特別是在選舉期間。未來，若CISA無法有效運作，可能會引發更大的政治與社會爭議。"
         },
-        "topic_priority_score": 10,
+        "topic_priority_score": 9,
         "event_type": "strategic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "Reuters",
-        "title": "Taiwan Union Technology March Revenue +72.34% Y/Y - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZU5wR1gtYXR4eWg2ZUxpWmtjb2ktNVA2SWhxS2lKa1BjLUEzUkN2YUZPVnd4ck5nT1ZUZnN3c0tiRGVDQjJEWFFPRWlMRkRrVFJKdzllTXBJUmJ2OGtXRnMzc0pPXzdYRC1yaUZLcEJpVUk0RjBlMXdpWktDdjcwUWRDQUY3SzFBOFhza0M1a1BEQUdxeTlHc0p2WUhBZnIwY25ZZFdZRDdEQnJYa0M1bGpjTllrZWVT?oc=5",
-        "summary": "Taiwan Union Technology March Revenue +72.34% Y/Y TradingView",
-        "published": "Tue, 07 Apr 2026 08:11:57 GMT",
-        "updated": "Tue, 07 Apr 2026 08:11:57 GMT",
-        "published_at_utc": "2026-04-07T08:11:57+00:00",
-        "id": "CBMiuAFBVV95cUxQZU5wR1gtYXR4eWg2ZUxpWmtjb2ktNVA2SWhxS2lKa1BjLUEzUkN2YUZPVnd4ck5nT1ZUZnN3c0tiRGVDQjJEWFFPRWlMRkRrVFJKdzllTXBJUmJ2OGtXRnMzc0pPXzdYRC1yaUZLcEJpVUk0RjBlMXdpWktDdjcwUWRDQUY3SzFBOFhza0M1a1BEQUdxeTlHc0p2WUhBZnIwY25ZZFdZRDdEQnJYa0M1bGpjTllrZWVT",
-        "topic_type": "general",
-        "relevance_score": 14,
-        "briefing": {
-          "news_focus": "Taiwan Union Technology March Revenue +72.34% Y/Y TradingView",
-          "news_focus_zh": "台灣聯合科技在三月的營收同比增長72.34%，顯示出其在市場上的強勁表現。",
-          "background": "台灣聯合科技是一家專注於半導體和電子元件的公司，隨著全球對電子產品需求的增加，特別是在5G和物聯網技術的推動下，該公司的業務得以快速增長。近期，全球供應鏈的恢復也促進了電子產品的生產與銷售，進一步提升了公司的營收表現。",
-          "stakeholders": [
-            "台灣聯合科技",
-            "投資者",
-            "競爭對手",
-            "供應商",
-            "市場分析師"
-          ],
-          "analysis": "台灣聯合科技的營收大幅增長反映了其在市場中的競爭力，吸引了投資者的關注。這一增長可能會促使其他科技公司加大對新技術的投資，以保持競爭優勢。然而，隨著市場需求的波動，聯合科技也需面對潛在的供應鏈挑戰和價格競爭。各方利益關係中，投資者、供應商和競爭對手將密切關注其未來的業務策略與市場動態。"
-        },
-        "topic_priority_score": 3,
-        "event_type": "commercial_update",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -127,30 +127,63 @@
       {
         "category": "politics",
         "source_name": "SCMP World",
-        "title": "Iran calls for ‘human chains’ around its power plants as Trump’s deadline nears",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3349248/iran-calls-human-chains-around-its-power-plants-trumps-deadline-looms?utm_source=rss_feed",
-        "summary": "Air strikes across Iran killed at least 15 people on Tuesday, while Iran fired on Israel and Saudi Arabia, prompting the temporary closure of a major bridge. The attacks came as Iranian officials urged youths to form human chains around power plants to protect them, as the latest deadline set by US President Donald Trump for Iran to reopen the Strait of Hormuz drew closer. Facing a looming US deadline, Iran’s president said on Tuesday that 14 million Iranians, including himself, have volunteered...",
-        "published": "Tue, 07 Apr 2026 08:10:46 +0000",
-        "updated": "Tue, 07 Apr 2026 08:10:46 +0000",
-        "published_at_utc": "2026-04-07T08:10:46+00:00",
-        "id": "https://www.scmp.com/news/world/middle-east/article/3349248/iran-calls-human-chains-around-its-power-plants-trumps-deadline-looms?utm_source=rss_feed",
-        "topic_type": "us_politics",
-        "relevance_score": 20,
+        "title": "Iran vows to make US ‘regret’ any ceasefire violations, hopes China can ensure security",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3349347/iran-hopes-china-can-be-security-guarantor-middle-east-envoy-beijing?utm_source=rss_feed",
+        "summary": "Iran hoped China could be one of the security guarantors of peace in the region, Iranian ambassador Abdolreza Rahmani Fazli said in Beijing on Wednesday. But he also warned of a strong “fightback” from Iran if the United States betrayed its trust again. “We hope different sides could guarantee that the US would not resume the war, we hope the UN Security Council, big countries like China and Russia, as well as mediating countries like Pakistan and Turkey to work together to guarantee peace in...",
+        "published": "Wed, 08 Apr 2026 06:38:23 +0000",
+        "updated": "Wed, 08 Apr 2026 06:38:23 +0000",
+        "published_at_utc": "2026-04-08T06:38:23+00:00",
+        "id": "https://www.scmp.com/news/china/diplomacy/article/3349347/iran-hopes-china-can-be-security-guarantor-middle-east-envoy-beijing?utm_source=rss_feed",
+        "topic_type": "diplomacy",
+        "relevance_score": 23,
         "briefing": {
-          "news_focus": "Air strikes across Iran killed at least 15 people on Tuesday, while Iran fired on Israel and Saudi Arabia, prompting the temporary closure of a major bridge. The attacks came as Iranian officials urged youths to form human chains around power plants to protect them, as the latest deadline set by US President Donald Trump for Iran to reopen the Strait of Hormuz drew closer. Facing a looming US deadline, Iran’s president said on Tuesday that 14 million Iranians, including himself, have volunteered...",
-          "news_focus_zh": "伊朗在美國總統特朗普設定的截止日期臨近之際，呼籲民眾組成人鏈保護其電廠，並發生了針對以色列和沙烏地阿拉伯的攻擊，造成至少15人死亡。",
-          "background": "近期，美國對伊朗的制裁加劇，特別是在霍爾木茲海峽的航行自由問題上。特朗普政府對伊朗的強硬立場使得地區緊張局勢加劇。伊朗的軍事行動和民眾動員反映出其對外部威脅的回應，並試圖展現國內團結。此時，伊朗面臨的國際壓力與內部政治動態交織，使得局勢更加複雜。",
+          "news_focus": "Iran hoped China could be one of the security guarantors of peace in the region, Iranian ambassador Abdolreza Rahmani Fazli said in Beijing on Wednesday. But he also warned of a strong “fightback” from Iran if the United States betrayed its trust again. “We hope different sides could guarantee that the US would not resume the war, we hope the UN Security Council, big countries like China and Russia, as well as mediating countries like Pakistan and Turkey to work together to guarantee peace in...",
+          "news_focus_zh": "伊朗大使在北京表示，伊朗希望中國能成為該地區和平的安全保證者，並警告如果美國再次違反停火協議，伊朗將強烈反擊。",
+          "background": "伊朗與美國之間的緊張關係持續多年，尤其是在核協議及地區軍事行動方面。隨著中美競爭加劇，中國在中東地區的影響力逐漸上升，伊朗希望借助中國的支持來增強自身的安全保障。此外，伊朗與俄羅斯、土耳其等國的合作也在加強，這些國家在地區安全問題上有共同利益。",
           "stakeholders": [
-            "伊朗政府",
+            "伊朗",
+            "美國",
+            "中國",
+            "俄羅斯",
+            "土耳其"
+          ],
+          "analysis": "伊朗的立場顯示出對美國的強烈不信任，並期望中國能在此過程中發揮關鍵作用。美國若再次違反協議，將面臨伊朗的強烈反擊，這可能導致地區局勢進一步惡化。中國的介入可能有助於穩定局勢，但同時也可能使其在美伊之間的平衡更加困難。各方在安全與外交上的利益交織，未來局勢仍需密切觀察。"
+        },
+        "topic_priority_score": 7,
+        "event_type": "security_event",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "politics",
+        "source_name": "Al Jazeera",
+        "title": "US-Israeli war on Iran: What is happening on day 40?",
+        "link": "https://www.aljazeera.com/news/2026/4/8/iran-war-what-is-happening-on-day-40-of-us-israeli-attacks?traffic_source=rss",
+        "summary": "The US and Iran agree to a two-week truce, just an hour before Trump’s deadline to escalate the conflict expired.",
+        "published": "Wed, 08 Apr 2026 07:03:17 +0000",
+        "updated": "Wed, 08 Apr 2026 07:03:17 +0000",
+        "published_at_utc": "2026-04-08T07:03:17+00:00",
+        "id": "https://www.aljazeera.com/?t=1775620793",
+        "topic_type": "us_politics",
+        "relevance_score": 22,
+        "briefing": {
+          "news_focus": "The US and Iran agree to a two-week truce, just an hour before Trump’s deadline to escalate the conflict expired.",
+          "news_focus_zh": "美國與伊朗在衝突的第40天達成為期兩週的停火協議，這一決定是在特朗普的最後期限之前一小時內達成的，顯示出雙方在緊張局勢中的妥協意願。",
+          "background": "美國與伊朗之間的緊張關係由於核協議的破裂及地區衝突持續升級而加劇。特朗普政府曾對伊朗施加嚴厲制裁，並在多次事件中表達對伊朗的強硬立場。此時的停火協議反映出雙方在持續的軍事對抗中尋求緩和的必要性，尤其是在國際社會對衝突升級的擔憂日益加劇的背景下。",
+          "stakeholders": [
             "美國政府",
+            "伊朗政府",
             "以色列",
             "沙烏地阿拉伯",
             "國際社會"
           ],
-          "analysis": "此次事件顯示出伊朗在面對外部壓力時的強硬立場，並試圖透過民眾動員來增強國內凝聚力。美國與其盟友（如以色列和沙烏地阿拉伯）則可能會加強對伊朗的軍事和經濟壓力，進一步激化衝突。各方在此背景下的行動可能導致局勢升級，並影響全球能源市場，特別是霍爾木茲海峽的安全。"
+          "analysis": "此次停火協議的達成是美國和伊朗在持續對抗中首次展現出明顯的妥協，與先前的強硬立場相比，雙方似乎都意識到持續衝突將帶來更大的風險。這一變化可能會影響地區盟友的策略，尤其是以色列和沙烏地阿拉伯，因為他們在此衝突中持有不同的立場和利益。此外，停火協議的成功與否將直接影響未來的外交談判及可能的長期和平進程。"
         },
         "topic_priority_score": 8,
         "event_type": "security_event",
+        "is_major_update": true,
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -159,62 +192,30 @@
       {
         "category": "politics",
         "source_name": "The Guardian World",
-        "title": "Pauline Hanson says she won’t ‘abandon’ Ben Roberts-Smith as Greens argue ‘no one should be above the law’",
-        "link": "https://www.theguardian.com/australia-news/2026/apr/07/ben-roberts-smith-pauline-hanson-support-ntwnfb",
-        "summary": "Queensland senator ‘steadfast’ in her support of former Australian soldier as police charge him with five counts of war crime – murder Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The One Nation leader, Pauline Hanson, says she will not “abandon” Ben Roberts-Smith despite his arrest over war crimes, as the Greens declare “no one should be above the law”. As the prime minister, Anthony Albanese, refused to weigh into Roberts-Smith’s arrest at Sydney airport on Tuesday morning, Hanson reaffirmed her long-held support for Australia’s most decorated living soldier. Continue reading...",
-        "published": "Tue, 07 Apr 2026 07:49:51 GMT",
-        "updated": "2026-04-07T07:49:51Z",
-        "published_at_utc": "2026-04-07T07:49:51+00:00",
-        "id": "https://www.theguardian.com/australia-news/2026/apr/07/ben-roberts-smith-pauline-hanson-support-ntwnfb",
+        "title": "Middle East crisis live: Iran war ceasefire doesn’t include Lebanon, says Israel",
+        "link": "https://www.theguardian.com/world/live/2026/apr/08/iran-war-ceasefire-live-updates-trump-deadline-middle-east-crisis-latest-news",
+        "summary": "Pakistan’s PM had said the ceasefire would cover Lebanon; IDF says it ‘continues fighting and ground operations’ in Lebanon against Hezbollah US and Iran agree to provisional ceasefire with Tehran saying it will reopen strait of Hormuz Iran war ceasefire announcement – what we know so far A genocidal threat, and then the US president, Donald Trump, blinked – without any apparently meaningful concessions from Iran. As in so much concerning the second Trump administration, the two week ceasefire “deal” that will see the strait of Hormuz reopened – if it can be described as such – is maddeningly vague and short on detail, apparently kicking the can on key issues down the road. Iran’s nuclear issue, Trump said, would be solved “perfectly.” “It was a big day for world peace”, Trump posted on Truth Social. “Iran can start reconstruction” he added. “Big money” could be made. Yada. Yada. Yada. Continue reading...",
+        "published": "Wed, 08 Apr 2026 08:19:44 GMT",
+        "updated": "2026-04-08T08:19:44Z",
+        "published_at_utc": "2026-04-08T08:19:44+00:00",
+        "id": "https://www.theguardian.com/world/live/2026/apr/08/iran-war-ceasefire-live-updates-trump-deadline-middle-east-crisis-latest-news",
         "topic_type": "war_and_conflict",
         "relevance_score": 20,
         "briefing": {
-          "news_focus": "Queensland senator ‘steadfast’ in her support of former Australian soldier as police charge him with five counts of war crime – murder Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The One Nation leader, Pauline Hanson, says she will not “abandon” Ben Roberts-Smith despite his arrest over war crimes, as the Greens declare “no one should be above the law”. As the prime minister, Anthony Albanese, refused to weigh into Roberts-Smith’s arrest at Sydney airport on Tuesday morning, Hanson reaffirmed her long-held support for Australia’s most decorated living soldier. Continue reading...",
-          "news_focus_zh": "澳洲參議員保琳·漢森表示不會放棄對前士兵本·羅伯茨-史密斯的支持，儘管他因戰爭罪被控五項罪名。綠黨則強調「沒有人應該高於法律」。",
-          "background": "本事件涉及澳洲前士兵本·羅伯茨-史密斯，他是澳洲歷史上最受尊敬的士兵之一，因其在阿富汗的軍事行動而獲得多項榮譽。然而，近期他因涉嫌戰爭罪被警方逮捕，這引發了政治與社會的廣泛關注。保琳·漢森作為One Nation的領導人，長期以來對羅伯茨-史密斯表達支持，這一立場在他面臨法律挑戰時顯得尤為重要。綠黨的立場則強調法律面前人人平等，反映出對於軍事行為的道德與法律責任的不同看法。",
+          "news_focus": "Pakistan’s PM had said the ceasefire would cover Lebanon; IDF says it ‘continues fighting and ground operations’ in Lebanon against Hezbollah US and Iran agree to provisional ceasefire with Tehran saying it will reopen strait of Hormuz Iran war ceasefire announcement – what we know so far A genocidal threat, and then the US president, Donald Trump, blinked – without any apparently meaningful concessions from Iran. As in so much concerning the second Trump administration, the two week ceasefire “deal” that will see the strait of Hormuz reopened – if it can be described as such – is maddeningly vague and short on detail, apparently kicking the can on key issues down the road. Iran’s nuclear issue, Trump said, would be solved “perfectly.” “It was a big day for world peace”, Trump posted on Truth Social. “Iran can start reconstruction” he added. “Big money” could be made. Yada. Yada. Yada. Continue reading...",
+          "news_focus_zh": "以色列表示，與伊朗達成的臨時停火協議不包括黎巴嫩，並持續在黎巴嫩對真主黨進行軍事行動。巴基斯坦總理曾表示停火將涵蓋黎巴嫩，但以色列國防軍(IDF)否認此說法。",
+          "background": "中東地區的緊張局勢持續升溫，特別是在以色列與伊朗及其代理組織之間的衝突。最近的停火協議旨在緩解局勢，但以色列對於黎巴嫩的軍事行動顯示其對真主黨的威脅依然存在。此事件發生在美國與伊朗之間的外交互動背景下，特朗普政府的政策對於中東局勢的影響仍在持續發酵。",
           "stakeholders": [
-            "保琳·漢森",
-            "本·羅伯茨-史密斯",
-            "綠黨",
-            "澳洲政府",
-            "軍事社群"
+            "以色列",
+            "伊朗",
+            "美國",
+            "巴基斯坦",
+            "真主黨"
           ],
-          "analysis": "保琳·漢森的支持可能會吸引部分選民的共鳴，尤其是在對軍人持有高度敬意的社會背景下。然而，綠黨的立場則強調法律的公正性，可能會引發對於軍事行為的更深層次討論。這一事件可能會進一步分化澳洲的政治景觀，特別是在對待戰爭罪行的態度上。隨著案件的進展，政府的反應及其對法律程序的尊重將成為公眾關注的焦點，可能影響未來的選舉及政策走向。"
+          "analysis": "以色列的立場顯示其對於黎巴嫩及真主黨的持續威脅評估，並可能導致地區局勢的進一步惡化。巴基斯坦總理的聲明與以色列的反應形成鮮明對比，顯示出不同國家對於停火協議的解讀存在分歧。這一情況可能會影響其他國家對於中東政策的調整，特別是在美國與伊朗的關係未來走向不明的情況下。"
         },
         "topic_priority_score": 11,
         "event_type": "security_event",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
-        "source_name": "SCMP World",
-        "title": "‘Radical reset’: Uplifty app aims to help university students find connection offline",
-        "link": "https://www.scmp.com/news/china/science/article/3349217/radical-reset-uplifty-app-aims-help-university-students-find-connection-offline?utm_source=rss_feed",
-        "summary": "Youth-led movements have swept the world in recent years – from protests that toppled governments in Bangladesh, Nepal, Bulgaria and Madagascar, to political rallies across the United States. They are often organised and amplified on social media platforms driven by algorithms that determine content based on user behaviour. But a new app that has been tested by nearly 10,000 university students in the US is challenging that approach. Uplifty AI is encrypted and its founder says the algorithm...",
-        "published": "Tue, 07 Apr 2026 04:32:03 +0000",
-        "updated": "Tue, 07 Apr 2026 04:32:03 +0000",
-        "published_at_utc": "2026-04-07T04:32:03+00:00",
-        "id": "https://www.scmp.com/news/china/science/article/3349217/radical-reset-uplifty-app-aims-help-university-students-find-connection-offline?utm_source=rss_feed",
-        "topic_type": "social_protests",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "Youth-led movements have swept the world in recent years – from protests that toppled governments in Bangladesh, Nepal, Bulgaria and Madagascar, to political rallies across the United States. They are often organised and amplified on social media platforms driven by algorithms that determine content based on user behaviour. But a new app that has been tested by nearly 10,000 university students in the US is challenging that approach. Uplifty AI is encrypted and its founder says the algorithm...",
-          "news_focus_zh": "Uplifty應用程式旨在幫助大學生在現實生活中建立聯繫，挑戰目前以社交媒體為主的線上互動模式。該應用已在美國近10,000名大學生中進行測試，並強調加密技術與不同的算法設計。",
-          "background": "近年來，青年運動在全球範圍內興起，社交媒體成為組織與傳播的重要工具。然而，這種模式也引發了對算法操控與虛擬互動的質疑。Uplifty的出現，反映出對於社交媒體依賴的反思，並試圖促進面對面的交流，這在當前數位化社會中具有重要意義。",
-          "stakeholders": [
-            "Uplifty創始團隊",
-            "大學學生",
-            "社交媒體公司",
-            "教育機構",
-            "數位隱私倡導者"
-          ],
-          "analysis": "Uplifty的推出可能會引發社交媒體平台的競爭壓力，尤其是那些依賴算法推送內容的公司。大學生作為主要用戶，對於線上與線下互動的需求變化，將影響市場趨勢。此外，若Uplifty成功吸引大量用戶，可能會改變現有社交媒體的商業模式，並促使其他平台調整其策略以維持用戶黏著度。"
-        },
-        "topic_priority_score": 5,
-        "event_type": "policy_action",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -224,28 +225,28 @@
     "economy": [
       {
         "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "ICBC and CCB lead China’s 6 biggest banks in US$61 billion dividend payout",
-        "link": "https://www.scmp.com/business/china-business/article/3349184/icbc-and-ccb-lead-chinas-six-biggest-banks-us61b-dividend-payout?utm_source=rss_feed",
-        "summary": "China’s six largest state-owned banks are set to distribute more than 420 billion yuan (US$61 billion) in dividends for 2025, extending record-high payouts and strengthening their appeal as a source of stable income as investors rotate into defensive assets amid low interest rates. Combined payouts from Industrial and Commercial Bank of China (ICBC), China Construction Bank (CCB), Agricultural Bank of China, Bank of China, Bank of Communications and Postal Savings Bank of China were expected to...",
-        "published": "Tue, 07 Apr 2026 02:30:08 +0000",
-        "updated": "Tue, 07 Apr 2026 02:30:08 +0000",
-        "published_at_utc": "2026-04-07T02:30:08+00:00",
-        "id": "https://www.scmp.com/business/china-business/article/3349184/icbc-and-ccb-lead-chinas-six-biggest-banks-us61b-dividend-payout?utm_source=rss_feed",
+        "source_name": "The Guardian Business",
+        "title": "UK house prices fall in March amid uncertain impact of Middle East conflict",
+        "link": "https://www.theguardian.com/business/2026/apr/08/uk-house-prices-fall-march-middle-east-conflict-iran",
+        "summary": "Average price dips back below £300,000 after higher energy costs have knock-on effect on mortgage rates UK house prices fell in March, as the housing market lost momentum amid uncertainty over the conflict in the Middle East and the impact on the economy and interest rates. Figures from Halifax, which is part of Lloyds – Britain’s biggest mortgage lender – showed property prices dipped by 0.5% in March compared with a month earlier. As a result, the average price of a home slipped back below £300,000, to £299,677, after first crossing the milestone in January. Continue reading...",
+        "published": "Wed, 08 Apr 2026 07:55:28 GMT",
+        "updated": "2026-04-08T07:55:28Z",
+        "published_at_utc": "2026-04-08T07:55:28+00:00",
+        "id": "https://www.theguardian.com/business/2026/apr/08/uk-house-prices-fall-march-middle-east-conflict-iran",
         "topic_type": "interest_rates",
         "relevance_score": 23,
         "briefing": {
-          "news_focus": "China’s six largest state-owned banks are set to distribute more than 420 billion yuan (US$61 billion) in dividends for 2025, extending record-high payouts and strengthening their appeal as a source of stable income as investors rotate into defensive assets amid low interest rates. Combined payouts from Industrial and Commercial Bank of China (ICBC), China Construction Bank (CCB), Agricultural Bank of China, Bank of China, Bank of Communications and Postal Savings Bank of China were expected to...",
-          "news_focus_zh": "中國六大國有銀行計劃在2025年分配超過4200億元人民幣（約61億美元）的股息，這一數字創下歷史新高，顯示出在低利率環境下，這些銀行作為穩定收入來源的吸引力增強。",
-          "background": "中國的國有銀行在過去幾年中逐漸增強了其資本實力，並在經濟增長放緩的背景下，開始提高股息分配以吸引投資者。隨著全球利率持續低迷，投資者對於穩定收益的需求上升，這使得國有銀行的股息政策顯得尤為重要。此舉不僅反映了銀行的盈利能力，也顯示出政府對金融穩定的重視。",
+          "news_focus": "Average price dips back below £300,000 after higher energy costs have knock-on effect on mortgage rates UK house prices fell in March, as the housing market lost momentum amid uncertainty over the conflict in the Middle East and the impact on the economy and interest rates. Figures from Halifax, which is part of Lloyds – Britain’s biggest mortgage lender – showed property prices dipped by 0.5% in March compared with a month earlier. As a result, the average price of a home slipped back below £300,000, to £299,677, after first crossing the milestone in January. Continue reading...",
+          "news_focus_zh": "英國房價在三月下滑，平均價格回落至299,677英鎊，主要受到中東衝突的不確定性及能源成本上升對抵押貸款利率的影響。",
+          "background": "英國房地產市場在2023年初曾經出現回暖，平均房價首次突破30萬英鎊。然而，隨著全球能源價格上漲及中東地緣政治緊張局勢的影響，市場情緒轉向謹慎。高能源成本推高了貸款利率，進一步抑制了購房需求，導致房價下滑。這一變化反映了經濟環境的不穩定性及其對消費者信心的影響。",
           "stakeholders": [
-            "中國工商銀行",
-            "中國建設銀行",
-            "農業銀行",
-            "中國銀行",
-            "投資者"
+            "購房者",
+            "房地產開發商",
+            "銀行與金融機構",
+            "投資者",
+            "政策制定者"
           ],
-          "analysis": "此次股息分配的增加對於投資者來說是一個利好消息，尤其是在經濟不確定性加劇的情況下，這些銀行的穩定收益吸引了尋求防禦性資產的資金。然而，這也可能引發對於銀行資本充足率的擔憂，因為高額的股息支付可能會影響其未來的資本運作和風險管理。政府可能會面臨平衡銀行盈利與資本穩定的挑戰。"
+          "analysis": "房價下滑對不同利益方產生了多重影響。購房者可能會因價格回落而感到稍微寬慰，但高利率仍然是他們面臨的主要挑戰。對於房地產開發商和投資者而言，市場放緩可能導致利潤減少，並影響未來的項目投資決策。銀行和金融機構則需評估貸款風險，可能會收緊貸款標準以應對潛在的違約風險。中東衝突的持續不確定性也可能進一步影響市場情緒和經濟預測。"
         },
         "topic_priority_score": 10,
         "event_type": "rate_decision",
@@ -256,31 +257,31 @@
       },
       {
         "category": "economy",
-        "source_name": "BBC Business",
-        "title": "Oil prices rise ahead of Trump's Iran deal deadline",
-        "link": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss",
-        "summary": "The US president has threatened to take out Iran \"in one night\" if it does not agree to open the Strait of Hormuz.",
-        "published": "Tue, 07 Apr 2026 06:55:31 GMT",
-        "updated": "Tue, 07 Apr 2026 06:55:31 GMT",
-        "published_at_utc": "2026-04-07T06:55:31+00:00",
-        "id": "https://www.bbc.com/news/articles/c20qv0w1j1do#0",
-        "topic_type": "energy_markets",
+        "source_name": "SCMP Business",
+        "title": "How China’s tax crackdown on undeclared overseas income is targeting retail investors",
+        "link": "https://www.scmp.com/economy/china-economy/article/3349257/how-china-tax-crackdown-undeclared-overseas-income-targeting-retail-investors?utm_source=rss_feed",
+        "summary": "When a friend received a text message from the mainland Chinese tax authorities asking her to ensure that all her declared income – including income from abroad – was accurate, Fan, a finance professional who asked that her full name not be used, was shocked. Her friend was now coordinating with the authorities to settle the outstanding taxes on her overseas trading, she said, adding that “there is no alternative but to comply” with such texts and that the incident had left her on guard about...",
+        "published": "Wed, 08 Apr 2026 04:00:09 +0000",
+        "updated": "Wed, 08 Apr 2026 04:00:09 +0000",
+        "published_at_utc": "2026-04-08T04:00:09+00:00",
+        "id": "https://www.scmp.com/economy/china-economy/article/3349257/how-china-tax-crackdown-undeclared-overseas-income-targeting-retail-investors?utm_source=rss_feed",
+        "topic_type": "markets",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "The US president has threatened to take out Iran \"in one night\" if it does not agree to open the Strait of Hormuz.",
-          "news_focus_zh": "美國總統特朗普威脅若伊朗不願意開放霍爾木茲海峽，將在一夜之間對其採取行動，導致油價上漲。",
-          "background": "霍爾木茲海峽是全球重要的石油運輸通道，約20%的石油貿易經此通過。特朗普政府對伊朗的強硬政策，尤其是對其核計畫的制裁，已經影響了全球油市。近期的地緣政治緊張局勢加劇，尤其是在美伊關係惡化的背景下，市場對油價的敏感性提升，造成油價波動。",
+          "news_focus": "When a friend received a text message from the mainland Chinese tax authorities asking her to ensure that all her declared income – including income from abroad – was accurate, Fan, a finance professional who asked that her full name not be used, was shocked. Her friend was now coordinating with the authorities to settle the outstanding taxes on her overseas trading, she said, adding that “there is no alternative but to comply” with such texts and that the incident had left her on guard about...",
+          "news_focus_zh": "中國稅務機關對未申報海外收入的打擊行動，正針對零售投資者，促使他們確保所有收入的準確申報，並引發合規壓力。",
+          "background": "隨著中國政府加強對資本外流的監管，稅務機關開始針對未申報的海外收入展開行動。這一政策背景源於對資本外流的擔憂，特別是在全球經濟不穩定的情況下。過去幾年，越來越多的中國投資者將資金轉移至海外市場，導致政府對稅收流失的關注加劇，並促使其加強稅務合規措施。",
           "stakeholders": [
-            "美國政府",
-            "伊朗政府",
-            "石油生產國",
-            "全球石油市場",
-            "依賴石油進口的國家"
+            "中國稅務機關",
+            "零售投資者",
+            "海外金融機構",
+            "中國政府",
+            "經濟學者"
           ],
-          "analysis": "特朗普的威脅可能會使油價進一步上升，因為市場對供應中斷的擔憂加劇。對於美國而言，這一策略旨在施壓伊朗，促使其在核問題上讓步。然而，伊朗可能會選擇強硬回應，進一步加劇地區緊張局勢。此事件對於依賴中東石油的國家，尤其是中國和日本，將產生重大影響，因為他們的能源安全可能受到威脅。"
+          "analysis": "此次稅務打擊行動對零售投資者造成了合規壓力，迫使他們重新檢視自己的財務狀況。對於投資者而言，這可能會影響其海外投資的意願，並增加對中國市場的依賴。同時，政府意在透過這一措施來增強稅收收入，並防範資本外流，然而，這也可能引發投資者的不安與不滿，進一步影響市場情緒。"
         },
-        "topic_priority_score": 8,
-        "event_type": "energy_supply_move",
+        "topic_priority_score": 4,
+        "event_type": "market_repricing",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -288,31 +289,31 @@
       },
       {
         "category": "economy",
-        "source_name": "Reuters",
-        "title": "Inflation scars risk quickly lifting expectations; ECB must be ready to act: policymaker - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYUlFWG5HOVVkTGtISDI3WXJpUTMzMzhVWVpvd2dFT2lJQ0lYb3dOdU1uNlQtZWc2aDd1RUdWMjNjTkZub21zRVBfalhzT1VOdnBhUkZjSlVweFBiSkNIOTFtR3Z0UXgtZ2dTakNWZ3VHTjE4N25rVDJNV1RQdTN5T1pVUXJSbk9fdENBcDF2Z3pJYlZoV0NuOXp5TGZFLVJ6LUFtUHQxczNUS1ZoMWNOTXhxOTNIeUYxT01FcTdBbFp1Zw?oc=5",
-        "summary": "Inflation scars risk quickly lifting expectations; ECB must be ready to act: policymaker Reuters",
-        "published": "Tue, 07 Apr 2026 05:03:00 GMT",
-        "updated": "Tue, 07 Apr 2026 05:03:00 GMT",
-        "published_at_utc": "2026-04-07T05:03:00+00:00",
-        "id": "CBMiwgFBVV95cUxPYUlFWG5HOVVkTGtISDI3WXJpUTMzMzhVWVpvd2dFT2lJQ0lYb3dOdU1uNlQtZWc2aDd1RUdWMjNjTkZub21zRVBfalhzT1VOdnBhUkZjSlVweFBiSkNIOTFtR3Z0UXgtZ2dTakNWZ3VHTjE4N25rVDJNV1RQdTN5T1pVUXJSbk9fdENBcDF2Z3pJYlZoV0NuOXp5TGZFLVJ6LUFtUHQxczNUS1ZoMWNOTXhxOTNIeUYxT01FcTdBbFp1Zw",
-        "topic_type": "inflation",
-        "relevance_score": 21,
+        "source_name": "The Guardian Business",
+        "title": "Shell oil trading profits soar amid Iran war but Qatar strikes hit gas output",
+        "link": "https://www.theguardian.com/business/2026/apr/08/shell-oil-trading-profits-soar-amid-iran-war-but-qatar-strikes-hit-gas-output",
+        "summary": "Company earnings expected to soar to between $200m and $700m in first quarter Business live – latest updates Shell is expected to report “significantly higher” profits from its commodity trading desks in the first quarter of this year after weeks of market volatility triggered by the Iran crisis. The surge in energy commodity markets over recent weeks is expected to drive up trading results at Shell’s chemicals and products unit, which includes its main oil trading desk. Continue reading...",
+        "published": "Wed, 08 Apr 2026 07:37:52 GMT",
+        "updated": "2026-04-08T07:37:52Z",
+        "published_at_utc": "2026-04-08T07:37:52+00:00",
+        "id": "https://www.theguardian.com/business/2026/apr/08/shell-oil-trading-profits-soar-amid-iran-war-but-qatar-strikes-hit-gas-output",
+        "topic_type": "corporate_earnings",
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "Inflation scars risk quickly lifting expectations; ECB must be ready to act: policymaker Reuters",
-          "news_focus_zh": "歐洲央行（ECB）政策制定者警告，通脹的持續影響可能迅速提高市場對未來加息的預期，並強調央行需隨時準備採取行動以應對這一挑戰。",
-          "background": "近期歐洲面臨高通脹壓力，這一現象主要源於能源價格上漲和供應鏈問題。隨著經濟逐步復甦，需求回升進一步推高價格，導致市場對央行政策的敏感度增加。歐洲央行在過去幾年內一直維持低利率政策，旨在刺激經濟，但面對通脹壓力，政策調整的必要性日益凸顯。",
+          "news_focus": "Company earnings expected to soar to between $200m and $700m in first quarter Business live – latest updates Shell is expected to report “significantly higher” profits from its commodity trading desks in the first quarter of this year after weeks of market volatility triggered by the Iran crisis. The surge in energy commodity markets over recent weeks is expected to drive up trading results at Shell’s chemicals and products unit, which includes its main oil trading desk. Continue reading...",
+          "news_focus_zh": "由於伊朗戰爭引發的市場波動，Shell預計第一季的交易利潤將顯著上升，預估達到2億至7億美元。然而，卡塔爾的罷工影響了天然氣產量，可能對市場造成進一步影響。",
+          "background": "近期因伊朗戰爭導致的市場不穩定性，推動了能源商品價格的上漲，Shell作為全球主要的石油和天然氣公司，受益於此波動。與此同時，卡塔爾的罷工影響了其天然氣的生產，這可能會對全球能源供應鏈造成壓力，尤其是在需求持續增長的背景下。",
           "stakeholders": [
-            "歐洲央行",
-            "市場投資者",
-            "消費者",
-            "企業",
-            "政府"
+            "Shell",
+            "卡塔爾政府",
+            "伊朗政府",
+            "能源消費者",
+            "投資者"
           ],
-          "analysis": "此新聞反映出ECB面臨的兩難局面：一方面，持續的通脹壓力可能迫使央行提高利率，以防止通脹預期失控；另一方面，過快的加息可能會抑制經濟增長，特別是在仍然脆弱的後疫情經濟環境中。市場參與者、企業和消費者的信心將受到影響，若ECB未能有效應對，可能導致經濟放緩及失業率上升。"
+          "analysis": "Shell的利潤上升反映了其在不穩定市場中的靈活應對能力，這對投資者來說是一個利好消息。然而，卡塔爾的罷工可能會導致天然氣供應短缺，進一步推高價格，影響消費者和其他依賴天然氣的企業。各方利益關係中，投資者和Shell的股東將受益於短期利潤，而消費者和其他能源公司則可能面臨成本上升的挑戰。"
         },
-        "topic_priority_score": 9,
-        "event_type": "rate_decision",
+        "topic_priority_score": 5,
+        "event_type": "energy_supply_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -323,218 +324,218 @@
   "further_reading": {
     "technology": [
       {
-        "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
-        "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+        "title": "Intel signs on to Elon Musk’s Terafab chips project",
+        "link": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-06T21:54:26+00:00",
+        "published_at_utc": "2026-04-07T18:10:01+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Anthropic Teams Up With Its Rivals to Keep AI From Hacking Everything",
+        "link": "https://www.wired.com/story/anthropic-mythos-preview-project-glasswing/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-04-07T18:49:50+00:00",
         "relevance_score": 15
       },
       {
-        "title": "“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO",
-        "link": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/",
+        "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
+        "link": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-07T18:00:00+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "A new Anthropic model found security problems ‘in every major operating system and web browser’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-04-07T18:00:00+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
+        "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-07T18:46:55+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Linux kernel maintainers are following through on removing Intel 486 support",
+        "link": "https://arstechnica.com/gadgets/2026/04/linux-kernel-maintainers-are-following-through-on-removing-intel-486-support/",
         "source_name": "Ars Technica",
-        "published_at_utc": "2026-04-06T21:23:36+00:00",
-        "relevance_score": 15
+        "published_at_utc": "2026-04-07T16:39:12+00:00",
+        "relevance_score": 13
       },
       {
-        "title": "Nvidia acquisition of SchedMD sparks worry among AI specialists about software access - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM0tsVmdPT0xtdU9udHR6QzRpSmpCYXpHWUpsQmFvVURsOHlXb21OdGtiMVMyQjB0M3k5WTRuNmlfcGE0U0hwSUhPd2JTeTJwUFB4dy1uOU41aVNxMHBUaDJncEtVYmw5MUV2c3FBNGxEN1E3dU1GSjgzRkJqSVNrN2MxY2thTFpVX3I4Zl9jLWVqVmI0aDBubm44TFdtenc5cG90UHNRUVNheWNjaWoyVk95alJBVFprVFFHc2VEYw?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-06T19:39:58+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
-        "link": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+        "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
+        "link": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-06T15:55:55+00:00",
-        "relevance_score": 15
+        "published_at_utc": "2026-04-07T16:05:56+00:00",
+        "relevance_score": 13
       },
       {
-        "title": "The one piece of data that could actually shed light on your job and AI",
-        "link": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+        "title": "Google Maps can now write captions for your photos using AI",
+        "link": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-07T15:30:00+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "The Download: AI’s impact on jobs, and data centres in space",
+        "link": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/",
         "source_name": "MIT Technology Review",
-        "published_at_utc": "2026-04-06T16:33:35+00:00",
+        "published_at_utc": "2026-04-07T12:10:00+00:00",
         "relevance_score": 13
       },
       {
-        "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-        "link": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-06T14:11:42+00:00",
+        "title": "OpenAI encourages firms to trial four-day weeks to adapt to AI era",
+        "link": "https://www.bbc.com/news/articles/c8x71ejrp92o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Technology",
+        "published_at_utc": "2026-04-07T11:55:47+00:00",
         "relevance_score": 13
-      },
-      {
-        "title": "“Data embassies” and safeguarding digital assets during wartime",
-        "link": "https://restofworld.org/2026/gulf-war-data-center-risks/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "source_name": "Rest of World",
-        "published_at_utc": "2026-04-06T10:00:00+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
-        "link": "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-04-06T09:00:00+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Samsung flags eightfold quarterly profit surge on AI chip boom - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FX1YtOGtHcUtxZlFkNEVaYXgtN0VvUnhYMXZaZExvVEZMc1ViLU9QMHBzbU1feTBqX3VWeWFyQlhCQ3Z1YkhmcU5SWUdrbjNHRGZWSlZGblozbUZHQ2YtWnJtZzBNSW1rMEF5eHZMcXE4SXVuMVJ1RVdZQWc?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-07T06:45:27+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "Europe Gets Serious About Age Verification Online",
-        "link": "https://www.wired.com/story/europe-gets-serious-about-age-verification-online/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-04-07T06:00:00+00:00",
-        "relevance_score": 12
       }
     ],
     "politics": [
       {
-        "title": "A new cast of Castros is emerging in Cuba, where the name holds sway",
-        "link": "https://www.scmp.com/news/world/americas/article/3349226/new-cast-castros-emerging-cuba-where-name-holds-sway?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-04-07T05:39:58+00:00",
-        "relevance_score": 20
+        "title": "Iran agrees to open Strait of Hormuz for two-week US ceasefire",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/8/iran-agrees-to-open-strait-of-hormuz-for-two-week-us-ceasefire?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-04-08T01:00:30+00:00",
+        "relevance_score": 21
       },
       {
-        "title": "Talks to end Iran war appear to falter a day before Trump deadline",
-        "link": "https://www.theguardian.com/world/2026/apr/06/proposals-for-immediate-ceasefire-us-israel-iran-war",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-07T05:24:24+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Donald Trump praises Artemis astronauts: ‘You’ve made history’",
-        "link": "https://www.thehindu.com/sci-tech/science/donald-trump-praises-artemis-astronauts-youve-made-history/article70832792.ece",
+        "title": "Russia supplies Iran with cyber support, spy imagery to hone attacks, Ukraine says",
+        "link": "https://www.thehindu.com/sci-tech/technology/russia-supplies-iran-with-cyber-support-spy-imagery-to-hone-attacks-ukraine-says/article70836923.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-07T03:18:48+00:00",
+        "published_at_utc": "2026-04-08T08:00:39+00:00",
         "relevance_score": 20
       },
       {
-        "title": "JD Vance due in Hungary to back Orban's re-election bid",
-        "link": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC World",
-        "published_at_utc": "2026-04-07T01:45:41+00:00",
+        "title": "Israel backs Trump's two-week pause on Iran strikes, says Lebanon excluded",
+        "link": "https://www.thehindu.com/news/international/israel-backs-trumps-two-week-pause-on-iran-strikes-says-lebanon-excluded/article70837139.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-08T07:40:28+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Ukraine war briefing: Zelenskyy reiterates truce offer ahead of Orthodox Easter",
-        "link": "https://www.theguardian.com/world/2026/apr/07/ukraine-russia-war-briefing-zelenskyy-orthodox-easter-truce-offer",
+        "title": "US and Iran agree to provisional ceasefire as Tehran says it will reopen strait of Hormuz",
+        "link": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-07T00:34:15+00:00",
+        "published_at_utc": "2026-04-08T06:01:44+00:00",
         "relevance_score": 20
       },
       {
-        "title": "House Democrats demand end to ‘cruel’ US energy blockade after visit to Cuba",
-        "link": "https://www.theguardian.com/us-news/2026/apr/06/cuba-blockade-energy-house-democrats",
+        "title": "Madness or bluster? Trump’s apocalyptic language raises key questions",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3349340/madness-or-bluster-trumps-apocalyptic-language-raises-key-questions?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-08T05:50:11+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Palestinian girl who lost arm in Israeli missile attack on Gaza arrives in UK",
+        "link": "https://www.theguardian.com/world/2026/apr/08/palestinian-girl-who-lost-arm-in-israeli-missile-attack-on-gaza-arrives-in-uk",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-06T17:41:43+00:00",
+        "published_at_utc": "2026-04-08T05:00:16+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Iran-Israel war LIVE updates: Trump suspends Iran bombing for two weeks, Iran demands 10-point proposal",
+        "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-us-donald-trump-strait-of-hormuz-live-updates-on-april-7-2026/article70832715.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-08T04:52:49+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "‘Cautious optimism’ in Asia after US, Iran agree to ceasefire, reopen Hormuz",
+        "link": "https://www.scmp.com/news/asia/east-asia/article/3349331/cautious-optimism-asia-after-us-iran-agree-ceasefire-reopen-hormuz?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-08T04:52:07+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Ukraine war briefing: Kyiv lays out how ‘Russian satellites help Iran in war’",
+        "link": "https://www.theguardian.com/world/2026/apr/08/ukraine-war-briefing-kyiv-how-russian-satellites-help-iran-in-war",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-08T01:22:14+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "New Zealand asks US to send fuel tankers to Pacific to alleviate pressure caused by Iran war",
+        "link": "https://www.theguardian.com/world/2026/apr/08/new-zealand-us-fuel-tankers-pacific-iran-war",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-08T00:09:56+00:00",
         "relevance_score": 19
-      },
-      {
-        "title": "Iran President says 14 million Iranians, including himself, have volunteered to sacrifice their lives in war",
-        "link": "https://www.thehindu.com/news/international/iran-president-says-14-million-iranians-including-himself-have-volunteered-to-sacrifice-their-lives-in-war/article70833514.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-07T08:35:05+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Middle East crisis live: Trump says he is ‘not at all’ worried about possible war crimes as his deadline for Iran nears",
-        "link": "https://www.theguardian.com/world/live/2026/apr/07/iran-war-live-updates-trump-hormuz-threats-deadline-strikes-middle-east-conflict",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-07T08:29:26+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Oil prices top $110 after Trump says Iran can be ‘taken out’ in one night",
-        "link": "https://www.theguardian.com/business/2026/apr/07/oil-prices-donald-trump-iran-stock-market-imf-inflation",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-07T08:12:29+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Most in Asean prefer China over US as partner in poll, Trump cited as biggest concern",
-        "link": "https://www.scmp.com/week-asia/politics/article/3349247/most-asean-prefer-china-over-us-partner-poll-trump-cited-biggest-concern?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-04-07T08:05:32+00:00",
-        "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "JPMorgan's Dimon warns Iran war may drive inflation and interest rates higher - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOFItZ1lCRWJEZ3hkWlpnaGpFR0R3cTRtTTR5Z1dtemlwSVkxMzVFc3JVRUFpY1FMYzJQakRHLWo2Rl95SDJuN0ptWkhZbHhtdVU4emRLanFFS2kyZGcyQ2x1enJXM0pqa2hnYjNrUEVIMm5OTXdDejVDNFVZa3pTd01xZTZQbGJ4NVhyeXpDR3JWNHFsQ05iNlk5MmlNR3FFZldMZU5SS0xRaGM1TlFVdTMtZW9OUWxwVGdzdTNtcU5WYzg?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-06T21:10:51+00:00",
-        "relevance_score": 23
-      },
-      {
-        "title": "‘Italy has the best benefits’: Milan takes on Dubai as home for the super-rich",
-        "link": "https://www.theguardian.com/business/2026/apr/07/milan-dubai-super-wealthy-italy-rich",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-07T04:00:39+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Oil prices choppy after expletive-laden Trump threat to Iran",
-        "link": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-04-06T19:31:20+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "US service sector cools in March, inflation heating up amid Iran war - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVDRqY0NjWnFXcGtMbVgtS0VsWU9TTEItcDFvelh4dno0d2pkT0xyYXNzOGN1OExlcTRUNVhlUWhBdnA4NTVjODZXNmRFSkp6QmQ5bE5id2ZHUUZpbjVSMGNjTzBMU1BuS1ViMmY2Q2ZVZk9xaVhiUE94Y0JZbHE5YnBMQWlIdlAzbnhYS1dFSTJGalRRcmd5ZFpxWXp6a1duSnBrOVktSHVCWEplNmJKdVdn?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-06T17:10:09+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Green hydrogen drive may help China reach carbon-neutral goal",
-        "link": "https://www.scmp.com/plus/business/climate-and-energy/article/3348964/green-hydrogen-drive-may-help-china-reach-carbon-neutral-goal?utm_source=rss_feed",
+        "title": "Stocks rise and oil slumps on US-Iran truce as Alibaba leads charge on AI names",
+        "link": "https://www.scmp.com/business/china-business/article/3349319/hong-kong-stocks-jump-risk-appetite-returns-after-us-and-iran-agree-ceasefire?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-07T01:00:19+00:00",
+        "published_at_utc": "2026-04-08T02:57:13+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
+        "link": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-04-08T08:15:36+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Wall St ends higher as investors parse US-Iran negotiations, threats - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUXJrYzYxUlR4aWZ1eWJIWHRabGpZNldYUm9BYi1jdXp4Q3RTa1k0Sk9oOHN6VDdBb0dMTk5YcVdiMExzbWstWFRRWnE5UTdHY3hVb3dPTUQ2NWFHaGljX0lBcEVyS2NlNHlGWTh3UWx2bm50WHI0QzRZN3gzQWNiUEhUMFZ2STZvdVB1eEpRWkoxVWJQbnJqMVg3a3VCSWJFNmRrYWRYQ290UERuUnhiYmpjTE8?oc=5",
+        "title": "Fed's Jefferson sees risks to both employment, inflation - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVjlkUWtWcGZuY1RGVUVzcS1hSTVYbWlld0FBWkFGRXFOY1RTdXJJTlJKQlFoWTlFcURoVlhQbFBYTVM3SmdHUzkxeS1FbkhGSDZWMFUzY2NJUVFBbjh4dVROUkoxbjl0cGpXN3dUd2E3dGV0SEo0dDBmenVMdHhyUXBCYk81Rng1WldFTkxOX1NvSkhiblhnMV9DWFU?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-04-06T23:58:54+00:00",
+        "published_at_utc": "2026-04-07T21:52:03+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Phillips 66 faces $900 million loss as Iran crisis lifts oil prices - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUd1MWo0bUxjMl90UmxqWW9BRElsRVFHSWludy12THRCN1lUSU5NUWRtcXVhWTA3T2YzUm1Wd1FBeEExZDd3SzJ5NTFMbUlNcEJSUk5wS3Q0bHZmdEFQeXpxVThNUTdDUVZLd1I3d0kyRVhJOXM4YWZUc3habWR5NlhmNGcybVk5LVhUWE0wX3NRaFcyQ0w2R1BqV3M5NGR3OU51YkhCdVZGbnpkV1pMcTBHZWd4MzZmaDhVVQ?oc=5",
+        "title": "Iran war may boost inflation, but not expectations, per Dallas Fed research - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXFWVW9ZYXpUNzRUS0dTS3NYRDk5ZWFyMGlRaVRjZlR0ZDc5ejlfQlJfcVpmclBCMFhFSDFWQ1JDeG43bDZ1Z2FOcDg0VTFDYVhOSmVuX1ZyUWpKZW1wTndUaE5vaG9oN2p5Z01hNWZ6amZDS2J2RkV4RXhMNWpfbHBMZW1wTWV1TnRmRGgyNTV6dUtNLXlvNHBYY0VyXzd0TlJCb2NYQWdaby01cVh2MEVxcVk?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-04-06T22:30:02+00:00",
+        "published_at_utc": "2026-04-07T20:13:05+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Labour should hold a referendum on whether Britain should rejoin the EU | Letter",
-        "link": "https://www.theguardian.com/politics/2026/apr/06/labour-should-hold-a-referendum-on-whether-britain-should-rejoin-the-eu",
+        "title": "Why is the UK capping student loan interest and will graduates now pay less?",
+        "link": "https://www.theguardian.com/money/2026/apr/07/what-interest-rate-cap-uk-student-loans-means-graduates",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-06T16:46:21+00:00",
+        "published_at_utc": "2026-04-07T15:39:58+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Struggling families like mine don’t talk about the cost of living any more – now it’s the cost of survival | Ella Michalski",
-        "link": "https://www.theguardian.com/commentisfree/2026/apr/06/struggling-families-like-mine-cost-of-living-survival",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-06T13:00:20+00:00",
+        "title": "Fed's Williams says Middle East war will drive up inflation - Bloomberg - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlhFTGVETlhFeWNKYWpycVQ1TkNkckVTMlJfR1BCY2VQdnEwekNYUjRESE1tdEdTUzZTVHR3VEFtUTg5X1JCUHVoRXZ0djZFLWlab0V1SUtJSEE3UEVHbWt0cUQ0QWRFa2JqVUhHNUJPcERiVWRxbjlBckoxdnUtUU1mZkpITEJwOHZlQVh6QThpbHlCcGtzMm9LZnhSMGhHeWcyRVcycGhlc2FQcEE0T0FhSQ?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-07T14:11:03+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Don’t believe Trump’s claims about making life more affordable | Steven Greenhouse",
-        "link": "https://www.theguardian.com/commentisfree/2026/apr/06/trump-affordability-prices-economy",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-06T12:00:20+00:00",
-        "relevance_score": 19
+        "title": "Global drug makers face pricing pressure as China targets affordable healthcare",
+        "link": "https://www.scmp.com/business/china-business/article/3349163/global-drug-makers-face-pricing-pressure-china-targets-affordable-healthcare?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-08T02:00:19+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "The Live Conversation: how cross-sector collaboration is powering Southeast Asia’s growth in 2026",
+        "link": "https://www.scmp.com/presented/business/topics/remarketing/article/3348782/live-conversation-how-cross-sector-collaboration-powering-southeast-asias-growth-2026?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-07T23:00:10+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Bourbon demand is down and tariffs aren't helping. But distillers keep building. - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb2tETDc1dFlrMjBBMnVOZnNsNkM5V1hISjZBeTIxTXgyQTM0cGRmT0JKUWZFYTJESGhISWI3UDJDQnZSMDBidWFZc1Nnd3B6Wll6LVVMWHdDejNEWjBIX2xmOXJuWTEwMG54LWxGUmdUbUkweE5aVDJPUUNKZlBkbGtFWG5BSkM0ZWZKVFQ5LXl2TUNZSXVWVVZ1NGtoUGV0VnFraWRfcjE4MThSb0JfSVFBV1U?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-07T16:19:37+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Vape makers turn to 'Made in America' credentials amid Trump's tariffs, crackdown - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU3VoTTl6TXdqQWg4UEpESlJ0SEoyeXBoYzNlb04xYzIwdDBMSW9Ma2l4VUhrMVNrWU9mRktXQWZqOU90NHBjZVZLVjE4VzhkakllcEhHYVp4MEZ0cjJaQVBuSWR2enpvUXZVTHdmQkd2YVhTRTBEQkVHSjdCLXpLY2I3eUxGRXZmWXNKOXZUczh5VHRHZlhueXhOXy00bjRVTWlrQXhzSV9ZZUVSS1RNWHlhOENpc25MY19ybm5YT2tqMEF1TUxRYWdxdjQ0SVk3b2V3YmtBYkN1VWs?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-07T15:59:50+00:00",
+        "relevance_score": 17
       }
     ]
   },
@@ -544,5 +545,5 @@
     "failed": 0,
     "total": 9
   },
-  "theme_of_day": "今日新聞的整體脈絡圍繞著國際政治緊張局勢及其對經濟的影響，特別是美伊之間的對抗進一步加劇，導致油價上漲，並影響全球市場情緒。伊朗對OpenAI數據中心的威脅與特朗普對伊朗的強硬立場相互呼應，顯示出科技與政治的交織影響。同時，中國銀行業的股息分配計劃反映出在全球經濟不確定性中，資本市場仍尋求穩定的收入來源。"
+  "theme_of_day": "今日新聞的整體敘事主軸圍繞地緣政治緊張局勢及其對全球經濟的影響。德國對俄羅斯網路間諜活動的警告與美國與伊朗的衝突持續升級，顯示出國際安全環境的脆弱性，並可能進一步影響市場情緒，尤其是在英國房價因中東衝突的不確定性而下滑的背景下。此外，中國對海外收入的稅務打擊也反映出全球經濟的合規壓力，與地緣政治的變化密切相關。"
 }
