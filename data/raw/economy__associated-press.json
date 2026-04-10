@@ -5,23 +5,11 @@
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+business&ceid=US:en&hl=en-US&gl=US",
     "feed_title": "\"when:24h allinurl:apnews.com business\" - Google News",
     "feed_link": "https://news.google.com/search?q=when:24h+allinurl:apnews.com+business&ceid=US:en&hl=en-US&gl=US",
-    "fetched_at_utc": "2026-04-09T08:58:54.970034+00:00",
-    "entry_count": 1,
+    "fetched_at_utc": "2026-04-10T08:59:24.367136+00:00",
+    "entry_count": 0,
     "bozo": false,
-    "failed": false,
-    "failure_reason": ""
+    "failed": true,
+    "failure_reason": "feed returned zero entries"
   },
-  "items": [
-    {
-      "category": "economy",
-      "source_name": "Associated Press",
-      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+business&ceid=US:en&hl=en-US&gl=US",
-      "title": "A first for Michigan’s $2.4B SOAR business incentive program: New jobs - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX0YtV0RucGs1ekV1Qy1xR3Q1TEQwYm83QzRKTVA4dUFSYkVHLWdpa3VZdkVRQXZmSXhSM1JVUmJ4MDNuN2tlUEQ4OXZSTDhDN1lPUVl2ZzNfd3hWdlh1X2FhZVc5YmpuUFgyaEhpTGFNaVB0dUx1X2RnLS1vemh3Mm4yeldOdnU5VWk5U2hCYl9zR3ZqMWt0Tw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQX0YtV0RucGs1ekV1Qy1xR3Q1TEQwYm83QzRKTVA4dUFSYkVHLWdpa3VZdkVRQXZmSXhSM1JVUmJ4MDNuN2tlUEQ4OXZSTDhDN1lPUVl2ZzNfd3hWdlh1X2FhZVc5YmpuUFgyaEhpTGFNaVB0dUx1X2RnLS1vemh3Mm4yeldOdnU5VWk5U2hCYl9zR3ZqMWt0Tw?oc=5\" target=\"_blank\">A first for Michigan’s $2.4B SOAR business incentive program: New jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "Wed, 08 Apr 2026 18:29:00 GMT",
-      "updated": "Wed, 08 Apr 2026 18:29:00 GMT",
-      "id": "CBMimAFBVV95cUxQX0YtV0RucGs1ekV1Qy1xR3Q1TEQwYm83QzRKTVA4dUFSYkVHLWdpa3VZdkVRQXZmSXhSM1JVUmJ4MDNuN2tlUEQ4OXZSTDhDN1lPUVl2ZzNfd3hWdlh1X2FhZVc5YmpuUFgyaEhpTGFNaVB0dUx1X2RnLS1vemh3Mm4yeldOdnU5VWk5U2hCYl9zR3ZqMWt0Tw"
-    }
-  ]
+  "items": []
 }

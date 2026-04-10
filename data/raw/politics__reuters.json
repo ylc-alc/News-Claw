@@ -5,23 +5,11 @@
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
     "feed_title": "\"when:24h allinurl:reuters.com politics\" - Google News",
     "feed_link": "https://news.google.com/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
-    "fetched_at_utc": "2026-04-09T08:58:51.448424+00:00",
-    "entry_count": 1,
+    "fetched_at_utc": "2026-04-10T08:59:21.311196+00:00",
+    "entry_count": 0,
     "bozo": false,
-    "failed": false,
-    "failure_reason": ""
+    "failed": true,
+    "failure_reason": "feed returned zero entries"
   },
-  "items": [
-    {
-      "category": "politics",
-      "source_name": "Reuters",
-      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
-      "title": "Argentines protest for glacier protection as Congress mulls new law - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtWUlRRGgtZkY2dGlhZm16X0R6TFVrWlFLWXVEZ3F5akNRbzlJNHR4UkczRXo3NFpMN010Wjd2YmNqbGZqNXF4U0VxOEE1blRfdmV1T1FfdDdHUWdqTko2V3d6WWNDVzBlamFBUkVIOHlSZTlXV0VYM09R?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBtWUlRRGgtZkY2dGlhZm16X0R6TFVrWlFLWXVEZ3F5akNRbzlJNHR4UkczRXo3NFpMN010Wjd2YmNqbGZqNXF4U0VxOEE1blRfdmV1T1FfdDdHUWdqTko2V3d6WWNDVzBlamFBUkVIOHlSZTlXV0VYM09R?oc=5\" target=\"_blank\">Argentines protest for glacier protection as Congress mulls new law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "Thu, 09 Apr 2026 07:07:30 GMT",
-      "updated": "Thu, 09 Apr 2026 07:07:30 GMT",
-      "id": "CBMiekFVX3lxTFBtWUlRRGgtZkY2dGlhZm16X0R6TFVrWlFLWXVEZ3F5akNRbzlJNHR4UkczRXo3NFpMN010Wjd2YmNqbGZqNXF4U0VxOEE1blRfdmV1T1FfdDdHUWdqTko2V3d6WWNDVzBlamFBUkVIOHlSZTlXV0VYM09R"
-    }
-  ]
+  "items": []
 }
