@@ -5,11 +5,23 @@
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
     "feed_title": "\"when:24h allinurl:reuters.com politics\" - Google News",
     "feed_link": "https://news.google.com/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
-    "fetched_at_utc": "2026-04-10T08:59:21.311196+00:00",
-    "entry_count": 0,
+    "fetched_at_utc": "2026-04-11T08:31:12.497727+00:00",
+    "entry_count": 1,
     "bozo": false,
-    "failed": true,
-    "failure_reason": "feed returned zero entries"
+    "failed": false,
+    "failure_reason": ""
   },
-  "items": []
+  "items": [
+    {
+      "category": "politics",
+      "source_name": "Reuters",
+      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
+      "title": "China won't tolerate independent Taiwan, Xi tells island's opposition - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1qbUpYekxzcFY1VDNnWDE1Y2JzWjM3SmI2WkJ2SkV0a1E1RnBqMXdBUUhQMGFoYnh5MDFRYkFib0dHd0pqdm1aa3FiSHcyQUZsSXJqSEZ6dG5nXzFNZkJZR0d5VFZ1NUlqZngxTXRyUkpHeEhCbWZZbW53?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1qbUpYekxzcFY1VDNnWDE1Y2JzWjM3SmI2WkJ2SkV0a1E1RnBqMXdBUUhQMGFoYnh5MDFRYkFib0dHd0pqdm1aa3FiSHcyQUZsSXJqSEZ6dG5nXzFNZkJZR0d5VFZ1NUlqZngxTXRyUkpHeEhCbWZZbW53?oc=5\" target=\"_blank\">China won't tolerate independent Taiwan, Xi tells island's opposition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "Fri, 10 Apr 2026 09:52:27 GMT",
+      "updated": "Fri, 10 Apr 2026 09:52:27 GMT",
+      "id": "CBMiekFVX3lxTE1qbUpYekxzcFY1VDNnWDE1Y2JzWjM3SmI2WkJ2SkV0a1E1RnBqMXdBUUhQMGFoYnh5MDFRYkFib0dHd0pqdm1aa3FiSHcyQUZsSXJqSEZ6dG5nXzFNZkJZR0d5VFZ1NUlqZngxTXRyUkpHeEhCbWZZbW53"
+    }
+  ]
 }
