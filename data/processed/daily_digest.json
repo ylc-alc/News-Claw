@@ -1,57 +1,57 @@
 {
-  "generated_at_utc": "2026-04-11T08:31:27.876053+00:00",
+  "generated_at_utc": "2026-04-12T08:37:31.122536+00:00",
   "summary": {
-    "total_raw_items": 1088,
-    "total_deduped_items": 1066,
+    "total_raw_items": 1070,
+    "total_deduped_items": 1057,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "chips",
         "ai",
-        "space_tech"
+        "chips",
+        "general"
       ],
       "politics": [
-        "war_and_conflict",
         "diplomacy",
-        "us_politics"
+        "us_politics",
+        "war_and_conflict"
       ],
       "economy": [
         "inflation",
-        "corporate_earnings",
-        "markets"
+        "general",
+        "trade_wars"
       ]
     },
-    "multi_source_selected_count": 0
+    "multi_source_selected_count": 1
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "The Verge",
-        "title": "Congress can finally close a mass surveillance loophole — but will they?",
-        "link": "https://www.theverge.com/policy/909229/fisa-702-reauthorization-davidson-wyden-warrant-reforms",
-        "summary": "A warrantless wiretapping authority that has facilitated surveillance for decades is up for renewal in Congress. Section 702 of the Foreign Intelligence Surveillance Act (FISA), last reauthorized in 2024, is set to expire on April 20th. A bipartisan coalition of progressive Democrats and members of the hard-right Freedom Caucus say it's long overdue for reform. […]",
-        "published": "2026-04-10T11:45:00-04:00",
-        "updated": "2026-04-10T11:37:28-04:00",
-        "published_at_utc": "2026-04-10T15:45:00+00:00",
-        "id": "https://www.theverge.com/?p=909229",
-        "topic_type": "chips",
-        "relevance_score": 17,
+        "source_name": "TechCrunch",
+        "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+        "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+        "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+        "published": "Sat, 11 Apr 2026 17:18:22 +0000",
+        "updated": "Sat, 11 Apr 2026 17:18:22 +0000",
+        "published_at_utc": "2026-04-11T17:18:22+00:00",
+        "id": "https://techcrunch.com/?p=3111667",
+        "topic_type": "ai",
+        "relevance_score": 15,
         "briefing": {
-          "news_focus": "A warrantless wiretapping authority that has facilitated surveillance for decades is up for renewal in Congress. Section 702 of the Foreign Intelligence Surveillance Act (FISA), last reauthorized in 2024, is set to expire on April 20th. A bipartisan coalition of progressive Democrats and members of the hard-right Freedom Caucus say it's long overdue for reform. […]",
-          "news_focus_zh": "美國國會面臨對《外國情報監視法》第702條的重新授權，該條款允許在無需獲得逮捕令的情況下進行監控。由於該條款的過期日期臨近，兩黨聯盟呼籲進行必要的改革。",
-          "background": "《外國情報監視法》第702條自2008年以來一直是美國政府進行外國監控的重要法律工具，允許在不需獲得逮捕令的情況下收集外國通信數據。隨著科技的進步，許多監控行為已引發隱私權與公民自由的爭議。近年來，對該法的批評聲音增強，促使部分國會議員呼籲進行改革，以平衡國家安全與個人隱私。",
+          "news_focus": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+          "news_focus_zh": "OpenAI CEO Sam Altman 發表部落格文章，回應針對他住所的攻擊事件及《紐約客》對他的深入報導，該報導質疑他的可信度。",
+          "background": "Sam Altman 作為人工智慧領域的領軍人物，OpenAI 在推動 AI 技術發展上扮演重要角色。近年來，AI 技術的迅速進步引發了社會各界對其倫理與安全性的廣泛討論。特別是在 AI 影響力日益增強的背景下，對於其領導者的信任問題變得尤為重要。此事件發生在 Altman 面臨的外部壓力與監管挑戰之際，反映出科技領導者在公眾視野中的脆弱性。",
           "stakeholders": [
-            "美國國會",
-            "進步派民主黨",
-            "自由派",
-            "國家安全局",
-            "公民自由組織"
+            "Sam Altman",
+            "OpenAI",
+            "《紐約客》",
+            "科技界",
+            "公眾"
           ],
-          "analysis": "目前，國會內部對於是否延續或改革第702條存在分歧。進步派與自由派成員均認為現行法規過於寬鬆，應加強監管以保護公民隱私。然而，部分保守派則擔心改革可能削弱國家安全措施。若不進行改革，可能會導致監控行為的合法性受到質疑，進一步引發法律挑戰與社會不滿。"
+          "analysis": "Altman 的回應顯示他對於外界批評的敏感性，尤其是在面對攻擊與信任危機的雙重壓力下。對於 OpenAI 的支持者而言，Altman 的領導能力與信任度至關重要，任何負面報導都可能影響其公信力及公司形象。另一方面，批評者則可能利用此事件進一步質疑 AI 技術的發展方向及其潛在風險。未來，Altman 可能需要加強與公眾的溝通，以重建信任並應對外部挑戰。"
         },
-        "topic_priority_score": 10,
+        "topic_priority_score": 9,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -61,28 +61,30 @@
       {
         "category": "technology",
         "source_name": "TechCrunch",
-        "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
-        "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-        "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
-        "published": "Fri, 10 Apr 2026 20:27:52 +0000",
-        "updated": "Fri, 10 Apr 2026 20:27:52 +0000",
-        "published_at_utc": "2026-04-10T20:27:52+00:00",
-        "id": "https://techcrunch.com/?p=3111432",
-        "topic_type": "ai",
-        "relevance_score": 15,
+        "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
+        "link": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
+        "summary": "The deal is interesting for a number of reasons, including that SiFive's chip designs are based on RISC-V, not x86 or ARM.",
+        "published": "Sat, 11 Apr 2026 14:03:00 +0000",
+        "updated": "Sat, 11 Apr 2026 14:03:00 +0000",
+        "published_at_utc": "2026-04-11T14:03:00+00:00",
+        "id": "https://techcrunch.com/?p=3111572",
+        "topic_type": "chips",
+        "relevance_score": 13,
         "briefing": {
-          "news_focus": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
-          "news_focus_zh": "Anthropic 暫時禁止 OpenClaw 的創建者訪問其 AI 系統 Claude，此舉發生在 Claude 對 OpenClaw 用戶的定價變更之後。",
-          "background": "Anthropic 是一家專注於人工智慧的公司，其產品 Claude 是一款競爭激烈的 AI 語言模型。OpenClaw 是一個基於 Claude 的應用，隨著 Claude 的定價策略調整，OpenClaw 用戶的使用成本可能隨之上升。這一變化引發了對於合作夥伴關係及市場競爭的關注，特別是在 AI 應用日益普及的背景下。",
+          "news_focus": "The deal is interesting for a number of reasons, including that SiFive's chip designs are based on RISC-V, not x86 or ARM.",
+          "news_focus_zh": "SiFive在Nvidia的支持下，獲得了36.5億美元的估值，這一成就主要歸功於其基於RISC-V架構的開放式AI芯片設計，這一設計與傳統的x86或ARM架構不同。",
+          "background": "SiFive成立於2015年，專注於RISC-V架構的半導體設計，這是一種開放的指令集架構，逐漸受到業界重視。隨著AI技術的快速發展，對於高效能計算的需求日益增加，SiFive的開放式設計模式使其在市場中具備競爭優勢。Nvidia作為AI領域的領導者，對SiFive的投資顯示出其對RISC-V未來潛力的信心，並可能促進更廣泛的生態系統發展。",
           "stakeholders": [
-            "Anthropic",
-            "OpenClaw 創建者",
-            "OpenClaw 用戶"
+            "SiFive",
+            "Nvidia",
+            "AI芯片市場",
+            "Intel",
+            "ARM"
           ],
-          "analysis": "此次禁令可能反映了 Anthropic 對於其商業模式與合作夥伴的控制需求。對於 OpenClaw 的創建者而言，這一行動可能會限制其創新能力與市場競爭力。不同利益方的立場也可能出現分歧，Anthropic 可能希望透過這種方式來維護其品牌形象與市場定位，而 OpenClaw 創建者則可能對此禁令感到不滿，並考慮尋求其他合作機會或替代方案。"
+          "analysis": "SiFive的成功吸引了投資者的注意，尤其是在AI芯片市場日益競爭的背景下。Nvidia的支持不僅提升了SiFive的市場信譽，還可能促進RISC-V架構的普及，挑戰傳統x86和ARM的市場主導地位。對於硬體製造商來說，這一變化可能意味著更多的選擇和更具成本效益的解決方案。然而，傳統芯片巨頭如Intel和ARM可能會對這一趨勢感到威脅，並加強其技術創新以維持市場份額。"
         },
-        "topic_priority_score": 9,
-        "event_type": "regulation_action",
+        "topic_priority_score": 10,
+        "event_type": "partnership_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -90,30 +92,30 @@
       },
       {
         "category": "technology",
-        "source_name": "Ars Technica",
-        "title": "The Artemis II mission has ended. Where does NASA go from here?",
-        "link": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/",
-        "summary": "\"The work ahead is greater than the work behind us.\"",
-        "published": "Sat, 11 Apr 2026 03:24:21 +0000",
-        "updated": "Sat, 11 Apr 2026 03:24:21 +0000",
-        "published_at_utc": "2026-04-11T03:24:21+00:00",
-        "id": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/",
-        "topic_type": "space_tech",
-        "relevance_score": 14,
+        "source_name": "TechCrunch",
+        "title": "Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups",
+        "link": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
+        "summary": "Flipkart's ongoing expansion beyond major cities and heavy discounting is raising risks for India's quick commerce startups, analysts say.",
+        "published": "Sun, 12 Apr 2026 03:00:00 +0000",
+        "updated": "Sun, 12 Apr 2026 03:00:00 +0000",
+        "published_at_utc": "2026-04-12T03:00:00+00:00",
+        "id": "https://techcrunch.com/?p=3111566",
+        "topic_type": "general",
+        "relevance_score": 10,
         "briefing": {
-          "news_focus": "\"The work ahead is greater than the work behind us.\"",
-          "news_focus_zh": "NASA的阿耳忒弥斯II號任務已經結束，該任務是重返月球計畫的一部分，未來的工作將更加艱巨，NASA需面對接下來的挑戰與機遇。",
-          "background": "阿耳忒弥斯計畫旨在重返月球，並為人類未來的火星探索鋪路。阿耳忒弥斯II號是該計畫的關鍵任務之一，標誌著NASA在太空探索領域的重要進展。隨著技術的進步與國際合作的加強，NASA需要在資金、技術和國際合作上持續努力，以確保未來任務的成功。",
+          "news_focus": "Flipkart's ongoing expansion beyond major cities and heavy discounting is raising risks for India's quick commerce startups, analysts say.",
+          "news_focus_zh": "Walmart旗下的Flipkart正在擴展其業務至印度主要城市以外，並進行大幅折扣，這對印度的快速商務初創企業造成了壓力，分析師指出這一趨勢可能會增加市場競爭風險。",
+          "background": "印度的快速商務市場在過去幾年迅速增長，吸引了多家初創企業進入。隨著消費者對即時配送服務需求的上升，Flipkart和Amazon等大型電商平台也開始進一步擴展其業務範圍。這一過程中，Flipkart的擴張策略和價格競爭可能會對小型初創企業造成壓力，迫使它們在資金和市場份額上面臨更大的挑戰。",
           "stakeholders": [
-            "NASA",
-            "SpaceX",
-            "Blue Origin",
-            "歐洲航天局",
-            "日本宇宙航空研究開發機構"
+            "Flipkart",
+            "Amazon",
+            "印度快速商務初創企業",
+            "消費者",
+            "投資者"
           ],
-          "analysis": "阿耳忒弥斯II號的結束意味著NASA將面臨更高的期望與挑戰，特別是在資金與技術創新方面。商業航天公司如SpaceX和Blue Origin可能會成為重要的合作夥伴，推動技術發展與成本控制。同時，國際合作也將成為關鍵，尤其是與歐洲和日本的太空機構。各方利益可能會因資源分配與技術共享而產生緊張，未來的任務成功與否將影響全球太空探索的格局。"
+          "analysis": "Flipkart的擴張策略可能會使其在市場中獲得更大的份額，但也可能導致價格戰的加劇，對於資金有限的初創企業而言，這是一個不利的環境。這些初創企業可能需要尋求新的商業模式或合作夥伴，以應對來自大型平台的競爭。此外，消費者可能會受益於更低的價格和更快的服務，但市場的多樣性和創新可能會受到威脅。"
         },
-        "topic_priority_score": 4,
+        "topic_priority_score": 3,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -125,95 +127,100 @@
       {
         "category": "politics",
         "source_name": "Al Jazeera",
-        "title": "Iran war: What is happening on day 43 of the US-Iran conflict?",
-        "link": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
-        "summary": "Senior Iranian officials arrive in Islamabad for ceasefire talks with the United States.",
-        "published": "Sat, 11 Apr 2026 04:49:17 +0000",
-        "updated": "Sat, 11 Apr 2026 04:49:17 +0000",
-        "published_at_utc": "2026-04-11T04:49:17+00:00",
-        "id": "https://www.aljazeera.com/?t=1775864628",
-        "topic_type": "war_and_conflict",
-        "relevance_score": 22,
-        "briefing": {
-          "news_focus": "Senior Iranian officials arrive in Islamabad for ceasefire talks with the United States.",
-          "news_focus_zh": "伊朗高層官員抵達伊斯蘭堡，與美國進行停火談判，標誌著美伊衝突的第43天出現重大進展。",
-          "background": "自從美伊衝突升級以來，雙方的緊張關係持續加劇，導致地區安全形勢惡化。美國對伊朗的制裁政策和軍事行動使得雙方對立加深，而伊朗則透過支持代理人和軍事行動回應美方的壓力。隨著衝突的延續，國際社會對此事的關注度上升，特別是對於中東地區的穩定性影響。",
-          "stakeholders": [
-            "伊朗政府",
-            "美國政府",
-            "巴基斯坦政府",
-            "中東地區國家",
-            "國際社會"
-          ],
-          "analysis": "此次伊朗高層官員的訪問和停火談判顯示出雙方在衝突中尋求緩解的意願，這與之前的對抗局勢形成鮮明對比。此舉可能是因為雙方都意識到持續衝突將對各自的國內外政策造成更大壓力，尤其是經濟損失和國際形象的影響。未來的談判結果將直接影響伊朗的地區影響力及美國的外交策略，可能促使其他國家重新評估與伊朗的關係。"
-        },
-        "topic_priority_score": 11,
-        "event_type": "security_event",
-        "is_major_update": true,
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "Reiterated demand for Hasina extradition with India: Bangladesh Foreign Minister Rahman",
-        "link": "https://www.thehindu.com/news/international/reiterated-demand-for-hasina-extradition-with-india-bangladesh-foreign-minister-rahman/article70850188.ece",
-        "summary": "Bangladesh FM Khalilur Rahman says more meetings ahead of PM Tarique Rahman’s visit, outlooks regional cooperation amidst West Asia crisis",
-        "published": "Sat, 11 Apr 2026 13:13:51 +0530",
-        "updated": "Sat, 11 Apr 2026 13:13:51 +0530",
-        "published_at_utc": "2026-04-11T07:43:51+00:00",
-        "id": "article-70850188",
+        "title": "Pakistan urges US and Iran to uphold ceasefire after talks end",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/pakistan-urges-us-and-iran-to-uphold-ceasefire-after-talks-end?traffic_source=rss",
+        "summary": "Pakistani Foreign Minister Ishaq Dar has insisted the US and Iran must uphold their ceasefire agreement.",
+        "published": "Sun, 12 Apr 2026 05:25:00 +0000",
+        "updated": "Sun, 12 Apr 2026 05:25:00 +0000",
+        "published_at_utc": "2026-04-12T05:25:00+00:00",
+        "id": "https://www.aljazeera.com/?t=1775971063",
         "topic_type": "diplomacy",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "Bangladesh FM Khalilur Rahman says more meetings ahead of PM Tarique Rahman’s visit, outlooks regional cooperation amidst West Asia crisis",
-          "news_focus_zh": "孟加拉國外交部長哈利魯·拉赫曼重申要求印度引渡前總理塔里克·拉赫曼的訴求，並表示在塔里克訪問前將進行更多會議，強調區域合作的重要性，尤其在西亞危機背景下。",
-          "background": "孟加拉國與印度的外交關係歷史悠久，但在引渡問題上存在爭議。塔里克·拉赫曼是前總理哈西娜的主要政治對手，面臨多項指控。隨著西亞局勢的緊張，孟加拉國希望加強與印度的合作，以應對地區安全挑戰。這一背景下，拉赫曼的呼籲反映了孟加拉國在內政與外交上的複雜考量。",
+          "news_focus": "Pakistani Foreign Minister Ishaq Dar has insisted the US and Iran must uphold their ceasefire agreement.",
+          "news_focus_zh": "巴基斯坦外交部長伊沙克·達爾呼籲美國和伊朗遵守停火協議，強調兩國在近期會談後必須維持和平狀態。",
+          "background": "美國與伊朗之間的緊張關係由來已久，涉及核協議、地區影響力及軍事衝突等多重因素。巴基斯坦作為地區重要國家，對於維護中東穩定具有關鍵角色。近期的會談顯示出各方對於和平的渴望，但實際執行停火協議的挑戰仍然存在，特別是在雙方互信不足的背景下。",
           "stakeholders": [
-            "孟加拉國政府",
-            "印度政府",
-            "塔里克·拉赫曼",
-            "西亞國家",
+            "美國",
+            "伊朗",
+            "巴基斯坦",
+            "中東地區國家",
             "國際社會"
           ],
-          "analysis": "孟加拉國政府希望透過引渡塔里克來削弱其政治對手的影響力，這對哈西娜政府而言是維持政權穩定的關鍵。然而，印度在此問題上的立場可能受到其內部政治與外交考量的影響，特別是對於孟加拉國的穩定與雙邊關係的重視。這一要求可能引發孟加拉國內部的政治反彈，並影響兩國之間的合作動力，尤其是在地區安全與經濟合作方面。"
+          "analysis": "美國希望透過與伊朗的對話來降低地區緊張，促進穩定，這對於其在中東的戰略利益至關重要。伊朗則希望在國際社會中重建其合法性，並減少經濟制裁的影響。巴基斯坦的呼籲反映出其在地區安全中的中介角色，若停火協議無法持續，可能導致地區局勢惡化，影響巴基斯坦自身的安全與經濟利益。"
         },
         "topic_priority_score": 7,
         "event_type": "diplomatic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
+        "supporting_sources": [
+          "The Guardian World"
+        ],
+        "supporting_titles": [
+          "Penny Wong calls failed peace talks between US and Iran ‘disappointing’ and urges resumption"
+        ],
+        "supporting_links": [
+          "https://www.theguardian.com/australia-news/2026/apr/12/penny-wong-calls-failed-peace-talks-between-us-and-iran-disappointing-and-urges-resumption"
+        ],
+        "source_count": 2
       },
       {
         "category": "politics",
         "source_name": "The Guardian World",
-        "title": "Is Iran Trump’s Suez crisis, or just a passing thunderstorm?",
-        "link": "https://www.theguardian.com/world/2026/apr/11/iran-trump-suez-crisis-strait-of-hormuz",
-        "summary": "Britain’s standing in the world was never the same after its assault on Egypt in 1956. Now the US risks repeating history in the Middle East Middle East crisis – live updates Donald Trump’s addiction to framing every event in the most apocalyptic terms is what allows conservative commentators such as Mark Levin to praise him as “a once-in-a-century president”. But Trump cannot play out his entire presidency on a reckless high wire without eventually falling off – potentially taking America with him into a steep decline into the unknown. Continue reading...",
-        "published": "Sat, 11 Apr 2026 08:00:42 GMT",
-        "updated": "2026-04-11T08:00:42Z",
-        "published_at_utc": "2026-04-11T08:00:42+00:00",
-        "id": "https://www.theguardian.com/world/2026/apr/11/iran-trump-suez-crisis-strait-of-hormuz",
+        "title": "Peruvians to go to polls hoping to break cycle of instability",
+        "link": "https://www.theguardian.com/world/2026/apr/10/peru-election-polls-instability",
+        "summary": "Crime and corruption top voter concerns in highly unpredictable election with 35 candidates for president Peruvians go to the polls on Sunday hoping to break a cycle of instability that has produced nine presidents in a decade as well as surging violent crime , corruption scandals and overwhelming distrust in institutions and politicians. About 27 million people who are eligible to vote must choose between a record 35 presidential candidates as well as contenders for the bicameral congress – all from a ballot sheet measuring nearly half a metre, the longest in the country’s history. Continue reading...",
+        "published": "Sun, 12 Apr 2026 07:32:52 GMT",
+        "updated": "2026-04-12T07:32:52Z",
+        "published_at_utc": "2026-04-12T07:32:52+00:00",
+        "id": "https://www.theguardian.com/world/2026/apr/10/peru-election-polls-instability",
         "topic_type": "us_politics",
-        "relevance_score": 18,
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "Britain’s standing in the world was never the same after its assault on Egypt in 1956. Now the US risks repeating history in the Middle East Middle East crisis – live updates Donald Trump’s addiction to framing every event in the most apocalyptic terms is what allows conservative commentators such as Mark Levin to praise him as “a once-in-a-century president”. But Trump cannot play out his entire presidency on a reckless high wire without eventually falling off – potentially taking America with him into a steep decline into the unknown. Continue reading...",
-          "news_focus_zh": "本則新聞探討美國在中東危機中的角色，特別是特朗普政府如何可能重演英國在1956年蘇伊士運河危機中的行為，並分析其對美國國際地位的潛在影響。",
-          "background": "1956年的蘇伊士運河危機標誌著英國全球影響力的衰退，隨後美國逐漸成為中東的主要外部勢力。特朗普政府在中東的政策，尤其是對伊朗的強硬立場，可能使美國面臨類似的國際孤立與信任危機。隨著地緣政治的變化，特朗普的言辭與行動被視為對美國外交政策的重大挑戰，尤其是在全球多邊主義受到威脅的背景下。",
+          "news_focus": "Crime and corruption top voter concerns in highly unpredictable election with 35 candidates for president Peruvians go to the polls on Sunday hoping to break a cycle of instability that has produced nine presidents in a decade as well as surging violent crime , corruption scandals and overwhelming distrust in institutions and politicians. About 27 million people who are eligible to vote must choose between a record 35 presidential candidates as well as contenders for the bicameral congress – all from a ballot sheet measuring nearly half a metre, the longest in the country’s history. Continue reading...",
+          "news_focus_zh": "秘魯選民於週日投票，期望打破十年間九位總統的政治不穩定循環。選民面對的主要議題為犯罪與腐敗，選票上有創紀錄的35位總統候選人，選舉情勢極為不確定。",
+          "background": "秘魯近年來政治局勢動盪不安，頻繁的總統更迭與腐敗醜聞使得民眾對政治機構與官員產生深刻的不信任。隨著暴力犯罪率上升，選民在即將到來的選舉中面臨多樣化的候選人選擇，反映出對於變革的迫切需求。此次選舉的候選人數量創下歷史新高，顯示出政治多元化的趨勢，但同時也增加了選民的選擇困難。",
           "stakeholders": [
-            "美國政府",
-            "伊朗政府",
-            "中東盟友國家",
-            "國際社會",
-            "保守派評論員"
+            "秘魯選民",
+            "候選人",
+            "政治黨",
+            "國際觀察者",
+            "社會運動團體"
           ],
-          "analysis": "特朗普的強硬政策可能吸引部分保守派支持者，但也引發國際社會的擔憂，尤其是對中東穩定的潛在威脅。與此同時，民主黨及其他國際觀察者對特朗普的做法持批評態度，認為這可能導致美國在全球舞台上的地位下降。未來的發展將取決於特朗普是否能夠在強硬與外交之間找到平衡，否則美國可能面臨重大的外交與經濟後果。"
+          "analysis": "此次選舉的結果將對秘魯的政治未來產生深遠影響。選民對於犯罪與腐敗的關注可能促使候選人提出更具針對性的政策。然而，35位候選人中，缺乏明確的領導者可能導致選票分散，進一步延續政治不穩定。各候選人之間的立場差異也可能引發激烈的選舉競爭，影響未來政府的組成與政策方向。若無法形成穩定的執政聯盟，秘魯將面臨持續的政治危機。"
         },
         "topic_priority_score": 8,
-        "event_type": "political_signal",
+        "event_type": "election_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "politics",
+        "source_name": "SCMP World",
+        "title": "Does Iran’s wartime resilience offer any lessons for Taiwan?",
+        "link": "https://www.scmp.com/news/china/military/article/3349752/does-irans-wartime-resilience-offer-any-lessons-taiwan?utm_source=rss_feed",
+        "summary": "Iran’s ability to sustain missile and drone strikes despite heavy US-Israeli attacks has sharpened a debate in Taiwan: if the island’s air defences were degraded in the early stages of a conflict with mainland China, could it still keep fighting? The answer from officials, lawmakers and analysts was cautious but clear. They said the island could be resilient – but only if it shifted away from a missile-heavy defensive mindset towards a more integrated, cost-effective and survivable system. Even...",
+        "published": "Sun, 12 Apr 2026 04:00:11 +0000",
+        "updated": "Sun, 12 Apr 2026 04:00:11 +0000",
+        "published_at_utc": "2026-04-12T04:00:11+00:00",
+        "id": "https://www.scmp.com/news/china/military/article/3349752/does-irans-wartime-resilience-offer-any-lessons-taiwan?utm_source=rss_feed",
+        "topic_type": "war_and_conflict",
+        "relevance_score": 20,
+        "briefing": {
+          "news_focus": "Iran’s ability to sustain missile and drone strikes despite heavy US-Israeli attacks has sharpened a debate in Taiwan: if the island’s air defences were degraded in the early stages of a conflict with mainland China, could it still keep fighting? The answer from officials, lawmakers and analysts was cautious but clear. They said the island could be resilient – but only if it shifted away from a missile-heavy defensive mindset towards a more integrated, cost-effective and survivable system. Even...",
+          "news_focus_zh": "伊朗在面對美國和以色列的攻擊時，展現出持續抗戰的能力，這引發台灣對於在與中國大陸衝突中，若空防系統受損後是否仍能持續作戰的討論。台灣官員和分析師認為，台灣需從重型導彈防禦轉向更具整合性和成本效益的防禦系統，以提升韌性。",
+          "background": "台灣的防衛策略長期以來依賴於重型導彈和空中優勢，然而，隨著中國大陸軍事能力的增強，這種策略面臨挑戰。伊朗的抗戰經驗提供了一個反思的契機，促使台灣重新評估其防禦架構。台灣必須考慮如何在資源有限的情況下，提升防禦能力，並確保在衝突初期能夠持續作戰。",
+          "stakeholders": [
+            "台灣政府",
+            "中國大陸",
+            "美國",
+            "軍事分析師",
+            "國際社會"
+          ],
+          "analysis": "台灣的官員和分析師對於伊朗的韌性表示謹慎樂觀，認為台灣若能改變防禦思維，將有助於提升其抵抗力。然而，這也引發了對於資源分配和軍事策略的討論。部分人士擔心，若不及時調整，台灣可能在初期衝突中遭受重創，影響長期抗戰能力。對於中國大陸而言，台灣的防禦轉型可能會影響其軍事計畫與策略。"
+        },
+        "topic_priority_score": 11,
+        "event_type": "security_event",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -223,32 +230,31 @@
     "economy": [
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "US inflation soars in March as war on Iran drives economy into uncertainty",
-        "link": "https://www.theguardian.com/business/2026/apr/10/march-inflation-soars-iran-war-economy",
-        "summary": "Prices were up 3.3% over the year, adding to the unpredictability that first came with Trump tariffs Sign up for the Breaking News US email to get newsletter alerts in your inbox US inflation soared in March amid the US-Israel war with Iran, with prices up 0.9% compared with last month and 3.3% over the year, according to new data released on Friday. The spike in the consumer price index (CPI), which measures the price of a basket of goods and services, is the largest in nearly two years and the first official measure of how the conflict has affected US consumer prices, particularly as Iran blocked the strait of Hormuz, through which a fifth of the world’s oil and gas would typically pass. Continue reading...",
-        "published": "Fri, 10 Apr 2026 12:37:24 GMT",
-        "updated": "2026-04-10T12:37:24Z",
-        "published_at_utc": "2026-04-10T12:37:24+00:00",
-        "id": "https://www.theguardian.com/business/2026/apr/10/march-inflation-soars-iran-war-economy",
+        "source_name": "BBC Business",
+        "title": "Soaring pump prices drive US inflation to highest level in almost two years",
+        "link": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss",
+        "summary": "A surge in prices at the pump due to the Iran war has pushed the inflation rate to 3.3%.",
+        "published": "Fri, 10 Apr 2026 16:20:58 GMT",
+        "updated": "Fri, 10 Apr 2026 16:20:58 GMT",
+        "published_at_utc": "2026-04-10T16:20:58+00:00",
+        "id": "https://www.bbc.com/news/articles/cde56g80xp5o#1",
         "topic_type": "inflation",
-        "relevance_score": 25,
+        "relevance_score": 15,
         "briefing": {
-          "news_focus": "Prices were up 3.3% over the year, adding to the unpredictability that first came with Trump tariffs Sign up for the Breaking News US email to get newsletter alerts in your inbox US inflation soared in March amid the US-Israel war with Iran, with prices up 0.9% compared with last month and 3.3% over the year, according to new data released on Friday. The spike in the consumer price index (CPI), which measures the price of a basket of goods and services, is the largest in nearly two years and the first official measure of how the conflict has affected US consumer prices, particularly as Iran blocked the strait of Hormuz, through which a fifth of the world’s oil and gas would typically pass. Continue reading...",
-          "news_focus_zh": "美國3月通脹率上升3.3%，主要受到美以與伊朗衝突影響，消費者物價指數(CPI)較上月上漲0.9%，為近兩年來最大增幅，顯示戰爭對美國經濟的影響。",
-          "background": "美國通脹率在過去幾年因特朗普政府的關稅政策而變得不穩定，隨著國際局勢的變化，特別是美以與伊朗的衝突，市場對未來經濟的預測愈加困難。伊朗封鎖霍爾木茲海峽影響全球能源供應，進一步加劇了價格上漲的壓力，尤其是在能源和商品市場上。",
+          "news_focus": "A surge in prices at the pump due to the Iran war has pushed the inflation rate to 3.3%.",
+          "news_focus_zh": "由於伊朗戰爭導致油價飆升，美國的通脹率上升至近兩年來的最高水平3.3%。",
+          "background": "美國的通脹率受多重因素影響，其中能源價格的波動對整體經濟有直接影響。近期伊朗戰爭的爆發，導致全球油價上漲，進一步加劇了美國的通脹壓力。過去幾年，隨著疫情後經濟復甦，通脹已成為美國經濟的重要議題，政府和美聯儲也因此調整了相應的貨幣政策。",
           "stakeholders": [
-            "美國政府",
-            "伊朗",
-            "以色列",
             "美國消費者",
-            "能源企業"
+            "美國企業",
+            "美國政府",
+            "美聯儲",
+            "國際油市"
           ],
-          "analysis": "此次通脹上升標誌著戰爭對美國經濟的直接影響，特別是在能源價格上升的背景下，消費者面臨更高的生活成本。這一變化可能促使美國聯邦儲備系統重新考量貨幣政策，進一步加息以應對通脹壓力。企業和消費者的信心可能受到影響，導致消費支出減少，進而影響經濟增長。各方需密切關注局勢發展及其對全球市場的潛在影響。"
+          "analysis": "此次油價上漲對美國消費者和企業造成了直接影響，增加了生活成本，可能導致消費者支出減少，進而影響經濟增長。政府面臨的挑戰在於如何平衡通脹壓力與經濟增長，可能需要重新評估貨幣政策。不同利益方如消費者、企業和政府之間的立場也可能出現分歧，消費者希望降低油價，而企業則可能因成本上升而要求調整價格。"
         },
         "topic_priority_score": 9,
         "event_type": "inflation_data",
-        "is_major_update": true,
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -257,30 +263,30 @@
       {
         "category": "economy",
         "source_name": "Reuters",
-        "title": "Wall St Week Ahead: US earnings season set to test war-rattled stocks - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU3F6eVR6REJERmVjVUZ4bGlMQWU2WDg1Yzg2eVY3ZlBLMWRKX3hIeHBLQndtNHFhdG10b2hraTdqX2JoRWR1Z3lGNmY3NmtHQW1zNkNESDBWUWlnbnZPQ1V6Wk5ZTmpZT0FSRnhkeXlKUTZvVS0xdDdqYXYtX0ZOQVFHRWJ5OGktRjdJQzF1TFEwLXhKT0xpYlFkaFAyZW5YejJLVVJ1UXpmZ04yazY4?oc=5",
-        "summary": "Wall St Week Ahead: US earnings season set to test war-rattled stocks Reuters",
-        "published": "Fri, 10 Apr 2026 23:39:52 GMT",
-        "updated": "Fri, 10 Apr 2026 23:39:52 GMT",
-        "published_at_utc": "2026-04-10T23:39:52+00:00",
-        "id": "CBMirwFBVV95cUxOU3F6eVR6REJERmVjVUZ4bGlMQWU2WDg1Yzg2eVY3ZlBLMWRKX3hIeHBLQndtNHFhdG10b2hraTdqX2JoRWR1Z3lGNmY3NmtHQW1zNkNESDBWUWlnbnZPQ1V6Wk5ZTmpZT0FSRnhkeXlKUTZvVS0xdDdqYXYtX0ZOQVFHRWJ5OGktRjdJQzF1TFEwLXhKT0xpYlFkaFAyZW5YejJLVVJ1UXpmZ04yazY4",
-        "topic_type": "corporate_earnings",
-        "relevance_score": 20,
+        "title": "Saudi Arabia restores full capacity on East-West oil pipeline to 7 million bpd after attacks - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMVJ3VWQ0ZUJKRy14QmdRY19vakdRQklhRVhIeW9fSEVTYnZnelBlQ3hfWkQ2YldGSDdXTnJiNWt1M0UybWVGaWtENGw1eTVwb3JxTHFVRGRURl9teWxST18tNDlIYk1Qb055ZktRUlhkUGZ0ZzRZZk1YclJuV3JjLTE3WVd2YU84Vjg1d0FuTVNZamprSGxSN3V3MUFMaUhrWjZ6dkhvb0ZISnBKOThfSUFDeXNXSTBmZmlLUFctYjVOY3Bhdnl6ZUFn?oc=5",
+        "summary": "Saudi Arabia restores full capacity on East-West oil pipeline to 7 million bpd after attacks Reuters",
+        "published": "Sun, 12 Apr 2026 07:16:43 GMT",
+        "updated": "Sun, 12 Apr 2026 07:16:43 GMT",
+        "published_at_utc": "2026-04-12T07:16:43+00:00",
+        "id": "CBMiygFBVV95cUxQMVJ3VWQ0ZUJKRy14QmdRY19vakdRQklhRVhIeW9fSEVTYnZnelBlQ3hfWkQ2YldGSDdXTnJiNWt1M0UybWVGaWtENGw1eTVwb3JxTHFVRGRURl9teWxST18tNDlIYk1Qb055ZktRUlhkUGZ0ZzRZZk1YclJuV3JjLTE3WVd2YU84Vjg1d0FuTVNZamprSGxSN3V3MUFMaUhrWjZ6dkhvb0ZISnBKOThfSUFDeXNXSTBmZmlLUFctYjVOY3Bhdnl6ZUFn",
+        "topic_type": "general",
+        "relevance_score": 14,
         "briefing": {
-          "news_focus": "Wall St Week Ahead: US earnings season set to test war-rattled stocks Reuters",
-          "news_focus_zh": "美國企業財報季即將來臨，市場對於受到戰爭影響的股票表現充滿不確定性，投資者將密切關注企業的財務表現及其對未來展望的指引。",
-          "background": "隨著全球地緣政治緊張局勢加劇，特別是中東和烏克蘭的衝突，市場情緒受到影響。投資者對於企業在這樣的環境下的盈利能力表示擔憂。過去幾個季度，許多企業已經面臨供應鏈問題和成本上升的挑戰，這次財報季將成為評估企業韌性的重要指標。",
+          "news_focus": "Saudi Arabia restores full capacity on East-West oil pipeline to 7 million bpd after attacks Reuters",
+          "news_focus_zh": "沙烏地阿拉伯在遭受攻擊後，已恢復東西向石油管道的全產能，達到每日700萬桶的運輸能力，顯示其在能源供應上的韌性。",
+          "background": "沙烏地阿拉伯的東西向石油管道是全球重要的能源運輸通道，連接紅海與波斯灣，對全球石油市場具有關鍵影響。近期的攻擊事件對該管道的運行造成了干擾，促使沙國加強安全措施並迅速恢復產能，以維持其在全球能源供應中的穩定性和影響力。",
           "stakeholders": [
-            "投資者",
-            "企業管理層",
-            "市場分析師",
-            "政府經濟政策制定者",
-            "國際貿易夥伴"
+            "沙烏地阿拉伯政府",
+            "全球石油市場",
+            "中國",
+            "美國",
+            "中東地區的其他產油國"
           ],
-          "analysis": "企業的財報將成為市場情緒的風向標，若多數企業表現不佳，可能加劇投資者的恐慌情緒，進一步影響股市走勢。另一方面，若有企業能夠超預期，則可能提振市場信心。投資者、分析師及企業管理層之間的利益關係將在此期間受到考驗，尤其是在面對不確定的經濟環境時。"
+          "analysis": "沙烏地阿拉伯恢復管道全產能的舉措，旨在穩定全球油價並重建市場信心。此舉對於依賴沙國石油的國家，如中國和美國，具有重要意義。然而，地區安全形勢仍然不穩定，可能影響未來的供應鏈穩定性。攻擊事件的背後，可能反映出地緣政治緊張局勢，未來各方可能會在安全與能源政策上進行更深層次的角力。"
         },
-        "topic_priority_score": 5,
-        "event_type": "corporate_results",
+        "topic_priority_score": 3,
+        "event_type": "energy_supply_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -288,31 +294,31 @@
       },
       {
         "category": "economy",
-        "source_name": "Reuters",
-        "title": "Wall St ends mixed, notches weekly gains as investors parse Middle East negotiations - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM1RRSGMzRVhRYmd4LWhYN0FQcDg0VW1xSG9hY2haanFESW8xaGtrcXdhNEh1LUR4WEtiOGRXMm1vY1RSaHJlUW54QkdJV1RmUTlWWTg4TV8wajJ2aXB1ZzM5eW8zaHQ3bHdNNE5kVWpzbDlyMmFPRDYzT0NwRnJzckZHQkFJVWRBazh5ZXBQcUd6cnYwMGlWVjN0YVFkMGZOQnhSZFM4Yw?oc=5",
-        "summary": "Wall St ends mixed, notches weekly gains as investors parse Middle East negotiations Reuters",
-        "published": "Fri, 10 Apr 2026 23:15:11 GMT",
-        "updated": "Fri, 10 Apr 2026 23:15:11 GMT",
-        "published_at_utc": "2026-04-10T23:15:11+00:00",
-        "id": "CBMipwFBVV95cUxPM1RRSGMzRVhRYmd4LWhYN0FQcDg0VW1xSG9hY2haanFESW8xaGtrcXdhNEh1LUR4WEtiOGRXMm1vY1RSaHJlUW54QkdJV1RmUTlWWTg4TV8wajJ2aXB1ZzM5eW8zaHQ3bHdNNE5kVWpzbDlyMmFPRDYzT0NwRnJzckZHQkFJVWRBazh5ZXBQcUd6cnYwMGlWVjN0YVFkMGZOQnhSZFM4Yw",
-        "topic_type": "markets",
-        "relevance_score": 19,
+        "source_name": "Nikkei Asia",
+        "title": "Trump's latest global tariffs challenged in federal court Friday",
+        "link": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/trump-s-latest-global-tariffs-challenged-in-federal-court-friday",
+        "summary": "",
+        "published": "",
+        "updated": "",
+        "published_at_utc": "",
+        "id": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/trump-s-latest-global-tariffs-challenged-in-federal-court-friday",
+        "topic_type": "trade_wars",
+        "relevance_score": 13,
         "briefing": {
-          "news_focus": "Wall St ends mixed, notches weekly gains as investors parse Middle East negotiations Reuters",
-          "news_focus_zh": "華爾街股市表現參差不齊，儘管如此，投資者仍在中東談判的背景下獲得了每週的漲幅。",
-          "background": "近期中東地區的政治局勢對全球經濟產生了深遠影響，特別是能源市場。投資者對於中東談判的進展持謹慎樂觀態度，這影響了股市的波動性。美國股市在此背景下出現漲跌不一的情況，反映出市場對於地緣政治風險的敏感性，以及對未來經濟前景的不同看法。",
+          "news_focus": "Trump's latest global tariffs challenged in federal court Friday",
+          "news_focus_zh": "美國前總統特朗普的最新全球關稅政策在聯邦法院遭到挑戰，這可能影響未來的貿易政策與國際經濟關係。",
+          "background": "特朗普在任內推動的關稅政策旨在保護美國本土產業，特別是鋼鐵和鋁業，並對中國等國施加經濟壓力。這些政策引發了國際貿易緊張，並導致其他國家對美國商品的報復性關稅。隨著特朗普卸任，這些關稅的法律基礎及其持續性成為法律挑戰的焦點，反映出美國內部對貿易政策的分歧。",
           "stakeholders": [
-            "投資者",
-            "能源公司",
-            "科技公司",
-            "政府機構",
-            "金融分析師"
+            "美國政府",
+            "貿易企業",
+            "消費者",
+            "國際貿易夥伴",
+            "法律界"
           ],
-          "analysis": "在此事件中，投資者的情緒受到中東局勢的影響，部分企業可能因為油價波動而受益或受損。對於能源股的投資者來說，談判的進展可能帶來利好消息，而科技股則可能因為市場不確定性而受到壓力。此外，市場的混合表現顯示出不同投資者對未來經濟形勢的預期存在分歧，這可能導致短期內的市場波動加劇。"
+          "analysis": "此次法律挑戰可能來自於希望推翻或調整特朗普關稅政策的企業和貿易團體，他們認為這些關稅限制了市場競爭，增加了消費者成本。另一方面，支持這些關稅的利益方則認為，這是保護美國工業的重要措施。法院的裁決將影響未來的貿易政策走向，並可能改變美國與其他國家的經濟關係，尤其是在全球供應鏈重組的背景下。"
         },
-        "topic_priority_score": 4,
-        "event_type": "market_repricing",
+        "topic_priority_score": 9,
+        "event_type": "macro_signal",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -323,203 +329,161 @@
   "further_reading": {
     "technology": [
       {
-        "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
+        "title": "Your article about AI doesn’t need AI art",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
         "source_name": "The Verge",
-        "published_at_utc": "2026-04-10T20:16:57+00:00",
-        "relevance_score": 15
+        "published_at_utc": "2026-04-11T15:00:00+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "AI models are terrible at betting on soccer—especially xAI Grok",
+        "link": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-04-11T11:15:17+00:00",
+        "relevance_score": 13
       },
       {
         "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
         "link": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
         "source_name": "Wired",
         "published_at_utc": "2026-04-10T18:08:37+00:00",
-        "relevance_score": 15
+        "relevance_score": 11
       },
       {
         "title": "Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home",
         "link": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
         "source_name": "Wired",
         "published_at_utc": "2026-04-10T16:32:19+00:00",
-        "relevance_score": 15
+        "relevance_score": 11
+      },
+      {
+        "title": "The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving",
+        "link": "https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-04-11T23:22:15+00:00",
+        "relevance_score": 10
+      },
+      {
+        "title": "AMC will stream ‘The Audacity’ premiere in 21 parts on TikTok",
+        "link": "https://techcrunch.com/2026/04/11/amc-will-stream-the-audacity-premiere-in-21-parts-on-tiktok/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-11T20:32:23+00:00",
+        "relevance_score": 10
+      },
+      {
+        "title": "How the Internet Broke Everyone’s Bullshit Detectors",
+        "link": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-04-11T09:30:00+00:00",
+        "relevance_score": 10
       },
       {
         "title": "Chinese entrepreneurs should go global before they go viral",
         "link": "https://restofworld.org/2026/meta-manus-deal/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
         "source_name": "Rest of World",
         "published_at_utc": "2026-04-10T12:20:10+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-        "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-10T16:41:34+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "\"Uncanny Valley\": OpenAI and Musk Fight Again; DOJ Mishandles Voter Data; Artemis II Comes Home",
-        "link": "https://www.wired.com/story/uncanny-valley-podcast-openai-musk-fight-doj-mishandles-voter-data-artemis-ii-comes-home/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-04-10T16:21:27+00:00",
-        "relevance_score": 13
+        "relevance_score": 10
       },
       {
         "title": "OpenAI pauses UK data centre deal over energy costs and regulation",
         "link": "https://www.bbc.com/news/articles/clyd032ej70o?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC Technology",
         "published_at_utc": "2026-04-09T20:36:41+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission",
-        "link": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-11T00:44:17+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "How to watch NASA’s Artemis II splash back down to Earth",
-        "link": "https://techcrunch.com/2026/04/10/how-to-watch-nasa-artemis-ii-landing/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-10T21:18:09+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "Now the FAA says gamers are the answer to its air traffic controller shortage",
-        "link": "https://www.theverge.com/games/910434/now-the-faa-says-gamers-are-the-answer-to-its-air-traffic-controller-shortage",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-04-10T20:50:51+00:00",
         "relevance_score": 10
+      },
+      {
+        "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+        "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-10T16:41:34+00:00",
+        "relevance_score": 9
       }
     ],
     "politics": [
       {
-        "title": "Israel-Iran war LIVE updates: Pakistan Foreign Minister hopes U.S., Iran will engage constructively in peace talks",
-        "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-11-2026/article70850012.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-11T07:41:50+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "North Korean leader Kim backs China’s push for multipolar world in talks with Foreign Minister",
-        "link": "https://www.thehindu.com/news/international/north-korean-leader-kim-backs-chinas-push-for-multipolar-world-in-talks-with-foreign-minister/article70850045.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-11T05:39:25+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
-        "link": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-11T07:51:14+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "China, Russia rally behind Cuba as US squeezes Havana in deepening crisis",
-        "link": "https://www.scmp.com/news/china/article/3349715/china-russia-rally-behind-cuba-us-squeezes-havana-deepening-crisis?utm_source=rss_feed",
+        "title": "Trump’s 80th birthday bash to feature UFC fight at White House",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3349785/trumps-80th-birthday-bash-feature-ufc-fight-white-house?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-04-10T20:30:44+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Israeli drone attack kills Palestinians near Gaza mosque",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/israeli-drone-attack-kills-palestinians-near-gaza-mosque?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-11T07:51:08+00:00",
+        "published_at_utc": "2026-04-12T07:37:29+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Trump congratulates returned Artemis astronauts, says ‘next step, Mars!’",
-        "link": "https://www.thehindu.com/news/international/trump-congratulates-returned-artemis-astronauts-says-next-step-mars/article70850202.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-11T07:13:14+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Who is Viktor Orbán, Hungarian PM fighting to stay in power after 16 years?",
-        "link": "https://www.bbc.com/news/articles/cd6l3ywpwg2o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC World",
-        "published_at_utc": "2026-04-11T04:43:08+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Trump says U.S. will have Strait of Hormuz 'open fairly soon'",
-        "link": "https://www.thehindu.com/news/international/trump-says-us-will-have-strait-of-hormuz-open-fairly-soon/article70849173.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-11T04:33:38+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "US and Iran set for first talks since Middle East strikes began 6 weeks ago",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3349706/us-iran-direct-talks-hours-away-first-strikes-began-6-weeks-ago?utm_source=rss_feed",
+        "title": "Singapore drama sparks Malaysian ire over scam hub depiction",
+        "link": "https://www.scmp.com/news/asia/southeast-asia/article/3349771/singapore-drama-sparks-malaysian-ire-over-scam-hub-depiction?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-04-11T03:46:05+00:00",
+        "published_at_utc": "2026-04-12T04:13:07+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Frontrunner for California governor denies sexual assault allegations",
-        "link": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC World",
-        "published_at_utc": "2026-04-11T03:13:10+00:00",
+        "title": "Doubts about Trump strain Southeast Asia’s US-China balancing act",
+        "link": "https://www.scmp.com/week-asia/opinion/article/3349676/doubts-about-trump-strain-southeast-asias-us-china-balancing-act?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-12T04:00:08+00:00",
         "relevance_score": 18
+      },
+      {
+        "title": "Pope Leo slams ‘delusion of omnipotence’ stoking US-Israeli war on Iran",
+        "link": "https://www.scmp.com/news/world/europe/article/3349769/pope-leo-slams-delusion-omnipotence-stoking-us-israeli-war-iran?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-12T03:25:35+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Trump vows US ‘economic might’ if Orban wins vote",
+        "link": "https://www.taipeitimes.com/News/world/archives/2026/04/12/2003855468",
+        "source_name": "Taipei Times",
+        "published_at_utc": "2026-04-12T00:00:00+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "London police arrest 523 people at protest over Palestine Action ban",
+        "link": "https://www.thehindu.com/news/international/london-police-arrest-protesters-over-palestine-action-ban/article70852334.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-11T22:53:00+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "U.S. official denies report Washington agreed to unfreeze Iran assets",
+        "link": "https://www.thehindu.com/news/international/us-official-denies-report-washington-agreed-to-unfreeze-iran-assets/article70850767.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-11T12:13:12+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Benin holds presidential election four months after failed coup",
+        "link": "https://www.theguardian.com/world/2026/apr/12/benin-presidential-election",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-12T07:00:11+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "Rehabilitation project open to all 2019 Hong Kong protest arrestees: Chris Tang",
+        "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3349779/rehabilitation-project-open-all-2019-hong-kong-protest-arrestees-chris-tang?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-12T06:12:57+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
+        "link": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-04-12T04:20:37+00:00",
+        "relevance_score": 16
       }
     ],
     "economy": [
+      {
+        "title": "China’s battery, solar bosses urge top-down rules as overcapacity clouds industry outlook",
+        "link": "https://www.scmp.com/business/climate-and-energy/article/3349627/chinas-battery-solar-bosses-urge-top-down-rules-overcapacity-clouds-industry-outlook?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-12T06:00:15+00:00",
+        "relevance_score": 14
+      },
       {
         "title": "Student loan interest could rise despite cap on rates",
         "link": "https://www.theguardian.com/money/2026/apr/11/student-loan-interest-rise-despite-uk-cap-rates-inflation",
         "source_name": "The Guardian Business",
         "published_at_utc": "2026-04-11T08:03:49+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Soaring pump prices drive US inflation to highest level in almost two years",
-        "link": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-04-10T16:20:58+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Fed will need to explain why current inflation jump differs from 2022 surge - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcmExcEl6eGstLS10SFh5ZlVkemtlcThVZF9vS2UtX3hlZC04VGI4X1JHaFBteG12MkJfV3hqTzZOZE1VQklhQy1NckxfYVhyU3lhVDZrOTVIQmFiX0RpTm1Bck91WXV4cTUyTGVkTzFHek14SHpPb2lFUDdNUGNyNGFhdkg0RVFRcHBWWVo0bTlfM2dSbk5FRnpKUkw5Uk9VY3QxWm1RRHJ2aU9kaEJjckFn?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-10T18:08:39+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "VIEW March inflation report, first to show impact of war, is in line with expectations - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUkxUkx3ekNXYUNxUGJyN21aV0ZmWWZQZXY1akRrZmhVSUVmMDRsb2duRW5fWGhJZXpMQkJCWGFGS3Q1T1BwU1hoQkdGV21yRUxaS29UWWI3Q3NSdmF6SWtSb0pWY3lMUmVwMkRJWVh6RjVyRHhLTzcwbzdBZDByRmRhTUtfWnUxRlhfRVJIQkI2Wm5RSGlaXy15WkYyWXYyR1ZHUUFTZTdyMGNxVVlYV19wNlZ2eWc3SHNkMw?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-10T13:47:44+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Citic tops Asia-Pacific banking fees as mainland China and Hong Kong IPOs surge",
-        "link": "https://www.scmp.com/business/banking-finance/article/3349487/citic-tops-asia-pacific-banking-fees-mainland-china-and-hong-kong-ipos-surge?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-09T09:00:09+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "China stocks advance as ceasefire hopes lift Shanghai and Hong Kong benchmarks",
-        "link": "https://www.scmp.com/business/china-business/article/3349590/china-stocks-surge-shanghai-and-hong-kong-benchmarks-reclaim-key-levels?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-10T02:32:16+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Solid-state battery firms in China and US line up IPOs as oil prices lift EV appeal",
-        "link": "https://www.scmp.com/business/china-business/article/3349560/solid-state-battery-firms-china-and-us-line-ipos-oil-prices-lift-ev-appeal?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-10T01:30:17+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Trump's latest global tariffs challenged in federal court Friday",
-        "link": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/trump-s-latest-global-tariffs-challenged-in-federal-court-friday",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
         "relevance_score": 13
       },
       {
@@ -535,6 +499,48 @@
         "source_name": "Nikkei Asia",
         "published_at_utc": "",
         "relevance_score": 13
+      },
+      {
+        "title": "British Steel 'needs nationalising by the summer'",
+        "link": "https://www.bbc.com/news/articles/cddq5zqvvejo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-04-12T06:25:11+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "‘We’re trapped’: despair for sellers as Iran war knocks confidence in UK housing market",
+        "link": "https://www.theguardian.com/money/2026/apr/12/trapped-despair-sellers-as-iran-war-knocks-uk-housing-market",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-12T06:00:09+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "Hyundai spearheads foreign EV comeback push in China with Ioniq brand",
+        "link": "https://www.scmp.com/business/china-business/article/3349776/hyundai-spearheads-foreign-ev-comeback-push-china-ioniq-brand?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-12T05:20:54+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "‘A house of cards’: how did Wireless festival get it so wrong on Kanye West?",
+        "link": "https://www.theguardian.com/news/ng-interactive/2026/apr/12/a-house-of-cards-how-did-wireless-festival-get-it-so-wrong-on-kanye-west",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-12T05:00:08+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "Low-tax Texas opens London office to lure jobs and investment",
+        "link": "https://www.theguardian.com/business/2026/apr/12/texas-opens-london-office-lure-jobs-investment-low-tax-subsidies",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-12T05:00:08+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "South Korea close to securing oil supplies from Kazakhstan, minister says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZjJNQ3l0ejBCdzRkVHVoMk5YMjZFdGVMSy15SUtZU1B0VmhSUXpka3pPWGZhMWh0ckJIcnkxLTVuRnllZ1kwcm55OE5kZFlyd0JBWEJ6ZjNwTUs1d2Z3STRIQlJ4bm5vQmV0R3BQeE5MNzFyUEYyVFgzWUNVUkNVZXNUbzI2LVRLY29IcUxLSWQ2TlVhaUh3OVMtaWwyU2lFazZkOFFzNFVHV2hTT0RxVVlzdl9nUGc?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-12T04:48:00+00:00",
+        "relevance_score": 12
       }
     ]
   },
@@ -544,5 +550,5 @@
     "failed": 0,
     "total": 9
   },
-  "theme_of_day": "今日新聞的整體脈絡圍繞中東衝突及其對美國內政與經濟的影響。政治版面中美伊衝突的持續發展，直接影響了經濟版面上美國通脹的上升與市場的不確定性，而科技版面則透過國會對監控法案的討論，反映出在當前國際局勢下對個人隱私與安全的重新思考。各版面之間的相互關聯，突顯出科技、政治與經濟在當前全球動盪中的複雜交織。"
+  "theme_of_day": "今日新聞的主軸圍繞著地緣政治與經濟的相互影響，特別是中東局勢對全球市場的衝擊。伊朗與美國的緊張關係不僅影響了油價，進而推高美國通脹，也引發了對台灣防禦策略的深思。同時，科技領域的發展如SiFive的成功與Altman的回應，反映出在不穩定的政治環境中，企業如何調整策略以應對市場競爭與信任危機。"
 }
