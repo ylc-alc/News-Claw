@@ -2,23 +2,6 @@
   "stories": [
     {
       "title_tokens": [
-        "study",
-        "tanker",
-        "diplomacy",
-        "oil",
-        "cubans",
-        "signs",
-        "talks",
-        "progress",
-        "secret"
-      ],
-      "category": "politics",
-      "topic_type": "eu_policy",
-      "last_seen_date": "2026-04-05",
-      "times_seen": 3
-    },
-    {
-      "title_tokens": [
         "market",
         "kills",
         "attack",
@@ -30,70 +13,6 @@
       "topic_type": "war_and_conflict",
       "last_seen_date": "2026-04-06",
       "times_seen": 2
-    },
-    {
-      "title_tokens": [
-        "artemis",
-        "mission",
-        "engineering",
-        "moon",
-        "feat",
-        "trajectory"
-      ],
-      "category": "technology",
-      "topic_type": "space_tech",
-      "last_seen_date": "2026-04-05",
-      "times_seen": 2
-    },
-    {
-      "title_tokens": [
-        "neuter",
-        "colorados",
-        "landmark",
-        "righttorepair",
-        "companies",
-        "tech",
-        "law",
-        "trying"
-      ],
-      "category": "technology",
-      "topic_type": "platform_regulation",
-      "last_seen_date": "2026-04-05",
-      "times_seen": 1
-    },
-    {
-      "title_tokens": [
-        "combinator",
-        "ways",
-        "embattled",
-        "has",
-        "delve",
-        "startup",
-        "parted"
-      ],
-      "category": "technology",
-      "topic_type": "general",
-      "last_seen_date": "2026-04-05",
-      "times_seen": 1
-    },
-    {
-      "title_tokens": [
-        "strikes",
-        "risk",
-        "araghchi",
-        "contamination",
-        "power",
-        "usisraeli",
-        "bushehr",
-        "plant",
-        "iran",
-        "warns",
-        "nuclear"
-      ],
-      "category": "politics",
-      "topic_type": "diplomacy",
-      "last_seen_date": "2026-04-05",
-      "times_seen": 1
     },
     {
       "title_tokens": [
@@ -109,61 +28,6 @@
       "topic_type": "us_politics",
       "last_seen_date": "2026-04-11",
       "times_seen": 3
-    },
-    {
-      "title_tokens": [
-        "kong",
-        "impact",
-        "home",
-        "england",
-        "mainland",
-        "laws",
-        "changes",
-        "hong",
-        "how",
-        "rental",
-        "investors"
-      ],
-      "category": "economy",
-      "topic_type": "markets",
-      "last_seen_date": "2026-04-05",
-      "times_seen": 1
-    },
-    {
-      "title_tokens": [
-        "gas",
-        "energy",
-        "oil",
-        "drop",
-        "reuters",
-        "russian",
-        "security",
-        "boost",
-        "slovak",
-        "sanctions"
-      ],
-      "category": "economy",
-      "topic_type": "sanctions",
-      "last_seen_date": "2026-04-05",
-      "times_seen": 1
-    },
-    {
-      "title_tokens": [
-        "energy",
-        "prices",
-        "egypt",
-        "electricity",
-        "raises",
-        "households",
-        "reuters",
-        "higheruse",
-        "businesses",
-        "crisis"
-      ],
-      "category": "economy",
-      "topic_type": "energy_markets",
-      "last_seen_date": "2026-04-05",
-      "times_seen": 1
     },
     {
       "title_tokens": [
@@ -540,8 +404,8 @@
       ],
       "category": "politics",
       "topic_type": "war_and_conflict",
-      "last_seen_date": "2026-04-10",
-      "times_seen": 3
+      "last_seen_date": "2026-04-13",
+      "times_seen": 4
     },
     {
       "title_tokens": [
@@ -1009,8 +873,8 @@
       ],
       "category": "technology",
       "topic_type": "ai",
-      "last_seen_date": "2026-04-12",
-      "times_seen": 1
+      "last_seen_date": "2026-04-13",
+      "times_seen": 2
     },
     {
       "title_tokens": [
@@ -1141,7 +1005,126 @@
       "topic_type": "trade_wars",
       "last_seen_date": "2026-04-12",
       "times_seen": 1
+    },
+    {
+      "title_tokens": [
+        "test",
+        "mythos",
+        "trump",
+        "encouraging",
+        "officials",
+        "anthropics",
+        "model",
+        "banks",
+        "may"
+      ],
+      "category": "technology",
+      "topic_type": "ai",
+      "last_seen_date": "2026-04-13",
+      "times_seen": 1
+    },
+    {
+      "title_tokens": [
+        "orbital",
+        "compute",
+        "open",
+        "cluster",
+        "largest",
+        "business"
+      ],
+      "category": "technology",
+      "topic_type": "space_tech",
+      "last_seen_date": "2026-04-13",
+      "times_seen": 1
+    },
+    {
+      "title_tokens": [
+        "ships",
+        "ready",
+        "chief",
+        "albanese",
+        "capable",
+        "hormuz",
+        "strait",
+        "iran",
+        "reopen",
+        "australian",
+        "calls",
+        "defence"
+      ],
+      "category": "politics",
+      "topic_type": "us_politics",
+      "last_seen_date": "2026-04-13",
+      "times_seen": 1
+    },
+    {
+      "title_tokens": [
+        "ready",
+        "slovakias",
+        "prime",
+        "fico",
+        "new",
+        "cooperate",
+        "hungarys",
+        "minister"
+      ],
+      "category": "politics",
+      "topic_type": "eu_policy",
+      "last_seen_date": "2026-04-13",
+      "times_seen": 1
+    },
+    {
+      "title_tokens": [
+        "tops",
+        "trump",
+        "again",
+        "oil",
+        "announces",
+        "barrel",
+        "price",
+        "hormuz",
+        "strait",
+        "blockade",
+        "100",
+        "business"
+      ],
+      "category": "economy",
+      "topic_type": "energy_markets",
+      "last_seen_date": "2026-04-13",
+      "times_seen": 1
+    },
+    {
+      "title_tokens": [
+        "jump",
+        "stocks",
+        "hopes",
+        "domestic",
+        "demand",
+        "recovery",
+        "chinese",
+        "exports",
+        "surging"
+      ],
+      "category": "economy",
+      "topic_type": "markets",
+      "last_seen_date": "2026-04-13",
+      "times_seen": 1
+    },
+    {
+      "title_tokens": [
+        "block",
+        "why",
+        "work",
+        "how",
+        "threatening",
+        "iranian",
+        "ports"
+      ],
+      "category": "economy",
+      "topic_type": "inflation",
+      "last_seen_date": "2026-04-13",
+      "times_seen": 1
     }
   ],
-  "last_updated": "2026-04-12"
+  "last_updated": "2026-04-13"
 }
