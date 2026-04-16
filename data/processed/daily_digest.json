@@ -1,25 +1,25 @@
 {
-  "generated_at_utc": "2026-04-15T09:10:07.495421+00:00",
+  "generated_at_utc": "2026-04-16T09:09:25.012619+00:00",
   "summary": {
-    "total_raw_items": 1136,
-    "total_deduped_items": 1110,
+    "total_raw_items": 1112,
+    "total_deduped_items": 1093,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "ai",
         "chips",
-        "platform_regulation"
+        "cybersecurity",
+        "social_media"
       ],
       "politics": [
-        "diplomacy",
-        "social_protests",
-        "uk_politics"
+        "war_and_conflict",
+        "us_politics",
+        "diplomacy"
       ],
       "economy": [
-        "energy_markets",
+        "interest_rates",
         "markets",
-        "inflation"
+        "energy_markets"
       ]
     },
     "multi_source_selected_count": 0
@@ -29,59 +29,27 @@
       {
         "category": "technology",
         "source_name": "Reuters",
-        "title": "OpenAI unveils GPT-5.4-Cyber a week after rival's announcement of AI model - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFBrUjJkQU4zTEFJX0I1eWZiZUdNZ2VRTHdoaFZWVFFzcGpEZG1rSVVlTy1DZjJ4M1Z0bTBmZmYwSnhNNW5BM2NrWHQ5cnFPOTdoWlB1ZWFHZUZELXMyR2RLcWtXX2pqUFNhRUpnZmNHVHNmZllKcjU5MnZGVmxzd3I5SG04VzFnSHR6UnU5WkkyZXpOOGhoZ1VxYzhsMWxCSDAzbEY0aG1FTk9Ca29IVnR0TU4?oc=5",
-        "summary": "OpenAI unveils GPT-5.4-Cyber a week after rival's announcement of AI model Reuters",
-        "published": "Tue, 14 Apr 2026 21:26:43 GMT",
-        "updated": "Tue, 14 Apr 2026 21:26:43 GMT",
-        "published_at_utc": "2026-04-14T21:26:43+00:00",
-        "id": "CBMitAFBVV95cUxNSFBrUjJkQU4zTEFJX0I1eWZiZUdNZ2VRTHdoaFZWVFFzcGpEZG1rSVVlTy1DZjJ4M1Z0bTBmZmYwSnhNNW5BM2NrWHQ5cnFPOTdoWlB1ZWFHZUZELXMyR2RLcWtXX2pqUFNhRUpnZmNHVHNmZllKcjU5MnZGVmxzd3I5SG04VzFnSHR6UnU5WkkyZXpOOGhoZ1VxYzhsMWxCSDAzbEY0aG1FTk9Ca29IVnR0TU4",
-        "topic_type": "ai",
-        "relevance_score": 17,
-        "briefing": {
-          "news_focus": "OpenAI unveils GPT-5.4-Cyber a week after rival's announcement of AI model Reuters",
-          "news_focus_zh": "OpenAI在競爭對手宣布新AI模型一週後，推出了GPT-5.4-Cyber，顯示出其在人工智慧領域的持續創新與競爭壓力。",
-          "background": "隨著人工智慧技術的快速發展，市場上競爭愈加激烈。OpenAI作為領先的AI開發者之一，面對來自其他公司的挑戰，必須不斷推出新產品以維持其市場地位。GPT系列模型的推出不僅反映了技術的進步，也顯示出OpenAI對於市場需求的敏感度。近期競爭對手的模型發布，可能促使OpenAI加快其產品更新的步伐。",
-          "stakeholders": [
-            "OpenAI",
-            "競爭對手",
-            "投資者",
-            "消費者",
-            "科技產業"
-          ],
-          "analysis": "OpenAI的推出可能旨在強化其市場領導地位，並對抗競爭對手的壓力。這一行動不僅影響了消費者對AI技術的選擇，也可能引發其他公司加速其技術開發與創新。對於投資者而言，這顯示出AI市場的活躍程度及未來增長潛力，但同時也可能帶來技術過度競爭的風險，影響整體行業的穩定性。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "product_launch",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "Wired",
-        "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
-        "link": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
-        "summary": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
-        "published": "Tue, 14 Apr 2026 10:30:00 +0000",
-        "updated": "Tue, 14 Apr 2026 10:30:00 +0000",
-        "published_at_utc": "2026-04-14T10:30:00+00:00",
-        "id": "69d90690c74cc8e55e0803dc",
+        "title": "US Senator Warren voices concern over Nvidia's acquisition of Slurm - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUEFGbmEteGR6T1h3TVBvVXlfWk5xUWU0TTRjU29kRHFLeWVrb0FtWHFSZTkwOWRsZ2NhalF0ekQyT1VLa0t1d3dELTRLMTZuWktyaEVKejhadFNuSDYwQ3ZyNUplMDUtWGxvR0NJa01mT0lHSlFDS3ZYUC1mWHI1cEdxZ3hHOWVqUVUwSDgtRV8yT0x3TldmR2tDbkRDaTNxLTl3bG1wSVBpQmwzU3JR?oc=5",
+        "summary": "US Senator Warren voices concern over Nvidia's acquisition of Slurm Reuters",
+        "published": "Wed, 15 Apr 2026 14:35:37 GMT",
+        "updated": "Wed, 15 Apr 2026 14:35:37 GMT",
+        "published_at_utc": "2026-04-15T14:35:37+00:00",
+        "id": "CBMirwFBVV95cUxQUEFGbmEteGR6T1h3TVBvVXlfWk5xUWU0TTRjU29kRHFLeWVrb0FtWHFSZTkwOWRsZ2NhalF0ekQyT1VLa0t1d3dELTRLMTZuWktyaEVKejhadFNuSDYwQ3ZyNUplMDUtWGxvR0NJa01mT0lHSlFDS3ZYUC1mWHI1cEdxZ3hHOWVqUVUwSDgtRV8yT0x3TldmR2tDbkRDaTNxLTl3bG1wSVBpQmwzU3JR",
         "topic_type": "chips",
-        "relevance_score": 17,
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
-          "news_focus_zh": "前Palantir員工Alex Bores推動美國最嚴格的AI法規之一，現在矽谷的主要科技公司正試圖阻止他進入國會。",
-          "background": "在美國，隨著人工智慧技術的快速發展，相關法規的制定成為重要議題。Alex Bores作為推動AI法規的關鍵人物，代表了對科技公司影響力的挑戰。矽谷的科技巨頭們通常對嚴格的監管持反對態度，因為這可能限制他們的創新與市場競爭力。Bores的崛起可能改變這一平衡，促使更多的監管措施出現。",
+          "news_focus": "US Senator Warren voices concern over Nvidia's acquisition of Slurm Reuters",
+          "news_focus_zh": "美國參議員伊莉莎白·沃倫對英偉達收購Slurm表示擔憂，指出此交易可能對市場競爭及創新造成負面影響。",
+          "background": "英偉達作為全球領先的圖形處理單元（GPU）製造商，近年來在人工智慧和高效能計算領域迅速擴張。Slurm是一款開源的工作負載管理系統，廣泛應用於高性能計算（HPC）環境。沃倫的擔憂反映了對大型科技公司合併的普遍關注，特別是在市場集中度增加可能抑制創新與競爭的背景下。",
           "stakeholders": [
-            "Alex Bores",
-            "矽谷科技公司",
-            "選民",
-            "監管機構",
-            "AI倫理倡導者"
+            "英偉達",
+            "Slurm",
+            "美國政府",
+            "科技創新企業",
+            "市場監管機構"
           ],
-          "analysis": "矽谷的科技公司面臨著Bores進入國會後可能推動更嚴格的AI法規的威脅，這將影響他們的業務運作及未來發展。這些公司可能會透過資金支持反對Bores的競選活動，試圖削弱其影響力。另一方面，Bores的支持者則可能認為他能夠促進更負責任的科技發展，這在選民中可能引發分歧，影響未來的政策走向。"
+          "analysis": "沃倫的立場代表了對科技巨頭合併的監管擔憂，尤其是在AI和計算資源日益重要的當前環境。支持者認為，收購將促進技術整合與創新，但反對者則擔心這會削弱市場競爭，限制其他公司的發展潛力。此事件可能引發更多監管機構的審查，影響英偉達的未來併購策略及整個科技行業的競爭格局。"
         },
         "topic_priority_score": 10,
         "event_type": "strategic_move",
@@ -92,31 +60,63 @@
       },
       {
         "category": "technology",
-        "source_name": "The Verge",
-        "title": "The FCC just saved Netgear from its router ban for no obvious reason",
-        "link": "https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval",
-        "summary": "The United States' foreign router ban didn't make a whole lot of sense, and today may not change that. The FCC has just granted Netgear a conditional approval to import its future consumer routers, cable modems, and cable gateways into the US through October 1st, 2027 - even though the company builds those devices in […]",
-        "published": "2026-04-14T16:57:07-04:00",
-        "updated": "2026-04-14T17:05:16-04:00",
-        "published_at_utc": "2026-04-14T20:57:07+00:00",
-        "id": "https://www.theverge.com/?p=911888",
-        "topic_type": "platform_regulation",
+        "source_name": "TechCrunch",
+        "title": "Sweden blames Russian hackers for attempting ‘destructive’ cyberattack on thermal plant",
+        "link": "https://techcrunch.com/2026/04/15/sweden-blames-russian-hackers-for-attempting-destructive-cyberattack-on-thermal-plant/",
+        "summary": "Sweden's minister for civil defense said Russian hackers are \"now attempting destructive cyber attacks against organizations in Europe.\"",
+        "published": "Wed, 15 Apr 2026 14:21:39 +0000",
+        "updated": "Wed, 15 Apr 2026 14:21:39 +0000",
+        "published_at_utc": "2026-04-15T14:21:39+00:00",
+        "id": "https://techcrunch.com/?p=3112602",
+        "topic_type": "cybersecurity",
+        "relevance_score": 19,
+        "briefing": {
+          "news_focus": "Sweden's minister for civil defense said Russian hackers are \"now attempting destructive cyber attacks against organizations in Europe.\"",
+          "news_focus_zh": "瑞典內政部長指責俄羅斯黑客對歐洲組織發起破壞性網絡攻擊，特別針對熱電廠，顯示出當前網絡安全形勢的嚴峻性。",
+          "background": "隨著地緣政治緊張局勢加劇，網絡攻擊已成為國家間衝突的新戰場。瑞典在過去幾年中加強了其網絡安全防禦，尤其是在能源基礎設施方面。俄羅斯的網絡攻擊行為被認為是其對外政策的一部分，旨在干擾對手的關鍵基礎設施，並提升其在國際舞台上的影響力。",
+          "stakeholders": [
+            "瑞典政府",
+            "俄羅斯政府",
+            "歐洲能源企業",
+            "網絡安全公司",
+            "國際社會"
+          ],
+          "analysis": "瑞典政府的指控反映了對俄羅斯網絡行為的高度警惕，這可能會加劇瑞典與俄羅斯之間的緊張關係。對於瑞典而言，保護能源基礎設施至關重要，任何攻擊都可能對國內經濟和民生造成嚴重影響。另一方面，俄羅斯可能會否認這些指控，並將其視為西方國家對其行為的誇大，進一步激化雙方的對立局勢。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "strategic_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "BBC Technology",
+        "title": "Social media leaders called to Downing Street over children's safety",
+        "link": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
+        "summary": "Top executives from firms such as Meta and YouTube will be asked what they are doing to protect children.",
+        "published": "Wed, 15 Apr 2026 21:30:40 GMT",
+        "updated": "Wed, 15 Apr 2026 21:30:40 GMT",
+        "published_at_utc": "2026-04-15T21:30:40+00:00",
+        "id": "https://www.bbc.com/news/articles/crl11ynjyn1o#0",
+        "topic_type": "social_media",
         "relevance_score": 16,
         "briefing": {
-          "news_focus": "The United States' foreign router ban didn't make a whole lot of sense, and today may not change that. The FCC has just granted Netgear a conditional approval to import its future consumer routers, cable modems, and cable gateways into the US through October 1st, 2027 - even though the company builds those devices in […]",
-          "news_focus_zh": "美國聯邦通信委員會（FCC）近期批准Netgear在2027年10月1日前進口其未來的消費者路由器、電纜調製解調器及電纜閘道，儘管美國對外國路由器的禁令仍在，這一決定引發了外界的疑惑。",
-          "background": "美國對外國路由器的禁令主要是出於國家安全考量，旨在防範潛在的網絡安全威脅。Netgear作為美國本土的科技公司，其產品在市場上佔有一席之地。FCC的這一決定可能反映出對於本土企業的支持，尤其是在全球供應鏈緊張的背景下，科技產品的進口政策變得更加複雜。",
+          "news_focus": "Top executives from firms such as Meta and YouTube will be asked what they are doing to protect children.",
+          "news_focus_zh": "英國政府邀請Meta及YouTube等社交媒體公司的高層，討論如何加強對兒童的安全保護措施。",
+          "background": "隨著社交媒體的普及，兒童在網路上面臨的風險日益增加，包括網路欺凌、性騷擾及不當內容接觸。英國政府在此背景下，推動更嚴格的監管政策，特別是在《在線安全法》框架下，要求社交媒體平台負起更多責任，保障未成年用戶的安全。",
           "stakeholders": [
-            "Netgear",
-            "FCC",
-            "外國路由器製造商",
-            "消費者",
-            "網絡安全專家"
+            "英國政府",
+            "Meta",
+            "YouTube",
+            "兒童權益組織",
+            "家長"
           ],
-          "analysis": "FCC的批准對Netgear而言是一項利好，但也引發了對於政策透明度的質疑。此舉可能顯示出美國政府在平衡國家安全與支持本土產業之間的掙扎。其他路由器製造商可能會對此感到不滿，尤其是那些未能獲得類似豁免的外國企業。未來，這一政策可能會影響到美國市場的競爭格局，並引發對於公平貿易的討論。"
+          "analysis": "此次會議反映了政府對社交媒體平台在兒童安全問題上的不滿，Meta和YouTube等公司面臨的壓力將促使其加強內容監管和安全措施。然而，這也可能引發企業對於監管過度的擔憂，影響其業務運作及創新能力。政府與企業間的對話若能有效，或能促進更具體的行動計畫，但若雙方立場無法達成共識，則可能導致進一步的法律規範。"
         },
-        "topic_priority_score": 8,
-        "event_type": "regulation_action",
+        "topic_priority_score": 6,
+        "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -127,61 +127,29 @@
       {
         "category": "politics",
         "source_name": "The Guardian World",
-        "title": "Labour claims Reform UK won’t protect women, as poll suggests Farage’s party heading for ‘seismic’ wins in May – UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/apr/15/labour-reform-uk-women-nigel-farage-local-elections-keir-starmer-kemi-badenoch-pmqs-iran-war-uk-politics-latest",
-        "summary": "Poll projects major political earthquake across Britain with Labour losing Wales and England’s Red Wall JL Partners has not yet published the details of its May elections poll featured in the Telegraph’s splash. But here is some details from Tony Diver ’s Telegraph write-up. On Wales The Telegraph’s projection shows that Plaid will be the largest party in Wales for the first time, winning 33 of the 96 seats, followed by Reform with 29 and Labour with 17. Of the 136 English local authorities facing elections, Labour currently controls or is the coalition leader in 83. The party could suffer its worst night in local election history – winning just 42 authorities – with almost half of that total in London. The expected Green surge in the capital will split the Left vote, but Zack Polanski’s party is set to gain control of just two of London’s 32 boroughs. However, it will come second in many of the other 19 London councils Labour is on course to hold. At the highest end of predicted results, Nigel Farage’s party would gain control of up to 69 councils – half of the number voting this year – by gaining support from Labour voters in the Red Wall and Conservatives in the East of England. Even on a more modest prediction, it would net 56 councils, compared with 42 for Labour, 17 for the Liberal Democrats and 15 for the Conservatives. Kemi Badenoch’s Blue Wall of shire councils across the south of England is also set to crumble. Reform is on course to seize Essex, the county council including Mrs Badenoch’s own constituency, along with Suffolk and Norfolk. Turning to recent events in the Middle East, the prime ministers updated on their recent diplomatic meetings, including Prime Minister Starmer’s visit to the Gulf, and Prime Minister Jetten’s meetings in Washington. The summit on the strait of Hormuz on Friday would be a vital moment to continue to drive diplomatic, military and economic work, the leaders underlined. Continue reading...",
-        "published": "Wed, 15 Apr 2026 08:53:24 GMT",
-        "updated": "2026-04-15T08:53:24Z",
-        "published_at_utc": "2026-04-15T08:53:24+00:00",
-        "id": "https://www.theguardian.com/politics/live/2026/apr/15/labour-reform-uk-women-nigel-farage-local-elections-keir-starmer-kemi-badenoch-pmqs-iran-war-uk-politics-latest",
-        "topic_type": "diplomacy",
-        "relevance_score": 23,
+        "title": "Europe live: Russia ‘does not deserve’ lifting of sanctions, Zelenskyy says, after deadly overnight strikes in Ukraine",
+        "link": "https://www.theguardian.com/world/live/2026/apr/16/europe-russia-zelenskyy-ukraine-nato-rutte-merz-magyar-latest-updates",
+        "summary": "Ukrainian president says nearly 700 Russian drones and 19 ballistic missiles mostly targeted Kyiv, Odesa and Dnipro President of the European Council António Costa has condemned the “horrendous” overnight attacks on Ukraine by Russia, alleging Russian forces “deliberately carried out follow-up strikes” to target first responders. He said: “ As people slept in their homes, the cities of Kyiv, Dnipro, Odesa, and Kharkiv were struck by dozens of ballistic missiles and hundreds of drones. Russian armed forces deliberately carried out follow-up strikes on Ukrainian emergency services as first responders arrived to save lives.” “ Russia’s war of aggression against Ukraine has failed, and so it chooses to deliberately terrorise civilians. Russia must stop this war of terror.” “ Russia is betting on war, and the response must be exactly that: we must defend lives with all available means, and we must also apply pressure for the sake of peace with the same full force.” Continue reading...",
+        "published": "Thu, 16 Apr 2026 08:53:21 GMT",
+        "updated": "2026-04-16T08:53:21Z",
+        "published_at_utc": "2026-04-16T08:53:21+00:00",
+        "id": "https://www.theguardian.com/world/live/2026/apr/16/europe-russia-zelenskyy-ukraine-nato-rutte-merz-magyar-latest-updates",
+        "topic_type": "war_and_conflict",
+        "relevance_score": 22,
         "briefing": {
-          "news_focus": "Poll projects major political earthquake across Britain with Labour losing Wales and England’s Red Wall JL Partners has not yet published the details of its May elections poll featured in the Telegraph’s splash. But here is some details from Tony Diver ’s Telegraph write-up. On Wales The Telegraph’s projection shows that Plaid will be the largest party in Wales for the first time, winning 33 of the 96 seats, followed by Reform with 29 and Labour with 17. Of the 136 English local authorities facing elections, Labour currently controls or is the coalition leader in 83. The party could suffer its worst night in local election history – winning just 42 authorities – with almost half of that total in London. The expected Green surge in the capital will split the Left vote, but Zack Polanski’s party is set to gain control of just two of London’s 32 boroughs. However, it will come second in many of the other 19 London councils Labour is on course to hold. At the highest end of predicted results, Nigel Farage’s party would gain control of up to 69 councils – half of the number voting this year – by gaining support from Labour voters in the Red Wall and Conservatives in the East of England. Even on a more modest prediction, it would net 56 councils, compared with 42 for Labour, 17 for the Liberal Democrats and 15 for the Conservatives. Kemi Badenoch’s Blue Wall of shire councils across the south of England is also set to crumble. Reform is on course to seize Essex, the county council including Mrs Badenoch’s own constituency, along with Suffolk and Norfolk. Turning to recent events in the Middle East, the prime ministers updated on their recent diplomatic meetings, including Prime Minister Starmer’s visit to the Gulf, and Prime Minister Jetten’s meetings in Washington. The summit on the strait of Hormuz on Friday would be a vital moment to continue to drive diplomatic, military and economic work, the leaders underlined. Continue reading...",
-          "news_focus_zh": "英國即將舉行地方選舉，民調顯示工黨可能面臨重大失利，改革黨在威爾士和英格蘭的支持度上升，預計將贏得大量議會席位，改變政治格局。",
-          "background": "近期的民調顯示，改革黨在英國地方選舉中可能取得顯著勝利，尤其是在威爾士和英格蘭的紅牆地區。工黨的支持率下滑，可能導致其在地方議會中的控制權大幅減少。這一變化反映了英國政治的動盪，以及選民對傳統政黨的不滿。改革黨的崛起，尤其是在保守派和工黨選民之間的交叉支持，顯示出選民對於政策和領導的期待正在轉變。",
+          "news_focus": "Ukrainian president says nearly 700 Russian drones and 19 ballistic missiles mostly targeted Kyiv, Odesa and Dnipro President of the European Council António Costa has condemned the “horrendous” overnight attacks on Ukraine by Russia, alleging Russian forces “deliberately carried out follow-up strikes” to target first responders. He said: “ As people slept in their homes, the cities of Kyiv, Dnipro, Odesa, and Kharkiv were struck by dozens of ballistic missiles and hundreds of drones. Russian armed forces deliberately carried out follow-up strikes on Ukrainian emergency services as first responders arrived to save lives.” “ Russia’s war of aggression against Ukraine has failed, and so it chooses to deliberately terrorise civilians. Russia must stop this war of terror.” “ Russia is betting on war, and the response must be exactly that: we must defend lives with all available means, and we must also apply pressure for the sake of peace with the same full force.” Continue reading...",
+          "news_focus_zh": "烏克蘭總統澤倫斯基表示，俄羅斯不應該解除制裁，因為俄軍對烏克蘭的致命攻擊造成重大傷亡，並指責俄軍故意針對救援人員進行後續打擊。歐洲理事會主席安東尼奧·科斯塔譴責這些攻擊，強調俄羅斯的侵略行為必須受到制止。",
+          "background": "自2022年俄烏戰爭爆發以來，西方國家對俄羅斯實施了一系列經濟制裁，旨在削弱其軍事能力。近期，俄軍加大對烏克蘭城市的攻擊力度，尤其是針對基輔、敖德薩和第聶伯等地，造成大量平民傷亡。這一系列攻擊引發國際社會的強烈譴責，並促使歐洲領導人重申對烏克蘭的支持。",
           "stakeholders": [
-            "工黨",
-            "改革黨",
-            "綠黨",
-            "保守黨",
-            "威爾士民族黨"
+            "烏克蘭政府",
+            "俄羅斯政府",
+            "歐洲理事會",
+            "國際社會",
+            "救援組織"
           ],
-          "analysis": "改革黨的潛在勝利將對工黨造成重大打擊，特別是在其傳統的支持基礎上。工黨面臨的挑戰不僅來自改革黨，還有綠黨的崛起，可能會進一步分散左派選票。這一情況使得工黨在未來的選舉中必須重新評估其政策和選民基礎，以避免進一步的失利。另一方面，改革黨的成功將使其在政策制定上獲得更多影響力，特別是在女性權益等議題上，可能引發激烈的政治辯論。"
+          "analysis": "澤倫斯基與科斯塔的言論反映了烏克蘭及其盟友對俄羅斯行為的強烈反對，並強調持續制裁的重要性。俄方可能會利用這些攻擊來試圖削弱烏克蘭的抵抗意志，但國際社會的譴責與支持可能會進一步加強對烏克蘭的援助。未來，若俄軍繼續加大攻擊力度，將可能導致更嚴厲的國際制裁和軍事支援。"
         },
-        "topic_priority_score": 7,
-        "event_type": "election_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
-        "source_name": "SCMP World",
-        "title": "Are US-Singapore relations under pressure as public trust declines?",
-        "link": "https://www.scmp.com/week-asia/politics/article/3350160/are-us-singapore-relations-under-pressure-public-trust-declines?utm_source=rss_feed",
-        "summary": "In a rare public protest in Singapore, hundreds gathered in Hong Lim Park over the weekend to denounce the “US war machine”. They brandished placards and banners, including one with horns drawn on US presidents past and present captioned: “This is what terrorists look like.” The demonstration, which required organisers to get permission from the authorities, came as public sentiment in the region sours against Washington. Observers attribute this to the perception that the US has become...",
-        "published": "Wed, 15 Apr 2026 09:00:09 +0000",
-        "updated": "Wed, 15 Apr 2026 09:00:09 +0000",
-        "published_at_utc": "2026-04-15T09:00:09+00:00",
-        "id": "https://www.scmp.com/week-asia/politics/article/3350160/are-us-singapore-relations-under-pressure-public-trust-declines?utm_source=rss_feed",
-        "topic_type": "social_protests",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "In a rare public protest in Singapore, hundreds gathered in Hong Lim Park over the weekend to denounce the “US war machine”. They brandished placards and banners, including one with horns drawn on US presidents past and present captioned: “This is what terrorists look like.” The demonstration, which required organisers to get permission from the authorities, came as public sentiment in the region sours against Washington. Observers attribute this to the perception that the US has become...",
-          "news_focus_zh": "新加坡近期出現罕見的公眾抗議活動，數百人在洪林公園集會，抗議美國的軍事行動，顯示出當地對美國的信任度下降，並引發對美新加坡關係的擔憂。",
-          "background": "新加坡與美國的關係歷來密切，特別是在安全與經濟合作方面。然而，隨著美國在亞太地區的軍事存在增加及其外交政策的變化，當地民眾對美國的看法逐漸負面。此次抗議活動反映了民眾對美國干預政策的不滿，並可能影響新加坡政府在外交政策上的考量，尤其是在面對中國崛起的背景下。",
-          "stakeholders": [
-            "新加坡政府",
-            "美國政府",
-            "新加坡民眾",
-            "中國政府",
-            "區域安全組織"
-          ],
-          "analysis": "此次抗議活動顯示出新加坡民眾對美國軍事行動的不滿，可能對新加坡政府的外交政策造成壓力。支持美國的政治勢力可能面臨挑戰，而反對派則可能利用此情緒推動更獨立的外交路線。此外，這也可能影響新加坡在區域安全合作中的角色，特別是在與中國的關係上，進一步加劇地緣政治的複雜性。"
-        },
-        "topic_priority_score": 5,
+        "topic_priority_score": 11,
         "event_type": "security_event",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -190,31 +158,63 @@
       },
       {
         "category": "politics",
-        "source_name": "BBC World",
-        "title": "Kanye West postpones France gig following UK ban",
-        "link": "https://www.bbc.com/news/articles/c36rrrp5wnlo?at_medium=RSS&at_campaign=rss",
-        "summary": "It comes a week after the UK government announced it would block the rapper from entering the country.",
-        "published": "Wed, 15 Apr 2026 08:29:43 GMT",
-        "updated": "Wed, 15 Apr 2026 08:29:43 GMT",
-        "published_at_utc": "2026-04-15T08:29:43+00:00",
-        "id": "https://www.bbc.com/news/articles/c36rrrp5wnlo#1",
-        "topic_type": "uk_politics",
-        "relevance_score": 20,
+        "source_name": "The Guardian World",
+        "title": "Middle East crisis live: Netanyahu ‘to speak to Lebanese leader leader today’ but Beirut reportedly unaware of plans",
+        "link": "https://www.theguardian.com/world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates",
+        "summary": "Israeli minister says pair to speak after ‘many years of total disconnect’ but reports say that Lebanese were not aware of plans first outlined by Trump US and Iran in indirect talks to extend two-week ceasefire A member of Israel’s security cabinet, Galia Gamliel, said the prime minister, Benjamin Netanyahu, will speak to the Lebanese president, Joseph Aoun, today, according to Israeli media. The conversation will take place “after so many years of a total disconnect in the dialogue between the two states, and this move will hopefully, in the end, lead to prosperity”, she told the Israeli Army Radio, the Times of Israel reported. Continue reading...",
+        "published": "Thu, 16 Apr 2026 08:22:16 GMT",
+        "updated": "2026-04-16T08:22:16Z",
+        "published_at_utc": "2026-04-16T08:22:16+00:00",
+        "id": "https://www.theguardian.com/world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates",
+        "topic_type": "us_politics",
+        "relevance_score": 22,
         "briefing": {
-          "news_focus": "It comes a week after the UK government announced it would block the rapper from entering the country.",
-          "news_focus_zh": "美國饒舌歌手Kanye West因英國政府禁止其入境而推遲在法國的演出，這一決定是在英國政府宣布封鎖後的一周內做出的。",
-          "background": "Kanye West因其言論及行為引發爭議，英國政府的禁令反映了對其影響力的擔憂。這一事件發生在全球對名人言論自由與社會責任的討論日益加劇的背景下，尤其是在涉及種族與政治敏感議題時。此禁令也可能影響Kanye West的職業生涯及其在歐洲的市場表現。",
+          "news_focus": "Israeli minister says pair to speak after ‘many years of total disconnect’ but reports say that Lebanese were not aware of plans first outlined by Trump US and Iran in indirect talks to extend two-week ceasefire A member of Israel’s security cabinet, Galia Gamliel, said the prime minister, Benjamin Netanyahu, will speak to the Lebanese president, Joseph Aoun, today, according to Israeli media. The conversation will take place “after so many years of a total disconnect in the dialogue between the two states, and this move will hopefully, in the end, lead to prosperity”, she told the Israeli Army Radio, the Times of Israel reported. Continue reading...",
+          "news_focus_zh": "以色列總理內塔尼亞胡計劃與黎巴嫩總統奧恩進行對話，這是兩國多年來首次接觸，旨在促進雙方對話與和平。然而，黎巴嫩方面似乎對此計劃並不知情，顯示出雙方在溝通上的重大落差。",
+          "background": "以色列與黎巴嫩的關係長期緊張，尤其是由於以色列與真主黨的衝突。近年來，兩國之間幾乎沒有直接對話，這次對話的提議被視為一個潛在的外交突破。此舉也受到美國與伊朗間間接談判的影響，旨在延長兩週的停火協議，並可能為更廣泛的地區穩定鋪路。",
           "stakeholders": [
-            "Kanye West",
-            "英國政府",
-            "法國音樂產業",
-            "粉絲群體",
-            "社會運動組織"
+            "以色列政府",
+            "黎巴嫩政府",
+            "美國",
+            "伊朗",
+            "真主黨"
           ],
-          "analysis": "英國政府的禁令顯示出對Kanye West言論的強烈反對，可能會引發支持與反對者之間的激烈辯論。支持者認為這是保護社會價值的必要措施，而反對者則可能視其為言論自由的侵犯。Kanye West推遲演出可能會影響其在法國的粉絲基礎及未來的演出安排，並可能促使其他國家在類似情況下採取相似措施。"
+          "analysis": "以色列政府希望透過與黎巴嫩的對話來改善雙邊關係，並尋求區域穩定。然而，黎巴嫩方面的無知顯示出內部政治的複雜性，可能導致對話的成效受限。以色列與黎巴嫩的對話若能成功，將可能改變中東地區的力量平衡，並影響美國在該地區的外交策略。各方需密切關注後續發展，以評估其對地區安全的實質影響。"
         },
-        "topic_priority_score": 9,
-        "event_type": "policy_action",
+        "topic_priority_score": 8,
+        "event_type": "security_event",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "politics",
+        "source_name": "The Hindu International",
+        "title": "Pakistani delegation, led by Army chief Munir, reaches Iran for peace talks",
+        "link": "https://www.thehindu.com/news/international/pakistani-delegation-led-by-army-chief-munir-reaches-iran-for-peace-talks/article70866779.ece",
+        "summary": "Iranian Foreign Minister Abbas Araghchi welcomed the delegation members upon their arrival in Tehran, according to the Iranian media",
+        "published": "Thu, 16 Apr 2026 11:30:21 +0530",
+        "updated": "Thu, 16 Apr 2026 11:30:21 +0530",
+        "published_at_utc": "2026-04-16T06:00:21+00:00",
+        "id": "article-70866779",
+        "topic_type": "diplomacy",
+        "relevance_score": 19,
+        "briefing": {
+          "news_focus": "Iranian Foreign Minister Abbas Araghchi welcomed the delegation members upon their arrival in Tehran, according to the Iranian media",
+          "news_focus_zh": "巴基斯坦軍方首長穆尼爾率領的代表團抵達伊朗，展開和平會談，受到伊朗外長阿巴斯·阿拉赫奇的熱烈歡迎。",
+          "background": "巴基斯坦與伊朗之間的關係歷史悠久，兩國在安全與經濟上有著密切的互動。近年來，隨著地區安全形勢的變化，兩國都面臨來自外部勢力的壓力，特別是美國與印度的影響力增強。此次會談的背景是雙方希望加強合作，以應對共同的安全挑戰，並促進邊境地區的穩定。",
+          "stakeholders": [
+            "巴基斯坦政府",
+            "伊朗政府",
+            "美國政府",
+            "印度政府",
+            "地區安全組織"
+          ],
+          "analysis": "此次會談對於巴基斯坦和伊朗雙方均具有重要意義。巴基斯坦希望通過加強與伊朗的合作，來減少與印度的緊張關係，而伊朗則希望借此機會提升其在地區事務中的影響力。兩國在反恐、經濟合作及邊境安全等議題上可能會展開深入討論。然而，外部勢力如美國的反應及其對兩國關係的影響，仍需持續關注。"
+        },
+        "topic_priority_score": 7,
+        "event_type": "diplomatic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -224,95 +224,95 @@
     "economy": [
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Stock markets recovering Iran war losses amid peace deal hopes; Reeves and Bessent to meet at IMF – business live",
-        "link": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-        "summary": "Rolling coverage of the latest economic and financial news Middle East crisis live: US claims blockade has ‘completely halted economic trade’ into Iran, as Trump hints at return to talks in Pakistan Record-high export revenues from crude oil have pushed Norway’s trade surplus to its highest level since January 2023. Statistics Norway has reported that the country’s export revenues rose to NOK 199.9bn (£15.6bn) in March 2026. The closure of the Strait of Hormuz has caused a significant supply shock in the oil market, which contributed to the high oil prices in March, and thus the highest export value ever. “I wonder what the hit to global GDP would be if a nuclear weapon hit London,” Bessent said to the BBC. “I am less concerned about short-term forecasts, for long-term security.” The relationship between the two countries looks increasingly fraught. On Tuesday, Reeves used her strongest language yet to criticize Donald Trump’s war in the Middle East and the damage it has wreaked on the global economy. Continue reading...",
-        "published": "Wed, 15 Apr 2026 08:47:35 GMT",
-        "updated": "2026-04-15T08:47:35Z",
-        "published_at_utc": "2026-04-15T08:47:35+00:00",
-        "id": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-        "topic_type": "energy_markets",
+        "source_name": "BBC Business",
+        "title": "Big energy shock will push up prices, Bank boss tells BBC",
+        "link": "https://www.bbc.com/news/articles/cn5330l73y2o?at_medium=RSS&at_campaign=rss",
+        "summary": "Bank of England governor says the Iran war energy shock makes the next interest rate decision \"very, very difficult\".",
+        "published": "Thu, 16 Apr 2026 06:42:51 GMT",
+        "updated": "Thu, 16 Apr 2026 06:42:51 GMT",
+        "published_at_utc": "2026-04-16T06:42:51+00:00",
+        "id": "https://www.bbc.com/news/articles/cn5330l73y2o#0",
+        "topic_type": "interest_rates",
         "relevance_score": 23,
         "briefing": {
-          "news_focus": "Rolling coverage of the latest economic and financial news Middle East crisis live: US claims blockade has ‘completely halted economic trade’ into Iran, as Trump hints at return to talks in Pakistan Record-high export revenues from crude oil have pushed Norway’s trade surplus to its highest level since January 2023. Statistics Norway has reported that the country’s export revenues rose to NOK 199.9bn (£15.6bn) in March 2026. The closure of the Strait of Hormuz has caused a significant supply shock in the oil market, which contributed to the high oil prices in March, and thus the highest export value ever. “I wonder what the hit to global GDP would be if a nuclear weapon hit London,” Bessent said to the BBC. “I am less concerned about short-term forecasts, for long-term security.” The relationship between the two countries looks increasingly fraught. On Tuesday, Reeves used her strongest language yet to criticize Donald Trump’s war in the Middle East and the damage it has wreaked on the global economy. Continue reading...",
-          "news_focus_zh": "隨著對伊朗和平協議的希望上升，股市正在逐步恢復因中東戰爭而遭受的損失。美國宣稱對伊朗的封鎖已完全阻止經濟貿易，而挪威因原油出口收入創新高，貿易順差達到2023年以來的最高水平。",
-          "background": "中東地區的政治緊張局勢長期以來影響著全球經濟，特別是石油市場。近期，霍爾木茲海峽的封閉導致供應鏈中斷，推高了油價，進而提升了挪威的出口收入。美國對伊朗的制裁政策使得該國經濟陷入困境，並引發國際社會對和平解決方案的關注。隨著特朗普暗示可能重啟與伊朗的談判，市場對於和平協議的期待也在上升。",
+          "news_focus": "Bank of England governor says the Iran war energy shock makes the next interest rate decision \"very, very difficult\".",
+          "news_focus_zh": "英國央行行長表示，伊朗戰爭引發的能源衝擊將使下一次利率決策變得非常困難，預示著價格上漲的壓力將持續。",
+          "background": "近期伊朗戰爭的爆發導致全球能源市場的不穩定，特別是石油和天然氣價格的劇烈波動。英國作為能源進口國，面臨著成本上升的壓力，這影響了通脹預期及經濟增長。英國央行在此背景下需考量利率調整，以應對通脹和經濟增長之間的平衡。",
           "stakeholders": [
-            "美國政府",
-            "伊朗政府",
-            "挪威政府",
-            "全球投資者",
-            "中東地區國家"
-          ],
-          "analysis": "各方利益關係錯綜複雜。美國希望透過制裁施壓伊朗，維持其在中東的影響力，但這也對全球經濟造成負面影響，特別是油價飆升可能影響其他國家的經濟增長。挪威則因高油價受益，貿易順差創新高。特朗普的言論可能會引發市場波動，因為投資者對於未來的談判結果充滿不確定性。各方立場差異明顯，部分國家可能支持美國的制裁，而另一些國家則可能主張與伊朗進行對話以促進地區穩定。"
-        },
-        "topic_priority_score": 8,
-        "event_type": "energy_supply_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "Global funds fuel Hong Kong IPO rebound as investors rebalance China portfolios: HKEX",
-        "link": "https://www.scmp.com/business/banking-finance/article/3350162/global-funds-fuel-hong-kong-ipo-rebound-investors-rebalance-china-portfolios-hkex?utm_source=rss_feed",
-        "summary": "Hong Kong initial public offerings (IPOs) are attracting strong international demand as global funds rebuild their exposure to China after years of underinvestment, according to Bonnie Chan Yiting, CEO of Hong Kong Exchanges and Clearing. The Hong Kong stock exchange was seeing “very good momentum on both the supply and demand sides” for IPOs, Chan told a panel discussion at the HSBC Global Investment Summit on Wednesday. On the “cornerstone front”, last year saw “a very strong pickup by...",
-        "published": "Wed, 15 Apr 2026 09:00:13 +0000",
-        "updated": "Wed, 15 Apr 2026 09:00:13 +0000",
-        "published_at_utc": "2026-04-15T09:00:13+00:00",
-        "id": "https://www.scmp.com/business/banking-finance/article/3350162/global-funds-fuel-hong-kong-ipo-rebound-investors-rebalance-china-portfolios-hkex?utm_source=rss_feed",
-        "topic_type": "markets",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "Hong Kong initial public offerings (IPOs) are attracting strong international demand as global funds rebuild their exposure to China after years of underinvestment, according to Bonnie Chan Yiting, CEO of Hong Kong Exchanges and Clearing. The Hong Kong stock exchange was seeing “very good momentum on both the supply and demand sides” for IPOs, Chan told a panel discussion at the HSBC Global Investment Summit on Wednesday. On the “cornerstone front”, last year saw “a very strong pickup by...",
-          "news_focus_zh": "香港交易所首席執行官表示，隨著全球基金重新調整對中國的投資組合，香港的首次公開募股（IPO）吸引了強勁的國際需求，顯示出供需雙方的良好動能。",
-          "background": "近年來，中國市場因政策不確定性和經濟放緩而遭到全球投資者的冷落，導致香港IPO活動減少。然而，隨著中國政府逐步放寬監管政策及經濟復甦跡象顯現，國際資金開始重新評估其在中國市場的投資機會。香港作為中國內地企業的主要融資平台，其IPO市場的回暖反映了投資者對中國經濟前景的重新信心。",
-          "stakeholders": [
-            "香港交易所",
-            "全球基金",
-            "中國企業",
-            "國際投資者",
-            "市場監管機構"
-          ],
-          "analysis": "全球基金的回流對香港IPO市場構成了多方影響。對於投資者而言，這是重新進入中國市場的機會，有助於分散風險並獲取潛在的高回報。然而，這也可能引發市場競爭加劇，進一步推高企業估值。香港交易所則受益於交易量的增加，提升其市場地位。相對而言，仍對中國市場持謹慎態度的投資者可能會面臨錯失良機的風險，形成市場內部的不同立場。"
-        },
-        "topic_priority_score": 4,
-        "event_type": "market_repricing",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "economy",
-        "source_name": "Reuters",
-        "title": "US producer inflation rises below expectations in March, but war fires up energy prices - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQXpGc0QwNXl6SVNoQUxScXZPVVh6cUVoZTRxTTc5SWs4NGczWlBvdEV0RWk3MWNGdmxjWUE0SDI5a1hXMnBtaVBIb2VyRmdpYkVWUktXblN3ZTBLeXM3anZoNnJEQm9hYzJmb1VTM0JtRkZlUFJlU1Qza1BhRzNORW0weXlmZFIyaE1TMzNMZjNyaGYyMFZteWhfWVVQMGw2UW5JUi1Kcw?oc=5",
-        "summary": "US producer inflation rises below expectations in March, but war fires up energy prices Reuters",
-        "published": "Tue, 14 Apr 2026 16:22:02 GMT",
-        "updated": "Tue, 14 Apr 2026 16:22:02 GMT",
-        "published_at_utc": "2026-04-14T16:22:02+00:00",
-        "id": "CBMipwFBVV95cUxNQXpGc0QwNXl6SVNoQUxScXZPVVh6cUVoZTRxTTc5SWs4NGczWlBvdEV0RWk3MWNGdmxjWUE0SDI5a1hXMnBtaVBIb2VyRmdpYkVWUktXblN3ZTBLeXM3anZoNnJEQm9hYzJmb1VTM0JtRkZlUFJlU1Qza1BhRzNORW0weXlmZFIyaE1TMzNMZjNyaGYyMFZteWhfWVVQMGw2UW5JUi1Kcw",
-        "topic_type": "inflation",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "US producer inflation rises below expectations in March, but war fires up energy prices Reuters",
-          "news_focus_zh": "美國3月份的生產者通脹上升幅度低於預期，然而戰爭導致能源價格上漲，影響經濟前景。",
-          "background": "美國的生產者通脹是衡量生產成本的一個重要指標，通常反映出供應鏈狀況及市場需求。近期，全球地緣政治緊張局勢，尤其是某些地區的戰爭，對能源市場造成了顯著影響，推高了能源價格。這些因素使得美國的通脹壓力持續存在，儘管生產者通脹數據未達預期，市場仍需警惕未來的價格波動。",
-          "stakeholders": [
-            "美國聯邦儲備系統",
+            "英國央行",
             "能源企業",
             "消費者",
             "投資者",
             "政府"
           ],
-          "analysis": "此次生產者通脹數據低於預期，可能使美國聯邦儲備系統在加息政策上保持謹慎。然而，能源價格的上漲將對企業成本及消費者支出產生壓力，可能導致通脹持續高企。企業面臨的成本增加可能會影響其利潤率，進而影響投資決策。不同利益方之間的角力將集中在如何應對這些價格變動及其對經濟增長的潛在影響上。"
+          "analysis": "英國央行面臨的挑戰在於如何在高通脹與經濟增長放緩之間找到平衡。能源價格上漲將對家庭和企業造成直接影響，增加生活成本，進一步壓迫消費支出。市場對於央行的利率決策持不同看法，部分分析師認為應提高利率以控制通脹，而另一些則擔心過快升息會加劇經濟衰退風險。這種分歧可能導致市場波動加劇。"
         },
-        "topic_priority_score": 9,
-        "event_type": "inflation_data",
+        "topic_priority_score": 10,
+        "event_type": "rate_decision",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "Big US banks rake in near $50bn profit as Iran war shakes markets",
+        "link": "https://www.theguardian.com/business/2026/apr/15/big-us-banks-profit-iran-war-markets-morgan-stanley-jp-morgan",
+        "summary": "Six lenders, including Bank of America, Morgan Stanley and JP Morgan report jump in first-quarter earnings Big US banks raked in nearly $50bn (£37bn) worth of profits in the first three months of the year, as they benefited from stock market turbulence triggered by the US-Israeli war on Iran. Wall Street’s largest lenders have reported a jump in first-quarter earnings, reflecting the surge in demand for trading services as investors dumped risky stocks and bonds and sought safer havens for their cash. Continue reading...",
+        "published": "Wed, 15 Apr 2026 15:04:55 GMT",
+        "updated": "2026-04-15T15:04:55Z",
+        "published_at_utc": "2026-04-15T15:04:55+00:00",
+        "id": "https://www.theguardian.com/business/2026/apr/15/big-us-banks-profit-iran-war-markets-morgan-stanley-jp-morgan",
+        "topic_type": "markets",
+        "relevance_score": 23,
+        "briefing": {
+          "news_focus": "Six lenders, including Bank of America, Morgan Stanley and JP Morgan report jump in first-quarter earnings Big US banks raked in nearly $50bn (£37bn) worth of profits in the first three months of the year, as they benefited from stock market turbulence triggered by the US-Israeli war on Iran. Wall Street’s largest lenders have reported a jump in first-quarter earnings, reflecting the surge in demand for trading services as investors dumped risky stocks and bonds and sought safer havens for their cash. Continue reading...",
+          "news_focus_zh": "美國六大銀行在2023年第一季度報告近500億美元的利潤，主要受益於因美國與以色列對伊朗的戰爭所引發的市場動盪，投資者轉向尋求更安全的資產。",
+          "background": "隨著美國與以色列對伊朗的緊張局勢升級，全球市場出現不穩定，促使投資者重新評估其投資組合。美國銀行業在此背景下，特別是大型銀行如美國銀行、摩根士丹利和JP摩根，因其強大的交易平台和風險管理能力，從中獲得了可觀的利潤。這一現象反映了金融市場對地緣政治事件的敏感性，以及在不確定性中尋求安全資產的趨勢。",
+          "stakeholders": [
+            "美國銀行",
+            "投資者",
+            "市場監管機構",
+            "伊朗政府",
+            "以色列政府"
+          ],
+          "analysis": "大型銀行的利潤增長顯示出金融機構在市場動盪中能夠靈活應對，並從中獲利。然而，這也引發了對市場穩定性的擔憂，因為投資者的恐慌性拋售可能導致更大的市場波動。對於銀行而言，雖然短期內獲利豐厚，但長期來看，持續的地緣政治緊張可能會影響整體經濟環境，進而影響貸款需求和消費者信心。各方需密切關注此局勢的發展及其對金融市場的潛在影響。"
+        },
+        "topic_priority_score": 4,
+        "event_type": "corporate_results",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "EasyJet warns of impact on profits as Iran war hits bookings and fuel prices",
+        "link": "https://www.theguardian.com/business/2026/apr/16/easyjet-profits-iran-war-bookings-fuel-prices-flights",
+        "summary": "Budget airline says passengers are leaving it later to book flights owing to economic uncertainty Business live – latest updates Middle East crisis – live updates The budget airline easyJet has warned the impact of the Iran war on bookings and oil prices will hit its profits, having driven up fuel costs by £25m in the last month alone. It said it expected to report an increased pre-tax loss of £540-£560m for the six months to March, up from £394m in the first half of 2024-25. The carrier typically makes its money in the second half of the year which includes the peak summer period. Continue reading...",
+        "published": "Thu, 16 Apr 2026 08:53:11 GMT",
+        "updated": "2026-04-16T08:53:11Z",
+        "published_at_utc": "2026-04-16T08:53:11+00:00",
+        "id": "https://www.theguardian.com/business/2026/apr/16/easyjet-profits-iran-war-bookings-fuel-prices-flights",
+        "topic_type": "energy_markets",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "Budget airline says passengers are leaving it later to book flights owing to economic uncertainty Business live – latest updates Middle East crisis – live updates The budget airline easyJet has warned the impact of the Iran war on bookings and oil prices will hit its profits, having driven up fuel costs by £25m in the last month alone. It said it expected to report an increased pre-tax loss of £540-£560m for the six months to March, up from £394m in the first half of 2024-25. The carrier typically makes its money in the second half of the year which includes the peak summer period. Continue reading...",
+          "news_focus_zh": "EasyJet警告，由於伊朗戰爭影響預訂及油價，將對其利潤造成衝擊，預計上半年的稅前虧損將增至540-560萬英鎊。",
+          "background": "近期中東局勢動盪，特別是伊朗戰爭的爆發，對航空業造成了直接影響。EasyJet作為預算航空公司，依賴於穩定的油價與穩定的旅客需求。過去幾年，航空業面臨著疫情後的復甦挑戰，經濟不確定性使得消費者的預訂行為變得更加謹慎，這進一步影響了航空公司的收益預測。",
+          "stakeholders": [
+            "EasyJet",
+            "消費者",
+            "投資者",
+            "競爭對手",
+            "油價市場"
+          ],
+          "analysis": "EasyJet面臨的挑戰主要來自於油價上漲和預訂行為的變化。消費者因經濟不確定性而延遲預訂，這可能導致航空公司在夏季旺季的收益減少。此外，油價的上漲直接增加了運營成本，進一步壓縮利潤空間。對於投資者而言，這意味著需要重新評估EasyJet的財務健康與未來增長潛力，而對於競爭對手來說，這可能是一個擴大市場份額的機會。"
+        },
+        "topic_priority_score": 8,
+        "event_type": "energy_supply_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -323,217 +323,217 @@
   "further_reading": {
     "technology": [
       {
-        "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
-        "link": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-14T18:09:12+00:00",
+        "title": "Cadence, Nvidia working together on developing AI for robotics - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcW9FTG1SQ2ZEZVE0RzI0OU9vcUZLcFlWRG5ucHFiWkxnMlRVRVR5U3FnU0dLcWVSd2hjT0FaSE5HQ0kwQS05MHM0Smt4dnAtQTcwUWp4ck1jUUk5TklmYlBRTWY5QWdDenE1SFpaWV9WZjhtX3J1TWpSVWFsblNjdno2ZGlNb29RVjBlSUk3cklpcW5qZXMyb1ZmUlY3Y0lzZDQw?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-15T21:42:09+00:00",
         "relevance_score": 17
+      },
+      {
+        "title": "Google launches a Gemini AI app on Mac",
+        "link": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-04-15T18:10:15+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "NASA Wants to Put Nuclear Reactors on the Moon",
+        "link": "https://www.wired.com/story/nasa-wants-to-put-nuclear-reactors-on-the-moon/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-04-15T18:55:52+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+        "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-15T19:28:36+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Google rolls out a native Gemini app for Mac",
+        "link": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-15T18:22:13+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "AI Could Democratize One of Tech's Most Valuable Resources",
+        "link": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-04-15T18:00:00+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Anthropic shrugs off VC funding offers valuing it at $800B+, for now",
+        "link": "https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-15T16:21:21+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
+        "link": "https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-04-15T14:58:08+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "FCC exempts Netgear from ban on foreign routers, doesn't explain why",
+        "link": "https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-04-15T17:58:07+00:00",
+        "relevance_score": 12
       },
       {
         "title": "RedNote chases U.S. expansion after its “TikTok refugee” moment fades",
         "link": "https://restofworld.org/2026/rednote-china-us-expansion-ecommerce-launch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
         "source_name": "Rest of World",
         "published_at_utc": "2026-04-14T10:00:00+00:00",
-        "relevance_score": 16
-      },
-      {
-        "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
-        "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-15T02:31:04+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
-        "link": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-14T21:33:38+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy",
-        "link": "https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-04-14T20:00:17+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "UK gov's Mythos AI tests help separate cybersecurity threat from hype",
-        "link": "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-04-14T19:11:25+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "The attacks on Sam Altman are a warning for the AI world",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-04-14T18:04:42+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Anthropic adds Novartis CEO Vas Narasimhan to its board - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdHVwb2NjRTR3dFMtZXBzVGl1QktqcDRjZXFSbXowblNvb25KdTBCNTNkcmMxWkJpRHVNQUVuTlYwY29tUl84X0RhR1pPRFpVSlNnOGlUMi1MdHZSanlXcmV4Nld5aHplT05MNy1IcmE4bERMZ3ZxWVNHVEhfM3c3M3NJU3F6MXdseXU2MUdLTVZCT0RxLWFXZG02QS1LeWxj?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-14T15:49:45+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Google brings its Gemini Personal Intelligence feature to India",
-        "link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-14T14:48:34+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Adobe fixes PDF zero-day security bug that hackers have exploited for months",
-        "link": "https://techcrunch.com/2026/04/14/adobe-fixes-pdf-zero-day-security-bug-that-hackers-have-exploited-for-months/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-14T14:35:16+00:00",
-        "relevance_score": 15
+        "relevance_score": 12
       }
     ],
     "politics": [
       {
-        "title": "Strong China-Russia relations are stabilising force in a ‘turbulent’ landscape: Xi Jinping",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3350167/strong-china-russia-relations-are-stabilising-force-turbulent-landscape-xi-jinping?utm_source=rss_feed",
+        "title": "Trump says Israel and Lebanon leaders will speak Thursday",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3350251/trump-says-israel-and-lebanon-leaders-hold-talks-thursday?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-04-15T09:01:36+00:00",
-        "relevance_score": 21
+        "published_at_utc": "2026-04-16T04:39:54+00:00",
+        "relevance_score": 22
       },
       {
-        "title": "Xi Jinping calls China-Russia ties 'precious' in current international context",
-        "link": "https://www.thehindu.com/news/international/xi-jinping-calls-china-russia-ties-precious-in-current-international-context/article70864441.ece",
+        "title": "U.S. rules out renewal of exemption from sanctions on Russian, Iranian oil",
+        "link": "https://www.thehindu.com/news/international/us-rules-out-renewal-of-exemption-from-sanctions-on-russian-iranian-oil/article70867740.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-15T08:48:13+00:00",
-        "relevance_score": 21
+        "published_at_utc": "2026-04-16T05:10:48+00:00",
+        "relevance_score": 20
       },
       {
-        "title": "Jaishankar speaks to Israeli counterpart Gideon Sa'ar over ‘different aspects’ of West Asia crisis",
-        "link": "https://www.thehindu.com/news/national/jaishankar-speaks-to-israeli-counterpart-gideon-saar-over-different-aspects-of-west-asia-crisis/article70863682.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-15T07:12:21+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "China’s Xi meets Russian FM Lavrov, calls relations with Moscow ‘precious’",
-        "link": "https://www.aljazeera.com/news/2026/4/15/chinas-xi-meets-russian-fm-lavrov-calls-relations-with-moscow-precious?traffic_source=rss",
+        "title": "Trump says Israel and Lebanon’s leaders will speak on Thursday",
+        "link": "https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanons-leaders-will-speak-on-thursday?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-15T06:37:14+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "India to host Foreign Minister-level meetings of BRICS and Quad in May",
-        "link": "https://www.thehindu.com/news/national/india-to-host-foreign-ministers-level-meetings-of-brics-and-quad-in-may/article70862474.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-15T03:46:33+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Trump warns US-UK trade deal ‘can always be changed’ with relations in ‘sad state’",
-        "link": "https://www.theguardian.com/politics/2026/apr/15/trump-us-uk-trade-deal-starmer-iran",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-15T08:11:14+00:00",
+        "published_at_utc": "2026-04-16T03:51:27+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Usman Khawaja condemns ‘appalling’ Coalition immigration comments – as it happened",
-        "link": "https://www.theguardian.com/australia-news/live/2026/apr/15/anthony-albanese-brunei-jim-chalmers-washington-iran-war-fuel-prices-economy-angus-taylor-labor-coalition-political-reactions-ntwnfb",
+        "title": "Georgia man charged over attacks that killed DHS worker and another woman",
+        "link": "https://www.theguardian.com/us-news/2026/apr/15/georgia-killing-dhs-worker",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-15T07:06:12+00:00",
+        "published_at_utc": "2026-04-16T00:12:41+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Sanctioned tanker turns back to Strait of Hormuz, day after Gulf exit",
-        "link": "https://www.thehindu.com/news/international/sanctioned-tanker-turns-back-to-strait-of-hormuz-day-after-gulf-exit/article70863808.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-15T06:04:48+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "UK to call for end to Sudan bloodshed at Berlin talks on third anniversary of war",
-        "link": "https://www.theguardian.com/world/2026/apr/15/uk-sudan-war-berlin-talks-aid-rsf-hunger-saudi-uae",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-14T23:01:52+00:00",
+        "title": "Why North Korea is rekindling China relations",
+        "link": "https://www.scmp.com/opinion/asia-opinion/article/3349984/why-north-korea-rekindling-china-relations?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-15T21:30:12+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Trump doubles down in criticising Pope Leo over Iran",
-        "link": "https://www.thehindu.com/news/international/trump-doubles-down-in-criticising-pope-leo-over-iran/article70864355.ece",
+        "title": "Bye-bye, US? Why China’s trade with Africa benefits from Trump’s policy volatility",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3350292/bye-bye-us-why-chinas-trade-africa-benefits-trumps-policy-volatility?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-16T09:00:10+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Contingency plans in place for possible food shortages if Iran war continues, minister confirms – UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/apr/16/iran-economy-food-fuel-local-elections-covid-latest-news-updates",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-16T08:45:07+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Russian missiles and drones kill at least 16 across Ukraine in worst attack this year",
+        "link": "https://www.scmp.com/news/world/europe/article/3350297/russian-missiles-and-drones-kill-least-16-across-ukraine-worst-attack-year?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-16T07:55:47+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "The pope has shown the world how to stand up to Trump",
+        "link": "https://www.aljazeera.com/opinions/2026/4/16/the-pope-has-shown-the-world-how-to-stand-up-to-trump?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-04-16T05:35:31+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "EU says age-check app 'ready' in push to protect children online",
+        "link": "https://www.thehindu.com/sci-tech/technology/eu-says-age-check-app-ready-in-push-to-protect-children-online/article70867501.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-15T08:51:08+00:00",
+        "published_at_utc": "2026-04-16T04:59:51+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "Huaqin’s US$580 million Hong Kong share sale attracts JPMorgan and UBS",
-        "link": "https://www.scmp.com/business/investor-relations/ipo-quote-profile/article/3350132/huaqins-us580-million-hong-kong-share-sale-attracts-jpmorgan-and-ubs?utm_source=rss_feed",
+        "title": "CEO of bitcoin firm championed by Nigel Farage leaves company",
+        "link": "https://www.theguardian.com/politics/2026/apr/16/ceo-of-bitcoin-firm-championed-by-nigel-farage-leaves-company-stack-btc",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-16T06:00:50+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "How South Korea plans to use the Iran crisis to spur a renewables revolution",
+        "link": "https://www.theguardian.com/world/2026/apr/16/south-korea-solar-power-renewables-revolution",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-16T03:09:28+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "$30m an hour: big oil reaping huge war windfall from consumers, analysis finds",
+        "link": "https://www.theguardian.com/environment/2026/apr/15/big-oil-huge-war-windfall-consumers",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-15T11:02:18+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Mark Mobius, pioneering emerging-market investor and China bull, dies at 89",
+        "link": "https://www.scmp.com/business/markets/article/3350250/mark-mobius-pioneering-emerging-market-investor-and-china-bull-dies-89?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-15T06:00:51+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "China set to issue US$2.3b in offshore bonds as demand for yuan-backed assets grows",
-        "link": "https://www.scmp.com/business/china-business/article/3350130/china-sell-us23-billion-bonds-hong-kong-biggest-deal-2023?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-15T05:29:54+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "IMF says strait of Hormuz closure raises prospect of ‘major energy crisis’ – video",
-        "link": "https://www.theguardian.com/business/video/2026/apr/15/imf-says-strait-of-hormuz-closure-raises-prospect-of-major-energy-crisis-video",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-15T02:42:32+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Higher oil prices, higher yields, no more rate cuts? No problem for US stocks - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTmxNZkdMZ1JMUGZ1dlFfdG5lS3pJdmpsZ0RrN1dTUGNDaWtWdi1lQXlNSmNEMXJ4d2p3ZEJ5QkJpQ2xSeV9HZVJnSWNpR2ZaYy1TcTVEQ3BQUUR5VzRBTHNJRUlibGx4TGRvMmdkU0R6elBHd3dZWTF2RUxlOWp5UE1iUHpBNk5ZdmRULWVHWnRuSkc5eVZfRkx4bGE3akxkYlFmVmtBaTZTdUNab2FmQ3pRaUpaUQ?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-14T16:20:00+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Strait of Hormuz blockade explained: why is Trump threatening to block Iranian ports and how would it work?",
-        "link": "https://www.theguardian.com/world/2026/apr/13/strait-of-hormuz-blockade-what-why-explained-navy-trump-iran",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-13T11:38:31+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Sheffield Wednesday’s prospective buyers in talks over partial lifting of transfer ban before next deduction",
-        "link": "https://www.theguardian.com/football/2026/apr/15/sheffield-wednesday-prospective-buyers-in-talks-over-partial-lifting-of-transfer-ban",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-15T08:24:50+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Bond investors target steeper US yield curve on bets for slower growth, more debt issuance - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT294LVpHVElLcXpnMlA0b0lvYWRIRTNoSV9VbkowUjJnMzc4MmQ1Y2tOcndTbUwtb0xjcU90TW5BVnI4UW1PVnZuclpMV05wd2FGLXVXSDBGZnJqdUFlSEQzYWNCelc1MmNaTU5Gdmt1Uk5xbkczOXpYSGloVzUtOUpDSlgzQXpFcXUxLXNJbVpuRmNXd18zcU1mb3VTWjZsYVEwaURHVURBQVp4YnhVNE5jVTgtOWYtbFE?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-14T14:06:14+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "UK steel exports to EU at risk as bloc doubles tariffs and halves quotas",
-        "link": "https://www.theguardian.com/business/2026/apr/14/uk-steel-exports-eu-risk-tariffs-quotas",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-14T13:53:35+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Bessent disparages IMF, World Bank forecasts, says US will quickly cycle through higher prices - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOanEybndLUVJHU3BsOG04bWdsT0d1VmdzN3ljdGpkaXFZbWRSSklNbnBVSm9zcFlYbVE1LTNPQTZlYmdVZXpqQjJuU3FhR2gwSUNhZGk1WEo4NUhWa1U3ak5DdGZXMGhKYnl0VlI1YXZOaFFPQU9jTEtEbV95RTZZd3ZNeGUyQ3J5Q2M4aGljbFE1SGt3TTJvSS15blpSR3pIUldTSlZZamFGMXMzSDZoTTg1TnRkX1lONmZ6Rl9LVnM?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-14T18:43:00+00:00",
+        "published_at_utc": "2026-04-16T04:30:22+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Hong Kong stocks rise as hopes of US-Iran talks ease oil price fears",
-        "link": "https://www.scmp.com/business/china-business/article/3350108/hong-kong-stocks-surge-hopes-us-iran-talks-ease-oil-price-fears?utm_source=rss_feed",
+        "title": "S&P 500, Nasdaq push to closing records on optimism around Middle East talks, earnings - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYU9PdE9VWERPN21wdEE5dTl5cThMNm92LVFpQWdDZGh3b2hkakFvVUdHS2w3UEEyOXRETFlndzI4Y0tJbk9WM280Y1F1YzZkaVhheUVEMnlhemtfR0lldEtQaXJkWTNvWEtBOW9Mc3BYLW5qejdFdS1fVXdEeHlLZXJPNjFLMDQ4TGg0LXNKaEhDUG93c1E?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-15T22:45:35+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "AI is destroying jobs – and the energy crisis could make that much worse | Larry Elliott",
+        "link": "https://www.theguardian.com/commentisfree/2026/apr/16/ai-destroying-jobs-energy-crisis-worse-doomsday-scenario",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-16T08:00:52+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "CATL market cap tops US$293 billion as shares surge on mining arm",
+        "link": "https://www.scmp.com/business/china-business/article/3350269/catl-market-cap-tops-us293-billion-shares-surge-mining-arm?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-15T02:28:04+00:00",
+        "published_at_utc": "2026-04-16T06:11:18+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "The IMF refuses to name the cause of this global chaos. It starts with ‘Donald’ and ends in ‘Trump’ | Greg Jericho",
+        "link": "https://www.theguardian.com/business/grogonomics/2026/apr/15/imf-world-economic-outlook-chaos-donald-trump",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-15T15:00:31+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Norwegian group in talks to buy former Liberty Steel works in South Yorkshire",
+        "link": "https://www.theguardian.com/business/2026/apr/15/norwegian-group-liberty-steel-blastr-ssuk-south-yorkshire-rotherham-stocksbridge",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-15T11:42:14+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "China's more-than-decade-late sanctions ineffective as leverage on Japan",
+        "link": "https://asia.nikkei.com/opinion/china-s-more-than-decade-late-sanctions-ineffective-as-leverage-on-japan",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
         "relevance_score": 17
       }
     ]
@@ -544,5 +544,5 @@
     "failed": 0,
     "total": 9
   },
-  "theme_of_day": "今日新聞的整體脈絡顯示出科技、政治與經濟三個領域之間的相互影響。科技版面中，OpenAI的最新AI模型推出與矽谷對AI法規的抵制，反映出科技創新與監管之間的緊張關係，這也可能對市場情緒產生影響。另一方面，政治版面中的英國地方選舉及美新加坡關係的變化，可能進一步影響經濟預測，尤其是在全球市場對地緣政治風險敏感的背景下。"
+  "theme_of_day": "今日新聞的整體敘事主軸圍繞著全球安全形勢及其對經濟的影響，特別是在俄烏衝突及伊朗戰爭的背景下。科技版面中的網絡攻擊與政治版面對俄羅斯行為的譴責相互呼應，顯示出國際社會對於安全威脅的高度警覺。此外，經濟版面報導的能源價格上漲及企業利潤變化，則反映出地緣政治緊張對市場的直接影響，形成了一個相互交織的新聞脈絡。"
 }

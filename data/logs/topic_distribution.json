@@ -559,40 +559,60 @@
           "inflation"
         ]
       }
+    },
+    {
+      "date": "2026-04-16",
+      "topics": {
+        "technology": [
+          "chips",
+          "cybersecurity",
+          "social_media"
+        ],
+        "politics": [
+          "war_and_conflict",
+          "us_politics",
+          "diplomacy"
+        ],
+        "economy": [
+          "interest_rates",
+          "markets",
+          "energy_markets"
+        ]
+      }
     }
   ],
   "rolling_frequency": {
     "technology": {
-      "chips": 22,
-      "cybersecurity": 22,
+      "chips": 23,
+      "cybersecurity": 23,
       "ai": 27,
       "space_tech": 5,
       "platform_regulation": 2,
       "general": 4,
-      "social_media": 1,
+      "social_media": 2,
       "quantum_computing": 1
     },
     "politics": {
-      "war_and_conflict": 26,
+      "war_and_conflict": 27,
       "us_china_relations": 15,
       "uk_politics": 13,
       "eu_policy": 8,
-      "us_politics": 12,
-      "diplomacy": 7,
+      "us_politics": 13,
+      "diplomacy": 8,
       "social_protests": 3
     },
     "economy": {
-      "interest_rates": 18,
+      "interest_rates": 19,
       "inflation": 23,
       "trade_wars": 17,
       "supply_chain": 2,
-      "energy_markets": 8,
+      "energy_markets": 9,
       "general": 3,
-      "markets": 10,
+      "markets": 11,
       "sanctions": 1,
       "corporate_earnings": 2
     }
   },
   "window_days": 30,
-  "last_updated": "2026-04-15"
+  "last_updated": "2026-04-16"
 }
