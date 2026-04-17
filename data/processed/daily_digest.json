@@ -1,25 +1,25 @@
 {
-  "generated_at_utc": "2026-04-16T09:09:25.012619+00:00",
+  "generated_at_utc": "2026-04-17T09:08:39.340168+00:00",
   "summary": {
-    "total_raw_items": 1112,
-    "total_deduped_items": 1093,
+    "total_raw_items": 1121,
+    "total_deduped_items": 1096,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "chips",
-        "cybersecurity",
-        "social_media"
+        "ai",
+        "space_tech",
+        "chips"
       ],
       "politics": [
-        "war_and_conflict",
-        "us_politics",
-        "diplomacy"
+        "diplomacy",
+        "uk_politics",
+        "war_and_conflict"
       ],
       "economy": [
-        "interest_rates",
+        "trade_wars",
         "markets",
-        "energy_markets"
+        "interest_rates"
       ]
     },
     "multi_source_selected_count": 0
@@ -29,59 +29,27 @@
       {
         "category": "technology",
         "source_name": "Reuters",
-        "title": "US Senator Warren voices concern over Nvidia's acquisition of Slurm - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUEFGbmEteGR6T1h3TVBvVXlfWk5xUWU0TTRjU29kRHFLeWVrb0FtWHFSZTkwOWRsZ2NhalF0ekQyT1VLa0t1d3dELTRLMTZuWktyaEVKejhadFNuSDYwQ3ZyNUplMDUtWGxvR0NJa01mT0lHSlFDS3ZYUC1mWHI1cEdxZ3hHOWVqUVUwSDgtRV8yT0x3TldmR2tDbkRDaTNxLTl3bG1wSVBpQmwzU3JR?oc=5",
-        "summary": "US Senator Warren voices concern over Nvidia's acquisition of Slurm Reuters",
-        "published": "Wed, 15 Apr 2026 14:35:37 GMT",
-        "updated": "Wed, 15 Apr 2026 14:35:37 GMT",
-        "published_at_utc": "2026-04-15T14:35:37+00:00",
-        "id": "CBMirwFBVV95cUxQUEFGbmEteGR6T1h3TVBvVXlfWk5xUWU0TTRjU29kRHFLeWVrb0FtWHFSZTkwOWRsZ2NhalF0ekQyT1VLa0t1d3dELTRLMTZuWktyaEVKejhadFNuSDYwQ3ZyNUplMDUtWGxvR0NJa01mT0lHSlFDS3ZYUC1mWHI1cEdxZ3hHOWVqUVUwSDgtRV8yT0x3TldmR2tDbkRDaTNxLTl3bG1wSVBpQmwzU3JR",
-        "topic_type": "chips",
-        "relevance_score": 19,
+        "title": "White House to give US agencies Anthropic Mythos access, Bloomberg News reports - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcllrY2xTYTExLTlCRldDbmNvSzM3c1c5dV9LNHFycnNzSVhLV0ZnQXNOYVlGRE5YWXFaOFN5RXhTUDhhdVMwbjlLTno3ZEFuUWlrU3VZMUs4dlUwa3c3ZVh5M0ZFSXlsTk1PNG4tSGotb0RsVGxBcFBRMUVNcFc4a3FKcHY2X0R5U0ljZ2tVZ1pVcXZzYXJZUHBKODdUUXBUWFBDd0p5Z3R5QmJoVDNQSW1lOFljbllpSHh3cXZqbw?oc=5",
+        "summary": "White House to give US agencies Anthropic Mythos access, Bloomberg News reports Reuters",
+        "published": "Thu, 16 Apr 2026 23:23:41 GMT",
+        "updated": "Thu, 16 Apr 2026 23:23:41 GMT",
+        "published_at_utc": "2026-04-16T23:23:41+00:00",
+        "id": "CBMivwFBVV95cUxPcllrY2xTYTExLTlCRldDbmNvSzM3c1c5dV9LNHFycnNzSVhLV0ZnQXNOYVlGRE5YWXFaOFN5RXhTUDhhdVMwbjlLTno3ZEFuUWlrU3VZMUs4dlUwa3c3ZVh5M0ZFSXlsTk1PNG4tSGotb0RsVGxBcFBRMUVNcFc4a3FKcHY2X0R5U0ljZ2tVZ1pVcXZzYXJZUHBKODdUUXBUWFBDd0p5Z3R5QmJoVDNQSW1lOFljbllpSHh3cXZqbw",
+        "topic_type": "ai",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "US Senator Warren voices concern over Nvidia's acquisition of Slurm Reuters",
-          "news_focus_zh": "美國參議員伊莉莎白·沃倫對英偉達收購Slurm表示擔憂，指出此交易可能對市場競爭及創新造成負面影響。",
-          "background": "英偉達作為全球領先的圖形處理單元（GPU）製造商，近年來在人工智慧和高效能計算領域迅速擴張。Slurm是一款開源的工作負載管理系統，廣泛應用於高性能計算（HPC）環境。沃倫的擔憂反映了對大型科技公司合併的普遍關注，特別是在市場集中度增加可能抑制創新與競爭的背景下。",
+          "news_focus": "White House to give US agencies Anthropic Mythos access, Bloomberg News reports Reuters",
+          "news_focus_zh": "美國白宮將允許各政府機構使用Anthropic Mythos，這一決策旨在提升政府在人工智慧領域的能力與應用。",
+          "background": "Anthropic是一家專注於人工智慧安全與倫理的公司，其開發的Mythos平台旨在提供更安全的AI解決方案。隨著AI技術的迅速發展，各國政府對於如何有效利用這些技術以提升公共服務與國家安全的關注日益增加。美國政府在此背景下，選擇與Anthropic合作，反映出其在AI政策與技術應用上的積極態度。",
           "stakeholders": [
-            "英偉達",
-            "Slurm",
             "美國政府",
-            "科技創新企業",
-            "市場監管機構"
+            "Anthropic",
+            "科技公司",
+            "公民社會",
+            "監管機構"
           ],
-          "analysis": "沃倫的立場代表了對科技巨頭合併的監管擔憂，尤其是在AI和計算資源日益重要的當前環境。支持者認為，收購將促進技術整合與創新，但反對者則擔心這會削弱市場競爭，限制其他公司的發展潛力。此事件可能引發更多監管機構的審查，影響英偉達的未來併購策略及整個科技行業的競爭格局。"
-        },
-        "topic_priority_score": 10,
-        "event_type": "strategic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "Sweden blames Russian hackers for attempting ‘destructive’ cyberattack on thermal plant",
-        "link": "https://techcrunch.com/2026/04/15/sweden-blames-russian-hackers-for-attempting-destructive-cyberattack-on-thermal-plant/",
-        "summary": "Sweden's minister for civil defense said Russian hackers are \"now attempting destructive cyber attacks against organizations in Europe.\"",
-        "published": "Wed, 15 Apr 2026 14:21:39 +0000",
-        "updated": "Wed, 15 Apr 2026 14:21:39 +0000",
-        "published_at_utc": "2026-04-15T14:21:39+00:00",
-        "id": "https://techcrunch.com/?p=3112602",
-        "topic_type": "cybersecurity",
-        "relevance_score": 19,
-        "briefing": {
-          "news_focus": "Sweden's minister for civil defense said Russian hackers are \"now attempting destructive cyber attacks against organizations in Europe.\"",
-          "news_focus_zh": "瑞典內政部長指責俄羅斯黑客對歐洲組織發起破壞性網絡攻擊，特別針對熱電廠，顯示出當前網絡安全形勢的嚴峻性。",
-          "background": "隨著地緣政治緊張局勢加劇，網絡攻擊已成為國家間衝突的新戰場。瑞典在過去幾年中加強了其網絡安全防禦，尤其是在能源基礎設施方面。俄羅斯的網絡攻擊行為被認為是其對外政策的一部分，旨在干擾對手的關鍵基礎設施，並提升其在國際舞台上的影響力。",
-          "stakeholders": [
-            "瑞典政府",
-            "俄羅斯政府",
-            "歐洲能源企業",
-            "網絡安全公司",
-            "國際社會"
-          ],
-          "analysis": "瑞典政府的指控反映了對俄羅斯網絡行為的高度警惕，這可能會加劇瑞典與俄羅斯之間的緊張關係。對於瑞典而言，保護能源基礎設施至關重要，任何攻擊都可能對國內經濟和民生造成嚴重影響。另一方面，俄羅斯可能會否認這些指控，並將其視為西方國家對其行為的誇大，進一步激化雙方的對立局勢。"
+          "analysis": "此舉對於美國政府機構而言，將有助於提升其在AI技術應用上的效率與安全性，特別是在數據分析與決策支持方面。然而，這也可能引發對於AI倫理與監管的討論，特別是如何在保障公民隱私與安全的同時，促進技術創新。不同利益方，如科技公司、政府機構及公民社會，可能會對此政策有不同的看法，科技公司可能支持這一合作以獲得更多市場機會，而公民社會則可能對AI的監管與透明度提出質疑。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
@@ -92,30 +60,62 @@
       },
       {
         "category": "technology",
-        "source_name": "BBC Technology",
-        "title": "Social media leaders called to Downing Street over children's safety",
-        "link": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Top executives from firms such as Meta and YouTube will be asked what they are doing to protect children.",
-        "published": "Wed, 15 Apr 2026 21:30:40 GMT",
-        "updated": "Wed, 15 Apr 2026 21:30:40 GMT",
-        "published_at_utc": "2026-04-15T21:30:40+00:00",
-        "id": "https://www.bbc.com/news/articles/crl11ynjyn1o#0",
-        "topic_type": "social_media",
-        "relevance_score": 16,
+        "source_name": "Ars Technica",
+        "title": "After a saga of broken promises, a European rover finally has a ride to Mars",
+        "link": "https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/",
+        "summary": "Europe's first Mars rover mission is now on its fourth rocket: SpaceX's Falcon Heavy.",
+        "published": "Fri, 17 Apr 2026 03:15:54 +0000",
+        "updated": "Fri, 17 Apr 2026 03:15:54 +0000",
+        "published_at_utc": "2026-04-17T03:15:54+00:00",
+        "id": "https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/",
+        "topic_type": "space_tech",
+        "relevance_score": 18,
         "briefing": {
-          "news_focus": "Top executives from firms such as Meta and YouTube will be asked what they are doing to protect children.",
-          "news_focus_zh": "英國政府邀請Meta及YouTube等社交媒體公司的高層，討論如何加強對兒童的安全保護措施。",
-          "background": "隨著社交媒體的普及，兒童在網路上面臨的風險日益增加，包括網路欺凌、性騷擾及不當內容接觸。英國政府在此背景下，推動更嚴格的監管政策，特別是在《在線安全法》框架下，要求社交媒體平台負起更多責任，保障未成年用戶的安全。",
+          "news_focus": "Europe's first Mars rover mission is now on its fourth rocket: SpaceX's Falcon Heavy.",
+          "news_focus_zh": "歐洲首個火星探測車任務終於確定搭乘SpaceX的獵鷹重型火箭，這是該任務歷經多次延誤與變更後的第四次選擇。",
+          "background": "歐洲航天局（ESA）計劃的火星探測車任務自啟動以來面臨多次挑戰，包括技術問題與發射計劃的變更。最初的發射計劃依賴於其他火箭，但由於各種原因未能如期進行。隨著SpaceX的獵鷹重型火箭的選擇，這標誌著歐洲在太空探索領域的進一步合作與依賴私營企業的趨勢。",
           "stakeholders": [
-            "英國政府",
-            "Meta",
-            "YouTube",
-            "兒童權益組織",
-            "家長"
+            "歐洲航天局（ESA）",
+            "SpaceX",
+            "國際太空社群",
+            "歐洲國家政府",
+            "科學研究機構"
           ],
-          "analysis": "此次會議反映了政府對社交媒體平台在兒童安全問題上的不滿，Meta和YouTube等公司面臨的壓力將促使其加強內容監管和安全措施。然而，這也可能引發企業對於監管過度的擔憂，影響其業務運作及創新能力。政府與企業間的對話若能有效，或能促進更具體的行動計畫，但若雙方立場無法達成共識，則可能導致進一步的法律規範。"
+          "analysis": "此次任務的成功與否將影響歐洲在全球太空探索中的地位。對於ESA而言，選擇SpaceX的火箭不僅是技術上的依賴，也反映出與美國私營航天業者的合作關係。這可能引發對歐洲自主太空能力的質疑，尤其是在與美國及中國等國的競爭中。此外，SpaceX的參與也可能促進其在國際市場上的影響力，進一步改變全球太空發射市場的格局。"
         },
-        "topic_priority_score": 6,
+        "topic_priority_score": 4,
+        "event_type": "strategic_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "Wired",
+        "title": "Congress Turns Up Pressure on DHS Over Palantir’s Role in Immigration Crackdown",
+        "link": "https://www.wired.com/story/congress-turns-up-pressure-on-dhs-over-palantirs-role-in-immigration-crackdown/",
+        "summary": "Democrats are demanding answers about Palantir and other surveillance firms powering Trump’s hard-line immigration enforcement agenda.",
+        "published": "Thu, 16 Apr 2026 13:00:00 +0000",
+        "updated": "Thu, 16 Apr 2026 13:00:00 +0000",
+        "published_at_utc": "2026-04-16T13:00:00+00:00",
+        "id": "69de81c40f251aa1f7f05c61",
+        "topic_type": "chips",
+        "relevance_score": 17,
+        "briefing": {
+          "news_focus": "Democrats are demanding answers about Palantir and other surveillance firms powering Trump’s hard-line immigration enforcement agenda.",
+          "news_focus_zh": "美國國會對國土安全部施加壓力，要求針對Palantir及其他監控公司在特朗普強硬移民執法政策中的角色提供解釋，顯示出民主黨對於監控技術使用的擔憂。",
+          "background": "Palantir是一家專注於數據分析和監控技術的公司，近年來在美國移民執法中扮演重要角色。特朗普政府推行的強硬移民政策引發了廣泛爭議，尤其是在如何使用技術來執行這些政策方面。民主黨對此表達了強烈反對，認為這些技術可能侵犯個人隱私權，並要求國土安全部提供更多透明度。",
+          "stakeholders": [
+            "Palantir",
+            "美國國土安全部",
+            "民主黨",
+            "共和黨",
+            "移民權益團體"
+          ],
+          "analysis": "民主黨對Palantir的監控技術表示擔憂，認為其在移民執法中的應用可能導致不當監視和人權問題。相對而言，支持強硬移民政策的共和黨則可能認為這些技術是維護國家安全的重要工具。隨著國會的壓力增大，Palantir及其他監控公司可能面臨更嚴格的監管，這可能會影響其業務模式及未來的政府合約。"
+        },
+        "topic_priority_score": 10,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -126,31 +126,31 @@
     "politics": [
       {
         "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "Europe live: Russia ‘does not deserve’ lifting of sanctions, Zelenskyy says, after deadly overnight strikes in Ukraine",
-        "link": "https://www.theguardian.com/world/live/2026/apr/16/europe-russia-zelenskyy-ukraine-nato-rutte-merz-magyar-latest-updates",
-        "summary": "Ukrainian president says nearly 700 Russian drones and 19 ballistic missiles mostly targeted Kyiv, Odesa and Dnipro President of the European Council António Costa has condemned the “horrendous” overnight attacks on Ukraine by Russia, alleging Russian forces “deliberately carried out follow-up strikes” to target first responders. He said: “ As people slept in their homes, the cities of Kyiv, Dnipro, Odesa, and Kharkiv were struck by dozens of ballistic missiles and hundreds of drones. Russian armed forces deliberately carried out follow-up strikes on Ukrainian emergency services as first responders arrived to save lives.” “ Russia’s war of aggression against Ukraine has failed, and so it chooses to deliberately terrorise civilians. Russia must stop this war of terror.” “ Russia is betting on war, and the response must be exactly that: we must defend lives with all available means, and we must also apply pressure for the sake of peace with the same full force.” Continue reading...",
-        "published": "Thu, 16 Apr 2026 08:53:21 GMT",
-        "updated": "2026-04-16T08:53:21Z",
-        "published_at_utc": "2026-04-16T08:53:21+00:00",
-        "id": "https://www.theguardian.com/world/live/2026/apr/16/europe-russia-zelenskyy-ukraine-nato-rutte-merz-magyar-latest-updates",
-        "topic_type": "war_and_conflict",
-        "relevance_score": 22,
+        "source_name": "The Hindu International",
+        "title": "Macron, Starmer hold international summit on reopening Strait of Hormuz",
+        "link": "https://www.thehindu.com/news/international/macron-starmer-hold-international-summit-on-reopening-strait-of-hormuz/article70872634.ece",
+        "summary": "The U.S. is not part of the planning for what has been branded the Strait of Hormuz Maritime Freedom of Navigation Initiative",
+        "published": "Fri, 17 Apr 2026 12:28:46 +0530",
+        "updated": "Fri, 17 Apr 2026 12:28:46 +0530",
+        "published_at_utc": "2026-04-17T06:58:46+00:00",
+        "id": "article-70872634",
+        "topic_type": "diplomacy",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Ukrainian president says nearly 700 Russian drones and 19 ballistic missiles mostly targeted Kyiv, Odesa and Dnipro President of the European Council António Costa has condemned the “horrendous” overnight attacks on Ukraine by Russia, alleging Russian forces “deliberately carried out follow-up strikes” to target first responders. He said: “ As people slept in their homes, the cities of Kyiv, Dnipro, Odesa, and Kharkiv were struck by dozens of ballistic missiles and hundreds of drones. Russian armed forces deliberately carried out follow-up strikes on Ukrainian emergency services as first responders arrived to save lives.” “ Russia’s war of aggression against Ukraine has failed, and so it chooses to deliberately terrorise civilians. Russia must stop this war of terror.” “ Russia is betting on war, and the response must be exactly that: we must defend lives with all available means, and we must also apply pressure for the sake of peace with the same full force.” Continue reading...",
-          "news_focus_zh": "烏克蘭總統澤倫斯基表示，俄羅斯不應該解除制裁，因為俄軍對烏克蘭的致命攻擊造成重大傷亡，並指責俄軍故意針對救援人員進行後續打擊。歐洲理事會主席安東尼奧·科斯塔譴責這些攻擊，強調俄羅斯的侵略行為必須受到制止。",
-          "background": "自2022年俄烏戰爭爆發以來，西方國家對俄羅斯實施了一系列經濟制裁，旨在削弱其軍事能力。近期，俄軍加大對烏克蘭城市的攻擊力度，尤其是針對基輔、敖德薩和第聶伯等地，造成大量平民傷亡。這一系列攻擊引發國際社會的強烈譴責，並促使歐洲領導人重申對烏克蘭的支持。",
+          "news_focus": "The U.S. is not part of the planning for what has been branded the Strait of Hormuz Maritime Freedom of Navigation Initiative",
+          "news_focus_zh": "法國總統馬克宏與英國工黨領袖史達默舉行國際峰會，討論霍爾木茲海峽的重新開放，並推出了海峽航行自由倡議，但美國並未參與此計畫。",
+          "background": "霍爾木茲海峽是全球重要的石油運輸通道，過去因地緣政治緊張局勢而多次受到影響。隨著中東局勢的變化，法國與英國希望透過此倡議促進航行自由，並加強對該地區的影響力。美國的缺席顯示出其在該地區政策的轉變，可能反映出對多邊合作的重新考量或對傳統盟友的信任缺失。",
           "stakeholders": [
-            "烏克蘭政府",
-            "俄羅斯政府",
-            "歐洲理事會",
-            "國際社會",
-            "救援組織"
+            "法國政府",
+            "英國工黨",
+            "美國政府",
+            "中東國家",
+            "全球能源市場"
           ],
-          "analysis": "澤倫斯基與科斯塔的言論反映了烏克蘭及其盟友對俄羅斯行為的強烈反對，並強調持續制裁的重要性。俄方可能會利用這些攻擊來試圖削弱烏克蘭的抵抗意志，但國際社會的譴責與支持可能會進一步加強對烏克蘭的援助。未來，若俄軍繼續加大攻擊力度，將可能導致更嚴厲的國際制裁和軍事支援。"
+          "analysis": "馬克宏與史達默的合作顯示出歐洲國家在面對地緣政治挑戰時的團結意圖，尤其是在美國政策不確定的背景下。對於中東國家而言，這一倡議可能被視為外部勢力介入的信號，可能引發不同反應。美國的缺席則可能導致其在該地區影響力的減弱，並促使其他國家重新評估與美國的合作關係，進而影響全球能源市場的穩定性。"
         },
-        "topic_priority_score": 11,
-        "event_type": "security_event",
+        "topic_priority_score": 7,
+        "event_type": "diplomatic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -159,61 +159,61 @@
       {
         "category": "politics",
         "source_name": "The Guardian World",
-        "title": "Middle East crisis live: Netanyahu ‘to speak to Lebanese leader leader today’ but Beirut reportedly unaware of plans",
-        "link": "https://www.theguardian.com/world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates",
-        "summary": "Israeli minister says pair to speak after ‘many years of total disconnect’ but reports say that Lebanese were not aware of plans first outlined by Trump US and Iran in indirect talks to extend two-week ceasefire A member of Israel’s security cabinet, Galia Gamliel, said the prime minister, Benjamin Netanyahu, will speak to the Lebanese president, Joseph Aoun, today, according to Israeli media. The conversation will take place “after so many years of a total disconnect in the dialogue between the two states, and this move will hopefully, in the end, lead to prosperity”, she told the Israeli Army Radio, the Times of Israel reported. Continue reading...",
-        "published": "Thu, 16 Apr 2026 08:22:16 GMT",
-        "updated": "2026-04-16T08:22:16Z",
-        "published_at_utc": "2026-04-16T08:22:16+00:00",
-        "id": "https://www.theguardian.com/world/live/2026/apr/16/middle-east-crisis-live-iran-war-news-us-trump-ceasefire-deal-lebanon-israel-oil-sanctions-latest-updates",
-        "topic_type": "us_politics",
-        "relevance_score": 22,
+        "title": "Minister defends Starmer amid Mandelson revelations, saying vetting decision ‘utterly unacceptable’ – UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/apr/17/peter-mandelson-keir-starmer-olly-robbins-vetting-foreign-office-latest-news-updates",
+        "summary": "Darren Jones says he has ordered an urgent review into news that the Foreign Office ignored security vetting advice Olly Robbins forced out in Mandelson vetting row Jones repeatedly denied that the prime minister had given a misleading impression about what has happened and had “lost grip” of the situation. He told BBC Radio 4’s Today programme: I completely refute the suggestion the PM misled the public or the House of Commons. It’s very clear from his words he was reporting what he had been told and what had been followed. I don’t think this is a question about the prime minister’s leadership. The Foreign Office did not tell the prime minister that they granted developed vetting status to Peter Mandelson against the advice of the security and vetting process. The prime minister was only made aware of that on Tuesday evening this week when the documents became available to the Cabinet Office as part of the humble address process (a binding motion to request government papers – JG). No minister is allowed to see these vetting documents as a matter of principle because we employ security professionals to conduct deeply invasive personal investigations into people’s backgrounds and for those officials to make a recommendation to civil servants on the appointment and employment of individuals. Continue reading...",
+        "published": "Fri, 17 Apr 2026 08:47:31 GMT",
+        "updated": "2026-04-17T08:47:31Z",
+        "published_at_utc": "2026-04-17T08:47:31+00:00",
+        "id": "https://www.theguardian.com/politics/live/2026/apr/17/peter-mandelson-keir-starmer-olly-robbins-vetting-foreign-office-latest-news-updates",
+        "topic_type": "uk_politics",
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "Israeli minister says pair to speak after ‘many years of total disconnect’ but reports say that Lebanese were not aware of plans first outlined by Trump US and Iran in indirect talks to extend two-week ceasefire A member of Israel’s security cabinet, Galia Gamliel, said the prime minister, Benjamin Netanyahu, will speak to the Lebanese president, Joseph Aoun, today, according to Israeli media. The conversation will take place “after so many years of a total disconnect in the dialogue between the two states, and this move will hopefully, in the end, lead to prosperity”, she told the Israeli Army Radio, the Times of Israel reported. Continue reading...",
-          "news_focus_zh": "以色列總理內塔尼亞胡計劃與黎巴嫩總統奧恩進行對話，這是兩國多年來首次接觸，旨在促進雙方對話與和平。然而，黎巴嫩方面似乎對此計劃並不知情，顯示出雙方在溝通上的重大落差。",
-          "background": "以色列與黎巴嫩的關係長期緊張，尤其是由於以色列與真主黨的衝突。近年來，兩國之間幾乎沒有直接對話，這次對話的提議被視為一個潛在的外交突破。此舉也受到美國與伊朗間間接談判的影響，旨在延長兩週的停火協議，並可能為更廣泛的地區穩定鋪路。",
+          "news_focus": "Darren Jones says he has ordered an urgent review into news that the Foreign Office ignored security vetting advice Olly Robbins forced out in Mandelson vetting row Jones repeatedly denied that the prime minister had given a misleading impression about what has happened and had “lost grip” of the situation. He told BBC Radio 4’s Today programme: I completely refute the suggestion the PM misled the public or the House of Commons. It’s very clear from his words he was reporting what he had been told and what had been followed. I don’t think this is a question about the prime minister’s leadership. The Foreign Office did not tell the prime minister that they granted developed vetting status to Peter Mandelson against the advice of the security and vetting process. The prime minister was only made aware of that on Tuesday evening this week when the documents became available to the Cabinet Office as part of the humble address process (a binding motion to request government papers – JG). No minister is allowed to see these vetting documents as a matter of principle because we employ security professionals to conduct deeply invasive personal investigations into people’s backgrounds and for those officials to make a recommendation to civil servants on the appointment and employment of individuals. Continue reading...",
+          "news_focus_zh": "英國外交部在彼得·曼德爾森的安全審查中忽視了安全建議，引發內部爭議。內閣成員達倫·瓊斯強調首相並未誤導公眾，並表示將進行緊急檢討此事件。",
+          "background": "曼德爾森是英國政治中的重要人物，其背景審查問題涉及到國家安全與政府透明度。英國外交部的安全審查程序旨在確保任命的安全性，然而此次事件揭示了內部溝通的缺失，可能影響政府的公信力與運作效率。隨著政治環境的變化，對於官員的背景審查愈發受到關注，特別是在安全問題上。",
+          "stakeholders": [
+            "英國首相",
+            "外交部",
+            "國會議員",
+            "公眾",
+            "安全專業人士"
+          ],
+          "analysis": "此次事件引發了對首相領導能力的質疑，儘管瓊斯強調首相並未故意誤導公眾，但這一說法可能無法平息外界的疑慮。外交部的決策過程與首相的透明度之間的矛盾，可能導致民眾對政府信任度的下降。此外，這一事件可能促使政府對安全審查程序進行更深入的檢討，影響未來的官員任命與內部管理。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "security_event",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "politics",
+        "source_name": "BBC World",
+        "title": "What we know about the Israel-Lebanon ceasefire",
+        "link": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
+        "summary": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the US and Iran.",
+        "published": "Fri, 17 Apr 2026 08:44:20 GMT",
+        "updated": "Fri, 17 Apr 2026 08:44:20 GMT",
+        "published_at_utc": "2026-04-17T08:44:20+00:00",
+        "id": "https://www.bbc.com/news/articles/cwy32277e58o#2",
+        "topic_type": "war_and_conflict",
+        "relevance_score": 20,
+        "briefing": {
+          "news_focus": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the US and Iran.",
+          "news_focus_zh": "以色列與黎巴嫩之間的10天停火協議已經生效，伊朗支持的真主黨表示支持此協議，並且美國與伊朗之間的談判仍在進行中。",
+          "background": "以色列與黎巴嫩的衝突歷史悠久，主要由於領土爭端及宗教與政治因素。真主黨作為黎巴嫩的主要武裝組織，長期受到伊朗的支持，並在地區衝突中扮演重要角色。此次停火協議的達成，反映出國際社會對於該地區穩定的關注，尤其是在美國與伊朗之間的緊張關係背景下，雙方的談判可能影響未來的地緣政治局勢。",
           "stakeholders": [
             "以色列政府",
             "黎巴嫩政府",
-            "美國",
+            "真主黨",
             "伊朗",
-            "真主黨"
+            "美國"
           ],
-          "analysis": "以色列政府希望透過與黎巴嫩的對話來改善雙邊關係，並尋求區域穩定。然而，黎巴嫩方面的無知顯示出內部政治的複雜性，可能導致對話的成效受限。以色列與黎巴嫩的對話若能成功，將可能改變中東地區的力量平衡，並影響美國在該地區的外交策略。各方需密切關注後續發展，以評估其對地區安全的實質影響。"
+          "analysis": "停火協議的達成對以色列、黎巴嫩及其支持者如伊朗有著不同的影響。以色列可能希望藉此緩解軍事壓力，並尋求國際支持來穩定局勢；而黎巴嫩則希望透過停火來恢復國內的穩定與安全。伊朗的支持則可能是為了增強其在地區的影響力，並在與美國的談判中獲得更多籌碼。各方的利益交織，使得未來局勢仍充滿不確定性。"
         },
-        "topic_priority_score": 8,
-        "event_type": "security_event",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "Pakistani delegation, led by Army chief Munir, reaches Iran for peace talks",
-        "link": "https://www.thehindu.com/news/international/pakistani-delegation-led-by-army-chief-munir-reaches-iran-for-peace-talks/article70866779.ece",
-        "summary": "Iranian Foreign Minister Abbas Araghchi welcomed the delegation members upon their arrival in Tehran, according to the Iranian media",
-        "published": "Thu, 16 Apr 2026 11:30:21 +0530",
-        "updated": "Thu, 16 Apr 2026 11:30:21 +0530",
-        "published_at_utc": "2026-04-16T06:00:21+00:00",
-        "id": "article-70866779",
-        "topic_type": "diplomacy",
-        "relevance_score": 19,
-        "briefing": {
-          "news_focus": "Iranian Foreign Minister Abbas Araghchi welcomed the delegation members upon their arrival in Tehran, according to the Iranian media",
-          "news_focus_zh": "巴基斯坦軍方首長穆尼爾率領的代表團抵達伊朗，展開和平會談，受到伊朗外長阿巴斯·阿拉赫奇的熱烈歡迎。",
-          "background": "巴基斯坦與伊朗之間的關係歷史悠久，兩國在安全與經濟上有著密切的互動。近年來，隨著地區安全形勢的變化，兩國都面臨來自外部勢力的壓力，特別是美國與印度的影響力增強。此次會談的背景是雙方希望加強合作，以應對共同的安全挑戰，並促進邊境地區的穩定。",
-          "stakeholders": [
-            "巴基斯坦政府",
-            "伊朗政府",
-            "美國政府",
-            "印度政府",
-            "地區安全組織"
-          ],
-          "analysis": "此次會談對於巴基斯坦和伊朗雙方均具有重要意義。巴基斯坦希望通過加強與伊朗的合作，來減少與印度的緊張關係，而伊朗則希望借此機會提升其在地區事務中的影響力。兩國在反恐、經濟合作及邊境安全等議題上可能會展開深入討論。然而，外部勢力如美國的反應及其對兩國關係的影響，仍需持續關注。"
-        },
-        "topic_priority_score": 7,
+        "topic_priority_score": 11,
         "event_type": "diplomatic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -224,95 +224,95 @@
     "economy": [
       {
         "category": "economy",
-        "source_name": "BBC Business",
-        "title": "Big energy shock will push up prices, Bank boss tells BBC",
-        "link": "https://www.bbc.com/news/articles/cn5330l73y2o?at_medium=RSS&at_campaign=rss",
-        "summary": "Bank of England governor says the Iran war energy shock makes the next interest rate decision \"very, very difficult\".",
-        "published": "Thu, 16 Apr 2026 06:42:51 GMT",
-        "updated": "Thu, 16 Apr 2026 06:42:51 GMT",
-        "published_at_utc": "2026-04-16T06:42:51+00:00",
-        "id": "https://www.bbc.com/news/articles/cn5330l73y2o#0",
-        "topic_type": "interest_rates",
-        "relevance_score": 23,
+        "source_name": "The Guardian Business",
+        "title": "I want to reform our country because a strong Germany is a precondition for a strong Europe | Lars Klingbeil",
+        "link": "https://www.theguardian.com/commentisfree/2026/apr/17/i-want-to-reform-our-country-because-a-strong-germany-is-a-precondition-for-a-strong-europe",
+        "summary": "The war in Iran has exposed our dependencies. Europe, including the UK, must be bold about change, so nobody can blackmail us Lars Klingbeil is Germany’s finance minister and vice-chancellor Wars and crises are draining our economies, our sense of security and our emotional wellbeing. They are affecting our daily lives: supply chains are becoming less reliable, energy prices are soaring, and trade dependencies on fossil-fuel energy and critical minerals pose risks to national security. Tariffs, industrial overcapacities and export restrictions threaten jobs and prosperity. Taken together, all this is exposing Europe’s weaknesses and vulnerabilities. At the same time, we have shown how strengthening our alliances and our economic and military capacities can increase our scope for action. Forming a united European political front is helping to safeguard the sovereignty of Greenland , for instance. And despite all the recent turmoil, Europe remains one of the most attractive places in the world to live and work. Continue reading...",
+        "published": "Fri, 17 Apr 2026 04:00:20 GMT",
+        "updated": "2026-04-17T04:00:20Z",
+        "published_at_utc": "2026-04-17T04:00:20+00:00",
+        "id": "https://www.theguardian.com/commentisfree/2026/apr/17/i-want-to-reform-our-country-because-a-strong-germany-is-a-precondition-for-a-strong-europe",
+        "topic_type": "trade_wars",
+        "relevance_score": 25,
         "briefing": {
-          "news_focus": "Bank of England governor says the Iran war energy shock makes the next interest rate decision \"very, very difficult\".",
-          "news_focus_zh": "英國央行行長表示，伊朗戰爭引發的能源衝擊將使下一次利率決策變得非常困難，預示著價格上漲的壓力將持續。",
-          "background": "近期伊朗戰爭的爆發導致全球能源市場的不穩定，特別是石油和天然氣價格的劇烈波動。英國作為能源進口國，面臨著成本上升的壓力，這影響了通脹預期及經濟增長。英國央行在此背景下需考量利率調整，以應對通脹和經濟增長之間的平衡。",
+          "news_focus": "The war in Iran has exposed our dependencies. Europe, including the UK, must be bold about change, so nobody can blackmail us Lars Klingbeil is Germany’s finance minister and vice-chancellor Wars and crises are draining our economies, our sense of security and our emotional wellbeing. They are affecting our daily lives: supply chains are becoming less reliable, energy prices are soaring, and trade dependencies on fossil-fuel energy and critical minerals pose risks to national security. Tariffs, industrial overcapacities and export restrictions threaten jobs and prosperity. Taken together, all this is exposing Europe’s weaknesses and vulnerabilities. At the same time, we have shown how strengthening our alliances and our economic and military capacities can increase our scope for action. Forming a united European political front is helping to safeguard the sovereignty of Greenland , for instance. And despite all the recent turmoil, Europe remains one of the most attractive places in the world to live and work. Continue reading...",
+          "news_focus_zh": "德國財長兼副總理拉斯·克林貝爾指出，伊朗戰爭暴露了歐洲的依賴性，強調歐洲必須勇於改革，以防止被他國勒索，並強調加強歐洲的經濟和軍事能力是提升行動範圍的關鍵。",
+          "background": "隨著全球地緣政治緊張加劇，特別是中東地區的衝突，歐洲面臨能源價格上漲和供應鏈不穩定的挑戰。德國作為歐洲最大的經濟體，對於推動歐洲經濟改革和加強內部市場的角色至關重要。克林貝爾的言論反映了對於減少對外依賴、提升自給自足能力的迫切需求，尤其是在能源和關鍵礦產方面。",
           "stakeholders": [
-            "英國央行",
-            "能源企業",
-            "消費者",
-            "投資者",
-            "政府"
+            "德國政府",
+            "歐洲聯盟",
+            "能源供應國",
+            "工業界",
+            "消費者"
           ],
-          "analysis": "英國央行面臨的挑戰在於如何在高通脹與經濟增長放緩之間找到平衡。能源價格上漲將對家庭和企業造成直接影響，增加生活成本，進一步壓迫消費支出。市場對於央行的利率決策持不同看法，部分分析師認為應提高利率以控制通脹，而另一些則擔心過快升息會加劇經濟衰退風險。這種分歧可能導致市場波動加劇。"
+          "analysis": "克林貝爾的改革呼籲顯示出德國在歐洲內部的領導地位，並試圖凝聚各國共識以應對外部威脅。對於依賴能源進口的國家來說，這一政策可能會促進能源多元化和可再生能源的發展。然而，這也可能引發與主要供應國的緊張關係，特別是在能源價格和貿易政策方面。各國在如何平衡經濟安全與環保政策上可能存在分歧，未來的政策走向將影響歐洲的整體經濟穩定性。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "energy_supply_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "economy",
+        "source_name": "SCMP Business",
+        "title": "China’s Warren Buffett calls Pop Mart a long-term buy, hints at Labubu maker stake",
+        "link": "https://www.scmp.com/business/china-business/article/3350454/chinas-warren-buffett-calls-pop-mart-long-term-buy-hints-labubu-maker-stake?utm_source=rss_feed",
+        "summary": "Chinese billionaire investor Duan Yongping touted Pop Mart International Group as a long-term investment and hinted that he may have already started building bullish bets, further validating his confidence in companies that are grappling with growth concerns. Duan, dubbed China’s Warren Buffett by some investors, recently said on social media that the toymaker had great growth potential to achieve its globalisation goal and that the barriers built by the company were enough to fend off...",
+        "published": "Fri, 17 Apr 2026 09:00:10 +0000",
+        "updated": "Fri, 17 Apr 2026 09:00:10 +0000",
+        "published_at_utc": "2026-04-17T09:00:10+00:00",
+        "id": "https://www.scmp.com/business/china-business/article/3350454/chinas-warren-buffett-calls-pop-mart-long-term-buy-hints-labubu-maker-stake?utm_source=rss_feed",
+        "topic_type": "markets",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "Chinese billionaire investor Duan Yongping touted Pop Mart International Group as a long-term investment and hinted that he may have already started building bullish bets, further validating his confidence in companies that are grappling with growth concerns. Duan, dubbed China’s Warren Buffett by some investors, recently said on social media that the toymaker had great growth potential to achieve its globalisation goal and that the barriers built by the company were enough to fend off...",
+          "news_focus_zh": "中國億萬富翁段永平稱讚Pop Mart國際集團為長期投資，並暗示可能已開始增持該公司的股份，顯示他對於面臨增長挑戰的企業的信心。",
+          "background": "Pop Mart作為中國知名的玩具製造商，專注於盲盒玩具的市場，近年來在全球化擴展上面臨挑戰。段永平的投資意向可能反映出對該公司未來增長潛力的看好，尤其是在消費市場逐漸復甦的背景下。段永平被譽為中國的巴菲特，其投資策略通常聚焦於具有長期增長潛力的企業，這使得他的支持對Pop Mart來說具有指標性意義。",
+          "stakeholders": [
+            "段永平",
+            "Pop Mart國際集團",
+            "投資者",
+            "消費者",
+            "市場分析師"
+          ],
+          "analysis": "段永平的支持可能會提升市場對Pop Mart的信心，吸引更多投資者關注。然而，Pop Mart仍需應對增長放緩的挑戰，尤其是在全球市場競爭加劇的情況下。投資者可能會關注該公司如何實現其全球化目標及其在市場中的競爭優勢。若段永平進一步增持股份，將可能引發其他機構投資者的跟進，進一步影響股價走勢。"
+        },
+        "topic_priority_score": 4,
+        "event_type": "market_repricing",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "Senate Democrats move to stall Trump’s ‘absurd’ bid to install new Fed chair",
+        "link": "https://www.theguardian.com/business/2026/apr/16/senate-democrats-trump-new-federal-reserve-chair",
+        "summary": "Democratic lawmakers urged Republican leaders to postpone the confirmation hearing of Kevin Warsh Sign up for the Breaking News US email to get newsletter alerts in your inbox Democrats have moved to stall Donald Trump ’s effort to exert greater control over the US Federal Reserve , condemning the president’s “absurd” bid to install a new leader of the central bank while it is targeted with criminal investigations. Democratic lawmakers on the Senate banking committee urged its Republican leadership on Thursday to postpone the planned confirmation hearing for Kevin Warsh , the financial executive and former Fed governor Trump has nominated to replace Jerome Powell as Fed chair. Continue reading...",
+        "published": "Thu, 16 Apr 2026 21:12:45 GMT",
+        "updated": "2026-04-16T21:12:45Z",
+        "published_at_utc": "2026-04-16T21:12:45+00:00",
+        "id": "https://www.theguardian.com/business/2026/apr/16/senate-democrats-trump-new-federal-reserve-chair",
+        "topic_type": "interest_rates",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "Democratic lawmakers urged Republican leaders to postpone the confirmation hearing of Kevin Warsh Sign up for the Breaking News US email to get newsletter alerts in your inbox Democrats have moved to stall Donald Trump ’s effort to exert greater control over the US Federal Reserve , condemning the president’s “absurd” bid to install a new leader of the central bank while it is targeted with criminal investigations. Democratic lawmakers on the Senate banking committee urged its Republican leadership on Thursday to postpone the planned confirmation hearing for Kevin Warsh , the financial executive and former Fed governor Trump has nominated to replace Jerome Powell as Fed chair. Continue reading...",
+          "news_focus_zh": "美國參議院民主黨成員呼籲共和黨領導人推遲對特朗普提名的聯邦儲備主席候選人凱文·華什的確認聽證會，批評特朗普在聯邦儲備面臨刑事調查的背景下，試圖加強對中央銀行的控制。",
+          "background": "特朗普政府期間，聯邦儲備的獨立性受到挑戰，特別是在經濟政策與貨幣政策的交匯點上。凱文·華什的提名引發爭議，因其被視為特朗普的親信，可能會影響聯邦儲備的政策走向。隨著美國經濟面臨不確定性，民主黨對於中央銀行的獨立性持強烈保護態度，尤其是在特朗普面臨多項刑事調查的背景下，這一提名被視為政治操弄的風險。",
+          "stakeholders": [
+            "民主黨",
+            "共和黨",
+            "凱文·華什",
+            "聯邦儲備",
+            "美國經濟"
+          ],
+          "analysis": "民主黨與共和黨在聯邦儲備的領導權問題上存在明顯分歧。民主黨擔心特朗普的提名會削弱中央銀行的獨立性，影響經濟穩定性，特別是在當前的調查背景下。共和黨則可能支持特朗普的提名，認為這是加強經濟政策的一種方式。若確認聽證會被推遲，將可能導致聯邦儲備政策的不確定性加劇，影響市場信心與經濟預期。"
         },
         "topic_priority_score": 10,
         "event_type": "rate_decision",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Big US banks rake in near $50bn profit as Iran war shakes markets",
-        "link": "https://www.theguardian.com/business/2026/apr/15/big-us-banks-profit-iran-war-markets-morgan-stanley-jp-morgan",
-        "summary": "Six lenders, including Bank of America, Morgan Stanley and JP Morgan report jump in first-quarter earnings Big US banks raked in nearly $50bn (£37bn) worth of profits in the first three months of the year, as they benefited from stock market turbulence triggered by the US-Israeli war on Iran. Wall Street’s largest lenders have reported a jump in first-quarter earnings, reflecting the surge in demand for trading services as investors dumped risky stocks and bonds and sought safer havens for their cash. Continue reading...",
-        "published": "Wed, 15 Apr 2026 15:04:55 GMT",
-        "updated": "2026-04-15T15:04:55Z",
-        "published_at_utc": "2026-04-15T15:04:55+00:00",
-        "id": "https://www.theguardian.com/business/2026/apr/15/big-us-banks-profit-iran-war-markets-morgan-stanley-jp-morgan",
-        "topic_type": "markets",
-        "relevance_score": 23,
-        "briefing": {
-          "news_focus": "Six lenders, including Bank of America, Morgan Stanley and JP Morgan report jump in first-quarter earnings Big US banks raked in nearly $50bn (£37bn) worth of profits in the first three months of the year, as they benefited from stock market turbulence triggered by the US-Israeli war on Iran. Wall Street’s largest lenders have reported a jump in first-quarter earnings, reflecting the surge in demand for trading services as investors dumped risky stocks and bonds and sought safer havens for their cash. Continue reading...",
-          "news_focus_zh": "美國六大銀行在2023年第一季度報告近500億美元的利潤，主要受益於因美國與以色列對伊朗的戰爭所引發的市場動盪，投資者轉向尋求更安全的資產。",
-          "background": "隨著美國與以色列對伊朗的緊張局勢升級，全球市場出現不穩定，促使投資者重新評估其投資組合。美國銀行業在此背景下，特別是大型銀行如美國銀行、摩根士丹利和JP摩根，因其強大的交易平台和風險管理能力，從中獲得了可觀的利潤。這一現象反映了金融市場對地緣政治事件的敏感性，以及在不確定性中尋求安全資產的趨勢。",
-          "stakeholders": [
-            "美國銀行",
-            "投資者",
-            "市場監管機構",
-            "伊朗政府",
-            "以色列政府"
-          ],
-          "analysis": "大型銀行的利潤增長顯示出金融機構在市場動盪中能夠靈活應對，並從中獲利。然而，這也引發了對市場穩定性的擔憂，因為投資者的恐慌性拋售可能導致更大的市場波動。對於銀行而言，雖然短期內獲利豐厚，但長期來看，持續的地緣政治緊張可能會影響整體經濟環境，進而影響貸款需求和消費者信心。各方需密切關注此局勢的發展及其對金融市場的潛在影響。"
-        },
-        "topic_priority_score": 4,
-        "event_type": "corporate_results",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "EasyJet warns of impact on profits as Iran war hits bookings and fuel prices",
-        "link": "https://www.theguardian.com/business/2026/apr/16/easyjet-profits-iran-war-bookings-fuel-prices-flights",
-        "summary": "Budget airline says passengers are leaving it later to book flights owing to economic uncertainty Business live – latest updates Middle East crisis – live updates The budget airline easyJet has warned the impact of the Iran war on bookings and oil prices will hit its profits, having driven up fuel costs by £25m in the last month alone. It said it expected to report an increased pre-tax loss of £540-£560m for the six months to March, up from £394m in the first half of 2024-25. The carrier typically makes its money in the second half of the year which includes the peak summer period. Continue reading...",
-        "published": "Thu, 16 Apr 2026 08:53:11 GMT",
-        "updated": "2026-04-16T08:53:11Z",
-        "published_at_utc": "2026-04-16T08:53:11+00:00",
-        "id": "https://www.theguardian.com/business/2026/apr/16/easyjet-profits-iran-war-bookings-fuel-prices-flights",
-        "topic_type": "energy_markets",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "Budget airline says passengers are leaving it later to book flights owing to economic uncertainty Business live – latest updates Middle East crisis – live updates The budget airline easyJet has warned the impact of the Iran war on bookings and oil prices will hit its profits, having driven up fuel costs by £25m in the last month alone. It said it expected to report an increased pre-tax loss of £540-£560m for the six months to March, up from £394m in the first half of 2024-25. The carrier typically makes its money in the second half of the year which includes the peak summer period. Continue reading...",
-          "news_focus_zh": "EasyJet警告，由於伊朗戰爭影響預訂及油價，將對其利潤造成衝擊，預計上半年的稅前虧損將增至540-560萬英鎊。",
-          "background": "近期中東局勢動盪，特別是伊朗戰爭的爆發，對航空業造成了直接影響。EasyJet作為預算航空公司，依賴於穩定的油價與穩定的旅客需求。過去幾年，航空業面臨著疫情後的復甦挑戰，經濟不確定性使得消費者的預訂行為變得更加謹慎，這進一步影響了航空公司的收益預測。",
-          "stakeholders": [
-            "EasyJet",
-            "消費者",
-            "投資者",
-            "競爭對手",
-            "油價市場"
-          ],
-          "analysis": "EasyJet面臨的挑戰主要來自於油價上漲和預訂行為的變化。消費者因經濟不確定性而延遲預訂，這可能導致航空公司在夏季旺季的收益減少。此外，油價的上漲直接增加了運營成本，進一步壓縮利潤空間。對於投資者而言，這意味著需要重新評估EasyJet的財務健康與未來增長潛力，而對於競爭對手來說，這可能是一個擴大市場份額的機會。"
-        },
-        "topic_priority_score": 8,
-        "event_type": "energy_supply_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -323,215 +323,215 @@
   "further_reading": {
     "technology": [
       {
-        "title": "Cadence, Nvidia working together on developing AI for robotics - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcW9FTG1SQ2ZEZVE0RzI0OU9vcUZLcFlWRG5ucHFiWkxnMlRVRVR5U3FnU0dLcWVSd2hjT0FaSE5HQ0kwQS05MHM0Smt4dnAtQTcwUWp4ck1jUUk5TklmYlBRTWY5QWdDenE1SFpaWV9WZjhtX3J1TWpSVWFsblNjdno2ZGlNb29RVjBlSUk3cklpcW5qZXMyb1ZmUlY3Y0lzZDQw?oc=5",
+        "title": "OpenAI to spend more than $20 billion on Cerebras chips, receive stake, The Information reports - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObi1YYzV0bzRTTmxRbVp6X0pvMS12c0VLZ0ZUNVUtblA2WE52ZDByNDJlOEc2QmtxMUZpMlc0MlJUNGJjRDRZc1NQTnloSmxQbERCVTlucHFXcHlycUJLZm05ME81amZKcmdBTnl3ZGpfTF96NVN2OUVFU3BhWmt3ZkpkNWdqYVpXbjcwdkJnYmpEZWh6NW9JUURIRjdVQXZTNFc4TS1wM2NRUzdMYTc1T2JGNDA1TlE?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-04-15T21:42:09+00:00",
+        "published_at_utc": "2026-04-17T01:31:00+00:00",
         "relevance_score": 17
       },
       {
-        "title": "Google launches a Gemini AI app on Mac",
-        "link": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
+        "title": "Ballmer gives $80 million to NPR, with strings attached",
+        "link": "https://www.theverge.com/news/913518/ballmer-gives-80-million-to-npr-with-strings-attached",
         "source_name": "The Verge",
-        "published_at_utc": "2026-04-15T18:10:15+00:00",
+        "published_at_utc": "2026-04-16T20:30:55+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Anthropic Plots Major London Expansion",
+        "link": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-04-16T13:49:35+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Why having “humans in the loop” in an AI war is an illusion",
+        "link": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+        "source_name": "MIT Technology Review",
+        "published_at_utc": "2026-04-16T12:00:00+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Intel refreshes non-Ultra Core CPUs with new silicon for the first time",
+        "link": "https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-04-16T21:33:33+00:00",
         "relevance_score": 15
       },
       {
-        "title": "NASA Wants to Put Nuclear Reactors on the Moon",
-        "link": "https://www.wired.com/story/nasa-wants-to-put-nuclear-reactors-on-the-moon/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-04-15T18:55:52+00:00",
+        "title": "OpenAI starts offering a biology-tuned LLM",
+        "link": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-04-16T21:17:47+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Gemini can now create personalized AI images by digging around in Google Photos",
+        "link": "https://arstechnica.com/ai/2026/04/gemini-can-now-create-personalized-ai-images-by-digging-around-in-google-photos/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-04-16T16:59:25+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Google adds Nano Banana-powered image generation to Gemini’s Personal Intelligence",
+        "link": "https://techcrunch.com/2026/04/16/google-adds-nano-banana-powered-image-generation-to-geminis-personal-intelligence/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-16T16:00:00+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "China offers loans, technology for Vietnam railways - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRXcxck9JZHdSc19TUzhGaDBhUVF0UWZJRTNQVUVYLTJmLV9hdmR4bEJNQnFsbWZOLTRSZGNPbUZpUmlZUll1LWctZEVuWmNjTWx2QUwwS3BzQUtsNW0zVkluUmtKa0kxYVU4MVM2VERqeWtyX01jTkRRajJIbng4VVJYVW11SEZOblJiZ09TQUI2dUEydFl3Vll3WVVIQXFMOUx3VjVhZFdOQ1FJLU9xN05R?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-17T04:57:00+00:00",
         "relevance_score": 14
       },
       {
-        "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-        "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-15T19:28:36+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Google rolls out a native Gemini app for Mac",
-        "link": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-15T18:22:13+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "AI Could Democratize One of Tech's Most Valuable Resources",
-        "link": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
+        "title": "Europe’s Online Age Verification App Is Here",
+        "link": "https://www.wired.com/story/europes-online-age-verification-app-is-here/",
         "source_name": "Wired",
-        "published_at_utc": "2026-04-15T18:00:00+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Anthropic shrugs off VC funding offers valuing it at $800B+, for now",
-        "link": "https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-15T16:21:21+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
-        "link": "https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-04-15T14:58:08+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "FCC exempts Netgear from ban on foreign routers, doesn't explain why",
-        "link": "https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-04-15T17:58:07+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "RedNote chases U.S. expansion after its “TikTok refugee” moment fades",
-        "link": "https://restofworld.org/2026/rednote-china-us-expansion-ecommerce-launch/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "source_name": "Rest of World",
-        "published_at_utc": "2026-04-14T10:00:00+00:00",
-        "relevance_score": 12
+        "published_at_utc": "2026-04-16T18:54:20+00:00",
+        "relevance_score": 14
       }
     ],
     "politics": [
       {
-        "title": "Trump says Israel and Lebanon leaders will speak Thursday",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3350251/trump-says-israel-and-lebanon-leaders-hold-talks-thursday?utm_source=rss_feed",
+        "title": "UK’s Starmer faces calls to resign as Mandelson scandal reignites",
+        "link": "https://www.scmp.com/news/world/europe/article/3350451/uks-starmer-faces-calls-resign-mandelson-scandal-reignites?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-04-16T04:39:54+00:00",
-        "relevance_score": 22
-      },
-      {
-        "title": "U.S. rules out renewal of exemption from sanctions on Russian, Iranian oil",
-        "link": "https://www.thehindu.com/news/international/us-rules-out-renewal-of-exemption-from-sanctions-on-russian-iranian-oil/article70867740.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-16T05:10:48+00:00",
+        "published_at_utc": "2026-04-17T08:36:42+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Trump says Israel and Lebanon’s leaders will speak on Thursday",
-        "link": "https://www.aljazeera.com/news/2026/4/16/trump-says-israel-and-lebanons-leaders-will-speak-on-thursday?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-16T03:51:27+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Georgia man charged over attacks that killed DHS worker and another woman",
-        "link": "https://www.theguardian.com/us-news/2026/apr/15/georgia-killing-dhs-worker",
+        "title": "Foreign Office’s top civil servant Olly Robbins forced out over Mandelson vetting row",
+        "link": "https://www.theguardian.com/uk-news/2026/apr/16/foreign-offices-top-civil-servant-olly-robbins-leaves-post-in-mandelson-vetting-row",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-16T00:12:41+00:00",
+        "published_at_utc": "2026-04-17T07:59:54+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Why North Korea is rekindling China relations",
-        "link": "https://www.scmp.com/opinion/asia-opinion/article/3349984/why-north-korea-rekindling-china-relations?utm_source=rss_feed",
+        "title": "China’s 3-satellite surveillance network, Hong Kong’s inflation surge: SCMP’s 7 highlights",
+        "link": "https://www.scmp.com/news/world/article/3350385/chinas-3-satellite-surveillance-network-hong-kongs-inflation-surge-scmps-7-highlights?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-04-15T21:30:12+00:00",
+        "published_at_utc": "2026-04-17T04:12:07+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "‘Trump forced Israel into a ceasefire’ with Lebanon",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/trump-forced-israel-into-a-ceasefire-with-lebanon-2?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-04-17T01:52:52+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Why biggest threat to US global dollar dominance may well be Washington itself",
+        "link": "https://www.scmp.com/news/us/economy-trade-business/article/3350382/why-biggest-threat-us-global-dollar-dominance-may-well-be-washington-itself?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-16T23:42:50+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Trump's Lebanon ceasefire takes Israel by surprise",
+        "link": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-04-16T22:55:59+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "PM to join summit on reopening strait of Hormuz – as it happened",
+        "link": "https://www.theguardian.com/australia-news/live/2026/apr/17/anthony-albanese-richard-marles-geelong-refinery-fire-fuel-supply-crisis-prices-labor-coalition-political-reactions-ntwnfb",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-17T07:30:32+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Bye-bye, US? Why China’s trade with Africa benefits from Trump’s policy volatility",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3350292/bye-bye-us-why-chinas-trade-africa-benefits-trumps-policy-volatility?utm_source=rss_feed",
+        "title": "US-China tensions simmer, economy outperforms, Auto China begins",
+        "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3350432/us-china-tensions-simmer-economy-outperforms-auto-china-begins?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-04-16T09:00:10+00:00",
+        "published_at_utc": "2026-04-17T09:00:12+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Contingency plans in place for possible food shortages if Iran war continues, minister confirms – UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/apr/16/iran-economy-food-fuel-local-elections-covid-latest-news-updates",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-16T08:45:07+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Russian missiles and drones kill at least 16 across Ukraine in worst attack this year",
-        "link": "https://www.scmp.com/news/world/europe/article/3350297/russian-missiles-and-drones-kill-least-16-across-ukraine-worst-attack-year?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-04-16T07:55:47+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "The pope has shown the world how to stand up to Trump",
-        "link": "https://www.aljazeera.com/opinions/2026/4/16/the-pope-has-shown-the-world-how-to-stand-up-to-trump?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-16T05:35:31+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "EU says age-check app 'ready' in push to protect children online",
-        "link": "https://www.thehindu.com/sci-tech/technology/eu-says-age-check-app-ready-in-push-to-protect-children-online/article70867501.ece",
+        "title": "Iran-Israel war LIVE: Hezbollah says 'finger on the trigger' if Israel violates truce",
+        "link": "https://www.thehindu.com/news/international/iran-us-war-lebanon-army-israeli-ceasefire-violation-donald-trump-west-asia-conflict-live-updates-april-17-2026/article70872084.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-16T04:59:51+00:00",
+        "published_at_utc": "2026-04-17T08:44:40+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Starmer should face Commons inquiry over Mandelson vetting, says Ed Davey",
+        "link": "https://www.theguardian.com/politics/2026/apr/17/starmer-mandelson-commons-inquiry-privileges-committee-vetting-ed-davey",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-17T07:17:37+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "CEO of bitcoin firm championed by Nigel Farage leaves company",
-        "link": "https://www.theguardian.com/politics/2026/apr/16/ceo-of-bitcoin-firm-championed-by-nigel-farage-leaves-company-stack-btc",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-16T06:00:50+00:00",
+        "title": "Chinese AI firm SenseTime to raise US$415 million via share placement",
+        "link": "https://www.scmp.com/business/china-business/article/3350406/chinese-ai-firm-sensetime-raise-us415-million-share-placement?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-17T04:33:00+00:00",
         "relevance_score": 21
       },
       {
-        "title": "How South Korea plans to use the Iran crisis to spur a renewables revolution",
-        "link": "https://www.theguardian.com/world/2026/apr/16/south-korea-solar-power-renewables-revolution",
+        "title": "Netflix co-founder Reed Hastings to leave streaming service",
+        "link": "https://www.theguardian.com/media/2026/apr/16/netflix-chair-reed-hastings",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-16T03:09:28+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "$30m an hour: big oil reaping huge war windfall from consumers, analysis finds",
-        "link": "https://www.theguardian.com/environment/2026/apr/15/big-oil-huge-war-windfall-consumers",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-15T11:02:18+00:00",
+        "published_at_utc": "2026-04-17T08:29:32+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Mark Mobius, pioneering emerging-market investor and China bull, dies at 89",
-        "link": "https://www.scmp.com/business/markets/article/3350250/mark-mobius-pioneering-emerging-market-investor-and-china-bull-dies-89?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-16T04:30:22+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "S&P 500, Nasdaq push to closing records on optimism around Middle East talks, earnings - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYU9PdE9VWERPN21wdEE5dTl5cThMNm92LVFpQWdDZGh3b2hkakFvVUdHS2w3UEEyOXRETFlndzI4Y0tJbk9WM280Y1F1YzZkaVhheUVEMnlhemtfR0lldEtQaXJkWTNvWEtBOW9Mc3BYLW5qejdFdS1fVXdEeHlLZXJPNjFLMDQ4TGg0LXNKaEhDUG93c1E?oc=5",
+        "title": "Fed's Miran may scale back rate-cut outlook again due to 'less favorable' inflation developments - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVNGTWdVR0NadFJPTFpWbC1qQXNWMDNzdVJJNDY0VWNXN2FfRUNuTFJmbjRuelF0VWRXRDFiQk5BSTBjR3U0ejh2Ym1aUkhNU1BYLUgwVUZuZG1yTW5KYkU4c0VtNkc2bUxfMEZheWN4THVGU3d6VXVBR2h2aE9GeDhvNTVSZDdDdEtieExHcUE0SmJPb1Y3VTEyUzBMaE9GUV9uSjc1ZVh4dFZ5V09YLWtsMTgyVWpRSGlVS0FNaw?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-04-15T22:45:35+00:00",
+        "published_at_utc": "2026-04-16T16:33:43+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Wheat price heading for biggest jump in two months as Iran war drives up food insecurity fears – business live",
+        "link": "https://www.theguardian.com/business/live/2026/apr/17/wheat-price-jump-iran-war-fertiliser-food-insecurity-oil-stock-markets-latest-updates",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-17T08:27:00+00:00",
         "relevance_score": 18
       },
       {
-        "title": "AI is destroying jobs – and the energy crisis could make that much worse | Larry Elliott",
-        "link": "https://www.theguardian.com/commentisfree/2026/apr/16/ai-destroying-jobs-energy-crisis-worse-doomsday-scenario",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-16T08:00:52+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "CATL market cap tops US$293 billion as shares surge on mining arm",
-        "link": "https://www.scmp.com/business/china-business/article/3350269/catl-market-cap-tops-us293-billion-shares-surge-mining-arm?utm_source=rss_feed",
+        "title": "China’s lithium giant Ganfeng sees profit jump as demand for EVs and ESS batteries soars",
+        "link": "https://www.scmp.com/business/banking-finance/article/3350364/chinas-lithium-giant-ganfeng-sees-profit-jump-demand-evs-and-ess-batteries-soars?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-16T06:11:18+00:00",
+        "published_at_utc": "2026-04-16T14:40:24+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "California gasoline stocks fall to record lows as Hormuz disruption bites - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYl92SDNBRHR4Z3RTakxZRUMzc3JMdWYxU2RjVnRDODZuUHN2dS1zQ3c2N0psdUlKaHE0N0FpYkpoWWs3c2lGTkhfMVBXcWZJZTltYVMtcWZzRlJMNmcwWlBFRU5OQUpSeHk5enBxaHRudHl5S2lfallrNU80X09WZmJMRzdqM280SHRXZ3dQdEdDTVotUlZaWkVnX1JhMGlnWVJRR2gxbU94aFVaZTREem5WOVpnbU9pNlkw?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-16T22:17:31+00:00",
         "relevance_score": 17
       },
       {
-        "title": "The IMF refuses to name the cause of this global chaos. It starts with ‘Donald’ and ends in ‘Trump’ | Greg Jericho",
-        "link": "https://www.theguardian.com/business/grogonomics/2026/apr/15/imf-world-economic-outlook-chaos-donald-trump",
+        "title": "Fed's Williams says war is already driving up inflation pressures - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd3gyM2YyUDBoUXc1M2QzTUJUVjd4YjRPWDJxcjljTFlvN0RrLTdfVERpLXdfSGpJekR3SmsxdDhMa3Q1emowbFZJLUgxU2h6ekpJdXg0LTI1T2lxRVRBLXp6WGFQVl81Q1BDaTFZclpCZDM3QU5sRm0zMDN5WlVoQlNUd1VnM29KOFpFX0dSTkdRbEp6TGt4MVJTSVV4cl9rYjBkXzIzdG5XWnB0QU1V?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-16T14:53:36+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "‘A dollar or two increase is devastating’: US consumers on toll of rising gas prices",
+        "link": "https://www.theguardian.com/us-news/2026/apr/16/us-readers-rising-gas-prices-iran-trump",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-15T15:00:31+00:00",
+        "published_at_utc": "2026-04-16T11:00:57+00:00",
         "relevance_score": 17
       },
       {
-        "title": "Norwegian group in talks to buy former Liberty Steel works in South Yorkshire",
-        "link": "https://www.theguardian.com/business/2026/apr/15/norwegian-group-liberty-steel-blastr-ssuk-south-yorkshire-rotherham-stocksbridge",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-15T11:42:14+00:00",
+        "title": "US investors pour into Hong Kong, China equities with largest quarterly inflow in 3 years",
+        "link": "https://www.scmp.com/business/markets/article/3350332/us-investors-pour-hong-kong-china-equities-largest-quarterly-inflow-3-years?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-16T10:01:47+00:00",
         "relevance_score": 17
       },
       {
-        "title": "China's more-than-decade-late sanctions ineffective as leverage on Japan",
-        "link": "https://asia.nikkei.com/opinion/china-s-more-than-decade-late-sanctions-ineffective-as-leverage-on-japan",
+        "title": "Hong Kong businesses wary of renewed China push for anti-sanctions law",
+        "link": "https://asia.nikkei.com/politics/international-relations/hong-kong-businesses-wary-of-renewed-china-push-for-anti-sanctions-law",
         "source_name": "Nikkei Asia",
         "published_at_utc": "",
         "relevance_score": 17
@@ -544,5 +544,5 @@
     "failed": 0,
     "total": 9
   },
-  "theme_of_day": "今日新聞的整體敘事主軸圍繞著全球安全形勢及其對經濟的影響，特別是在俄烏衝突及伊朗戰爭的背景下。科技版面中的網絡攻擊與政治版面對俄羅斯行為的譴責相互呼應，顯示出國際社會對於安全威脅的高度警覺。此外，經濟版面報導的能源價格上漲及企業利潤變化，則反映出地緣政治緊張對市場的直接影響，形成了一個相互交織的新聞脈絡。"
+  "theme_of_day": "今日新聞的整體脈絡圍繞著科技、政治與經濟之間的相互影響。美國政府在人工智慧領域的進一步應用，與國會對監控技術的關注形成鮮明對比，突顯出科技在政策制定中的重要性。同時，德國財長的改革呼籲與以色列和黎巴嫩的停火協議，反映出地緣政治緊張局勢對經濟穩定的潛在影響，顯示出國際局勢對各國經濟政策的深遠影響。"
 }

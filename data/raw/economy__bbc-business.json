@@ -5,8 +5,8 @@
     "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
     "feed_title": "BBC News",
     "feed_link": "https://www.bbc.co.uk/news/business",
-    "fetched_at_utc": "2026-04-16T09:09:10.232537+00:00",
-    "entry_count": 38,
+    "fetched_at_utc": "2026-04-17T09:08:27.861175+00:00",
+    "entry_count": 49,
     "bozo": false,
     "failed": false,
     "failure_reason": ""
@@ -16,34 +16,100 @@
       "category": "economy",
       "source_name": "BBC Business",
       "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
-      "title": "UK economy grew faster than expected ahead of Iran war",
+      "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
+      "link": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cyber-security weaknesses.",
+      "published": "Fri, 17 Apr 2026 08:17:50 GMT",
+      "updated": "Fri, 17 Apr 2026 08:17:50 GMT",
+      "id": "https://www.bbc.com/news/articles/c2ev24yx4rmo#0"
+    },
+    {
+      "category": "economy",
+      "source_name": "BBC Business",
+      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "Rising value of Pokémon cards sparks smash and grab crime spree",
+      "link": "https://www.bbc.com/news/articles/c4gvvnpl5kno?at_medium=RSS&at_campaign=rss",
+      "summary": "Small shops across the UK are being targeted by thieves stealing collectibles worth thousands of pounds.",
+      "published": "Thu, 16 Apr 2026 23:01:59 GMT",
+      "updated": "Thu, 16 Apr 2026 23:01:59 GMT",
+      "id": "https://www.bbc.com/news/articles/c4gvvnpl5kno#0"
+    },
+    {
+      "category": "economy",
+      "source_name": "BBC Business",
+      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "Netflix co-founder Reed Hastings to step down as chairman",
+      "link": "https://www.bbc.com/news/articles/cvglzn9e82eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hastings set up the company in 1997, when it rented DVDs to customers and delivered by post.",
+      "published": "Thu, 16 Apr 2026 21:59:56 GMT",
+      "updated": "Thu, 16 Apr 2026 21:59:56 GMT",
+      "id": "https://www.bbc.com/news/articles/cvglzn9e82eo#0"
+    },
+    {
+      "category": "economy",
+      "source_name": "BBC Business",
+      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "Chinese carmaker patents voice-controlled 'in-vehicle toilet'",
+      "link": "https://www.bbc.com/news/articles/c1l92yv4mydo?at_medium=RSS&at_campaign=rss",
+      "summary": "Seres' plans show how stiff competition in the EV space is putting pressure on carmakers to innovate.",
+      "published": "Fri, 17 Apr 2026 06:35:57 GMT",
+      "updated": "Fri, 17 Apr 2026 06:35:57 GMT",
+      "id": "https://www.bbc.com/news/articles/c1l92yv4mydo#0"
+    },
+    {
+      "category": "economy",
+      "source_name": "BBC Business",
+      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "Nearly 160,000 uninsured cars seized on UK roads",
+      "link": "https://www.bbc.com/news/articles/clyr7dmry5mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Seizure numbers hit a 17-year high as an estimated 300,000 uninsured vehicles are driven each day.",
+      "published": "Fri, 17 Apr 2026 07:01:16 GMT",
+      "updated": "Fri, 17 Apr 2026 07:01:16 GMT",
+      "id": "https://www.bbc.com/news/articles/clyr7dmry5mo#0"
+    },
+    {
+      "category": "economy",
+      "source_name": "BBC Business",
+      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "Could a digital twin make you into a 'superworker'?",
+      "link": "https://www.bbc.com/news/articles/c1d907lq6nyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Firms say digital twins make staff more productive, but are they a potential legal minefield?",
+      "published": "Thu, 16 Apr 2026 23:04:15 GMT",
+      "updated": "Thu, 16 Apr 2026 23:04:15 GMT",
+      "id": "https://www.bbc.com/news/articles/c1d907lq6nyo#0"
+    },
+    {
+      "category": "economy",
+      "source_name": "BBC Business",
+      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "No issues with UK fuel supply, says Reeves",
+      "link": "https://www.bbc.com/news/articles/c5y97jjnqzyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The chancellor was speaking at the end of the International Monetary Fund meeting in Washington.",
+      "published": "Thu, 16 Apr 2026 17:05:32 GMT",
+      "updated": "Thu, 16 Apr 2026 17:05:32 GMT",
+      "id": "https://www.bbc.com/news/articles/c5y97jjnqzyo#0"
+    },
+    {
+      "category": "economy",
+      "source_name": "BBC Business",
+      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "Europe has 'maybe six weeks of jet fuel left', energy boss warns",
+      "link": "https://www.bbc.com/news/articles/czjw2kz0l22o?at_medium=RSS&at_campaign=rss",
+      "summary": "Flights could soon be cancelled if supplies from the Gulf remain blocked, says the International Energy Agency.",
+      "published": "Thu, 16 Apr 2026 19:19:07 GMT",
+      "updated": "Thu, 16 Apr 2026 19:19:07 GMT",
+      "id": "https://www.bbc.com/news/articles/czjw2kz0l22o#1"
+    },
+    {
+      "category": "economy",
+      "source_name": "BBC Business",
+      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "UK economy grew faster than expected in February ahead of Iran war",
       "link": "https://www.bbc.com/news/articles/cz0e23r0993o?at_medium=RSS&at_campaign=rss",
       "summary": "The economy saw its biggest monthly rise in more than two years just before the outbreak of the US-Israeli war with Iran.",
-      "published": "Thu, 16 Apr 2026 07:38:33 GMT",
-      "updated": "Thu, 16 Apr 2026 07:38:33 GMT",
-      "id": "https://www.bbc.com/news/articles/cz0e23r0993o#0"
-    },
-    {
-      "category": "economy",
-      "source_name": "BBC Business",
-      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
-      "title": "Big energy shock will push up prices, Bank boss tells BBC",
-      "link": "https://www.bbc.com/news/articles/cn5330l73y2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Bank of England governor says the Iran war energy shock makes the next interest rate decision \"very, very difficult\".",
-      "published": "Thu, 16 Apr 2026 06:42:51 GMT",
-      "updated": "Thu, 16 Apr 2026 06:42:51 GMT",
-      "id": "https://www.bbc.com/news/articles/cn5330l73y2o#0"
-    },
-    {
-      "category": "economy",
-      "source_name": "BBC Business",
-      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
-      "title": "China's economy grows faster than expected despite Iran war",
-      "link": "https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&at_campaign=rss",
-      "summary": "The better-than-expected GDP data comes as Asian countries have been hit hard by the impact of the conflict.",
-      "published": "Thu, 16 Apr 2026 07:08:52 GMT",
-      "updated": "Thu, 16 Apr 2026 07:08:52 GMT",
-      "id": "https://www.bbc.com/news/articles/c4gxjpekk19o#0"
+      "published": "Thu, 16 Apr 2026 10:22:48 GMT",
+      "updated": "Thu, 16 Apr 2026 10:22:48 GMT",
+      "id": "https://www.bbc.com/news/articles/cz0e23r0993o#1"
     },
     {
       "category": "economy",
@@ -51,10 +117,21 @@
       "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
       "title": "UK prepares for food shortages in worst case scenario as Iran war continues",
       "link": "https://www.bbc.com/news/articles/cpvxp4xnrwdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK could face some food shortages by the summer under a worst case scenario drawn up by officials.",
-      "published": "Thu, 16 Apr 2026 09:05:47 GMT",
-      "updated": "Thu, 16 Apr 2026 09:05:47 GMT",
-      "id": "https://www.bbc.com/news/articles/cpvxp4xnrwdo#0"
+      "summary": "The UK could face some food shortages by the summer under a worst case scenario drawn up by government officials.",
+      "published": "Thu, 16 Apr 2026 16:04:42 GMT",
+      "updated": "Thu, 16 Apr 2026 16:04:42 GMT",
+      "id": "https://www.bbc.com/news/articles/cpvxp4xnrwdo#1"
+    },
+    {
+      "category": "economy",
+      "source_name": "BBC Business",
+      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "Cheaper Doritos and Lays helps PepsiCo win back struggling snackers",
+      "link": "https://www.bbc.com/news/articles/c625dqzpm7qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The snack giant cut some of its prices by up to 15% ahead of the Super Bowl in February.",
+      "published": "Thu, 16 Apr 2026 16:26:58 GMT",
+      "updated": "Thu, 16 Apr 2026 16:26:58 GMT",
+      "id": "https://www.bbc.com/news/articles/c625dqzpm7qo#1"
     },
     {
       "category": "economy",
@@ -65,18 +142,7 @@
       "summary": "Experts warn of hidden risk of counterfeits, while the government consults on stricter product safety rules.",
       "published": "Wed, 15 Apr 2026 22:57:56 GMT",
       "updated": "Wed, 15 Apr 2026 22:57:56 GMT",
-      "id": "https://www.bbc.com/news/articles/c4gjjryvzg9o#0"
-    },
-    {
-      "category": "economy",
-      "source_name": "BBC Business",
-      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
-      "title": "Back to books - Sweden's schools cutting back on digital learning",
-      "link": "https://www.bbc.com/news/articles/cly0vk77vdko?at_medium=RSS&at_campaign=rss",
-      "summary": "Swedish classrooms swap laptops for books, pens and paper, raising concerns from the tech sector.",
-      "published": "Wed, 15 Apr 2026 23:06:43 GMT",
-      "updated": "Wed, 15 Apr 2026 23:06:43 GMT",
-      "id": "https://www.bbc.com/news/articles/cly0vk77vdko#0"
+      "id": "https://www.bbc.com/news/articles/c4gjjryvzg9o#1"
     },
     {
       "category": "economy",
@@ -87,7 +153,40 @@
       "summary": "The company is selling off its shoe brand as it plans to shift to providing technology infrastructure.",
       "published": "Thu, 16 Apr 2026 01:58:56 GMT",
       "updated": "Thu, 16 Apr 2026 01:58:56 GMT",
-      "id": "https://www.bbc.com/news/articles/c98mrepzgj7o#0"
+      "id": "https://www.bbc.com/news/articles/c98mrepzgj7o#1"
+    },
+    {
+      "category": "economy",
+      "source_name": "BBC Business",
+      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "Big energy shock will push up prices, Bank boss tells BBC",
+      "link": "https://www.bbc.com/news/articles/cn5330l73y2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bank of England governor says the Iran war energy shock makes the next interest rate decision \"very, very difficult\".",
+      "published": "Thu, 16 Apr 2026 06:42:51 GMT",
+      "updated": "Thu, 16 Apr 2026 06:42:51 GMT",
+      "id": "https://www.bbc.com/news/articles/cn5330l73y2o#1"
+    },
+    {
+      "category": "economy",
+      "source_name": "BBC Business",
+      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "DHL staff at Jaguar Land Rover vote to strike",
+      "link": "https://www.bbc.com/news/articles/c2082r38gr6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Up to 300 DHL logistics workers based at Jaguar Land Rover in Solihull vote to strike indefinitely.",
+      "published": "Thu, 16 Apr 2026 15:55:39 GMT",
+      "updated": "Thu, 16 Apr 2026 15:55:39 GMT",
+      "id": "https://www.bbc.com/news/articles/c2082r38gr6o#1"
+    },
+    {
+      "category": "economy",
+      "source_name": "BBC Business",
+      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "China's economy grows faster than expected despite Iran war",
+      "link": "https://www.bbc.com/news/articles/c4gxjpekk19o?at_medium=RSS&at_campaign=rss",
+      "summary": "The better-than-expected GDP data comes as Asian countries have been hit hard by the impact of the conflict.",
+      "published": "Thu, 16 Apr 2026 07:08:52 GMT",
+      "updated": "Thu, 16 Apr 2026 07:08:52 GMT",
+      "id": "https://www.bbc.com/news/articles/c4gxjpekk19o#1"
     },
     {
       "category": "economy",
@@ -99,6 +198,17 @@
       "published": "Thu, 16 Apr 2026 08:27:07 GMT",
       "updated": "Thu, 16 Apr 2026 08:27:07 GMT",
       "id": "https://www.bbc.com/news/articles/c0lee3j122go#1"
+    },
+    {
+      "category": "economy",
+      "source_name": "BBC Business",
+      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "Fake damage and imaginary watches - how AI images are being used in insurance scams",
+      "link": "https://www.bbc.com/news/articles/cm2rr9pg4jzo?at_medium=RSS&at_campaign=rss",
+      "summary": "An insurer reports a 71% rise in fraudulent claims, driven partly by an increase in faked images.",
+      "published": "Thu, 16 Apr 2026 05:17:53 GMT",
+      "updated": "Thu, 16 Apr 2026 05:17:53 GMT",
+      "id": "https://www.bbc.com/news/articles/cm2rr9pg4jzo#1"
     },
     {
       "category": "economy",
@@ -137,18 +247,18 @@
       "category": "economy",
       "source_name": "BBC Business",
       "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
-      "title": "Social media leaders called to Downing Street over children's safety",
+      "title": "Things can't go on like this with online safety, Starmer tells tech bosses",
       "link": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Top executives from firms such as Meta and YouTube will be asked what they are doing to protect children.",
-      "published": "Wed, 15 Apr 2026 21:30:40 GMT",
-      "updated": "Wed, 15 Apr 2026 21:30:40 GMT",
+      "summary": "It comes as the government continues to consult on whether to ban under-16s from social media in the UK.",
+      "published": "Thu, 16 Apr 2026 09:20:36 GMT",
+      "updated": "Thu, 16 Apr 2026 09:20:36 GMT",
       "id": "https://www.bbc.com/news/articles/crl11ynjyn1o#1"
     },
     {
       "category": "economy",
       "source_name": "BBC Business",
       "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
-      "title": "'Unprecedented' fire at Australian oil refinery to impact nation's petrol supplies",
+      "title": "'Unprecedented' fire at Australian oil refinery to affect nation's petrol supplies",
       "link": "https://www.bbc.com/news/articles/cj40pdw79z9o?at_medium=RSS&at_campaign=rss",
       "summary": "The fire has deepened fears over the nation's petrol supplies amid a global crunch.",
       "published": "Thu, 16 Apr 2026 03:45:29 GMT",
@@ -203,12 +313,12 @@
       "category": "economy",
       "source_name": "BBC Business",
       "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
-      "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
-      "link": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
-      "summary": "US Treasury Secretary said a \"small bit of economic pain\" was worth it to eliminate the threat of Iranian strikes on Western capitals.",
-      "published": "Tue, 14 Apr 2026 19:47:53 GMT",
-      "updated": "Tue, 14 Apr 2026 19:47:53 GMT",
-      "id": "https://www.bbc.com/news/articles/c4g66p2q075o#1"
+      "title": "Back to books - Sweden's schools cutting back on digital learning",
+      "link": "https://www.bbc.com/news/articles/cly0vk77vdko?at_medium=RSS&at_campaign=rss",
+      "summary": "Swedish classrooms swap laptops for books, pens and paper, raising concerns from the tech sector.",
+      "published": "Wed, 15 Apr 2026 23:06:43 GMT",
+      "updated": "Wed, 15 Apr 2026 23:06:43 GMT",
+      "id": "https://www.bbc.com/news/articles/cly0vk77vdko#2"
     },
     {
       "category": "economy",
@@ -280,6 +390,17 @@
       "category": "economy",
       "source_name": "BBC Business",
       "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "Social supermarket opens to cut food bills",
+      "link": "https://www.bbc.com/news/articles/c747rd00388o?at_medium=RSS&at_campaign=rss",
+      "summary": "The store, in Mablethorpe, buys surplus stock so it can keep prices low.",
+      "published": "Thu, 16 Apr 2026 16:34:00 GMT",
+      "updated": "Thu, 16 Apr 2026 16:34:00 GMT",
+      "id": "https://www.bbc.com/news/articles/c747rd00388o#4"
+    },
+    {
+      "category": "economy",
+      "source_name": "BBC Business",
+      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
       "title": "More big energy users to get help as support plan expanded",
       "link": "https://www.bbc.com/news/articles/c0lee3j122go?at_medium=RSS&at_campaign=rss",
       "summary": "A scheme to cut bills for firms that are heavy energy users is being extended to cover an additional 3,000 businesses.",
@@ -319,17 +440,6 @@
       "published": "Wed, 15 Apr 2026 19:48:56 GMT",
       "updated": "Wed, 15 Apr 2026 19:48:56 GMT",
       "id": "https://www.bbc.com/news/videos/c3exxe4k8wwo#4"
-    },
-    {
-      "category": "economy",
-      "source_name": "BBC Business",
-      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
-      "title": "Commuters welcome second year of Translink fare freeze",
-      "link": "https://www.bbc.com/news/videos/c7055yjplr2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Liz Kimmins acknowledged the decision was taken against a difficult funding backdrop for the public transport company.",
-      "published": "Wed, 15 Apr 2026 10:11:15 GMT",
-      "updated": "Wed, 15 Apr 2026 10:11:15 GMT",
-      "id": "https://www.bbc.com/news/videos/c7055yjplr2o#4"
     },
     {
       "category": "economy",
@@ -390,6 +500,39 @@
       "category": "economy",
       "source_name": "BBC Business",
       "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "How could the Iran war affect fizzy drinks in the UK?",
+      "link": "https://www.bbc.com/news/videos/cly9peevj5yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Emma Simpson explains why fizzy drinks, salad and meat could be affected by the Gulf conflict.",
+      "published": "Thu, 16 Apr 2026 20:39:15 GMT",
+      "updated": "Thu, 16 Apr 2026 20:39:15 GMT",
+      "id": "https://www.bbc.com/news/videos/cly9peevj5yo#6"
+    },
+    {
+      "category": "economy",
+      "source_name": "BBC Business",
+      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "Is Trump meeting the moment for US conservatives?",
+      "link": "https://www.bbc.com/news/videos/crr1pk5jkyqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC asked the president's supporters about Iran, the economy and immigration at the largest conservative gathering in the country.",
+      "published": "Thu, 16 Apr 2026 18:49:01 GMT",
+      "updated": "Thu, 16 Apr 2026 18:49:01 GMT",
+      "id": "https://www.bbc.com/news/videos/crr1pk5jkyqo#6"
+    },
+    {
+      "category": "economy",
+      "source_name": "BBC Business",
+      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "title": "Why the UK is preparing for food shortages due to Iran war",
+      "link": "https://www.bbc.com/news/videos/cevkp8j91n9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Emma Simpson explains why fizzy drinks, salad and meat could be affected by the Gulf conflict.",
+      "published": "Thu, 16 Apr 2026 17:41:02 GMT",
+      "updated": "Thu, 16 Apr 2026 17:41:02 GMT",
+      "id": "https://www.bbc.com/news/videos/cevkp8j91n9o#6"
+    },
+    {
+      "category": "economy",
+      "source_name": "BBC Business",
+      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
       "title": "US drivers head to Native American lands for cheaper gas",
       "link": "https://www.bbc.com/news/videos/c1krg1rzpmeo?at_medium=RSS&at_campaign=rss",
       "summary": "Some of the cheapest fuel in the country can be found on tribal land due to tax exemptions.",
@@ -407,28 +550,6 @@
       "published": "Wed, 08 Apr 2026 10:15:36 GMT",
       "updated": "Wed, 08 Apr 2026 10:15:36 GMT",
       "id": "https://www.bbc.com/news/videos/ckgr4r9k2dqo#6"
-    },
-    {
-      "category": "economy",
-      "source_name": "BBC Business",
-      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
-      "title": "National Minimum Wage rises this week",
-      "link": "https://www.bbc.com/news/videos/cdxd5kkpz7xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Around 2.7 million people are set to receive a pay rise this week as the national minimum wage goes up by 50p to £12.71 for over 21s.",
-      "published": "Thu, 02 Apr 2026 16:11:00 GMT",
-      "updated": "Thu, 02 Apr 2026 16:11:00 GMT",
-      "id": "https://www.bbc.com/news/videos/cdxd5kkpz7xo#6"
-    },
-    {
-      "category": "economy",
-      "source_name": "BBC Business",
-      "feed_url": "http://feeds.bbci.co.uk/news/business/rss.xml",
-      "title": "New laws to make it easier to cancel subscriptions",
-      "link": "https://www.bbc.com/news/videos/cdxklq3kqlro?at_medium=RSS&at_campaign=rss",
-      "summary": "A crackdown on \"subscription traps\" could save the average person nearly £170 a year, according to the Department for Business and Trade.",
-      "published": "Thu, 02 Apr 2026 15:15:33 GMT",
-      "updated": "Thu, 02 Apr 2026 15:15:33 GMT",
-      "id": "https://www.bbc.com/news/videos/cdxklq3kqlro#6"
     }
   ]
 }
