@@ -5,23 +5,11 @@
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US",
     "feed_title": "\"when:24h allinurl:focustaiwan.tw\" - Google News",
     "feed_link": "https://news.google.com/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US",
-    "fetched_at_utc": "2026-04-17T09:08:27.334319+00:00",
-    "entry_count": 1,
+    "fetched_at_utc": "2026-04-18T08:37:47.937023+00:00",
+    "entry_count": 0,
     "bozo": false,
-    "failed": false,
-    "failure_reason": ""
+    "failed": true,
+    "failure_reason": "feed returned zero entries"
   },
-  "items": [
-    {
-      "category": "politics",
-      "source_name": "Focus Taiwan (CNA)",
-      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US",
-      "title": "KMT demands premier brief lawmakers on Indian worker recruitment - Focus Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94b3FqNTUydnV3ZnFOalhfa004LUx3UTRfRGZrWWM2ZlFWM1EwZ1lCdDRNSWlhUmxnYmNWQjR4Nkt5bUkxV2ZON3FQMDdrRXRRUjJyLVpvRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE94b3FqNTUydnV3ZnFOalhfa004LUx3UTRfRGZrWWM2ZlFWM1EwZ1lCdDRNSWlhUmxnYmNWQjR4Nkt5bUkxV2ZON3FQMDdrRXRRUjJyLVpvRQ?oc=5\" target=\"_blank\">KMT demands premier brief lawmakers on Indian worker recruitment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Focus Taiwan</font>",
-      "published": "Fri, 17 Apr 2026 07:12:00 GMT",
-      "updated": "Fri, 17 Apr 2026 07:12:00 GMT",
-      "id": "CBMiV0FVX3lxTE94b3FqNTUydnV3ZnFOalhfa004LUx3UTRfRGZrWWM2ZlFWM1EwZ1lCdDRNSWlhUmxnYmNWQjR4Nkt5bUkxV2ZON3FQMDdrRXRRUjJyLVpvRQ"
-    }
-  ]
+  "items": []
 }

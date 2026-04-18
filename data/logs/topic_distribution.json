@@ -599,13 +599,33 @@
           "interest_rates"
         ]
       }
+    },
+    {
+      "date": "2026-04-18",
+      "topics": {
+        "technology": [
+          "chips",
+          "ai",
+          "cybersecurity"
+        ],
+        "politics": [
+          "uk_politics",
+          "social_protests",
+          "us_politics"
+        ],
+        "economy": [
+          "inflation",
+          "energy_markets",
+          "interest_rates"
+        ]
+      }
     }
   ],
   "rolling_frequency": {
     "technology": {
-      "chips": 24,
-      "cybersecurity": 23,
-      "ai": 28,
+      "chips": 25,
+      "cybersecurity": 24,
+      "ai": 29,
       "space_tech": 6,
       "platform_regulation": 2,
       "general": 4,
@@ -615,18 +635,18 @@
     "politics": {
       "war_and_conflict": 28,
       "us_china_relations": 15,
-      "uk_politics": 14,
+      "uk_politics": 15,
       "eu_policy": 8,
-      "us_politics": 13,
+      "us_politics": 14,
       "diplomacy": 9,
-      "social_protests": 3
+      "social_protests": 4
     },
     "economy": {
-      "interest_rates": 20,
-      "inflation": 23,
+      "interest_rates": 21,
+      "inflation": 24,
       "trade_wars": 18,
       "supply_chain": 2,
-      "energy_markets": 9,
+      "energy_markets": 10,
       "general": 3,
       "markets": 12,
       "sanctions": 1,
@@ -634,5 +654,5 @@
     }
   },
   "window_days": 30,
-  "last_updated": "2026-04-17"
+  "last_updated": "2026-04-18"
 }
