@@ -1,25 +1,25 @@
 {
-  "generated_at_utc": "2026-04-18T08:38:03.527557+00:00",
+  "generated_at_utc": "2026-04-19T08:42:41.026838+00:00",
   "summary": {
-    "total_raw_items": 1087,
-    "total_deduped_items": 1069,
+    "total_raw_items": 1054,
+    "total_deduped_items": 1039,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "chips",
         "ai",
-        "cybersecurity"
+        "cybersecurity",
+        "chips"
       ],
       "politics": [
-        "uk_politics",
+        "us_politics",
         "social_protests",
-        "us_politics"
+        "war_and_conflict"
       ],
       "economy": [
-        "inflation",
-        "energy_markets",
-        "interest_rates"
+        "interest_rates",
+        "supply_chain",
+        "markets"
       ]
     },
     "multi_source_selected_count": 0
@@ -28,60 +28,28 @@
     "technology": [
       {
         "category": "technology",
-        "source_name": "Reuters",
-        "title": "Nvidia rival Cerebras discloses US IPO filing as AI boom drives listings - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZWotMXdBZ2tfaWJuV25qNGlFSjE1ckpoTHdnRTc0QkpFOXQ5Y2lTenFXeXFFb0hRWHVBUzV0VmUtcElFWkNSeFFmVjVId0daX05EV2dKbXkxRHBOSUQyRWJoNEZCWnk3a0ozcTFwWUVJWDhyZGJ6OWc1S1ZscS1qOGxMc1Q5TE5ubl9LZ2MwVVNCLWtxdmxVTmpxSEpPSnNHaUl0V0thTk9hMG5HRkdKak9HYUM?oc=5",
-        "summary": "Nvidia rival Cerebras discloses US IPO filing as AI boom drives listings Reuters",
-        "published": "Fri, 17 Apr 2026 21:42:47 GMT",
-        "updated": "Fri, 17 Apr 2026 21:42:47 GMT",
-        "published_at_utc": "2026-04-17T21:42:47+00:00",
-        "id": "CBMitAFBVV95cUxOZWotMXdBZ2tfaWJuV25qNGlFSjE1ckpoTHdnRTc0QkpFOXQ5Y2lTenFXeXFFb0hRWHVBUzV0VmUtcElFWkNSeFFmVjVId0daX05EV2dKbXkxRHBOSUQyRWJoNEZCWnk3a0ozcTFwWUVJWDhyZGJ6OWc1S1ZscS1qOGxMc1Q5TE5ubl9LZ2MwVVNCLWtxdmxVTmpxSEpPSnNHaUl0V0thTk9hMG5HRkdKak9HYUM",
-        "topic_type": "chips",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "Nvidia rival Cerebras discloses US IPO filing as AI boom drives listings Reuters",
-          "news_focus_zh": "隨著人工智慧熱潮的推動，競爭對手Cerebras向美國證券交易委員會提交首次公開募股（IPO）申請，顯示出市場對AI技術的強勁需求和投資者的興趣。",
-          "background": "Cerebras成立於2016年，專注於開發專用的AI處理器，與Nvidia等公司競爭。隨著AI技術的迅速發展，市場對高效能計算需求激增，促使多家科技公司考慮上市以籌集資金。Cerebras的IPO申請標誌著AI產業的成熟，並可能引發更多類似公司的上市潮。",
-          "stakeholders": [
-            "Cerebras",
-            "Nvidia",
-            "投資者",
-            "科技行業分析師",
-            "AI技術開發者"
-          ],
-          "analysis": "Cerebras的IPO申請可能會吸引投資者對AI硬體市場的關注，尤其是在Nvidia主導的情況下。此舉不僅能為Cerebras提供資金支持，還可能加劇與Nvidia的競爭，促使後者加快技術創新和市場策略。此外，若Cerebras成功上市，將可能鼓勵其他AI相關企業跟進，進一步擴大市場規模。"
-        },
-        "topic_priority_score": 10,
-        "event_type": "strategic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "BBC Technology",
-        "title": "White House and Anthropic hold 'productive' meeting amid fears over Mythos model",
-        "link": "https://www.bbc.com/news/articles/cyv10e1d13po?at_medium=RSS&at_campaign=rss",
-        "summary": "The discussion is a sign the AI firm's technology may be too critical for even the US government to do without.",
-        "published": "Sat, 18 Apr 2026 00:37:06 GMT",
-        "updated": "Sat, 18 Apr 2026 00:37:06 GMT",
-        "published_at_utc": "2026-04-18T00:37:06+00:00",
-        "id": "https://www.bbc.com/news/articles/cyv10e1d13po#0",
+        "source_name": "TechCrunch",
+        "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+        "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+        "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
+        "published": "Sat, 18 Apr 2026 14:56:48 +0000",
+        "updated": "Sat, 18 Apr 2026 14:56:48 +0000",
+        "published_at_utc": "2026-04-18T14:56:48+00:00",
+        "id": "https://techcrunch.com/?p=3113969",
         "topic_type": "ai",
-        "relevance_score": 19,
+        "relevance_score": 17,
         "briefing": {
-          "news_focus": "The discussion is a sign the AI firm's technology may be too critical for even the US government to do without.",
-          "news_focus_zh": "美國白宮與人工智慧公司Anthropic進行了富有成效的會議，顯示出該公司的技術對美國政府的重要性，尤其是在對其Mythos模型的擔憂中。",
-          "background": "Anthropic是一家專注於安全和可控的人工智慧技術的公司，其Mythos模型在業界引起了廣泛關注。隨著AI技術的迅速發展，各國政府對於AI的監管與應用日益重視。美國政府在推動AI技術創新與安全之間尋求平衡，這次會議反映出政府對於保持與AI企業合作的迫切需求，以確保技術的發展不會脫離監管範疇。",
+          "news_focus": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
+          "news_focus_zh": "儘管五角大廈最近將Anthropic列為供應鏈風險，但該公司仍與特朗普政府的高層保持對話，顯示雙方關係有回暖跡象。",
+          "background": "Anthropic是一家專注於人工智慧技術的公司，近年來在AI領域迅速崛起。隨著美國政府對科技公司的監管加強，特別是在國家安全和供應鏈方面，Anthropic面臨來自五角大廈的壓力。特朗普政府在任內對科技企業的態度多變，這使得Anthropic與政府的關係變得複雜。",
           "stakeholders": [
-            "美國政府",
             "Anthropic",
-            "AI技術開發者",
-            "監管機構",
-            "公眾"
+            "特朗普政府",
+            "五角大廈",
+            "其他科技公司",
+            "國家安全監管機構"
           ],
-          "analysis": "此次會議顯示出美國政府對於Anthropic技術的依賴，尤其是在AI安全與倫理問題上。政府希望透過與企業的合作來掌握技術發展的脈動，然而，這也可能引發對於監管不足的擔憂。不同利益方之間的角力將持續，政府希望確保技術不被濫用，而企業則希望在創新與監管之間找到最佳平衡點，未來可能出現更明確的政策指導。"
+          "analysis": "Anthropic與特朗普政府的接觸可能反映出該公司希望在政策制定中發揮影響力，尤其是在面對供應鏈風險的情況下。特朗普政府可能對AI技術的發展持開放態度，尋求與企業合作以促進經濟增長。然而，這也可能引發其他科技公司與政府間的競爭，特別是在國家安全的考量下，可能會導致更嚴格的監管措施。各方的利益與立場可能會因政策變化而產生新的動態。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
@@ -104,18 +72,51 @@
         "relevance_score": 17,
         "briefing": {
           "news_focus": "Nicholas Moore hacked into three U.S. government networks using stolen credentials, and then bragged about it and posted victims' personal data on Instagram under the handle @ihackedthegovernment.",
-          "news_focus_zh": "尼古拉斯·摩爾因入侵美國最高法院的檔案系統而被判處緩刑。他使用盜取的憑證入侵三個美國政府網絡，並在Instagram上炫耀其行為，公開受害者的個人資料。",
-          "background": "隨著數位化進程的加快，政府機構面臨的網絡安全威脅日益增加。摩爾的行為突顯了政府在保護敏感數據方面的脆弱性。美國政府已加強對網絡犯罪的打擊力度，並推動立法以加強網絡安全防護，然而，類似事件仍然層出不窮，顯示出執法與技術防護的挑戰。",
+          "news_focus_zh": "尼古拉斯·摩爾因入侵美國最高法院的檔案系統而被判處緩刑，該事件涉及他使用盜取的憑證入侵三個美國政府網絡，並在Instagram上炫耀其行為及公開受害者的個人數據。",
+          "background": "近年來，政府機構的網絡安全問題日益嚴重，黑客攻擊事件層出不窮。摩爾的行為突顯了政府在保護敏感數據方面的脆弱性。美國政府已針對網絡安全加強立法與監管，但仍面臨技術與資源的挑戰。此事件也引發了對於網絡犯罪懲罰力度的討論。",
           "stakeholders": [
-            "美國政府",
+            "美國司法部",
             "網絡安全專家",
-            "法律界",
-            "社會公眾",
-            "受害者"
+            "政府機構",
+            "公眾",
+            "社交媒體平台"
           ],
-          "analysis": "摩爾的判決引發了對網絡安全懲罰力度的討論。支持者認為，緩刑可能無法有效震懾潛在的網絡犯罪者，反而可能被視為輕判。另一方面，部分法律專家則認為，這樣的判決可以促進更具教育意義的懲罰，讓犯罪者重新融入社會。未來，政府可能需要考慮更嚴厲的法律來應對日益嚴重的網絡安全威脅。"
+          "analysis": "此次判決的變化在於，摩爾未被判處監禁，這可能反映出司法系統對於網絡犯罪的處理方式正在調整。與先前類似案件相比，這一判決可能會引發對於網絡犯罪懲罰標準的重新評估，尤其是在涉及政府機構的情況下。此案也可能影響未來黑客行為的威懾效果，因為輕判可能使潛在犯罪者認為風險較低。"
         },
         "topic_priority_score": 9,
+        "event_type": "strategic_move",
+        "is_major_update": true,
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "Wired",
+        "title": "Asus TUF Gaming A14 (2026) Review: GPU-Less Gaming Laptop",
+        "link": "https://www.wired.com/review/asus-tuf-gaming-a14-2026/",
+        "summary": "A gaming laptop without a discrete graphics card feels revolutionary, but the TUF Gaming A14 doesn't quite take full advantage of AMD's daring new silicon.",
+        "published": "Sat, 18 Apr 2026 10:30:00 +0000",
+        "updated": "Sat, 18 Apr 2026 10:30:00 +0000",
+        "published_at_utc": "2026-04-18T10:30:00+00:00",
+        "id": "69ded16efa20dbfacc2b0ea0",
+        "topic_type": "chips",
+        "relevance_score": 13,
+        "briefing": {
+          "news_focus": "A gaming laptop without a discrete graphics card feels revolutionary, but the TUF Gaming A14 doesn't quite take full advantage of AMD's daring new silicon.",
+          "news_focus_zh": "華碩的TUF Gaming A14是一款不配備獨立顯示卡的遊戲筆記型電腦，雖然這一設計看似革命性，但實際上未能充分利用AMD的新技術。",
+          "background": "隨著遊戲市場的快速發展，筆記型電腦的性能需求持續上升。傳統上，獨立顯示卡是遊戲筆電的核心組件。然而，AMD近期推出的新型處理器具備強大的集成顯示性能，促使廠商探索無獨立顯示卡的設計。華碩的TUF Gaming A14便是此趨勢的代表，旨在提供更輕便且具成本效益的遊戲選擇。",
+          "stakeholders": [
+            "華碩",
+            "AMD",
+            "遊戲玩家",
+            "競爭對手",
+            "零售商"
+          ],
+          "analysis": "這款筆電的推出引發了對遊戲性能與便攜性之間平衡的討論。支持者認為，無獨立顯示卡的設計能降低成本並提高電池續航，但批評者則指出，這可能會限制遊戲體驗，特別是在高需求的遊戲中。對於玩家而言，這款產品可能無法滿足其對高性能的期望，從而影響華碩在遊戲市場的競爭力。"
+        },
+        "topic_priority_score": 10,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -126,30 +127,30 @@
     "politics": [
       {
         "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "Pressure on Starmer grows over Mandelson vetting despite ousting of Foreign Office official – UK politics live",
-        "link": "https://www.theguardian.com/uk-news/live/2026/apr/18/keir-starmer-peter-mandelson-olly-robbins-antonia-romeo-labour-uk-politics-latest-news-updates",
-        "summary": "PM said he was ‘staggered’ not to have been told that Peter Mandelson had failed his security vetting before becoming ambassador to the US Keir Starmer faces ‘judgment day’ Five unanswered questions One the central characters in the latest uproar over the failure in Peter Mandelson’s vetting is Sir Olly Robbins, a former member of the Foreign Office who was forced to quit on Thursday after new revelations about the process were revealed by the Guardian . With Robbins due to appear before a committee of senior MPs next week, new information about how the process failed is expected to emerge. But what do Robbins know, and how was such a colossal mistake allowed to happen? Continue reading...",
-        "published": "Sat, 18 Apr 2026 08:16:33 GMT",
-        "updated": "2026-04-18T08:16:33Z",
-        "published_at_utc": "2026-04-18T08:16:33+00:00",
-        "id": "https://www.theguardian.com/uk-news/live/2026/apr/18/keir-starmer-peter-mandelson-olly-robbins-antonia-romeo-labour-uk-politics-latest-news-updates",
-        "topic_type": "uk_politics",
-        "relevance_score": 20,
+        "source_name": "SCMP World",
+        "title": "China steps up aid to Africa but huge funding gap left by Trump’s cuts remains",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3350443/china-steps-aid-africa-huge-funding-gap-left-trumps-cuts-remains?utm_source=rss_feed",
+        "summary": "During Vice-President Han Zheng’s visit to Nairobi in March, China signed a cash grant for drought relief and recently delivered food aid to Somalia, Togo, Zimbabwe and Zambia – helping 217,057 people in Zambia and providing Zimbabwe with 5,000 tonnes of rice. Du Xiaohui, director general of the foreign ministry’s African affairs department, later affirmed that Beijing would help nations in Africa boost food security and agricultural resilience through emergency aid and long-term support for...",
+        "published": "Sun, 19 Apr 2026 04:00:09 +0000",
+        "updated": "Sun, 19 Apr 2026 04:00:09 +0000",
+        "published_at_utc": "2026-04-19T04:00:09+00:00",
+        "id": "https://www.scmp.com/news/china/diplomacy/article/3350443/china-steps-aid-africa-huge-funding-gap-left-trumps-cuts-remains?utm_source=rss_feed",
+        "topic_type": "us_politics",
+        "relevance_score": 22,
         "briefing": {
-          "news_focus": "PM said he was ‘staggered’ not to have been told that Peter Mandelson had failed his security vetting before becoming ambassador to the US Keir Starmer faces ‘judgment day’ Five unanswered questions One the central characters in the latest uproar over the failure in Peter Mandelson’s vetting is Sir Olly Robbins, a former member of the Foreign Office who was forced to quit on Thursday after new revelations about the process were revealed by the Guardian . With Robbins due to appear before a committee of senior MPs next week, new information about how the process failed is expected to emerge. But what do Robbins know, and how was such a colossal mistake allowed to happen? Continue reading...",
-          "news_focus_zh": "英國首相對彼得·曼德爾森未通過安全審查而感到震驚，並指責工黨領袖基爾·斯塔默未能妥善處理此事。前外交部官員奧利·羅賓斯因相關醜聞辭職，並將在下週接受國會委員會的質詢，預計將揭露更多細節。",
-          "background": "彼得·曼德爾森是英國政壇的重要人物，其未通過安全審查卻被任命為美國大使，引發了對英國外交部審查程序的質疑。此事件發生在英國政治動盪的背景下，工黨與保守黨之間的競爭愈發激烈，尤其是在基爾·斯塔默領導下，工黨試圖重建形象。外交部的內部運作及其對安全審查的重視程度，成為當前政治辯論的焦點。",
+          "news_focus": "During Vice-President Han Zheng’s visit to Nairobi in March, China signed a cash grant for drought relief and recently delivered food aid to Somalia, Togo, Zimbabwe and Zambia – helping 217,057 people in Zambia and providing Zimbabwe with 5,000 tonnes of rice. Du Xiaohui, director general of the foreign ministry’s African affairs department, later affirmed that Beijing would help nations in Africa boost food security and agricultural resilience through emergency aid and long-term support for...",
+          "news_focus_zh": "中國在副總理韓正訪問奈洛比期間，簽署了現金撥款以應對非洲的乾旱問題，並向索馬利亞、托哥、津巴布韋和贊比亞提供了食品援助，幫助了超過21萬人。這顯示中國在加強對非洲的援助，但特朗普政府的資金削減仍然造成了巨大的資金缺口。",
+          "background": "中國與非洲的關係在過去十年中持續增強，特別是在基礎設施建設和經濟援助方面。特朗普政府期間，美國對非洲的援助有所減少，這使得中國的援助顯得更加重要。中國的援助不僅是人道主義行動，也反映了其在非洲的戰略利益，旨在擴大影響力並促進經濟合作。",
           "stakeholders": [
-            "基爾·斯塔默",
-            "彼得·曼德爾森",
-            "奧利·羅賓斯",
-            "保守黨",
-            "外交部"
+            "中國政府",
+            "非洲國家",
+            "美國政府",
+            "國際援助組織",
+            "當地民眾"
           ],
-          "analysis": "此次事件對基爾·斯塔默的領導地位構成挑戰，因為他必須面對外界對其能力的質疑。保守黨可能會利用這一機會攻擊工黨的管理能力，進一步削弱其在即將到來的選舉中的競爭力。另一方面，奧利·羅賓斯的辭職和即將出現的證詞可能會揭示更多內部問題，進一步影響外交部的公信力。各方對於安全審查的標準及其執行的透明度也將成為未來討論的重點。"
+          "analysis": "中國的援助行動可能會加強其在非洲的影響力，尤其是在美國減少援助的背景下。非洲國家可能會更依賴中國的支持，這對於希望在該地區增強存在感的中國來說是一個機會。然而，這也可能引發對中國在非洲經濟影響力擴張的擔憂，特別是在資源開發和基礎設施建設方面。美國可能需要重新評估其對非洲的政策，以應對中國的挑戰。"
         },
-        "topic_priority_score": 9,
+        "topic_priority_score": 8,
         "event_type": "security_event",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -159,30 +160,30 @@
       {
         "category": "politics",
         "source_name": "SCMP World",
-        "title": "Iranians fear ‘pressure will 100% increase’ after US, Israeli strikes stop",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3350563/iranians-fear-pressure-will-100-increase-after-us-israeli-strikes-stop?utm_source=rss_feed",
-        "summary": "Iranians striving to maintain a semblance of normal life after weeks of US and Israeli bombing and a deadly crackdown on protesters in January remain daunted by the future, as damage from air strikes ⁠and internet cuts take a toll. With talks expected on extending a truce and agreeing an end to the conflict, shops, restaurants and government offices have stayed open. On sunny spring mornings, city parks are busy with picnicking families and young people playing sports, while others gather at...",
-        "published": "Sat, 18 Apr 2026 07:05:39 +0000",
-        "updated": "Sat, 18 Apr 2026 07:05:39 +0000",
-        "published_at_utc": "2026-04-18T07:05:39+00:00",
-        "id": "https://www.scmp.com/news/world/middle-east/article/3350563/iranians-fear-pressure-will-100-increase-after-us-israeli-strikes-stop?utm_source=rss_feed",
+        "title": "Meet the Filipino vloggers finding financial freedom and defying stereotypes abroad",
+        "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3350549/meet-filipino-vloggers-finding-financial-freedom-and-defying-stereotypes-abroad?utm_source=rss_feed",
+        "summary": "Lea Albritton’s mornings belong to the repair shop. Her afternoons belong to the camera. The 40-year-old from Leyte in the central Philippines has lived in the US state of Georgia since 2019 with her 62-year-old American husband, Timothy, running a recreational vehicle repair shop in the mornings. After lunch, she produces videos about Filipino food, migration advice for couples stuck in the fiancée visa queue and glimpses of domestic life for the 250,000 followers of her page, Pinay sa America...",
+        "published": "Sun, 19 Apr 2026 07:00:10 +0000",
+        "updated": "Sun, 19 Apr 2026 07:00:10 +0000",
+        "published_at_utc": "2026-04-19T07:00:10+00:00",
+        "id": "https://www.scmp.com/week-asia/lifestyle-culture/article/3350549/meet-filipino-vloggers-finding-financial-freedom-and-defying-stereotypes-abroad?utm_source=rss_feed",
         "topic_type": "social_protests",
         "relevance_score": 20,
         "briefing": {
-          "news_focus": "Iranians striving to maintain a semblance of normal life after weeks of US and Israeli bombing and a deadly crackdown on protesters in January remain daunted by the future, as damage from air strikes ⁠and internet cuts take a toll. With talks expected on extending a truce and agreeing an end to the conflict, shops, restaurants and government offices have stayed open. On sunny spring mornings, city parks are busy with picnicking families and young people playing sports, while others gather at...",
-          "news_focus_zh": "伊朗民眾在美國和以色列的空襲停止後，對未來感到擔憂，認為壓力將會增加。儘管如此，部分商店和公共場所仍保持運作，民眾試圖維持正常生活。",
-          "background": "近期，美國和以色列對伊朗的空襲行動引發了國內的抗議與鎮壓，造成了嚴重的社會動盪。這些行動的背景涉及伊朗在中東地區的影響力及其與西方國家的緊張關係。隨著空襲的暫停，伊朗民眾面臨的經濟與社會壓力依然存在，特別是在政府對抗議活動的強硬鎮壓之後，民眾的生活受到嚴重影響。",
+          "news_focus": "Lea Albritton’s mornings belong to the repair shop. Her afternoons belong to the camera. The 40-year-old from Leyte in the central Philippines has lived in the US state of Georgia since 2019 with her 62-year-old American husband, Timothy, running a recreational vehicle repair shop in the mornings. After lunch, she produces videos about Filipino food, migration advice for couples stuck in the fiancée visa queue and glimpses of domestic life for the 250,000 followers of her page, Pinay sa America...",
+          "news_focus_zh": "這則新聞報導了來自菲律賓的Vlogger Lea Albritton在美國的生活與工作，她透過社交媒體分享菲律賓文化及移民經驗，吸引了大量追隨者，挑戰了對菲律賓移民的刻板印象。",
+          "background": "隨著全球化的加速，越來越多的菲律賓人選擇移民至美國，尋求更好的經濟機會。菲律賓社群在美國的存在已久，但他們的生活經驗往往被忽視。Albritton的故事反映了移民在適應新環境中所面臨的挑戰與機會，並透過數位平台展現其獨特的文化身份。",
           "stakeholders": [
-            "伊朗政府",
-            "美國政府",
-            "以色列政府",
-            "伊朗民眾",
-            "國際社會"
+            "Lea Albritton",
+            "美國移民社群",
+            "菲律賓政府",
+            "社交媒體平台",
+            "文化評論家"
           ],
-          "analysis": "伊朗民眾的恐懼主要源於對未來局勢的不可預測性，尤其是在美國和以色列的軍事行動暫時停止後，可能會出現新的壓力形式。政府可能會加強對抗議活動的鎮壓，以維持政權穩定，而民眾則在努力恢復正常生活的同時，面臨經濟困境和社會壓力。這種情況可能導致社會矛盾加劇，並引發更多的抗議行動，形成一個惡性循環。"
+          "analysis": "Albritton的成功不僅為她自己帶來了財務自由，也為其他菲律賓移民提供了啟發。她的內容吸引了大量觀眾，顯示出對於移民故事的需求與興趣。然而，這也引發了對於移民身份與文化認同的討論，部分人可能會質疑其內容是否能真實反映所有移民的經歷。未來，隨著社交媒體的影響力增強，類似的故事可能會促進更廣泛的社會對話。"
         },
         "topic_priority_score": 5,
-        "event_type": "diplomatic_move",
+        "event_type": "policy_action",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -190,31 +191,31 @@
       },
       {
         "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "Trump says he has ‘good news’ on Iran, offers no clarity on peace deal",
-        "link": "https://www.thehindu.com/news/international/trump-says-he-has-good-news-on-iran-offers-no-clarity-on-peace-deal/article70876600.ece",
-        "summary": "Iran, hours earlier, had temporarily reopened the Strait of Hormuz following a separate U.S.-brokered ceasefire agreement ​by Israel and Lebanon",
-        "published": "Sat, 18 Apr 2026 11:50:09 +0530",
-        "updated": "Sat, 18 Apr 2026 11:50:09 +0530",
-        "published_at_utc": "2026-04-18T06:20:09+00:00",
-        "id": "article-70876600",
-        "topic_type": "us_politics",
+        "source_name": "The Guardian World",
+        "title": "Ben Roberts-Smith denies war crimes allegations – As it happened",
+        "link": "https://www.theguardian.com/australia-news/live/2026/apr/19/australia-news-live-free-public-transport-in-victoria-extended-man-charged-with-in-nsw-ntwnfb",
+        "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Defence Minister Richard Marles says the success of Australia’s alliance with the United States should not be measured against a single president or federal government in Canberra, insisting the longstanding ties will endure. US President Donald Trump has repeatedly criticised Australia for not assisting with the war in Iran, while federal Labor, including Marles and Prime Minister Anthony Albanese , say the White House has not made any specific request for assistance. Continue reading...",
+        "published": "Sun, 19 Apr 2026 04:39:52 GMT",
+        "updated": "2026-04-19T04:39:52Z",
+        "published_at_utc": "2026-04-19T04:39:52+00:00",
+        "id": "https://www.theguardian.com/australia-news/live/2026/apr/19/australia-news-live-free-public-transport-in-victoria-extended-man-charged-with-in-nsw-ntwnfb",
+        "topic_type": "war_and_conflict",
         "relevance_score": 20,
         "briefing": {
-          "news_focus": "Iran, hours earlier, had temporarily reopened the Strait of Hormuz following a separate U.S.-brokered ceasefire agreement ​by Israel and Lebanon",
-          "news_focus_zh": "特朗普表示對伊朗有‘好消息’，但未提供和平協議的具體細節。此消息發表前，伊朗剛剛在美國斡旋下，暫時重新開放霍爾木茲海峽，這一地區的安全局勢引發關注。",
-          "background": "霍爾木茲海峽是全球重要的石油運輸通道，伊朗與以色列及黎巴嫩的緊張關係長期以來影響著該地區的穩定。美國在此地區的外交介入，尤其是在以色列和黎巴嫩之間的停火協議中，顯示出其對中東局勢的持續關注與影響力。特朗普的言論可能旨在強化其在國內外的政治形象，尤其是在面對即將到來的選舉。",
+          "news_focus": "This blog is now closed Get our breaking news email , free app or daily news podcast Defence Minister Richard Marles says the success of Australia’s alliance with the United States should not be measured against a single president or federal government in Canberra, insisting the longstanding ties will endure. US President Donald Trump has repeatedly criticised Australia for not assisting with the war in Iran, while federal Labor, including Marles and Prime Minister Anthony Albanese , say the White House has not made any specific request for assistance. Continue reading...",
+          "news_focus_zh": "澳大利亞國防部長理查德·馬爾斯強調與美國的聯盟關係不應僅依賴於單一總統或政府，並指出特朗普對澳大利亞在伊朗戰爭中未提供支持的批評並不成立。",
+          "background": "澳大利亞與美國的聯盟關係歷史悠久，根植於共同的安全利益與價值觀。隨著地緣政治的變化，尤其是亞太地區的安全挑戰，兩國之間的合作愈發重要。特朗普政府期間，對於盟友的期望與要求有所增加，這使得澳大利亞在外交政策上面臨壓力，尤其是在軍事介入的問題上。",
           "stakeholders": [
-            "特朗普政府",
-            "伊朗政府",
-            "以色列政府",
-            "黎巴嫩政府",
-            "美國國會"
+            "澳大利亞政府",
+            "美國政府",
+            "澳大利亞國防部",
+            "特朗普",
+            "國際社會"
           ],
-          "analysis": "特朗普的聲明可能旨在吸引選民的注意，強調他在中東問題上的積極角色。然而，缺乏具體的和平協議細節可能使其言論受到質疑。伊朗方面可能會視此為美方的外交壓力，而以色列則可能擔心任何不明確的協議會影響其安全。潛在的後續發展包括美國與伊朗之間的進一步談判或衝突的升級，取決於各方的反應與立場。"
+          "analysis": "馬爾斯的發言反映了澳大利亞政府對於美國外交政策變化的應對策略，強調長期合作的重要性。特朗普的批評可能會引發澳大利亞內部對於軍事參與的討論，但政府強調未收到具體請求，顯示出其對自主決策的堅持。此事件可能會影響澳美關係的未來走向，特別是在面對地區安全挑戰時的合作意願。"
         },
-        "topic_priority_score": 8,
-        "event_type": "diplomatic_move",
+        "topic_priority_score": 11,
+        "event_type": "security_event",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -225,30 +226,30 @@
       {
         "category": "economy",
         "source_name": "The Guardian Business",
-        "title": "Can Europe avoid a summer of holiday flight and cross-Channel travel chaos?",
-        "link": "https://www.theguardian.com/travel/2026/apr/18/europe-summer-holiday-flight-cross-channel-travel-cancelled-flights-airport-eu-ees",
-        "summary": "Passengers face risk of cancellations due to fuel shortages – and long airport queues due to EU entry-exit system What are your rights if your holiday flight is cancelled? Holidaymakers have faced numerous stresses in recent years when planning and budgeting for the sacred summer holiday. Holiday flights to Europe have kept growing despite a pandemic, a cost of living crisis and long airport queues, but summer 2026 threatens to bring fresh anxieties. Legacies of Brexit mean longer border checks for Britons and most non-EU nationals to get into much of Europe, and the US-Israel war on Iran has prompted fears that airlines may not have enough fuel for every scheduled flight. Continue reading...",
-        "published": "Sat, 18 Apr 2026 07:00:07 GMT",
-        "updated": "2026-04-18T07:00:07Z",
-        "published_at_utc": "2026-04-18T07:00:07+00:00",
-        "id": "https://www.theguardian.com/travel/2026/apr/18/europe-summer-holiday-flight-cross-channel-travel-cancelled-flights-airport-eu-ees",
-        "topic_type": "inflation",
-        "relevance_score": 21,
+        "title": "Central bank bosses enlist for war game to gauge threat of Lehman-style bust",
+        "link": "https://www.theguardian.com/business/2026/apr/18/central-bank-bosses-enlist-for-war-game-to-gauge-threat-of-lehman-style-bust",
+        "summary": "Finance chiefs to join exercise in Washington designed to assess how they would handle collapse of significant bank The bosses of the central banks and treasuries of the UK, US and EU are to take part in a war game in Washington on Saturday to test how they would handle the collapse of a globally significant bank. Amid growing unease over the risks to global financial stability, the most senior officials from the US Federal Reserve , the European Central Bank and the Bank of England – including its governor, Andrew Bailey – are expected to take part. Continue reading...",
+        "published": "Sat, 18 Apr 2026 09:00:09 GMT",
+        "updated": "2026-04-18T09:00:09Z",
+        "published_at_utc": "2026-04-18T09:00:09+00:00",
+        "id": "https://www.theguardian.com/business/2026/apr/18/central-bank-bosses-enlist-for-war-game-to-gauge-threat-of-lehman-style-bust",
+        "topic_type": "interest_rates",
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "Passengers face risk of cancellations due to fuel shortages – and long airport queues due to EU entry-exit system What are your rights if your holiday flight is cancelled? Holidaymakers have faced numerous stresses in recent years when planning and budgeting for the sacred summer holiday. Holiday flights to Europe have kept growing despite a pandemic, a cost of living crisis and long airport queues, but summer 2026 threatens to bring fresh anxieties. Legacies of Brexit mean longer border checks for Britons and most non-EU nationals to get into much of Europe, and the US-Israel war on Iran has prompted fears that airlines may not have enough fuel for every scheduled flight. Continue reading...",
-          "news_focus_zh": "隨著2026年夏季旅遊季節的臨近，歐洲面臨航班取消和長時間排隊的風險，主要原因包括燃料短缺和因脫歐導致的邊境檢查延長。",
-          "background": "近年來，歐洲的假期航班需求持續增長，儘管疫情和生活成本危機影響了旅遊業。然而，脫歐後，英國公民進入歐洲的邊境檢查時間延長，增加了旅行的不確定性。此外，近期美以戰爭對伊朗的影響，導致航空公司面臨燃料供應不足的風險，進一步加劇了夏季旅遊的焦慮。",
+          "news_focus": "Finance chiefs to join exercise in Washington designed to assess how they would handle collapse of significant bank The bosses of the central banks and treasuries of the UK, US and EU are to take part in a war game in Washington on Saturday to test how they would handle the collapse of a globally significant bank. Amid growing unease over the risks to global financial stability, the most senior officials from the US Federal Reserve , the European Central Bank and the Bank of England – including its governor, Andrew Bailey – are expected to take part. Continue reading...",
+          "news_focus_zh": "英、美、歐的中央銀行及財政部長將於華盛頓參加一場模擬演習，評估如何應對全球性銀行的潛在倒閉，反映出對全球金融穩定風險的日益關注。",
+          "background": "自2008年金融危機以來，全球金融體系的穩定性一直受到密切關注。隨著利率上升及通脹壓力加劇，市場對大型銀行潛在倒閉的擔憂日益增加。此次演習旨在檢視各國央行的應對能力，並強化跨國協作，以防範類似雷曼兄弟事件的重演，這對全球經濟影響深遠。",
           "stakeholders": [
-            "航空公司",
-            "英國政府",
-            "歐盟",
-            "旅客",
-            "燃料供應商"
+            "美國聯邦儲備系統",
+            "歐洲中央銀行",
+            "英國銀行",
+            "全球金融市場",
+            "投資者"
           ],
-          "analysis": "各方利益關係複雜，航空公司面臨燃料短缺的挑戰，可能導致航班取消，影響乘客的旅行計劃。英國旅客因脫歐政策面臨更長的入境檢查，可能導致他們選擇其他目的地，影響歐洲旅遊業的收益。政府和航空公司需協調應對燃料供應問題，以減少對旅客的影響，否則可能引發更大規模的旅行混亂和消費者不滿。"
+          "analysis": "此次模擬演習顯示了各國央行對於金融穩定的重視，尤其是在面對潛在的銀行倒閉風險時。美國聯邦儲備系統、歐洲中央銀行及英國銀行的參與，表明了他們對於全球金融體系的共同責任。然而，各方在應對策略上可能存在分歧，例如美國可能更傾向於市場主導的解決方案，而歐洲則可能強調政府干預的必要性。這種差異可能影響未來的政策協調與金融市場的信心。"
         },
-        "topic_priority_score": 9,
-        "event_type": "macro_signal",
+        "topic_priority_score": 10,
+        "event_type": "rate_decision",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -256,31 +257,31 @@
       },
       {
         "category": "economy",
-        "source_name": "BBC Business",
-        "title": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
-        "link": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
-        "summary": "Brent crude sinks by a tenth after Iran says the key waterway is open for commercial ships for the rest of the ceasefire.",
-        "published": "Sat, 18 Apr 2026 06:06:38 GMT",
-        "updated": "Sat, 18 Apr 2026 06:06:38 GMT",
-        "published_at_utc": "2026-04-18T06:06:38+00:00",
-        "id": "https://www.bbc.com/news/articles/ckg045z73z1o#0",
-        "topic_type": "energy_markets",
-        "relevance_score": 19,
+        "source_name": "SCMP Business",
+        "title": "Asia’s supply chain strengths could give it edge over US in AI race: Granite Asia’s Foo",
+        "link": "https://www.scmp.com/business/markets/article/3350609/asias-supply-chain-strengths-could-give-it-edge-over-us-ai-race-granite-asias-foo?utm_source=rss_feed",
+        "summary": "As the artificial intelligence race moves beyond language models into the physical world, Asia’s manufacturing and supply chain strengths could give it an edge over the US, says Granite Asia’s Jixun Foo. The veteran venture capitalist said the current wave of AI development, sparked by breakthroughs in foundation models over the past two years, had entered a new phase where physical applications – from robotics to industrial automation – were becoming increasingly important, playing to Asia’s...",
+        "published": "Sun, 19 Apr 2026 06:00:18 +0000",
+        "updated": "Sun, 19 Apr 2026 06:00:18 +0000",
+        "published_at_utc": "2026-04-19T06:00:18+00:00",
+        "id": "https://www.scmp.com/business/markets/article/3350609/asias-supply-chain-strengths-could-give-it-edge-over-us-ai-race-granite-asias-foo?utm_source=rss_feed",
+        "topic_type": "supply_chain",
+        "relevance_score": 18,
         "briefing": {
-          "news_focus": "Brent crude sinks by a tenth after Iran says the key waterway is open for commercial ships for the rest of the ceasefire.",
-          "news_focus_zh": "伊朗宣佈霍爾木茲海峽在停火期間對商船開放，導致布倫特原油價格下跌10%。",
-          "background": "霍爾木茲海峽是全球重要的石油運輸通道，約20%的石油貿易經此通過。近期中東地區的緊張局勢影響了市場對原油供應的預期，特別是在伊朗與其他國家的關係緊張之際。此次停火及伊朗的聲明使得市場對原油供應的擔憂減輕，進而影響價格走勢。",
+          "news_focus": "As the artificial intelligence race moves beyond language models into the physical world, Asia’s manufacturing and supply chain strengths could give it an edge over the US, says Granite Asia’s Jixun Foo. The veteran venture capitalist said the current wave of AI development, sparked by breakthroughs in foundation models over the past two years, had entered a new phase where physical applications – from robotics to industrial automation – were becoming increasingly important, playing to Asia’s...",
+          "news_focus_zh": "Granite Asia的Foo指出，隨著人工智慧從語言模型進入實體應用，亞洲的製造與供應鏈優勢可能使其在AI競賽中超越美國。",
+          "background": "近年來，人工智慧的發展迅速，特別是基於基礎模型的突破，推動了AI技術的應用擴展至物理領域，如機器人技術和工業自動化。亞洲國家，尤其是中國、日本和韓國，擁有強大的製造能力和成熟的供應鏈體系，使其在這一新階段中具備競爭優勢。這種優勢不僅體現在成本效益上，還包括快速的產品迭代和市場反應能力。",
           "stakeholders": [
-            "伊朗政府",
-            "全球石油市場",
-            "美國政府",
-            "中國政府",
-            "印度政府"
+            "美國科技公司",
+            "亞洲製造商",
+            "風險投資者",
+            "政策制定者",
+            "消費者"
           ],
-          "analysis": "伊朗的聲明對全球原油市場產生了直接影響，降低了供應中斷的風險，這對於依賴中東石油的國家如中國和印度是利好消息。然而，對於美國及其盟友而言，這可能意味著伊朗在地緣政治上的回暖，進一步複雜化了對伊朗的制裁政策。此外，原油價格的下跌也可能影響到全球能源市場的投資決策，未來幾個月內，市場將密切關注停火的持續性及其對供應鏈的影響。"
+          "analysis": "美國在AI領域的領先地位主要依賴於其技術創新和資本投入，但在實體應用方面，亞洲的製造優勢可能成為其競爭劣勢。美國企業可能需要依賴亞洲的供應鏈來實現其AI技術的實際應用，這可能導致技術依賴的加深。另一方面，亞洲國家若能有效整合AI技術與其製造能力，將可能在全球市場中獲得更大的影響力，並促進本地經濟增長。"
         },
-        "topic_priority_score": 8,
-        "event_type": "energy_supply_move",
+        "topic_priority_score": 6,
+        "event_type": "macro_signal",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -289,30 +290,30 @@
       {
         "category": "economy",
         "source_name": "Reuters",
-        "title": "Fed's Waller says rate cuts still possible this year if war ends quickly - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcXpGTDNQU3BHZHJMbWNsRkgzdVRyQ1VXTDl3TnFwb2VKSGctSjgxS2l6RE8xU216ejNPOHItTHhRUnhYampXalNwdG15LXhzQWd2dk1BQ2tuVG1TOXJZV3RkYi1qNFd2cUlnanhtSVR3dHJ6WXl1eV9WZ3o0dW9IZHZ5cVhJSW5XbGFqVW5KQ3hHYVlfMUlzeHRXcTRrcVRLV1JRZ0tQMGFSSTg?oc=5",
-        "summary": "Fed's Waller says rate cuts still possible this year if war ends quickly Reuters",
-        "published": "Fri, 17 Apr 2026 20:49:47 GMT",
-        "updated": "Fri, 17 Apr 2026 20:49:47 GMT",
-        "published_at_utc": "2026-04-17T20:49:47+00:00",
-        "id": "CBMiqwFBVV95cUxPcXpGTDNQU3BHZHJMbWNsRkgzdVRyQ1VXTDl3TnFwb2VKSGctSjgxS2l6RE8xU216ejNPOHItTHhRUnhYampXalNwdG15LXhzQWd2dk1BQ2tuVG1TOXJZV3RkYi1qNFd2cUlnanhtSVR3dHJ6WXl1eV9WZ3o0dW9IZHZ5cVhJSW5XbGFqVW5KQ3hHYVlfMUlzeHRXcTRrcVRLV1JRZ0tQMGFSSTg",
-        "topic_type": "interest_rates",
-        "relevance_score": 19,
+        "title": "SNAPSHOT-Indian shares, rupee, bonds, swaps, money at 3:05 p.m. - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUHpWSWhpNDBUVzFnY2FFR1VndlZlTzVpMXdzcDZIX1lFTXJuVGZwR09TQVJVTFJFQkRkUTZJaUdTQUxSdlhQb3dlSGxGWUlfVDlWRTFNSFIxWmdqUTFSUG1vTDZqVzM2ZmFzV1A4aDYtVG1hd2hUZi10RjdBRmhCRjVKY0l6dnFIaFljaWVTbTlaaGgxWGdPLTVGaGJEOWhqUnl4eVh4Q2ljYVFIS2c?oc=5",
+        "summary": "SNAPSHOT-Indian shares, rupee, bonds, swaps, money at 3:05 p.m. Reuters",
+        "published": "Sat, 18 Apr 2026 12:39:41 GMT",
+        "updated": "Sat, 18 Apr 2026 12:39:41 GMT",
+        "published_at_utc": "2026-04-18T12:39:41+00:00",
+        "id": "CBMirgFBVV95cUxNUHpWSWhpNDBUVzFnY2FFR1VndlZlTzVpMXdzcDZIX1lFTXJuVGZwR09TQVJVTFJFQkRkUTZJaUdTQUxSdlhQb3dlSGxGWUlfVDlWRTFNSFIxWmdqUTFSUG1vTDZqVzM2ZmFzV1A4aDYtVG1hd2hUZi10RjdBRmhCRjVKY0l6dnFIaFljaWVTbTlaaGgxWGdPLTVGaGJEOWhqUnl4eVh4Q2ljYVFIS2c",
+        "topic_type": "markets",
+        "relevance_score": 17,
         "briefing": {
-          "news_focus": "Fed's Waller says rate cuts still possible this year if war ends quickly Reuters",
-          "news_focus_zh": "美國聯邦儲備系統官員瓦勒表示，如果戰爭迅速結束，今年仍有可能進行降息，暗示貨幣政策的靈活性取決於地緣政治情勢的發展。",
-          "background": "近期的地緣政治緊張局勢對全球經濟造成影響，特別是能源價格和供應鏈的波動。美國聯準會在面對通脹壓力的同時，必須考量外部事件對經濟增長的影響。降息的可能性反映出聯準會對經濟復甦的關注，尤其是在不確定性高漲的環境中。",
+          "news_focus": "SNAPSHOT-Indian shares, rupee, bonds, swaps, money at 3:05 p.m. Reuters",
+          "news_focus_zh": "本則新聞提供了印度股市、盧比、債券、掉期及貨幣市場的即時快照，反映出當前市場的動態與趨勢。",
+          "background": "近期印度經濟持續增長，吸引外資流入，這對股市及貨幣市場產生了積極影響。印度政府的政策支持及全球經濟復甦也促進了投資者信心。然而，全球通脹上升及美聯儲的利率政策變化可能對印度市場造成壓力，影響資本流動及匯率穩定。",
           "stakeholders": [
-            "美國聯邦儲備系統",
-            "美國政府",
-            "企業界",
-            "消費者",
-            "國際市場"
+            "印度政府",
+            "外資投資者",
+            "印度央行",
+            "本地企業",
+            "國際金融機構"
           ],
-          "analysis": "瓦勒的言論顯示出聯準會在應對通脹與促進經濟增長之間的微妙平衡。若戰爭結束，市場可能會預期降息以刺激經濟，這對消費者和企業皆有利。然而，若戰爭持續，則可能導致通脹壓力加劇，聯準會可能不得不維持高利率以應對。不同利益方如政府、企業和消費者將根據經濟情勢的變化調整其策略。"
+          "analysis": "在當前市場環境中，投資者需關注全球經濟變化對印度市場的影響。外資流入可能會推高股市，但若美聯儲持續加息，則可能導致資本外流，進而影響盧比匯率及債券收益率。政府與央行的政策反應將成為市場穩定的關鍵，各方需密切關注政策動向及市場反應。"
         },
-        "topic_priority_score": 10,
-        "event_type": "macro_signal",
+        "topic_priority_score": 4,
+        "event_type": "market_repricing",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -323,183 +324,155 @@
   "further_reading": {
     "technology": [
       {
-        "title": "Anthropic CEO to meet White House chief of staff amid Pentagon dispute, Axios reports - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObHcwQl9pT1dKQkQ2TGNBWEFWajJMSEM2SzVQV1F5d2xnLUpTTm9TNnc2dXl5OTA2YWVVNUlzM1ctaHRVbGQxeElXUXVleEJib3ZrOUdnclNmMV9CcU52Q0twTjBtblBxTzJRSHU3bV9GUXlzeXdjZl9FOEhxX1lpaS1wczBoSWx6c2hvR1o0czlYZ1FrYV84UG9VdXBqZld6VzBqdnFYdjlEZ2FURTJMVktDZG1Icy1xQnVXVg?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-17T17:58:53+00:00",
-        "relevance_score": 19
+        "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
+        "link": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-04-18T10:30:00+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "AI chip startup Cerebras files for IPO",
+        "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-18T19:19:11+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+        "link": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-04-18T10:30:00+00:00",
+        "relevance_score": 13
       },
       {
         "title": "Hackers are abusing unpatched Windows security flaws to hack into organizations",
         "link": "https://techcrunch.com/2026/04/17/hackers-are-abusing-unpatched-windows-security-flaws-to-hack-into-organizations/",
         "source_name": "TechCrunch",
         "published_at_utc": "2026-04-17T17:48:46+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "OpenAI’s former Sora boss is leaving",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-04-17T21:13:25+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Should you stare into Sam Altman’s orb before your next date?",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-04-17T20:42:47+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-        "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-17T20:38:17+00:00",
-        "relevance_score": 15
+        "relevance_score": 13
       },
       {
         "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
         "link": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
         "source_name": "The Verge",
         "published_at_utc": "2026-04-17T20:14:21+00:00",
-        "relevance_score": 15
+        "relevance_score": 11
       },
       {
         "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
         "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
         "source_name": "TechCrunch",
         "published_at_utc": "2026-04-17T15:00:00+00:00",
-        "relevance_score": 15
+        "relevance_score": 11
+      },
+      {
+        "title": "Cheap stuff that doesn’t suck, take 3",
+        "link": "https://www.theverge.com/gadgets/912620/cheap-gadgets-tech-under-50-tools-headphones-fitness-trackers",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-04-18T15:33:00+00:00",
+        "relevance_score": 10
       },
       {
         "title": "Satellite and drone images reveal big delays in US data center construction",
         "link": "https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/",
         "source_name": "Ars Technica",
         "published_at_utc": "2026-04-17T18:08:25+00:00",
-        "relevance_score": 14
+        "relevance_score": 10
       },
       {
-        "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
-        "link": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+        "title": "Anthropic Plots Major London Expansion",
+        "link": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
         "source_name": "Wired",
-        "published_at_utc": "2026-04-17T19:56:42+00:00",
-        "relevance_score": 13
+        "published_at_utc": "2026-04-16T13:49:35+00:00",
+        "relevance_score": 10
       },
       {
-        "title": "Man with @ihackedthegovernment Instagram account tells judge, “I made a mistake\"",
-        "link": "https://arstechnica.com/tech-policy/2026/04/man-with-ihackedthegovernment-instagram-account-tells-judge-i-made-a-mistake/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-04-17T19:31:48+00:00",
-        "relevance_score": 13
+        "title": "Why having “humans in the loop” in an AI war is an illusion",
+        "link": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+        "source_name": "MIT Technology Review",
+        "published_at_utc": "2026-04-16T12:00:00+00:00",
+        "relevance_score": 10
       }
     ],
     "politics": [
       {
-        "title": "Two weeks that pushed Trump to the edge. Is his presidency unravelling?",
-        "link": "https://www.theguardian.com/news/ng-interactive/2026/apr/18/donald-trump-popularity-iran-christianity-economy",
+        "title": "Iran-Israel war LIVE: 'Bold and loyal', Trump praises Israel as 'great ally' of U.S.",
+        "link": "https://www.thehindu.com/news/international/us-israel-war-on-iran-live-updates-strait-of-hormuz-blockade-april-19-2026/article70879933.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-19T06:53:10+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Iran closes strait of Hormuz again ‘until US lifts blockade’",
+        "link": "https://www.theguardian.com/world/2026/apr/18/iran-closes-strait-of-hormuz-again-until-us-lifts-blockade",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-18T05:00:05+00:00",
+        "published_at_utc": "2026-04-19T04:29:09+00:00",
         "relevance_score": 20
       },
       {
-        "title": "What we know about the Israel-Lebanon ceasefire",
-        "link": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
+        "title": "French peacekeeper killed in southern Lebanon",
+        "link": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC World",
-        "published_at_utc": "2026-04-17T14:56:15+00:00",
+        "published_at_utc": "2026-04-19T03:14:45+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Iran has opened Strait of Hormuz but will the US ease its economic squeeze?",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3350514/why-us-threats-tighten-economic-vice-iran-might-prolong-war?utm_source=rss_feed",
+        "title": "Trump says he has ‘good news’ on Iran, offers no clarity on peace deal",
+        "link": "https://www.thehindu.com/news/international/trump-says-he-has-good-news-on-iran-offers-no-clarity-on-peace-deal/article70876600.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-18T10:15:29+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "The rupture: how Europe fell out of love with America",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3350572/rupture-how-europe-fell-out-love-america?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-04-17T13:26:27+00:00",
+        "published_at_utc": "2026-04-18T15:00:10+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Venezuela’s Machado to hold Madrid rally as opposition frozen out after Maduro capture",
-        "link": "https://www.theguardian.com/world/2026/apr/18/venezuelas-machado-to-hold-madrid-rally-as-opposition-frozen-out-after-maduro-capture",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-18T08:00:08+00:00",
+        "title": "Pope says 'tyrants' speech was not aimed at Trump",
+        "link": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-04-19T07:47:35+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Iran threatens to again close Strait of Hormuz, if U.S. blockade continues",
-        "link": "https://www.thehindu.com/news/international/iran-threatens-to-again-close-strait-of-hormuz-if-us-blockade-continues/article70876543.ece",
+        "title": "Trump vs Pope | Two Americans, two paths",
+        "link": "https://www.thehindu.com/news/international/trump-vs-pope-leo-xiv-two-americans-two-paths/article70878562.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-18T07:11:30+00:00",
+        "published_at_utc": "2026-04-19T03:57:05+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Young Bulgarians hold out for change in eighth election in five years",
-        "link": "https://www.theguardian.com/world/2026/apr/18/young-bulgarians-election-wave-of-protests",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-18T07:00:06+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Trump says U.S. blockade of Iranian ports will ‘remain’ if no deal reached",
-        "link": "https://www.thehindu.com/news/international/trump-says-us-blockade-of-iranian-ports-will-remain-if-no-deal-reached/article70876492.ece",
+        "title": "No date set for next round of Iran-U.S. talks: Iran Deputy Foreign Minister",
+        "link": "https://www.thehindu.com/news/international/no-date-set-for-next-round-of-iran-us-talks-iran-deputy-foreign-minister/article70877691.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-18T06:43:48+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-04-18T13:22:14+00:00",
+        "relevance_score": 17
       },
       {
-        "title": "Nepal SC recognises Gagan Thapa faction as official Nepali Congress",
-        "link": "https://www.thehindu.com/news/international/nepal-sc-recognises-gagan-thapa-faction-as-official-nepali-congress/article70876608.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-18T06:15:04+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-says-us-will-start-dropping-bombs-again-if-no-iran-deal-is-reached?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-18T06:10:45+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "US court lets Trump resume work on US$400 million White House ballroom – for now",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3350557/us-court-lets-trump-resume-work-us400-million-white-house-ballroom-now?utm_source=rss_feed",
+        "title": "New York Met exhibit in Hong Kong ‘underscores importance of cultural exchanges’",
+        "link": "https://www.scmp.com/news/hong-kong/society/article/3350576/new-york-met-exhibit-hong-kong-underscores-importance-cultural-exchanges?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-04-18T04:47:34+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-04-19T01:00:16+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "Obama meets New York Mayor Zohran Mamdani before reading to preschoolers",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3350602/obama-meets-new-york-mayor-zohran-mamdani-reading-preschoolers?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-18T23:16:10+00:00",
+        "relevance_score": 16
       }
     ],
     "economy": [
       {
-        "title": "US equity funds extend inflows on Iran de-escalation hopes - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS1c2eXFfSXZtNlZxc3E1WUQyQ3pkUUY3bzJydFpMbm9XRmZNR3loNGNxTms4TDJ2ZmlHeE0zT0ZDMi1fSDk3YkpnczBvbmc0TGx4ZnkwQjNUeS16SzBvb0ZBRlZLVnpPdFZpMDc3dFNwWlJJeEp3NXV4S1d3Q21fZU1kUW9pTVY5WkFYVFdDSTl3RXNRR1V5bVRZTzA0Sjc2MlE?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-17T11:28:09+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "From hot tips to cold reality: China targets online stock scams hitting retail investors",
-        "link": "https://www.scmp.com/business/article/3350447/hot-tips-cold-reality-china-targets-online-stock-scams-hitting-retail-investors?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-17T09:45:08+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Senate Democrats move to stall Trump’s ‘absurd’ bid to install new Fed chair",
-        "link": "https://www.theguardian.com/business/2026/apr/16/senate-democrats-trump-new-federal-reserve-chair",
+        "title": "Traders placed over $1bn in perfectly timed bets on the Iran war. What is going on?",
+        "link": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-16T21:12:45+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "World Bank launches new strategy to help small states tackle challenges - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYy1iaHRWZ1FnZDhTTGlFd2pOV204OGNXejFZQzFNcTNHdXB2clR0cnRCak1LejZzRm9QR1B4UmNJc083OEVGQU1LVlhmVVNUeFB6YWhhTW9JZ2o4SXRVLTJkbnJPSGl6T3JwazJnV1NDQXViWGQwbGRCZm1VVjVaSVpmOEplQUszd01WUkd6ZTNIdks1ZGJoNTFpX21ubTBOdjdHcnJ4M01uY3FialpfZ3AtZFAyVHB4N2RmU3ZB?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-17T22:25:42+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Wall St Week Ahead Surging record-high US stocks to wade deeper into earnings season - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaWJmWUFPa2lnWnJCby1JSlA3dU1XVE9YeVpJMTJOSzlzXzI2ZnJqZkREdFlHMENwcldMZFRZaFRkSVlJMm1YdnY4a1ZHN21XRk9kZzFiQW5oYzRxMlJWTHlUNHcxVDR5Ml9UODlxdzNlSDlHVEE3eWR0eFNFOW1YcnI0NzVDZUhjSTdEOHNvWnpLTmJQNTZJZXgwc3RvOWJ4OE94V1N0NnlTV2xpZXFpTHpyUExlX195S19R?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-17T20:22:23+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-04-18T11:00:12+00:00",
+        "relevance_score": 17
       },
       {
         "title": "Hong Kong businesses wary of renewed China push for anti-sanctions law",
@@ -509,32 +482,60 @@
         "relevance_score": 17
       },
       {
-        "title": "Geopolitical stress not yet reflected in euro zone bank earnings, supervisor says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPakJqV1g1akg2MmE5SVB5SEpDTThxMlBXNDBLUkluemxTU2hwNEx5ZWVqUWZpa2x4Znh2X0Flc3ZVMDFOS0xUcEMzUzhwazFsM2p5VGhLWExTNXdlVEkyN1EzMWFaMmw1ck5qZTR1WUQ2TjE4MWhncFZDb2RnWUdxWWpUNVlmSFV4MkVMQ3JIZ0MwUlVfaVVKOVFtVll0ZVU1ZHp1UnFqaDBCMndEd3g5UzYyYXpPM19TYlUtazM2bXlhN2tjZXlHVm9n?oc=5",
+        "title": "Netherlands to activate first phase of energy crisis plan, ANP reports - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS0tRejBhM2c2M1lsbXhKRE5STDdnamhXRkMtc0pQalgxZTd1MDFPTk1KbDVseGl1T0RoOXNrQnZzUk1RLUV6ZUF1M0VTRnFob1VrNHV2ZVp3RzVNUk1ha080LXhac3B0cDRiaVU0NEZORGF2MFU1VHhPX3NzcFBkQmN5cHdSRlhRc1dCd190ZzhUak83aEFpZ0R1eTMzTTJnMy1JTkUtT19MM2gxaGlwVUR5d1lCZw?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-04-17T17:52:34+00:00",
-        "relevance_score": 16
+        "published_at_utc": "2026-04-18T15:45:43+00:00",
+        "relevance_score": 15
       },
       {
-        "title": "'I'm the lucky one' - more than one in three young men now live with their parents",
-        "link": "https://www.bbc.com/news/articles/ce3578g32d0o?at_medium=RSS&at_campaign=rss",
+        "title": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
+        "link": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC Business",
-        "published_at_utc": "2026-04-17T23:16:33+00:00",
+        "published_at_utc": "2026-04-18T06:06:38+00:00",
         "relevance_score": 15
       },
       {
-        "title": "Reopened Strait of Hormuz, oil price drop may recast Fed's rate-cut options - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYkgyRGcxLVlpUFRuOExKY3lyUjFKaUFUbnRWdWVWNGpzbkc0Y1RqcGVGVTkzLW5yZllTVDVqU1hzbHAxemtBalZIUVoxTzFBbmdxdFdYS0VDWm53U2ctMUdNSUcwUVBFNVNDd2hMNVhBemRBbGgxbHNBMmY2QnRObmtNYnFKSzRjeGxMRzl5MUo4NUlhLUhVRDdFWEtwZUxRTGVPYkdzWHFoS2s2QWdGTEpmZVgxR09ESDFLVXdxbFJ5V3FkbkZHdw?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-17T18:00:22+00:00",
+        "title": "From hot tips to cold reality: China targets online stock scams hitting retail investors",
+        "link": "https://www.scmp.com/business/article/3350447/hot-tips-cold-reality-china-targets-online-stock-scams-hitting-retail-investors?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-17T09:45:08+00:00",
         "relevance_score": 15
       },
       {
-        "title": "UK petrol and diesel prices fall after weeks of rises",
-        "link": "https://www.bbc.com/news/articles/cx2w17pq7v0o?at_medium=RSS&at_campaign=rss",
+        "title": "India and US step up efforts to finalize trade deal stuck in limbo",
+        "link": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/india-and-us-step-up-efforts-to-finalize-trade-deal-stuck-in-limbo",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
+        "relevance_score": 15
+      },
+      {
+        "title": "‘London Marathon place for sale’: fraudsters chase after runners’ cash",
+        "link": "https://www.theguardian.com/money/2026/apr/19/london-marathon-place-for-sale-fraudsters-chase-after-runners-cash",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-19T06:00:34+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "Japan's retail investors embrace shareholder activism",
+        "link": "https://asia.nikkei.com/spotlight/datawatch/japan-s-retail-investors-embrace-shareholder-activism",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
+        "relevance_score": 13
+      },
+      {
+        "title": "More Britons opt to holiday in UK this summer amid uncertainty over flights",
+        "link": "https://www.theguardian.com/business/2026/apr/19/britons-holiday-uk-summer-flights-iran-war",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-19T08:00:36+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "'With four jobs in London I couldn't afford rent so I'm going to Manchester'",
+        "link": "https://www.bbc.com/news/articles/c145v1340xlo?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC Business",
-        "published_at_utc": "2026-04-17T11:42:41+00:00",
-        "relevance_score": 15
+        "published_at_utc": "2026-04-19T07:01:29+00:00",
+        "relevance_score": 12
       }
     ]
   },
@@ -544,5 +545,5 @@
     "failed": 0,
     "total": 9
   },
-  "theme_of_day": "今日新聞的整體敘事主軸圍繞著地緣政治與經濟動態的交互影響，特別是美國與伊朗之間的緊張局勢對全球市場的影響。科技版面中，人工智慧的發展與政府關注交織，顯示出科技創新在當前政治環境中的重要性。此外，伊朗的霍爾木茲海峽開放消息直接驅動了油價的波動，進一步影響美國聯邦儲備的貨幣政策考量，突顯出經濟與政治之間的緊密聯繫。"
+  "theme_of_day": "今日新聞的整體脈絡顯示出科技、政治與經濟三個領域之間的相互影響。科技版面中，Anthropic與特朗普政府的關係回暖，可能對未來的政策與資金流向產生影響，進而影響經濟與供應鏈的穩定性。同時，政治版面報導中國加強對非洲的援助，則反映出在全球資源分配上，尤其是在特朗普政府削減資金的背景下，國際關係的變化對經濟發展的深遠影響。經濟方面，中央銀行的模擬演習顯示出對金融穩定的擔憂，這也與科技創新及供應鏈的強弱息息相關，形成了一個複雜的全球互動網絡。"
 }
