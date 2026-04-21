@@ -659,40 +659,61 @@
           "corporate_earnings"
         ]
       }
+    },
+    {
+      "date": "2026-04-21",
+      "topics": {
+        "technology": [
+          "ai",
+          "social_media",
+          "cybersecurity"
+        ],
+        "politics": [
+          "uk_politics",
+          "democracy_autocracy",
+          "us_politics"
+        ],
+        "economy": [
+          "markets",
+          "energy_markets",
+          "trade_wars"
+        ]
+      }
     }
   ],
   "rolling_frequency": {
     "technology": {
       "chips": 26,
-      "cybersecurity": 26,
-      "ai": 31,
+      "cybersecurity": 27,
+      "ai": 32,
       "space_tech": 6,
       "platform_regulation": 2,
       "general": 5,
-      "social_media": 2,
+      "social_media": 3,
       "quantum_computing": 1
     },
     "politics": {
       "war_and_conflict": 29,
       "us_china_relations": 15,
-      "uk_politics": 17,
+      "uk_politics": 18,
       "eu_policy": 8,
-      "us_politics": 15,
+      "us_politics": 16,
       "diplomacy": 9,
-      "social_protests": 6
+      "social_protests": 6,
+      "democracy_autocracy": 1
     },
     "economy": {
       "interest_rates": 22,
       "inflation": 24,
-      "trade_wars": 18,
+      "trade_wars": 19,
       "supply_chain": 3,
-      "energy_markets": 11,
+      "energy_markets": 12,
       "general": 3,
-      "markets": 14,
+      "markets": 15,
       "sanctions": 1,
       "corporate_earnings": 3
     }
   },
   "window_days": 30,
-  "last_updated": "2026-04-20"
+  "last_updated": "2026-04-21"
 }
