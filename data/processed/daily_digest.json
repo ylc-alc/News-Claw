@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-04-21T09:17:20.044164+00:00",
+  "generated_at_utc": "2026-04-22T09:11:28.192990+00:00",
   "summary": {
-    "total_raw_items": 1105,
-    "total_deduped_items": 1088,
+    "total_raw_items": 1126,
+    "total_deduped_items": 1101,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
         "ai",
-        "social_media",
-        "cybersecurity"
+        "cybersecurity",
+        "social_media"
       ],
       "politics": [
-        "uk_politics",
-        "democracy_autocracy",
-        "us_politics"
+        "diplomacy",
+        "us_politics",
+        "war_and_conflict"
       ],
       "economy": [
-        "markets",
-        "energy_markets",
+        "inflation",
+        "interest_rates",
         "trade_wars"
       ]
     },
@@ -29,61 +29,29 @@
       {
         "category": "technology",
         "source_name": "Reuters",
-        "title": "Amazon to invest up to $25 billion in Anthropic as part of $100 billion cloud deal - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRmRoNkpPdFlOX25hNWQwSDJ3RmItSGt4Y1ZpelF1RVJXczFXbUY2cE5PdGFvTndvYTB2MzVWOXZaV016anhHSEk4TE1Gdm1vR0VLbWd0WEFLUHpJTWtmX1g4OHNLd05Yb1ZGX3dib2RKM2ItdDk4bndIM0M5ZHlQdXNmZi1Oend3OTA0TGJYNXNBNXpsdWpxNVhjZWhNQ0hHQ3QtOFpNNA?oc=5",
-        "summary": "Amazon to invest up to $25 billion in Anthropic as part of $100 billion cloud deal Reuters",
-        "published": "Mon, 20 Apr 2026 23:00:27 GMT",
-        "updated": "Mon, 20 Apr 2026 23:00:27 GMT",
-        "published_at_utc": "2026-04-20T23:00:27+00:00",
-        "id": "CBMipwFBVV95cUxPRmRoNkpPdFlOX25hNWQwSDJ3RmItSGt4Y1ZpelF1RVJXczFXbUY2cE5PdGFvTndvYTB2MzVWOXZaV016anhHSEk4TE1Gdm1vR0VLbWd0WEFLUHpJTWtmX1g4OHNLd05Yb1ZGX3dib2RKM2ItdDk4bndIM0M5ZHlQdXNmZi1Oend3OTA0TGJYNXNBNXpsdWpxNVhjZWhNQ0hHQ3QtOFpNNA",
+        "title": "Anthropic's Mythos model accessed by unauthorized users, Bloomberg News reports - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3ZKZ0F0V2lPYndVRXUtUDVoNW00LWdWV2trMUEweDY1c0hwNEVTLUhqVU9wcWcwdFd6VkNmdUNPbXZ1S2JaS2ZxUGxvZ0ZlYW52bnRaUUhsSl9mOVlsal90Qnd0NzN5VHJoQ2NiMXZnR3NFcHBUcGpFNUVXaGlQN2o4RHJJU01hQnhGVE1rNkhkajNYR2N1d3lZWUJSMmlWSzNkdzQ3SUpSYzlEejNWRUFKMk5BY2V0bU54RC1LTG9VUQ?oc=5",
+        "summary": "Anthropic's Mythos model accessed by unauthorized users, Bloomberg News reports Reuters",
+        "published": "Tue, 21 Apr 2026 23:19:20 GMT",
+        "updated": "Tue, 21 Apr 2026 23:19:20 GMT",
+        "published_at_utc": "2026-04-21T23:19:20+00:00",
+        "id": "CBMiwgFBVV95cUxQc3ZKZ0F0V2lPYndVRXUtUDVoNW00LWdWV2trMUEweDY1c0hwNEVTLUhqVU9wcWcwdFd6VkNmdUNPbXZ1S2JaS2ZxUGxvZ0ZlYW52bnRaUUhsSl9mOVlsal90Qnd0NzN5VHJoQ2NiMXZnR3NFcHBUcGpFNUVXaGlQN2o4RHJJU01hQnhGVE1rNkhkajNYR2N1d3lZWUJSMmlWSzNkdzQ3SUpSYzlEejNWRUFKMk5BY2V0bU54RC1LTG9VUQ",
         "topic_type": "ai",
         "relevance_score": 17,
         "briefing": {
-          "news_focus": "Amazon to invest up to $25 billion in Anthropic as part of $100 billion cloud deal Reuters",
-          "news_focus_zh": "亞馬遜將在其與Anthropic的雲端交易中投資高達250億美元，這是其1000億美元雲端計畫的一部分，顯示出亞馬遜在人工智慧領域的擴張意圖。",
-          "background": "隨著雲端計算需求的增加，科技巨頭們紛紛加碼人工智慧技術的發展。Anthropic是一家專注於安全和可控的AI技術的公司，亞馬遜的投資不僅有助於其雲端服務的競爭力，還能加強其在AI領域的技術基礎。此舉反映出市場對AI應用的重視，並可能改變雲端服務的競爭格局。",
+          "news_focus": "Anthropic's Mythos model accessed by unauthorized users, Bloomberg News reports Reuters",
+          "news_focus_zh": "據報導，Anthropic的Mythos模型遭到未經授權的用戶訪問，這一事件引發了對數據安全與人工智慧模型保護的關注。",
+          "background": "Anthropic是一家專注於人工智慧研究的公司，其Mythos模型是其開發的先進AI系統之一。隨著AI技術的快速發展，數據安全與隱私保護成為業界的重要議題。過去幾年，許多科技公司面臨類似的安全漏洞，這促使業界加強對模型和數據的保護措施。",
           "stakeholders": [
-            "亞馬遜",
             "Anthropic",
-            "微軟",
-            "谷歌",
-            "監管機構"
+            "未經授權用戶",
+            "客戶",
+            "監管機構",
+            "競爭對手"
           ],
-          "analysis": "亞馬遜的投資將使其在AI技術上獲得更大的優勢，可能對其競爭對手如微軟和谷歌造成壓力。Anthropic則能藉此獲得資金支持其技術研發，進一步提升市場地位。然而，這也引發了對於AI安全性和倫理的討論，特別是在大型科技公司對AI技術的控制權問題上，可能會引發監管機構的關注。"
+          "analysis": "此次事件可能對Anthropic的商業信譽造成損害，並引發客戶對其數據安全性的質疑。未經授權的訪問可能導致敏感數據洩露，進一步影響公司的業務合作與市場競爭力。此外，這一事件也可能促使監管機構加強對AI技術的監管，要求企業提高安全標準，從而影響整個行業的運作模式。"
         },
         "topic_priority_score": 9,
-        "event_type": "partnership_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "Reuters",
-        "title": "Merz touts Brazil's potential on critical metals, says Germany can supply technology - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOFIzU2RwYWNtWmlOeG5LbHdCcEVmR3MwNTF3QTctMjBKa2dpQWpOWnFjSGZUblRQNUpTeTcwckxIdGZlWi12VFpNMi1SU0ZfMkk1NjAwUXYzWkJhMkVuUFV4emlQclFqV0xHZXViUTVsbEk0TXJKaXRyV0FpR2FvX2U3OWZ3UGp5d2huNmRUcUN3WmJzbFhCT0JlZTNyNTRfZnl5em5iMlpwWmh6N0xCeE1ncEIzdVhkQTU4T00wMjNZbVp3NExyYmFCeVhmdmVJQ1ltTXh3ZFg3QQ?oc=5",
-        "summary": "Merz touts Brazil's potential on critical metals, says Germany can supply technology Reuters",
-        "published": "Mon, 20 Apr 2026 13:19:43 GMT",
-        "updated": "Mon, 20 Apr 2026 13:19:43 GMT",
-        "published_at_utc": "2026-04-20T13:19:43+00:00",
-        "id": "CBMi2gFBVV95cUxOOFIzU2RwYWNtWmlOeG5LbHdCcEVmR3MwNTF3QTctMjBKa2dpQWpOWnFjSGZUblRQNUpTeTcwckxIdGZlWi12VFpNMi1SU0ZfMkk1NjAwUXYzWkJhMkVuUFV4emlQclFqV0xHZXViUTVsbEk0TXJKaXRyV0FpR2FvX2U3OWZ3UGp5d2huNmRUcUN3WmJzbFhCT0JlZTNyNTRfZnl5em5iMlpwWmh6N0xCeE1ncEIzdVhkQTU4T00wMjNZbVp3NExyYmFCeVhmdmVJQ1ltTXh3ZFg3QQ",
-        "topic_type": "social_media",
-        "relevance_score": 14,
-        "briefing": {
-          "news_focus": "Merz touts Brazil's potential on critical metals, says Germany can supply technology Reuters",
-          "news_focus_zh": "德國政治人物梅茲強調巴西在關鍵金屬領域的潛力，並表示德國能夠提供相關技術，顯示出兩國在資源與技術合作上的可能性。",
-          "background": "隨著全球對於電動車、可再生能源等綠色科技的需求增加，關鍵金屬如鋰、鈷等的供應變得愈加重要。巴西擁有豐富的礦產資源，成為全球關鍵金屬供應鏈中的重要一環。德國則在環保技術及製造業方面具有優勢，雙方的合作可望提升資源利用效率及技術創新。",
-          "stakeholders": [
-            "德國政府",
-            "巴西政府",
-            "德國企業",
-            "巴西礦業公司",
-            "環保組織"
-          ],
-          "analysis": "梅茲的言論反映出德國對於巴西資源的重視，尤其是在全球對於可持續發展的需求上升之際。巴西政府可能會因為外資的進入而獲益，但也需考量環境保護與社會影響。德國企業則可透過技術輸出增強其在全球市場的競爭力，然而，這樣的合作也可能引發其他國家對於資源控制的擔憂，特別是在中美競爭加劇的背景下。"
-        },
-        "topic_priority_score": 6,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -93,29 +61,61 @@
       {
         "category": "technology",
         "source_name": "TechCrunch",
-        "title": "App host Vercel says it was hacked and customer data stolen",
-        "link": "https://techcrunch.com/2026/04/20/app-host-vercel-confirms-security-incident-says-customer-data-was-stolen-via-breach-at-context-ai/",
-        "summary": "Vercel blamed its breach on an earlier hack at Context AI, which allowed hackers to hijack a Vercel employee's account to steal customer data.",
-        "published": "Mon, 20 Apr 2026 14:45:56 +0000",
-        "updated": "Mon, 20 Apr 2026 14:45:56 +0000",
-        "published_at_utc": "2026-04-20T14:45:56+00:00",
-        "id": "https://techcrunch.com/?p=3114091",
+        "title": "Ransomware negotiator pleads guilty to helping ransomware gang",
+        "link": "https://techcrunch.com/2026/04/21/ransomware-negotiator-pleads-guilty-to-helping-ransomware-gang/",
+        "summary": "A former employee of a cybersecurity firm pleaded guilty to aiding ransomware criminals to maximize their profits, with the goal of taking a cut of the ransom.",
+        "published": "Tue, 21 Apr 2026 15:56:53 +0000",
+        "updated": "Tue, 21 Apr 2026 15:56:53 +0000",
+        "published_at_utc": "2026-04-21T15:56:53+00:00",
+        "id": "https://techcrunch.com/?p=3114643",
         "topic_type": "cybersecurity",
-        "relevance_score": 13,
+        "relevance_score": 17,
         "briefing": {
-          "news_focus": "Vercel blamed its breach on an earlier hack at Context AI, which allowed hackers to hijack a Vercel employee's account to steal customer data.",
-          "news_focus_zh": "Vercel 宣布其系統遭到駭客攻擊，客戶數據被竊取，並將此次事件歸咎於 Context AI 先前的駭客事件，駭客利用該事件獲取了 Vercel 員工的帳戶。",
-          "background": "Vercel 是一家專注於前端開發的雲端平台，提供應用程式托管服務。隨著數位轉型的加速，數據安全成為企業的重要議題。Context AI 的駭客事件顯示出跨平台安全漏洞的風險，駭客可透過社交工程手段獲取企業內部帳戶，進而影響其他服務提供商。",
+          "news_focus": "A former employee of a cybersecurity firm pleaded guilty to aiding ransomware criminals to maximize their profits, with the goal of taking a cut of the ransom.",
+          "news_focus_zh": "一名前網路安全公司員工承認協助勒索軟體犯罪集團，以提高其獲利，並從中獲取分成，揭示了網路安全領域內部的道德與法律挑戰。",
+          "background": "隨著勒索軟體攻擊的增加，許多企業和組織面臨著巨大的安全威脅。網路安全公司通常負責防範這類攻擊，但內部人員的背叛可能導致更大的風險。這起事件反映了網路安全行業中存在的道德灰區，以及對於如何有效打擊勒索軟體集團的政策挑戰。",
           "stakeholders": [
-            "Vercel",
-            "Context AI",
-            "客戶",
-            "駭客",
-            "數據安全專家"
+            "網路安全公司",
+            "勒索軟體犯罪集團",
+            "執法機構",
+            "企業客戶",
+            "政策制定者"
           ],
-          "analysis": "此次事件對 Vercel 的客戶信任度造成直接影響，可能導致客戶流失及品牌形象受損。對於 Context AI 來說，這也凸顯了其安全措施的不足，可能影響其未來的商業合作與市場競爭力。此外，駭客行為的連鎖反應可能引發業界對於數據安全政策的重新評估，促使企業加強內部安全防護。"
+          "analysis": "此事件突顯了網路安全行業內部的信任問題，對於企業而言，這可能導致客戶信心下降，進而影響業務。對於執法機構來說，這是一個警示，顯示出需要加強對內部人員的監管與審查。此外，勒索軟體集團的盈利模式可能因為內部協助而變得更加複雜，未來可能會促使更多企業採取更嚴格的安全措施。"
         },
         "topic_priority_score": 9,
+        "event_type": "commercial_update",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "The Verge",
+        "title": "AI backlash is coming for elections",
+        "link": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
+        "summary": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning violence. But look at the issues that most campaigns are focused […]",
+        "published": "2026-04-21T15:00:05-04:00",
+        "updated": "2026-04-21T15:00:05-04:00",
+        "published_at_utc": "2026-04-21T19:00:05+00:00",
+        "id": "https://www.theverge.com/?p=916210",
+        "topic_type": "social_media",
+        "relevance_score": 16,
+        "briefing": {
+          "news_focus": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies and executives is unrestrained - sometimes to the point of condoning violence. But look at the issues that most campaigns are focused […]",
+          "news_focus_zh": "美國民眾對人工智慧（AI）持有顯著的擔憂，社區對數據中心項目的抵制導致多個項目停滯，社交媒體上對AI公司的憤怒情緒高漲，甚至出現支持暴力的言論。",
+          "background": "隨著人工智慧技術的迅速發展，許多美國社區對其潛在影響感到不安，尤其是在隱私、就業及社會公平等議題上。數據中心的建設被視為AI發展的基礎，但由於環境與社會影響，許多地方社區對這些項目表達反對，導致進展緩慢。這一現象反映了科技與社會之間的緊張關係，特別是在選舉期間，候選人需面對選民對AI的疑慮。",
+          "stakeholders": [
+            "美國選民",
+            "AI公司",
+            "地方社區",
+            "政策制定者",
+            "社交媒體平台"
+          ],
+          "analysis": "目前，對AI的反彈主要來自社區與選民的擔憂，這可能影響到即將到來的選舉結果。候選人若忽視這些聲音，可能會面臨選民的強烈反對。AI公司與社會公眾之間的信任缺失，可能導致政策制定者加強監管，影響AI技術的發展與應用。另一方面，AI企業若能有效回應公眾的擔憂，或許能改善其形象並促進合作。"
+        },
+        "topic_priority_score": 6,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -126,95 +126,95 @@
     "politics": [
       {
         "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "Teenager charged with arson after attack on synagogue in London",
-        "link": "https://www.theguardian.com/uk-news/2026/apr/21/teenager-charged-arson-kenton-united-synagogue-harrow-london",
-        "summary": "Boy, 17, charged after footage showed bottle of liquid set alight and thrown through window of Kenton united synagogue in Harrow A 17-year-old boy has been charged with arson after an attack on a synagogue in north-west London. The teenager, a British national from Brent, north-west London, who has not been named because of his age, is due to appear at Westminster magistrates court on Tuesday. Continue reading...",
-        "published": "Tue, 21 Apr 2026 08:55:20 GMT",
-        "updated": "2026-04-21T08:55:20Z",
-        "published_at_utc": "2026-04-21T08:55:20+00:00",
-        "id": "https://www.theguardian.com/uk-news/2026/apr/21/teenager-charged-arson-kenton-united-synagogue-harrow-london",
-        "topic_type": "uk_politics",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "Boy, 17, charged after footage showed bottle of liquid set alight and thrown through window of Kenton united synagogue in Harrow A 17-year-old boy has been charged with arson after an attack on a synagogue in north-west London. The teenager, a British national from Brent, north-west London, who has not been named because of his age, is due to appear at Westminster magistrates court on Tuesday. Continue reading...",
-          "news_focus_zh": "一名17歲男孩因在倫敦哈羅的肯頓聯合猶太教堂進行縱火攻擊而被控以縱火罪。該事件的視頻顯示他將一瓶易燃液體點燃並投擲進入教堂窗戶。此男孩將於週二在西敏市法院出庭。",
-          "background": "近年來，英國社會面臨著日益增長的反猶太主義問題，尤其是在倫敦等多元文化城市。這起事件發生在一個敏感的社會背景下，社會對於宗教場所的安全性與社區和諧的關注日益增加。英國政府和地方當局已經開始加強對宗教場所的保護措施，以應對針對少數族裔的暴力行為。",
-          "stakeholders": [
-            "猶太社區",
-            "當地居民",
-            "英國政府",
-            "青少年輔導機構",
-            "警方"
-          ],
-          "analysis": "這起事件引發了對青少年犯罪及其背後社會因素的討論。社區成員可能會對當地的安全感到擔憂，並要求加強對青少年的教育與輔導。此外，猶太社區可能會要求政府加強對反猶太主義的打擊措施，以防止類似事件再次發生。警方和司法機構的反應將影響社會對於法律執行的信任度與社區的凝聚力。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "security_event",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "Israeli soldiers using sexual assault to force Palestinians out of West Bank, report says",
-        "link": "https://www.theguardian.com/world/2026/apr/21/israeli-soldiers-using-sexual-assault-to-force-palestinians-out-of-west-bank-report-says",
-        "summary": "Experts say attacks, also carried out by settlers, are leading girls to quit school and enter early marriages Israeli soldiers and settlers are using gendered violence and sexual assault and harassment to force Palestinians from their homes in the occupied West Bank, human rights and legal experts say. Palestinian women, men and children have reported attacks, forced nudity, invasive and painful body cavity searches, Israelis exposing their genitals, including to minors, and threats of sexual violence. Continue reading...",
-        "published": "Tue, 21 Apr 2026 05:00:15 GMT",
-        "updated": "2026-04-21T05:00:15Z",
-        "published_at_utc": "2026-04-21T05:00:15+00:00",
-        "id": "https://www.theguardian.com/world/2026/apr/21/israeli-soldiers-using-sexual-assault-to-force-palestinians-out-of-west-bank-report-says",
-        "topic_type": "democracy_autocracy",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "Experts say attacks, also carried out by settlers, are leading girls to quit school and enter early marriages Israeli soldiers and settlers are using gendered violence and sexual assault and harassment to force Palestinians from their homes in the occupied West Bank, human rights and legal experts say. Palestinian women, men and children have reported attacks, forced nudity, invasive and painful body cavity searches, Israelis exposing their genitals, including to minors, and threats of sexual violence. Continue reading...",
-          "news_focus_zh": "報導指出，以色列士兵及定居者在西岸地區使用性暴力和性騷擾，迫使巴勒斯坦人離開家園，這導致當地女孩輟學及早婚的情況加劇。",
-          "background": "西岸地區的巴勒斯坦人長期面臨以色列的軍事佔領與定居者的擴張。性別暴力作為一種控制手段，反映出更廣泛的權力不平等與人權侵犯。隨著國際社會對人權問題的關注加深，這類事件可能引發更大規模的抗議與國際譴責。",
-          "stakeholders": [
-            "以色列政府",
-            "巴勒斯坦權力機構",
-            "人權組織",
-            "國際社會",
-            "當地社區"
-          ],
-          "analysis": "以色列政府與軍方可能會否認這些指控，並強調安全考量，然而人權組織的報告將對其國際形象造成壓力。巴勒斯坦社會面臨的性別暴力問題，不僅影響女性的生活質量，也可能引發更大範圍的社會動盪。國際社會的反應將成為未來局勢發展的關鍵因素。"
-        },
-        "topic_priority_score": 6,
-        "event_type": "security_event",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
         "source_name": "SCMP World",
-        "title": "US firms dash to recover tariffs paid on Chinese imports as refund system launches",
-        "link": "https://www.scmp.com/news/us/diplomacy/article/3350794/us-firms-dash-recover-tariffs-paid-chinese-imports-refund-system-launches?utm_source=rss_feed",
-        "summary": "For Tim Avanzato and the team at Lanca Sales, Monday marked the start of a high-stakes digital scramble to recover tariffs paid after US President Donald Trump imposed steep duties on almost all imports, including from China, last year. While the New Jersey-based company that imports and exports food packaging has become accustomed to operating under tariffs and adjusting its business around them, Avanzato, who handles global trade and logistics at the firm, said the refund process has...",
-        "published": "Mon, 20 Apr 2026 22:11:14 +0000",
-        "updated": "Mon, 20 Apr 2026 22:11:14 +0000",
-        "published_at_utc": "2026-04-20T22:11:14+00:00",
-        "id": "https://www.scmp.com/news/us/diplomacy/article/3350794/us-firms-dash-recover-tariffs-paid-chinese-imports-refund-system-launches?utm_source=rss_feed",
+        "title": "Singapore’s Balakrishnan warns Hormuz just a ‘dry run’ if US, China clash",
+        "link": "https://www.scmp.com/week-asia/politics/article/3350983/singapores-balakrishnan-warns-hormuz-just-dry-run-if-us-china-clash?utm_source=rss_feed",
+        "summary": "The geopolitical fallout from the Strait of Hormuz chokehold in the Middle East is just a “dry run”, with the Pacific being where the real action will occur if superpowers were to clash, Singapore’s top diplomat has warned. Foreign Minister Vivian Balakrishnan also revealed on Wednesday that Singapore, Malaysia and Indonesia shared an interest in keeping the Strait of Malacca open, even under the spectre of tolls being imposed on the strategic Southeast Asian waterway. His stance however...",
+        "published": "Wed, 22 Apr 2026 06:45:45 +0000",
+        "updated": "Wed, 22 Apr 2026 06:45:45 +0000",
+        "published_at_utc": "2026-04-22T06:45:45+00:00",
+        "id": "https://www.scmp.com/week-asia/politics/article/3350983/singapores-balakrishnan-warns-hormuz-just-dry-run-if-us-china-clash?utm_source=rss_feed",
+        "topic_type": "diplomacy",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "The geopolitical fallout from the Strait of Hormuz chokehold in the Middle East is just a “dry run”, with the Pacific being where the real action will occur if superpowers were to clash, Singapore’s top diplomat has warned. Foreign Minister Vivian Balakrishnan also revealed on Wednesday that Singapore, Malaysia and Indonesia shared an interest in keeping the Strait of Malacca open, even under the spectre of tolls being imposed on the strategic Southeast Asian waterway. His stance however...",
+          "news_focus_zh": "新加坡外交部長巴拉克里希南警告，霍爾木茲海峽的地緣政治影響僅是「演習」，真正的衝突將發生在太平洋。他指出新加坡、馬來西亞和印尼共同關注馬六甲海峽的開放，即使面臨收費的可能性。",
+          "background": "霍爾木茲海峽是全球重要的石油運輸通道，任何衝突都可能影響全球能源供應。隨著美中競爭加劇，巴拉克里希南的言論反映出東南亞國家對於地緣政治變遷的關注。馬六甲海峽同樣是關鍵航道，對於區域貿易至關重要，尤其是在面對潛在的收費問題時，這一議題更加突出。",
+          "stakeholders": [
+            "新加坡政府",
+            "馬來西亞政府",
+            "印尼政府",
+            "美國政府",
+            "中國政府"
+          ],
+          "analysis": "巴拉克里希南的警告反映出新加坡對於美中衝突可能帶來的影響的深刻擔憂。新加坡、馬來西亞和印尼的合作意向顯示出東南亞國家在維護區域穩定方面的共同利益。然而，若美中在太平洋發生衝突，這可能會使東南亞國家面臨更大的安全挑戰，並迫使它們在兩大強權之間尋求平衡。"
+        },
+        "topic_priority_score": 7,
+        "event_type": "security_event",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "politics",
+        "source_name": "The Guardian World",
+        "title": "Tucker and Trump’s marriage of convenience heads for divorce court",
+        "link": "https://www.theguardian.com/us-news/2026/apr/22/tucker-trump-carlson-torment",
+        "summary": "Conservative host says he’s ‘tormented’ by previous support for Trump – could this presage his own run for president? He can’t live with him and can’t live without him. But, finally, the conservative podcaster Tucker Carlson seems to have made up his mind about Donald Trump . Their up-and-down marriage of political convenience is heading for the divorce court. On Tuesday Carlson admitted that he will be “tormented” for a long time by his support for Trump in the 2024 US presidential election “and I want to say I’m sorry for misleading people”. What he did not say is whether this presages his own run for president in 2028. Continue reading...",
+        "published": "Wed, 22 Apr 2026 09:00:52 GMT",
+        "updated": "2026-04-22T09:00:52Z",
+        "published_at_utc": "2026-04-22T09:00:52+00:00",
+        "id": "https://www.theguardian.com/us-news/2026/apr/22/tucker-trump-carlson-torment",
         "topic_type": "us_politics",
         "relevance_score": 20,
         "briefing": {
-          "news_focus": "For Tim Avanzato and the team at Lanca Sales, Monday marked the start of a high-stakes digital scramble to recover tariffs paid after US President Donald Trump imposed steep duties on almost all imports, including from China, last year. While the New Jersey-based company that imports and exports food packaging has become accustomed to operating under tariffs and adjusting its business around them, Avanzato, who handles global trade and logistics at the firm, said the refund process has...",
-          "news_focus_zh": "美國企業開始積極申請退還因中國進口商品所支付的關稅，這一退款系統的啟動標誌著企業在特朗普政府施加高額關稅後的應對措施。",
-          "background": "特朗普政府於去年對幾乎所有中國進口商品徵收高額關稅，這一政策旨在減少貿易赤字並保護美國本土產業。隨著關稅的實施，許多美國企業不得不調整其供應鏈和商業模式，以應對增加的成本。最近推出的退款系統，旨在幫助企業回收已支付的關稅，這對於依賴中國供應鏈的公司尤為重要。",
+          "news_focus": "Conservative host says he’s ‘tormented’ by previous support for Trump – could this presage his own run for president? He can’t live with him and can’t live without him. But, finally, the conservative podcaster Tucker Carlson seems to have made up his mind about Donald Trump . Their up-and-down marriage of political convenience is heading for the divorce court. On Tuesday Carlson admitted that he will be “tormented” for a long time by his support for Trump in the 2024 US presidential election “and I want to say I’m sorry for misleading people”. What he did not say is whether this presages his own run for president in 2028. Continue reading...",
+          "news_focus_zh": "保守派主持人塔克·卡爾森（Tucker Carlson）公開表達對於支持特朗普的懊悔，暗示他與特朗普的政治聯盟可能即將破裂，並引發對他是否會在2028年參選的猜測。",
+          "background": "塔克·卡爾森是美國保守派媒體的重要人物，曾在特朗普的政治生涯中扮演支持者角色。隨著2024年總統選舉的臨近，特朗普的支持度與爭議不斷上升，卡爾森的立場也隨之變化。此時，卡爾森的言論反映出保守派內部對特朗普的分歧，並可能影響未來的選舉策略。",
           "stakeholders": [
-            "美國企業",
-            "中國出口商",
-            "特朗普政府",
-            "貿易政策制定者",
-            "消費者"
+            "塔克·卡爾森",
+            "唐納德·特朗普",
+            "保守派選民",
+            "共和黨",
+            "媒體"
           ],
-          "analysis": "此新聞顯示出美國企業在面對高關稅環境下的生存策略，尤其是小型企業如Lanca Sales，急需透過退款系統減輕財務壓力。對於特朗普政府而言，這一退款措施可能被視為一種政治策略，旨在緩解企業的不滿情緒。然而，部分企業可能仍對未來的貿易政策感到不安，尤其是如果新政府改變現行政策，將影響其長期規劃和市場策略。"
+          "analysis": "卡爾森的懊悔表達了保守派內部對特朗普的矛盾情感，這可能導致保守派選民的分裂。一方面，卡爾森可能希望保持與特朗普的聯繫以維持其影響力；另一方面，他的言論也可能是為了塑造自己作為未來候選人的形象。若卡爾森決定參選，將進一步改變保守派的競爭格局，並可能引發特朗普的反擊。"
         },
         "topic_priority_score": 8,
-        "event_type": "political_signal",
+        "event_type": "election_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "politics",
+        "source_name": "The Hindu International",
+        "title": "Hezbollah says attacked north Israel in response to Israeli truce violations",
+        "link": "https://www.thehindu.com/news/international/lebanon-israel-trade-fire-hezbollah-israeli-truce-violations/article70891196.ece",
+        "summary": "It said the move came “in defence of Lebanon and its people and in response to the blatant” Israeli ceasefire violations, including “attacks on civilians and the destruction of their homes and villages”",
+        "published": "Wed, 22 Apr 2026 09:18:14 +0530",
+        "updated": "Wed, 22 Apr 2026 09:18:14 +0530",
+        "published_at_utc": "2026-04-22T03:48:14+00:00",
+        "id": "article-70891196",
+        "topic_type": "war_and_conflict",
+        "relevance_score": 20,
+        "briefing": {
+          "news_focus": "It said the move came “in defence of Lebanon and its people and in response to the blatant” Israeli ceasefire violations, including “attacks on civilians and the destruction of their homes and villages”",
+          "news_focus_zh": "黎巴嫩真主黨表示，因應以色列對停火的違反，對北以色列發動攻擊，強調此舉是為了保護黎巴嫩及其人民，並指責以色列對平民的攻擊及對村莊的破壞。",
+          "background": "以色列與黎巴嫩真主黨之間的緊張關係由來已久，特別是在加沙衝突加劇的背景下。近期的停火協議本應減少雙方的敵對行為，但以色列的軍事行動被真主黨視為違反協議，進一步激化了衝突。此事件凸顯了中東地區複雜的地緣政治，尤其是以色列與周邊阿拉伯國家的關係。",
+          "stakeholders": [
+            "黎巴嫩真主黨",
+            "以色列政府",
+            "黎巴嫩政府",
+            "國際社會",
+            "阿拉伯聯盟"
+          ],
+          "analysis": "真主黨的攻擊行為顯示其對以色列行動的不滿，並可能引發更大範圍的衝突。以色列方面可能會加強軍事回應，進一步惡化局勢。對於黎巴嫩內部，真主黨的行動可能增強其在國內的支持，但也可能引發國際社會的譴責。各方利益關係錯綜複雜，未來局勢發展將取決於雙方的軍事策略及國際社會的介入程度。"
+        },
+        "topic_priority_score": 11,
+        "event_type": "security_event",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -224,63 +224,31 @@
     "economy": [
       {
         "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "Outlook for China stocks brightens on capital flows, rebounding home prices",
-        "link": "https://www.scmp.com/business/china-business/article/3350830/outlook-china-stocks-brightens-capital-flows-rebounding-home-prices?utm_source=rss_feed",
-        "summary": "Chinese stocks are likely to continue the resilience they have shown since the war in the Middle East began, thanks to haven demand for yuan-linked assets, the green shoots of the property market and the inclusion of tech start-ups in key equity gauges, according to fund managers and investment banks. Optimism about Chinese equities was building after official data showed that home prices in the biggest mainland cities reversed declines and an inflationary trend took hold in March, said money...",
-        "published": "Tue, 21 Apr 2026 05:15:28 +0000",
-        "updated": "Tue, 21 Apr 2026 05:15:28 +0000",
-        "published_at_utc": "2026-04-21T05:15:28+00:00",
-        "id": "https://www.scmp.com/business/china-business/article/3350830/outlook-china-stocks-brightens-capital-flows-rebounding-home-prices?utm_source=rss_feed",
-        "topic_type": "markets",
-        "relevance_score": 25,
-        "briefing": {
-          "news_focus": "Chinese stocks are likely to continue the resilience they have shown since the war in the Middle East began, thanks to haven demand for yuan-linked assets, the green shoots of the property market and the inclusion of tech start-ups in key equity gauges, according to fund managers and investment banks. Optimism about Chinese equities was building after official data showed that home prices in the biggest mainland cities reversed declines and an inflationary trend took hold in March, said money...",
-          "news_focus_zh": "中國股市因資本流入及房價回升而展現出樂觀前景，尤其是與人民幣相關的資產受到避險需求的推動，並且科技初創企業被納入主要股指，進一步提升市場信心。",
-          "background": "自中東戰爭爆發以來，中國股市顯示出一定的韌性，這與全球資本流動及對人民幣資產的避險需求有關。中國的房地產市場在主要城市出現回暖跡象，這是經過一段時間的價格下跌後的首次反彈。此外，科技初創企業的納入也顯示出市場對創新產業的重視，這可能吸引更多投資者的注意。",
-          "stakeholders": [
-            "中國政府",
-            "投資銀行",
-            "資產管理公司",
-            "科技初創企業",
-            "國際投資者"
-          ],
-          "analysis": "資本流入的增加對中國股市的影響顯著，尤其是對於投資者而言，房價回升可能會提升消費者信心，進而促進經濟增長。然而，市場仍面臨不確定性，包括全球經濟環境及政策調整的風險。投資者對於科技股的興趣上升，可能使得這些企業在資本市場中獲得更多支持，但也可能加劇市場的波動性。各方對於中國經濟復甦的看法不一，部分保守派仍持謹慎態度。"
-        },
-        "topic_priority_score": 4,
-        "event_type": "inflation_data",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "economy",
         "source_name": "The Guardian Business",
-        "title": "Electricity generators threatened with higher windfall taxes in bid to ensure stable prices",
-        "link": "https://www.theguardian.com/environment/2026/apr/21/uk-shifts-older-wind-and-solar-farms-to-fixed-price-deals-to-reduce-price-shocks",
-        "summary": "Move marks government’s most radical attempt to weaken impact of soaring wholesale gas prices on electricity costs Clean energy generation exceeded rise in global electricity demand in 2025 Electricity generators will face higher windfall taxes unless they sign up to long-term fixed-price contracts under government plans to protect bill payers from future gas market price shocks, as the Iran war pushes up energy prices. The Treasury will increase a windfall tax on excess profits made by electricity generators in Great Britain from 45% to 55% when gas prices spike. The funds raised will help the government to support households during an energy crisis. Continue reading...",
-        "published": "Mon, 20 Apr 2026 23:01:08 GMT",
-        "updated": "2026-04-20T23:01:08Z",
-        "published_at_utc": "2026-04-20T23:01:08+00:00",
-        "id": "https://www.theguardian.com/environment/2026/apr/21/uk-shifts-older-wind-and-solar-farms-to-fixed-price-deals-to-reduce-price-shocks",
-        "topic_type": "energy_markets",
-        "relevance_score": 21,
+        "title": "UK inflation climbs to 3.3%, driven by largest increase in fuel prices in over three years – business live",
+        "link": "https://www.theguardian.com/business/live/2026/apr/22/uk-inflation-increase-fuel-prices-oil-falls-trump-ceasefire-extended-business-live-news-updates",
+        "summary": "Oil prices fall on ceasefire extension but stay near $100 a barrel as strait of Hormuz remains closed Here’s more reaction to the rise in UK inflation to 3.3%. Sharon Graham , general secretary of the Unite union, said: Today’s uptick in inflation looks like it is just the beginning. Before the war in Iran, workers were already forecast to get poorer. The outlook is now looking increasingly bleak. Workers must not pay the price yet again, for a crisis not of their making. As a minimum the government must take decisive action on soaring energy bills. Households are feeling the pain from Trump’s illegal war. Big rises in petrol prices are pushing up inflation and shockwaves from the war are putting recent improvements in growth under threat. But the Bank of England must remain focused on cutting rates as soon as possible. Coupled with Trumpflation, higher interest rates would increase the pressure on already stretched families and businesses. But lowering rates would provide vital support for economic growth, which is an important part of the Bank’s remit too. Continue reading...",
+        "published": "Wed, 22 Apr 2026 08:41:48 GMT",
+        "updated": "2026-04-22T08:41:48Z",
+        "published_at_utc": "2026-04-22T08:41:48+00:00",
+        "id": "https://www.theguardian.com/business/live/2026/apr/22/uk-inflation-increase-fuel-prices-oil-falls-trump-ceasefire-extended-business-live-news-updates",
+        "topic_type": "inflation",
+        "relevance_score": 27,
         "briefing": {
-          "news_focus": "Move marks government’s most radical attempt to weaken impact of soaring wholesale gas prices on electricity costs Clean energy generation exceeded rise in global electricity demand in 2025 Electricity generators will face higher windfall taxes unless they sign up to long-term fixed-price contracts under government plans to protect bill payers from future gas market price shocks, as the Iran war pushes up energy prices. The Treasury will increase a windfall tax on excess profits made by electricity generators in Great Britain from 45% to 55% when gas prices spike. The funds raised will help the government to support households during an energy crisis. Continue reading...",
-          "news_focus_zh": "英國政府計劃提高電力生產商的意外稅率，從45%增至55%，以應對因伊朗戰爭導致的能源價格上漲，並保護家庭用戶免受未來天然氣市場價格波動的影響。",
-          "background": "隨著全球天然氣價格飆升，英國政府面臨壓力，必須採取措施穩定電力價格。此政策是政府為了減輕家庭用戶的經濟負擔而提出的最激進方案之一。2025年，清潔能源的產量超過全球電力需求的增長，顯示出可再生能源的潛力，但仍然無法完全抵消化石燃料價格的影響，特別是在地緣政治緊張局勢下。",
+          "news_focus": "Oil prices fall on ceasefire extension but stay near $100 a barrel as strait of Hormuz remains closed Here’s more reaction to the rise in UK inflation to 3.3%. Sharon Graham , general secretary of the Unite union, said: Today’s uptick in inflation looks like it is just the beginning. Before the war in Iran, workers were already forecast to get poorer. The outlook is now looking increasingly bleak. Workers must not pay the price yet again, for a crisis not of their making. As a minimum the government must take decisive action on soaring energy bills. Households are feeling the pain from Trump’s illegal war. Big rises in petrol prices are pushing up inflation and shockwaves from the war are putting recent improvements in growth under threat. But the Bank of England must remain focused on cutting rates as soon as possible. Coupled with Trumpflation, higher interest rates would increase the pressure on already stretched families and businesses. But lowering rates would provide vital support for economic growth, which is an important part of the Bank’s remit too. Continue reading...",
+          "news_focus_zh": "英國通脹率上升至3.3%，主要受三年來最大燃料價格上漲驅動，工會領袖呼籲政府對高漲的能源費用採取果斷行動。",
+          "background": "英國的通脹率在近期因燃料價格上漲而上升，這一現象與全球油價波動密切相關。隨著霍爾木茲海峽的封閉，油價接近每桶100美元，這對家庭和企業的經濟壓力造成了直接影響。歷史上，英國的通脹率在經濟危機和能源價格波動中經常上升，這次的情況也不例外，尤其是在地緣政治緊張局勢加劇的背景下。",
           "stakeholders": [
             "英國政府",
-            "電力生產商",
-            "家庭用戶",
-            "能源市場分析師",
-            "投資者"
+            "工會",
+            "英格蘭銀行",
+            "家庭",
+            "企業"
           ],
-          "analysis": "這項政策將對電力生產商造成直接影響，尤其是那些未簽署長期固定價格合約的公司，可能面臨更高的稅負。政府的立場是透過增加稅收來支持家庭，減輕能源危機的影響。然而，電力生產商可能會反對此政策，認為這將削弱他們的盈利能力，並可能導致投資減少。長期而言，這可能促使生產商尋求更穩定的合約，以避免未來的稅負壓力。"
+          "analysis": "工會領袖Sharon Graham指出，工人將面臨更大的經濟壓力，並強調政府必須對能源價格上漲採取行動。這反映了工人與政府之間的矛盾，工人希望政府能夠介入以減輕負擔，而政府則可能面臨在降低利率和控制通脹之間的兩難選擇。英格蘭銀行的政策決策將對經濟增長和家庭財務狀況產生深遠影響，若利率上升，將進一步加劇家庭和企業的財務壓力。"
         },
-        "topic_priority_score": 8,
-        "event_type": "energy_supply_move",
+        "topic_priority_score": 9,
+        "event_type": "rate_decision",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -289,27 +257,59 @@
       {
         "category": "economy",
         "source_name": "The Guardian Business",
-        "title": "Trump administration begins refunding more than $166bn in tariffs",
-        "link": "https://www.theguardian.com/us-news/2026/apr/20/trump-tariffs-refund-claims",
-        "summary": "Claims system launches months after supreme court ruled Trump had no legal authority to impose tariffs Sign up for the Breaking News US email to get newsletter alerts in your inbox The Trump administration has begun accepting applications from businesses seeking refunds for more than $166bn in tariffs, months after the supreme court ruled that the president had no legal authority to impose them. The administration launched on Monday the digital claims system , named Cape, which they said in court filings could handle about 63% of affected import filings, with the remainder to follow. Continue reading...",
-        "published": "Mon, 20 Apr 2026 15:02:27 GMT",
-        "updated": "2026-04-20T15:02:27Z",
-        "published_at_utc": "2026-04-20T15:02:27+00:00",
-        "id": "https://www.theguardian.com/us-news/2026/apr/20/trump-tariffs-refund-claims",
+        "title": "Trump’s Fed chair pick says he’ll maintain independence – but won’t say president lost 2020 election",
+        "link": "https://www.theguardian.com/business/2026/apr/21/kevin-warsh-federal-reserve-senate-trump",
+        "summary": "Kevin Warsh says ‘we need to take politics out of monetary policy’ as Elizabeth Warren calls him Trump’s ‘sock puppet’ Donald Trump ’s nominee for US Federal Reserve chair, Kevin Warsh , faced a tumultuous hearing in Washington on Tuesday, fielding scrutiny over his wealth and his ability to operate independently of the president who appointed him. Should he be confirmed, Warsh will hold one of the most powerful roles in the US federal government, with massive influence over the global economy and the ability to move markets. Continue reading...",
+        "published": "Tue, 21 Apr 2026 21:15:54 GMT",
+        "updated": "2026-04-21T21:15:54Z",
+        "published_at_utc": "2026-04-21T21:15:54+00:00",
+        "id": "https://www.theguardian.com/business/2026/apr/21/kevin-warsh-federal-reserve-senate-trump",
+        "topic_type": "interest_rates",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "Kevin Warsh says ‘we need to take politics out of monetary policy’ as Elizabeth Warren calls him Trump’s ‘sock puppet’ Donald Trump ’s nominee for US Federal Reserve chair, Kevin Warsh , faced a tumultuous hearing in Washington on Tuesday, fielding scrutiny over his wealth and his ability to operate independently of the president who appointed him. Should he be confirmed, Warsh will hold one of the most powerful roles in the US federal government, with massive influence over the global economy and the ability to move markets. Continue reading...",
+          "news_focus_zh": "特朗普提名的美國聯邦儲備主席候選人凱文·沃什在聽證會上強調將維持獨立性，但未對2020年選舉結果表態，面臨來自伊莉莎白·沃倫的質疑，稱其為特朗普的“傀儡”。",
+          "background": "美國聯邦儲備系統是全球最具影響力的中央銀行之一，其主席的任命對於貨幣政策及經濟穩定至關重要。沃什的提名引發關注，因為他在特朗普政府中的角色可能影響聯儲的獨立性。過去幾年，聯儲在應對經濟挑戰時面臨政治壓力，特別是在疫情後的經濟復甦階段，貨幣政策的獨立性成為熱議話題。",
+          "stakeholders": [
+            "美國聯邦儲備系統",
+            "特朗普政府",
+            "民主黨",
+            "金融市場",
+            "全球經濟"
+          ],
+          "analysis": "沃什的提名引發了民主黨與共和黨之間的緊張關係。民主黨人士如沃倫對沃什的獨立性表示懷疑，擔心其可能受到特朗普的影響，從而影響經濟政策的客觀性。相對而言，共和黨則支持沃什，認為他能夠推動必要的經濟改革。若沃什獲得確認，將可能在貨幣政策上採取更為保守的立場，這對市場和全球經濟將產生深遠影響。"
+        },
+        "topic_priority_score": 10,
+        "event_type": "rate_decision",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "economy",
+        "source_name": "Reuters",
+        "title": "Carney announces new Canada trade committee as review of trade deal with US nears - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZTRITzc0Mm9JNEQta09wRnQ0SmJScjg4bnFPMW9ieThTcVBVREVNWDZ2M0lwV3lNV29LblNjRWNlYTFqcURsWmU5UGh4TzNzTmJvMWdRcnR1NTdRb0JyOG5adFN0WE9yZ3NBWVRsZGJRTFhkcEkxUncxZjN0d2ZDQTZwZ0ZGQWZJSzFlQmtXbFYtT1ptbDV0MGRicmFzcEpSbGw2enUtc2dlSExOcWQtZm1wdV85bmExbThuSw?oc=5",
+        "summary": "Carney announces new Canada trade committee as review of trade deal with US nears Reuters",
+        "published": "Tue, 21 Apr 2026 14:02:11 GMT",
+        "updated": "Tue, 21 Apr 2026 14:02:11 GMT",
+        "published_at_utc": "2026-04-21T14:02:11+00:00",
+        "id": "CBMivAFBVV95cUxPZTRITzc0Mm9JNEQta09wRnQ0SmJScjg4bnFPMW9ieThTcVBVREVNWDZ2M0lwV3lNV29LblNjRWNlYTFqcURsWmU5UGh4TzNzTmJvMWdRcnR1NTdRb0JyOG5adFN0WE9yZ3NBWVRsZGJRTFhkcEkxUncxZjN0d2ZDQTZwZ0ZGQWZJSzFlQmtXbFYtT1ptbDV0MGRicmFzcEpSbGw2enUtc2dlSExOcWQtZm1wdV85bmExbThuSw",
         "topic_type": "trade_wars",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "Claims system launches months after supreme court ruled Trump had no legal authority to impose tariffs Sign up for the Breaking News US email to get newsletter alerts in your inbox The Trump administration has begun accepting applications from businesses seeking refunds for more than $166bn in tariffs, months after the supreme court ruled that the president had no legal authority to impose them. The administration launched on Monday the digital claims system , named Cape, which they said in court filings could handle about 63% of affected import filings, with the remainder to follow. Continue reading...",
-          "news_focus_zh": "特朗普政府開始接受企業申請退還超過1660億美元的關稅，這一行動是在最高法院裁定特朗普無法合法徵收這些關稅後展開的。新的數位申請系統名為Cape，預計可處理約63%的受影響進口申報。",
-          "background": "特朗普政府在其任期內曾對中國等國家徵收高額關稅，旨在保護美國本土產業。然而，這些措施引發了廣泛的法律挑戰，最終最高法院裁定特朗普無權單方面徵收關稅。隨著這一裁決的出臺，政府現在必須處理退還已徵收關稅的問題，這對於受影響的企業來說是一個重要的經濟救助。",
+          "news_focus": "Carney announces new Canada trade committee as review of trade deal with US nears Reuters",
+          "news_focus_zh": "加拿大財政部長卡尼宣布成立新的貿易委員會，隨著與美國貿易協定的檢討即將進行，這一舉措旨在強化加拿大的貿易政策與策略。",
+          "background": "隨著全球貿易環境的變化，加拿大與美國之間的貿易關係面臨新的挑戰。美國在貿易政策上日益強調保護主義，這使得兩國之間的貿易協定需要重新評估。卡尼的貿易委員會成立，正是為了應對這一背景下的貿易談判，並確保加拿大的經濟利益在未來的協議中得到保障。",
           "stakeholders": [
-            "特朗普政府",
-            "受影響企業",
-            "美國消費者",
-            "最高法院",
-            "國際貿易夥伴"
+            "加拿大政府",
+            "美國政府",
+            "加拿大企業",
+            "貿易協會",
+            "消費者"
           ],
-          "analysis": "此次退稅行動對企業和消費者均有深遠影響。企業將能夠獲得資金回流，減輕經濟壓力，尤其是那些依賴進口原材料的公司。然而，這也可能引發對政府財政狀況的擔憂，因為退稅將影響政府收入。此外，民主黨和共和黨在貿易政策上的立場存在分歧，未來可能會影響到美國的貿易戰略及國際關係。"
+          "analysis": "成立新的貿易委員會顯示出加拿大政府對於貿易政策的重視，尤其是在與美國的貿易協定即將檢討的關鍵時刻。此舉可能會引發美國對於加拿大貿易立場的關注，並可能影響雙方的談判策略。加拿大希望透過這個委員會來強化自身在談判中的立場，然而，美國的保護主義政策可能會使談判過程變得更加複雜，雙方在市場准入和關稅等問題上的立場可能存在顯著差異。"
         },
         "topic_priority_score": 9,
         "event_type": "macro_signal",
@@ -323,218 +323,218 @@
   "further_reading": {
     "technology": [
       {
-        "title": "Google rolls out Gemini in Chrome in 7 new countries",
-        "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-20T22:00:00+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
-        "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-20T16:06:21+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Anthropic's Mythos AI model sparks fears of turbocharged hacking",
-        "link": "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/",
+        "title": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150",
+        "link": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/",
         "source_name": "Ars Technica",
-        "published_at_utc": "2026-04-20T14:21:40+00:00",
+        "published_at_utc": "2026-04-21T21:40:41+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+        "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-21T23:26:45+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
+        "link": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-21T18:51:52+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
+        "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-04-21T18:30:00+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "SpaceX says it has option to acquire startup Cursor for $60 billion - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUnFZeVhXWkh5amFjeHJyYTRFX09SZE5hZ2ROSWNCNURHMHNXMVNidjdUaGdscDBqN25oa0xPYzVMeldMd1RJUFhWLW1Zak9WcFBhRnpScWJZMlVIWVBHc0VtNXo2N1Q5OHRoNGFQUVZ2TmxsUnlkbDlrdVBXUXBOTi1uN0hLdDlwaUhkYnFvNXJHNGZaSDdLZ2xiWFBmZDEtbVBGa3dtajVmZw?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-21T22:24:00+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "We translated the Palantir manifesto for actual human beings",
+        "link": "https://www.theverge.com/policy/915237/palantir-manifesto",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-04-21T21:06:21+00:00",
         "relevance_score": 13
       },
       {
-        "title": "PlayStation’s age-gating restrictions are coming to UK consoles",
-        "link": "https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-04-21T07:11:34+00:00",
-        "relevance_score": 12
+        "title": "A natural protein may protect the GI tract from infection",
+        "link": "https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/",
+        "source_name": "MIT Technology Review",
+        "published_at_utc": "2026-04-21T21:00:00+00:00",
+        "relevance_score": 13
       },
       {
-        "title": "Pentagon pulls the plug on one of the military's most troubled space programs",
-        "link": "https://arstechnica.com/space/2026/04/pentagon-pulls-the-plug-on-one-of-the-militarys-most-troubled-space-programs/",
+        "title": "AI at MIT",
+        "link": "https://www.technologyreview.com/2026/04/21/1134938/ai-at-mit/",
+        "source_name": "MIT Technology Review",
+        "published_at_utc": "2026-04-21T21:00:00+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Florida probes ChatGPT role in mass shooting. OpenAI says bot \"not responsible.\"",
+        "link": "https://arstechnica.com/tech-policy/2026/04/florida-probes-chatgpt-role-in-mass-shooting-openai-says-bot-not-responsible/",
         "source_name": "Ars Technica",
-        "published_at_utc": "2026-04-21T02:27:52+00:00",
-        "relevance_score": 10
+        "published_at_utc": "2026-04-21T20:01:36+00:00",
+        "relevance_score": 13
       },
       {
-        "title": "A Humanoid Robot Set a Half-Marathon Record in China",
-        "link": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-04-20T22:33:27+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "Blue Origin rocket grounded after satellite 'mishap'",
-        "link": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Technology",
-        "published_at_utc": "2026-04-20T19:56:11+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "FAA orders investigation into Blue Origin’s New Glenn mishap",
-        "link": "https://techcrunch.com/2026/04/20/faa-orders-investigation-into-blue-origins-new-glenn-mishap/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-20T16:11:41+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "Biosino Bio-Technology And Science Says ZS-2000 Fully Automatic Biochemical Analyzer Obtains Medical Device Registration Certificate In China - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPeVZqa01JekEwY3pWeVpGVnFRaHQ2bnJOQW1JcnRMSndlT1M4cHAtUXRhTWdndDBZTkl1SC1uaFFNTGRlVUtYOVJxT2hia1lpVFpfV3hSSFJrSVdtckxFUmpzal9PZGJIcGU1ZWlpTnNodFFOMk5obWVYb2RqM0laQ1JZSGdjclB3cTBES1A1TmxFakRUOXdCa0dZQm1YMWFVaVlOX3hXNXZSX0x4SUlyOWMtbk9RZHpMSjBkd3k3UVpjekFOWGZnOGN5RDBteTdTQnhzc2Q4RUZpZE9nZzhlQ2dINThNb0ZDQWNyTllnSlp2ZGxQZjduRFJDdkUzQUc2YkN0ZUtHMWJON0RrVHJmNWZGcDdyX2xEYUM2VmJQNzRhcXlCeUgxMjJCczlSUXllSVNZdENR?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-20T16:09:50+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "WhatsApp is testing a premium subscription, but it is mainly cosmetic",
-        "link": "https://techcrunch.com/2026/04/20/whatsapp-is-testing-a-premium-subscription-put-it-is-mainly-cosmetic/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-20T15:59:26+00:00",
-        "relevance_score": 10
+        "title": "OpenAI’s updated image generator can now pull information from the web",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-04-21T19:00:00+00:00",
+        "relevance_score": 13
       }
     ],
     "politics": [
       {
-        "title": "Tuesday briefing: What it might take for lasting peace between the US and Iran",
-        "link": "https://www.theguardian.com/world/2026/apr/21/tuesday-briefing-what-it-might-take-for-lasting-peace-between-the-us-and-iran",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-21T05:45:17+00:00",
+        "title": "Why China backs Namibia’s nuclear fuel rod production",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3350979/why-china-backs-namibias-nuclear-fuel-rod-production?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-22T06:37:16+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "America First Fed? Trump nominee Kevin Warsh signals ‘monetary sovereignty’ push: analysts",
+        "link": "https://www.scmp.com/economy/global-economy/article/3350993/america-first-fed-trump-nominee-kevin-warsh-signals-monetary-sovereignty-push-analysts?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-22T08:30:14+00:00",
         "relevance_score": 20
       },
       {
-        "title": "After Xi, South Korea’s Lee brings Modi into ‘selfie diplomacy’ frame",
-        "link": "https://www.scmp.com/news/asia/south-asia/article/3350837/after-xi-south-koreas-lee-brings-modi-selfie-diplomacy-frame?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-04-21T06:35:07+00:00",
+        "title": "Iran war live: Trump says ceasefire extended as talks with Tehran in limbo",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/4/22/iran-war-live-trump-says-ceasefire-extended-as-talks-with-tehran-in-limbo?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-04-22T00:00:00+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "EU foreign ministers reject proposal to suspend association agreement with Israel",
+        "link": "https://www.theguardian.com/world/2026/apr/21/eu-foreign-ministers-reject-proposal-suspend-association-agreement-israel",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-21T18:46:54+00:00",
         "relevance_score": 19
       },
       {
-        "title": "EU optimistic over approval of €90bn loan for Ukraine following Orbán defeat – Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/apr/21/eu-foreign-ministers-meet-to-discuss-ukraine-russia-and-the-middle-east-europe-live",
+        "title": "EU close to signing off on critical €90bn loan for Ukraine after months of vetoing from Hungary – Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/apr/22/ukraine-eu-90bn-loan-russia-war-hungary-zelenskyy-putin-magyar-orban-europe-latest-news-updates",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-21T09:08:20+00:00",
+        "published_at_utc": "2026-04-22T08:40:22+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Olly Robbins says he faced ‘constant pressure’ to get Mandelson in post",
-        "link": "https://www.theguardian.com/politics/2026/apr/21/olly-robbins-peter-mandelson-vetting-keir-starmer",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-21T08:54:59+00:00",
+        "title": "Iran war reflects the false promise of US ‘energy dominance’",
+        "link": "https://www.scmp.com/opinion/world-opinion/article/3350726/iran-war-reflects-false-promise-us-energy-dominance?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-22T08:30:09+00:00",
         "relevance_score": 18
       },
       {
-        "title": "India is violating its obligations under international law: Francesca Albanese",
-        "link": "https://www.thehindu.com/news/national/francesca-albanese-interview-india-violating-obligations-under-international-law/article70884773.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-21T08:47:11+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Middle East crisis live: Iran claims it has ‘new cards for battlefield’, and weighs talks in Pakistan",
-        "link": "https://www.theguardian.com/world/live/2026/apr/21/iran-war-live-news-updates-trump-us-hormuz-oil-middle-east-talks",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-21T08:41:10+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "U.S. positive on Iran deal but talks still uncertain as ceasefire end nears",
-        "link": "https://www.thehindu.com/news/international/west-asia-war-usa-iran-deal-peace-talks-donald-trump-jd-vance/article70887288.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-21T08:35:45+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Virginia redistricting vote: What polls suggest and what voters will decide",
-        "link": "https://www.aljazeera.com/news/2026/4/21/virginia-redistricting-vote-what-polls-suggest-and-what-voters-will-decide?traffic_source=rss",
+        "title": "Israel’s ‘digital occupation’ of south Lebanon",
+        "link": "https://www.aljazeera.com/video/digital-dilemma/2026/4/22/israels-digital-occupation-of-south-lebanon?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-21T07:24:23+00:00",
+        "published_at_utc": "2026-04-22T08:26:37+00:00",
         "relevance_score": 18
       },
       {
-        "title": "JD Vance to lead US delegation in Pakistan if Iran agrees to talks",
-        "link": "https://www.theguardian.com/world/2026/apr/20/jd-vance-to-lead-us-delegation-in-pakistan-if-iran-agrees-to-talks",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-21T06:30:56+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "US veterans arrested in Capitol during protest against the war on Iran",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/21/us-veterans-arrested-in-capitol-during-protest-against-the-war-on-iran?traffic_source=rss",
+        "title": "Iran’s UN ambassador responds to US ceasefire extension",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/irans-un-ambassador-responds-to-us-ceasefire-extension?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-21T05:20:18+00:00",
+        "published_at_utc": "2026-04-22T07:33:42+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Iran war: What’s happening on day 54 as Trump extends ceasefire?",
+        "link": "https://www.aljazeera.com/news/2026/4/22/iran-war-whats-happening-on-day-54-as-trump-extends-ceasefire?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-04-22T05:25:57+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Robbins response to ‘cover-up’ question reveals debate over Mandelson vetting file",
+        "link": "https://www.theguardian.com/politics/2026/apr/22/robbins-says-officials-considered-withholding-mandelson-vetting-files-from-parliament",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-22T05:00:09+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "PREVIEW US homebuilders brace for another challenging year as war, tariffs hurt margins - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVmk3dVRCeGwzMElNYmFrUk9jeEJGV3RxRmh2QkxMVEdWYUIzX3VjLUxHRVY3Zjl1c2hPNEViTlE2WllpYUlXUFBUaFk0LXFmMmw3UHh4UzJwTlFULTk3TGRXQ2xlR3J4MU4tSFlpRThSRmM0TXZacWFYa3RoMXgtbjBXbUh2ZUhkUzVMY19FUmxTVXZ0OEdPRDhmLUEyZEhvV2ZaZlNmZXVuM1FDMUNDbThNTkJQZnc?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-20T13:54:21+00:00",
+        "title": "UK inflation rises after Iran war pushes up fuel prices",
+        "link": "https://www.bbc.com/news/articles/cnv8l17r51ro?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-04-22T08:38:11+00:00",
         "relevance_score": 21
       },
       {
-        "title": "Wage growth hits lowest level since November 2020; unemployment rate unexpectedly falls - business live",
-        "link": "https://www.theguardian.com/business/live/2026/apr/21/wage-growth-level-unemployment-rate-falls-iran-war-business-latest-news-updates",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-21T08:45:50+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Victory Giant skyrockets after biggest Hong Kong IPO this year",
-        "link": "https://www.scmp.com/plus/business/banking-finance/article/3350873/victory-giant-skyrockets-after-biggest-hong-kong-ipo-year?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-21T09:12:30+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Chinese circuit-board supplier Victory Giant jumps 57% in Hong Kong share debut",
-        "link": "https://www.scmp.com/business/banking-finance/article/3350801/chinese-circuit-board-supplier-victory-giant-jumps-hong-kong-share-debut?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-21T01:43:39+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Jump in EU EV sales amid Iran war boosts Chinese brands’ fortunes",
-        "link": "https://www.scmp.com/business/china-evs/article/3350776/jump-eu-ev-sales-amid-iran-war-boosts-chinese-brands-fortunes?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-20T23:30:07+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Wells Fargo CEO says reducing interest rates before seeing end to Iran conflict would be a mistake - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWHVCTjhtWmV4aDBncEh0WV9YVXNpXzF2c2g3cnhOVXFMQXRtbGFia2JOY2xPOWY4YktvMkJ1bksxSlVFSVpIN19Wa0M3dVNES0FvWTdKT1EzNDJtZzFWR3d3aTF1NWZhNTBYcmNocTkySlR4NmE5UjdOTnhib1UwcndyalRIWjllTG1wZ2xZeTFVOTJScW5xNllOOEdxRkI4R240cFV6TnFFX0lZcEJycnpNSWdOVEY2Qk12U3NBVFA4VTVlb1p5Tw?oc=5",
+        "title": "Exclusive: US trade rep tells Mexican companies Trump tariffs here to stay, sources say - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb042a1JwRU1Udk9hSkc2czJzbzJIU0ZIUURwRnh1S2lOcEFJSDN5LWo5OUo2YURyZDNkVVBRZzk5Y0Vtd0oxbmhreDFRVzBCZVVhaGNKbjIwcVRheGg1VTB0UzVKU1Z3amZMTXpreElBaWxsVkNFT1AyZE5aZi1nbWxSR085bXZ1eVl1Z01hTUh0MEMySFJXVHdBVGpfRERwMUhPS21YZzBVQklmaHczeXpXRGJvX2F1SnFwRmV3Q1Bxak1jblNWUHR5ZmhlOXJUWmRNNQ?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-04-20T18:26:09+00:00",
-        "relevance_score": 19
+        "published_at_utc": "2026-04-21T09:14:47+00:00",
+        "relevance_score": 21
       },
       {
-        "title": "The 20-somethings juggling three jobs to make ends meet",
-        "link": "https://www.bbc.com/news/articles/cn89n9exl11o?at_medium=RSS&at_campaign=rss",
+        "title": "Outlook for China stocks brightens on capital flows, rebounding home prices",
+        "link": "https://www.scmp.com/business/china-business/article/3350830/outlook-china-stocks-brightens-capital-flows-rebounding-home-prices?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-21T05:15:28+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "War in Iran 'has put up our fuel bill by £100,000'",
+        "link": "https://www.bbc.com/news/articles/c248j1r7qrdo?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC Business",
-        "published_at_utc": "2026-04-21T07:23:11+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-04-22T05:19:19+00:00",
+        "relevance_score": 19
       },
       {
-        "title": "J.P. Morgan lifts S&P 500 year-end target to 7,600 on AI-driven earnings - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2F6RlhkMzJsX3NnZ0JYWjJybnd2V0U1TERuNlJDTDVnc3pOS0I3N2l1RWlpRTU4YlNYZ2MxRnZVNFJkRHp5SmdDbnA2WEdjQmJpWmhtdFc5LWFGaUo5MEJ0SUs3WHpmczlRZDJTRWRsbzFadVVsNS0xYzlMWjN4a1ppVTJFSGV6NUF0bkJQeVFkTE9QWWJDX2J0MFEwbFcyWHh1SG1ENGh4RkE?oc=5",
+        "title": "Hong Kong stocks retreat as war uncertainty lingers after ceasefire extension",
+        "link": "https://www.scmp.com/business/china-business/article/3350939/hong-kong-stocks-retreat-after-trump-extends-iran-war-ceasefire?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-22T01:54:03+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Oil prices dip as Trump extends Iran war ceasefire",
+        "link": "https://www.bbc.com/news/articles/c995dkl4dvvo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-04-22T01:18:36+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Hong Kong IPOs lure mainland China insurers seeking higher returns",
+        "link": "https://www.scmp.com/business/banking-finance/article/3350821/hong-kong-ipos-lure-mainland-china-insurers-seeking-higher-returns?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-22T00:30:08+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Greater China private equity set for patchy recovery, modest fundraising boost",
+        "link": "https://www.scmp.com/business/banking-finance/article/3350901/greater-china-private-equity-set-patchy-recovery-modest-fundraising-boost?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-21T23:30:08+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "BoE to hold interest rates through 2026 despite inflation threat: Reuters poll - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNjBZcVU0ZWczemdjRUk4bVJmUHRfV0RPb3h5ZzV2aEVJX1VtbG0zYkVqRDQ5T2ZqV0hJN2RlVEpkcEx3emp6SUp5TlowU0dNX3B5Uks4bk5VYW03eDVtRkJsU2owOWhudTVvN09TbnhuN3dWRTQwTm5YeVRPT0xmbUFSc05aSDlGM2JqdlR3SU1CZFBpTFNic1NlZHhiVTJla0Y0cHowOGRGdw?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-04-21T06:54:00+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-04-21T12:09:25+00:00",
+        "relevance_score": 19
       },
       {
-        "title": "American corporate profits keep shrugging off global tumult",
-        "link": "https://www.economist.com/finance-and-economics/2026/04/20/american-corporate-profits-keep-shrugging-off-global-tumult",
-        "source_name": "The Economist",
-        "published_at_utc": "2026-04-20T19:49:36+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Iran war energy crisis: how bad could it get? – The Latest",
-        "link": "https://www.theguardian.com/news/audio/2026/apr/20/iran-war-energy-crisis-how-bad-could-it-get-the-latest",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-20T15:56:13+00:00",
-        "relevance_score": 17
+        "title": "UK stocks edge higher on hopes of US-Iran talks - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMktmSjhCNlp4SFBoQ2VoVFVrbFQ0bjZyWFVkRUFnSjRlOWxMTDFjRTdCaEJVWlFMTG82Ym1qTDA4OU1HRXhYTDBiLWI0TExLQU5nMk9Kd0NiQUVWeEtNZERDcWtlQzJsWE1fTlRaVTdVcnllWm5XdDFBelJvbzJGT0gtcnY5S1RORVVfQnpaVWFNWFhtb0ltak13?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-21T10:23:43+00:00",
+        "relevance_score": 19
       }
     ]
   },
@@ -544,5 +544,5 @@
     "failed": 0,
     "total": 9
   },
-  "theme_of_day": "今日新聞的整體脈絡顯示出科技、政治與經濟版面之間的相互影響與連動。亞馬遜在人工智慧領域的重大投資，可能會進一步推動全球科技競爭，尤其是在資源與技術合作上，德國與巴西的關係也顯示出對關鍵金屬的需求加劇，這與全球經濟的動態密切相關。此外，美國企業對中國進口關稅的退款行動，反映出在全球貿易環境變化下，企業如何調整策略以應對政策影響。整體而言，這些事件共同勾勒出當前國際局勢中的科技進步、資源競爭與經濟調整的複雜交織。"
+  "theme_of_day": "今日新聞整體敘事主軸圍繞著科技安全、地緣政治及經濟挑戰的交織影響。科技版面報導的AI數據安全事件及網路安全的內部道德問題，反映出隨著技術發展所帶來的法律與倫理困境，進而影響社會對於政治及經濟政策的信任與反應。政治版面中，巴拉克里希南對地緣政治衝突的警示與特朗普政治聯盟的動盪，顯示出國際關係與內部政治的緊密聯繫，而英國通脹上升及貿易政策的調整則突顯出經濟環境對政策制定的壓力，進一步影響全球市場的穩定性。"
 }
