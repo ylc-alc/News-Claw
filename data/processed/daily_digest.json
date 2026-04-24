@@ -1,58 +1,58 @@
 {
-  "generated_at_utc": "2026-04-23T09:18:11.097452+00:00",
+  "generated_at_utc": "2026-04-24T09:22:21.546170+00:00",
   "summary": {
-    "total_raw_items": 1129,
-    "total_deduped_items": 1113,
+    "total_raw_items": 1121,
+    "total_deduped_items": 1104,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
         "chips",
-        "ai",
-        "cybersecurity"
+        "cybersecurity",
+        "ai"
       ],
       "politics": [
+        "us_politics",
         "diplomacy",
-        "war_and_conflict",
-        "us_politics"
+        "war_and_conflict"
       ],
       "economy": [
-        "inflation",
-        "markets",
-        "trade_wars"
+        "sanctions",
+        "trade_wars",
+        "markets"
       ]
     },
-    "multi_source_selected_count": 1
+    "multi_source_selected_count": 0
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "Google updates Workspace to make AI your new office intern",
-        "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
-        "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
-        "published": "Wed, 22 Apr 2026 22:44:26 +0000",
-        "updated": "Wed, 22 Apr 2026 22:44:26 +0000",
-        "published_at_utc": "2026-04-22T22:44:26+00:00",
-        "id": "https://techcrunch.com/?p=3115439",
+        "source_name": "Wired",
+        "title": "US Special Forces Soldier Arrested for Polymarket Bets on Maduro Raid",
+        "link": "https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket/",
+        "summary": "The master sergeant allegedly used classified intel to profit on the capture of Venezuelan president Nicolás Maduro, marking the first US arrest for insider trading on a prediction market.",
+        "published": "Thu, 23 Apr 2026 23:15:21 +0000",
+        "updated": "Thu, 23 Apr 2026 23:15:21 +0000",
+        "published_at_utc": "2026-04-23T23:15:21+00:00",
+        "id": "69ea95f7158c24cbe00a4d01",
         "topic_type": "chips",
-        "relevance_score": 15,
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
-          "news_focus_zh": "Google 更新了 Workspace，推出由新 AI 系統 Workspace Intelligence 驅動的多項自動化功能，旨在提升用戶的工作效率，讓 AI 成為辦公室的新實習生。",
-          "background": "隨著人工智慧技術的快速發展，許多科技公司開始將 AI 整合進其產品中，以提升用戶體驗和工作效率。Google 的 Workspace 作為一個廣泛使用的辦公軟體平台，這次的更新顯示出其對於 AI 應用的重視，並試圖在競爭激烈的市場中保持領先地位。過去幾年，Microsoft 也在其 Office 套件中加入了類似的 AI 功能，促使整個辦公軟體市場朝向智能化轉型。",
+          "news_focus": "The master sergeant allegedly used classified intel to profit on the capture of Venezuelan president Nicolás Maduro, marking the first US arrest for insider trading on a prediction market.",
+          "news_focus_zh": "美國特種部隊的一名軍士因涉嫌利用機密情報在預測市場上對委內瑞拉總統馬杜羅的逮捕進行賭注而被捕，這是美國首次因內幕交易在預測市場上被逮捕的案例。",
+          "background": "預測市場是一種允許參與者對未來事件進行賭注的金融工具，近年來在科技與金融界逐漸受到關注。此次事件涉及的馬杜羅政權在國際上備受爭議，特別是美國與委內瑞拉之間的緊張關係。美國政府對馬杜羅的制裁政策已持續多年，並試圖通過各種手段推翻其政權，這使得相關情報的敏感性及其潛在的商業價值倍增。",
           "stakeholders": [
-            "Google",
-            "企業用戶",
-            "競爭對手（如 Microsoft）",
-            "數據隱私監管機構",
-            "技術開發者"
+            "美國政府",
+            "委內瑞拉政府",
+            "美國特種部隊",
+            "預測市場參與者",
+            "金融監管機構"
           ],
-          "analysis": "Google 的這一更新將可能改變用戶的工作方式，尤其是對於需要大量文書工作的職位。企業用戶將受益於更高的效率和生產力，但同時也可能面臨對於 AI 取代人力的擔憂。競爭對手如 Microsoft 可能會加速其 AI 功能的開發，以維持市場份額。此外，這一變化也可能引發對於數據隱私和安全性的討論，因為 AI 系統需要大量數據來運作，這對於企業的信任度至關重要。"
+          "analysis": "此事件揭示了軍事與金融界之間的潛在交集，並引發對內部信息使用的法律與倫理問題。美國政府可能會加強對軍事人員參與金融市場的監管，以防止類似事件再次發生。對於預測市場的參與者來說，這一事件可能會降低市場的可信度，並影響其未來的發展。此外，這也可能促使政策制定者重新審視與國際政治相關的金融活動的合法性與透明度。"
         },
         "topic_priority_score": 10,
-        "event_type": "strategic_move",
+        "event_type": "commercial_update",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -60,28 +60,28 @@
       },
       {
         "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "Hands on with X’s new AI-powered custom feeds",
-        "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
-        "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
-        "published": "Wed, 22 Apr 2026 22:25:53 +0000",
-        "updated": "Wed, 22 Apr 2026 22:25:53 +0000",
-        "published_at_utc": "2026-04-22T22:25:53+00:00",
-        "id": "https://techcrunch.com/?p=3115489",
-        "topic_type": "ai",
-        "relevance_score": 15,
+        "source_name": "Wired",
+        "title": "Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet",
+        "link": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
+        "summary": "Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 2005—and likely deployed by the US or an ally.",
+        "published": "Thu, 23 Apr 2026 22:00:00 +0000",
+        "updated": "Thu, 23 Apr 2026 22:00:00 +0000",
+        "published_at_utc": "2026-04-23T22:00:00+00:00",
+        "id": "69e7aad25b9f207033e7c6b1",
+        "topic_type": "cybersecurity",
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
-          "news_focus_zh": "X推出了基於人工智慧的自訂時間軸，取代了原有的社群功能，並引入了Grok精選的資訊流和新的廣告位置。",
-          "background": "X（前Twitter）在社交媒體市場中面臨激烈競爭，尤其是來自Meta和TikTok的挑戰。為了提升用戶體驗和增加廣告收入，X決定利用人工智慧技術來優化內容分發，推出自訂時間軸功能。這一變革不僅是技術上的創新，也反映了社交媒體平台在用戶參與和商業模式上的轉變。",
+          "news_focus": "Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 2005—and likely deployed by the US or an ally.",
+          "news_focus_zh": "研究人員解碼了名為Fast16的惡意軟體，該軟體可能於2005年針對伊朗核計畫進行破壞，並且其存在時間早於知名的Stuxnet病毒。",
+          "background": "Fast16是一種能夠靜默干擾計算和模擬軟體的惡意程式，顯示出早期的網路戰爭技術。Stuxnet被認為是首個針對工業控制系統的網路武器，而Fast16的發現則揭示了在此之前，美國或其盟友已經在網路攻擊方面進行了實驗，特別是針對伊朗的核計畫。這一背景顯示出國際間對於核擴散的高度緊張與技術對抗的加劇。",
           "stakeholders": [
-            "X（前Twitter）",
-            "用戶",
-            "廣告商",
-            "競爭對手",
-            "投資者"
+            "美國政府",
+            "伊朗政府",
+            "網路安全專家",
+            "國際社會",
+            "盟國"
           ],
-          "analysis": "X的這一新功能可能會吸引更多用戶參與，因為個性化的內容推薦能提高用戶的黏著度。然而，這也可能引發對隱私和數據使用的擔憂，尤其是在廣告位置的增加可能導致用戶體驗下降。競爭對手可能會利用這一變化來強調自身平台的優勢，進一步加劇市場競爭。投資者則需關注這一策略是否能有效提升X的盈利能力。"
+          "analysis": "Fast16的揭露可能會引發對於網路戰爭倫理的討論，尤其是針對主權國家的攻擊行為。美國及其盟友可能會認為這是保護國家安全的必要手段，而伊朗則可能視其為對其主權的侵犯，進一步激化雙方的緊張關係。此外，這也可能促使其他國家加強其網路防禦能力，進一步推動全球網路安全的競賽。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
@@ -92,28 +92,28 @@
       },
       {
         "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "France confirms data breach at government agency that manages citizens’ IDs",
-        "link": "https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/",
-        "summary": "The French government agency that issues and manages national IDs, passports, and other documents announced that hackers stole the personal information of an unspecified number of citizens.",
-        "published": "Wed, 22 Apr 2026 19:34:41 +0000",
-        "updated": "Wed, 22 Apr 2026 19:34:41 +0000",
-        "published_at_utc": "2026-04-22T19:34:41+00:00",
-        "id": "https://techcrunch.com/?p=3115431",
-        "topic_type": "cybersecurity",
-        "relevance_score": 15,
+        "source_name": "Wired",
+        "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
+        "link": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
+        "summary": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
+        "published": "Fri, 24 Apr 2026 09:00:00 +0000",
+        "updated": "Fri, 24 Apr 2026 09:00:00 +0000",
+        "published_at_utc": "2026-04-24T09:00:00+00:00",
+        "id": "69e8f8a46cde8a1f43001897",
+        "topic_type": "ai",
+        "relevance_score": 17,
         "briefing": {
-          "news_focus": "The French government agency that issues and manages national IDs, passports, and other documents announced that hackers stole the personal information of an unspecified number of citizens.",
-          "news_focus_zh": "法國負責發放和管理國民身份證、護照等文件的政府機構確認，駭客竊取了不明數量公民的個人資訊，事件引發對數據安全的關注。",
-          "background": "法國政府在數據保護方面面臨越來越多的挑戰，尤其是在數位化進程加速的背景下。隨著公民身份資料的數位化，這類資料成為駭客攻擊的主要目標。法國政府已經實施了一系列政策來加強數據保護，但此次事件顯示出現行措施的漏洞，並可能促使政府進一步檢討和加強相關政策。",
+          "news_focus": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
+          "news_focus_zh": "隨著人們越來越依賴AI聊天機器人提供財務建議，專家提醒使用者應保持懷疑態度，並思考使用這些工具的潛在風險。",
+          "background": "近年來，AI技術的迅速發展使得聊天機器人成為許多領域的輔助工具，尤其是在財務諮詢方面。隨著使用者對於即時資訊的需求增加，許多金融機構與科技公司開始整合AI聊天機器人，以提供更高效的服務。然而，這也引發了對於AI建議準確性與可靠性的質疑，特別是在涉及財務決策的敏感性上。",
           "stakeholders": [
-            "法國政府",
-            "公民",
-            "網絡安全公司",
-            "駭客",
-            "監察機構"
+            "使用者",
+            "金融機構",
+            "科技公司",
+            "監管機構",
+            "財務顧問"
           ],
-          "analysis": "此次數據洩露事件對法國政府的信任度造成影響，民眾對個人資訊安全的擔憂加劇。政府面臨來自公民和監察機構的壓力，要求加強數據保護措施。駭客的行為可能引發對網絡安全法規的重新評估，並促使政府考慮與私營部門合作以提升防護能力。各方利益關係中，公民希望保障個人隱私，政府則需平衡安全與透明度之間的關係。"
+          "analysis": "使用AI聊天機器人進行財務諮詢的風險主要來自於其建議的準確性與個人化程度。金融專業人士可能擔心，依賴這些工具可能導致錯誤的決策，特別是在市場波動或複雜的財務情況下。另一方面，科技公司則可能推動這一趨勢以擴大市場份額，儘管面臨法律責任與信任危機的挑戰。未來，如何平衡技術創新與使用者保護將成為關鍵議題。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
@@ -127,29 +127,29 @@
       {
         "category": "politics",
         "source_name": "SCMP World",
-        "title": "China calls on Cambodia for ‘shared security and risks’ during global turmoil",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3351116/china-calls-cambodia-shared-security-and-risks-during-global-turmoil?utm_source=rss_feed",
-        "summary": "Chinese Foreign Minister Wang Yi called for China and Cambodia to “stand in closer solidarity, now more than ever” in the first 2+2 strategic dialogue aimed at deepening mutual political and security ties. During a meeting in Phnom Penh, Wang also urged the two sides to further strengthen political and security cooperation to “firmly hold the reins of development and security in their own hands”. The meeting on Wednesday was the first under the 2+2 mechanism with Cambodia involving defence and...",
-        "published": "Thu, 23 Apr 2026 08:00:09 +0000",
-        "updated": "Thu, 23 Apr 2026 08:00:09 +0000",
-        "published_at_utc": "2026-04-23T08:00:09+00:00",
-        "id": "https://www.scmp.com/news/china/diplomacy/article/3351116/china-calls-cambodia-shared-security-and-risks-during-global-turmoil?utm_source=rss_feed",
-        "topic_type": "diplomacy",
-        "relevance_score": 23,
+        "title": "In lead-up to Trump’s Beijing visit, China announces 2 pandas are headed to US zoo",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3351294/lead-trumps-beijing-visit-china-announces-2-pandas-are-headed-us-zoo?utm_source=rss_feed",
+        "summary": "Just weeks before US President Donald Trump’s planned visit to Beijing next month, China is sending two giant pandas to Atlanta in what observers describe as a “goodwill gesture” amid persistent tensions that range from trade to broader security issues. The China Wildlife Conservation Association said on Friday that male panda Ping Ping and female Fu Shuang would travel to the US under a 10-year conservation agreement signed with Zoo Atlanta last year. Chinese state media, including the Global...",
+        "published": "Fri, 24 Apr 2026 08:12:48 +0000",
+        "updated": "Fri, 24 Apr 2026 08:12:48 +0000",
+        "published_at_utc": "2026-04-24T08:12:48+00:00",
+        "id": "https://www.scmp.com/news/china/diplomacy/article/3351294/lead-trumps-beijing-visit-china-announces-2-pandas-are-headed-us-zoo?utm_source=rss_feed",
+        "topic_type": "us_politics",
+        "relevance_score": 22,
         "briefing": {
-          "news_focus": "Chinese Foreign Minister Wang Yi called for China and Cambodia to “stand in closer solidarity, now more than ever” in the first 2+2 strategic dialogue aimed at deepening mutual political and security ties. During a meeting in Phnom Penh, Wang also urged the two sides to further strengthen political and security cooperation to “firmly hold the reins of development and security in their own hands”. The meeting on Wednesday was the first under the 2+2 mechanism with Cambodia involving defence and...",
-          "news_focus_zh": "中國外交部長王毅在柬埔寨召開首屆2+2戰略對話，呼籲中柬加強政治與安全合作，以應對全球動盪，並強調兩國應共同掌握發展與安全的主導權。",
-          "background": "中柬兩國的戰略合作關係在近年來持續深化，尤其在經濟與安全領域。隨著地緣政治緊張局勢加劇，中國希望透過此類對話機制加強與東南亞國家的聯繫，特別是在美國影響力擴張的背景下。柬埔寨作為中國在東南亞的重要夥伴，對於中國的區域安全戰略至關重要，這次會議標誌著兩國在安全領域合作的新階段。",
+          "news_focus": "Just weeks before US President Donald Trump’s planned visit to Beijing next month, China is sending two giant pandas to Atlanta in what observers describe as a “goodwill gesture” amid persistent tensions that range from trade to broader security issues. The China Wildlife Conservation Association said on Friday that male panda Ping Ping and female Fu Shuang would travel to the US under a 10-year conservation agreement signed with Zoo Atlanta last year. Chinese state media, including the Global...",
+          "news_focus_zh": "中國在美國總統特朗普計劃下月訪問北京前，宣布將兩隻大熊貓送往亞特蘭大動物園，這被視為在貿易及安全問題持續緊張的背景下的一項善意舉措。",
+          "background": "中美之間的貿易緊張局勢持續升溫，雙方在多個領域的摩擦加劇。大熊貓作為中國的國寶，歷來被用作外交工具，以促進與其他國家的友好關係。此次大熊貓的移交是基於去年簽署的為期十年的保護協議，顯示出中國在外交上仍希望維持某種程度的合作與交流。",
           "stakeholders": [
             "中國政府",
-            "柬埔寨政府",
             "美國政府",
-            "東南亞國家",
-            "國際安全組織"
+            "亞特蘭大動物園",
+            "中國野生動物保護協會",
+            "國際觀察者"
           ],
-          "analysis": "此次會議凸顯了中國與柬埔寨在面對全球不穩定性時的共同利益。中國希望藉此加強對柬埔寨的影響力，並在東南亞建立更穩固的安全網絡。然而，柬埔寨在此過程中也需平衡與美國及其他西方國家的關係，以避免過度依賴中國。未來，若中美在該地區的競爭加劇，柬埔寨可能面臨更大的外交壓力，需謹慎處理其外交政策。"
+          "analysis": "此次大熊貓的移交可被視為中國對特朗普即將訪華的善意回應，旨在緩和雙方的緊張關係。然而，這一舉措也可能被解讀為中國試圖利用文化外交來改善國際形象，並在貿易談判中增強其談判籌碼。美方可能會對此持觀望態度，既希望借此改善雙邊關係，又不願在貿易問題上讓步。長期而言，這可能影響中美之間的外交策略與互動模式。"
         },
-        "topic_priority_score": 7,
+        "topic_priority_score": 8,
         "event_type": "security_event",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -158,69 +158,64 @@
       },
       {
         "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "EU set to sign off €90bn loan for Ukraine and fresh Russia sanctions – Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/apr/23/eu-ukraine-loan-russia-sanctions-zelenskyy-cyprus-latest-news-updates",
-        "summary": "Move comes after Hungary and Slovakia dropped opposition following reopening of the Druzhba oil pipeline Elsewhere, two local trains have collided head-on in Denmark, injuring at least 17 people, four of whom are in a critical condition, according to emergency services. The public broadcaster DR showed images of two yellow and grey trains, both with damage to the front, facing each other in a wooded area. Continue reading...",
-        "published": "Thu, 23 Apr 2026 08:52:48 GMT",
-        "updated": "2026-04-23T08:52:48Z",
-        "published_at_utc": "2026-04-23T08:52:48+00:00",
-        "id": "https://www.theguardian.com/world/live/2026/apr/23/eu-ukraine-loan-russia-sanctions-zelenskyy-cyprus-latest-news-updates",
-        "topic_type": "war_and_conflict",
-        "relevance_score": 20,
+        "source_name": "The Hindu International",
+        "title": "Chinese foreign minister and Thai prime minister agree to collaborate on fighting cyberscams",
+        "link": "https://www.thehindu.com/news/international/chinese-foreign-minister-and-thai-prime-minister-agree-to-collaborate-on-fighting-cyberscams/article70900912.ece",
+        "summary": "China is Thailand’s biggest trading partner, and the two countries celebrated their 50th anniversary of establishing diplomatic relations last year",
+        "published": "Fri, 24 Apr 2026 14:01:41 +0530",
+        "updated": "Fri, 24 Apr 2026 14:01:41 +0530",
+        "published_at_utc": "2026-04-24T08:31:41+00:00",
+        "id": "article-70900912",
+        "topic_type": "diplomacy",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Move comes after Hungary and Slovakia dropped opposition following reopening of the Druzhba oil pipeline Elsewhere, two local trains have collided head-on in Denmark, injuring at least 17 people, four of whom are in a critical condition, according to emergency services. The public broadcaster DR showed images of two yellow and grey trains, both with damage to the front, facing each other in a wooded area. Continue reading...",
-          "news_focus_zh": "歐盟即將批准對烏克蘭提供900億歐元的貸款，同時對俄羅斯實施新的制裁。此舉是在匈牙利和斯洛伐克解除反對後進行的，並伴隨德魯日巴油管的重新啟用。",
-          "background": "歐盟對烏克蘭的支持是其應對俄烏衝突的重要策略之一，旨在穩定烏克蘭經濟並加強其抵抗俄羅斯的能力。匈牙利和斯洛伐克的反對主要源於能源依賴問題，特別是對俄羅斯能源的依賴。德魯日巴油管的重新啟用標誌著這些國家在能源供應上的妥協，可能會影響整體歐盟的能源安全政策。",
+          "news_focus": "China is Thailand’s biggest trading partner, and the two countries celebrated their 50th anniversary of establishing diplomatic relations last year",
+          "news_focus_zh": "中國外長與泰國總理達成共識，合作打擊網路詐騙，顯示兩國在經貿關係上的密切合作與安全議題的重視。",
+          "background": "中國與泰國的貿易關係日益緊密，泰國是中國在東南亞的重要貿易夥伴。兩國於去年慶祝建交50周年，這一合作協議反映了雙方在經濟與安全領域的共同利益。網路詐騙問題在全球範圍內日益嚴重，特別是在數位經濟快速發展的背景下，兩國政府希望透過合作來增強網路安全，保護雙方的經濟利益。",
           "stakeholders": [
-            "歐盟",
-            "烏克蘭",
-            "俄羅斯",
-            "匈牙利",
-            "斯洛伐克"
+            "中國政府",
+            "泰國政府",
+            "網路安全企業",
+            "國際貿易組織",
+            "消費者保護團體"
           ],
-          "analysis": "此次900億歐元的貸款將加強烏克蘭的經濟基礎，對抗俄羅斯的侵略行為。匈牙利和斯洛伐克的支持顯示出在能源供應上的妥協，可能會引發其他成員國對能源政策的重新評估。俄羅斯則可能對新制裁作出強烈反應，進一步加劇地緣政治緊張。各方在能源安全與政治支持之間的平衡將是未來發展的關鍵。"
+          "analysis": "中國與泰國的合作將有助於提升雙方在網路安全領域的能力，並可能促進其他國家在類似問題上的合作。然而，這也可能引發對於中國在東南亞影響力擴張的擔憂，特別是在一些國家對中國的網路監控與數據安全政策持保留態度。泰國政府則可能希望藉此提升其在國際社會中的形象，強調其在打擊犯罪方面的努力。"
         },
-        "topic_priority_score": 11,
+        "topic_priority_score": 7,
         "event_type": "diplomatic_move",
-        "supporting_sources": [
-          "SCMP World"
-        ],
-        "supporting_titles": [
-          "Trains collide head-on in Denmark, causing multiple injuries"
-        ],
-        "supporting_links": [
-          "https://www.scmp.com/news/world/europe/article/3351119/trains-collide-head-denmark-causing-multiple-injuries?utm_source=rss_feed"
-        ],
-        "source_count": 2
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
       },
       {
         "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "Watch: Donald Trump should lift the blockade | The Hindu Editorial",
-        "link": "https://www.thehindu.com/videos/watch-donald-trump-should-lift-the-blockade-the-hindu-editorial/article70895995.ece",
-        "summary": "If Donald Trump wants a negotiated exit, he should lift the blockade in return for Iran easing its restrictions on the Strait of Hormuz. Tehran, too, should step back from maximalist positions and be ready to make concessions on the nuclear front in exchange for sanctions relief and security guarantees. What West Asia needs is economic and strategic stability, not forever wars.",
-        "published": "Thu, 23 Apr 2026 11:07:26 +0530",
-        "updated": "Thu, 23 Apr 2026 11:07:26 +0530",
-        "published_at_utc": "2026-04-23T05:37:26+00:00",
-        "id": "article-70895995",
-        "topic_type": "us_politics",
+        "source_name": "Al Jazeera",
+        "title": "EU formally approves 90bn euro Ukraine loan and new sanctions on Russia",
+        "link": "https://www.aljazeera.com/news/2026/4/23/eu-formally-approves-90bn-euro-ukraine-loan-and-new-sanctions-on-russia?traffic_source=rss",
+        "summary": "Ukrainian President Zelenskyy welcomes the development, urging that the first tranche be disbursed by May or June.",
+        "published": "Thu, 23 Apr 2026 21:03:10 +0000",
+        "updated": "Thu, 23 Apr 2026 21:03:10 +0000",
+        "published_at_utc": "2026-04-23T21:03:10+00:00",
+        "id": "https://www.aljazeera.com/?t=1776965075",
+        "topic_type": "war_and_conflict",
         "relevance_score": 20,
         "briefing": {
-          "news_focus": "If Donald Trump wants a negotiated exit, he should lift the blockade in return for Iran easing its restrictions on the Strait of Hormuz. Tehran, too, should step back from maximalist positions and be ready to make concessions on the nuclear front in exchange for sanctions relief and security guarantees. What West Asia needs is economic and strategic stability, not forever wars.",
-          "news_focus_zh": "本則新聞主張唐納德·特朗普應解除對伊朗的封鎖，以促進雙方在霍爾木茲海峽的談判與合作，並呼籲伊朗也應放棄極端立場，為核問題做出讓步，以換取制裁解除與安全保障。",
-          "background": "美國對伊朗的經濟制裁始於2018年，特朗普政府單方面退出核協議，導致雙方關係緊張。霍爾木茲海峽是全球重要的石油運輸通道，任何衝突都可能影響全球能源市場。近年來，地區局勢不穩定，經濟與安全問題成為各方關注的焦點，促使各國尋求外交解決方案。",
+          "news_focus": "Ukrainian President Zelenskyy welcomes the development, urging that the first tranche be disbursed by May or June.",
+          "news_focus_zh": "歐盟正式批准對烏克蘭提供900億歐元的貸款，並對俄羅斯實施新制裁。烏克蘭總統澤倫斯基對此表示歡迎，並要求在5月或6月前發放第一筆款項。",
+          "background": "自俄烏衝突以來，歐盟對烏克蘭的支持持續增強，特別是在經濟與軍事援助方面。此次900億歐元的貸款是歐盟對烏克蘭重建計劃的重要組成部分，旨在幫助其應對戰爭帶來的經濟挑戰。同時，歐盟對俄羅斯的制裁也在不斷加碼，以削弱其經濟基礎，並對其軍事行動施加壓力。",
           "stakeholders": [
-            "美國政府",
-            "伊朗政府",
-            "海灣合作委員會",
-            "歐洲聯盟",
-            "國際原子能機構"
+            "歐盟",
+            "烏克蘭政府",
+            "俄羅斯政府",
+            "國際金融機構",
+            "烏克蘭民眾"
           ],
-          "analysis": "特朗普若解除封鎖，可能有助於緩解地區緊張局勢，促進經濟合作，對美國及其盟友而言，這可視為一種戰略穩定的努力。然而，伊朗的讓步是否能夠獲得足夠的信任，仍是未知數。各方對於核問題的立場存在分歧，西方國家希望伊朗放棄核武計劃，而伊朗則要求解除制裁以換取安全保障，未來的談判將考驗雙方的誠意與妥協能力。"
+          "analysis": "此次批准的900億歐元貸款顯示出歐盟對烏克蘭的支持力度進一步加強，尤其是在戰後重建的背景下，這筆資金將對烏克蘭經濟復甦至關重要。此外，新制裁的實施反映出歐盟對俄羅斯行為的持續不滿，可能會加劇俄方的經濟困境。與之前的援助相比，此次貸款的規模和時間框架更具體，顯示出歐盟在應對烏克蘭危機上的決心與行動力。"
         },
-        "topic_priority_score": 8,
-        "event_type": "security_event",
+        "topic_priority_score": 11,
+        "event_type": "diplomatic_move",
+        "is_major_update": true,
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -231,30 +226,65 @@
       {
         "category": "economy",
         "source_name": "The Guardian Business",
-        "title": "Iran war causes biggest jump in UK service sector cost inflation since at least 1996, as UK borrowing drops – business live",
-        "link": "https://www.theguardian.com/business/live/2026/apr/23/uk-government-borrowing--oil-100-a-barrel-strait-of-hormuz-deadlock-growth-latest-updates",
-        "summary": "Service providers report sharpest acceleration in service sector cost inflation in 30 years, largely due to higher fuel prices Economic output across the eurozone has fallen for first time in 16 months, as the Iran war drove up prices. Data provider S&P Global has reported that the eurozone private sector dipped into contraction in April, pulled down by a contraction in the services sector. “With the ongoing conflict in Iran causing concerns over fuel shortages and spiking prices, the downtick may also be driven by consumers beginning to limit their vehicle usage to necessary journeys.” Continue reading...",
-        "published": "Thu, 23 Apr 2026 08:59:40 GMT",
-        "updated": "2026-04-23T08:59:40Z",
-        "published_at_utc": "2026-04-23T08:59:40+00:00",
-        "id": "https://www.theguardian.com/business/live/2026/apr/23/uk-government-borrowing--oil-100-a-barrel-strait-of-hormuz-deadlock-growth-latest-updates",
-        "topic_type": "inflation",
+        "title": "Revealed: UK oil refinery owner moved Russian loans to offshore subsidiary where sanctions did not apply",
+        "link": "https://www.theguardian.com/business/2026/apr/24/revealed-uk-oil-refinery-owner-moved-russian-loans-to-offshore-subsidiary-where-sanctions-did-not-apply",
+        "summary": "MPs call for investigation into Essar Energy, owner of Stanlow refinery, which shifted loans from ‘Putin’s piggy bank’ VTB to Mauritius Days after the first wave of Russian tanks surged over the border into Ukraine in March 2022, dockers at a port in northern England took a stand. Appalled by Vladimir Putin’s brutality, workers at Ellesmere Port in Cheshire vowed never to unload any Russian oil destined for the nearby Stanlow refinery, a major hub for UK fuel supplies. Continue reading...",
+        "published": "Fri, 24 Apr 2026 05:00:32 GMT",
+        "updated": "2026-04-24T05:00:32Z",
+        "published_at_utc": "2026-04-24T05:00:32+00:00",
+        "id": "https://www.theguardian.com/business/2026/apr/24/revealed-uk-oil-refinery-owner-moved-russian-loans-to-offshore-subsidiary-where-sanctions-did-not-apply",
+        "topic_type": "sanctions",
+        "relevance_score": 25,
+        "briefing": {
+          "news_focus": "MPs call for investigation into Essar Energy, owner of Stanlow refinery, which shifted loans from ‘Putin’s piggy bank’ VTB to Mauritius Days after the first wave of Russian tanks surged over the border into Ukraine in March 2022, dockers at a port in northern England took a stand. Appalled by Vladimir Putin’s brutality, workers at Ellesmere Port in Cheshire vowed never to unload any Russian oil destined for the nearby Stanlow refinery, a major hub for UK fuel supplies. Continue reading...",
+          "news_focus_zh": "英國石油煉油廠擁有者Essar Energy被指控將來自俄羅斯VTB銀行的貸款轉移至不受制裁影響的毛里求斯子公司，英國國會議員呼籲對此展開調查。",
+          "background": "隨著俄烏衝突的爆發，許多國家對俄羅斯實施了嚴格的經濟制裁，特別是針對能源行業。Essar Energy擁有的Stanlow煉油廠是英國重要的燃料供應中心，該公司在面對制裁壓力時，選擇將資金流轉至海外，以繞過制裁措施，這引發了公眾和政治界的強烈反應。",
+          "stakeholders": [
+            "Essar Energy",
+            "英國政府",
+            "VTB銀行",
+            "英國國會",
+            "公眾"
+          ],
+          "analysis": "此事件突顯了企業在制裁環境中的資金運作策略，Essar Energy的行為可能會引發更廣泛的法律和道德爭議。英國政府和公眾對於企業是否應該遵循道德標準以及制裁的有效性存在不同看法。若調查證實其違法，可能會導致更嚴厲的監管措施，影響該公司的經營模式及未來的投資決策。"
+        },
+        "topic_priority_score": 8,
+        "event_type": "energy_supply_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1,
+        "cross_section_refs": [
+          "politics"
+        ]
+      },
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "Reform UK asks steel bosses to draft ‘alternative strategy’ for industry",
+        "link": "https://www.theguardian.com/business/2026/apr/24/reform-uk-steel-policy-manufacturing-labour",
+        "summary": "Industry sceptical as Nigel Farage’s party goes on charm offensive to help win over former Labour heartlands Reform UK has asked steel bosses to draw up an “alternative steel strategy” to rival recent government plans, stoking industry fears over a charm offensive by Nigel Farage’s party as it eyes gains in former Labour heartlands. Richard Tice, Reform’s deputy leader, met a group of bosses shortly before Labour announced new steel tariffs in March and commissioned them to draft a competing plan that will include scrapping net zero policies. Continue reading...",
+        "published": "Fri, 24 Apr 2026 07:00:33 GMT",
+        "updated": "2026-04-24T07:00:33Z",
+        "published_at_utc": "2026-04-24T07:00:33+00:00",
+        "id": "https://www.theguardian.com/business/2026/apr/24/reform-uk-steel-policy-manufacturing-labour",
+        "topic_type": "trade_wars",
         "relevance_score": 23,
         "briefing": {
-          "news_focus": "Service providers report sharpest acceleration in service sector cost inflation in 30 years, largely due to higher fuel prices Economic output across the eurozone has fallen for first time in 16 months, as the Iran war drove up prices. Data provider S&P Global has reported that the eurozone private sector dipped into contraction in April, pulled down by a contraction in the services sector. “With the ongoing conflict in Iran causing concerns over fuel shortages and spiking prices, the downtick may also be driven by consumers beginning to limit their vehicle usage to necessary journeys.” Continue reading...",
-          "news_focus_zh": "由於伊朗戰爭導致燃料價格上升，英國服務業成本通脹在30年內出現最大增幅，與此同時，歐元區經濟在16個月內首次出現下滑，顯示出戰爭對經濟的深遠影響。",
-          "background": "伊朗戰爭的爆發引發了全球能源市場的波動，尤其是對於依賴進口能源的國家如英國和歐元區國家，造成了燃料價格的急劇上升。英國的服務業，作為其經濟的主要驅動力，面臨成本壓力，這在過去30年中未曾見過。歐元區的經濟表現也因為服務業的收縮而受到影響，顯示出地緣政治衝突對經濟活動的直接影響。",
+          "news_focus": "Industry sceptical as Nigel Farage’s party goes on charm offensive to help win over former Labour heartlands Reform UK has asked steel bosses to draw up an “alternative steel strategy” to rival recent government plans, stoking industry fears over a charm offensive by Nigel Farage’s party as it eyes gains in former Labour heartlands. Richard Tice, Reform’s deputy leader, met a group of bosses shortly before Labour announced new steel tariffs in March and commissioned them to draft a competing plan that will include scrapping net zero policies. Continue reading...",
+          "news_focus_zh": "英國改革黨要求鋼鐵業高層制定一項替代鋼鐵策略，以對抗政府近期的計劃，並引發業界對該黨魅力攻勢的疑慮，尤其是在前工黨票倉地區。該黨副領袖理查德·泰斯在工黨宣布新鋼鐵關稅前與業界領袖會面，並要求他們提出包括取消淨零政策的計劃。",
+          "background": "英國鋼鐵產業面臨多重挑戰，包括全球市場競爭、環保政策壓力及政府的貿易政策。近期，工黨提出的新鋼鐵關稅政策旨在保護本土產業，但也引發了業界的擔憂。改革黨的介入，特別是在前工黨票倉地區，顯示出其試圖重新塑造政治格局，並吸引對工黨政策不滿的選民。",
           "stakeholders": [
-            "英國政府",
-            "歐元區國家",
-            "服務業企業",
-            "消費者",
-            "能源供應商"
+            "改革黨",
+            "工黨",
+            "鋼鐵業高層",
+            "環保團體",
+            "工會"
           ],
-          "analysis": "英國服務業的成本上升將對消費者和企業造成壓力，可能導致消費者減少支出，進一步影響經濟增長。歐元區的經濟收縮則可能引發政策制定者的擔憂，促使他們考慮進一步的經濟刺激措施。各國政府面臨的挑戰在於如何平衡能源安全與經濟增長，尤其是在面對持續的地緣政治不穩定性時。不同國家的應對策略可能會有所不同，進一步加劇市場的不確定性。"
+          "analysis": "改革黨的策略可能會引發鋼鐵業內部的分歧，部分企業可能會支持其提案以減少環保負擔，而另一些則可能擔心這會影響長期的可持續發展。工黨則可能加強其政策以維持選民支持，特別是在工業重鎮。這一動態可能會導致鋼鐵行業的政策辯論加劇，並影響未來的投資決策及產業發展方向。"
         },
         "topic_priority_score": 9,
-        "event_type": "inflation_data",
+        "event_type": "macro_signal",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -263,62 +293,30 @@
       {
         "category": "economy",
         "source_name": "SCMP Business",
-        "title": "AI-driven Hong Kong stock inflows from mainland China slow as investor options multiply",
-        "link": "https://www.scmp.com/business/china-business/article/3351090/ai-driven-hong-kong-stock-inflows-mainland-china-slow-investor-options-multiply?utm_source=rss_feed",
-        "summary": "Mainland Chinese investors have slowed their purchases of Hong Kong-listed shares this year after last year’s record inflows, as more artificial intelligence investment opportunities have emerged in mainland markets, according to BNP Paribas. Southbound inflows via the Stock Connect cross-border system have reached about US$30 billion so far this year, a slower pace than 2025, when they hit US$180 billion for the full year, according to the French bank. The deceleration reflected changing market...",
-        "published": "Thu, 23 Apr 2026 04:49:32 +0000",
-        "updated": "Thu, 23 Apr 2026 04:49:32 +0000",
-        "published_at_utc": "2026-04-23T04:49:32+00:00",
-        "id": "https://www.scmp.com/business/china-business/article/3351090/ai-driven-hong-kong-stock-inflows-mainland-china-slow-investor-options-multiply?utm_source=rss_feed",
+        "title": "Baijiu bet: China’s top fund manager doubles down on consumers amid signs of recovery",
+        "link": "https://www.scmp.com/business/china-business/article/3351290/baijiu-bet-chinas-top-fund-manager-doubles-down-consumers-amid-signs-recovery?utm_source=rss_feed",
+        "summary": "China’s largest fund manager has doubled down on consumer stocks, betting on a rebound in spending as early signs of stabilisation emerge in the property and catering sectors. Zhang Kun, who oversees US$6.9 billion at Guangzhou-based E Fund Management, increased exposure to leading baijiu makers and e-commerce platforms in his flagship mutual fund during the first quarter, according to a quarterly filing released on Thursday. The combined assets of the four funds he manages remain the largest...",
+        "published": "Fri, 24 Apr 2026 08:00:46 +0000",
+        "updated": "Fri, 24 Apr 2026 08:00:46 +0000",
+        "published_at_utc": "2026-04-24T08:00:46+00:00",
+        "id": "https://www.scmp.com/business/china-business/article/3351290/baijiu-bet-chinas-top-fund-manager-doubles-down-consumers-amid-signs-recovery?utm_source=rss_feed",
         "topic_type": "markets",
-        "relevance_score": 23,
-        "briefing": {
-          "news_focus": "Mainland Chinese investors have slowed their purchases of Hong Kong-listed shares this year after last year’s record inflows, as more artificial intelligence investment opportunities have emerged in mainland markets, according to BNP Paribas. Southbound inflows via the Stock Connect cross-border system have reached about US$30 billion so far this year, a slower pace than 2025, when they hit US$180 billion for the full year, according to the French bank. The deceleration reflected changing market...",
-          "news_focus_zh": "隨著中國大陸市場出現更多人工智慧投資機會，大陸投資者對香港上市股票的購買速度放緩。今年透過股票互聯互通系統的南向資金流入約為300億美元，顯著低於去年的1800億美元。",
-          "background": "近年來，香港股市一直是中國大陸投資者的重要投資目的地，尤其在科技股和金融股方面。然而，隨著中國大陸的人工智慧產業迅速發展，投資者的選擇變得更加多樣化，導致資金流向發生變化。BNP Paribas的報告指出，這一趨勢可能會影響香港市場的資金流入和整體表現。",
-          "stakeholders": [
-            "香港股市投資者",
-            "中國大陸投資者",
-            "BNP Paribas",
-            "香港交易所",
-            "科技公司"
-          ],
-          "analysis": "對於香港市場而言，資金流入的減少可能會導致股市的波動性增加，特別是在科技股領域。大陸投資者的轉向可能使香港市場面臨更大的競爭壓力，尤其是在人工智慧相關的投資機會上。相對於香港，內地市場的增長潛力和新興機會可能吸引更多資金，這將迫使香港市場尋求新的增長動力和投資者信心的重建。"
-        },
-        "topic_priority_score": 4,
-        "event_type": "market_repricing",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "economy",
-        "source_name": "BBC Business",
-        "title": "China weathered Trump's tariffs - but the Iran war is taking a toll",
-        "link": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
-        "summary": "The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy.",
-        "published": "Wed, 22 Apr 2026 21:23:25 GMT",
-        "updated": "Wed, 22 Apr 2026 21:23:25 GMT",
-        "published_at_utc": "2026-04-22T21:23:25+00:00",
-        "id": "https://www.bbc.com/news/articles/cn0ep28drllo#1",
-        "topic_type": "trade_wars",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy.",
-          "news_focus_zh": "中東衝突對中國出口導向經濟造成壓力，影響工廠訂單、成本及就業，儘管中國在特朗普的關稅政策下已經適應。",
-          "background": "中國的經濟模式長期以出口為主，尤其依賴中東市場。然而，隨著中東衝突加劇，供應鏈受到影響，導致工廠訂單減少，成本上升。特朗普時期的關稅政策雖然對中國經濟造成短期衝擊，但中國已透過多元化市場和內需擴張進行調整。當前的中東局勢則是另一個挑戰，可能影響中國的出口增長。",
+          "news_focus": "China’s largest fund manager has doubled down on consumer stocks, betting on a rebound in spending as early signs of stabilisation emerge in the property and catering sectors. Zhang Kun, who oversees US$6.9 billion at Guangzhou-based E Fund Management, increased exposure to leading baijiu makers and e-commerce platforms in his flagship mutual fund during the first quarter, according to a quarterly filing released on Thursday. The combined assets of the four funds he manages remain the largest...",
+          "news_focus_zh": "中國最大的基金經理張坤在其主要共同基金中加大對消費類股的投資，特別是白酒製造商和電子商務平台，顯示出對消費復甦的信心，尤其是在房地產和餐飲行業出現穩定跡象的背景下。",
+          "background": "中國經濟在疫情後面臨復甦挑戰，消費市場的回暖對整體經濟至關重要。房地產和餐飲行業的穩定被視為消費者信心回升的指標。白酒作為中國文化的重要組成部分，長期以來在消費市場中佔有重要地位，而電子商務則是現代消費的主要渠道。這些因素共同促使基金經理重新評估投資策略，增加對這些領域的資金配置。",
           "stakeholders": [
-            "中國政府",
-            "中東國家",
-            "美國",
-            "中國出口企業",
-            "全球供應鏈"
+            "張坤",
+            "白酒製造商",
+            "電子商務平台",
+            "消費者",
+            "投資者"
           ],
-          "analysis": "中東衝突對中國的影響主要體現在成本上升和訂單減少，這對依賴出口的中國經濟構成威脅。中國政府可能面臨壓力，需要加強內需和尋找替代市場以減輕衝突帶來的影響。另一方面，這也可能促使中國在國際貿易中尋求更大的主導權，特別是在能源供應方面。美國及其盟友可能會利用此機會進一步加強對中東的影響力，形成新的地緣政治格局。"
+          "analysis": "張坤的投資決策反映了對中國消費市場復甦的樂觀預期，這對於白酒製造商和電子商務平台來說是利好消息，可能促使這些企業的股價上升。然而，市場仍面臨不確定性，例如全球經濟環境變化及內部政策調整，可能影響消費者支出。不同利益方的反應可能各異，消費者和企業可能會因為市場信心的提升而受益，但投資者則需謹慎觀察潛在的風險。"
         },
-        "topic_priority_score": 9,
-        "event_type": "macro_signal",
+        "topic_priority_score": 4,
+        "event_type": "corporate_results",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -329,218 +327,218 @@
   "further_reading": {
     "technology": [
       {
-        "title": "Google Cloud launches two new AI chips to compete with Nvidia",
-        "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+        "title": "Trump’s pick to run US cyber agency CISA asks to drop out",
+        "link": "https://techcrunch.com/2026/04/23/trumps-pick-to-run-us-cyber-agency-cisa-asks-to-drop-out/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-22T18:39:27+00:00",
+        "published_at_utc": "2026-04-23T19:33:48+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Meta to cut one in 10 jobs after spending billions on AI",
+        "link": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Technology",
+        "published_at_utc": "2026-04-24T07:31:35+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-04-23T22:27:11+00:00",
         "relevance_score": 15
       },
       {
-        "title": "X is going to let Grok curate your timeline",
-        "link": "https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-04-22T20:49:38+00:00",
-        "relevance_score": 13
+        "title": "These are the countries moving to ban social media for children",
+        "link": "https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-23T21:33:51+00:00",
+        "relevance_score": 14
       },
       {
-        "title": "OpenAI now lets teams make custom bots that can do work on their own",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-04-22T20:09:02+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Anthropic tested removing Claude Code from the Pro plan",
-        "link": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+        "title": "In a first, a ransomware family is confirmed to be quantum-safe",
+        "link": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
         "source_name": "Ars Technica",
-        "published_at_utc": "2026-04-22T18:34:16+00:00",
+        "published_at_utc": "2026-04-23T20:41:23+00:00",
         "relevance_score": 13
       },
       {
-        "title": "Google turns Chrome into an AI co-worker for the workplace",
-        "link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-22T17:30:00+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
-        "link": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-22T16:58:27+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
-        "link": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
+        "title": "Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
         "source_name": "Wired",
-        "published_at_utc": "2026-04-22T16:00:00+00:00",
+        "published_at_utc": "2026-04-23T19:26:11+00:00",
         "relevance_score": 13
       },
       {
-        "title": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Entire Nations",
-        "link": "https://www.wired.com/story/new-gas-powered-data-centers-could-emit-more-greenhouse-gases-than-entire-nations/",
+        "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+        "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-23T18:29:29+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
+        "link": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
         "source_name": "Wired",
-        "published_at_utc": "2026-04-22T10:30:00+00:00",
+        "published_at_utc": "2026-04-23T18:24:37+00:00",
         "relevance_score": 13
       },
       {
-        "title": "Anthropic investigating claim of unauthorised access to Mythos AI tool",
-        "link": "https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Technology",
-        "published_at_utc": "2026-04-22T10:13:35+00:00",
+        "title": "Palantir Employees Are Starting to Wonder if They're the Bad Guys",
+        "link": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-04-23T16:01:51+00:00",
         "relevance_score": 13
       },
       {
-        "title": "AI needs a strong data fabric to deliver business value",
-        "link": "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
-        "source_name": "MIT Technology Review",
-        "published_at_utc": "2026-04-22T10:05:06+00:00",
+        "title": "Greenhouse gases from data center boom could outpace entire nations",
+        "link": "https://arstechnica.com/ai/2026/04/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-04-23T14:51:16+00:00",
         "relevance_score": 13
       }
     ],
     "politics": [
       {
-        "title": "Pakistan should clamp down on terror groups like LeT, JeM: U.S. lawmaker",
-        "link": "https://www.thehindu.com/news/international/pakistan-should-clamp-down-on-terror-groups-like-let-jem-us-lawmaker/article70895710.ece",
+        "title": "Revealed: UK oil refinery owner moved Russian loans to offshore subsidiary where sanctions did not apply",
+        "link": "https://www.theguardian.com/business/2026/apr/24/revealed-uk-oil-refinery-owner-moved-russian-loans-to-offshore-subsidiary-where-sanctions-did-not-apply",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-24T05:00:32+00:00",
+        "relevance_score": 22
+      },
+      {
+        "title": "‘Big shout-out’ to China’s environmental leadership from UN agency head",
+        "link": "https://www.scmp.com/news/china/science/article/3351265/big-shout-out-chinas-environmental-leadership-un-agency-head?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-24T06:07:11+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "US slaps sanctions on Cambodian senator suspected of controlling scam centres",
+        "link": "https://www.scmp.com/week-asia/politics/article/3351314/us-slaps-sanctions-cambodian-senator-suspected-controlling-scam-centres?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-24T09:19:28+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Middle East crisis live: Trump says Israel-Lebanon ceasefire extended by three weeks but claims he won’t rush Iran deal",
+        "link": "https://www.theguardian.com/world/live/2026/apr/24/iran-war-live-updates-trump-hormuz-strait-israel-lebanon-truce",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-24T09:10:21+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Trump says he will ‘probably put a big tariff on the UK’ if it doesn’t drop digital services tax",
+        "link": "https://www.theguardian.com/us-news/2026/apr/24/trump-tariff-uk-digital-services-tax-warning",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-24T08:33:10+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "‘Toxic’ views of Reform UK candidates raise questions about party’s vetting",
+        "link": "https://www.theguardian.com/politics/2026/apr/23/toxic-views-reform-uk-candidates-raise-questions-about-elections-vetting",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-24T08:30:29+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Trump kill order highlights threat of Iran’s small, fast-attack boats",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3351295/trump-kill-order-highlights-threat-irans-small-fast-attack-boats?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-24T08:12:27+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "EU formally approves Ukraine loan and 20th sanctions package against Russia",
+        "link": "https://www.thehindu.com/news/international/eu-formally-approves-ukraine-loan-and-20th-sanctions-package-against-russia/article70900691.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-23T05:05:15+00:00",
+        "published_at_utc": "2026-04-24T07:24:53+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
-        "link": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC World",
-        "published_at_utc": "2026-04-23T04:25:30+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Deaths of CIA agents in Mexico spark sovereignty row with White House",
-        "link": "https://www.scmp.com/news/world/americas/article/3351079/deaths-cia-agents-mexico-spark-sovereignty-row-white-house?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-04-23T03:33:12+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Pentagon announces US navy secretary is leaving ‘effective immediately’ and replaced with deputy – as it happened",
-        "link": "https://www.theguardian.com/us-news/live/2026/apr/22/virginia-congressional-map-vote-redistricting-donald-trump-republicans-democrats-us-latest-news-updates",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-23T02:01:14+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "How Iran responded to Trump’s claimed role in saving 8 women from execution",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3351138/how-iran-responded-trumps-claimed-role-saving-8-women-execution?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-04-23T08:28:41+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Iran behind low-level ‘hybrid warfare’ attacks in UK and Europe, analysts say",
-        "link": "https://www.theguardian.com/uk-news/2026/apr/23/iran-low-level-hybrid-warfare-arson-attacks-uk-europe",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-23T08:00:04+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Iran war: What’s happening on day 55 after Trump extended ceasefire?",
-        "link": "https://www.aljazeera.com/news/2026/4/23/iran-war-whats-happening-on-day-55-after-trump-extended-ceasefire?traffic_source=rss",
+        "title": "Iran war: What’s happening on day 56 after Trump extended ceasefire?",
+        "link": "https://www.aljazeera.com/news/2026/4/24/iran-war-whats-happening-on-day-56-after-trump-extended-ceasefire?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-23T07:34:46+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-04-24T06:11:36+00:00",
+        "relevance_score": 20
       },
       {
-        "title": "Lebanon to confront Israel over demolition of homes in occupied areas since ceasefire",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3351107/lebanon-confront-israel-over-demolition-homes-occupied-areas-ceasefire?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-04-23T06:21:56+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Leading California governor candidates spar in debate as topsy-turvy race heats up",
-        "link": "https://www.theguardian.com/us-news/2026/apr/23/leading-california-governor-candidates-spar-in-first-debate-as-topsy-turvy-race-heats-up",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-23T05:44:09+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Democrats up in Virginia, but US voters may pay price for redistricting war",
-        "link": "https://www.aljazeera.com/news/2026/4/23/democrats-up-in-virginia-but-us-voters-may-pay-price-for-redistricting-war?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-23T05:09:34+00:00",
-        "relevance_score": 18
+        "title": "Israel-Hezbollah ceasefire extended by 3 weeks, says Trump",
+        "link": "https://www.thehindu.com/news/international/israel-hezbollah-ceasefire-extended-by-3-weeks-says-trump/article70899310.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-24T04:48:23+00:00",
+        "relevance_score": 20
       }
     ],
     "economy": [
       {
-        "title": "Use of toxic Pfas in consumer goods must be urgently restricted, MPs say",
-        "link": "https://www.theguardian.com/environment/2026/apr/23/use-of-toxic-pfas-in-consumer-goods-must-be-urgently-restricted-mps-say",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-23T04:00:46+00:00",
+        "title": "US labor market stable despite war, but inflation pressures building up - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZTAzdVZQNjYtTHUwY3FDZU1VX3NXUlkzR1dmSXl3WTA4eWItTW4tZGpIT3lHanJ1VFJ4UEhRczJodmNuMEVKeVpPaF93SThhSXp6XzJrYWVUMERYdkE5dUxRSl9QUHNRS1pkQ2FCZC1Vb0RSUVpSM0RKMGM3ajF5ZUpEQzFxUU8tRXV5UEZkRlhyUFJPQ0g4dFJWWUtYRGs5SDhvQ2x1eHZiRDR0QlVJeEdGbURnQV9H?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-23T15:45:48+00:00",
         "relevance_score": 21
       },
       {
-        "title": "Germany halves 2026 growth forecast, raises inflation outlook amid Iran war - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRm9BZ0ZpT2c5anl6VWk0Rkg3N2VFN2pqTHM0ZGp0elZnSTFZUDJIempPZ2hmRmZ6cEhuNnp5V3dBdHhwN055WnNWTnJNTndZNk1GTk9mRzVuOFRTRVJuMjJMRDJLS0Nma2dhZExtTUd6ejkzbEVPbzJkRjQwOUk2ZVZzRzNEVkhzUm92eTBpQ2FxeDVtRjBsa3JCNmpQVUNid0tiZDdkendGc2UyTmdqNEl2dmdwei0tQUNpUE5n?oc=5",
+        "title": "AI deepens US tech divide as IBM, ServiceNow spark software selloff, TI lifts chipmakers - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2x4dW1pNXpqSldUQkR2MGNlaGQ4cDBIeFZ5MzVOU2hQV1BNSmppN2dvaVZTUnRmeWFyMGNsb0JXcWVSSHJnY2VIUDNndDFpcHZZdklmSzJ3bjlYRXl1SnpKYnViVDFnLUEwTS1FRTBiWWVxS29sWDNwSTZDbUpjdkVLRmFvdjdMWTVGRGZnQktKaGpidjd6azRUR1BoYXl2QlZQaGl3V1F6QkcyaURNVFFUOG1rdUNtWjB4OHRn?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-04-22T15:37:48+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Asian, emerging-market funds rotate into mainland China and Taiwan stocks: HSBC",
-        "link": "https://www.scmp.com/business/china-business/article/3350997/asian-emerging-market-funds-rotate-mainland-china-and-taiwan-stocks-hsbc?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-22T23:00:09+00:00",
+        "published_at_utc": "2026-04-23T14:05:12+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Kinder Morgan tops quarterly profit estimates amid rising natural gas demand - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOXM5SnluWThfWVlaOEgxRUpHbkZSRkdKQkRMSmdyeWo3X3dvOG5wcVRFWnQxRHpMWVV5WUQ2VFNlNFpnLWJwVHpWOV9Pem9nRHNJWHFTM2ZJeS15WUpIQmoycjlhbnExT0dFdTJrRWwzYmRsUjh0ZkkzRlNYampCZC1xZ2RMOEtJX1hxSDBIX01XaW5URjY2NlMzdEU0Zlp6amd0bXJTMjh6VTVtZ2hQQlZjb3NHS1ZlTTlhOA?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-22T22:57:56+00:00",
+        "title": "Asos demands £7m from US as firms rush to claim tariff refunds",
+        "link": "https://www.bbc.com/news/articles/cd0r9d5zrkno?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-04-23T10:05:49+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Roman Abramovich takes Jersey to European human rights court over criminal investigation",
-        "link": "https://www.theguardian.com/world/2026/apr/22/roman-abramovich-jersey-european-human-rights-court-chelsea-sale-proceeds",
+        "title": "Stocks close lower on fading hopes for quick Iran deal, mixed quarterly earnings - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc09RTW5BS211ZlFNcWU3bEN5YkZwUWdNcUd4NEhpeldpUEhOa2tpaFNuenNwSjR0azBNZ0xoS1hRNW12RTlnLW53SGJuRE5zTG0zOVhma3gwYXZfSFJZdl9tVjgta0N2VlQzU2FlZ1RFZE95czZmRUhrNzFMZ0hGRk4zVklOZE9DM28wMFhmSzV2bmZfZ3ZUamZWVE1kSVVBbTNr?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-23T23:23:56+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Stocks and shares Isas: are they right for me, and where is best to invest?",
+        "link": "https://www.theguardian.com/money/2026/apr/24/stocks-and-shares-isa-right-where-to-invest",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-22T16:52:57+00:00",
-        "relevance_score": 19
+        "published_at_utc": "2026-04-24T05:00:30+00:00",
+        "relevance_score": 17
       },
       {
-        "title": "What's in the EU's 20th package of sanctions against Russia - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN3plRGlfM1YyQ2dnVE5MNV9UeHJ1ZnBCbjV1cmVfOEhtUEZuankwMGJSZWZiaG9ZSUJILWJHeDdmX19mdGU1bEVsY3AxUmFGYjA1b3NPWklIWU03blpjVkV6b2I3cTUwYkN1VDJyUGZLQnk4b09wTWJnSEEyR0ZqZVJBQU9VVFQ3eVdRQVJ1WWpPVGxaTGZKdXQwX3N6TTJw?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-22T10:35:58+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "AI boom lifts Nokia sales, shares hit 16-year high after earnings beat - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVTJrUzA4SWRoS2U2T0RzY2E5U3JiX0JoNFBJa3ZxY3B4RzlwbkJJUHdPN0FiYkFfZXB4MWJ1T082eDdwSnN1YmhKdExudkx0UVZsSWZoSGlxZENzNTZBQ3BsSjJrQ1h1MDJ0bHViQm1WNDM5VTlXaVQ1aC1TNVJFVVlzRHRnWG5jSHdabXU2b1c1THVwdUFQY3dGZkZzZFVMUThteHFRZm9FQQ?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-23T05:08:00+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "S&P, Nasdaq close at records on Iran ceasefire extension, earnings - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTE1IRDNDTDNBUmcwZFVXOW40dldfSmc0YzU3WHZGb3pxZzJCY1RVWmotelJHa0g4SURfUHQwdFh3cTk5LTUwR283Z2NxWE5IdjVrUnNScERKaU56TkpnbkhaTk5ucGZCWHpDVVRmdUpGMjRDUjBHV3BSSGdDSFdrbzB4NVd3T0doSnhzajQwMWFYdjRRRVpxLU4tSm04R05WR0IzbUNTNA?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-22T23:26:50+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Tesla reports mixed financial results as Musk pivots automaker to AI and robots",
-        "link": "https://www.theguardian.com/technology/2026/apr/22/tesla-first-quarter-report-earnings",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-22T23:20:28+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Outlook for China stocks brightens on capital flows, rebounding home prices",
-        "link": "https://www.scmp.com/business/china-business/article/3350830/outlook-china-stocks-brightens-capital-flows-rebounding-home-prices?utm_source=rss_feed",
+        "title": "ChiNext, Shenzhen’s Nasdaq, emerges as investor darling as start-up indexes smash records",
+        "link": "https://www.scmp.com/business/china-business/article/3351146/chinext-shenzhens-nasdaq-emerges-investor-darling-start-indexes-smash-records?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-21T05:15:28+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-04-24T02:00:15+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "UK braces for price rises driven by Iran war as economic confidence plummets",
+        "link": "https://www.theguardian.com/business/2026/apr/23/uk-braces-for-price-rises-driven-by-iran-war-as-economic-confidence-plummets",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-23T16:05:48+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "ECB to raise rates in June on war-driven inflation but path beyond unclear - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVVHTVNlMUtnMjZBSU9tb1M4WE5JOGw2QmVReFVnZFhjcnFOdUkzYTA3TXpOcVZFMFh6UTc4Z25HdWxuN3NXdG95eDlQM3Q1MDlYcXdDWV9RREJUZzBtWHBwX081VWlhZm5kSEc5ckc1ZjFQM09TZVhJMTdZUXlzOVd5emljdEF0SUxiNGl2UmZZUEg0dVN5SHhzSU9KZ2dTcHJVNHE1S1hXQQ?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-23T11:35:29+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Russia says it's maintaining oil supplies but has no new OPEC+ initiatives - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNjFqRngxY3VlcU1VM1FUYkl2aWNJcDNLZmlBaW42MHVWdVdfRm9oTzlnZ1JDbmVmM3BXYVZQT01tR0dIZkVVcG91dmlzRklrbzg0Y0RqcVhzcEZzM05FZzctM0paLW1qUzlSbjRqZHFQOFBIaDZKSWhISlllUEdsTGhVaUxRRmZodDBtN29wUWM0SkMxdzRHS2tvTU5ub0lRNUwzVW1UYmRyTncwVGFjZUpiN3BVTk12bXU0Ug?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-23T11:23:06+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Trump ally visits China, DeepSeek releases V4, EV earnings",
+        "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3351305/trump-ally-visits-china-deepseek-releases-v4-ev-earnings?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-24T09:05:56+00:00",
+        "relevance_score": 16
       }
     ]
   },
@@ -550,5 +548,5 @@
     "failed": 0,
     "total": 9
   },
-  "theme_of_day": "今日新聞的整體敘事主軸圍繞著科技進步與國際政治經濟動態的交織影響。科技版面中，Google與X的AI應用更新顯示出企業在數位轉型中的積極探索，然而法國的數據洩漏事件則突顯出數據安全的脆弱性，這在全球政治不穩的背景下更顯重要。政治版面則集中於中國與柬埔寨的安全合作及歐盟對烏克蘭的經濟支持，這些行動反映出國際社會在面對地緣政治挑戰時的應對策略，並與經濟版面中伊朗戰爭對英國及中國經濟的影響形成呼應，顯示出全球經濟在政治變遷下的脆弱性與互動關係。"
+  "theme_of_day": "今日新聞的整體敘事主軸圍繞著國際安全、經濟合作及科技風險，顯示出全球政治與經濟互動的複雜性。美國特種部隊的內幕交易事件與委內瑞拉的政治緊張局勢相互呼應，顯示出安全問題對市場行為的影響；同時，中國與泰國在網路安全領域的合作，及歐盟對烏克蘭的支持，反映出在地緣政治背景下，經濟援助與安全策略的相互連結。此外，科技在金融建議中的應用風險也提醒我們，隨著市場依賴AI工具，必須謹慎評估其潛在影響。"
 }

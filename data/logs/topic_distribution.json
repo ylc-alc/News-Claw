@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-03-24",
-      "topics": {
-        "technology": [
-          "chips",
-          "cybersecurity",
-          "ai"
-        ],
-        "politics": [
-          "war_and_conflict",
-          "us_china_relations",
-          "uk_politics"
-        ],
-        "economy": [
-          "interest_rates",
-          "trade_wars",
-          "inflation"
-        ]
-      }
-    },
-    {
       "date": "2026-03-25",
       "topics": {
         "technology": [
@@ -679,13 +659,33 @@
           "trade_wars"
         ]
       }
+    },
+    {
+      "date": "2026-04-24",
+      "topics": {
+        "technology": [
+          "chips",
+          "cybersecurity",
+          "ai"
+        ],
+        "politics": [
+          "us_politics",
+          "diplomacy",
+          "war_and_conflict"
+        ],
+        "economy": [
+          "sanctions",
+          "trade_wars",
+          "markets"
+        ]
+      }
     }
   ],
   "rolling_frequency": {
     "technology": {
       "chips": 25,
-      "cybersecurity": 27,
       "ai": 32,
+      "cybersecurity": 27,
       "space_tech": 6,
       "platform_regulation": 2,
       "general": 5,
@@ -694,26 +694,26 @@
     },
     "politics": {
       "war_and_conflict": 29,
-      "us_china_relations": 13,
-      "uk_politics": 16,
+      "us_china_relations": 12,
+      "uk_politics": 15,
       "eu_policy": 8,
-      "us_politics": 18,
-      "diplomacy": 11,
+      "us_politics": 19,
+      "diplomacy": 12,
       "social_protests": 6,
       "democracy_autocracy": 1
     },
     "economy": {
-      "interest_rates": 21,
+      "interest_rates": 20,
+      "inflation": 23,
       "trade_wars": 19,
-      "inflation": 24,
       "supply_chain": 3,
       "energy_markets": 12,
       "general": 3,
-      "markets": 16,
-      "sanctions": 1,
+      "markets": 17,
+      "sanctions": 2,
       "corporate_earnings": 3
     }
   },
   "window_days": 30,
-  "last_updated": "2026-04-23"
+  "last_updated": "2026-04-24"
 }
