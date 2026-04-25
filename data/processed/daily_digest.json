@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-04-24T09:22:21.546170+00:00",
+  "generated_at_utc": "2026-04-25T08:41:17.227025+00:00",
   "summary": {
-    "total_raw_items": 1121,
-    "total_deduped_items": 1104,
+    "total_raw_items": 1099,
+    "total_deduped_items": 1083,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
         "chips",
-        "cybersecurity",
-        "ai"
+        "ai",
+        "space_tech"
       ],
       "politics": [
-        "us_politics",
         "diplomacy",
-        "war_and_conflict"
+        "war_and_conflict",
+        "eu_policy"
       ],
       "economy": [
         "sanctions",
-        "trade_wars",
+        "inflation",
         "markets"
       ]
     },
@@ -37,22 +37,23 @@
         "published_at_utc": "2026-04-23T23:15:21+00:00",
         "id": "69ea95f7158c24cbe00a4d01",
         "topic_type": "chips",
-        "relevance_score": 21,
+        "relevance_score": 19,
         "briefing": {
           "news_focus": "The master sergeant allegedly used classified intel to profit on the capture of Venezuelan president Nicolás Maduro, marking the first US arrest for insider trading on a prediction market.",
-          "news_focus_zh": "美國特種部隊的一名軍士因涉嫌利用機密情報在預測市場上對委內瑞拉總統馬杜羅的逮捕進行賭注而被捕，這是美國首次因內幕交易在預測市場上被逮捕的案例。",
-          "background": "預測市場是一種允許參與者對未來事件進行賭注的金融工具，近年來在科技與金融界逐漸受到關注。此次事件涉及的馬杜羅政權在國際上備受爭議，特別是美國與委內瑞拉之間的緊張關係。美國政府對馬杜羅的制裁政策已持續多年，並試圖通過各種手段推翻其政權，這使得相關情報的敏感性及其潛在的商業價值倍增。",
+          "news_focus_zh": "美國特種部隊一名士官因涉嫌利用機密情報在預測市場上對委內瑞拉總統馬杜羅的逮捕進行投注而被逮捕，這是美國首次因內幕交易在預測市場上被捕的案例。",
+          "background": "預測市場是一種利用集體智慧來預測事件結果的金融工具，近年來在科技與金融交匯的背景下逐漸受到關注。美國政府對於軍事人員的行為有嚴格的規範，尤其是涉及機密情報的使用。馬杜羅政權的政治不穩定性與美國的外交政策密切相關，這使得相關的軍事行動與情報活動成為焦點。",
           "stakeholders": [
             "美國政府",
-            "委內瑞拉政府",
-            "美國特種部隊",
+            "特種部隊",
             "預測市場參與者",
+            "委內瑞拉政府",
             "金融監管機構"
           ],
-          "analysis": "此事件揭示了軍事與金融界之間的潛在交集，並引發對內部信息使用的法律與倫理問題。美國政府可能會加強對軍事人員參與金融市場的監管，以防止類似事件再次發生。對於預測市場的參與者來說，這一事件可能會降低市場的可信度，並影響其未來的發展。此外，這也可能促使政策制定者重新審視與國際政治相關的金融活動的合法性與透明度。"
+          "analysis": "此次逮捕標誌著美國在預測市場的監管上邊界的重新界定，特別是在軍事與情報領域。過去，內幕交易主要集中於傳統金融市場，而此次事件突顯了預測市場可能成為新型內幕交易的舞台。這不僅引發對軍事人員行為的關注，也可能促使政府加強對預測市場的監管，並重新評估相關法律的適用範圍。各方可能會對此事件的法律後果與倫理問題展開激烈討論。"
         },
         "topic_priority_score": 10,
         "event_type": "commercial_update",
+        "is_major_update": true,
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -60,28 +61,28 @@
       },
       {
         "category": "technology",
-        "source_name": "Wired",
-        "title": "Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet",
-        "link": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
-        "summary": "Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 2005—and likely deployed by the US or an ally.",
-        "published": "Thu, 23 Apr 2026 22:00:00 +0000",
-        "updated": "Thu, 23 Apr 2026 22:00:00 +0000",
-        "published_at_utc": "2026-04-23T22:00:00+00:00",
-        "id": "69e7aad25b9f207033e7c6b1",
-        "topic_type": "cybersecurity",
-        "relevance_score": 19,
+        "source_name": "TechCrunch",
+        "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
+        "link": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
+        "summary": "Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him as an investor.",
+        "published": "Fri, 24 Apr 2026 23:32:11 +0000",
+        "updated": "Fri, 24 Apr 2026 23:32:11 +0000",
+        "published_at_utc": "2026-04-24T23:32:11+00:00",
+        "id": "https://techcrunch.com/?p=3116240",
+        "topic_type": "ai",
+        "relevance_score": 15,
         "briefing": {
-          "news_focus": "Researchers have finally cracked Fast16, mysterious code capable of silently tampering with calculation and simulation software. It was created in 2005—and likely deployed by the US or an ally.",
-          "news_focus_zh": "研究人員解碼了名為Fast16的惡意軟體，該軟體可能於2005年針對伊朗核計畫進行破壞，並且其存在時間早於知名的Stuxnet病毒。",
-          "background": "Fast16是一種能夠靜默干擾計算和模擬軟體的惡意程式，顯示出早期的網路戰爭技術。Stuxnet被認為是首個針對工業控制系統的網路武器，而Fast16的發現則揭示了在此之前，美國或其盟友已經在網路攻擊方面進行了實驗，特別是針對伊朗的核計畫。這一背景顯示出國際間對於核擴散的高度緊張與技術對抗的加劇。",
+          "news_focus": "Steve Ballmer wrote a fiery letter in the sentencing of disgraced founder Joseph Sanberg documenting all the harm that's befalling him as an investor.",
+          "news_focus_zh": "史蒂夫·巴爾默在對於其支持的創始人約瑟夫·桑伯格認罪於詐欺罪的判決中，發表了一封激烈的信件，表達自己作為投資者所遭受的損害，並表示感到被欺騙和愚蠢。",
+          "background": "約瑟夫·桑伯格曾是巴爾默支持的創業者，其公司在科技領域內具有一定影響力。然而，桑伯格的詐欺罪認罪揭示了創業界的風險與不確定性，尤其是在資金募集與企業治理方面。巴爾默作為前微軟CEO，對於創業投資的信心受到挑戰，這反映了科技投資環境的脆弱性。",
           "stakeholders": [
-            "美國政府",
-            "伊朗政府",
-            "網路安全專家",
-            "國際社會",
-            "盟國"
+            "Steve Ballmer",
+            "Joseph Sanberg",
+            "投資者",
+            "創業公司",
+            "科技行業監管機構"
           ],
-          "analysis": "Fast16的揭露可能會引發對於網路戰爭倫理的討論，尤其是針對主權國家的攻擊行為。美國及其盟友可能會認為這是保護國家安全的必要手段，而伊朗則可能視其為對其主權的侵犯，進一步激化雙方的緊張關係。此外，這也可能促使其他國家加強其網路防禦能力，進一步推動全球網路安全的競賽。"
+          "analysis": "巴爾默的公開信件不僅表達了他個人的失望，也可能影響他未來的投資策略，促使他更加謹慎地選擇合作夥伴。對於桑伯格而言，這一事件可能導致其未來的商業機會受限，並損害其名譽。此外，這也提醒其他投資者在選擇創業項目時需更加謹慎，可能會促使行業內對於透明度與誠信的重視。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
@@ -92,30 +93,30 @@
       },
       {
         "category": "technology",
-        "source_name": "Wired",
-        "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
-        "link": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
-        "summary": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
-        "published": "Fri, 24 Apr 2026 09:00:00 +0000",
-        "updated": "Fri, 24 Apr 2026 09:00:00 +0000",
-        "published_at_utc": "2026-04-24T09:00:00+00:00",
-        "id": "69e8f8a46cde8a1f43001897",
-        "topic_type": "ai",
-        "relevance_score": 17,
+        "source_name": "Ars Technica",
+        "title": "This is who's developing Golden Dome's orbital interceptors—if they're ever built",
+        "link": "https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/",
+        "summary": "\"If boost-phase intercept from space is not affordable and scalable, we will not produce it.\"",
+        "published": "Sat, 25 Apr 2026 02:52:37 +0000",
+        "updated": "Sat, 25 Apr 2026 02:52:37 +0000",
+        "published_at_utc": "2026-04-25T02:52:37+00:00",
+        "id": "https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/",
+        "topic_type": "space_tech",
+        "relevance_score": 14,
         "briefing": {
-          "news_focus": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
-          "news_focus_zh": "隨著人們越來越依賴AI聊天機器人提供財務建議，專家提醒使用者應保持懷疑態度，並思考使用這些工具的潛在風險。",
-          "background": "近年來，AI技術的迅速發展使得聊天機器人成為許多領域的輔助工具，尤其是在財務諮詢方面。隨著使用者對於即時資訊的需求增加，許多金融機構與科技公司開始整合AI聊天機器人，以提供更高效的服務。然而，這也引發了對於AI建議準確性與可靠性的質疑，特別是在涉及財務決策的敏感性上。",
+          "news_focus": "\"If boost-phase intercept from space is not affordable and scalable, we will not produce it.\"",
+          "news_focus_zh": "報導指出，Golden Dome計畫的軌道攔截器正在開發中，但其可負擔性和可擴展性仍然是關鍵問題，若無法解決，則不會進行生產。",
+          "background": "Golden Dome計畫旨在提升國防能力，特別是在導彈防禦領域。隨著全球導彈威脅的增加，各國對於高效能攔截技術的需求日益迫切。此計畫的發展涉及多個國防承包商及科技公司，並受到政府預算及技術成熟度的影響。過去幾年，類似的防禦系統在技術上已取得進展，但成本與實際應用的可行性仍然是主要挑戰。",
           "stakeholders": [
-            "使用者",
-            "金融機構",
+            "政府",
+            "國防承包商",
             "科技公司",
-            "監管機構",
-            "財務顧問"
+            "軍事專家",
+            "納稅人"
           ],
-          "analysis": "使用AI聊天機器人進行財務諮詢的風險主要來自於其建議的準確性與個人化程度。金融專業人士可能擔心，依賴這些工具可能導致錯誤的決策，特別是在市場波動或複雜的財務情況下。另一方面，科技公司則可能推動這一趨勢以擴大市場份額，儘管面臨法律責任與信任危機的挑戰。未來，如何平衡技術創新與使用者保護將成為關鍵議題。"
+          "analysis": "各方在Golden Dome計畫中的利益關係複雜。政府希望提升國防能力以應對潛在威脅，但若成本過高，可能會影響預算分配。承包商則希望透過此計畫獲得更多合約，但也面臨技術挑戰。若無法證明其可負擔性，則可能導致計畫延遲或取消，影響相關產業的發展。此計畫的成功與否將直接影響國防政策與市場競爭格局。"
         },
-        "topic_priority_score": 9,
+        "topic_priority_score": 4,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -126,60 +127,28 @@
     "politics": [
       {
         "category": "politics",
-        "source_name": "SCMP World",
-        "title": "In lead-up to Trump’s Beijing visit, China announces 2 pandas are headed to US zoo",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3351294/lead-trumps-beijing-visit-china-announces-2-pandas-are-headed-us-zoo?utm_source=rss_feed",
-        "summary": "Just weeks before US President Donald Trump’s planned visit to Beijing next month, China is sending two giant pandas to Atlanta in what observers describe as a “goodwill gesture” amid persistent tensions that range from trade to broader security issues. The China Wildlife Conservation Association said on Friday that male panda Ping Ping and female Fu Shuang would travel to the US under a 10-year conservation agreement signed with Zoo Atlanta last year. Chinese state media, including the Global...",
-        "published": "Fri, 24 Apr 2026 08:12:48 +0000",
-        "updated": "Fri, 24 Apr 2026 08:12:48 +0000",
-        "published_at_utc": "2026-04-24T08:12:48+00:00",
-        "id": "https://www.scmp.com/news/china/diplomacy/article/3351294/lead-trumps-beijing-visit-china-announces-2-pandas-are-headed-us-zoo?utm_source=rss_feed",
-        "topic_type": "us_politics",
-        "relevance_score": 22,
-        "briefing": {
-          "news_focus": "Just weeks before US President Donald Trump’s planned visit to Beijing next month, China is sending two giant pandas to Atlanta in what observers describe as a “goodwill gesture” amid persistent tensions that range from trade to broader security issues. The China Wildlife Conservation Association said on Friday that male panda Ping Ping and female Fu Shuang would travel to the US under a 10-year conservation agreement signed with Zoo Atlanta last year. Chinese state media, including the Global...",
-          "news_focus_zh": "中國在美國總統特朗普計劃下月訪問北京前，宣布將兩隻大熊貓送往亞特蘭大動物園，這被視為在貿易及安全問題持續緊張的背景下的一項善意舉措。",
-          "background": "中美之間的貿易緊張局勢持續升溫，雙方在多個領域的摩擦加劇。大熊貓作為中國的國寶，歷來被用作外交工具，以促進與其他國家的友好關係。此次大熊貓的移交是基於去年簽署的為期十年的保護協議，顯示出中國在外交上仍希望維持某種程度的合作與交流。",
-          "stakeholders": [
-            "中國政府",
-            "美國政府",
-            "亞特蘭大動物園",
-            "中國野生動物保護協會",
-            "國際觀察者"
-          ],
-          "analysis": "此次大熊貓的移交可被視為中國對特朗普即將訪華的善意回應，旨在緩和雙方的緊張關係。然而，這一舉措也可能被解讀為中國試圖利用文化外交來改善國際形象，並在貿易談判中增強其談判籌碼。美方可能會對此持觀望態度，既希望借此改善雙邊關係，又不願在貿易問題上讓步。長期而言，這可能影響中美之間的外交策略與互動模式。"
-        },
-        "topic_priority_score": 8,
-        "event_type": "security_event",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "Chinese foreign minister and Thai prime minister agree to collaborate on fighting cyberscams",
-        "link": "https://www.thehindu.com/news/international/chinese-foreign-minister-and-thai-prime-minister-agree-to-collaborate-on-fighting-cyberscams/article70900912.ece",
-        "summary": "China is Thailand’s biggest trading partner, and the two countries celebrated their 50th anniversary of establishing diplomatic relations last year",
-        "published": "Fri, 24 Apr 2026 14:01:41 +0530",
-        "updated": "Fri, 24 Apr 2026 14:01:41 +0530",
-        "published_at_utc": "2026-04-24T08:31:41+00:00",
-        "id": "article-70900912",
+        "source_name": "The Guardian World",
+        "title": "Middle East crisis live: Witkoff and Kushner head to Pakistan for talks; Israel strikes Lebanon despite ceasefire",
+        "link": "https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations",
+        "summary": "Iranian foreign minister has landed in Islamabad but his ministry says there will be no direct negotiations with the US envoy Iran said it has hanged what it described as an agent working for Israel who was accused of vandalism and violence during nationwide protests in January , according to the country’s semi-official Tasnim news agency. An Iranian man identified as Irfan Kayani, was accused of “creating terror” and hanged today after the supreme court confirmed the verdict, Tasnim reported. Continue reading...",
+        "published": "Sat, 25 Apr 2026 08:14:13 GMT",
+        "updated": "2026-04-25T08:14:13Z",
+        "published_at_utc": "2026-04-25T08:14:13+00:00",
+        "id": "https://www.theguardian.com/world/live/2026/apr/25/middle-east-crisis-live-witkoff-and-kushner-head-to-pakistan-for-iran-negotiations",
         "topic_type": "diplomacy",
-        "relevance_score": 21,
+        "relevance_score": 23,
         "briefing": {
-          "news_focus": "China is Thailand’s biggest trading partner, and the two countries celebrated their 50th anniversary of establishing diplomatic relations last year",
-          "news_focus_zh": "中國外長與泰國總理達成共識，合作打擊網路詐騙，顯示兩國在經貿關係上的密切合作與安全議題的重視。",
-          "background": "中國與泰國的貿易關係日益緊密，泰國是中國在東南亞的重要貿易夥伴。兩國於去年慶祝建交50周年，這一合作協議反映了雙方在經濟與安全領域的共同利益。網路詐騙問題在全球範圍內日益嚴重，特別是在數位經濟快速發展的背景下，兩國政府希望透過合作來增強網路安全，保護雙方的經濟利益。",
+          "news_focus": "Iranian foreign minister has landed in Islamabad but his ministry says there will be no direct negotiations with the US envoy Iran said it has hanged what it described as an agent working for Israel who was accused of vandalism and violence during nationwide protests in January , according to the country’s semi-official Tasnim news agency. An Iranian man identified as Irfan Kayani, was accused of “creating terror” and hanged today after the supreme court confirmed the verdict, Tasnim reported. Continue reading...",
+          "news_focus_zh": "伊朗外長抵達伊斯蘭堡，強調不會與美國特使進行直接談判。同時，伊朗處決一名被指控為以色列間諜的男子，這一事件發生在以色列對黎巴嫩的空襲之後，儘管雙方已達成停火協議。",
+          "background": "中東地區的緊張局勢持續升高，尤其是在以色列與哈馬斯及黎巴嫩真主黨之間的衝突中。伊朗作為哈馬斯的主要支持者，對以色列的行動持批評態度。此次伊朗外長訪問巴基斯坦，可能是為了加強與地區盟友的合作，並尋求對抗美國及其盟友的策略。此外，伊朗的內部政治也受到國際局勢的影響，處決被指控為以色列間諜的事件反映出其對內部穩定的重視。",
           "stakeholders": [
-            "中國政府",
-            "泰國政府",
-            "網路安全企業",
-            "國際貿易組織",
-            "消費者保護團體"
+            "伊朗政府",
+            "以色列政府",
+            "美國政府",
+            "巴基斯坦政府",
+            "黎巴嫩真主黨"
           ],
-          "analysis": "中國與泰國的合作將有助於提升雙方在網路安全領域的能力，並可能促進其他國家在類似問題上的合作。然而，這也可能引發對於中國在東南亞影響力擴張的擔憂，特別是在一些國家對中國的網路監控與數據安全政策持保留態度。泰國政府則可能希望藉此提升其在國際社會中的形象，強調其在打擊犯罪方面的努力。"
+          "analysis": "此次事件中，伊朗與美國之間的緊張關係再次凸顯。伊朗拒絕與美國特使進行直接談判，顯示出其對美國政策的不信任。另一方面，以色列對黎巴嫩的空襲行動，儘管在停火協議下進行，可能會引發更大範圍的衝突，並使地區局勢更加複雜。各方利益交織，伊朗希望通過強硬立場來鞏固內部支持，而以色列則試圖維持其安全利益，這可能導致未來更多的軍事行動。"
         },
         "topic_priority_score": 7,
         "event_type": "diplomatic_move",
@@ -190,32 +159,63 @@
       },
       {
         "category": "politics",
-        "source_name": "Al Jazeera",
-        "title": "EU formally approves 90bn euro Ukraine loan and new sanctions on Russia",
-        "link": "https://www.aljazeera.com/news/2026/4/23/eu-formally-approves-90bn-euro-ukraine-loan-and-new-sanctions-on-russia?traffic_source=rss",
-        "summary": "Ukrainian President Zelenskyy welcomes the development, urging that the first tranche be disbursed by May or June.",
-        "published": "Thu, 23 Apr 2026 21:03:10 +0000",
-        "updated": "Thu, 23 Apr 2026 21:03:10 +0000",
-        "published_at_utc": "2026-04-23T21:03:10+00:00",
-        "id": "https://www.aljazeera.com/?t=1776965075",
+        "source_name": "The Hindu International",
+        "title": "Romania says drone fragments damage property during overnight Russian attack on Ukraine",
+        "link": "https://www.thehindu.com/news/international/romania-says-drone-fragments-damage-property-during-overnight-russian-attack-on-ukraine/article70904581.ece",
+        "summary": "The Defence Ministry firmly condemns the irresponsible actions of the Russian Federation and emphasises that these represent ​a new challenge ‌to regional security and stability in the Black Sea area",
+        "published": "Sat, 25 Apr 2026 13:23:34 +0530",
+        "updated": "Sat, 25 Apr 2026 13:23:34 +0530",
+        "published_at_utc": "2026-04-25T07:53:34+00:00",
+        "id": "article-70904581",
         "topic_type": "war_and_conflict",
         "relevance_score": 20,
         "briefing": {
-          "news_focus": "Ukrainian President Zelenskyy welcomes the development, urging that the first tranche be disbursed by May or June.",
-          "news_focus_zh": "歐盟正式批准對烏克蘭提供900億歐元的貸款，並對俄羅斯實施新制裁。烏克蘭總統澤倫斯基對此表示歡迎，並要求在5月或6月前發放第一筆款項。",
-          "background": "自俄烏衝突以來，歐盟對烏克蘭的支持持續增強，特別是在經濟與軍事援助方面。此次900億歐元的貸款是歐盟對烏克蘭重建計劃的重要組成部分，旨在幫助其應對戰爭帶來的經濟挑戰。同時，歐盟對俄羅斯的制裁也在不斷加碼，以削弱其經濟基礎，並對其軍事行動施加壓力。",
+          "news_focus": "The Defence Ministry firmly condemns the irresponsible actions of the Russian Federation and emphasises that these represent ​a new challenge ‌to regional security and stability in the Black Sea area",
+          "news_focus_zh": "羅馬尼亞國防部譴責俄羅斯在烏克蘭的攻擊行動，指出其造成的無人機碎片損壞了財產，並強調這對黑海地區的安全與穩定構成新挑戰。",
+          "background": "自俄烏衝突爆發以來，黑海地區的安全局勢持續緊張。羅馬尼亞作為北約成員國，對俄羅斯的軍事行動持高度警覺。近期的攻擊事件不僅影響了烏克蘭，也對周邊國家的安全環境造成威脅，尤其是在無人機技術日益普及的背景下，相關的國際法與地區安全協議面臨挑戰。",
           "stakeholders": [
-            "歐盟",
+            "羅馬尼亞政府",
+            "俄羅斯聯邦",
             "烏克蘭政府",
-            "俄羅斯政府",
-            "國際金融機構",
-            "烏克蘭民眾"
+            "北約",
+            "國際社會"
           ],
-          "analysis": "此次批准的900億歐元貸款顯示出歐盟對烏克蘭的支持力度進一步加強，尤其是在戰後重建的背景下，這筆資金將對烏克蘭經濟復甦至關重要。此外，新制裁的實施反映出歐盟對俄羅斯行為的持續不滿，可能會加劇俄方的經濟困境。與之前的援助相比，此次貸款的規模和時間框架更具體，顯示出歐盟在應對烏克蘭危機上的決心與行動力。"
+          "analysis": "羅馬尼亞的譴責反映了其對俄羅斯行為的強烈反對，並可能促使北約加強在黑海的軍事部署。另一方面，俄羅斯可能會視此為西方國家對其行為的干涉，進一步加劇地區緊張局勢。烏克蘭則可能利用此事件向國際社會尋求更多支持，強調其面臨的安全威脅，進一步影響國際援助的分配與政策決策。"
         },
         "topic_priority_score": 11,
-        "event_type": "diplomatic_move",
-        "is_major_update": true,
+        "event_type": "security_event",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "politics",
+        "source_name": "The Guardian World",
+        "title": "Cory Bernardi repays more than $40,000 for flying on Gina Rinehart’s plane during SA election campaign",
+        "link": "https://www.theguardian.com/australia-news/2026/apr/25/cory-bernardi-repays-more-than-40000-for-flying-on-gina-rineharts-plane-during-sa-election-campaign",
+        "summary": "Former Liberal party senator, who was elected to state upper house in March, says flights ‘worth every cent’ Get our breaking news email , free app or daily news podcast One Nation’s South Australian leader has paid back Australia’s richest person for private flights he took while campaigning in the state’s recent election. Cory Bernardi confirmed on Saturday that he had reimbursed a “substantial” sum of money to Gina Rinehart’s company S Kidman & Co, to comply with new state laws that prohibit political parties and candidates from receiving electoral donations or gifts from individuals, businesses or unions. Continue reading...",
+        "published": "Sat, 25 Apr 2026 07:01:43 GMT",
+        "updated": "2026-04-25T07:01:43Z",
+        "published_at_utc": "2026-04-25T07:01:43+00:00",
+        "id": "https://www.theguardian.com/australia-news/2026/apr/25/cory-bernardi-repays-more-than-40000-for-flying-on-gina-rineharts-plane-during-sa-election-campaign",
+        "topic_type": "eu_policy",
+        "relevance_score": 20,
+        "briefing": {
+          "news_focus": "Former Liberal party senator, who was elected to state upper house in March, says flights ‘worth every cent’ Get our breaking news email , free app or daily news podcast One Nation’s South Australian leader has paid back Australia’s richest person for private flights he took while campaigning in the state’s recent election. Cory Bernardi confirmed on Saturday that he had reimbursed a “substantial” sum of money to Gina Rinehart’s company S Kidman & Co, to comply with new state laws that prohibit political parties and candidates from receiving electoral donations or gifts from individuals, businesses or unions. Continue reading...",
+          "news_focus_zh": "前自由黨參議員Cory Bernardi在南澳選舉期間，因搭乘澳洲首富Gina Rinehart的私人飛機而支付超過4萬澳元的費用，以遵守新頒布的州法律，該法律禁止政黨及候選人接受來自個人、企業或工會的選舉捐款或禮物。",
+          "background": "南澳大利亞州近期頒布了新法律，旨在提高政治透明度，限制候選人和政黨接受來自特定來源的捐款。這一法律背景下，Cory Bernardi的行為引發了關注，因為他在選舉期間搭乘了Gina Rinehart的私人飛機，這在過去可能被視為常見的政治資助方式。Rinehart是澳洲最富有的人之一，其商業利益遍及多個行業，這使得她的影響力在政治圈內尤為顯著。",
+          "stakeholders": [
+            "Cory Bernardi",
+            "Gina Rinehart",
+            "南澳大利亞州政府",
+            "選民",
+            "自由黨"
+          ],
+          "analysis": "Bernardi的還款行為反映了新法律對政治活動的影響，顯示出政客在選舉期間對資金來源的敏感性。對於Bernardi而言，這筆還款不僅是遵守法律的必要之舉，也可能影響其在選民中的形象。另一方面，Rinehart作為商業巨頭，其對政治的影響力仍然存在，未來可能會影響其他候選人的資金策略。這一事件也可能促使其他州檢討類似的法律，以進一步加強政治透明度。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "election_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -225,66 +225,31 @@
     "economy": [
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Revealed: UK oil refinery owner moved Russian loans to offshore subsidiary where sanctions did not apply",
-        "link": "https://www.theguardian.com/business/2026/apr/24/revealed-uk-oil-refinery-owner-moved-russian-loans-to-offshore-subsidiary-where-sanctions-did-not-apply",
-        "summary": "MPs call for investigation into Essar Energy, owner of Stanlow refinery, which shifted loans from ‘Putin’s piggy bank’ VTB to Mauritius Days after the first wave of Russian tanks surged over the border into Ukraine in March 2022, dockers at a port in northern England took a stand. Appalled by Vladimir Putin’s brutality, workers at Ellesmere Port in Cheshire vowed never to unload any Russian oil destined for the nearby Stanlow refinery, a major hub for UK fuel supplies. Continue reading...",
-        "published": "Fri, 24 Apr 2026 05:00:32 GMT",
-        "updated": "2026-04-24T05:00:32Z",
-        "published_at_utc": "2026-04-24T05:00:32+00:00",
-        "id": "https://www.theguardian.com/business/2026/apr/24/revealed-uk-oil-refinery-owner-moved-russian-loans-to-offshore-subsidiary-where-sanctions-did-not-apply",
+        "source_name": "Reuters",
+        "title": "US imposes sanctions on Chinese 'teapot' refinery for buying Iranian oil - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNek5hSnM4QjlRSWpSdFcySk5iQ21HM1lVVVdpTEV6dkwwenNIOExENnBrTFhGNHJVT0NyR3hmMEQyMTkyWTF0RHhRdnhqRUxDOEtOdGtoVE1aTE02eWtZMFRpQnduVG5nc0RCMmZXRUhOd3Uxbk15bGVNeVZnOVY5eWNZUWFMMElWUG94Zm1PenByTGd1SlE3QTI3WWVQOFh1ZHo4ZzRoOWtTUUhQNjBPLVk3ZkRHZw?oc=5",
+        "summary": "US imposes sanctions on Chinese 'teapot' refinery for buying Iranian oil Reuters",
+        "published": "Fri, 24 Apr 2026 18:34:00 GMT",
+        "updated": "Fri, 24 Apr 2026 18:34:00 GMT",
+        "published_at_utc": "2026-04-24T18:34:00+00:00",
+        "id": "CBMitgFBVV95cUxNek5hSnM4QjlRSWpSdFcySk5iQ21HM1lVVVdpTEV6dkwwenNIOExENnBrTFhGNHJVT0NyR3hmMEQyMTkyWTF0RHhRdnhqRUxDOEtOdGtoVE1aTE02eWtZMFRpQnduVG5nc0RCMmZXRUhOd3Uxbk15bGVNeVZnOVY5eWNZUWFMMElWUG94Zm1PenByTGd1SlE3QTI3WWVQOFh1ZHo4ZzRoOWtTUUhQNjBPLVk3ZkRHZw",
         "topic_type": "sanctions",
-        "relevance_score": 25,
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "MPs call for investigation into Essar Energy, owner of Stanlow refinery, which shifted loans from ‘Putin’s piggy bank’ VTB to Mauritius Days after the first wave of Russian tanks surged over the border into Ukraine in March 2022, dockers at a port in northern England took a stand. Appalled by Vladimir Putin’s brutality, workers at Ellesmere Port in Cheshire vowed never to unload any Russian oil destined for the nearby Stanlow refinery, a major hub for UK fuel supplies. Continue reading...",
-          "news_focus_zh": "英國石油煉油廠擁有者Essar Energy被指控將來自俄羅斯VTB銀行的貸款轉移至不受制裁影響的毛里求斯子公司，英國國會議員呼籲對此展開調查。",
-          "background": "隨著俄烏衝突的爆發，許多國家對俄羅斯實施了嚴格的經濟制裁，特別是針對能源行業。Essar Energy擁有的Stanlow煉油廠是英國重要的燃料供應中心，該公司在面對制裁壓力時，選擇將資金流轉至海外，以繞過制裁措施，這引發了公眾和政治界的強烈反應。",
+          "news_focus": "US imposes sanctions on Chinese 'teapot' refinery for buying Iranian oil Reuters",
+          "news_focus_zh": "美國對一家中國的「茶壺」煉油廠施加制裁，原因是該廠購買了伊朗的石油，這一舉措反映了美國對於伊朗石油貿易的強硬立場。",
+          "background": "美國自2018年以來重新對伊朗實施制裁，旨在限制其石油出口以削弱其經濟。中國作為伊朗主要的石油買家之一，與美國的政策相悖。茶壺煉油廠是指中國小型私營煉油廠，通常靈活應對市場需求，這些廠商的活動對於中國的能源安全和供應鏈至關重要。",
           "stakeholders": [
-            "Essar Energy",
-            "英國政府",
-            "VTB銀行",
-            "英國國會",
-            "公眾"
+            "美國政府",
+            "中國茶壺煉油廠",
+            "伊朗政府",
+            "中國政府",
+            "國際石油市場"
           ],
-          "analysis": "此事件突顯了企業在制裁環境中的資金運作策略，Essar Energy的行為可能會引發更廣泛的法律和道德爭議。英國政府和公眾對於企業是否應該遵循道德標準以及制裁的有效性存在不同看法。若調查證實其違法，可能會導致更嚴厲的監管措施，影響該公司的經營模式及未來的投資決策。"
+          "analysis": "美國的制裁對中國的茶壺煉油廠造成直接經濟影響，可能迫使其重新考慮與伊朗的貿易關係。中國政府可能會面臨兩難，一方面希望維持與伊朗的能源合作，另一方面又需考慮與美國的經濟關係。這一事件可能促使中國加強與其他產油國的合作，並加速尋求替代能源來源。"
         },
         "topic_priority_score": 8,
         "event_type": "energy_supply_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1,
-        "cross_section_refs": [
-          "politics"
-        ]
-      },
-      {
-        "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Reform UK asks steel bosses to draft ‘alternative strategy’ for industry",
-        "link": "https://www.theguardian.com/business/2026/apr/24/reform-uk-steel-policy-manufacturing-labour",
-        "summary": "Industry sceptical as Nigel Farage’s party goes on charm offensive to help win over former Labour heartlands Reform UK has asked steel bosses to draw up an “alternative steel strategy” to rival recent government plans, stoking industry fears over a charm offensive by Nigel Farage’s party as it eyes gains in former Labour heartlands. Richard Tice, Reform’s deputy leader, met a group of bosses shortly before Labour announced new steel tariffs in March and commissioned them to draft a competing plan that will include scrapping net zero policies. Continue reading...",
-        "published": "Fri, 24 Apr 2026 07:00:33 GMT",
-        "updated": "2026-04-24T07:00:33Z",
-        "published_at_utc": "2026-04-24T07:00:33+00:00",
-        "id": "https://www.theguardian.com/business/2026/apr/24/reform-uk-steel-policy-manufacturing-labour",
-        "topic_type": "trade_wars",
-        "relevance_score": 23,
-        "briefing": {
-          "news_focus": "Industry sceptical as Nigel Farage’s party goes on charm offensive to help win over former Labour heartlands Reform UK has asked steel bosses to draw up an “alternative steel strategy” to rival recent government plans, stoking industry fears over a charm offensive by Nigel Farage’s party as it eyes gains in former Labour heartlands. Richard Tice, Reform’s deputy leader, met a group of bosses shortly before Labour announced new steel tariffs in March and commissioned them to draft a competing plan that will include scrapping net zero policies. Continue reading...",
-          "news_focus_zh": "英國改革黨要求鋼鐵業高層制定一項替代鋼鐵策略，以對抗政府近期的計劃，並引發業界對該黨魅力攻勢的疑慮，尤其是在前工黨票倉地區。該黨副領袖理查德·泰斯在工黨宣布新鋼鐵關稅前與業界領袖會面，並要求他們提出包括取消淨零政策的計劃。",
-          "background": "英國鋼鐵產業面臨多重挑戰，包括全球市場競爭、環保政策壓力及政府的貿易政策。近期，工黨提出的新鋼鐵關稅政策旨在保護本土產業，但也引發了業界的擔憂。改革黨的介入，特別是在前工黨票倉地區，顯示出其試圖重新塑造政治格局，並吸引對工黨政策不滿的選民。",
-          "stakeholders": [
-            "改革黨",
-            "工黨",
-            "鋼鐵業高層",
-            "環保團體",
-            "工會"
-          ],
-          "analysis": "改革黨的策略可能會引發鋼鐵業內部的分歧，部分企業可能會支持其提案以減少環保負擔，而另一些則可能擔心這會影響長期的可持續發展。工黨則可能加強其政策以維持選民支持，特別是在工業重鎮。這一動態可能會導致鋼鐵行業的政策辯論加劇，並影響未來的投資決策及產業發展方向。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "macro_signal",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -292,31 +257,63 @@
       },
       {
         "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "Baijiu bet: China’s top fund manager doubles down on consumers amid signs of recovery",
-        "link": "https://www.scmp.com/business/china-business/article/3351290/baijiu-bet-chinas-top-fund-manager-doubles-down-consumers-amid-signs-recovery?utm_source=rss_feed",
-        "summary": "China’s largest fund manager has doubled down on consumer stocks, betting on a rebound in spending as early signs of stabilisation emerge in the property and catering sectors. Zhang Kun, who oversees US$6.9 billion at Guangzhou-based E Fund Management, increased exposure to leading baijiu makers and e-commerce platforms in his flagship mutual fund during the first quarter, according to a quarterly filing released on Thursday. The combined assets of the four funds he manages remain the largest...",
-        "published": "Fri, 24 Apr 2026 08:00:46 +0000",
-        "updated": "Fri, 24 Apr 2026 08:00:46 +0000",
-        "published_at_utc": "2026-04-24T08:00:46+00:00",
-        "id": "https://www.scmp.com/business/china-business/article/3351290/baijiu-bet-chinas-top-fund-manager-doubles-down-consumers-amid-signs-recovery?utm_source=rss_feed",
-        "topic_type": "markets",
+        "source_name": "Reuters",
+        "title": "US consumer sentiment slumps to record low in April; inflation expectations rise - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaVRoN1VGQ2Y5SDlHTUUxTnBtR3VVY0loMlJZQVh5ck15N2x5LWxVNkstWkw5eGNFTjJlOGZmUDZaSnAzb1dxanZDWW9XVDdTWnhiczNzTjBqNFhCbm13OGl5M2JYYl9md1Z4VUhjbXVsNnBoUTNQb0R0dVNqYkcwazJaNVBXMi1DU08ycy1qSkt3RlQ4a1lYR2RYczBOdw?oc=5",
+        "summary": "US consumer sentiment slumps to record low in April; inflation expectations rise Reuters",
+        "published": "Fri, 24 Apr 2026 14:24:00 GMT",
+        "updated": "Fri, 24 Apr 2026 14:24:00 GMT",
+        "published_at_utc": "2026-04-24T14:24:00+00:00",
+        "id": "CBMingFBVV95cUxQaVRoN1VGQ2Y5SDlHTUUxTnBtR3VVY0loMlJZQVh5ck15N2x5LWxVNkstWkw5eGNFTjJlOGZmUDZaSnAzb1dxanZDWW9XVDdTWnhiczNzTjBqNFhCbm13OGl5M2JYYl9md1Z4VUhjbXVsNnBoUTNQb0R0dVNqYkcwazJaNVBXMi1DU08ycy1qSkt3RlQ4a1lYR2RYczBOdw",
+        "topic_type": "inflation",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "China’s largest fund manager has doubled down on consumer stocks, betting on a rebound in spending as early signs of stabilisation emerge in the property and catering sectors. Zhang Kun, who oversees US$6.9 billion at Guangzhou-based E Fund Management, increased exposure to leading baijiu makers and e-commerce platforms in his flagship mutual fund during the first quarter, according to a quarterly filing released on Thursday. The combined assets of the four funds he manages remain the largest...",
-          "news_focus_zh": "中國最大的基金經理張坤在其主要共同基金中加大對消費類股的投資，特別是白酒製造商和電子商務平台，顯示出對消費復甦的信心，尤其是在房地產和餐飲行業出現穩定跡象的背景下。",
-          "background": "中國經濟在疫情後面臨復甦挑戰，消費市場的回暖對整體經濟至關重要。房地產和餐飲行業的穩定被視為消費者信心回升的指標。白酒作為中國文化的重要組成部分，長期以來在消費市場中佔有重要地位，而電子商務則是現代消費的主要渠道。這些因素共同促使基金經理重新評估投資策略，增加對這些領域的資金配置。",
+          "news_focus": "US consumer sentiment slumps to record low in April; inflation expectations rise Reuters",
+          "news_focus_zh": "美國消費者信心在四月降至歷史低點，同時通脹預期上升，顯示經濟前景的不確定性加劇。",
+          "background": "美國經濟在疫情後逐漸復甦，但面臨高通脹和利率上升的挑戰。消費者信心指數通常反映家庭對經濟狀況的看法，低迷的信心可能導致消費支出減少，進一步影響經濟增長。隨著美聯儲持續加息以對抗通脹，民眾對未來經濟的擔憂加劇，進而影響其消費行為。",
           "stakeholders": [
-            "張坤",
-            "白酒製造商",
-            "電子商務平台",
-            "消費者",
-            "投資者"
+            "美國消費者",
+            "美聯儲",
+            "零售商",
+            "經濟學家",
+            "政策制定者"
           ],
-          "analysis": "張坤的投資決策反映了對中國消費市場復甦的樂觀預期，這對於白酒製造商和電子商務平台來說是利好消息，可能促使這些企業的股價上升。然而，市場仍面臨不確定性，例如全球經濟環境變化及內部政策調整，可能影響消費者支出。不同利益方的反應可能各異，消費者和企業可能會因為市場信心的提升而受益，但投資者則需謹慎觀察潛在的風險。"
+          "analysis": "消費者信心的下降可能對零售商和服務業造成直接影響，這些行業依賴穩定的消費支出。對於政策制定者而言，這一趨勢可能迫使美聯儲重新考慮其加息策略，以避免經濟過度放緩。另一方面，通脹預期的上升可能使消費者提前購買，短期內可能刺激需求，但長期來看，若信心持續低迷，將對經濟復甦構成挑戰。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "inflation_data",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "economy",
+        "source_name": "Reuters",
+        "title": "LatAm stocks, FX post weekly declines as Mideast talks stall; Peru faces election probe - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLWVZeUs5Y1RrSGw3TkZSb2xydFd0MGtMTk5neVdib0RzcGRjazhnYWc5VFZTNmVMMUhQX1lKSkFmR1d6bXRDc2x2MDV5bktCVmxJTUhLMFRnZjVyQTlfZUxkY0Zncmp3dWtHZHk1bENLdWdTZTgzUk9vQkNSZlhYVFNnb3RCaUcweEFfS3pCN3hDUzRRU283ZUl5bG5zNDNkUi1OSkRUNEgtbGJl?oc=5",
+        "summary": "LatAm stocks, FX post weekly declines as Mideast talks stall; Peru faces election probe Reuters",
+        "published": "Fri, 24 Apr 2026 21:03:41 GMT",
+        "updated": "Fri, 24 Apr 2026 21:03:41 GMT",
+        "published_at_utc": "2026-04-24T21:03:41+00:00",
+        "id": "CBMirAFBVV95cUxPLWVZeUs5Y1RrSGw3TkZSb2xydFd0MGtMTk5neVdib0RzcGRjazhnYWc5VFZTNmVMMUhQX1lKSkFmR1d6bXRDc2x2MDV5bktCVmxJTUhLMFRnZjVyQTlfZUxkY0Zncmp3dWtHZHk1bENLdWdTZTgzUk9vQkNSZlhYVFNnb3RCaUcweEFfS3pCN3hDUzRRU283ZUl5bG5zNDNkUi1OSkRUNEgtbGJl",
+        "topic_type": "markets",
+        "relevance_score": 19,
+        "briefing": {
+          "news_focus": "LatAm stocks, FX post weekly declines as Mideast talks stall; Peru faces election probe Reuters",
+          "news_focus_zh": "拉丁美洲股市和外匯在本周出現下滑，主要因中東地區的談判停滯不前。此外，秘魯面臨選舉調查，進一步影響市場情緒。",
+          "background": "近期中東地區的緊張局勢對全球市場造成影響，特別是拉丁美洲的經濟體，因其對外貿易和投資依賴度高。秘魯的選舉調查則引發對政治穩定性的擔憂，可能影響投資者信心。拉丁美洲經濟在面對全球經濟放緩的背景下，已顯示出脆弱的跡象，尤其在資本流動和外匯市場上。",
+          "stakeholders": [
+            "拉丁美洲投資者",
+            "秘魯政府",
+            "中東地區國家",
+            "國際金融機構",
+            "全球市場分析師"
+          ],
+          "analysis": "中東談判的停滯使得全球市場的不確定性增加，拉丁美洲的投資者因此選擇撤資，導致股市和外匯下滑。秘魯的選舉調查則可能引發政治動盪，進一步削弱市場信心。投資者可能會密切關注秘魯政府的反應及其對經濟政策的影響。此情況可能促使其他拉美國家在政治和經濟政策上採取更為謹慎的態度，以維持市場穩定。"
         },
         "topic_priority_score": 4,
-        "event_type": "corporate_results",
+        "event_type": "market_repricing",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_links": [],
@@ -327,218 +324,218 @@
   "further_reading": {
     "technology": [
       {
-        "title": "Trump’s pick to run US cyber agency CISA asks to drop out",
-        "link": "https://techcrunch.com/2026/04/23/trumps-pick-to-run-us-cyber-agency-cisa-asks-to-drop-out/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-23T19:33:48+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Meta to cut one in 10 jobs after spending billions on AI",
-        "link": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
+        "title": "OpenAI boss 'deeply sorry' for not telling police of mass shooting suspect's account",
+        "link": "https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC Technology",
-        "published_at_utc": "2026-04-24T07:31:35+00:00",
-        "relevance_score": 16
-      },
-      {
-        "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-04-23T22:27:11+00:00",
+        "published_at_utc": "2026-04-24T22:45:28+00:00",
         "relevance_score": 15
       },
       {
-        "title": "These are the countries moving to ban social media for children",
-        "link": "https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-23T21:33:51+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "In a first, a ransomware family is confirmed to be quantum-safe",
-        "link": "https://arstechnica.com/security/2026/04/now-even-ransomware-is-using-post-quantum-cryptography/",
+        "title": "Google will invest as much as $40 billion in Anthropic",
+        "link": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
         "source_name": "Ars Technica",
-        "published_at_utc": "2026-04-23T20:41:23+00:00",
-        "relevance_score": 13
+        "published_at_utc": "2026-04-24T22:05:45+00:00",
+        "relevance_score": 15
       },
       {
-        "title": "Apple’s Next Chapter, SpaceX and Cursor Strike a Deal, and Palantir’s Controversial Manifesto",
-        "link": "https://www.wired.com/story/uncanny-valley-podcast-apple-next-chapter-spacex-cursor-deal-palantir-manifesto/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-04-23T19:26:11+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
-        "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+        "title": "Palantir is reportedly helping the IRS investigate financial crimes",
+        "link": "https://techcrunch.com/2026/04/24/palantir-is-reportedly-helping-the-irs-investigate-financial-crimes/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-23T18:29:29+00:00",
+        "published_at_utc": "2026-04-24T21:53:44+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Google to invest up to $40B in Anthropic in cash and compute",
+        "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-24T18:00:03+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "The Download: supercharged scams and studying AI healthcare",
+        "link": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+        "source_name": "MIT Technology Review",
+        "published_at_utc": "2026-04-24T12:10:00+00:00",
         "relevance_score": 13
       },
       {
-        "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
-        "link": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-04-23T18:24:37+00:00",
-        "relevance_score": 13
+        "title": "Skywater Technology - Co & Ionq Got Request For Additional Information From U.S. Federal Trade Commission On FTC's Review Of Mergers - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOVlJXYU5SRkJFSWhNa1lsME9YeWpsU0VZMlMxVnROVU51c014TEtXUjJnVTB3MFF6ZFhXUXBrOUhBSWtSMTVKamw1NzZORWhLS09qM1J6aUwzSVFEaDJUTXZVbkE5ZUZ6c01UUWFXdzFEWjJncXRRWm1WVzZ5U3lOY2c5ak9xRzA3N0xFcjVvSm1ZWEVkYnhpVER5RHZRVmcxeldubGNkN3RXV0p4M09GQUlPVXBUOHVCaXIzWlNiTnNSM25hdTZHbVhidUFqaUgza0ZaSXRnMk0yeHdweEUxWjd5aXVOOU1GbjVYZGtvXzJvT012Ui05Y2tLbzRNejVZejVQSWhLUUNfbERXcVdRSEtNOWlnQU13NS1YMGFoT25oZ0k?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-24T22:08:35+00:00",
+        "relevance_score": 12
       },
       {
-        "title": "Palantir Employees Are Starting to Wonder if They're the Bad Guys",
-        "link": "https://www.wired.com/story/palantir-employees-are-starting-to-wonder-if-theyre-the-bad-guys/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-04-23T16:01:51+00:00",
-        "relevance_score": 13
+        "title": "Meta’s loss is Thinking Machines’ gain",
+        "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-24T20:52:07+00:00",
+        "relevance_score": 12
       },
       {
-        "title": "Greenhouse gases from data center boom could outpace entire nations",
-        "link": "https://arstechnica.com/ai/2026/04/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/",
+        "title": "FCC: Router ban includes portable hotspots, but not phones with hotspot features",
+        "link": "https://arstechnica.com/tech-policy/2026/04/fcc-says-ban-on-foreign-made-routers-includes-portable-wi-fi-hotspots/",
         "source_name": "Ars Technica",
-        "published_at_utc": "2026-04-23T14:51:16+00:00",
-        "relevance_score": 13
+        "published_at_utc": "2026-04-24T19:30:14+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "Soldier won $410K in Polymarket bets on timing of Maduro capture, US alleges",
+        "link": "https://arstechnica.com/tech-policy/2026/04/soldier-won-410k-in-polymarket-bets-on-timing-of-maduro-capture-us-alleges/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-04-24T17:41:43+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "Lachy Groom to back India startup Pronto at a $200M valuation, sources say",
+        "link": "https://techcrunch.com/2026/04/24/lachy-groom-to-back-pronto-as-indias-house-help-startup-scales-fast-sources-say/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-25T03:30:00+00:00",
+        "relevance_score": 10
       }
     ],
     "politics": [
       {
-        "title": "Revealed: UK oil refinery owner moved Russian loans to offshore subsidiary where sanctions did not apply",
-        "link": "https://www.theguardian.com/business/2026/apr/24/revealed-uk-oil-refinery-owner-moved-russian-loans-to-offshore-subsidiary-where-sanctions-did-not-apply",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-24T05:00:32+00:00",
-        "relevance_score": 22
-      },
-      {
-        "title": "‘Big shout-out’ to China’s environmental leadership from UN agency head",
-        "link": "https://www.scmp.com/news/china/science/article/3351265/big-shout-out-chinas-environmental-leadership-un-agency-head?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-04-24T06:07:11+00:00",
+        "title": "No clarity on U.S.-Iran talks as Islamabad stays under lockdown",
+        "link": "https://www.thehindu.com/news/international/no-clarity-on-us-iran-talks-as-islamabad-stays-under-lockdown/article70904595.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-25T08:03:01+00:00",
         "relevance_score": 21
       },
       {
-        "title": "US slaps sanctions on Cambodian senator suspected of controlling scam centres",
-        "link": "https://www.scmp.com/week-asia/politics/article/3351314/us-slaps-sanctions-cambodian-senator-suspected-controlling-scam-centres?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-04-24T09:19:28+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Middle East crisis live: Trump says Israel-Lebanon ceasefire extended by three weeks but claims he won’t rush Iran deal",
-        "link": "https://www.theguardian.com/world/live/2026/apr/24/iran-war-live-updates-trump-hormuz-strait-israel-lebanon-truce",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-24T09:10:21+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Trump says he will ‘probably put a big tariff on the UK’ if it doesn’t drop digital services tax",
-        "link": "https://www.theguardian.com/us-news/2026/apr/24/trump-tariff-uk-digital-services-tax-warning",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-24T08:33:10+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "‘Toxic’ views of Reform UK candidates raise questions about party’s vetting",
-        "link": "https://www.theguardian.com/politics/2026/apr/23/toxic-views-reform-uk-candidates-raise-questions-about-elections-vetting",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-24T08:30:29+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Trump kill order highlights threat of Iran’s small, fast-attack boats",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3351295/trump-kill-order-highlights-threat-irans-small-fast-attack-boats?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-04-24T08:12:27+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "EU formally approves Ukraine loan and 20th sanctions package against Russia",
-        "link": "https://www.thehindu.com/news/international/eu-formally-approves-ukraine-loan-and-20th-sanctions-package-against-russia/article70900691.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-24T07:24:53+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Iran war: What’s happening on day 56 after Trump extended ceasefire?",
-        "link": "https://www.aljazeera.com/news/2026/4/24/iran-war-whats-happening-on-day-56-after-trump-extended-ceasefire?traffic_source=rss",
+        "title": "What’s at stake for Iran and the US in Islamabad?",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/whats-at-stake-for-iran-and-the-us-in-islamabad?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-24T06:11:36+00:00",
+        "published_at_utc": "2026-04-25T04:30:43+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Palestinians vote in first elections since Gaza war",
+        "link": "https://www.thehindu.com/news/international/palestinians-vote-in-first-elections-since-gaza-war/article70904518.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-25T07:34:28+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Israel-Hezbollah ceasefire extended by 3 weeks, says Trump",
-        "link": "https://www.thehindu.com/news/international/israel-hezbollah-ceasefire-extended-by-3-weeks-says-trump/article70899310.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-24T04:48:23+00:00",
+        "title": "West Bank scepticism as Palestinians doubt local elections will change much",
+        "link": "https://www.aljazeera.com/features/2026/4/25/west-bank-scepticism-as-palestinians-doubt-local-elections-will-change-much?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-04-25T07:16:54+00:00",
         "relevance_score": 20
+      },
+      {
+        "title": "Palestinian local elections give some Gazans a chance to vote for the first time in years",
+        "link": "https://www.thehindu.com/news/international/palestinian-local-elections-on-april-25-gazans-vote-for-the-first-time-in-years/article70904464.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-25T06:52:55+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "U.S. imposes sanctions on China-based oil refinery, 40 shippers over Iranian oil",
+        "link": "https://www.thehindu.com/news/international/us-imposes-sanctions-on-china-based-oil-refinery-40-shippers-over-iranian-oil/article70904476.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-25T05:51:47+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "French minister defends cancelation of G7 climate talks",
+        "link": "https://www.taipeitimes.com/News/world/archives/2026/04/25/2003856229",
+        "source_name": "Taipei Times",
+        "published_at_utc": "2026-04-25T00:00:00+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi",
+        "link": "https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-04-24T20:54:28+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Israel-Iran war LIVE: Iran resumes commercial flights from Tehran’s international airport",
+        "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-conflict-peace-talks-in-pakistan-live-updates-april-25-2026/article70904298.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-25T08:25:50+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Major Russian attack on Ukraine kills four, wounds dozens",
+        "link": "https://www.thehindu.com/news/international/major-russian-attack-on-ukraine-kills-wounds-dozens/article70904775.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-25T08:13:53+00:00",
+        "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "US labor market stable despite war, but inflation pressures building up - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZTAzdVZQNjYtTHUwY3FDZU1VX3NXUlkzR1dmSXl3WTA4eWItTW4tZGpIT3lHanJ1VFJ4UEhRczJodmNuMEVKeVpPaF93SThhSXp6XzJrYWVUMERYdkE5dUxRSl9QUHNRS1pkQ2FCZC1Vb0RSUVpSM0RKMGM3ajF5ZUpEQzFxUU8tRXV5UEZkRlhyUFJPQ0g4dFJWWUtYRGs5SDhvQ2x1eHZiRDR0QlVJeEdGbURnQV9H?oc=5",
+        "title": "US chipmakers hit record highs as Intel turbocharges AI rally - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM1ZvUTlfazZUeXAwZ3IwOHdrU2xlM2NxTVNUR0RKWWFVckZJRlk0dWxxWFg0YnNZNU5xQURHenZ0bHYwM1J2TFRTTk1ZVzZUbVpJdzVuaG5KNk15bENkZTZPY0htR1VGVGdGdzRQUGM2bVVIVnRsTGxhd3hra1J6NlN1QlVCM3o5eWlTdERLc2U1d0lETGtYMF9wMTIxRVdvUzNXUU53?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-04-23T15:45:48+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "AI deepens US tech divide as IBM, ServiceNow spark software selloff, TI lifts chipmakers - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2x4dW1pNXpqSldUQkR2MGNlaGQ4cDBIeFZ5MzVOU2hQV1BNSmppN2dvaVZTUnRmeWFyMGNsb0JXcWVSSHJnY2VIUDNndDFpcHZZdklmSzJ3bjlYRXl1SnpKYnViVDFnLUEwTS1FRTBiWWVxS29sWDNwSTZDbUpjdkVLRmFvdjdMWTVGRGZnQktKaGpidjd6azRUR1BoYXl2QlZQaGl3V1F6QkcyaURNVFFUOG1rdUNtWjB4OHRn?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-23T14:05:12+00:00",
+        "published_at_utc": "2026-04-24T14:11:00+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Asos demands £7m from US as firms rush to claim tariff refunds",
-        "link": "https://www.bbc.com/news/articles/cd0r9d5zrkno?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-04-23T10:05:49+00:00",
+        "title": "UK stocks end week lower as fragile U.S.-Iran truce weighs; BoE flags risks - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGxSVmt2blFnOE9kOXplOTYwOU1jdkhsRkt3a3N5clJlUktYelpmd2ZtQ2w0VHZISnpHSFVSRmg3X2FZdjQyU0RSZTM5MlNobVVNTVM3QnRiOGhtTWM5Y1lBSFZrWlhhYWpmUUVnVWxSN2pGNmNqTzVVTmZCMWc0Wk83VnlYVVhYM0xEMXZDeEZCOGQyRmF2QVJhMFlaQm1DamtKUXlKVUlBVFFvUk5HcGpRdERxWDJMYm9JbWt5Um4?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-24T10:49:00+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Stocks close lower on fading hopes for quick Iran deal, mixed quarterly earnings - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc09RTW5BS211ZlFNcWU3bEN5YkZwUWdNcUd4NEhpeldpUEhOa2tpaFNuenNwSjR0azBNZ0xoS1hRNW12RTlnLW53SGJuRE5zTG0zOVhma3gwYXZfSFJZdl9tVjgta0N2VlQzU2FlZ1RFZE95czZmRUhrNzFMZ0hGRk4zVklOZE9DM28wMFhmSzV2bmZfZ3ZUamZWVE1kSVVBbTNr?oc=5",
+        "title": "U.S. equity fund inflows rise on earnings optimism, AI boost - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYlcxRmstTEhNNFFWTW5wNmpXcDZFN2hMZHVHSFZPTlh1LWJZU1NhYUZVZFpScGZJU2QzeFFnMFdsa0h3Y0VjUEh0U1M2WGk0QS01cm53RXVKZ0dqZ1JGLXZoaXV4S3MyeEVYeEd1U1hlUnRLWnM1eWRoX1JTYmRfMkQyWWFLckFxdUF1Vm00SDEwVFNFdVVWc3p4QkhsU0Mt?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-04-23T23:23:56+00:00",
+        "published_at_utc": "2026-04-24T12:07:00+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Stocks and shares Isas: are they right for me, and where is best to invest?",
-        "link": "https://www.theguardian.com/money/2026/apr/24/stocks-and-shares-isa-right-where-to-invest",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-24T05:00:30+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "ChiNext, Shenzhen’s Nasdaq, emerges as investor darling as start-up indexes smash records",
-        "link": "https://www.scmp.com/business/china-business/article/3351146/chinext-shenzhens-nasdaq-emerges-investor-darling-start-indexes-smash-records?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-24T02:00:15+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "UK braces for price rises driven by Iran war as economic confidence plummets",
-        "link": "https://www.theguardian.com/business/2026/apr/23/uk-braces-for-price-rises-driven-by-iran-war-as-economic-confidence-plummets",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-23T16:05:48+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "ECB to raise rates in June on war-driven inflation but path beyond unclear - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVVHTVNlMUtnMjZBSU9tb1M4WE5JOGw2QmVReFVnZFhjcnFOdUkzYTA3TXpOcVZFMFh6UTc4Z25HdWxuN3NXdG95eDlQM3Q1MDlYcXdDWV9RREJUZzBtWHBwX081VWlhZm5kSEc5ckc1ZjFQM09TZVhJMTdZUXlzOVd5emljdEF0SUxiNGl2UmZZUEg0dVN5SHhzSU9KZ2dTcHJVNHE1S1hXQQ?oc=5",
+        "title": "Wall St Week Ahead: Soaring US stocks face pivotal week of tech-led earnings, Fed meeting - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQm9RRmotOFkyNjhOVmtYM2RjbWFhT1VzeUpYYVRzLUZPbmlhM3V1YldhVG9SV2dFZUlBYmg0ZW9pdGpYekRGUkZLNFdMVlJmR2dUbXp2SjZHM2I5VEliT1loMEQxckNoNVN2R2pvNzNXaFhobWdpMXFRQ2ZZYVA2bkN3cnBMS2tXYVVuSWV2R21Vd1BVZEJLcXhKYWo5d2Z2bEdaa2tDMzczMEpCZ282eThaZzVJV2tNRDBweE9B?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-04-23T11:35:29+00:00",
+        "published_at_utc": "2026-04-24T10:07:00+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "US justice department drops criminal investigation against Jerome Powell",
+        "link": "https://www.theguardian.com/business/2026/apr/24/doj-drops-criminal-probe-jerome-powell-fed",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-24T18:03:30+00:00",
         "relevance_score": 17
       },
       {
-        "title": "Russia says it's maintaining oil supplies but has no new OPEC+ initiatives - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNjFqRngxY3VlcU1VM1FUYkl2aWNJcDNLZmlBaW42MHVWdVdfRm9oTzlnZ1JDbmVmM3BXYVZQT01tR0dIZkVVcG91dmlzRklrbzg0Y0RqcVhzcEZzM05FZzctM0paLW1qUzlSbjRqZHFQOFBIaDZKSWhISlllUEdsTGhVaUxRRmZodDBtN29wUWM0SkMxdzRHS2tvTU5ub0lRNUwzVW1UYmRyTncwVGFjZUpiN3BVTk12bXU0Ug?oc=5",
+        "title": "Luxury group Cucinelli tightens controls on sanctions compliance after allegations - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb3BQOUlpQ2hHRm9lWmw4Zi05Q3lPMVhaSVNrd0VFQ1RPYmFRYWE3VzNDRTBiYVZCdjh2aDBDT0VoMk5ueHVMcW5WbndpSjZYR3c2Ym9mUmRnQXdmTkV1RlJqclNxeHRlc1JSTTNjTUstVXhISmpKdWo4Y3VkVG1HSkJXSmF2bDBsQ3NGbEtPV2ExRU1abnhTbFdfTmJ3YkRyVDlGdThiSVlvR0ozU0ZtMXhDcGQ2NGlwQ2ZvUTZQNmJ0Zw?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-04-23T11:23:06+00:00",
+        "published_at_utc": "2026-04-24T15:11:00+00:00",
         "relevance_score": 17
       },
       {
-        "title": "Trump ally visits China, DeepSeek releases V4, EV earnings",
-        "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3351305/trump-ally-visits-china-deepseek-releases-v4-ev-earnings?utm_source=rss_feed",
+        "title": "P&G warns of $1 billion profit hit in fiscal 2027 from higher oil prices - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYWdtSHBhSXdJUk85a1lsaU9xRDVvRXhxRVo4VGFDTmFIeVRLRHpwTnc2RWpYOGg1OTJ6Z3Jtd1NKbTJxckJHcU5zeE0tWS02V252U1I1OGQ5RXFsOHFibDZsTXR4TW83dDZNM3hYWTZtYllHNWVCQ1RUc0VQaHB0Zm8zNGZ2WWdGdTJQWHhDY3BiN2c5dTFmQTNhdTcxRTAtOWY1OG5yMGFOMU82bzFjTm4xdWJLUkpTNlVLbw?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-24T11:02:00+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "China opens government bond futures to select foreign investors in reform push",
+        "link": "https://www.scmp.com/business/china-business/article/3351332/china-opens-government-bond-futures-select-foreign-investors-reform-push?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-24T09:05:56+00:00",
-        "relevance_score": 16
+        "published_at_utc": "2026-04-24T11:00:08+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Investors rotate to China’s chipmakers as DeepSeek intensifies AI competition",
+        "link": "https://www.scmp.com/business/china-business/article/3351328/investors-rotate-chinas-chipmakers-deepseek-intensifies-ai-competition?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-24T10:03:43+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Baijiu bet: China’s top fund manager doubles down on consumers amid signs of recovery",
+        "link": "https://www.scmp.com/business/china-business/article/3351290/baijiu-bet-chinas-top-fund-manager-doubles-down-consumers-amid-signs-recovery?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-24T08:00:46+00:00",
+        "relevance_score": 17
       }
     ]
   },
@@ -548,5 +545,5 @@
     "failed": 0,
     "total": 9
   },
-  "theme_of_day": "今日新聞的整體敘事主軸圍繞著國際安全、經濟合作及科技風險，顯示出全球政治與經濟互動的複雜性。美國特種部隊的內幕交易事件與委內瑞拉的政治緊張局勢相互呼應，顯示出安全問題對市場行為的影響；同時，中國與泰國在網路安全領域的合作，及歐盟對烏克蘭的支持，反映出在地緣政治背景下，經濟援助與安全策略的相互連結。此外，科技在金融建議中的應用風險也提醒我們，隨著市場依賴AI工具，必須謹慎評估其潛在影響。"
+  "theme_of_day": "今日新聞呈現出科技、政治與經濟三個版面之間的交織關係。美國特種部隊士官因內幕交易被捕的事件，反映了科技與政治間的緊張局勢，尤其是在國際安全與情報利用的脆弱性上。另一方面，美國對中國煉油廠的制裁及消費者信心的下降，則顯示出經濟環境的不穩定性，並可能進一步影響中東局勢的發展，形成一個相互影響的動態網絡。"
 }
