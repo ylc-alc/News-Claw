@@ -1,64 +1,31 @@
 {
-  "generated_at_utc": "2026-04-26T16:08:59.692804+00:00",
+  "generated_at_utc": "2026-04-26T16:26:04.646775+00:00",
   "summary": {
-    "total_raw_items": 1079,
+    "total_raw_items": 1078,
     "total_deduped_items": 1058,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "ai",
         "chips",
-        "general"
+        "general",
+        "ai"
       ],
       "politics": [
         "diplomacy",
-        "us_politics",
-        "war_and_conflict"
+        "war_and_conflict",
+        "us_politics"
       ],
       "economy": [
         "general",
-        "emerging_markets",
-        "markets"
+        "markets",
+        "sanctions"
       ]
     },
-    "multi_source_selected_count": 3
+    "multi_source_selected_count": 4
   },
   "sections": {
     "technology": [
-      {
-        "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "To buy this Bay Area home, you’ll need Anthropic equity",
-        "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
-        "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
-        "published": "Sun, 26 Apr 2026 15:30:00 +0000",
-        "updated": "Sun, 26 Apr 2026 15:30:00 +0000",
-        "published_at_utc": "2026-04-26T15:30:00+00:00",
-        "id": "https://techcrunch.com/?p=3116489",
-        "topic_type": "ai",
-        "relevance_score": 17,
-        "briefing": {
-          "news_focus": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
-          "news_focus_zh": "在加州米爾谷，一處佔地13英畝的房產正在以一種不尋常的方式出售，買家需要持有Anthropic公司的股權才能進行交易。這一要求引發了對科技公司股權與房地產市場交集的關注。",
-          "background": "Anthropic是一家專注於人工智慧技術的公司，隨著科技產業的蓬勃發展，尤其是在矽谷地區，科技公司股權的價值不斷上升。此類交易模式可能反映了當前房地產市場的變化，尤其是在高科技產業影響下，傳統的房產購買方式正面臨挑戰。隨著越來越多的科技公司進入市場，這種以股權作為購房條件的現象可能會成為一種新趨勢，特別是在高價位的地區。",
-          "stakeholders": [
-            "買家",
-            "賣家",
-            "Anthropic股東",
-            "房地產投資者",
-            "科技產業專家"
-          ],
-          "analysis": "這一房產交易的模式顯示出科技公司股權在房地產市場中的新角色，可能吸引了投資者和科技從業者的注意。對於Anthropic的股東來說，這可能是一個將其股權流動性轉化為實體資產的機會。然而，這也可能引發對於房地產市場的進一步影響，特別是在高價位地區，可能會使得普通買家更難進入市場。此類交易的成功與否將取決於市場對Anthropic未來表現的預期，以及科技股的整體走勢。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "partnership_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
       {
         "category": "technology",
         "source_name": "Wired",
@@ -73,66 +40,107 @@
         "relevance_score": 16,
         "briefing": {
           "news_focus": "The master sergeant allegedly used classified intel to profit on the capture of Venezuelan president Nicolás Maduro, marking the first US arrest for insider trading on a prediction market.",
-          "news_focus_zh": "美國特種部隊的一名軍士長因涉嫌利用機密情報在預測市場Polymarket上對委內瑞拉總統尼古拉斯·馬杜羅的逮捕進行賭注而被逮捕。這是美國首次因內幕交易在預測市場上進行逮捕的案例，顯示出對此類行為的嚴格監管。",
-          "background": "預測市場是一種允許用戶對未來事件進行賭注的金融工具，這類市場的合法性和道德性一直存在爭議。美國政府對內幕交易的打擊力度不斷加強，尤其是在涉及國家安全和機密情報的情況下。此次事件引發了對軍事人員在此類市場中行為的關注，特別是在使用機密情報進行個人獲利的潛在風險上。",
+          "news_focus_zh": "美國特種部隊的一名軍士長因涉嫌利用機密情報在預測市場上對委內瑞拉總統尼古拉斯·馬杜羅的捕獲進行賭注而被逮捕。這是美國首次因內幕交易在預測市場上進行逮捕，顯示出對於這類行為的法律追責正在加強。",
+          "background": "預測市場是一種允許參與者對未來事件結果進行賭注的市場，通常被視為一種新興的投資工具。隨著科技的發展，這類市場的合法性與道德性引發了廣泛討論。美國政府對於內幕交易的打擊一直相對嚴厲，尤其是在涉及國家安全或機密情報的情況下。此次事件突顯了軍事人員在使用敏感信息時的道德與法律界限，並可能引發對於軍事人員參與金融市場行為的進一步監管。",
           "stakeholders": [
             "美國政府",
             "特種部隊",
-            "預測市場平台",
-            "投資者",
-            "國防部"
+            "預測市場參與者",
+            "金融監管機構",
+            "法律專家"
           ],
-          "analysis": "此次逮捕標誌著美國在預測市場內幕交易方面的法律執行進一步升級，顯示出政府對軍事人員行為的高度關注。根據參考報導，這名軍士長在Polymarket上贏得了41萬美元的賭注，這一數字突顯了內幕交易可能帶來的巨額利潤。特朗普在評論此事件時提到，這就像是運動員對自己隊伍的賭注，暗示此行為的道德爭議。這一事件可能促使美國政府進一步檢討和加強對預測市場的監管，並可能引發對軍事人員參與此類市場的政策變更。"
+          "analysis": "此次逮捕標誌著美國在打擊內幕交易方面的一個重要進展，特別是在預測市場這一新興領域。與以往僅針對傳統金融市場的內幕交易不同，這次行動顯示出政府對於利用機密情報進行金融操作的零容忍態度。這可能會導致其他軍事或政府人員在未來對參與此類市場的行為更加謹慎。此外，此事件也可能促使立法機構考慮對預測市場的規範進行更為嚴格的檢討，以防止類似事件的再次發生，並保護國家安全。"
         },
         "topic_priority_score": 10,
         "event_type": "commercial_update",
         "is_major_update": true,
-        "supporting_sources": [
-          "Ars Technica"
-        ],
-        "supporting_titles": [
-          "Soldier won $410K in Polymarket bets on timing of Maduro capture, US alleges"
-        ],
-        "supporting_summaries": [
-          "It's like \"Pete Rose betting on his own team,\" Trump says of arrested soldier."
-        ],
-        "supporting_links": [
-          "https://arstechnica.com/tech-policy/2026/04/soldier-won-410k-in-polymarket-bets-on-timing-of-maduro-capture-us-alleges/"
-        ],
-        "source_count": 2
-      },
-      {
-        "category": "technology",
-        "source_name": "The Verge",
-        "title": "Tomora’s Come Closer is an ecstatic love letter to 90s dance music",
-        "link": "https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music",
-        "summary": "Before Coachella, Tomora wasn't on my radar at all. It's actually only by chance that I stumbled upon them - I opened the wrong stream because my TV was lagging like a MFer. I paused for a few moments, entranced by the two ethereal Nordic women banging on giant drums to a techno beat. I […]",
-        "published": "2026-04-26T12:00:00-04:00",
-        "updated": "2026-04-26T11:21:20-04:00",
-        "published_at_utc": "2026-04-26T16:00:00+00:00",
-        "id": "https://www.theverge.com/?p=918826",
-        "topic_type": "general",
-        "relevance_score": 10,
-        "briefing": {
-          "news_focus": "Before Coachella, Tomora wasn't on my radar at all. It's actually only by chance that I stumbled upon them - I opened the wrong stream because my TV was lagging like a MFer. I paused for a few moments, entranced by the two ethereal Nordic women banging on giant drums to a techno beat. I […]",
-          "news_focus_zh": "在Coachella音樂節之前，Tomora這個樂團並不為人所知。作者因為電視延遲而意外打開了錯誤的直播，結果被兩位北歐女性在巨型鼓上演奏電子舞曲的表演深深吸引。這場表演讓作者感受到90年代舞曲的狂熱魅力，成為了一封對該音樂風格的讚美信。",
-          "background": "Tomora是一個新興的音樂團體，專注於結合電子舞曲與現場表演的元素。90年代的舞曲音樂以其獨特的節奏和氛圍在當時的音樂界中佔有一席之地，對後來的音樂風格產生了深遠影響。Coachella音樂節作為全球知名的音樂盛會，吸引了眾多新興藝術家和樂團參加，為他們提供了展示才華的舞台。這樣的環境使得新興音樂團體如Tomora能夠迅速獲得關注，並在音樂界中嶄露頭角。",
-          "stakeholders": [
-            "Tomora",
-            "Coachella音樂節",
-            "音樂愛好者",
-            "音樂產業",
-            "媒體"
-          ],
-          "analysis": "Tomora的表演吸引了觀眾的注意，顯示出90年代舞曲音樂的持久魅力及其在當代音樂中的影響力。這種音樂風格的回歸可能反映了當前年輕世代對於復古文化的興趣，並可能促進類似音樂風格的再度流行。此外，音樂節的曝光機會對於新興藝術家的發展至關重要，可能會引發更多媒體關注和商業機會。隨著音樂市場的競爭加劇，Tomora的成功也可能激勵其他新興團體追求創新和獨特性，以在音樂界中立足。"
-        },
-        "topic_priority_score": 3,
-        "event_type": "regulation_action",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
         "supporting_links": [],
         "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "The Verge",
+        "title": "Trump turns the WHCD shooting into a pitch for the White House ballroom",
+        "link": "https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom",
+        "summary": "Within hours of an armed gunman's attempt to enter the White House Correspondents Dinner, attended by top administration officials and hundreds of journalists, President Donald Trump did what he does best: use the assassination attempt to defend his ballroom project. During a White House press conference just hours after he and several cabinet members were […]",
+        "published": "2026-04-26T12:18:02-04:00",
+        "updated": "2026-04-26T12:18:02-04:00",
+        "published_at_utc": "2026-04-26T16:18:02+00:00",
+        "id": "https://www.theverge.com/?p=918843",
+        "topic_type": "general",
+        "relevance_score": 12,
+        "briefing": {
+          "news_focus": "Within hours of an armed gunman's attempt to enter the White House Correspondents Dinner, attended by top administration officials and hundreds of journalists, President Donald Trump did what he does best: use the assassination attempt to defend his ballroom project. During a White House press conference just hours after he and several cabinet members were […]",
+          "news_focus_zh": "在白宮記者晚會上，發生了一起持槍者試圖闖入的事件，該晚會吸引了許多高層官員和記者。隨後，總統唐納德·特朗普在白宮的新聞發布會上，利用這一刺殺未遂事件為他的舞廳計畫辯護，顯示出他擅長將危機轉化為政治資本。",
+          "background": "白宮記者晚會是美國政治文化中的重要事件，通常吸引政界與媒體的關注。特朗普政府在任內經常面臨來自媒體的批評，這使得記者晚會成為一個展示其政策和立場的舞台。此次持槍事件的發生，無疑為特朗普提供了一個機會，來強調其安全政策及舞廳計畫的必要性，這一計畫旨在提升白宮的接待能力和形象。",
+          "stakeholders": [
+            "唐納德·特朗普",
+            "白宮官員",
+            "記者",
+            "社交媒體用戶",
+            "政治評論員"
+          ],
+          "analysis": "特朗普利用此次事件來強化其舞廳計畫的合理性，顯示出他在危機中尋求政治利益的策略。然而，參考報導指出，社交媒體上出現了大量關於事件被“安排”的陰謀論，這反映出社會對事件真相的懷疑與分歧。左翼和右翼的意見領袖均參與了這一討論，顯示出政治極化的現象。這些陰謀論可能會影響公眾對事件的認知，並進一步加劇社會分裂，未來可能會對特朗普的舞廳計畫造成影響，尤其是在公眾信任度方面。"
+        },
+        "topic_priority_score": 3,
+        "event_type": "strategic_move",
+        "supporting_sources": [
+          "Wired"
+        ],
+        "supporting_titles": [
+          "‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents' Dinner Shooting"
+        ],
+        "supporting_summaries": [
+          "The word “staged” exploded on social media following the attack, as both right and left-wing influencers and anonymous accounts spread unfounded conspiracy theories."
+        ],
+        "supporting_links": [
+          "https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "technology",
+        "source_name": "BBC Technology",
+        "title": "OpenAI boss 'deeply sorry' for not telling police of mass shooting suspect's account",
+        "link": "https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&at_campaign=rss",
+        "summary": "Sam Altman on Thursday wrote a brief letter of apology to the people of Tumbler Ridge, Canada in the wake of a January mass shooting.",
+        "published": "Fri, 24 Apr 2026 22:45:28 GMT",
+        "updated": "Fri, 24 Apr 2026 22:45:28 GMT",
+        "published_at_utc": "2026-04-24T22:45:28+00:00",
+        "id": "https://www.bbc.com/news/articles/cq6je7e80r7o#0",
+        "topic_type": "ai",
+        "relevance_score": 9,
+        "briefing": {
+          "news_focus": "Sam Altman on Thursday wrote a brief letter of apology to the people of Tumbler Ridge, Canada in the wake of a January mass shooting.",
+          "news_focus_zh": "OpenAI首席執行官Sam Altman對加拿大Tumbler Ridge社區表示深感抱歉，因為公司未能及時通知執法機構有關一名大規模槍擊事件嫌疑人的帳戶。這封道歉信是在一月發生的槍擊事件後發出的，Altman強調了對社區的歉意。",
+          "background": "Tumbler Ridge是一個位於加拿大不列顛哥倫比亞省的小鎮，近期發生了一起大規模槍擊事件，造成社區的恐慌和悲痛。槍擊事件引發了對於科技公司在處理潛在危險用戶數據方面的責任討論。OpenAI作為一家領先的人工智慧公司，面對其技術可能被濫用的風險，社會對其行為的期望也隨之提高。這一事件凸顯了科技公司在公共安全方面的角色及其應承擔的責任。",
+          "stakeholders": [
+            "Sam Altman",
+            "OpenAI",
+            "Tumbler Ridge社區",
+            "執法機構",
+            "公眾"
+          ],
+          "analysis": "Altman的道歉信反映了OpenAI在社會責任方面的壓力，特別是在涉及公共安全的情況下。社區居民對於公司未能及時通報執法機構表示失望，這可能會影響OpenAI在未來的信譽與用戶信任。參考報導中強調了Altman對社區的歉意，並未提及具體的後續行動或改進措施，這可能使得社區對於未來的安全感到不安。此事件可能促使OpenAI重新評估其用戶數據管理政策，並加強與執法機構的合作，以防止類似事件再次發生。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "strategic_move",
+        "supporting_sources": [
+          "TechCrunch"
+        ],
+        "supporting_titles": [
+          "OpenAI CEO apologizes to Tumbler Ridge community"
+        ],
+        "supporting_summaries": [
+          "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting."
+        ],
+        "supporting_links": [
+          "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/"
+        ],
+        "source_count": 2
       }
     ],
     "politics": [
@@ -150,16 +158,16 @@
         "relevance_score": 25,
         "briefing": {
           "news_focus": "Two Pakistani officials did not say when the Americans might return to the region to follow up on historic face-to-face talks earlier this month.",
-          "news_focus_zh": "伊朗外交部長阿拉赫奇返回伊斯蘭堡，顯示巴基斯坦正在努力挽救與美國的談判。雖然兩名巴基斯坦官員未透露美方何時會重返該地區，但此舉顯示出對於美伊之間外交進展的迫切需求。",
-          "background": "近期，美國與伊朗之間的緊張關係因以色列與哈馬斯的衝突而加劇。巴基斯坦作為地區中立國，試圖促進美伊之間的對話，並在此過程中扮演調解者的角色。隨著美國在中東的政策調整，巴基斯坦的外交努力顯得尤為重要。伊朗與美國之間的歷史性會談在本月早些時候進行，但隨後進展停滯，導致各方對未來的外交前景感到不安。",
+          "news_focus_zh": "伊朗外交部長阿拉赫奇返回伊斯蘭堡，這一行動是在巴基斯坦努力挽救與美國的談判之際進行的。雖然兩名巴基斯坦官員未透露美方何時會回到該地區，但此舉顯示出巴基斯坦在促進美伊對話方面的積極角色。",
+          "background": "近期，美國與伊朗之間的緊張關係因以色列與哈馬斯的衝突而加劇，雙方在多項議題上持不同立場。巴基斯坦作為中介，試圖促進美伊之間的外交對話，尤其是在美國與伊朗的關係日益緊張的背景下。此時，巴基斯坦的外交努力顯得尤為重要，因為它可能影響到地區穩定及美國在中東的戰略布局。",
           "stakeholders": [
-            "伊朗",
-            "美國",
-            "巴基斯坦",
-            "以色列",
-            "哈馬斯"
+            "伊朗政府",
+            "美國政府",
+            "巴基斯坦政府",
+            "以色列政府",
+            "地區中介國家"
           ],
-          "analysis": "此次阿拉赫奇的回訪標誌著巴基斯坦在美伊談判中的積極角色，與先前的情況相比，這顯示出巴基斯坦對於促進外交對話的承諾。根據參考報導，儘管美國和伊朗仍堅持各自立場，但調解者對於達成外交突破的希望依然存在。這表明，儘管面臨挑戰，各方仍在尋求對話的可能性。與此同時，巴基斯坦的外交努力可能會影響其與美國及伊朗的雙邊關係，未來的發展將取決於各方能否在談判桌上找到共同點。"
+          "analysis": "此次阿拉赫奇的回訪標誌著巴基斯坦在美伊談判中扮演的角色進一步升級。根據參考報導，儘管美伊雙方仍堅持各自立場，巴基斯坦的介入可能為未來的外交突破鋪平道路。與先前的情況相比，此次會談的具體時間尚未確定，顯示出談判的複雜性與不確定性。各方在此議題上的立場存在差異，美方希望透過強硬立場施壓，而伊朗則堅持其核心利益不受損害，這使得巴基斯坦的調解工作變得更加艱難。"
         },
         "topic_priority_score": 7,
         "event_type": "diplomatic_move",
@@ -180,51 +188,6 @@
       },
       {
         "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "King Charles’s security for US visit under review after Washington shooting",
-        "link": "https://www.theguardian.com/uk-news/2026/apr/26/king-charles-security-us-visit-reviewed-washington-shooting-trump",
-        "summary": "Buckingham Palace says talks taking place in light of gunman’s attempt to storm dinner attended by Trump US politics live – latest updates King Charles’s security is being reviewed before his state visit to the US this week after a gunman attempted to storm a dinner with Donald Trump in Washington DC, Buckingham Palace has said. Guests at the White House correspondents’ dinner on Saturday night hid under tables when gunshots were heard, as the Secret Service evacuated the president and other members of his administration. Continue reading...",
-        "published": "Sun, 26 Apr 2026 11:21:44 GMT",
-        "updated": "2026-04-26T11:21:44Z",
-        "published_at_utc": "2026-04-26T11:21:44+00:00",
-        "id": "https://www.theguardian.com/uk-news/2026/apr/26/king-charles-security-us-visit-reviewed-washington-shooting-trump",
-        "topic_type": "us_politics",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "Buckingham Palace says talks taking place in light of gunman’s attempt to storm dinner attended by Trump US politics live – latest updates King Charles’s security is being reviewed before his state visit to the US this week after a gunman attempted to storm a dinner with Donald Trump in Washington DC, Buckingham Palace has said. Guests at the White House correspondents’ dinner on Saturday night hid under tables when gunshots were heard, as the Secret Service evacuated the president and other members of his administration. Continue reading...",
-          "news_focus_zh": "英國白金漢宮表示，因應華盛頓特區發生的槍擊事件，國王查爾斯的安全措施正在進行檢討。該事件發生在特朗普出席的白宮記者晚宴上，當時賓客因槍聲而躲避在桌子下，隨後美國特勤局迅速疏散特朗普及其政府官員。這一安全事件促使白金漢宮重新評估國王即將進行的美國國事訪問的安全安排。",
-          "background": "此次槍擊事件發生在華盛頓的華盛頓希爾頓酒店，當時正舉行白宮記者晚宴，特朗普及多位高層官員在場。根據報導，槍手試圖闖入晚宴，導致現場一片混亂，特勤局立即介入。這並非特朗普第一次面臨安全威脅，過去也曾有多次暗殺企圖。此次事件引發對於特朗普及其政府官員安全的廣泛關注，也使得即將到來的國王查爾斯訪美行程面臨額外的安全考量。",
-          "stakeholders": [
-            "白金漢宮",
-            "美國特勤局",
-            "特朗普政府",
-            "媒體機構",
-            "公共安全專家"
-          ],
-          "analysis": "此次事件凸顯了美國政治活動中的安全風險，特別是對於高層官員的保護需求。白金漢宮的安全檢討顯示出對於國王查爾斯訪美的重視，尤其是在特朗普的安全問題日益受到關注的背景下。參考報導指出，特朗普在此次事件中未受傷，但這一事件可能會影響未來的公共活動安排，並引發對於美國安全措施的質疑。不同報導的重點在於，SCMP強調了槍擊事件的混亂情況，而The Hindu則回顧了特朗普過去的安全威脅，顯示出對於其安全的長期關注。"
-        },
-        "topic_priority_score": 8,
-        "event_type": "security_event",
-        "supporting_sources": [
-          "The Hindu International",
-          "SCMP World"
-        ],
-        "supporting_titles": [
-          "White House correspondents’ dinner shooting: A look at previous assassination attempts on President Donald Trump",
-          "Trump escapes unharmed as gunman opens fire at White House press dinner hotel"
-        ],
-        "supporting_summaries": [
-          "The White House correspondents’ dinner shooting was not the first time that the U.S. President Donald Trump found himself at the centre of a security scare",
-          "US President Donald Trump and other top administration officials were likely targets of a gunman who tried to storm a White House correspondents’ dinner, the acting US attorney general said on Sunday, after a major security breach in the heart of Washington. Chaos erupted at the Washington Hilton on Saturday night as shots were fired near a security checkpoint outside the subterranean ballroom where the glitzy, high-profile event was being held. Secret Service agents, weapons drawn, rushed to..."
-        ],
-        "supporting_links": [
-          "https://www.thehindu.com/news/international/white-house-correspondents-dinner-shooting-previous-assassination-attempts-on-president-donald-trump/article70907924.ece",
-          "https://www.scmp.com/news/world/united-states-canada/article/3351447/trump-evacuated-white-house-correspondents-dinner-after-security-threat?utm_source=rss_feed"
-        ],
-        "source_count": 3
-      },
-      {
-        "category": "politics",
         "source_name": "Al Jazeera",
         "title": "‘State of war’: Why Israel has escalated attacks in Gaza",
         "link": "https://www.aljazeera.com/news/2026/4/26/state-of-war-why-israel-has-escalated-attacks-in-gaza?traffic_source=rss",
@@ -234,27 +197,73 @@
         "published_at_utc": "2026-04-26T15:32:20+00:00",
         "id": "https://www.aljazeera.com/?t=1777201119",
         "topic_type": "war_and_conflict",
-        "relevance_score": 18,
+        "relevance_score": 22,
         "briefing": {
           "news_focus": "Israel escalates attacks and expands control in Gaza Strip, sidelining the new US-backed technocratic administration.",
-          "news_focus_zh": "以色列在加薩地帶的攻擊行動顯著升級，並擴大了對該地區的控制，這一行動使得新成立的美國支持的技術性政府受到邊緣化。以色列的軍事行動被描述為進入了一種「戰爭狀態」，顯示出其對加薩地區局勢的強硬立場。",
-          "background": "以色列與哈馬斯之間的衝突歷史悠久，近期局勢因多種因素而加劇，包括地區政治變化和國際支持的轉變。美國對以色列的支持一向強勁，但新成立的技術性政府的出現，可能意圖促進和平談判，卻未能有效影響以色列的軍事策略。以色列的行動不僅影響加薩地帶的安全局勢，也對周邊國家的穩定造成潛在威脅，特別是在中東地區的地緣政治格局中。",
+          "news_focus_zh": "以色列加大對加沙地帶的攻擊力度，並擴大對該地區的控制，這一行動使得新成立的美國支持的技術性政府被邊緣化。以色列的軍事行動表明其在當前局勢下的強硬立場，並可能對地區穩定造成進一步影響。",
+          "background": "以色列與哈馬斯之間的衝突歷史悠久，經常伴隨著軍事行動和政治緊張。近期，加沙地帶的局勢因為內部政治變化而變得更加複雜，新成立的技術性政府旨在改善與以色列的關係並促進和平進程。然而，以色列的軍事升級行動顯示出其對這一新政府的懷疑，並可能反映出對哈馬斯持續威脅的擔憂。",
           "stakeholders": [
             "以色列政府",
             "哈馬斯",
             "美國政府",
-            "加薩地區居民",
-            "中東鄰國"
+            "阿拉伯國家",
+            "加沙地區居民"
           ],
-          "analysis": "以色列的軍事升級行動顯示出其對哈馬斯的強硬立場，並可能是對新政府的挑戰，意圖表明以色列不會因外部壓力而改變其安全策略。美國的支持雖然依然存在，但新政府的成立可能使以色列在某種程度上感受到壓力，因為這可能影響其在國際社會中的形象。各方利益關係錯綜複雜，以色列的行動可能引發周邊國家的反應，進一步加劇地區緊張局勢。未來的發展將取決於以色列是否會繼續其軍事行動，以及國際社會，特別是美國，如何調整其外交政策以應對這一局勢。"
+          "analysis": "此次以色列的攻擊升級標誌著其對加沙地區控制的強化，這與先前的相對克制相比，顯示出其對安全問題的高度重視。以色列的行動可能會引發國際社會的譴責，尤其是美國在支持新政府方面的努力可能會受到挑戰。此舉也可能導致哈馬斯的反擊，進一步加劇衝突。與此同時，這一局勢也可能影響到以色列與其他阿拉伯國家的關係，尤其是在和平進程尚未穩定的情況下。總體而言，這一變化可能會使地區局勢更加緊張，並使和平的前景變得更加渺茫。"
         },
         "topic_priority_score": 11,
         "event_type": "security_event",
+        "is_major_update": true,
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
         "supporting_links": [],
         "source_count": 1
+      },
+      {
+        "category": "politics",
+        "source_name": "SCMP World",
+        "title": "US press dinner shooting casts fresh spotlight on Trump’s security",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3351466/us-press-dinner-shooting-casts-fresh-spotlight-trumps-security?utm_source=rss_feed",
+        "summary": "The shooting on Saturday night of a Secret Service agent at the White House Correspondents’ Association dinner raises questions yet again about the protection afforded to America’s political leaders at a time of increased political violence. Hundreds of agents from several law enforcement agencies were tasked with protecting the annual bash, which US President Donald Trump headlined this year. Yet a suspect with a shotgun and other weapons ‌managed to get just a floor above the Washington...",
+        "published": "Sun, 26 Apr 2026 07:58:40 +0000",
+        "updated": "Sun, 26 Apr 2026 07:58:40 +0000",
+        "published_at_utc": "2026-04-26T07:58:40+00:00",
+        "id": "https://www.scmp.com/news/world/united-states-canada/article/3351466/us-press-dinner-shooting-casts-fresh-spotlight-trumps-security?utm_source=rss_feed",
+        "topic_type": "us_politics",
+        "relevance_score": 20,
+        "briefing": {
+          "news_focus": "The shooting on Saturday night of a Secret Service agent at the White House Correspondents’ Association dinner raises questions yet again about the protection afforded to America’s political leaders at a time of increased political violence. Hundreds of agents from several law enforcement agencies were tasked with protecting the annual bash, which US President Donald Trump headlined this year. Yet a suspect with a shotgun and other weapons ‌managed to get just a floor above the Washington...",
+          "news_focus_zh": "在華盛頓舉行的白宮記者協會晚會上，發生了一起槍擊事件，一名特勤局特工受傷。此事件引發了對美國政治領袖安全保護的質疑，尤其是在政治暴力上升的背景下。儘管有數百名執法機構的特工負責保護此次活動，但嫌疑人卻成功接近並攀升至距離總統特朗普一層樓的地方。",
+          "background": "白宮記者協會晚會是一年一度的活動，通常吸引大量媒體和政治人物參加。隨著美國政治氣候的緊張，特別是針對特朗普的多次安全威脅，這次槍擊事件再次突顯了對政治人物安全的擔憂。過去，特朗普曾多次成為安全事件的焦點，這使得此次事件的發生更加引人注目，並引發了對現行安全措施有效性的質疑。",
+          "stakeholders": [
+            "美國政府",
+            "特勤局",
+            "媒體機構",
+            "國際領導人",
+            "特朗普支持者"
+          ],
+          "analysis": "此次槍擊事件引發了對特朗普及其他政治領袖安全保護的廣泛關注。參考報導指出，這並非特朗普首次面臨安全威脅，過去也曾發生多起暗殺未遂事件，顯示出其安全問題的持續性。全球領導人對事件表示譴責，並對特朗普未受傷表示鬆口氣，這反映出國際社會對美國政治穩定的關注。各方對安全措施的有效性存在不同看法，部分人認為應加強保護措施，而另一些人則擔心過度的安全措施可能會影響言論自由和公共活動的開放性。"
+        },
+        "topic_priority_score": 8,
+        "event_type": "security_event",
+        "supporting_sources": [
+          "The Hindu International",
+          "Fox News World"
+        ],
+        "supporting_titles": [
+          "White House correspondents’ dinner shooting: A look at previous assassination attempts on President Donald Trump",
+          "World leaders condemn ‘unacceptable’ violence after armed attack disrupts WH Correspondents’ Dinner"
+        ],
+        "supporting_summaries": [
+          "The White House correspondents’ dinner shooting was not the first time that the U.S. President Donald Trump found himself at the centre of a security scare",
+          "Global leaders expressed relief that Trump was unharmed after an armed suspect allegedly attacked the White House Correspondents' Dinner in Washington."
+        ],
+        "supporting_links": [
+          "https://www.thehindu.com/news/international/white-house-correspondents-dinner-shooting-previous-assassination-attempts-on-president-donald-trump/article70907924.ece",
+          "https://www.foxnews.com/world/world-leaders-condemn-unacceptable-violence-armed-attack-disrupts-wh-correspondents-dinner"
+        ],
+        "source_count": 3
       }
     ],
     "economy": [
@@ -272,16 +281,16 @@
         "relevance_score": 18,
         "briefing": {
           "news_focus": "Some employers are reluctant to cut workers’ hours but pay them the same – but it just might be the future of work We keep hearing that the four-day workweek is the future. So why are so few businesses actually adopting it? Belgium, Iceland and Lithuania have passed legislation requiring the practice, and other countries in Europe are piloting the idea. Hundreds of companies in the UK have signed up for to give this a try. Microsoft tested the concept in Japan. Non-profits such as the 4 Day Week Foundation and WorkFour are dedicated to expanding the concept. Continue reading...",
-          "news_focus_zh": "許多雇主對於實施四天工作週持保留態度，儘管這被視為未來工作模式的潛力。比利時、冰島和立陶宛等國已立法要求實施四天工作週，而其他歐洲國家也在試點此概念。英國已有數百家公司參與這一計劃，微軟在日本也進行了相關測試。非營利組織如四天工作週基金會和WorkFour致力於推廣這一理念。",
-          "background": "四天工作週的概念在全球逐漸受到關注，尤其是在疫情後，許多企業開始重新評估工作模式。這一模式不僅能提高員工的工作滿意度，還可能提升生產力。儘管一些國家已經開始立法推動此政策，但在實際執行上，許多企業仍然對減少工作時間而不減薪持保留態度。這反映出企業對於生產力、成本和員工需求之間的權衡。",
+          "news_focus_zh": "許多雇主對於實施四天工作制持保留態度，儘管這一概念被認為是未來工作的趨勢。比利時、冰島和立陶宛已通過立法要求實施四天工作制，而其他歐洲國家也在試點這一想法。英國的數百家公司已經參與了這一計劃，並且微軟在日本也進行了相關測試。非營利組織如四天工作制基金會和WorkFour致力於推廣這一概念。",
+          "background": "四天工作制的推廣在全球逐漸受到重視，尤其在疫情後，許多企業開始重新思考工作模式。這一制度的支持者認為，縮短工作時間能提高員工的工作滿意度和生產力，並有助於改善工作與生活的平衡。儘管如此，許多雇主仍然擔心這會影響業務運營和盈利能力。部分國家如比利時等已經立法推動此政策，顯示出政府對於改善工作環境的重視，而英國和其他國家則在進行試點以評估其可行性。",
           "stakeholders": [
             "雇主",
             "員工",
             "政府",
             "非營利組織",
-            "企業顧問"
+            "企業"
           ],
-          "analysis": "本次新聞強調了雇主對四天工作週的抵觸情緒，這與先前已知的情況相比，突顯出企業在實施新工作模式上的猶豫。儘管立法和試點計劃在一些國家取得進展，企業仍然擔心這會影響生產力和盈利能力。這可能導致未來在推廣此概念時需要重新品牌化，以消除雇主的疑慮。此外，隨著越來越多的企業和國家參與，四天工作週的實施可能會成為一個全球性趨勢，迫使更多企業重新考慮其工作安排。"
+          "analysis": "本次新聞強調了雇主對四天工作制的抵觸情緒，與先前的討論相比，這一觀點更加明確，顯示出雇主在實施此制度時的顧慮。儘管許多國家和企業在推廣四天工作制，但實際上仍有相當一部分雇主對於減少工時但保持薪資的做法持懷疑態度。這可能反映出對於生產力和成本的擔憂。隨著越來越多的國家和企業進行試點，未來可能會出現更多的數據和案例來支持或反駁這一制度的有效性，進而影響各方的態度與政策制定。"
         },
         "topic_priority_score": 3,
         "event_type": "corporate_results",
@@ -294,29 +303,31 @@
       },
       {
         "category": "economy",
-        "source_name": "Reuters",
-        "title": "Raizen proposes alternative terms to creditors for debt restructuring, Bloomberg reports - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcnh0MnhuU3l2QWRtbFpQZHR6ZS1za3ZiOWNjZEFzNkVIeEkyd0ZZRUdQRVZVbDNYQ1RFekE3eW1taUpEaWdUaTVvTkYyQmJKTkNyckJkbVFWcENkUkZiM255azJIUWZDcEVUS1o5bHZwQUVXWDZIQmR2NWhaczBCTVRBQjZqbnMzVjRYc0hjV2Y2aGFGOEg3YWdkY2tVLS1XbGlHYTE5TDRVYjRSSWx5UG9kRWl1c3d3VjJOdnhZZG1pTlpGcUpaQ1dRdmg?oc=5",
-        "summary": "Raizen proposes alternative terms to creditors for debt restructuring, Bloomberg reports Reuters",
-        "published": "Sun, 26 Apr 2026 15:50:40 GMT",
-        "updated": "Sun, 26 Apr 2026 15:50:40 GMT",
-        "published_at_utc": "2026-04-26T15:50:40+00:00",
-        "id": "CBMizAFBVV95cUxPcnh0MnhuU3l2QWRtbFpQZHR6ZS1za3ZiOWNjZEFzNkVIeEkyd0ZZRUdQRVZVbDNYQ1RFekE3eW1taUpEaWdUaTVvTkYyQmJKTkNyckJkbVFWcENkUkZiM255azJIUWZDcEVUS1o5bHZwQUVXWDZIQmR2NWhaczBCTVRBQjZqbnMzVjRYc0hjV2Y2aGFGOEg3YWdkY2tVLS1XbGlHYTE5TDRVYjRSSWx5UG9kRWl1c3d3VjJOdnhZZG1pTlpGcUpaQ1dRdmg",
-        "topic_type": "emerging_markets",
-        "relevance_score": 16,
+        "source_name": "Nikkei Asia",
+        "title": "Australian dollar, Brazil real rise as investors favor China ties",
+        "link": "https://asia.nikkei.com/business/markets/currencies/australian-dollar-brazil-real-rise-as-investors-favor-china-ties",
+        "summary": "",
+        "published": "",
+        "updated": "",
+        "published_at_utc": "",
+        "id": "https://asia.nikkei.com/business/markets/currencies/australian-dollar-brazil-real-rise-as-investors-favor-china-ties",
+        "topic_type": "markets",
+        "relevance_score": 15,
         "briefing": {
-          "news_focus": "Raizen proposes alternative terms to creditors for debt restructuring, Bloomberg reports Reuters",
-          "news_focus_zh": "Raizen向債權人提出了替代性的條件，以進行債務重組。這一提議旨在重新協商其債務安排，以便更好地應對當前的財務挑戰。報導指出，這一舉措是Raizen在面對債務壓力時所採取的重要步驟。",
-          "background": "Raizen是一家在巴西運營的綜合能源公司，專注於生產和銷售生物燃料及其他能源產品。隨著全球經濟環境的變化及能源市場的波動，Raizen面臨著財務壓力，特別是在債務管理方面。債務重組通常是企業在經濟困難時的一種策略，旨在減輕財務負擔，恢復經營穩定性。此時，Raizen的債務重組提議可能反映出其對未來市場狀況的評估及應對策略。",
+          "news_focus": "Australian dollar, Brazil real rise as investors favor China ties",
+          "news_focus_zh": "澳大利亞元和巴西雷亞爾的匯率上升，顯示出投資者對於與中國的經濟關係的偏好。這一變化反映了市場對中國經濟復甦的信心，並可能影響到相關國家的貿易和投資流向。",
+          "background": "隨著中國經濟逐漸復甦，許多國家開始重新評估與中國的貿易關係。澳大利亞和巴西作為主要的商品出口國，對中國市場的依賴程度較高。澳大利亞主要出口礦產和農產品，而巴西則在農業和能源領域有著重要的貿易往來。近期中國的經濟數據顯示出增長的潛力，這使得投資者對於與中國的經濟聯繫更加樂觀，進而推動這些國家的貨幣升值。",
           "stakeholders": [
-            "Raizen",
-            "債權人",
-            "投資者"
+            "澳大利亞政府",
+            "巴西政府",
+            "中國政府",
+            "投資者",
+            "出口商"
           ],
-          "analysis": "Raizen的債務重組提議顯示出其面對財務挑戰的積極應對，這對於維持公司運營及投資者信心至關重要。債權人將會評估這些替代條件是否能夠更好地保護他們的利益，並可能影響未來的融資條件。若債權人接受這些條件，將有助於Raizen減輕短期內的財務壓力，並可能為其長期發展鋪平道路。然而，若債權人拒絕，Raizen可能需要考慮其他選擇，甚至可能面臨更嚴重的財務困境。此事件的後續發展將受到市場反應及債權人回應的影響。"
+          "analysis": "澳大利亞元和巴西雷亞爾的升值反映了市場對中國經濟復甦的信心，這對於這兩國的出口商來說是個利好消息。隨著中國需求的增加，這可能會進一步促進澳大利亞和巴西的經濟增長。然而，這一趨勢也可能引發其他國家的關注，特別是那些與中國競爭的商品出口國。不同於這一正面趨勢，部分分析師可能會擔心過度依賴中國市場的風險，尤其是在全球經濟不確定性增加的背景下。因此，未來的市場動態將取決於中國經濟的持續表現及其對外貿易政策的調整。"
         },
-        "topic_priority_score": 6,
-        "event_type": "macro_signal",
+        "topic_priority_score": 4,
+        "event_type": "market_repricing",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -326,28 +337,31 @@
       {
         "category": "economy",
         "source_name": "Reuters",
-        "title": "Trump bought at least $51 million in bonds in March, disclosure shows - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX0xRdkVkVzZzc0JxU0pRN0d5V1R0dU5xWlJZdGhsQWFoLVBHZmctczgwNndnRWNRRkd6VjFfenEza1RmRDZSbDlMS2p4SjBTUUUtendkRTA2V2VORFZYOGt1T3N0TFdNanF5MzBFSjJ3M1JqLXFyU3hUS0xvYThmWWROd2JnS0RuSlcyTTJ5dDZ6R09FR1NQaU5TZ3o1cnlrN0g0X1lfTGpQMHl1TTExcw?oc=5",
-        "summary": "Trump bought at least $51 million in bonds in March, disclosure shows Reuters",
-        "published": "Sat, 25 Apr 2026 17:37:43 GMT",
-        "updated": "Sat, 25 Apr 2026 17:37:43 GMT",
-        "published_at_utc": "2026-04-25T17:37:43+00:00",
-        "id": "CBMisAFBVV95cUxOX0xRdkVkVzZzc0JxU0pRN0d5V1R0dU5xWlJZdGhsQWFoLVBHZmctczgwNndnRWNRRkd6VjFfenEza1RmRDZSbDlMS2p4SjBTUUUtendkRTA2V2VORFZYOGt1T3N0TFdNanF5MzBFSjJ3M1JqLXFyU3hUS0xvYThmWWROd2JnS0RuSlcyTTJ5dDZ6R09FR1NQaU5TZ3o1cnlrN0g0X1lfTGpQMHl1TTExcw",
-        "topic_type": "markets",
-        "relevance_score": 15,
+        "title": "China's Hengli Petrochemical denies trade with Iran in response to US sanctions - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU1p0SFVlSExOVVpncXI1SEZpUkxnQ1BHUTFfQlVnRUt3QW5SY0dLdndfamFfbzI3WDdqcEk4M1VfWjF4N2ZWN1ZxLTA0cEdONWdsYmo2aTZscjlyZE11MXBDZzFfWEloaER2S0hOMm9LODNreE9mbC1kNWNRZmJDdUxFMmx1czN4WS0tUENfU3ZXSFdHdXF3STNYRjZtR2VtSWtHV0lWQ1Z6eWUxczlCbWFuN3ZYZ3paZVB4aVhtLThYUQ?oc=5",
+        "summary": "China's Hengli Petrochemical denies trade with Iran in response to US sanctions Reuters",
+        "published": "Sun, 26 Apr 2026 11:16:08 GMT",
+        "updated": "Sun, 26 Apr 2026 11:16:08 GMT",
+        "published_at_utc": "2026-04-26T11:16:08+00:00",
+        "id": "CBMiwgFBVV95cUxNU1p0SFVlSExOVVpncXI1SEZpUkxnQ1BHUTFfQlVnRUt3QW5SY0dLdndfamFfbzI3WDdqcEk4M1VfWjF4N2ZWN1ZxLTA0cEdONWdsYmo2aTZscjlyZE11MXBDZzFfWEloaER2S0hOMm9LODNreE9mbC1kNWNRZmJDdUxFMmx1czN4WS0tUENfU3ZXSFdHdXF3STNYRjZtR2VtSWtHV0lWQ1Z6eWUxczlCbWFuN3ZYZ3paZVB4aVhtLThYUQ",
+        "topic_type": "sanctions",
+        "relevance_score": 13,
         "briefing": {
-          "news_focus": "Trump bought at least $51 million in bonds in March, disclosure shows Reuters",
-          "news_focus_zh": "根據最新的披露，特朗普在三月份購買了至少5100萬美元的債券。這一交易引發了市場的關注，因為特朗普的財務活動通常會受到媒體和公眾的密切監視。",
-          "background": "特朗普在擔任美國總統期間及其後，經常面臨財務透明度的挑戰。隨著其商業活動的多樣化，對其資金流向的監督也變得更加重要。債券投資通常被視為相對穩定的資產，這筆交易可能反映了特朗普對市場的某種看法或未來經濟狀況的預測。此外，特朗普的財務狀況和投資決策也可能影響其政治生涯，尤其是在他考慮再次參選的背景下。",
+          "news_focus": "China's Hengli Petrochemical denies trade with Iran in response to US sanctions Reuters",
+          "news_focus_zh": "中國的恒力石化公司針對美國的制裁，公開否認與伊朗進行貿易。此舉顯示出該公司對美方制裁的回應，並試圖維護其在國際市場上的形象和商業運作。",
+          "background": "美國對伊朗的制裁政策已經持續多年，旨在限制伊朗的經濟活動，特別是在能源和石化領域。這些制裁對於與伊朗有貿易往來的國家和企業造成了壓力，迫使它們重新評估與伊朗的商業關係。中國作為全球最大的石油進口國之一，與伊朗有著密切的能源合作，但同時也面臨來自美國的制裁威脅。恒力石化作為中國的一家大型石化企業，其貿易決策受到國際政治環境的影響，特別是在美國施加壓力的背景下。",
           "stakeholders": [
-            "特朗普",
-            "投資者",
-            "市場分析師"
+            "恒力石化",
+            "美國政府",
+            "伊朗政府",
+            "中國政府",
+            "國際市場"
           ],
-          "analysis": "特朗普購買債券的行為可能顯示出他對經濟形勢的信心，或是他在尋求穩定的資產配置。這一舉動可能會引發投資者的關注，特別是在他未來可能再次參選的情況下，市場可能會對他的財務狀況進行更深入的分析。不同的觀察者可能會對這一交易有不同的解讀，有人可能會認為這是對未來經濟不確定性的防範，而另一些人則可能會質疑其資金來源及透明度問題。由於目前沒有其他報導提供進一步的細節，未來的市場反應和特朗普的進一步財務披露將是觀察的重點。"
+          "analysis": "恒力石化的否認表明其希望避免與美國的直接衝突，並保持其在國際市場上的競爭力。這一行動可能是出於對美國制裁的擔憂，因為與伊朗的貿易可能導致其在全球市場上受到制裁的風險。此外，這也反映出中國企業在面對國際政治壓力時的謹慎態度。儘管中國與伊朗之間的經濟合作仍然存在，但企業如恒力石化可能會選擇降低與伊朗的直接貿易，以避免潛在的法律和經濟後果。未來，隨著國際形勢的變化，恒力石化及其他中國企業的貿易策略可能會持續調整，以適應美國的制裁政策。"
         },
-        "topic_priority_score": 4,
-        "event_type": "market_repricing",
+        "topic_priority_score": 8,
+        "event_type": "macro_signal",
+        "is_repeat_story": true,
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -366,13 +380,6 @@
         "relevance_score": 9
       },
       {
-        "title": "OpenAI boss 'deeply sorry' for not telling police of mass shooting suspect's account",
-        "link": "https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Technology",
-        "published_at_utc": "2026-04-24T22:45:28+00:00",
-        "relevance_score": 9
-      },
-      {
         "title": "Google will invest as much as $40 billion in Anthropic",
         "link": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/",
         "source_name": "Ars Technica",
@@ -385,13 +392,6 @@
         "source_name": "TechCrunch",
         "published_at_utc": "2026-04-24T21:53:44+00:00",
         "relevance_score": 9
-      },
-      {
-        "title": "TechCrunch Mobility: Elon’s admission",
-        "link": "https://techcrunch.com/2026/04/26/techcrunch-mobility-elons-admission/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-26T16:03:00+00:00",
-        "relevance_score": 8
       },
       {
         "title": "‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents' Dinner Shooting",
@@ -415,33 +415,40 @@
         "relevance_score": 8
       },
       {
-        "title": "The plan to quietly kill Coyote v. Acme blew up in David Zaslav’s face",
-        "link": "https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-04-26T12:00:00+00:00",
-        "relevance_score": 8
-      },
-      {
         "title": "The Best Kindle Accessories (2026): Cases, Page Turners, Stickers",
         "link": "https://www.wired.com/story/best-kindle-accessories/",
         "source_name": "Wired",
         "published_at_utc": "2026-04-26T11:34:00+00:00",
         "relevance_score": 8
+      },
+      {
+        "title": "New robotic control software avoids jamming their joints",
+        "link": "https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-04-26T11:09:29+00:00",
+        "relevance_score": 8
+      },
+      {
+        "title": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
+        "link": "https://www.wired.com/story/best-smart-bird-feeders/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-04-26T11:04:00+00:00",
+        "relevance_score": 8
+      },
+      {
+        "title": "Trump fires the entire National Science Board",
+        "link": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-04-25T19:20:15+00:00",
+        "relevance_score": 8
       }
     ],
     "politics": [
       {
-        "title": "US press dinner shooting casts fresh spotlight on Trump’s security",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3351466/us-press-dinner-shooting-casts-fresh-spotlight-trumps-security?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-04-26T07:58:40+00:00",
-        "relevance_score": 20
-      },
-      {
         "title": "Suspected gunman likely targeting Trump administration officials at White House press dinner, acting attorney general says – live",
         "link": "https://www.theguardian.com/us-news/live/2026/apr/26/white-house-correspondents-dinner-shooting-latest-donald-trump-suspect-washington-hilton",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-26T15:53:09+00:00",
+        "published_at_utc": "2026-04-26T16:11:00+00:00",
         "relevance_score": 18
       },
       {
@@ -487,28 +494,28 @@
         "relevance_score": 18
       },
       {
-        "title": "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
-        "link": "https://www.aljazeera.com/news/2026/4/26/israeli-attacks-kill-at-least-four-palestinians-in-gaza?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-26T10:20:31+00:00",
-        "relevance_score": 18
-      },
-      {
         "title": "World reacts to shooting at White House correspondents’ dinner",
         "link": "https://www.aljazeera.com/news/2026/4/26/world-reacts-to-shooting-at-white-house-correspondents-dinner?traffic_source=rss",
         "source_name": "Al Jazeera",
         "published_at_utc": "2026-04-26T07:57:13+00:00",
         "relevance_score": 18
+      },
+      {
+        "title": "White House correspondents’ dinner shooting: A look at previous assassination attempts on President Donald Trump",
+        "link": "https://www.thehindu.com/news/international/white-house-correspondents-dinner-shooting-previous-assassination-attempts-on-president-donald-trump/article70907924.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-26T06:56:18+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "How gunfire threw Trump’s glitzy Washington Hilton dinner into chaos",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3351450/how-gunfire-threw-trumps-glitzy-washington-hilton-dinner-chaos?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-26T03:06:09+00:00",
+        "relevance_score": 18
       }
     ],
     "economy": [
-      {
-        "title": "Australian dollar, Brazil real rise as investors favor China ties",
-        "link": "https://asia.nikkei.com/business/markets/currencies/australian-dollar-brazil-real-rise-as-investors-favor-china-ties",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 15
-      },
       {
         "title": "C$ hits a four-week low as business curbs cloud U.S. economic reopening - Reuters",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTjc3bWl4MjQ3S0FGdlRQaG13VGxqTlNXU2w0X3dUVXZnbDQ1ODNsTEF4bnRjaWpTb0IxS1NZZ1hDOEt4YjZheDBOOFV5ZTFzZ0lBcFVnRVhESTlUZ1ZtUE92WW9LWWRfaGZNLWR6VC0zeU5PREpEeHNXRXhOdmVmR2xsOE1udUpBSlI2U0xPVGl2bHJFRHFKSG5GLTA4X2pNUXNHQXF0R2l6bkpnUWxlN2ZRLUNTN09URWhON0ZSazVZZ3BRV3B5VlV1cGwtNGlQRzhFYjZ6cG0?oc=5",
@@ -529,13 +536,6 @@
         "source_name": "SCMP Business",
         "published_at_utc": "2026-04-24T08:00:46+00:00",
         "relevance_score": 14
-      },
-      {
-        "title": "China's Hengli Petrochemical denies trade with Iran in response to US sanctions - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU1p0SFVlSExOVVpncXI1SEZpUkxnQ1BHUTFfQlVnRUt3QW5SY0dLdndfamFfbzI3WDdqcEk4M1VfWjF4N2ZWN1ZxLTA0cEdONWdsYmo2aTZscjlyZE11MXBDZzFfWEloaER2S0hOMm9LODNreE9mbC1kNWNRZmJDdUxFMmx1czN4WS0tUENfU3ZXSFdHdXF3STNYRjZtR2VtSWtHV0lWQ1Z6eWUxczlCbWFuN3ZYZ3paZVB4aVhtLThYUQ?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-26T11:16:08+00:00",
-        "relevance_score": 13
       },
       {
         "title": "Asia's great disconnect: Markets boom as Iran war fuels cost of living crisis",
@@ -570,6 +570,20 @@
         "link": "https://www.theguardian.com/business/2026/apr/26/britain-undermining-care-workers-depends-on-labour-immigration",
         "source_name": "The Guardian Business",
         "published_at_utc": "2026-04-26T10:27:18+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "UK departments at odds over energy demands of AI datacentres",
+        "link": "https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-26T07:00:08+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "How the shooting at the White House Correspondents' Dinner unfolded - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZnB5X2hhcnpyWlJ3S1d2OXV6a3FvRnJhS2lpT1ZTWDhQTnVHakFOajFyZFNxN2g3elNPcUtuanp3TExIV3B1WjRsc3VDanJkMnZXMUEyNHJnRjBPYl9wWDFRZjNaTm9Pb0ZLdzNKN0FQc05xRGVrWU1RV0ZWZVI4TTJra0xxaWlMTGFSYjAxYUd2XzNMR2hYTkVyUl9CTzZMUVdsR3ZyeU1MMm9lRmo5Y3BfNzA?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-26T05:34:00+00:00",
         "relevance_score": 12
       }
     ]
