@@ -1114,9 +1114,8 @@ def select_top_items_by_section(items):
             continue
 
         selected = []
-        for item in section_items:
             if len(selected) >= MAX_TOPICS_PER_SECTION:
-                        break
+                break
             if any(is_same_event(item, chosen) for chosen in selected):
                 continue
             if len(selected) < 2 and not is_hard_news_like(item):
@@ -1125,13 +1124,13 @@ def select_top_items_by_section(items):
 
         if len(selected) < MAX_TOPICS_PER_SECTION:
             for item in section_items:
-                  if len(selected) >= MAX_TOPICS_PER_SECTION:
+                if len(selected) >= MAX_TOPICS_PER_SECTION:
                     break
                 if any(chosen.get("title") == item.get("title") for chosen in selected):
                     continue
                 if any(is_same_event(item, chosen) for chosen in selected):
                     continue
-                selected.append(dict(item))              
+                selected.append(dict(item))
 
         enriched_selected = []
         for selected_item in selected[:MAX_TOPICS_PER_SECTION]:
