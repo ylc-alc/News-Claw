@@ -972,14 +972,13 @@ def select_top_items_by_section(items):
 
         enriched_selected = []
         for selected_item in selected[:MAX_TOPICS_PER_SECTION]:
-            supporting_sources, supporting_titles, supporting_links = find_supporting_sources(
-                selected_item, section_items
-            )
-            selected_item["supporting_sources"] = supporting_sources
-            selected_item["supporting_titles"] = supporting_titles
-            selected_item["supporting_links"] = supporting_links
-            selected_item["source_count"] = 1 + len(supporting_sources)
-            enriched_selected.append(selected_item)
+            supporting_sources, supporting_titles, supporting_summaries, supporting_links = find_supporting_sources(selected_item, section_items)
+
+        selected_item["supporting_sources"] = supporting_sources
+        selected_item["supporting_titles"] = supporting_titles
+        selected_item["supporting_summaries"] = supporting_summaries
+        selected_item["supporting_links"] = supporting_links
+        selected_item["source_count"] = 1 + len(supporting_sources)
 
         sections[section] = enriched_selected
 
