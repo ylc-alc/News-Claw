@@ -671,6 +671,48 @@ def is_explainer_style_title(title):
     return False
 
 
+def infer_category(title, summary, fallback_category):
+    text = {"title": title.lower(), "summary": summary.lower()}
+    category_maps = {
+        "technology": TECH_KEYWORDS,
+        "politics": POLITICS_KEYWORDS,
+        "economy": ECONOMY_KEYWORDS,
+    }
+
+    category_scores = {}
+    for category, keyword_map in category_maps.items():
+        score_map = keyword_score(text, keyword_map)
+        category_scores[category] = sum(score_map.values())
+
+    current_score = category_scores.get(fallback_category, 0)
+    best_category = max(category_scores, key=lambda c: category_scores[c])
+    best_score = category_scores.get(best_category, 0)
+
+    if best_score >= 4 and best_score >= current_score + 3:
+        return best_category
+    return fallback_category
+
+
+def is_hard_news_like(item):
+    title_l = item.get("title", "").lower()
+    summary_l = item.get("summary", "").lower()
+    blob = f"{title_l} {summary_l}"
+
+    if is_explainer_style_title(title_l):
+        return False
+    if contains_any(blob, LOW_SIGNAL_PATTERNS):
+        return False
+    return True
+
+
+def is_same_event(item_a, item_b):
+    if item_a.get("category") != item_b.get("category"):
+        return False
+    if story_overlap_score(item_a, item_b) >= 0.5:
+        return True
+    return title_overlap_score(item_a.get("title", ""), item_b.get("title", "")) >= 0.45
+
+
 def supporting_match_score(primary_item, candidate_item):
     primary_category = primary_item.get("category", "")
     candidate_category = candidate_item.get("category", "")
@@ -979,6 +1021,8 @@ def dedupe_items(items):
         title_clean = clean_text(title)
         summary_clean = clean_text(item.get("summary", ""))
         category = item.get("category", "")
+        original_category = item.get("category", "")
+        category = infer_category(title_clean, summary_clean, original_category)
         source_name = item.get("source_name", "")
 
         if not normalise_title(title_clean):
@@ -1042,7 +1086,6 @@ def dedupe_items(items):
 
     return deduped
 
-
 def sort_items(items):
     def sort_key(item):
         relevance = item.get("relevance_score", 0)
@@ -1071,36 +1114,24 @@ def select_top_items_by_section(items):
             continue
 
         selected = []
-        first_item = dict(section_items[0])
-        selected.append(first_item)
-
-        first_topic = first_item.get("topic_type", "general")
-        second_item = None
-        for item in section_items[1:]:
-            if item.get("topic_type", "general") != first_topic:
-                second_item = dict(item)
-                break
-        if second_item is None and len(section_items) > 1:
-            second_item = dict(section_items[1])
-        if second_item is not None:
-            selected.append(second_item)
-
-        selected_topics = {i.get("topic_type", "general") for i in selected}
-        third_item = None
         for item in section_items:
-            if any(i.get("title") == item.get("title") for i in selected):
-                continue
-            if item.get("topic_type", "general") not in selected_topics:
-                third_item = dict(item)
-                break
-        if third_item is None:
-            for item in section_items:
-                if not any(i.get("title") == item.get("title") for i in selected):
-                    if len(selected) < MAX_TOPICS_PER_SECTION:
-                        third_item = dict(item)
+            if len(selected) >= MAX_TOPICS_PER_SECTION:
                         break
-        if third_item is not None:
-            selected.append(third_item)
+            if any(is_same_event(item, chosen) for chosen in selected):
+                continue
+            if len(selected) < 2 and not is_hard_news_like(item):
+                continue
+            selected.append(dict(item))
+
+        if len(selected) < MAX_TOPICS_PER_SECTION:
+            for item in section_items:
+                  if len(selected) >= MAX_TOPICS_PER_SECTION:
+                    break
+                if any(chosen.get("title") == item.get("title") for chosen in selected):
+                    continue
+                if any(is_same_event(item, chosen) for chosen in selected):
+                    continue
+                selected.append(dict(item))              
 
         enriched_selected = []
         for selected_item in selected[:MAX_TOPICS_PER_SECTION]:
