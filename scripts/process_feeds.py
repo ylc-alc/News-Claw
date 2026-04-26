@@ -594,56 +594,103 @@ def build_event_stakeholders(category, topic_type, event_type):
     return category_map.get(event_type, ["政府", "企業", "市場", "公眾"])
     
 
-def find_supporting_sources(primary_item, candidate_items):
+def supporting_match_score(primary_item, candidate_item):
     primary_category = primary_item.get("category", "")
-    primary_topic = primary_item.get("topic_type", "general")
+    candidate_category = candidate_item.get("category", "")
+    if candidate_category != primary_category:
+        return None
+
     primary_source = primary_item.get("source_name", "")
+    candidate_source = candidate_item.get("source_name", "")
+    if not candidate_source or candidate_source == primary_source:
+        return None
+
+    primary_topic = primary_item.get("topic_type", "general")
+    candidate_topic = candidate_item.get("topic_type", "general")
+    topic_compatible = (
+        candidate_topic == primary_topic
+        or candidate_topic == "general"
+        or primary_topic == "general"
+    )
+    if not topic_compatible:
+        return None
+
+    overlap = story_overlap_score(primary_item, candidate_item)
+    title_overlap = title_overlap_score(
+        primary_item.get("title", ""),
+        candidate_item.get("title", "")
+    )
+
     primary_story_tokens = set(
         tokenise_story(primary_item.get("title", ""), primary_item.get("summary", ""))
     )
+    candidate_story_tokens = set(
+        tokenise_story(candidate_item.get("title", ""), candidate_item.get("summary", ""))
+    )
+    shared_tokens = primary_story_tokens.intersection(candidate_story_tokens)
+    shared_count = len(shared_tokens)
 
-    supporting_sources = []
-    supporting_titles = []
-    supporting_summaries = []
-    supporting_links = []
+    primary_event = primary_item.get("event_type", "")
+    candidate_event = candidate_item.get("event_type", "")
+    same_event_type = primary_event and candidate_event and primary_event == candidate_event
+    same_exact_topic = primary_topic != "general" and primary_topic == candidate_topic
+
+    if overlap < 0.35 and title_overlap < 0.30:
+        return None
+
+    if shared_count < 2:
+        return None
+
+    score = 0
+    score += overlap * 100
+    score += title_overlap * 35
+    score += min(shared_count, 5) * 5
+
+    if same_event_type:
+        score += 10
+    if same_exact_topic:
+        score += 8
+
+    return round(score, 2)
+
+
+def find_supporting_sources(primary_item, candidate_items):
+    ranked_candidates = []
     seen_sources = set()
 
     for item in candidate_items:
         if item is primary_item:
             continue
 
-        if item.get("category", "") != primary_category:
-            continue
-
         candidate_source = item.get("source_name", "")
-        if candidate_source == primary_source:
-            continue
-
         if candidate_source in seen_sources:
             continue
 
-        candidate_topic = item.get("topic_type", "general")
-        topic_compatible = (
-            candidate_topic == primary_topic
-            or candidate_topic == "general"
-            or primary_topic == "general"
-        )
-
-        if not topic_compatible:
+        match_score = supporting_match_score(primary_item, item)
+        if match_score is None:
             continue
 
-        overlap = story_overlap_score(primary_item, item)
-        candidate_story_tokens = set(
-            tokenise_story(item.get("title", ""), item.get("summary", ""))
-        )
-        shared_tokens = primary_story_tokens.intersection(candidate_story_tokens)
+        ranked_candidates.append({
+            "score": match_score,
+            "relevance_score": item.get("relevance_score", 0),
+            "published_at_utc": item.get("published_at_utc", ""),
+            "source_name": candidate_source,
+            "title": item.get("title", ""),
+            "summary": item.get("summary", ""),
+            "link": item.get("link", ""),
+        })
+        seen_sources.add(candidate_source)
 
-        if overlap >= 0.55 and len(shared_tokens) >= 3:
-            supporting_sources.append(candidate_source)
-            supporting_titles.append(item.get("title", ""))
-            supporting_summaries.append(item.get("summary", ""))
-            supporting_links.append(item.get("link", ""))
-            seen_sources.add(candidate_source)
+    ranked_candidates = sorted(
+        ranked_candidates,
+        key=lambda x: (x["score"], x["relevance_score"], x["published_at_utc"]),
+        reverse=True,
+    )[:2]
+
+    supporting_sources = [x["source_name"] for x in ranked_candidates]
+    supporting_titles = [x["title"] for x in ranked_candidates]
+    supporting_summaries = [x["summary"] for x in ranked_candidates]
+    supporting_links = [x["link"] for x in ranked_candidates]
 
     return supporting_sources, supporting_titles, supporting_summaries, supporting_links
 
