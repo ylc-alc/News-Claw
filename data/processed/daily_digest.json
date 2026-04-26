@@ -1,14 +1,14 @@
 {
-  "generated_at_utc": "2026-04-26T16:26:04.646775+00:00",
+  "generated_at_utc": "2026-04-26T17:14:26.755814+00:00",
   "summary": {
     "total_raw_items": 1078,
-    "total_deduped_items": 1058,
+    "total_deduped_items": 1001,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
+        "space_tech",
         "chips",
-        "general",
         "ai"
       ],
       "politics": [
@@ -17,9 +17,9 @@
         "us_politics"
       ],
       "economy": [
-        "general",
-        "markets",
-        "sanctions"
+        "sanctions",
+        "inflation",
+        "markets"
       ]
     },
     "multi_source_selected_count": 4
@@ -28,32 +28,33 @@
     "technology": [
       {
         "category": "technology",
-        "source_name": "Wired",
-        "title": "US Special Forces Soldier Arrested for Polymarket Bets on Maduro Raid",
-        "link": "https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket/",
-        "summary": "The master sergeant allegedly used classified intel to profit on the capture of Venezuelan president Nicolás Maduro, marking the first US arrest for insider trading on a prediction market.",
-        "published": "Thu, 23 Apr 2026 23:15:21 +0000",
-        "updated": "Thu, 23 Apr 2026 23:15:21 +0000",
-        "published_at_utc": "2026-04-23T23:15:21+00:00",
-        "id": "69ea95f7158c24cbe00a4d01",
-        "topic_type": "chips",
-        "relevance_score": 16,
+        "original_category": "politics",
+        "category_fit_score": 8,
+        "source_name": "The Hindu International",
+        "title": "China launches Pakistani satellite",
+        "link": "https://www.thehindu.com/sci-tech/china-launches-pakistani-satellite/article70907952.ece",
+        "summary": "The satellite named PRSC-EO3 was lifted off at 8:15 p.m. (Beijing Time) by a Long March-6 carrier rocket and successfully entered its planned orbit",
+        "published": "Sun, 26 Apr 2026 13:23:31 +0530",
+        "updated": "Sun, 26 Apr 2026 13:23:31 +0530",
+        "published_at_utc": "2026-04-26T07:53:31+00:00",
+        "id": "article-70907952",
+        "topic_type": "space_tech",
+        "relevance_score": 18,
         "briefing": {
-          "news_focus": "The master sergeant allegedly used classified intel to profit on the capture of Venezuelan president Nicolás Maduro, marking the first US arrest for insider trading on a prediction market.",
-          "news_focus_zh": "美國特種部隊的一名軍士長因涉嫌利用機密情報在預測市場上對委內瑞拉總統尼古拉斯·馬杜羅的捕獲進行賭注而被逮捕。這是美國首次因內幕交易在預測市場上進行逮捕，顯示出對於這類行為的法律追責正在加強。",
-          "background": "預測市場是一種允許參與者對未來事件結果進行賭注的市場，通常被視為一種新興的投資工具。隨著科技的發展，這類市場的合法性與道德性引發了廣泛討論。美國政府對於內幕交易的打擊一直相對嚴厲，尤其是在涉及國家安全或機密情報的情況下。此次事件突顯了軍事人員在使用敏感信息時的道德與法律界限，並可能引發對於軍事人員參與金融市場行為的進一步監管。",
+          "news_focus": "The satellite named PRSC-EO3 was lifted off at 8:15 p.m. (Beijing Time) by a Long March-6 carrier rocket and successfully entered its planned orbit",
+          "news_focus_zh": "中國於北京時間晚上8:15發射了一顆名為PRSC-EO3的衛星，該衛星由長征六號運載火箭成功送入預定軌道。這次發射標誌著中巴合作在太空領域的又一進展。",
+          "background": "中巴兩國在科技和軍事領域的合作已持續多年，特別是在衛星技術方面。中國在衛星發射和製造方面擁有先進的技術，而巴基斯坦則希望透過這些合作提升自身的科技能力。PRSC-EO3衛星的發射不僅有助於巴基斯坦的地球觀測能力，還可能在農業、環境監測和城市規劃等方面提供支持。這一發射也反映了中國在全球航天市場中的日益增長的影響力。",
           "stakeholders": [
-            "美國政府",
-            "特種部隊",
-            "預測市場參與者",
-            "金融監管機構",
-            "法律專家"
+            "中國政府",
+            "巴基斯坦政府",
+            "航天科技企業",
+            "地球觀測機構",
+            "國際社會"
           ],
-          "analysis": "此次逮捕標誌著美國在打擊內幕交易方面的一個重要進展，特別是在預測市場這一新興領域。與以往僅針對傳統金融市場的內幕交易不同，這次行動顯示出政府對於利用機密情報進行金融操作的零容忍態度。這可能會導致其他軍事或政府人員在未來對參與此類市場的行為更加謹慎。此外，此事件也可能促使立法機構考慮對預測市場的規範進行更為嚴格的檢討，以防止類似事件的再次發生，並保護國家安全。"
+          "analysis": "此次衛星發射展示了中國與巴基斯坦之間日益緊密的合作關係，尤其是在科技領域。對於巴基斯坦而言，這不僅是技術獲取的機會，也可能增強其在地區內的戰略地位。中國則透過這類合作進一步擴展其在南亞的影響力，並展示其航天技術的實力。未來，隨著中巴合作的深入，可能會出現更多類似的發射計畫，這將對兩國的經濟和科技發展產生積極影響。"
         },
-        "topic_priority_score": 10,
-        "event_type": "commercial_update",
-        "is_major_update": true,
+        "topic_priority_score": 4,
+        "event_type": "product_launch",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -62,83 +63,79 @@
       },
       {
         "category": "technology",
-        "source_name": "The Verge",
-        "title": "Trump turns the WHCD shooting into a pitch for the White House ballroom",
-        "link": "https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom",
-        "summary": "Within hours of an armed gunman's attempt to enter the White House Correspondents Dinner, attended by top administration officials and hundreds of journalists, President Donald Trump did what he does best: use the assassination attempt to defend his ballroom project. During a White House press conference just hours after he and several cabinet members were […]",
-        "published": "2026-04-26T12:18:02-04:00",
-        "updated": "2026-04-26T12:18:02-04:00",
-        "published_at_utc": "2026-04-26T16:18:02+00:00",
-        "id": "https://www.theverge.com/?p=918843",
-        "topic_type": "general",
-        "relevance_score": 12,
+        "original_category": "politics",
+        "category_fit_score": 7,
+        "source_name": "Taipei Times",
+        "title": "Singapore moots tighter semiconductor trade ties",
+        "link": "https://www.taipeitimes.com/News/taiwan/archives/2026/04/27/2003856316",
+        "summary": "",
+        "published": "",
+        "updated": "2026-04-27T08:00:00+08:00",
+        "published_at_utc": "2026-04-27T00:00:00+00:00",
+        "id": "https://www.taipeitimes.com/News/taiwan/archives/2026/04/27/2003856316",
+        "topic_type": "chips",
+        "relevance_score": 17,
         "briefing": {
-          "news_focus": "Within hours of an armed gunman's attempt to enter the White House Correspondents Dinner, attended by top administration officials and hundreds of journalists, President Donald Trump did what he does best: use the assassination attempt to defend his ballroom project. During a White House press conference just hours after he and several cabinet members were […]",
-          "news_focus_zh": "在白宮記者晚會上，發生了一起持槍者試圖闖入的事件，該晚會吸引了許多高層官員和記者。隨後，總統唐納德·特朗普在白宮的新聞發布會上，利用這一刺殺未遂事件為他的舞廳計畫辯護，顯示出他擅長將危機轉化為政治資本。",
-          "background": "白宮記者晚會是美國政治文化中的重要事件，通常吸引政界與媒體的關注。特朗普政府在任內經常面臨來自媒體的批評，這使得記者晚會成為一個展示其政策和立場的舞台。此次持槍事件的發生，無疑為特朗普提供了一個機會，來強調其安全政策及舞廳計畫的必要性，這一計畫旨在提升白宮的接待能力和形象。",
+          "news_focus": "Singapore moots tighter semiconductor trade ties",
+          "news_focus_zh": "新加坡提出加強半導體貿易關係的構想，顯示出該國對於半導體產業的重視與未來發展的規劃。這一提議可能會影響新加坡在全球半導體供應鏈中的角色，並促進與其他國家的貿易合作。",
+          "background": "新加坡是全球半導體產業的重要樞紐，擁有多家知名半導體製造商及研發機構。隨著全球對半導體需求的持續增長，各國政府均在尋求加強自身在此領域的競爭力。新加坡的半導體產業不僅支撐了本地經濟，還在全球供應鏈中扮演關鍵角色。近期，隨著地緣政治緊張局勢的升高，各國對於半導體的貿易政策也日益重視，這使得新加坡提出更緊密的貿易關係成為一個重要的議題。",
           "stakeholders": [
-            "唐納德·特朗普",
-            "白宮官員",
-            "記者",
-            "社交媒體用戶",
-            "政治評論員"
+            "新加坡政府",
+            "半導體製造商",
+            "國際貿易夥伴",
+            "競爭國家",
+            "投資者"
           ],
-          "analysis": "特朗普利用此次事件來強化其舞廳計畫的合理性，顯示出他在危機中尋求政治利益的策略。然而，參考報導指出，社交媒體上出現了大量關於事件被“安排”的陰謀論，這反映出社會對事件真相的懷疑與分歧。左翼和右翼的意見領袖均參與了這一討論，顯示出政治極化的現象。這些陰謀論可能會影響公眾對事件的認知，並進一步加劇社會分裂，未來可能會對特朗普的舞廳計畫造成影響，尤其是在公眾信任度方面。"
+          "analysis": "新加坡加強半導體貿易關係的提議，可能會引發多方利益的重新調整。首先，新加坡希望透過此舉提升自身在全球半導體供應鏈中的影響力，並吸引更多外資進入其半導體產業。其次，這一提議可能會促使其他國家重新評估與新加坡的貿易關係，尤其是那些在半導體領域有競爭的國家，如美國和中國。這些國家可能會針對新加坡的政策進行反制或調整自身的貿易策略，以維持其市場地位。此外，若新加坡成功推動此政策，將可能對全球半導體市場的供應鏈結構產生深遠影響。"
         },
-        "topic_priority_score": 3,
+        "topic_priority_score": 10,
         "event_type": "strategic_move",
-        "supporting_sources": [
-          "Wired"
-        ],
-        "supporting_titles": [
-          "‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents' Dinner Shooting"
-        ],
-        "supporting_summaries": [
-          "The word “staged” exploded on social media following the attack, as both right and left-wing influencers and anonymous accounts spread unfounded conspiracy theories."
-        ],
-        "supporting_links": [
-          "https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/"
-        ],
-        "source_count": 2
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       },
       {
         "category": "technology",
-        "source_name": "BBC Technology",
-        "title": "OpenAI boss 'deeply sorry' for not telling police of mass shooting suspect's account",
-        "link": "https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Sam Altman on Thursday wrote a brief letter of apology to the people of Tumbler Ridge, Canada in the wake of a January mass shooting.",
-        "published": "Fri, 24 Apr 2026 22:45:28 GMT",
-        "updated": "Fri, 24 Apr 2026 22:45:28 GMT",
-        "published_at_utc": "2026-04-24T22:45:28+00:00",
-        "id": "https://www.bbc.com/news/articles/cq6je7e80r7o#0",
+        "original_category": "politics",
+        "category_fit_score": 7,
+        "source_name": "Taipei Times",
+        "title": "Alphabet Inc to invest up to US$40bn in Anthropic",
+        "link": "https://www.taipeitimes.com/News/biz/archives/2026/04/27/2003856284",
+        "summary": "",
+        "published": "",
+        "updated": "2026-04-27T08:00:00+08:00",
+        "published_at_utc": "2026-04-27T00:00:00+00:00",
+        "id": "https://www.taipeitimes.com/News/biz/archives/2026/04/27/2003856284",
         "topic_type": "ai",
-        "relevance_score": 9,
+        "relevance_score": 17,
         "briefing": {
-          "news_focus": "Sam Altman on Thursday wrote a brief letter of apology to the people of Tumbler Ridge, Canada in the wake of a January mass shooting.",
-          "news_focus_zh": "OpenAI首席執行官Sam Altman對加拿大Tumbler Ridge社區表示深感抱歉，因為公司未能及時通知執法機構有關一名大規模槍擊事件嫌疑人的帳戶。這封道歉信是在一月發生的槍擊事件後發出的，Altman強調了對社區的歉意。",
-          "background": "Tumbler Ridge是一個位於加拿大不列顛哥倫比亞省的小鎮，近期發生了一起大規模槍擊事件，造成社區的恐慌和悲痛。槍擊事件引發了對於科技公司在處理潛在危險用戶數據方面的責任討論。OpenAI作為一家領先的人工智慧公司，面對其技術可能被濫用的風險，社會對其行為的期望也隨之提高。這一事件凸顯了科技公司在公共安全方面的角色及其應承擔的責任。",
+          "news_focus": "Alphabet Inc to invest up to US$40bn in Anthropic",
+          "news_focus_zh": "Alphabet Inc. 宣布將對人工智慧公司 Anthropic 投資高達 400 億美元，此舉顯示出其在 AI 領域的積極擴張策略。這筆投資可能會加強 Alphabet 在競爭激烈的科技市場中的地位，特別是在人工智慧技術的發展上。",
+          "background": "Anthropic 是一家專注於人工智慧的初創公司，致力於開發安全和可控的 AI 系統。隨著全球對 AI 技術需求的增加，科技巨頭們紛紛加碼投資以保持競爭優勢。近期，亞馬遜也進行了一筆較小的投資，這顯示出市場對於 AI 公司的重視程度日益上升。Alphabet 的大規模投資可能會引發其他科技公司進一步加強對 AI 領域的投入，進而影響整個行業的發展方向。",
           "stakeholders": [
-            "Sam Altman",
-            "OpenAI",
-            "Tumbler Ridge社區",
-            "執法機構",
-            "公眾"
+            "Alphabet Inc.",
+            "Anthropic",
+            "Amazon",
+            "科技產業",
+            "投資者"
           ],
-          "analysis": "Altman的道歉信反映了OpenAI在社會責任方面的壓力，特別是在涉及公共安全的情況下。社區居民對於公司未能及時通報執法機構表示失望，這可能會影響OpenAI在未來的信譽與用戶信任。參考報導中強調了Altman對社區的歉意，並未提及具體的後續行動或改進措施，這可能使得社區對於未來的安全感到不安。此事件可能促使OpenAI重新評估其用戶數據管理政策，並加強與執法機構的合作，以防止類似事件再次發生。"
+          "analysis": "Alphabet 的投資意圖在於加強其在 AI 領域的技術優勢，尤其是在面對來自其他科技巨頭如亞馬遜的競爭時。參考報導中提到，亞馬遜最近的投資行動可能是促使 Alphabet 加快決策的因素之一。這樣的競爭動態可能會導致市場上出現更多的資金流入 AI 領域，進一步推動技術創新與應用。然而，這也可能引發對於 AI 技術安全性與倫理的討論，因為大型科技公司在推動技術進步的同時，也需考慮其潛在風險和社會影響。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
         "supporting_sources": [
-          "TechCrunch"
+          "Ars Technica"
         ],
         "supporting_titles": [
-          "OpenAI CEO apologizes to Tumbler Ridge community"
+          "Google will invest as much as $40 billion in Anthropic"
         ],
         "supporting_summaries": [
-          "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting."
+          "This follows a similar, but smaller, investment by Amazon just days ago."
         ],
         "supporting_links": [
-          "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/"
+          "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/"
         ],
         "source_count": 2
       }
@@ -146,6 +143,8 @@
     "politics": [
       {
         "category": "politics",
+        "original_category": "politics",
+        "category_fit_score": 13,
         "source_name": "The Hindu International",
         "title": "Iran's Foreign Minister Araghchi returns to Islamabad as Pakistan races to save talks with U.S.",
         "link": "https://www.thehindu.com/news/international/iran-foreign-minister-abbas-araghchi-in-pakistan-islamabad-us-ceasefire-talks/article70909147.ece",
@@ -158,16 +157,16 @@
         "relevance_score": 25,
         "briefing": {
           "news_focus": "Two Pakistani officials did not say when the Americans might return to the region to follow up on historic face-to-face talks earlier this month.",
-          "news_focus_zh": "伊朗外交部長阿拉赫奇返回伊斯蘭堡，這一行動是在巴基斯坦努力挽救與美國的談判之際進行的。雖然兩名巴基斯坦官員未透露美方何時會回到該地區，但此舉顯示出巴基斯坦在促進美伊對話方面的積極角色。",
-          "background": "近期，美國與伊朗之間的緊張關係因以色列與哈馬斯的衝突而加劇，雙方在多項議題上持不同立場。巴基斯坦作為中介，試圖促進美伊之間的外交對話，尤其是在美國與伊朗的關係日益緊張的背景下。此時，巴基斯坦的外交努力顯得尤為重要，因為它可能影響到地區穩定及美國在中東的戰略布局。",
+          "news_focus_zh": "伊朗外交部長阿拉赫奇返回伊斯蘭堡，顯示巴基斯坦正努力挽救與美國的談判。雖然兩名巴基斯坦官員未透露美方何時會回到該地區進行後續會談，但此舉顯示出巴基斯坦在美伊關係中的調解角色。",
+          "background": "近期美國與伊朗之間的緊張關係因以色列與哈馬斯的衝突而加劇。巴基斯坦作為地區重要的中介國，試圖促進美伊之間的對話，特別是在美國對伊朗的制裁和地緣政治壓力增強的背景下。伊朗在此過程中堅持其立場，而美方則在尋求對話的同時，面臨內部與外部的壓力，這使得談判進展緩慢。",
           "stakeholders": [
-            "伊朗政府",
-            "美國政府",
-            "巴基斯坦政府",
-            "以色列政府",
-            "地區中介國家"
+            "伊朗",
+            "美國",
+            "巴基斯坦",
+            "以色列",
+            "哈馬斯"
           ],
-          "analysis": "此次阿拉赫奇的回訪標誌著巴基斯坦在美伊談判中扮演的角色進一步升級。根據參考報導，儘管美伊雙方仍堅持各自立場，巴基斯坦的介入可能為未來的外交突破鋪平道路。與先前的情況相比，此次會談的具體時間尚未確定，顯示出談判的複雜性與不確定性。各方在此議題上的立場存在差異，美方希望透過強硬立場施壓，而伊朗則堅持其核心利益不受損害，這使得巴基斯坦的調解工作變得更加艱難。"
+          "analysis": "此次阿拉赫奇的回訪標誌著巴基斯坦在美伊談判中扮演的調解者角色的強化，反映出巴基斯坦對於促進地區穩定的重視。根據參考報導，儘管雙方仍然堅持各自的立場，但調解者們仍然希望能夠在美以衝突的背景下找到外交突破。這一進展與先前的狀況相比，顯示出巴基斯坦在美伊對話中的重要性提升，並可能促使美方重新考慮其對伊政策。然而，雙方的堅持可能使得實質性進展仍然面臨挑戰。"
         },
         "topic_priority_score": 7,
         "event_type": "diplomatic_move",
@@ -188,80 +187,96 @@
       },
       {
         "category": "politics",
-        "source_name": "Al Jazeera",
-        "title": "‘State of war’: Why Israel has escalated attacks in Gaza",
-        "link": "https://www.aljazeera.com/news/2026/4/26/state-of-war-why-israel-has-escalated-attacks-in-gaza?traffic_source=rss",
-        "summary": "Israel escalates attacks and expands control in Gaza Strip, sidelining the new US-backed technocratic administration.",
-        "published": "Sun, 26 Apr 2026 15:32:20 +0000",
-        "updated": "Sun, 26 Apr 2026 15:32:20 +0000",
-        "published_at_utc": "2026-04-26T15:32:20+00:00",
-        "id": "https://www.aljazeera.com/?t=1777201119",
+        "original_category": "politics",
+        "category_fit_score": 5,
+        "source_name": "The Hindu International",
+        "title": "Israel PM says Hezbollah 'dismantling' ceasefire with Lebanon",
+        "link": "https://www.thehindu.com/news/international/israel-pm-says-hezbollah-dismantling-ceasefire-with-lebanon/article70909606.ece",
+        "summary": "Under the terms of the truce, which was recently extended, Israel reserves the right to respond to “planned, imminent or ongoing attacks” and has been striking targets in south Lebanon almost every day",
+        "published": "Sun, 26 Apr 2026 22:32:12 +0530",
+        "updated": "Sun, 26 Apr 2026 22:32:12 +0530",
+        "published_at_utc": "2026-04-26T17:02:12+00:00",
+        "id": "article-70909606",
         "topic_type": "war_and_conflict",
-        "relevance_score": 22,
+        "relevance_score": 24,
         "briefing": {
-          "news_focus": "Israel escalates attacks and expands control in Gaza Strip, sidelining the new US-backed technocratic administration.",
-          "news_focus_zh": "以色列加大對加沙地帶的攻擊力度，並擴大對該地區的控制，這一行動使得新成立的美國支持的技術性政府被邊緣化。以色列的軍事行動表明其在當前局勢下的強硬立場，並可能對地區穩定造成進一步影響。",
-          "background": "以色列與哈馬斯之間的衝突歷史悠久，經常伴隨著軍事行動和政治緊張。近期，加沙地帶的局勢因為內部政治變化而變得更加複雜，新成立的技術性政府旨在改善與以色列的關係並促進和平進程。然而，以色列的軍事升級行動顯示出其對這一新政府的懷疑，並可能反映出對哈馬斯持續威脅的擔憂。",
+          "news_focus": "Under the terms of the truce, which was recently extended, Israel reserves the right to respond to “planned, imminent or ongoing attacks” and has been striking targets in south Lebanon almost every day",
+          "news_focus_zh": "以色列總理表示，真主黨正在破壞與黎巴嫩的停火協議。根據最近延長的停火條款，以色列保留對「計劃中的、迫在眉睫的或正在進行的攻擊」進行回應的權利，並幾乎每天對南黎巴嫩的目標進行打擊。",
+          "background": "以色列與黎巴嫩之間的緊張關係長期存在，尤其是以色列與真主黨之間的衝突。最近的停火協議旨在減少雙方的軍事行動，但局勢依然脆弱。以色列的軍事行動主要針對真主黨的軍事設施，並且在停火期間，雙方的軍事對峙仍然持續。這一背景下，真主黨的行動被視為對以色列的挑釁，可能會進一步激化衝突。",
           "stakeholders": [
             "以色列政府",
-            "哈馬斯",
+            "黎巴嫩政府",
+            "真主黨",
             "美國政府",
-            "阿拉伯國家",
-            "加沙地區居民"
+            "國際社會"
           ],
-          "analysis": "此次以色列的攻擊升級標誌著其對加沙地區控制的強化，這與先前的相對克制相比，顯示出其對安全問題的高度重視。以色列的行動可能會引發國際社會的譴責，尤其是美國在支持新政府方面的努力可能會受到挑戰。此舉也可能導致哈馬斯的反擊，進一步加劇衝突。與此同時，這一局勢也可能影響到以色列與其他阿拉伯國家的關係，尤其是在和平進程尚未穩定的情況下。總體而言，這一變化可能會使地區局勢更加緊張，並使和平的前景變得更加渺茫。"
+          "analysis": "此次報導中，以色列總理的聲明強調了真主黨對停火協議的挑戰，這顯示出局勢的緊張程度有所升高。根據參考報導，阿爾賈茲拉提到以色列摧毀了南黎巴嫩的太陽能板，這可能是以色列對真主黨行動的直接回應，而福克斯新聞則報導以色列部署了新型自走炮，顯示出以色列在軍事上進行升級以應對真主黨的威脅。這些變化表明，儘管停火協議仍在進行，但雙方在軍事準備上都未有減少，未來的談判可能會受到這些軍事行動的影響，進一步複雜化和平進程。"
         },
         "topic_priority_score": 11,
         "event_type": "security_event",
         "is_major_update": true,
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "supporting_sources": [
+          "Al Jazeera",
+          "Fox News World"
+        ],
+        "supporting_titles": [
+          "Israel destroys solar panels in south Lebanon",
+          "Israel unveils game-changing artillery against Iran-backed Hezbollah amid fragile ceasefire"
+        ],
+        "supporting_summaries": [
+          "Israel destroys solar panels in south Lebanon",
+          "Israel deploys its new self-propelled Ro'em howitzer against Hezbollah targets as ceasefire talks between Israel and Lebanon slated to continue in Washington later this week."
+        ],
+        "supporting_links": [
+          "https://www.aljazeera.com/video/newsfeed/2026/4/26/israel-destroys-solar-panels-in-south-lebanon?traffic_source=rss",
+          "https://www.foxnews.com/world/israel-unveils-game-changing-artillery-against-iran-backed-hezbollah-amid-fragile-ceasefire"
+        ],
+        "source_count": 3
       },
       {
         "category": "politics",
-        "source_name": "SCMP World",
-        "title": "US press dinner shooting casts fresh spotlight on Trump’s security",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3351466/us-press-dinner-shooting-casts-fresh-spotlight-trumps-security?utm_source=rss_feed",
-        "summary": "The shooting on Saturday night of a Secret Service agent at the White House Correspondents’ Association dinner raises questions yet again about the protection afforded to America’s political leaders at a time of increased political violence. Hundreds of agents from several law enforcement agencies were tasked with protecting the annual bash, which US President Donald Trump headlined this year. Yet a suspect with a shotgun and other weapons ‌managed to get just a floor above the Washington...",
-        "published": "Sun, 26 Apr 2026 07:58:40 +0000",
-        "updated": "Sun, 26 Apr 2026 07:58:40 +0000",
-        "published_at_utc": "2026-04-26T07:58:40+00:00",
-        "id": "https://www.scmp.com/news/world/united-states-canada/article/3351466/us-press-dinner-shooting-casts-fresh-spotlight-trumps-security?utm_source=rss_feed",
+        "original_category": "politics",
+        "category_fit_score": 13,
+        "source_name": "The Hindu International",
+        "title": "Israel-Iran war live: Trump says Iran can call U.S. if it wants to negotiate",
+        "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
+        "summary": "Iran FM back in Pakistan after Oman visit, says report; Iran's Foreign ​Minister Abbas Araghchi ‌held talks in ​Oman, discussed security ‌in the Strait of Hormuz, ‌broader ⁠Gulf waters, ⁠and diplomatic efforts to end the ​Iran-U.S. conflict, ‌according to Iran Foreign Ministry",
+        "published": "Sun, 26 Apr 2026 22:23:13 +0530",
+        "updated": "Sun, 26 Apr 2026 22:23:13 +0530",
+        "published_at_utc": "2026-04-26T16:53:13+00:00",
+        "id": "article-70907623",
         "topic_type": "us_politics",
         "relevance_score": 20,
         "briefing": {
-          "news_focus": "The shooting on Saturday night of a Secret Service agent at the White House Correspondents’ Association dinner raises questions yet again about the protection afforded to America’s political leaders at a time of increased political violence. Hundreds of agents from several law enforcement agencies were tasked with protecting the annual bash, which US President Donald Trump headlined this year. Yet a suspect with a shotgun and other weapons ‌managed to get just a floor above the Washington...",
-          "news_focus_zh": "在華盛頓舉行的白宮記者協會晚會上，發生了一起槍擊事件，一名特勤局特工受傷。此事件引發了對美國政治領袖安全保護的質疑，尤其是在政治暴力上升的背景下。儘管有數百名執法機構的特工負責保護此次活動，但嫌疑人卻成功接近並攀升至距離總統特朗普一層樓的地方。",
-          "background": "白宮記者協會晚會是一年一度的活動，通常吸引大量媒體和政治人物參加。隨著美國政治氣候的緊張，特別是針對特朗普的多次安全威脅，這次槍擊事件再次突顯了對政治人物安全的擔憂。過去，特朗普曾多次成為安全事件的焦點，這使得此次事件的發生更加引人注目，並引發了對現行安全措施有效性的質疑。",
+          "news_focus": "Iran FM back in Pakistan after Oman visit, says report; Iran's Foreign ​Minister Abbas Araghchi ‌held talks in ​Oman, discussed security ‌in the Strait of Hormuz, ‌broader ⁠Gulf waters, ⁠and diplomatic efforts to end the ​Iran-U.S. conflict, ‌according to Iran Foreign Ministry",
+          "news_focus_zh": "伊朗外長阿巴斯·阿拉赫奇在訪問阿曼後返回巴基斯坦，並表示他在阿曼的會談中討論了霍爾木茲海及更廣泛的海灣水域的安全問題，以及結束伊朗與美國衝突的外交努力。特朗普則表示，如果伊朗希望進行談判，可以隨時聯繫美國。",
+          "background": "伊朗與美國之間的緊張關係持續升溫，尤其是在霍爾木茲海這一重要戰略水域。該地區對全球石油供應至關重要，任何衝突都可能影響國際市場。伊朗外長的訪問顯示出其在尋求外交解決方案方面的努力，尤其是在美國與伊朗之間的直接接觸有限的情況下。此外，伊朗與中國的關係也在加強，報導指出中國對伊朗的支持在近期有所增加，這可能影響地區的權力平衡。",
           "stakeholders": [
+            "伊朗政府",
             "美國政府",
-            "特勤局",
-            "媒體機構",
-            "國際領導人",
-            "特朗普支持者"
+            "中國政府",
+            "巴基斯坦政府",
+            "海灣國家"
           ],
-          "analysis": "此次槍擊事件引發了對特朗普及其他政治領袖安全保護的廣泛關注。參考報導指出，這並非特朗普首次面臨安全威脅，過去也曾發生多起暗殺未遂事件，顯示出其安全問題的持續性。全球領導人對事件表示譴責，並對特朗普未受傷表示鬆口氣，這反映出國際社會對美國政治穩定的關注。各方對安全措施的有效性存在不同看法，部分人認為應加強保護措施，而另一些人則擔心過度的安全措施可能會影響言論自由和公共活動的開放性。"
+          "analysis": "特朗普的表態顯示出美國在面對伊朗時的矛盾立場，既希望保持對話的可能性，又不願意直接參與談判。參考報導1指出，特朗普取消了美國代表團前往巴基斯坦的計劃，這可能表明美國對於與伊朗的外交接觸仍持謹慎態度。另一方面，參考報導2提到中國對伊朗的支持，這可能使伊朗在與美國的談判中擁有更多的籌碼。隨著地緣政治的變化，各方的利益關係也在不斷調整，未來的發展將取決於各國如何平衡自身利益與地區穩定之間的關係。"
         },
         "topic_priority_score": 8,
         "event_type": "security_event",
         "supporting_sources": [
-          "The Hindu International",
-          "Fox News World"
+          "BBC World",
+          "The Diplomat"
         ],
         "supporting_titles": [
-          "White House correspondents’ dinner shooting: A look at previous assassination attempts on President Donald Trump",
-          "World leaders condemn ‘unacceptable’ violence after armed attack disrupts WH Correspondents’ Dinner"
+          "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+          "Helping Iran, China Is a Party in the War"
         ],
         "supporting_summaries": [
-          "The White House correspondents’ dinner shooting was not the first time that the U.S. President Donald Trump found himself at the centre of a security scare",
-          "Global leaders expressed relief that Trump was unharmed after an armed suspect allegedly attacked the White House Correspondents' Dinner in Washington."
+          "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
+          "Several reports in recent weeks have revealed the extent of China’s active support for Iran."
         ],
         "supporting_links": [
-          "https://www.thehindu.com/news/international/white-house-correspondents-dinner-shooting-previous-assassination-attempts-on-president-donald-trump/article70907924.ece",
-          "https://www.foxnews.com/world/world-leaders-condemn-unacceptable-violence-armed-attack-disrupts-wh-correspondents-dinner"
+          "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+          "https://thediplomat.com/2026/04/helping-iran-china-is-a-party-in-the-war/"
         ],
         "source_count": 3
       }
@@ -269,99 +284,101 @@
     "economy": [
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Bosses don’t like the sound of a ‘four-day workweek’. Maybe it’s time to rebrand it",
-        "link": "https://www.theguardian.com/business/2026/apr/26/four-day-workweek-employment",
-        "summary": "Some employers are reluctant to cut workers’ hours but pay them the same – but it just might be the future of work We keep hearing that the four-day workweek is the future. So why are so few businesses actually adopting it? Belgium, Iceland and Lithuania have passed legislation requiring the practice, and other countries in Europe are piloting the idea. Hundreds of companies in the UK have signed up for to give this a try. Microsoft tested the concept in Japan. Non-profits such as the 4 Day Week Foundation and WorkFour are dedicated to expanding the concept. Continue reading...",
-        "published": "Sun, 26 Apr 2026 14:00:16 GMT",
-        "updated": "2026-04-26T14:00:16Z",
-        "published_at_utc": "2026-04-26T14:00:16+00:00",
-        "id": "https://www.theguardian.com/business/2026/apr/26/four-day-workweek-employment",
-        "topic_type": "general",
-        "relevance_score": 18,
-        "briefing": {
-          "news_focus": "Some employers are reluctant to cut workers’ hours but pay them the same – but it just might be the future of work We keep hearing that the four-day workweek is the future. So why are so few businesses actually adopting it? Belgium, Iceland and Lithuania have passed legislation requiring the practice, and other countries in Europe are piloting the idea. Hundreds of companies in the UK have signed up for to give this a try. Microsoft tested the concept in Japan. Non-profits such as the 4 Day Week Foundation and WorkFour are dedicated to expanding the concept. Continue reading...",
-          "news_focus_zh": "許多雇主對於實施四天工作制持保留態度，儘管這一概念被認為是未來工作的趨勢。比利時、冰島和立陶宛已通過立法要求實施四天工作制，而其他歐洲國家也在試點這一想法。英國的數百家公司已經參與了這一計劃，並且微軟在日本也進行了相關測試。非營利組織如四天工作制基金會和WorkFour致力於推廣這一概念。",
-          "background": "四天工作制的推廣在全球逐漸受到重視，尤其在疫情後，許多企業開始重新思考工作模式。這一制度的支持者認為，縮短工作時間能提高員工的工作滿意度和生產力，並有助於改善工作與生活的平衡。儘管如此，許多雇主仍然擔心這會影響業務運營和盈利能力。部分國家如比利時等已經立法推動此政策，顯示出政府對於改善工作環境的重視，而英國和其他國家則在進行試點以評估其可行性。",
-          "stakeholders": [
-            "雇主",
-            "員工",
-            "政府",
-            "非營利組織",
-            "企業"
-          ],
-          "analysis": "本次新聞強調了雇主對四天工作制的抵觸情緒，與先前的討論相比，這一觀點更加明確，顯示出雇主在實施此制度時的顧慮。儘管許多國家和企業在推廣四天工作制，但實際上仍有相當一部分雇主對於減少工時但保持薪資的做法持懷疑態度。這可能反映出對於生產力和成本的擔憂。隨著越來越多的國家和企業進行試點，未來可能會出現更多的數據和案例來支持或反駁這一制度的有效性，進而影響各方的態度與政策制定。"
-        },
-        "topic_priority_score": 3,
-        "event_type": "corporate_results",
-        "is_major_update": true,
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "economy",
-        "source_name": "Nikkei Asia",
-        "title": "Australian dollar, Brazil real rise as investors favor China ties",
-        "link": "https://asia.nikkei.com/business/markets/currencies/australian-dollar-brazil-real-rise-as-investors-favor-china-ties",
-        "summary": "",
-        "published": "",
-        "updated": "",
-        "published_at_utc": "",
-        "id": "https://asia.nikkei.com/business/markets/currencies/australian-dollar-brazil-real-rise-as-investors-favor-china-ties",
-        "topic_type": "markets",
-        "relevance_score": 15,
-        "briefing": {
-          "news_focus": "Australian dollar, Brazil real rise as investors favor China ties",
-          "news_focus_zh": "澳大利亞元和巴西雷亞爾的匯率上升，顯示出投資者對於與中國的經濟關係的偏好。這一變化反映了市場對中國經濟復甦的信心，並可能影響到相關國家的貿易和投資流向。",
-          "background": "隨著中國經濟逐漸復甦，許多國家開始重新評估與中國的貿易關係。澳大利亞和巴西作為主要的商品出口國，對中國市場的依賴程度較高。澳大利亞主要出口礦產和農產品，而巴西則在農業和能源領域有著重要的貿易往來。近期中國的經濟數據顯示出增長的潛力，這使得投資者對於與中國的經濟聯繫更加樂觀，進而推動這些國家的貨幣升值。",
-          "stakeholders": [
-            "澳大利亞政府",
-            "巴西政府",
-            "中國政府",
-            "投資者",
-            "出口商"
-          ],
-          "analysis": "澳大利亞元和巴西雷亞爾的升值反映了市場對中國經濟復甦的信心，這對於這兩國的出口商來說是個利好消息。隨著中國需求的增加，這可能會進一步促進澳大利亞和巴西的經濟增長。然而，這一趨勢也可能引發其他國家的關注，特別是那些與中國競爭的商品出口國。不同於這一正面趨勢，部分分析師可能會擔心過度依賴中國市場的風險，尤其是在全球經濟不確定性增加的背景下。因此，未來的市場動態將取決於中國經濟的持續表現及其對外貿易政策的調整。"
-        },
-        "topic_priority_score": 4,
-        "event_type": "market_repricing",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "economy",
-        "source_name": "Reuters",
-        "title": "China's Hengli Petrochemical denies trade with Iran in response to US sanctions - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU1p0SFVlSExOVVpncXI1SEZpUkxnQ1BHUTFfQlVnRUt3QW5SY0dLdndfamFfbzI3WDdqcEk4M1VfWjF4N2ZWN1ZxLTA0cEdONWdsYmo2aTZscjlyZE11MXBDZzFfWEloaER2S0hOMm9LODNreE9mbC1kNWNRZmJDdUxFMmx1czN4WS0tUENfU3ZXSFdHdXF3STNYRjZtR2VtSWtHV0lWQ1Z6eWUxczlCbWFuN3ZYZ3paZVB4aVhtLThYUQ?oc=5",
-        "summary": "China's Hengli Petrochemical denies trade with Iran in response to US sanctions Reuters",
-        "published": "Sun, 26 Apr 2026 11:16:08 GMT",
-        "updated": "Sun, 26 Apr 2026 11:16:08 GMT",
-        "published_at_utc": "2026-04-26T11:16:08+00:00",
-        "id": "CBMiwgFBVV95cUxNU1p0SFVlSExOVVpncXI1SEZpUkxnQ1BHUTFfQlVnRUt3QW5SY0dLdndfamFfbzI3WDdqcEk4M1VfWjF4N2ZWN1ZxLTA0cEdONWdsYmo2aTZscjlyZE11MXBDZzFfWEloaER2S0hOMm9LODNreE9mbC1kNWNRZmJDdUxFMmx1czN4WS0tUENfU3ZXSFdHdXF3STNYRjZtR2VtSWtHV0lWQ1Z6eWUxczlCbWFuN3ZYZ3paZVB4aVhtLThYUQ",
+        "original_category": "politics",
+        "category_fit_score": 11,
+        "source_name": "SCMP World",
+        "title": "China warns EU to remove firms and citizens from Russian sanctions list",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3351486/china-warns-eu-remove-firms-and-citizens-russian-sanctions-list?utm_source=rss_feed",
+        "summary": "China has demanded that the European Union remove Chinese businesses and individuals from its latest sanctions list related to Russia’s war in Ukraine. The Ministry of Commerce in Beijing also warned the bloc that it would take whatever measures were necessary to protect the rights and interests of its citizens and companies. “[We should] find a way to resolve our respective concerns through dialogue and consultation,” the ministry said, adding that the consequences of not lifting the sanctions...",
+        "published": "Sun, 26 Apr 2026 11:40:50 +0000",
+        "updated": "Sun, 26 Apr 2026 11:40:50 +0000",
+        "published_at_utc": "2026-04-26T11:40:50+00:00",
+        "id": "https://www.scmp.com/news/china/diplomacy/article/3351486/china-warns-eu-remove-firms-and-citizens-russian-sanctions-list?utm_source=rss_feed",
         "topic_type": "sanctions",
-        "relevance_score": 13,
+        "relevance_score": 23,
         "briefing": {
-          "news_focus": "China's Hengli Petrochemical denies trade with Iran in response to US sanctions Reuters",
-          "news_focus_zh": "中國的恒力石化公司針對美國的制裁，公開否認與伊朗進行貿易。此舉顯示出該公司對美方制裁的回應，並試圖維護其在國際市場上的形象和商業運作。",
-          "background": "美國對伊朗的制裁政策已經持續多年，旨在限制伊朗的經濟活動，特別是在能源和石化領域。這些制裁對於與伊朗有貿易往來的國家和企業造成了壓力，迫使它們重新評估與伊朗的商業關係。中國作為全球最大的石油進口國之一，與伊朗有著密切的能源合作，但同時也面臨來自美國的制裁威脅。恒力石化作為中國的一家大型石化企業，其貿易決策受到國際政治環境的影響，特別是在美國施加壓力的背景下。",
+          "news_focus": "China has demanded that the European Union remove Chinese businesses and individuals from its latest sanctions list related to Russia’s war in Ukraine. The Ministry of Commerce in Beijing also warned the bloc that it would take whatever measures were necessary to protect the rights and interests of its citizens and companies. “[We should] find a way to resolve our respective concerns through dialogue and consultation,” the ministry said, adding that the consequences of not lifting the sanctions...",
+          "news_focus_zh": "中國政府要求歐盟將中國企業和公民從最新的對俄制裁名單中移除，並強調將採取必要措施以保護其公民和企業的權益。中國商務部表示，應透過對話和協商解決雙方的關切，並警告如果不解除制裁將會有後果。",
+          "background": "中國與歐盟之間的經濟關係相當密切，然而隨著俄烏戰爭的持續，歐盟對俄羅斯的制裁措施也影響到了與中國的貿易互動。中國在此背景下對歐盟的制裁行動表達強烈不滿，因為這些制裁不僅影響到中國的商業利益，還可能損害到其國際形象與經濟發展。中國政府一向強調主權與經濟利益，這次的要求反映出其在國際事務中的立場及對外貿易的重視。",
           "stakeholders": [
-            "恒力石化",
-            "美國政府",
-            "伊朗政府",
             "中國政府",
-            "國際市場"
+            "歐盟",
+            "中國企業",
+            "歐洲企業",
+            "國際貿易組織"
           ],
-          "analysis": "恒力石化的否認表明其希望避免與美國的直接衝突，並保持其在國際市場上的競爭力。這一行動可能是出於對美國制裁的擔憂，因為與伊朗的貿易可能導致其在全球市場上受到制裁的風險。此外，這也反映出中國企業在面對國際政治壓力時的謹慎態度。儘管中國與伊朗之間的經濟合作仍然存在，但企業如恒力石化可能會選擇降低與伊朗的直接貿易，以避免潛在的法律和經濟後果。未來，隨著國際形勢的變化，恒力石化及其他中國企業的貿易策略可能會持續調整，以適應美國的制裁政策。"
+          "analysis": "中國對歐盟的要求顯示出其在國際舞台上捍衛自身利益的決心。若歐盟不回應中國的要求，可能會導致雙邊貿易關係的緊張，並影響到中國企業在歐洲市場的運作。另一方面，歐盟也面臨著內部壓力，必須平衡對俄制裁與維護與中國的經濟合作。此事件可能促使雙方進行更多的對話與協商，但若無法達成共識，未來的經濟合作將面臨挑戰。"
         },
         "topic_priority_score": 8,
         "event_type": "macro_signal",
-        "is_repeat_story": true,
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "economy",
+        "original_category": "politics",
+        "category_fit_score": 10,
+        "source_name": "Taipei Times",
+        "title": "Japan inflation cools demand for vending machine drinks",
+        "link": "https://www.taipeitimes.com/News/world/archives/2026/04/27/2003856321",
+        "summary": "",
+        "published": "",
+        "updated": "2026-04-27T08:00:00+08:00",
+        "published_at_utc": "2026-04-27T00:00:00+00:00",
+        "id": "https://www.taipeitimes.com/News/world/archives/2026/04/27/2003856321",
+        "topic_type": "inflation",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "Japan inflation cools demand for vending machine drinks",
+          "news_focus_zh": "日本的通貨膨脹減緩，導致對自動販賣機飲料的需求下降。這一現象反映了消費者對價格變化的敏感度，可能影響相關產業的銷售表現。",
+          "background": "日本長期以來面臨低通脹和經濟增長乏力的挑戰。近期的通脹數據顯示，雖然物價上漲，但增速有所放緩，這可能使消費者在購買日常商品時更加謹慎。自動販賣機在日本是一個重要的零售渠道，提供便捷的飲料選擇，然而，通脹的變化可能影響消費者的購買意願，進而影響整個市場的需求。",
+          "stakeholders": [
+            "消費者",
+            "自動販賣機運營商",
+            "飲料製造商"
+          ],
+          "analysis": "隨著通脹的減緩，消費者的購買行為可能會發生變化，特別是在價格敏感的商品上，如自動販賣機的飲料。這可能導致相關企業面臨銷售壓力，尤其是那些依賴自動販賣機銷售的飲料公司。企業可能需要調整定價策略或促銷活動，以吸引消費者重新回到自動販賣機購買。此外，這一現象也可能反映出更廣泛的經濟趨勢，企業和市場觀察者需密切關注未來的通脹走勢及其對消費者行為的影響。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "inflation_data",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "economy",
+        "original_category": "politics",
+        "category_fit_score": 10,
+        "source_name": "The Hindu International",
+        "title": "Sri Lanka seeks investors for loss-making Mattala airport in Hambantota",
+        "link": "https://www.thehindu.com/news/international/sri-lanka-seeks-investors-for-loss-making-mattala-airport-in-hambantota/article70908035.ece",
+        "summary": "India has in the past expressed interest to operate the airport in Mattala, which has made headlines as the ‘world’s emptiest airport’, including through a joint venture with a Russian company",
+        "published": "Sun, 26 Apr 2026 12:59:49 +0530",
+        "updated": "Sun, 26 Apr 2026 12:59:49 +0530",
+        "published_at_utc": "2026-04-26T07:29:49+00:00",
+        "id": "article-70908035",
+        "topic_type": "markets",
+        "relevance_score": 19,
+        "briefing": {
+          "news_focus": "India has in the past expressed interest to operate the airport in Mattala, which has made headlines as the ‘world’s emptiest airport’, including through a joint venture with a Russian company",
+          "news_focus_zh": "斯里蘭卡正在尋求投資者來經營位於漢班托塔的馬塔拉機場，該機場因為運營虧損而受到關注。過去，印度曾表達對該機場的興趣，並考慮與一家俄羅斯公司進行合資經營。這一舉措旨在改善機場的經濟狀況，並吸引更多的航空業務。",
+          "background": "馬塔拉機場自開業以來，因為客流量極低而被譽為‘世界上最空曠的機場’。該機場的建設是斯里蘭卡政府希望促進漢班托塔地區經濟發展的一部分，但由於缺乏足夠的航班和乘客，導致其長期虧損。斯里蘭卡政府目前面臨著財政壓力，急需吸引外資來改善基礎設施和促進經濟增長，因此尋求外部投資者的幫助。",
+          "stakeholders": [
+            "斯里蘭卡政府",
+            "印度",
+            "俄羅斯公司",
+            "航空公司",
+            "中國"
+          ],
+          "analysis": "斯里蘭卡政府的這一舉措反映了其對於吸引外資的迫切需求，尤其是在經濟困境中。印度的興趣可能源於其對於加強與斯里蘭卡的經濟聯繫的戰略考量，並且與俄羅斯公司的合資計劃可能會增強其在該地區的影響力。然而，這也可能引發其他國家的關注，特別是中國，因為中國在斯里蘭卡的基礎設施投資中扮演了重要角色。未來，若印度成功獲得經營權，可能會改變該地區的經濟格局，並對斯里蘭卡的外交政策產生影響。"
+        },
+        "topic_priority_score": 4,
+        "event_type": "market_repricing",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -372,6 +389,41 @@
   },
   "further_reading": {
     "technology": [
+      {
+        "title": "Musk and Altman’s bitter feud over OpenAI to be laid bare in court",
+        "link": "https://www.theguardian.com/technology/2026/apr/26/musk-altman-openai-court",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-26T10:00:11+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "The Guardian view on Anthropic’s Claude Mythos: when AI finds every flaw, who controls the internet? | Editorial",
+        "link": "https://www.theguardian.com/commentisfree/2026/apr/23/the-guardian-view-on-anthropics-claude-mythos-when-ai-finds-every-flaw-who-controls-the-internet",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-23T17:27:59+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "‘This has to be a wake-up call’: NSW attorney general urged to order inquest into death of Sydney’s ‘birdman’",
+        "link": "https://www.theguardian.com/australia-news/2026/apr/27/this-has-to-be-a-wake-up-call-nsw-attorney-general-urged-to-order-inquest-into-death-of-sydneys-birdman",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-26T15:00:17+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "DeepSeek unveils next-gen AI model as Huawei vows ‘full support’ with new chips",
+        "link": "https://www.scmp.com/tech/big-tech/article/3351239/deepseek-releases-next-gen-ai-model-world-leading-efficiency?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-24T03:25:33+00:00",
+        "relevance_score": 10
+      },
+      {
+        "title": "Japan to start EV battery traceability program to spur recycling",
+        "link": "https://asia.nikkei.com/business/automobiles/electric-vehicles/japan-to-start-ev-battery-traceability-program-to-spur-recycling",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
+        "relevance_score": 10
+      },
       {
         "title": "Palantir employees are talking about company's \"descent into fascism\"",
         "link": "https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/",
@@ -394,11 +446,11 @@
         "relevance_score": 9
       },
       {
-        "title": "‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents' Dinner Shooting",
-        "link": "https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-04-26T14:43:47+00:00",
-        "relevance_score": 8
+        "title": "TikTok and Visa launch debit card to speed payouts to UK creators",
+        "link": "https://www.theguardian.com/technology/2026/apr/24/tiktok-visa-debit-card-uk-creator-card-payouts-live-payments",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-24T17:07:08+00:00",
+        "relevance_score": 9
       },
       {
         "title": "Skylight’s 15-inch smart calendar is down to its lowest price to date",
@@ -406,56 +458,35 @@
         "source_name": "The Verge",
         "published_at_utc": "2026-04-26T14:05:03+00:00",
         "relevance_score": 8
-      },
-      {
-        "title": "After three months on Linux, I don’t miss Windows at all",
-        "link": "https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-04-26T13:00:00+00:00",
-        "relevance_score": 8
-      },
-      {
-        "title": "The Best Kindle Accessories (2026): Cases, Page Turners, Stickers",
-        "link": "https://www.wired.com/story/best-kindle-accessories/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-04-26T11:34:00+00:00",
-        "relevance_score": 8
-      },
-      {
-        "title": "New robotic control software avoids jamming their joints",
-        "link": "https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-04-26T11:09:29+00:00",
-        "relevance_score": 8
-      },
-      {
-        "title": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
-        "link": "https://www.wired.com/story/best-smart-bird-feeders/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-04-26T11:04:00+00:00",
-        "relevance_score": 8
-      },
-      {
-        "title": "Trump fires the entire National Science Board",
-        "link": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-04-25T19:20:15+00:00",
-        "relevance_score": 8
       }
     ],
     "politics": [
       {
-        "title": "Suspected gunman likely targeting Trump administration officials at White House press dinner, acting attorney general says – live",
-        "link": "https://www.theguardian.com/us-news/live/2026/apr/26/white-house-correspondents-dinner-shooting-latest-donald-trump-suspect-washington-hilton",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-26T16:11:00+00:00",
+        "title": "‘State of war’: Why Israel has escalated attacks in Gaza",
+        "link": "https://www.aljazeera.com/news/2026/4/26/state-of-war-why-israel-has-escalated-attacks-in-gaza?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-04-26T15:32:20+00:00",
+        "relevance_score": 22
+      },
+      {
+        "title": "Notes from Central Taiwan: As Trump-Xi nears, once again, the sell out",
+        "link": "https://www.taipeitimes.com/News/feat/archives/2026/04/27/2003856294",
+        "source_name": "Taipei Times",
+        "published_at_utc": "2026-04-27T00:00:00+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Suspected gunman at White House press dinner named",
-        "link": "https://www.theguardian.com/us-news/2026/apr/26/suspected-gunman-white-house-press-dinner-trump-named-cole-tomas-allen",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-26T14:40:22+00:00",
+        "title": "Abbas loyalists sweep Palestinian elections, including some seats in Gaza",
+        "link": "https://www.aljazeera.com/news/2026/4/26/abbas-loyalists-sweep-palestine-elections-in-occupied-west-bank-gaza-city?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-04-26T16:50:27+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Trump has ‘good conversations’ with Putin, Zelenskyy: report",
+        "link": "https://www.thehindu.com/news/international/trump-speaks-to-putin-zelenskyy-ukraine-russia-war/article70909546.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-26T16:37:04+00:00",
         "relevance_score": 18
       },
       {
@@ -466,13 +497,6 @@
         "relevance_score": 18
       },
       {
-        "title": "Trump WH correspondents' dinner shooting LIVE: Suspect believed to have been targeting administration officials, Blanche says",
-        "link": "https://www.thehindu.com/news/international/white-house-donald-trump-correspondents-dinner-shooting-united-states-live-updates-on-april-26-2026/article70907631.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-26T13:25:00+00:00",
-        "relevance_score": 18
-      },
-      {
         "title": "What lies ahead for Gaza after ceasefires in Iran and Lebanon?",
         "link": "https://www.aljazeera.com/news/2026/4/26/what-lies-ahead-for-gaza-after-ceasefires-in-iran-and-lebanon?traffic_source=rss",
         "source_name": "Al Jazeera",
@@ -480,42 +504,70 @@
         "relevance_score": 18
       },
       {
-        "title": "White House journalists’ gala ended like many US events do: with gun violence",
-        "link": "https://www.theguardian.com/us-news/2026/apr/26/white-house-correspondents-dinner-shooting-political-violence",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-26T13:01:46+00:00",
+        "title": "How the shooting at the White House Correspondents' Dinner unfolded - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZnB5X2hhcnpyWlJ3S1d2OXV6a3FvRnJhS2lpT1ZTWDhQTnVHakFOajFyZFNxN2g3elNPcUtuanp3TExIV3B1WjRsc3VDanJkMnZXMUEyNHJnRjBPYl9wWDFRZjNaTm9Pb0ZLdzNKN0FQc05xRGVrWU1RV0ZWZVI4TTJra0xxaWlMTGFSYjAxYUd2XzNMR2hYTkVyUl9CTzZMUVdsR3ZyeU1MMm9lRmo5Y3BfNzA?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-26T05:34:00+00:00",
         "relevance_score": 18
       },
       {
-        "title": "What we know about the suspected ‘assassination attempt’ on Donald Trump",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/what-we-know-about-the-suspected-assassination-attempt-on-donald-trump?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-26T10:50:04+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "World reacts to shooting at White House correspondents’ dinner",
-        "link": "https://www.aljazeera.com/news/2026/4/26/world-reacts-to-shooting-at-white-house-correspondents-dinner?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-26T07:57:13+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "White House correspondents’ dinner shooting: A look at previous assassination attempts on President Donald Trump",
-        "link": "https://www.thehindu.com/news/international/white-house-correspondents-dinner-shooting-previous-assassination-attempts-on-president-donald-trump/article70907924.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-26T06:56:18+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "How gunfire threw Trump’s glitzy Washington Hilton dinner into chaos",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3351450/how-gunfire-threw-trumps-glitzy-washington-hilton-dinner-chaos?utm_source=rss_feed",
+        "title": "Iran’s foreign minister returns to Pakistan after Trump cancels envoys’ trip for talks",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3351442/trump-cancels-envoys-trip-pakistan-peace-talks?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-04-26T03:06:09+00:00",
+        "published_at_utc": "2026-04-25T17:16:19+00:00",
         "relevance_score": 18
+      },
+      {
+        "title": "Zelenskyy accuses Russia of 'nuclear terrorism' on Chernobyl anniversary",
+        "link": "https://www.thehindu.com/news/international/zelenskyy-accuses-russia-of-nuclear-terrorism-on-chernobyl-anniversary/article70909561.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-26T16:48:10+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "Orbán associates rush to move wealth out of Hungary after election defeat",
+        "link": "https://www.theguardian.com/world/2026/apr/26/viktor-orban-associates-wealth-hungary-election",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-26T16:42:21+00:00",
+        "relevance_score": 16
       }
     ],
     "economy": [
+      {
+        "title": "Fuel prices remain frozen to curb inflation pressure",
+        "link": "https://www.taipeitimes.com/News/biz/archives/2026/04/27/2003856283",
+        "source_name": "Taipei Times",
+        "published_at_utc": "2026-04-27T00:00:00+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "U.S. sanctions waiver on Chabahar port ends on April 26, could signal end of 23-year-old connectivity project",
+        "link": "https://www.thehindu.com/news/national/us-sanctions-waiver-on-chabahar-port-ends-on-april-26-india-iran-connectivity-project/article70905875.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-26T01:12:59+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Bosses don’t like the sound of a ‘four-day workweek’. Maybe it’s time to rebrand it",
+        "link": "https://www.theguardian.com/business/2026/apr/26/four-day-workweek-employment",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-26T14:00:16+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Muddy yet clear-cut: how Chinese investors are turning jungle into Indonesia’s new capital",
+        "link": "https://www.scmp.com/economy/china-economy/article/3350981/muddy-yet-clear-cut-how-chinese-investors-are-turning-jungle-indonesias-new-capital?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-26T01:00:13+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "US targets Chinese refinery in sweeping Iran oil crackdown, sanctions ‘shadow fleet’ tankers",
+        "link": "https://www.foxnews.com/world/us-targets-china-refinery-sweeping-iran-oil-crackdown-sanctions-shadow-fleet-tankers",
+        "source_name": "Fox News World",
+        "published_at_utc": "2026-04-24T19:19:16+00:00",
+        "relevance_score": 15
+      },
       {
         "title": "C$ hits a four-week low as business curbs cloud U.S. economic reopening - Reuters",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTjc3bWl4MjQ3S0FGdlRQaG13VGxqTlNXU2w0X3dUVXZnbDQ1ODNsTEF4bnRjaWpTb0IxS1NZZ1hDOEt4YjZheDBOOFV5ZTFzZ0lBcFVnRVhESTlUZ1ZtUE92WW9LWWRfaGZNLWR6VC0zeU5PREpEeHNXRXhOdmVmR2xsOE1udUpBSlI2U0xPVGl2bHJFRHFKSG5GLTA4X2pNUXNHQXF0R2l6bkpnUWxlN2ZRLUNTN09URWhON0ZSazVZZ3BRV3B5VlV1cGwtNGlQRzhFYjZ6cG0?oc=5",
@@ -524,10 +576,10 @@
         "relevance_score": 14
       },
       {
-        "title": "The great energy pivot: US oil and Chinese solar are the winners in Trump’s war on Iran",
-        "link": "https://www.theguardian.com/business/2026/apr/26/more-than-oil-prices-iran-war-threatens-to-reshape-global-energy-order",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-26T11:00:12+00:00",
+        "title": "At Malaysia’s arms bazaar, drone dealers chase Southeast Asian market share",
+        "link": "https://www.scmp.com/week-asia/economics/article/3351322/malaysias-arms-bazaar-drone-dealers-chase-southeast-asian-market-share?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-26T05:30:08+00:00",
         "relevance_score": 14
       },
       {
@@ -538,53 +590,18 @@
         "relevance_score": 14
       },
       {
-        "title": "Asia's great disconnect: Markets boom as Iran war fuels cost of living crisis",
-        "link": "https://asia.nikkei.com/spotlight/big-in-asia/asia-s-great-disconnect-markets-boom-as-iran-war-fuels-cost-of-living-crisis",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 13
-      },
-      {
-        "title": "Editor's Choice: Energy crisis drives India toward EVs as Asia's auto map shifts",
-        "link": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-energy-crisis-drives-india-toward-evs-as-asia-s-auto-map-shifts",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 13
-      },
-      {
-        "title": "Ryanair to shut Berlin base as it blames rise in German aviation tax",
-        "link": "https://www.theguardian.com/business/2026/apr/26/ryanair-shut-berlin-base-blames-german-aviation-tax-union",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-26T13:44:01+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "China’s Li Auto targets BMW and Mercedes with premium SUVs in Middle East, Asia-Pacific",
-        "link": "https://www.scmp.com/business/china-business/article/3351481/chinas-li-auto-targets-bmw-and-mercedes-premium-suvs-middle-east-asia-pacific?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-26T11:10:02+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "Britain is undermining the care workers it depends on | Heather Stewart",
-        "link": "https://www.theguardian.com/business/2026/apr/26/britain-undermining-care-workers-depends-on-labour-immigration",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-26T10:27:18+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "UK departments at odds over energy demands of AI datacentres",
-        "link": "https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-26T07:00:08+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "How the shooting at the White House Correspondents' Dinner unfolded - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZnB5X2hhcnpyWlJ3S1d2OXV6a3FvRnJhS2lpT1ZTWDhQTnVHakFOajFyZFNxN2g3elNPcUtuanp3TExIV3B1WjRsc3VDanJkMnZXMUEyNHJnRjBPYl9wWDFRZjNaTm9Pb0ZLdzNKN0FQc05xRGVrWU1RV0ZWZVI4TTJra0xxaWlMTGFSYjAxYUd2XzNMR2hYTkVyUl9CTzZMUVdsR3ZyeU1MMm9lRmo5Y3BfNzA?oc=5",
+        "title": "China's Hengli Petrochemical denies trade with Iran in response to US sanctions - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU1p0SFVlSExOVVpncXI1SEZpUkxnQ1BHUTFfQlVnRUt3QW5SY0dLdndfamFfbzI3WDdqcEk4M1VfWjF4N2ZWN1ZxLTA0cEdONWdsYmo2aTZscjlyZE11MXBDZzFfWEloaER2S0hOMm9LODNreE9mbC1kNWNRZmJDdUxFMmx1czN4WS0tUENfU3ZXSFdHdXF3STNYRjZtR2VtSWtHV0lWQ1Z6eWUxczlCbWFuN3ZYZ3paZVB4aVhtLThYUQ?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-04-26T05:34:00+00:00",
-        "relevance_score": 12
+        "published_at_utc": "2026-04-26T11:16:08+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "U.S. won't renew Iranian, Russian oil waivers: Bessent",
+        "link": "https://www.thehindu.com/news/international/us-wont-renew-iranian-russian-oil-waivers-bessent/article70904300.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-25T07:36:27+00:00",
+        "relevance_score": 13
       }
     ]
   },
