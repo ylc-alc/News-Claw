@@ -1,350 +1,43 @@
 {
-  "generated_at_utc": "2026-04-26T08:49:26.966122+00:00",
+  "generated_at_utc": "2026-04-26T14:37:18.836738+00:00",
   "summary": {
-    "total_raw_items": 1069,
-    "total_deduped_items": 1047,
-    "selected_total": 9,
+    "total_raw_items": 1075,
+    "total_deduped_items": 1053,
+    "selected_total": 0,
     "max_topics_per_section": 3,
     "topic_mix": {
-      "technology": [
-        "ai",
-        "chips",
-        "general"
-      ],
-      "politics": [
-        "uk_politics",
-        "war_and_conflict",
-        "us_politics"
-      ],
-      "economy": [
-        "markets",
-        "interest_rates",
-        "inflation"
-      ]
+      "technology": [],
+      "politics": [],
+      "economy": []
     },
     "multi_source_selected_count": 0
   },
   "sections": {
-    "technology": [
-      {
-        "category": "technology",
-        "source_name": "Wired",
-        "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
-        "link": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
-        "summary": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
-        "published": "Sat, 25 Apr 2026 10:30:00 +0000",
-        "updated": "Sat, 25 Apr 2026 10:30:00 +0000",
-        "published_at_utc": "2026-04-25T10:30:00+00:00",
-        "id": "69eb9d8dc24af9e77dc968b2",
-        "topic_type": "ai",
-        "relevance_score": 17,
-        "briefing": {
-          "news_focus": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
-          "news_focus_zh": "Discord 用戶未經授權獲得 Anthropic 的 Mythos 系統存取權，顯示出科技平台安全性漏洞的嚴重性，並引發對數據保護的關注。",
-          "background": "Anthropic 是一家專注於人工智慧的公司，其 Mythos 系統可能涉及敏感的 AI 開發數據。隨著科技公司對用戶數據的依賴增加，安全漏洞的風險也隨之上升。此事件發生在全球對數據隱私與安全性日益重視的背景下，尤其是在許多企業面臨駭客攻擊與數據洩漏的威脅。",
-          "stakeholders": [
-            "Anthropic",
-            "Discord",
-            "用戶",
-            "監管機構",
-            "安全公司"
-          ],
-          "analysis": "此事件對於 Anthropic 及其用戶而言，可能導致信任危機，並促使公司加強安全措施。對於 Discord 來說，這突顯了其平台在數據保護方面的脆弱性，可能影響其用戶基礎。監管機構可能會對此事件展開調查，以評估是否需要加強對科技公司的監管。各方利益關係中，企業安全與用戶隱私的平衡將成為重要議題。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "strategic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "Wired",
-        "title": "US Special Forces Soldier Arrested for Polymarket Bets on Maduro Raid",
-        "link": "https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket/",
-        "summary": "The master sergeant allegedly used classified intel to profit on the capture of Venezuelan president Nicolás Maduro, marking the first US arrest for insider trading on a prediction market.",
-        "published": "Thu, 23 Apr 2026 23:15:21 +0000",
-        "updated": "Thu, 23 Apr 2026 23:15:21 +0000",
-        "published_at_utc": "2026-04-23T23:15:21+00:00",
-        "id": "69ea95f7158c24cbe00a4d01",
-        "topic_type": "chips",
-        "relevance_score": 16,
-        "briefing": {
-          "news_focus": "The master sergeant allegedly used classified intel to profit on the capture of Venezuelan president Nicolás Maduro, marking the first US arrest for insider trading on a prediction market.",
-          "news_focus_zh": "美國特種部隊的一名軍士因涉嫌利用機密情報在預測市場上對委內瑞拉總統馬杜羅的逮捕進行投注而被逮捕，這是美國首次因內線交易在預測市場上被捕的案例。",
-          "background": "預測市場是一種允許參與者對未來事件進行賭注的金融工具，通常用於政治、經濟等領域。隨著科技的發展，這類市場逐漸受到關注，然而，內線交易的法律問題也引發爭議。美國政府對於軍事人員的行為有嚴格的規範，特別是在涉及國家安全的情況下，這一事件突顯了軍事與金融市場之間的潛在衝突。",
-          "stakeholders": [
-            "美國政府",
-            "特種部隊",
-            "預測市場參與者",
-            "法律監管機構",
-            "委內瑞拉政府"
-          ],
-          "analysis": "此次逮捕標誌著美國對於預測市場內線交易的法律執行力度加強，顯示出政府對於軍事人員利用機密情報進行個人獲利的零容忍態度。這一事件可能促使相關機構重新檢視預測市場的監管框架，並可能引發對類似行為的更嚴格法律規範。此外，這也可能影響市場參與者的信心，特別是在涉及敏感信息的交易上。"
-        },
-        "topic_priority_score": 10,
-        "event_type": "commercial_update",
-        "is_major_update": true,
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "Wired",
-        "title": "California Engineer Identified in Suspected Shooting at White House Correspondents' Dinner",
-        "link": "https://www.wired.com/story/california-engineer-identified-in-suspected-shooting-at-white-house-correspondents-dinner/",
-        "summary": "The 31-year-old engineer and self-described indie game developer is suspected of firing shots at the annual event attended by President Donald Trump, high-profile media figures, and US government officials.",
-        "published": "Sun, 26 Apr 2026 03:26:42 +0000",
-        "updated": "Sun, 26 Apr 2026 03:26:42 +0000",
-        "published_at_utc": "2026-04-26T03:26:42+00:00",
-        "id": "69ed6ec87d4e2e06e2c56196",
-        "topic_type": "general",
-        "relevance_score": 12,
-        "briefing": {
-          "news_focus": "The 31-year-old engineer and self-described indie game developer is suspected of firing shots at the annual event attended by President Donald Trump, high-profile media figures, and US government officials.",
-          "news_focus_zh": "一名31歲的加州工程師被懷疑在白宮記者晚宴上開槍，該事件吸引了包括特朗普總統及多位媒體與政府官員的參加。",
-          "background": "白宮記者晚宴是一年一度的社交活動，通常吸引政界與媒體界的高層人士。此次事件發生在美國政治氣候緊張的背景下，尤其是在特朗普政府期間，媒體與政府之間的關係經常緊繃。過去幾年，針對公共活動的安全威脅有所增加，特別是涉及政治人物的場合。",
-          "stakeholders": [
-            "加州工程師",
-            "特朗普政府",
-            "媒體界",
-            "公共安全機構",
-            "社會大眾"
-          ],
-          "analysis": "此事件引發了對公共安全及政治活動安全性的廣泛關注。參與者的安全受到威脅，可能導致未來活動的安全措施加強。對於特朗普政府而言，這樣的事件可能影響其公眾形象，尤其是在安全與穩定的議題上。媒體界則可能會加強對政治暴力的報導，進一步影響公眾對政治環境的看法。"
-        },
-        "topic_priority_score": 3,
-        "event_type": "strategic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1,
-        "cross_section_refs": [
-          "politics"
-        ]
-      }
-    ],
-    "politics": [
-      {
-        "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "Starmer says ‘vast majority’ of Labour still supports him, despite Mandelson controversy – UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/apr/26/keir-starmer-labour-support-mandelson-controversy-uk-politics-live",
-        "summary": "Prime minister says ‘you never hear from … the people who are supportive, loyal and just want to get on with the job’ Keir Starmer began the day with a statement about the shooting incident at the White House correspondents’ dinner : “I am shocked by the scenes at the White House correspondents’ dinner in Washington overnight,” Starmer posted on X. “Any attack on democratic institutions or on the freedom of the press must be condemned in the strongest possible terms.” Continue reading...",
-        "published": "Sun, 26 Apr 2026 08:15:35 GMT",
-        "updated": "2026-04-26T08:15:35Z",
-        "published_at_utc": "2026-04-26T08:15:35+00:00",
-        "id": "https://www.theguardian.com/politics/live/2026/apr/26/keir-starmer-labour-support-mandelson-controversy-uk-politics-live",
-        "topic_type": "uk_politics",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "Prime minister says ‘you never hear from … the people who are supportive, loyal and just want to get on with the job’ Keir Starmer began the day with a statement about the shooting incident at the White House correspondents’ dinner : “I am shocked by the scenes at the White House correspondents’ dinner in Washington overnight,” Starmer posted on X. “Any attack on democratic institutions or on the freedom of the press must be condemned in the strongest possible terms.” Continue reading...",
-          "news_focus_zh": "英國工黨領袖基爾·斯塔默（Keir Starmer）在面對曼德爾森（Peter Mandelson）爭議時表示，工黨絕大多數成員仍然支持他。他強調，支持者的聲音往往被忽視，並對華盛頓白宮記者晚宴上的槍擊事件表達震驚，重申對民主制度和新聞自由的堅定支持。",
-          "background": "基爾·斯塔默自2020年以來擔任工黨領袖，面對內部挑戰與外部批評，特別是來自黨內資深人物如曼德爾森的聲音。曼德爾森曾是工黨的重要人物，他的批評可能影響黨內的團結與選民支持。近期，英國政治環境因經濟困境與社會問題而變得更加複雜，工黨需要在即將到來的選舉中展現一致性與領導力。",
-          "stakeholders": [
-            "基爾·斯塔默",
-            "彼得·曼德爾森",
-            "工黨成員",
-            "選民",
-            "媒體"
-          ],
-          "analysis": "斯塔默的聲明旨在重申其領導地位，並試圖平息黨內不安。曼德爾森的批評可能反映出部分黨內成員對斯塔默的擔憂，這可能會影響工黨在選舉中的表現。支持者與反對者之間的緊張關係可能導致黨內分裂，影響選民的信心。斯塔默的強調民主與新聞自由的立場，則可能吸引中間選民的支持，但也需警惕黨內的潛在不滿情緒。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "security_event",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "Russian strikes kill three, wound four in Ukraine",
-        "link": "https://www.thehindu.com/news/international/russian-strikes-in-ukraine-death-toll-injuries-april-26-2026/article70907842.ece",
-        "summary": "In the northeastern Ukraine border region of Sumy, one Russian drone attack killed two civilians, according to the head of Sumy’s regional military administration",
-        "published": "Sun, 26 Apr 2026 11:56:36 +0530",
-        "updated": "Sun, 26 Apr 2026 11:56:36 +0530",
-        "published_at_utc": "2026-04-26T06:26:36+00:00",
-        "id": "article-70907842",
-        "topic_type": "war_and_conflict",
-        "relevance_score": 18,
-        "briefing": {
-          "news_focus": "In the northeastern Ukraine border region of Sumy, one Russian drone attack killed two civilians, according to the head of Sumy’s regional military administration",
-          "news_focus_zh": "俄羅斯在烏克蘭的邊界地區進行空襲，造成三人死亡和四人受傷，這一事件發生在蘇梅地區，顯示出持續的衝突對平民的影響。",
-          "background": "自2014年克里米亞危機以來，俄烏之間的緊張局勢不斷升級，尤其是在東部地區的衝突。蘇梅地區作為邊界地帶，經常成為軍事行動的焦點。近期，隨著俄羅斯加強對烏克蘭的攻擊，平民傷亡事件頻繁發生，這引發了國際社會的廣泛關注與譴責。",
-          "stakeholders": [
-            "烏克蘭政府",
-            "俄羅斯政府",
-            "國際人權組織",
-            "北約",
-            "歐盟"
-          ],
-          "analysis": "此次空襲再次凸顯了俄烏衝突中平民的脆弱處境。烏克蘭政府可能會加強對外求援的力度，尋求更多的國際支持來應對人道危機。另一方面，俄方可能會以此行動來展示其軍事能力，並試圖在談判桌上獲得更多籌碼。國際社會對此事件的反應將影響未來的外交動向，特別是對俄制裁的持續性。"
-        },
-        "topic_priority_score": 11,
-        "event_type": "security_event",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "Donald Trump says shooting won’t ‘deter’ him from Iran war",
-        "link": "https://www.thehindu.com/news/international/donald-trump-says-shooting-wont-deter-him-from-iran-war/article70907726.ece",
-        "summary": "The U.S. President had cancelled his envoys’ trip to Pakistan for peace talks with Iran",
-        "published": "Sun, 26 Apr 2026 10:25:22 +0530",
-        "updated": "Sun, 26 Apr 2026 10:25:22 +0530",
-        "published_at_utc": "2026-04-26T04:55:22+00:00",
-        "id": "article-70907726",
-        "topic_type": "us_politics",
-        "relevance_score": 18,
-        "briefing": {
-          "news_focus": "The U.S. President had cancelled his envoys’ trip to Pakistan for peace talks with Iran",
-          "news_focus_zh": "美國總統唐納德·特朗普表示，近期的槍擊事件不會阻止他推動對伊朗的軍事行動，同時取消了派遣特使前往巴基斯坦進行和平談判的計劃。",
-          "background": "特朗普政府在對伊朗的政策上一直採取強硬立場，尤其是在核協議問題上。隨著地緣政治緊張局勢升高，特朗普的言論顯示出其對軍事行動的偏好，並且在面對內外壓力時，選擇不進行外交斡旋。這一決策反映出美國在中東地區的戰略重心及其對伊朗的持續敵意。",
-          "stakeholders": [
-            "美國政府",
-            "伊朗政府",
-            "巴基斯坦政府",
-            "國際社會",
-            "美國國內反戰團體"
-          ],
-          "analysis": "特朗普的強硬立場可能會引發國內外的分歧。在國內，部分政界人士和公眾可能會對軍事行動表示擔憂，認為這會加劇衝突。而在國際上，伊朗及其盟友可能會視此為挑釁，進一步升高緊張局勢。特朗普的決策也可能影響美國與其他國家的外交關係，特別是在尋求和平解決方案的國家如巴基斯坦。"
-        },
-        "topic_priority_score": 8,
-        "event_type": "security_event",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      }
-    ],
-    "economy": [
-      {
-        "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "Frenzy for Hong Kong luxury homes set to continue after 156% sales rise in first quarter",
-        "link": "https://www.scmp.com/business/article/3351361/frenzy-hong-kong-luxury-homes-set-continue-after-156-sales-rise-first-quarter?utm_source=rss_feed",
-        "summary": "Hong Kong’s sales of luxury homes more than doubled in the first quarter from a year earlier, helped by a buoyant stock market and attractively priced assets that drew the attention of wealthy investors including mainland Chinese buyers, according to analysts. The segment was likely to record another increase in the second quarter, they added. “With the wealth effect from accumulated gains in the stock market over the past two years, both local and mainland Chinese capital have seized the...",
-        "published": "Sun, 26 Apr 2026 06:00:21 +0000",
-        "updated": "Sun, 26 Apr 2026 06:00:21 +0000",
-        "published_at_utc": "2026-04-26T06:00:21+00:00",
-        "id": "https://www.scmp.com/business/article/3351361/frenzy-hong-kong-luxury-homes-set-continue-after-156-sales-rise-first-quarter?utm_source=rss_feed",
-        "topic_type": "markets",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "Hong Kong’s sales of luxury homes more than doubled in the first quarter from a year earlier, helped by a buoyant stock market and attractively priced assets that drew the attention of wealthy investors including mainland Chinese buyers, according to analysts. The segment was likely to record another increase in the second quarter, they added. “With the wealth effect from accumulated gains in the stock market over the past two years, both local and mainland Chinese capital have seized the...",
-          "news_focus_zh": "香港豪宅銷售在第一季度同比增長156%，主要受到股市表現良好及吸引人的資產價格影響，吸引了包括中國內地買家在內的富裕投資者。分析師預測第二季度豪宅銷售將持續增長。",
-          "background": "香港的豪宅市場歷來受到投資者的青睞，尤其是來自中國內地的買家。隨著股市的回暖，投資者的財富效應顯著，促使他們更積極地進入高端房地產市場。此外，香港的地理位置及其作為國際金融中心的地位，持續吸引外資流入，進一步推動豪宅需求。",
-          "stakeholders": [
-            "香港開發商",
-            "內地富裕投資者",
-            "首次置業者",
-            "香港政府",
-            "房地產分析師"
-          ],
-          "analysis": "豪宅市場的繁榮對於本地開發商和投資者來說是一大利好，能夠提升資本回報率。然而，這也可能加劇房價上漲，對於首次置業者及中產階級造成壓力。內地買家的參與則可能引發政策討論，特別是在房地產市場過熱的背景下，政府可能會考慮調整相關稅制或購房限制，以維護市場穩定。"
-        },
-        "topic_priority_score": 4,
-        "event_type": "corporate_results",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Unlucky chancellor? Iran shock hits Reeves just as UK seemed to turn corner",
-        "link": "https://www.theguardian.com/politics/2026/apr/25/iran-shock-hits-rachel-reeves-chancellor-as-uk-economy-turns-corner",
-        "summary": "The economy and public finances were on the right path, bond yields were falling, interest rates likely to drop further … then came the US-Israeli attack Donald Trump’s war on Iran is “folly” ; shadow chancellor Mel Stride should be “lined up for the sack”; and the Liberal Democrat Daisy Cooper’s plan for managing fuel shortages is “fundamentally economically illiterate”. Rachel Reeves has always relished a political fight, but in recent days she has been swinging at her opponents with what looks very much like enjoyment. Continue reading...",
-        "published": "Sat, 25 Apr 2026 11:00:43 GMT",
-        "updated": "2026-04-25T11:00:43Z",
-        "published_at_utc": "2026-04-25T11:00:43+00:00",
-        "id": "https://www.theguardian.com/politics/2026/apr/25/iran-shock-hits-rachel-reeves-chancellor-as-uk-economy-turns-corner",
-        "topic_type": "interest_rates",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "The economy and public finances were on the right path, bond yields were falling, interest rates likely to drop further … then came the US-Israeli attack Donald Trump’s war on Iran is “folly” ; shadow chancellor Mel Stride should be “lined up for the sack”; and the Liberal Democrat Daisy Cooper’s plan for managing fuel shortages is “fundamentally economically illiterate”. Rachel Reeves has always relished a political fight, but in recent days she has been swinging at her opponents with what looks very much like enjoyment. Continue reading...",
-          "news_focus_zh": "英國影子財相瑞芙斯在經濟回暖之際，因美以攻擊伊朗而面臨挑戰，政治局勢變化引發各方批評與反擊。",
-          "background": "近期英國經濟顯示出回暖跡象，債券收益率下降，利率預期進一步降低。然而，隨著美國與以色列對伊朗的攻擊，這一穩定局面受到威脅。此事件不僅影響國際油價，也可能對英國的公共財政造成衝擊，因為燃料短缺的潛在風險可能引發通脹壓力，影響民生與經濟增長。",
-          "stakeholders": [
-            "英國政府",
-            "影子財相瑞芙斯",
-            "自由民主黨",
-            "投資者",
-            "民眾"
-          ],
-          "analysis": "瑞芙斯面臨的挑戰來自於國內外的多重壓力。影子財相的表現受到批評，尤其是對於燃料短缺的應對策略。自由民主黨的庫珀提出的計畫被指責為經濟上不切實際，這使得瑞芙斯在政治上必須更加積極應對。隨著經濟狀況的不確定性增加，政府與反對派之間的角力將更加激烈，未來的政策走向將對英國經濟復甦的成效產生深遠影響。"
-        },
-        "topic_priority_score": 10,
-        "event_type": "rate_decision",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "economy",
-        "source_name": "Nikkei Asia",
-        "title": "Japan inflation remains below BOJ's 2% target in March",
-        "link": "https://asia.nikkei.com/economy/inflation/japan-inflation-remains-below-boj-s-2-target-in-march",
-        "summary": "",
-        "published": "",
-        "updated": "",
-        "published_at_utc": "",
-        "id": "https://asia.nikkei.com/economy/inflation/japan-inflation-remains-below-boj-s-2-target-in-march",
-        "topic_type": "inflation",
-        "relevance_score": 15,
-        "briefing": {
-          "news_focus": "Japan inflation remains below BOJ's 2% target in March",
-          "news_focus_zh": "日本三月份的通脹率仍低於日本銀行設定的2%目標，顯示出經濟復甦的挑戰。",
-          "background": "日本的通脹率長期以來一直低迷，這與其經濟結構、人口老化及持續的低利率政策有關。日本銀行（BOJ）自2013年以來實施了量化寬鬆政策，旨在刺激經濟增長並達成通脹目標。然而，儘管有這些政策，通脹率仍未能穩定在2%之上，反映出內需疲弱及全球供應鏈問題的影響。",
-          "stakeholders": [
-            "日本銀行",
-            "日本政府",
-            "企業",
-            "消費者",
-            "投資者"
-          ],
-          "analysis": "對於日本銀行而言，通脹率低於目標意味著其貨幣政策可能需要持續維持寬鬆，這可能會引發市場對於未來政策調整的懷疑。企業和消費者的信心可能受到影響，因為低通脹顯示出經濟復甦的乏力。此外，若通脹持續低迷，可能會影響日本政府的財政政策及未來的經濟增長預期，進而影響投資者的信心和市場動態。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "inflation_data",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_links": [],
-        "source_count": 1
-      }
-    ]
+    "technology": [],
+    "politics": [],
+    "economy": []
   },
   "further_reading": {
     "technology": [
+      {
+        "title": "US Special Forces Soldier Arrested for Polymarket Bets on Maduro Raid",
+        "link": "https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-04-23T23:15:21+00:00",
+        "relevance_score": 16
+      },
       {
         "title": "Anthropic created a test marketplace for agent-on-agent commerce",
         "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
         "source_name": "TechCrunch",
         "published_at_utc": "2026-04-25T21:43:37+00:00",
-        "relevance_score": 15
+        "relevance_score": 13
       },
       {
         "title": "OpenAI CEO apologizes to Tumbler Ridge community",
         "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
         "source_name": "TechCrunch",
         "published_at_utc": "2026-04-25T17:17:56+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Palantir employees are talking about company's \"descent into fascism\"",
-        "link": "https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-04-25T10:49:52+00:00",
         "relevance_score": 13
       },
       {
@@ -355,11 +48,11 @@
         "relevance_score": 11
       },
       {
-        "title": "The most exciting laptop I’ve seen in forever",
-        "link": "https://www.theverge.com/tech/918695/framework-laptop-stranger-things-installer",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-04-25T12:00:00+00:00",
-        "relevance_score": 10
+        "title": "Palantir employees are talking about company's \"descent into fascism\"",
+        "link": "https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-04-25T10:49:52+00:00",
+        "relevance_score": 9
       },
       {
         "title": "OpenAI boss 'deeply sorry' for not telling police of mass shooting suspect's account",
@@ -383,99 +76,127 @@
         "relevance_score": 9
       },
       {
-        "title": "The Download: supercharged scams and studying AI healthcare",
-        "link": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-        "source_name": "MIT Technology Review",
-        "published_at_utc": "2026-04-24T12:10:00+00:00",
-        "relevance_score": 9
+        "title": "Skylight’s 15-inch smart calendar is down to its lowest price to date",
+        "link": "https://www.theverge.com/gadgets/918544/skylight-15-inch-smart-calendar-2-mothers-day-deal-2026-sale",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-04-26T14:05:03+00:00",
+        "relevance_score": 8
       },
       {
-        "title": "I brought my husband back for his funeral as a hologram",
-        "link": "https://www.bbc.com/news/articles/cm29qj3e294o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Technology",
-        "published_at_utc": "2026-04-25T23:03:52+00:00",
+        "title": "After three months on Linux, I don’t miss Windows at all",
+        "link": "https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-04-26T13:00:00+00:00",
         "relevance_score": 8
       }
     ],
     "politics": [
       {
-        "title": "World reacts to shooting at White House correspondents’ dinner",
-        "link": "https://www.aljazeera.com/news/2026/4/26/world-reacts-to-shooting-at-white-house-correspondents-dinner?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-26T07:57:13+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "White House correspondents’ dinner shooting: A look at previous assassination attempts on President Donald Trump",
-        "link": "https://www.thehindu.com/news/international/white-house-correspondents-dinner-shooting-previous-assassination-attempts-on-president-donald-trump/article70907924.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-26T06:56:18+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Who is Cole Tomas Allen, the suspect linked to Trump’s press dinner shooting?",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3351460/who-cole-tomas-allen-suspect-linked-trumps-press-dinner-shooting?utm_source=rss_feed",
+        "title": "China backs Myanmar’s push to ease diplomatic isolation, stamp out telecoms scams",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3351479/china-backs-myanmars-push-ease-diplomatic-isolation-stamp-out-telecoms-scams?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-04-26T06:02:06+00:00",
-        "relevance_score": 20
+        "published_at_utc": "2026-04-26T10:37:26+00:00",
+        "relevance_score": 23
       },
       {
-        "title": "Trump thought sound of gunman at journalists’ dinner was tray falling",
-        "link": "https://www.theguardian.com/us-news/2026/apr/26/donald-trump-correspondents-dinner-shooting",
+        "title": "Keir Starmer vows to lead Labour into next general election after bruising week",
+        "link": "https://www.theguardian.com/politics/2026/apr/26/keir-starmer-vows-lead-labour-general-election-mandelson-vetting",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-26T05:13:35+00:00",
-        "relevance_score": 20
+        "published_at_utc": "2026-04-26T12:14:20+00:00",
+        "relevance_score": 22
       },
       {
-        "title": "Dramatic scenes as Trump rushed from White House gala",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/26/dramatic-scenes-as-trump-rushed-from-white-house-gala?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-26T01:14:33+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Israel-Iran war live: Oman's Sultan meets Iran's Araghchi to discuss regional situation",
+        "title": "Israel-Iran war live: Iran's Foreign Minister Araghchi expected back in Pakistan despite U.S. cancellation",
         "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-26T08:20:50+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-04-26T10:37:47+00:00",
+        "relevance_score": 21
       },
       {
-        "title": "How American taxpayers fund Trump’s wars",
-        "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/4/26/how-american-taxpayers-fund-trumps-wars-3?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-26T07:57:42+00:00",
-        "relevance_score": 18
+        "title": "World leaders condemn ‘unacceptable’ violence after armed attack disrupts WH Correspondents’ Dinner",
+        "link": "https://www.foxnews.com/world/world-leaders-condemn-unacceptable-violence-armed-attack-disrupts-wh-correspondents-dinner",
+        "source_name": "Fox News World",
+        "published_at_utc": "2026-04-26T14:04:00+00:00",
+        "relevance_score": 20
       },
       {
-        "title": "Trump shooting: U.S. lawmakers say violence has no place in the country",
-        "link": "https://www.thehindu.com/news/international/trump-shooting-us-lawmakers-say-violence-has-no-place-in-the-country/article70908014.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-26T07:44:08+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Suspect ‘armed with knives and guns’ charged after shooting at White House correspondents’ dinner – as it happened",
-        "link": "https://www.theguardian.com/us-news/live/2026/apr/26/donald-trump-evacuated-from-white-house-correspondents-dinner-after-loud-bangs-heard-live",
+        "title": "Florida is latest US state to enter redistricting war ahead of 2026 election",
+        "link": "https://www.theguardian.com/us-news/2026/apr/26/florida-special-session-redistricting",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-26T07:19:18+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-04-26T14:00:16+00:00",
+        "relevance_score": 20
       },
       {
-        "title": "Washington shooting: Is Trump safe? What we know so far",
-        "link": "https://www.aljazeera.com/news/2026/4/26/washington-shooting-is-trump-safe-what-we-know-so-far?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-26T07:15:12+00:00",
+        "title": "China warns EU to remove firms and citizens from Russian sanctions list",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3351486/china-warns-eu-remove-firms-and-citizens-russian-sanctions-list?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-26T11:40:50+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "King Charles’s security for US visit under review after Washington shooting",
+        "link": "https://www.theguardian.com/uk-news/2026/apr/26/king-charles-security-us-visit-reviewed-washington-shooting-trump",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-26T11:21:44+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "US press dinner shooting casts fresh spotlight on Trump’s security",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3351466/us-press-dinner-shooting-casts-fresh-spotlight-trumps-security?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-26T07:58:40+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "How gunfire threw Trump’s glitzy Washington Hilton dinner into chaos",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3351450/how-gunfire-threw-trumps-glitzy-washington-hilton-dinner-chaos?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-26T03:06:09+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Suspected gunman likely targeting Trump administration officials at White House press dinner, acting attorney general says – live",
+        "link": "https://www.theguardian.com/us-news/live/2026/apr/26/white-house-correspondents-dinner-shooting-latest-donald-trump-suspect-washington-hilton",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-26T14:28:17+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
+        "title": "China's Hengli Petrochemical denies trade with Iran in response to US sanctions - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU1p0SFVlSExOVVpncXI1SEZpUkxnQ1BHUTFfQlVnRUt3QW5SY0dLdndfamFfbzI3WDdqcEk4M1VfWjF4N2ZWN1ZxLTA0cEdONWdsYmo2aTZscjlyZE11MXBDZzFfWEloaER2S0hOMm9LODNreE9mbC1kNWNRZmJDdUxFMmx1czN4WS0tUENfU3ZXSFdHdXF3STNYRjZtR2VtSWtHV0lWQ1Z6eWUxczlCbWFuN3ZYZ3paZVB4aVhtLThYUQ?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-26T11:16:08+00:00",
+        "relevance_score": 25
+      },
+      {
+        "title": "NatWest faces AGM showdown over ‘climate backtracking’",
+        "link": "https://www.theguardian.com/business/2026/apr/26/natwest-agm-showdown-climate-backtracking-protest-vote",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-26T11:21:14+00:00",
+        "relevance_score": 19
+      },
+      {
         "title": "Why Shenzhen may be first to climb out of China’s property slump",
         "link": "https://www.scmp.com/business/article/3351407/why-shenzhen-may-be-first-climb-out-chinas-property-slump?utm_source=rss_feed",
         "source_name": "SCMP Business",
         "published_at_utc": "2026-04-26T04:00:09+00:00",
-        "relevance_score": 21
+        "relevance_score": 19
+      },
+      {
+        "title": "Will Kevin Warsh Trumpify the Federal Reserve?",
+        "link": "https://www.economist.com/finance-and-economics/2026/04/26/will-kevin-warsh-trumpify-the-federal-reserve",
+        "source_name": "The Economist",
+        "published_at_utc": "2026-04-26T13:17:44+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Higher prices could last for eight months after Iran war, minister says",
+        "link": "https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-04-26T13:58:54+00:00",
+        "relevance_score": 16
       },
       {
         "title": "Trump bought at least $51 million in bonds in March, disclosure shows - Reuters",
@@ -499,54 +220,25 @@
         "relevance_score": 15
       },
       {
-        "title": "UK departments at odds over energy demands of AI datacentres",
-        "link": "https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres",
+        "title": "Bosses don’t like the sound of a ‘four-day workweek’. Maybe it’s time to rebrand it",
+        "link": "https://www.theguardian.com/business/2026/apr/26/four-day-workweek-employment",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-26T07:00:08+00:00",
+        "published_at_utc": "2026-04-26T14:00:16+00:00",
         "relevance_score": 14
       },
       {
-        "title": "How the shooting at the White House Correspondents' Dinner unfolded - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZnB5X2hhcnpyWlJ3S1d2OXV6a3FvRnJhS2lpT1ZTWDhQTnVHakFOajFyZFNxN2g3elNPcUtuanp3TExIV3B1WjRsc3VDanJkMnZXMUEyNHJnRjBPYl9wWDFRZjNaTm9Pb0ZLdzNKN0FQc05xRGVrWU1RV0ZWZVI4TTJra0xxaWlMTGFSYjAxYUd2XzNMR2hYTkVyUl9CTzZMUVdsR3ZyeU1MMm9lRmo5Y3BfNzA?oc=5",
+        "title": "C$ hits a four-week low as business curbs cloud U.S. economic reopening - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTjc3bWl4MjQ3S0FGdlRQaG13VGxqTlNXU2w0X3dUVXZnbDQ1ODNsTEF4bnRjaWpTb0IxS1NZZ1hDOEt4YjZheDBOOFV5ZTFzZ0lBcFVnRVhESTlUZ1ZtUE92WW9LWWRfaGZNLWR6VC0zeU5PREpEeHNXRXhOdmVmR2xsOE1udUpBSlI2U0xPVGl2bHJFRHFKSG5GLTA4X2pNUXNHQXF0R2l6bkpnUWxlN2ZRLUNTN09URWhON0ZSazVZZ3BRV3B5VlV1cGwtNGlQRzhFYjZ6cG0?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-04-26T05:34:00+00:00",
+        "published_at_utc": "2026-04-26T12:35:06+00:00",
         "relevance_score": 14
-      },
-      {
-        "title": "Shoplifters aren't just bad to the bone or mums stealing nappies. The truth is more complex| Emily Kenway",
-        "link": "https://www.theguardian.com/commentisfree/2026/apr/26/career-shoplifters-motivation-crime",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-26T05:00:05+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "Facing AI and a tough job market, gen Z turns to entrepreneurship: ‘I have to prove myself’",
-        "link": "https://www.theguardian.com/technology/ng-interactive/2026/apr/25/gen-z-entrepreneurs-business-ai",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-25T12:00:45+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "Baijiu bet: China’s top fund manager doubles down on consumers amid signs of recovery",
-        "link": "https://www.scmp.com/business/china-business/article/3351290/baijiu-bet-chinas-top-fund-manager-doubles-down-consumers-amid-signs-recovery?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-24T08:00:46+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "China opens government bond futures to select foreign investors in reform push",
-        "link": "https://www.scmp.com/business/china-business/article/3351332/china-opens-government-bond-futures-select-foreign-investors-reform-push?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-24T11:00:08+00:00",
-        "relevance_score": 13
       }
     ]
   },
   "enrichment_summary": {
     "model": "gpt-4o-mini",
-    "enriched": 9,
+    "enriched": 0,
     "failed": 0,
-    "total": 9
-  },
-  "theme_of_day": "今日新聞的整體敘事主軸圍繞著科技安全、政治動盪與經濟變遷之間的相互影響。在科技版面中，Discord的安全漏洞與美國特種部隊的內線交易事件，突顯了信息保護及道德風險的嚴重性，進一步影響到政治層面的信任問題。另一方面，俄烏衝突的持續與特朗普對伊朗的強硬立場，對全球經濟形勢造成壓力，尤其是在英國與日本面臨的經濟挑戰中，顯示出政治與經濟之間的緊密連結。"
+    "total": 0
+  }
 }

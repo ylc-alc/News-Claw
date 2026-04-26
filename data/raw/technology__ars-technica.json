@@ -5,13 +5,24 @@
     "feed_url": "http://feeds.arstechnica.com/arstechnica/index/",
     "feed_title": "Ars Technica - All content",
     "feed_link": "https://arstechnica.com",
-    "fetched_at_utc": "2026-04-26T08:49:09.497610+00:00",
+    "fetched_at_utc": "2026-04-26T14:37:01.137982+00:00",
     "entry_count": 20,
     "bozo": false,
     "failed": false,
     "failure_reason": ""
   },
   "items": [
+    {
+      "category": "technology",
+      "source_name": "Ars Technica",
+      "feed_url": "http://feeds.arstechnica.com/arstechnica/index/",
+      "title": "New robotic control software avoids jamming their joints",
+      "link": "https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/",
+      "summary": "Software lets robots learn from each other even if they have different hardware.",
+      "published": "Sun, 26 Apr 2026 11:09:29 +0000",
+      "updated": "Sun, 26 Apr 2026 11:09:29 +0000",
+      "id": "https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/"
+    },
     {
       "category": "technology",
       "source_name": "Ars Technica",
@@ -220,17 +231,6 @@
       "published": "Thu, 23 Apr 2026 21:45:10 +0000",
       "updated": "Thu, 23 Apr 2026 21:45:10 +0000",
       "id": "https://arstechnica.com/tech-policy/2026/04/us-accuses-china-of-industrial-scale-ai-theft-china-says-its-slander/"
-    },
-    {
-      "category": "technology",
-      "source_name": "Ars Technica",
-      "feed_url": "http://feeds.arstechnica.com/arstechnica/index/",
-      "title": "Carbon nanotube wiring gets closer to competing with copper",
-      "link": "https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper/",
-      "summary": "While this material degrades over time, it could point to better ones.",
-      "published": "Thu, 23 Apr 2026 21:22:09 +0000",
-      "updated": "Thu, 23 Apr 2026 21:22:09 +0000",
-      "id": "https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper/"
     }
   ]
 }
