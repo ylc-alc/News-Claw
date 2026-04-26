@@ -1098,23 +1098,11 @@ def sort_items(items):
 
 
 def select_top_items_by_section(items):
-    sections = {section: [] for section in TARGET_SECTIONS}
-    further_reading = {section: [] for section in TARGET_SECTIONS}
-    section_pools = {section: [] for section in TARGET_SECTIONS}
-
-    for section in TARGET_SECTIONS:
-        section_items = [
-            item for item in items
-            if item.get("category") == section and is_section_qualified(item, section)
-        ]
-        section_items = sort_items(section_items)
-        section_pools[section] = section_items
-
-        if not section_items:
-            continue
+    def pick_unique_items(section_items):
 
         selected = []
         soft_guard_slots = 2
+        
             if len(selected) >= MAX_TOPICS_PER_SECTION:
                 break
             if any(is_same_event(item, chosen) for chosen in selected):
@@ -1132,6 +1120,24 @@ def select_top_items_by_section(items):
                 if any(is_same_event(item, chosen) for chosen in selected):
                     continue
                 selected.append(dict(item))
+        return selected
+
+    sections = {section: [] for section in TARGET_SECTIONS}
+    further_reading = {section: [] for section in TARGET_SECTIONS}
+    section_pools = {section: [] for section in TARGET_SECTIONS}
+
+    for section in TARGET_SECTIONS:
+        section_items = [
+            item for item in items
+            if item.get("category") == section and is_section_qualified(item, section)
+        ]
+        section_items = sort_items(section_items)
+        section_pools[section] = section_items
+
+        if not section_items:
+            continue
+
+        selected = pick_unique_items(section_items)
 
         enriched_selected = []
         for selected_item in selected[:MAX_TOPICS_PER_SECTION]:
