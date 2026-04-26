@@ -783,13 +783,14 @@ def resolve_cross_section_conflicts(sections, section_pools, further_reading):
 
                     if promotee:
                         p = dict(promotee)
-                        sup, sup_titles, sup_links = find_supporting_sources(
+                        sup, sup_titles, sup_summaries, sup_links = find_supporting_sources(
                             p, section_pools.get(loser_sec, [])
                         )
                         p["supporting_sources"] = sup
-                        p["supporting_titles"]  = sup_titles
-                        p["supporting_links"]   = sup_links
-                        p["source_count"]        = 1 + len(sup)
+                        p["supporting_titles"] = sup_titles
+                        p["supporting_summaries"] = sup_summaries
+                        p["supporting_links"] = sup_links
+                        p["source_count"] = 1 + len(sup)
                         sections[loser_sec].append(p)
 
                     refs = keeper_item.setdefault("cross_section_refs", [])
@@ -972,13 +973,17 @@ def select_top_items_by_section(items):
 
         enriched_selected = []
         for selected_item in selected[:MAX_TOPICS_PER_SECTION]:
-            supporting_sources, supporting_titles, supporting_summaries, supporting_links = find_supporting_sources(selected_item, section_items)
+            supporting_sources, supporting_titles, supporting_summaries, supporting_links = find_supporting_sources(
+                selected_item, section_items
+            )
 
-        selected_item["supporting_sources"] = supporting_sources
-        selected_item["supporting_titles"] = supporting_titles
-        selected_item["supporting_summaries"] = supporting_summaries
-        selected_item["supporting_links"] = supporting_links
-        selected_item["source_count"] = 1 + len(supporting_sources)
+            selected_item["supporting_sources"] = supporting_sources
+            selected_item["supporting_titles"] = supporting_titles
+            selected_item["supporting_summaries"] = supporting_summaries
+            selected_item["supporting_links"] = supporting_links
+            selected_item["source_count"] = 1 + len(supporting_sources)
+
+            enriched_selected.append(selected_item)
 
         sections[section] = enriched_selected
 
