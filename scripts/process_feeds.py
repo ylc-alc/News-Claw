@@ -187,6 +187,27 @@ EXPLAINER_TITLE_PATTERNS = [
 ]
 
 
+TECH_GENERAL_EXCLUSION_PATTERNS = [
+    "review", "music", "dance music", "album", "song", "concert", "festival",
+    "coachella", "entertainment", "movie", "film", "tv show", "television",
+    "celebrity", "fashion", "lifestyle", "recipe", "travel guide",
+]
+
+FIRST_PERSON_SOFT_PATTERNS = [
+    "wasn't on my radar", "was not on my radar", "i stumbled upon",
+    "i paused", "i opened the wrong stream", "my tv was lagging",
+    "love letter to",
+]
+
+TECH_STRONG_SIGNAL_PATTERNS = [
+    "startup", "software", "hardware", "device", "smartphone", "app", "apps",
+    "platform", "developer", "developers", "cloud", "robot", "robotics",
+    "autonomous", "semiconductor", "chip", "chips", "ai", "artificial intelligence",
+    "cyber", "data center", "telecom", "satellite", "quantum", "battery",
+    "ev", "electric vehicle", "privacy", "antitrust", "regulation",
+]
+
+
 REGIONAL_PRIORITY = {
     "high": [
         "united states", "u.s.", " us ", "american", "washington dc",
@@ -346,6 +367,41 @@ def detect_topic_type(category, title, summary):
 
 def contains_any(text, keywords):
     return any(keyword in text for keyword in keywords)
+
+
+def has_strong_tech_signal(text):
+    for keywords in TECH_KEYWORDS.values():
+        for keyword in keywords:
+            if keyword in text:
+                return True
+    return any(pattern in text for pattern in TECH_STRONG_SIGNAL_PATTERNS)
+
+
+def is_section_qualified(item, section):
+    if item.get("category", "") != section:
+        return False
+
+    title_l = item.get("title", "").lower()
+    summary_l = item.get("summary", "").lower()
+    blob = f"{title_l} {summary_l}"
+    topic_type = item.get("topic_type", "general")
+
+    if section == "technology":
+        if topic_type != "general":
+            if contains_any(blob, TECH_GENERAL_EXCLUSION_PATTERNS) and not has_strong_tech_signal(blob):
+                return False
+            return True
+
+        if contains_any(blob, TECH_GENERAL_EXCLUSION_PATTERNS):
+            return False
+
+        if contains_any(blob, FIRST_PERSON_SOFT_PATTERNS):
+            return False
+
+        if not has_strong_tech_signal(blob):
+            return False
+
+    return True
 
 
 def detect_event_type(category, topic_type, title, summary):
@@ -1004,7 +1060,10 @@ def select_top_items_by_section(items):
     section_pools = {section: [] for section in TARGET_SECTIONS}
 
     for section in TARGET_SECTIONS:
-        section_items = [item for item in items if item.get("category") == section]
+        section_items = [
+            item for item in items
+            if item.get("category") == section and is_section_qualified(item, section)
+        ]
         section_items = sort_items(section_items)
         section_pools[section] = section_items
 
