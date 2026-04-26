@@ -223,6 +223,31 @@ ECONOMY_OVERRIDE_PATTERNS = [
     "market", "markets", "economic growth", "recession", "gdp", "jobs report"
 ]
 
+POLITICS_HEADLINE_PATTERNS = {
+    "critical": [
+        "assassination attempt", "shooting", "gunman", "armed attack", "political violence",
+        "bombing", "hostage", "raid", "airstrike", "missile strike", "state of war"
+    ],
+    "major": [
+        "white house", "trump", "secret service", "correspondents dinner", "correspondents’ dinner",
+        "whcd", "washington hilton", "ceasefire collapse", "war escalation", "escalated attacks",
+        "foreign minister", "islamabad", "oman", "strait of hormuz"
+    ]
+}
+
+POLITICS_CLUSTER_PATTERNS = {
+    "whcd_shooting": [
+        "white house", "correspondents dinner", "correspondents’ dinner", "whcd",
+        "washington hilton", "secret service", "shooting", "gunman", "assassination attempt"
+    ],
+    "iran_us_talks": [
+        "iran", "u.s.", "united states", "islamabad", "pakistan", "oman", "araghchi",
+        "talks", "negotiate", "negotiat", "strait of hormuz"
+    ],
+    "gaza_escalation": [
+        "gaza", "israel", "hamas", "state of war", "escalated attacks", "airstrike", "ceasefire"
+    ]
+}
 
 REGIONAL_PRIORITY = {
     "high": [
@@ -1159,13 +1184,83 @@ def dedupe_items(items):
     return deduped
 
 
-def sort_items(items):
+def politics_headline_bonus(item):
+    blob = f"{item.get('title', '').lower()} {item.get('summary', '').lower()}"
+    bonus = 0
+
+    critical_hits = sum(1 for pattern in POLITICS_HEADLINE_PATTERNS["critical"] if pattern in blob)
+    major_hits = sum(1 for pattern in POLITICS_HEADLINE_PATTERNS["major"] if pattern in blob)
+
+    bonus += critical_hits * 6
+    bonus += major_hits * 3
+
+    if ("white house" in blob or "trump" in blob) and ("shooting" in blob or "gunman" in blob or "assassination" in blob):
+        bonus += 8
+
+    return bonus
+
+
+def headline_priority_bonus(item, section):
+    if section == "politics":
+        return politics_headline_bonus(item)
+    return 0
+
+
+def get_politics_cluster_label(item):
+    blob = f"{item.get('title', '').lower()} {item.get('summary', '').lower()}"
+
+    for label, patterns in POLITICS_CLUSTER_PATTERNS.items():
+        hit_count = sum(1 for pattern in patterns if pattern in blob)
+        if label == "whcd_shooting" and hit_count >= 2:
+            return label
+        if label == "iran_us_talks" and hit_count >= 3:
+            return label
+        if label == "gaza_escalation" and hit_count >= 2:
+            return label
+
+    return ""
+
+
+def get_story_cluster_label(item, section):
+    if section == "politics":
+        return get_politics_cluster_label(item)
+    return ""
+
+
+def is_same_section_cluster(item_a, item_b, section):
+    label_a = get_story_cluster_label(item_a, section)
+    label_b = get_story_cluster_label(item_b, section)
+
+    if label_a and label_a == label_b:
+        return True
+
+    title_overlap = title_overlap_score(item_a.get("title", ""), item_b.get("title", ""))
+    story_overlap = story_overlap_score(item_a, item_b)
+    tokens_a = set(tokenise_story(item_a.get("title", ""), item_a.get("summary", "")))
+    tokens_b = set(tokenise_story(item_b.get("title", ""), item_b.get("summary", "")))
+    shared_tokens = len(tokens_a.intersection(tokens_b))
+
+    if story_overlap >= 0.38:
+        return True
+    if title_overlap >= 0.28 and shared_tokens >= 3:
+        return True
+
+    same_event_type = item_a.get("event_type", "") == item_b.get("event_type", "")
+    if same_event_type and shared_tokens >= 4 and story_overlap >= 0.22:
+        return True
+
+    return False
+
+
+def sort_items(items, section=None):
     def sort_key(item):
         relevance = item.get("relevance_score", 0)
         parsed = item.get("published_at_utc", "")
         topic_priority = item.get("topic_priority_score", 0)
         title = item.get("title", "")
-        return (relevance, parsed, topic_priority, title)
+        headline_bonus = headline_priority_bonus(item, section) if section else 0
+        category_fit = item.get("category_fit_score", 0)
+        return (relevance + headline_bonus, headline_bonus, category_fit, parsed, topic_priority, title)
 
     return sorted(items, key=sort_key, reverse=True)
 
@@ -1180,43 +1275,31 @@ def select_top_items_by_section(items):
             item for item in items
             if item.get("category") == section and is_section_qualified(item, section)
         ]
-        section_items = sort_items(section_items)
+        section_items = sort_items(section_items, section=section)
         section_pools[section] = section_items
 
         if not section_items:
             continue
 
         selected = []
-        first_item = dict(section_items[0])
-        selected.append(first_item)
-
-        first_topic = first_item.get("topic_type", "general")
-        second_item = None
-        for item in section_items[1:]:
-            if item.get("topic_type", "general") != first_topic:
-                second_item = dict(item)
-                break
-        if second_item is None and len(section_items) > 1:
-            second_item = dict(section_items[1])
-        if second_item is not None:
-            selected.append(second_item)
-
-        selected_topics = {i.get("topic_type", "general") for i in selected}
-        third_item = None
         for item in section_items:
-            if any(i.get("title") == item.get("title") for i in selected):
+            if any(existing.get("title", "") == item.get("title", "") for existing in selected):
                 continue
-            if item.get("topic_type", "general") not in selected_topics:
-                third_item = dict(item)
+            if any(is_same_section_cluster(item, existing, section) for existing in selected):
+                continue
+
+            selected.append(dict(item))
+            if len(selected) >= MAX_TOPICS_PER_SECTION:
                 break
-        if third_item is None:
+
+        # Safety fill only if we still do not have enough items.
+        if len(selected) < MAX_TOPICS_PER_SECTION:
             for item in section_items:
-                if not any(i.get("title") == item.get("title") for i in selected):
-                    if len(selected) < MAX_TOPICS_PER_SECTION:
-                        third_item = dict(item)
-                        break
-        if third_item is not None:
-            selected.append(third_item)
+                if any(existing.get("title", "") == item.get("title", "") for existing in selected):
+                    continue
+                selected.append(dict(item))
+                if len(selected) >= MAX_TOPICS_PER_SECTION:
+                    break
 
         enriched_selected = []
         for selected_item in selected[:MAX_TOPICS_PER_SECTION]:
@@ -1249,7 +1332,7 @@ def select_top_items_by_section(items):
         further_reading[section] = further
 
     return sections, further_reading, section_pools
-    
+
 
 def build_digest(raw_items, deduped_items, sections, further_reading):
     topic_mix = {}
