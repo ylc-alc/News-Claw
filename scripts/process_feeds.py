@@ -35,7 +35,7 @@ TECH_KEYWORDS = {
     ],
     "chips": [
         "semiconductor", "tsmc", "nvidia", "silicon", "chip fabrication",
-        "export controls", "intel", "arm chips", "microchip", "gpu",
+        "export controls", "intel corp", "intel foundry", "arm chips", "microchip", "gpu",
         "chip shortage", "foundry", "palantir", "defense tech",
         "pentagon tech", "military ai", "anduril",
     ],
@@ -208,6 +208,22 @@ TECH_STRONG_SIGNAL_PATTERNS = [
 ]
 
 
+POLITICS_OVERRIDE_PATTERNS = [
+    "white house", "trump", "president", "presidential", "administration officials",
+    "administration", "correspondents dinner", "correspondents’ dinner", "whcd",
+    "secret service", "assassination", "assassination attempt", "gunman", "shooting",
+    "political violence", "cabinet members", "press dinner", "washington hilton",
+    "prime minister", "foreign minister", "ceasefire talks", "diplomatic", "security"
+]
+
+ECONOMY_OVERRIDE_PATTERNS = [
+    "interest rate", "rate cut", "rate hike", "federal reserve", "ecb", "boe",
+    "inflation", "cpi", "tariff", "trade war", "sanctions", "oil price",
+    "brent", "wti", "stocks", "bonds", "investors", "currency", "currencies",
+    "market", "markets", "economic growth", "recession", "gdp", "jobs report"
+]
+
+
 REGIONAL_PRIORITY = {
     "high": [
         "united states", "u.s.", " us ", "american", "washington dc",
@@ -375,6 +391,87 @@ def has_strong_tech_signal(text):
             if keyword in text:
                 return True
     return any(pattern in text for pattern in TECH_STRONG_SIGNAL_PATTERNS)
+
+
+def get_keyword_map_for_section(section):
+    if section == "technology":
+        return TECH_KEYWORDS
+    if section == "politics":
+        return POLITICS_KEYWORDS
+    if section == "economy":
+        return ECONOMY_KEYWORDS
+    return {}
+
+def section_keyword_strength(section, title, summary):
+    keyword_map = get_keyword_map_for_section(section)
+    if not keyword_map:
+        return 0
+    text = {
+        "title": (title or "").lower(),
+        "summary": (summary or "").lower(),
+    }
+    scores = keyword_score(text, keyword_map)
+    return sum(scores.values())
+
+def compute_section_fit_scores(original_category, title, summary):
+    blob = f"{(title or '').lower()} {(summary or '').lower()}"
+    scores = {section: 0 for section in TARGET_SECTIONS}
+
+    for section in TARGET_SECTIONS:
+        scores[section] += section_keyword_strength(section, title, summary)
+
+    if original_category in scores:
+        scores[original_category] += 2
+
+    if has_strong_tech_signal(blob):
+        scores["technology"] += 4
+
+    if contains_any(blob, POLITICS_OVERRIDE_PATTERNS):
+        scores["politics"] += 8
+
+    if contains_any(blob, ECONOMY_OVERRIDE_PATTERNS):
+        scores["economy"] += 7
+
+    if contains_any(blob, TECH_GENERAL_EXCLUSION_PATTERNS) and not has_strong_tech_signal(blob):
+        scores["technology"] -= 10
+
+    if contains_any(blob, FIRST_PERSON_SOFT_PATTERNS):
+        scores["technology"] -= 8
+
+    if contains_any(blob, POLITICS_OVERRIDE_PATTERNS) and not has_strong_tech_signal(blob):
+        scores["technology"] -= 4
+
+    return scores
+
+def choose_best_section(original_category, title, summary):
+    scores = compute_section_fit_scores(original_category, title, summary)
+    best_section = max(
+        TARGET_SECTIONS,
+        key=lambda section: (scores.get(section, 0), section == original_category)
+    )
+
+    original_score = scores.get(original_category, 0)
+    best_score = scores.get(best_section, 0)
+
+    if best_section != original_category and best_score >= original_score + 4:
+        return best_section, scores
+
+    return original_category, scores
+
+def is_cross_section_duplicate(item_a, item_b):
+    title_overlap = title_overlap_score(item_a.get("title", ""), item_b.get("title", ""))
+    story_overlap = story_overlap_score(item_a, item_b)
+    tokens_a = set(tokenise_story(item_a.get("title", ""), item_a.get("summary", "")))
+    tokens_b = set(tokenise_story(item_b.get("title", ""), item_b.get("summary", "")))
+    shared_tokens = len(tokens_a.intersection(tokens_b))
+
+    if story_overlap >= 0.45:
+        return True
+    if title_overlap >= 0.35 and shared_tokens >= 3:
+        return True
+    if story_overlap >= 0.30 and shared_tokens >= 4:
+        return True
+    return False
 
 
 def is_section_qualified(item, section):
@@ -858,7 +955,7 @@ def resolve_cross_section_conflicts(sections, section_pools, further_reading):
                     pair_key = (min(title_a, title_b), max(title_a, title_b))
                     if pair_key in processed_pairs:
                         continue
-                    if title_overlap_score(title_a, title_b) < 0.4:
+                    if not is_cross_section_duplicate(item_a, item_b):
                         continue
 
                     processed_pairs.add(pair_key)
@@ -884,13 +981,24 @@ def resolve_cross_section_conflicts(sections, section_pools, further_reading):
                     score_next_a = next_a.get("relevance_score", 0) if next_a else -999
                     score_next_b = next_b.get("relevance_score", 0) if next_b else -999
 
-                    if score_next_b >= score_next_a:
+                    fit_a = item_a.get("category_fit_score", 0)
+                    fit_b = item_b.get("category_fit_score", 0)
+
+                    if fit_a >= fit_b + 3:
                         keeper_sec, keeper_item = sec_a, item_a
-                        loser_sec,  loser_item  = sec_b, item_b
+                        loser_sec, loser_item = sec_b, item_b
+                        promotee = next_b
+                    elif fit_b >= fit_a + 3:
+                        keeper_sec, keeper_item = sec_b, item_b
+                        loser_sec, loser_item = sec_a, item_a
+                        promotee = next_a
+                    elif score_next_b >= score_next_a:
+                        keeper_sec, keeper_item = sec_a, item_a
+                        loser_sec, loser_item = sec_b, item_b
                         promotee = next_b
                     else:
                         keeper_sec, keeper_item = sec_b, item_b
-                        loser_sec,  loser_item  = sec_a, item_a
+                        loser_sec, loser_item = sec_a, item_a
                         promotee = next_a
 
                     sections[loser_sec] = [
@@ -978,12 +1086,13 @@ def dedupe_items(items):
         title = item.get("title", "")
         title_clean = clean_text(title)
         summary_clean = clean_text(item.get("summary", ""))
-        category = item.get("category", "")
+        original_category = item.get("category", "")
         source_name = item.get("source_name", "")
 
         if not normalise_title(title_clean):
             continue
 
+        category, section_fit_scores = choose_best_section(original_category, title_clean, summary_clean)
         topic_type = detect_topic_type(category, title_clean, summary_clean)
         event_type = detect_event_type(category, topic_type, title_clean, summary_clean)
         briefing = build_briefing(category, topic_type, event_type, title_clean, summary_clean)
@@ -1000,6 +1109,8 @@ def dedupe_items(items):
 
         cleaned_item = {
             "category": category,
+            "original_category": original_category,
+            "category_fit_score": section_fit_scores.get(category, 0),
             "source_name": source_name,
             "title": title_clean,
             "link": item.get("link", ""),
@@ -1032,8 +1143,13 @@ def dedupe_items(items):
                 continue
 
             overlap = story_overlap_score(cleaned_item, existing)
+            shared_tokens = len(
+                set(tokenise_story(cleaned_item.get("title", ""), cleaned_item.get("summary", ""))).intersection(
+                    set(tokenise_story(existing.get("title", ""), existing.get("summary", "")))
+                )
+            )
 
-            if overlap >= 0.6:
+            if overlap >= 0.55 or (overlap >= 0.40 and shared_tokens >= 4):
                 is_duplicate_story = True
                 break
 
