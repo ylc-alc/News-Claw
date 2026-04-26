@@ -598,13 +598,13 @@ def find_supporting_sources(primary_item, candidate_items):
     primary_category = primary_item.get("category", "")
     primary_topic = primary_item.get("topic_type", "general")
     primary_source = primary_item.get("source_name", "")
-    primary_title = primary_item.get("title", "")
     primary_story_tokens = set(
         tokenise_story(primary_item.get("title", ""), primary_item.get("summary", ""))
     )
 
     supporting_sources = []
     supporting_titles = []
+    supporting_summaries = []
     supporting_links = []
     seen_sources = set()
 
@@ -641,10 +641,11 @@ def find_supporting_sources(primary_item, candidate_items):
         if overlap >= 0.55 and len(shared_tokens) >= 3:
             supporting_sources.append(candidate_source)
             supporting_titles.append(item.get("title", ""))
+            supporting_summaries.append(item.get("summary", ""))
             supporting_links.append(item.get("link", ""))
             seen_sources.add(candidate_source)
 
-    return supporting_sources, supporting_titles, supporting_links
+    return supporting_sources, supporting_titles, supporting_summaries, supporting_links
 
 
 def build_news_focus(title, summary):
