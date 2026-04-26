@@ -1114,11 +1114,12 @@ def select_top_items_by_section(items):
             continue
 
         selected = []
+        soft_guard_slots = 2
             if len(selected) >= MAX_TOPICS_PER_SECTION:
                 break
             if any(is_same_event(item, chosen) for chosen in selected):
                 continue
-            if len(selected) < 2 and not is_hard_news_like(item):
+            if len(selected) < soft_guard_slots and not is_hard_news_like(item):
                 continue
             selected.append(dict(item))
 
