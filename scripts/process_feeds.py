@@ -1097,14 +1097,17 @@ def sort_items(items):
     return sorted(items, key=sort_key, reverse=True)
 
 
+
 def select_top_items_by_section(items):
     sections = {section: [] for section in TARGET_SECTIONS}
     further_reading = {section: [] for section in TARGET_SECTIONS}
     section_pools = {section: [] for section in TARGET_SECTIONS}
+    soft_guard_slots = 2
 
     for section in TARGET_SECTIONS:
         section_items = [
-            item for item in items
+            item
+            for item in items
             if item.get("category") == section and is_section_qualified(item, section)
         ]
         section_items = sort_items(section_items)
@@ -1112,46 +1115,46 @@ def select_top_items_by_section(items):
 
         if not section_items:
             continue
+
         selected = []
-        soft_guard_slots = 2
-        
-            if len(selected) >= MAX_TOPICS_PER_SECTION:
-                break
-            if any(is_same_event(item, chosen) for chosen in selected):
+        for item in section_items:
+            already_selected = any(is_same_event(item, chosen) for chosen in selected)
+            if already_selected:
                 continue
-            if len(selected) < soft_guard_slots and not is_hard_news_like(item):
+            requires_hard_news = len(selected) < soft_guard_slots
+            if requires_hard_news and not is_hard_news_like(item):
                 continue
             selected.append(dict(item))
+            if len(selected) == MAX_TOPICS_PER_SECTION:
+                break
 
         if len(selected) < MAX_TOPICS_PER_SECTION:
             for item in section_items:
-                if len(selected) >= MAX_TOPICS_PER_SECTION:
-                    break
-                if any(chosen.get("title") == item.get("title") for chosen in selected):
+                title = item.get("title", "")
+                if any(chosen.get("title") == title for chosen in selected):
                     continue
                 if any(is_same_event(item, chosen) for chosen in selected):
                     continue
                 selected.append(dict(item))
-
+                if len(selected) == MAX_TOPICS_PER_SECTION:
+                    break
 
         enriched_selected = []
-        for selected_item in selected[:MAX_TOPICS_PER_SECTION]:
+        for selected_item in selected:
             supporting_sources, supporting_titles, supporting_summaries, supporting_links = find_supporting_sources(
                 selected_item, section_items
             )
-
             selected_item["supporting_sources"] = supporting_sources
             selected_item["supporting_titles"] = supporting_titles
             selected_item["supporting_summaries"] = supporting_summaries
             selected_item["supporting_links"] = supporting_links
             selected_item["source_count"] = 1 + len(supporting_sources)
-
             enriched_selected.append(selected_item)
 
-        sections[section] = enriched_selected
+        sections[section] = enriched_selected[:MAX_TOPICS_PER_SECTION]
 
-        selected_titles = {i.get("title", "") for i in enriched_selected}
-        further = [
+        selected_titles = {i.get("title", "") for i in sections[section]}
+        further_reading[section] = [
             {
                 "title": item.get("title", ""),
                 "link": item.get("link", ""),
@@ -1162,7 +1165,6 @@ def select_top_items_by_section(items):
             for item in section_items
             if item.get("title", "") not in selected_titles
         ][:10]
-        further_reading[section] = further
 
     return sections, further_reading, section_pools
     
