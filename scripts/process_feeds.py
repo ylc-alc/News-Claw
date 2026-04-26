@@ -173,6 +173,19 @@ LOW_SIGNAL_PATTERNS = [
     "cricket scores", "formula one race result",
 ]
 
+EXPLAINER_TITLE_PATTERNS = [
+    "what’s the latest",
+    "what's the latest",
+    "latest",
+    "live",
+    "live updates",
+    "explainer",
+    "analysis",
+    "opinion",
+    "how ",
+    "why ",
+]
+
 
 REGIONAL_PRIORITY = {
     "high": [
@@ -594,6 +607,14 @@ def build_event_stakeholders(category, topic_type, event_type):
     return category_map.get(event_type, ["政府", "企業", "市場", "公眾"])
     
 
+def is_explainer_style_title(title):
+    title_l = clean_text(title).lower()
+    for pattern in EXPLAINER_TITLE_PATTERNS:
+        if pattern in title_l:
+            return True
+    return False
+
+
 def supporting_match_score(primary_item, candidate_item):
     primary_category = primary_item.get("category", "")
     candidate_category = candidate_item.get("category", "")
@@ -650,6 +671,10 @@ def supporting_match_score(primary_item, candidate_item):
         score += 10
     if same_exact_topic:
         score += 8
+
+    candidate_title = candidate_item.get("title", "")
+    if is_explainer_style_title(candidate_title):
+        score -= 15
 
     return round(score, 2)
 
