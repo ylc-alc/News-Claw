@@ -71,32 +71,66 @@ def build_user_prompt(item: dict) -> str:
         "politics": "政治",
         "economy": "經濟",
     }
+
+    def clean_summary(summary_text: str, title_text: str) -> str:
+        summary_text = (summary_text or "").strip()
+        title_text = (title_text or "").strip()
+
+        if not summary_text or summary_text.lower() == title_text.lower():
+            return "（無獨立摘要，請僅依標題進行分析）"
+        return summary_text
+
     category_zh = category_map.get(item.get("category", ""), item.get("category", ""))
     title = item.get("title", "").strip()
     summary = item.get("summary", "").strip()
     source = item.get("source_name", "").strip()
 
-    # If the summary is identical to the title or empty, say so explicitly
-    # so the model does not hallucinate extra detail.
-    if not summary or summary.lower() == title.lower():
-        summary_line = "（無獨立摘要，請僅依標題進行分析）"
+    summary_line = clean_summary(summary, title)
+
+    supporting_sources = item.get("supporting_sources", [])[:2]
+    supporting_titles = item.get("supporting_titles", [])[:2]
+    supporting_summaries = item.get("supporting_summaries", [])[:2]
+
+    supporting_blocks = []
+    for i in range(len(supporting_titles)):
+        sup_source = supporting_sources[i] if i < len(supporting_sources) else ""
+        sup_title = supporting_titles[i] if i < len(supporting_titles) else ""
+        sup_summary = supporting_summaries[i] if i < len(supporting_summaries) else ""
+        sup_summary_line = clean_summary(sup_summary, sup_title)
+
+        supporting_blocks.append(
+            f"參考報導{i + 1}來源：{sup_source}\n"
+            f"參考報導{i + 1}標題：{sup_title}\n"
+            f"參考報導{i + 1}摘要：{sup_summary_line}"
+        )
+
+    if supporting_blocks:
+        supporting_text = "\n\n".join(supporting_blocks)
     else:
-        summary_line = summary
+        supporting_text = "（無參考報導）"
 
     is_major_update = item.get("is_major_update", False)
     update_instruction = (
         "\n\n⚠️ 此新聞已被標記為重大進展。請在 analysis 欄位中明確說明："
-        "與此議題的先前已知狀況相比，此次具體新增或升級了哪些內容？"
-        "避免重複背景資訊，聚焦於「本次變化本身」。"
+        "與此議題的先前已知狀況相比，本次具體新增或升級了哪些內容。"
+        "避免重複背景資訊，聚焦於本次變化本身。"
     ) if is_major_update else ""
 
     return (
-        f"類別：{category_zh}\n"
+        f"類別：{category_zh}\n\n"
+        f"【主新聞】\n"
         f"來源：{source}\n"
         f"標題：{title}\n"
-        f"摘要：{summary_line}"
+        f"摘要：{summary_line}\n\n"
+        f"【參考報導】\n"
+        f"{supporting_text}"
         f"{update_instruction}\n\n"
-        "請針對以上新聞提供深度分析，以 JSON 格式回覆。"
+        "寫作要求：\n"
+        "1. 先清楚說明主新聞實際發生了什麼。\n"
+        "2. 若參考報導提供補充細節，請明確指出補充了什麼。\n"
+        "3. 若不同報導的重點不同，請指出差異。\n"
+        "4. 不要加入輸入中沒有出現的國家、人物、機構、動機或數字。\n"
+        "5. 請以 JSON 格式回覆。"
     )
 
 
