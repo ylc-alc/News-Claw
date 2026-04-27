@@ -1,124 +1,122 @@
 {
-  "generated_at_utc": "2026-04-26T20:16:06.940428+00:00",
+  "generated_at_utc": "2026-04-27T10:06:15.591167+00:00",
   "summary": {
-    "total_raw_items": 1080,
-    "total_deduped_items": 1046,
+    "total_raw_items": 1061,
+    "total_deduped_items": 1040,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "social_media",
         "ai",
-        "ai"
+        "social_media",
+        "space_tech"
       ],
       "politics": [
-        "uk_politics",
         "diplomacy",
+        "us_politics",
         "diplomacy"
       ],
       "economy": [
-        "sanctions",
-        "sanctions",
+        "energy_markets",
+        "trade_wars",
         "markets"
       ]
     },
-    "multi_source_selected_count": 2
+    "multi_source_selected_count": 6
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "Wired",
-        "title": "‘STAGED’: Conspiracy Theories Are Everywhere Following White House Correspondents' Dinner Shooting",
-        "link": "https://www.wired.com/story/staged-conspiracy-theories-are-everywhere-following-white-house-correspondents-dinner-shooting/",
-        "summary": "The word “staged” exploded on social media following the attack, as both right and left-wing influencers and anonymous accounts spread unfounded conspiracy theories.",
-        "published": "Sun, 26 Apr 2026 14:43:47 +0000",
-        "updated": "Sun, 26 Apr 2026 14:43:47 +0000",
-        "published_at_utc": "2026-04-26T14:43:47+00:00",
-        "id": "69ee0b099e575b7eff7f6dc7",
-        "topic_type": "social_media",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "The word “staged” exploded on social media following the attack, as both right and left-wing influencers and anonymous accounts spread unfounded conspiracy theories.",
-          "news_focus_zh": "在白宮記者晚宴期間發生的槍擊事件後，社交媒體上出現了大量關於事件被“安排”的陰謀論。無論是右派還是左派的影響者及匿名帳號都在廣泛傳播這些毫無根據的理論，導致社會輿論的分化與混亂。",
-          "background": "白宮記者晚宴是一年一度的活動，通常吸引媒體、政治人物及名人參加。槍擊事件的發生引發了對安全問題的關注，並可能影響未來類似活動的舉辦方式。社交媒體的迅速擴散使得各種未經證實的資訊得以迅速傳播，這在當前政治環境中尤為突出，尤其是在美國社會對於新聞真實性和媒體信任度的深刻分歧背景下。",
-          "stakeholders": [
-            "社交媒體平台",
-            "政治影響者",
-            "新聞媒體",
-            "公眾",
-            "安全機構"
-          ],
-          "analysis": "此次事件引發的陰謀論反映了當前社會對於真相的懷疑與不信任。右派與左派的影響者均參與了這一現象，顯示出政治立場如何影響對事件的解讀。這種情況可能導致社會的進一步分裂，因為不同群體對事件的看法截然不同。隨著社交媒體的影響力增強，未來類似事件的報導與解讀可能會面臨更大的挑戰，尤其是在事實與虛構之間的界線愈加模糊的情況下。"
-        },
-        "topic_priority_score": 6,
-        "event_type": "strategic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "To buy this Bay Area home, you’ll need Anthropic equity",
-        "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
-        "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
-        "published": "Sun, 26 Apr 2026 15:30:00 +0000",
-        "updated": "Sun, 26 Apr 2026 15:30:00 +0000",
-        "published_at_utc": "2026-04-26T15:30:00+00:00",
-        "id": "https://techcrunch.com/?p=3116489",
-        "topic_type": "ai",
-        "relevance_score": 17,
-        "briefing": {
-          "news_focus": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
-          "news_focus_zh": "在加州米爾谷，一處佔地13英畝的房產正以一種不尋常的方式出售，買家需要持有Anthropic公司的股權才能進行交易。這一要求引發了對科技公司股權與房地產市場之間關係的關注。",
-          "background": "Anthropic是一家專注於人工智慧的公司，隨著科技產業的快速發展，許多科技公司股權的價值大幅上升，這使得持有這些股權的人在房地產市場中具備了更大的購買力。米爾谷地區因其優美的自然環境和靠近科技中心而受到高收入人士的青睞，這也促使房地產市場出現了以股權作為交易條件的情況。",
-          "stakeholders": [
-            "Anthropic",
-            "房地產投資者",
-            "當地政府",
-            "科技公司股東",
-            "潛在買家"
-          ],
-          "analysis": "這一交易模式顯示出科技公司股權在當前房地產市場中的影響力，尤其是在高價位的地區。對於持有Anthropic股權的潛在買家來說，這是一個吸引人的機會，但同時也可能限制了其他潛在買家的參與，造成市場的分化。此外，這種交易方式可能會引發更多關於科技公司與房地產市場交互影響的討論，尤其是在未來可能出現類似的交易案例時。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "partnership_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
         "source_name": "The Guardian Business",
-        "title": "Musk and Altman’s bitter feud over OpenAI to be laid bare in court",
-        "link": "https://www.theguardian.com/technology/2026/apr/26/musk-altman-openai-court",
-        "summary": "Tesla chief believes Altman broke company’s founding agreement – and legal battle promises to be explosive The bitter rivalry between two of the tech world’s most powerful men arrives in court this week, as Elon Musk’s lawsuit against Sam Altman and OpenAI heads to trial in Oakland, California. The case is set to feature some of the biggest names in Silicon Valley, and its outcome could affect the course of the AI boom. Musk’s suit, filed in 2024, focuses on the formative years of OpenAI when he, Altman and others co-founded the artificial intelligence company as a nonprofit with a grand purpose. Continue reading...",
-        "published": "Sun, 26 Apr 2026 10:00:11 GMT",
-        "updated": "2026-04-26T10:00:11Z",
-        "published_at_utc": "2026-04-26T10:00:11+00:00",
-        "id": "https://www.theguardian.com/technology/2026/apr/26/musk-altman-openai-court",
+        "title": "Elon Musk and Sam Altman face off in court over OpenAI’s founding mission",
+        "link": "https://www.theguardian.com/technology/2026/apr/27/elon-musk-sam-altman-open-ai-lawsuit",
+        "summary": "Musk’s lawsuit accuses Altman of fraud, while OpenAI says that Musk is ‘motivated by jealousy’ A lawsuit between two of Silicon Valley’s biggest tycoons goes to trial Monday in California, the culmination of a years-long bitter feud. Elon Musk has accused Sam Altman of betraying the founding agreement of the non-profit they started together, OpenAI, by changing it to a for-profit enterprise. Musk accuses Altman, OpenAI , its president Greg Brockman, and its major partner Microsoft of breach of contract and unjust enrichment in the lawsuit. Jury selection is scheduled to begin Monday morning at a federal courthouse in Oakland, with opening arguments from both sides expected later this week. The trial is slated to last two to three weeks. Along with internal communications from Musk and key executives at OpenAI, the trial promises a who’s who of Silicon Valley on the witness stand, including Musk, Altman and Microsoft CEO Satya Nadella. Continue reading...",
+        "published": "Mon, 27 Apr 2026 08:00:38 GMT",
+        "updated": "2026-04-27T08:00:38Z",
+        "published_at_utc": "2026-04-27T08:00:38+00:00",
+        "id": "https://www.theguardian.com/technology/2026/apr/27/elon-musk-sam-altman-open-ai-lawsuit",
         "topic_type": "ai",
-        "relevance_score": 17,
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Tesla chief believes Altman broke company’s founding agreement – and legal battle promises to be explosive The bitter rivalry between two of the tech world’s most powerful men arrives in court this week, as Elon Musk’s lawsuit against Sam Altman and OpenAI heads to trial in Oakland, California. The case is set to feature some of the biggest names in Silicon Valley, and its outcome could affect the course of the AI boom. Musk’s suit, filed in 2024, focuses on the formative years of OpenAI when he, Altman and others co-founded the artificial intelligence company as a nonprofit with a grand purpose. Continue reading...",
-          "news_focus_zh": "特斯拉首席執行官埃隆·馬斯克對OpenAI首席執行官山姆·奧特曼的訴訟將於本週在加州奧克蘭開庭。馬斯克指控奧特曼違反了公司創始協議，這場法律戰可能會揭示科技界兩位強者之間的激烈競爭。該案將涉及矽谷的一些重要人物，其結果可能會影響人工智慧產業的未來發展。",
-          "background": "OpenAI成立於2015年，最初是一個非營利組織，旨在推動人工智慧的安全和負責任發展。馬斯克、奧特曼及其他創始人共同設立了這家公司，並承諾將其技術的利益回饋給全人類。然而，隨著OpenAI的商業化進程加快，內部的理念和方向出現了分歧，這導致了馬斯克與奧特曼之間的緊張關係。馬斯克在2024年提起的訴訟，正是針對這些早期的分歧和協議的違反問題，反映出他對OpenAI未來發展的深切關注。",
+          "news_focus": "Musk’s lawsuit accuses Altman of fraud, while OpenAI says that Musk is ‘motivated by jealousy’ A lawsuit between two of Silicon Valley’s biggest tycoons goes to trial Monday in California, the culmination of a years-long bitter feud. Elon Musk has accused Sam Altman of betraying the founding agreement of the non-profit they started together, OpenAI, by changing it to a for-profit enterprise. Musk accuses Altman, OpenAI , its president Greg Brockman, and its major partner Microsoft of breach of contract and unjust enrichment in the lawsuit. Jury selection is scheduled to begin Monday morning at a federal courthouse in Oakland, with opening arguments from both sides expected later this week. The trial is slated to last two to three weeks. Along with internal communications from Musk and key executives at OpenAI, the trial promises a who’s who of Silicon Valley on the witness stand, including Musk, Altman and Microsoft CEO Satya Nadella. Continue reading...",
+          "news_focus_zh": "Elon Musk與Sam Altman之間的法律訴訟於加州開庭，這場訴訟源於Musk指控Altman背叛他們共同創立的非營利機構OpenAI的創始使命，並將其轉變為營利企業。Musk在訴訟中指控Altman、OpenAI總裁Greg Brockman及其主要合作夥伴微軟違反合約及不當得利。陪審團選擇將於周一早上開始，雙方的開庭陳述預計在本周晚些時候進行，整個審理過程預計持續兩到三週。",
+          "background": "OpenAI成立於2015年，最初的使命是促進人工智慧的安全發展，並確保其利益惠及全人類。隨著時間推移，OpenAI逐漸轉型為營利模式，這引發了創始人之間的分歧。Musk對此變化表示不滿，認為這背離了最初的宗旨，並對Altman的領導方式提出質疑。微軟作為OpenAI的主要合作夥伴，對其商業化進程有著重要影響，這也使得該訴訟的結果可能會影響到未來的科技合作模式及人工智慧的發展方向。",
           "stakeholders": [
             "Elon Musk",
             "Sam Altman",
-            "OpenAI",
-            "Tesla",
-            "矽谷企業"
+            "Greg Brockman",
+            "微軟",
+            "OpenAI"
           ],
-          "analysis": "馬斯克與奧特曼之間的法律對決，反映出科技界內部對於人工智慧發展方向的不同看法。馬斯克主張OpenAI應保持其非營利性質，並專注於技術的安全性，而奧特曼則可能更傾向於商業化，以促進技術的快速發展。這場官司的結果不僅會影響兩位科技領袖的個人聲譽，還可能對整個AI產業的發展路徑產生深遠影響。隨著案件的進展，矽谷的其他企業和投資者也在密切關注，因為這可能會改變他們對AI技術的投資策略和風險評估。"
+          "analysis": "Musk與Altman之間的法律對抗反映了科技界對於人工智慧商業化的不同看法。Musk認為OpenAI的轉型是對其創始理念的背叛，並指控Altman及其團隊不當獲利，這顯示出他對於企業道德的強烈關注。而Altman則可能會主張，商業化是確保OpenAI持續發展和資金支持的必要步驟。微軟的參與使得這場訴訟更加複雜，因為其在OpenAI的商業模式中扮演了關鍵角色。隨著審理的進行，科技界的目光將集中於這場訴訟的結果，可能會對未來的人工智慧發展及其商業模式產生深遠影響。"
         },
         "topic_priority_score": 9,
         "event_type": "regulation_action",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "SCMP World",
+        "title": "China blocks Meta’s Manus deal after months-long probe, thwarting purchase",
+        "link": "https://www.scmp.com/tech/big-tech/article/3351552/china-blocks-metas-manus-deal-after-months-long-probe-thwarting-purchase?utm_source=rss_feed",
+        "summary": "Beijing has blocked the proposed purchase by Meta Platforms of artificial intelligence firm Manus, a start-up that is officially registered in Singapore but developed its products in mainland China. The National Development and Reform Commission (NDRC), the country’s top economic planner, announced the ruling in a statement on Monday, and asked the parties involved in the deal to cancel the transaction. Neither Meta nor Manus immediately responded to a request for comment on Monday. A...",
+        "published": "Mon, 27 Apr 2026 08:18:45 +0000",
+        "updated": "Mon, 27 Apr 2026 08:18:45 +0000",
+        "published_at_utc": "2026-04-27T08:18:45+00:00",
+        "id": "https://www.scmp.com/tech/big-tech/article/3351552/china-blocks-metas-manus-deal-after-months-long-probe-thwarting-purchase?utm_source=rss_feed",
+        "topic_type": "social_media",
+        "relevance_score": 20,
+        "briefing": {
+          "news_focus": "Beijing has blocked the proposed purchase by Meta Platforms of artificial intelligence firm Manus, a start-up that is officially registered in Singapore but developed its products in mainland China. The National Development and Reform Commission (NDRC), the country’s top economic planner, announced the ruling in a statement on Monday, and asked the parties involved in the deal to cancel the transaction. Neither Meta nor Manus immediately responded to a request for comment on Monday. A...",
+          "news_focus_zh": "中國政府已經阻止了Meta Platforms收購人工智慧公司Manus的提案。這項交易經過數月的調查後，由國家發展和改革委員會（NDRC）於週一宣布，要求相關方取消交易。Manus是一家在新加坡註冊的初創公司，但其產品的開發是在中國大陸進行的。Meta和Manus目前尚未對此做出回應。",
+          "background": "此次交易的阻止反映了中國對外資企業在本國科技產業的監管趨嚴。隨著中國政府加強對科技行業的控制，特別是在人工智慧和數據安全領域，外資企業的併購行為面臨越來越多的挑戰。Manus作為一家在中國開發產品的公司，其收購案引發了中國當局對於技術流失和國家安全的擔憂。這一決策可能會影響Meta在中國市場的長期戰略，因為中國是全球最大的科技市場之一。",
+          "stakeholders": [
+            "Meta Platforms",
+            "Manus",
+            "中國國家發展和改革委員會",
+            "外資企業",
+            "中國科技產業"
+          ],
+          "analysis": "中國政府的決定顯示出其對於外資企業進入本土市場的高度警惕，特別是在涉及敏感技術的情況下。Meta的收購計劃本意在於擴展其在人工智慧領域的實力，但此舉卻遭遇了中國的強烈反對。這一情況可能會導致Meta在未來的投資計劃中更加謹慎，並重新評估其在中國的業務策略。此外，這也可能促使其他外資企業在考慮進入中國市場時，對當地的政策環境進行更深入的分析。由於目前沒有其他報導提供進一步的細節，未來的發展仍需密切關注。"
+        },
+        "topic_priority_score": 6,
+        "event_type": "regulation_action",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "Reuters",
+        "title": "Eutelsat CEO says US demand holds despite SpaceX push to curb European rivals - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY2FIQzYzVlk4M3c1SzIxeHY2OWUyZ2VoUHNaTzhDaVRudGloUWFoMzkwNGhOU3RweFFnQmotel9QOWlCM2V0NFZSNEFjSHBqdzFJZHVxbmI0RTF2T3BYY2U5U1lqVzRpb3ZDUTl2eWdMNDVqMk5LWUltVjR1Y2tWTDJ4UUgyRy1TMmxrTXY2TUVjN2puSkFWVjE2NWIydnRmQWlMY2xUZEhlN0txWU9TVmE1RU1VXy13VlgxQUUyelpCYXZoWXJXX0xsNFNmdw?oc=5",
+        "summary": "Eutelsat CEO says US demand holds despite SpaceX push to curb European rivals Reuters",
+        "published": "Mon, 27 Apr 2026 05:02:00 GMT",
+        "updated": "Mon, 27 Apr 2026 05:02:00 GMT",
+        "published_at_utc": "2026-04-27T05:02:00+00:00",
+        "id": "CBMizgFBVV95cUxOY2FIQzYzVlk4M3c1SzIxeHY2OWUyZ2VoUHNaTzhDaVRudGloUWFoMzkwNGhOU3RweFFnQmotel9QOWlCM2V0NFZSNEFjSHBqdzFJZHVxbmI0RTF2T3BYY2U5U1lqVzRpb3ZDUTl2eWdMNDVqMk5LWUltVjR1Y2tWTDJ4UUgyRy1TMmxrTXY2TUVjN2puSkFWVjE2NWIydnRmQWlMY2xUZEhlN0txWU9TVmE1RU1VXy13VlgxQUUyelpCYXZoWXJXX0xsNFNmdw",
+        "topic_type": "space_tech",
+        "relevance_score": 20,
+        "briefing": {
+          "news_focus": "Eutelsat CEO says US demand holds despite SpaceX push to curb European rivals Reuters",
+          "news_focus_zh": "Eutelsat的首席執行官表示，儘管SpaceX正在推動減少對歐洲競爭對手的需求，但美國市場的需求仍然穩定。這表明在美國市場上，Eutelsat仍然能夠保持其業務的穩定性，儘管面臨來自SpaceX的競爭壓力。",
+          "background": "Eutelsat是一家總部位於法國的衛星運營商，專注於提供廣播和數據服務。隨著SpaceX的Starlink計劃在全球範圍內擴展，特別是在美國市場，Eutelsat及其他歐洲衛星運營商面臨著日益激烈的競爭。SpaceX的低軌道衛星技術使其能夠提供更快的網絡連接，這對傳統的衛星運營商構成挑戰。Eutelsat的CEO的發言強調了該公司在美國市場的持續需求，顯示出其在面對競爭時的韌性。",
+          "stakeholders": [
+            "Eutelsat",
+            "SpaceX",
+            "美國市場消費者"
+          ],
+          "analysis": "Eutelsat的CEO強調美國市場需求的穩定，這可能反映出該公司在特定客戶群體中的優勢，尤其是在傳統廣播和數據服務領域。然而，SpaceX的推進可能會對未來的市場格局產生影響，特別是在提供更具競爭力的價格和服務方面。Eutelsat需要持續創新以應對這一挑戰，並可能需要考慮與其他技術公司的合作來增強其市場地位。儘管目前美國需求穩定，但未來的競爭動態仍需密切關注，尤其是SpaceX的進一步擴展可能會對Eutelsat造成壓力。"
+        },
+        "topic_priority_score": 4,
+        "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -129,120 +127,128 @@
     "politics": [
       {
         "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "UK faces higher prices for eight months after war in Iran ends, says minister",
-        "link": "https://www.theguardian.com/money/2026/apr/26/uk-faces-higher-pricesafter-war-iran-ends-darren-jones",
-        "summary": "Darren Jones suggests cost of energy, food and flights will remain high after de-escalation and Hormuz strait reopens The UK faces higher prices for food and fuel for at least eight months after the war in Iran ends, a minister has said. The closure of the strait of Hormuz, a key shipping lane that carries a fifth of global oil and gas, has sent oil prices soaring since the US and Israeli attacks on Iran began in February. Darren Jones, the chief secretary to the prime minister, said the conflict would probably continue to raise prices for energy, food and flights in the coming months as potential issues around energy supplies affect production, rather than lead to shortages on supermarket shelves. The UK government has urged motorists to fill up their cars as usual amid higher prices at the pumps and for air travellers not to change their plans over potential jet fuel shortages. Jones told the BBC’s Sunday with Laura Kuenssberg programme: “You’re going to see prices go up a bit as a consequence of what Donald Trump has done in the Middle East. “That’s probably going to come online not just in the next few weeks, but the next few months. There’s going to be a long tail from this.” Asked how long higher prices might remain, Jones suggested it would be around eight months after the strait of Hormuz was unblocked and a de-escalation of the conflict had taken place. “I think our best guess is eight-plus months from the point of resolution that you’ll see economic impacts coming through the system,” he said. Donald Trump announced an indefinite extension of the US ceasefire with Iran last week that paused most of the fighting, but further efforts towards ending the conflict have been unsuccessful after the US president told his envoys not to travel to Pakistan for talks at the weekend. The UK government is stepping up planning for how to offset the impact, focusing on the live monitoring of stock levels and what plans are in place for addressing supply chain disruption. Jones said: “The government here in the UK, the work that I’m doing with the prime minister is looking at all of those things and saying, ‘What can we do within our power to help people to get through those difficult times?’” The government is also looking to secure stocks of carbon dioxide, which is used in the food industry and by breweries to make drinks fizzy, as well as for defence purposes and medical uses such as MRI scanning. Jones said he was seeking to ensure there was an adequate supply of beer for fans watching the men’s football World Cup, which starts on 11 June. He said: “I raised this issue because if there is a problem with jet fuel on holidays and carbon dioxide on beer, the summer might be pretty depressing for people, but we’re doing everything we can to make sure that it’s not the case.” The Liberal Democrats have called for a bill to be included in the next king’s speech in May to put food security at the top of the government’s agenda. Continue reading...",
-        "published": "Sun, 26 Apr 2026 18:33:06 GMT",
-        "updated": "2026-04-26T18:33:06Z",
-        "published_at_utc": "2026-04-26T18:33:06+00:00",
-        "id": "https://www.theguardian.com/money/2026/apr/26/uk-faces-higher-pricesafter-war-iran-ends-darren-jones",
-        "topic_type": "uk_politics",
-        "relevance_score": 22,
+        "source_name": "The Guardian Business",
+        "title": "G7 central banks poised to hold borrowing costs amid concerns over prolonged Iran war",
+        "link": "https://www.theguardian.com/business/2026/apr/27/g7-central-banks-hold-borrowing-costs-global-economy-iran-war-inflation-prices-warning",
+        "summary": "Critical week for global economy as banks expected to issue warnings over conflict driving up prices Business live – latest updates The world’s most powerful central banks are poised to hold borrowing costs unchanged this week amid growing concerns over the unfolding inflation shock from the Iran war. In a critical week for the global economy, each of the central banks in the G7 are expected to issue warnings over the risks from the Middle East war driving up prices for households and businesses. Continue reading...",
+        "published": "Mon, 27 Apr 2026 09:30:55 GMT",
+        "updated": "2026-04-27T09:30:55Z",
+        "published_at_utc": "2026-04-27T09:30:55+00:00",
+        "id": "https://www.theguardian.com/business/2026/apr/27/g7-central-banks-hold-borrowing-costs-global-economy-iran-war-inflation-prices-warning",
+        "topic_type": "diplomacy",
+        "relevance_score": 25,
         "briefing": {
-          "news_focus": "Darren Jones suggests cost of energy, food and flights will remain high after de-escalation and Hormuz strait reopens The UK faces higher prices for food and fuel for at least eight months after the war in Iran ends, a minister has said. The closure of the strait of Hormuz, a key shipping lane that carries a fifth of global oil and gas, has sent oil prices soaring since the US and Israeli attacks on Iran began in February. Darren Jones, the chief secretary to the prime minister, said the conflict would probably continue to raise prices for energy, food and flights in the coming months as potential issues around energy supplies affect production, rather than lead to shortages on supermarket shelves. The UK government has urged motorists to fill up their cars as usual amid higher prices at the pumps and for air travellers not to change their plans over potential jet fuel shortages. Jones told the BBC’s Sunday with Laura Kuenssberg programme: “You’re going to see prices go up a bit as a consequence of what Donald Trump has done in the Middle East. “That’s probably going to come online not just in the next few weeks, but the next few months. There’s going to be a long tail from this.” Asked how long higher prices might remain, Jones suggested it would be around eight months after the strait of Hormuz was unblocked and a de-escalation of the conflict had taken place. “I think our best guess is eight-plus months from the point of resolution that you’ll see economic impacts coming through the system,” he said. Donald Trump announced an indefinite extension of the US ceasefire with Iran last week that paused most of the fighting, but further efforts towards ending the conflict have been unsuccessful after the US president told his envoys not to travel to Pakistan for talks at the weekend. The UK government is stepping up planning for how to offset the impact, focusing on the live monitoring of stock levels and what plans are in place for addressing supply chain disruption. Jones said: “The government here in the UK, the work that I’m doing with the prime minister is looking at all of those things and saying, ‘What can we do within our power to help people to get through those difficult times?’” The government is also looking to secure stocks of carbon dioxide, which is used in the food industry and by breweries to make drinks fizzy, as well as for defence purposes and medical uses such as MRI scanning. Jones said he was seeking to ensure there was an adequate supply of beer for fans watching the men’s football World Cup, which starts on 11 June. He said: “I raised this issue because if there is a problem with jet fuel on holidays and carbon dioxide on beer, the summer might be pretty depressing for people, but we’re doing everything we can to make sure that it’s not the case.” The Liberal Democrats have called for a bill to be included in the next king’s speech in May to put food security at the top of the government’s agenda. Continue reading...",
-          "news_focus_zh": "英國政府官員Darren Jones表示，伊朗戰爭結束後，英國將面臨至少八個月的高物價，尤其是能源、食品和航班價格。霍爾木茲海峽的封閉導致全球油氣價格飆升，Jones指出，儘管供應鏈可能受到影響，但不會出現超市貨架空空的情況。政府呼籲民眾正常加油，並確保航空燃料供應不會影響旅行計劃。Jones還提到，政府正在加強監控庫存水平，以應對可能的供應鏈中斷。",
-          "background": "霍爾木茲海峽是全球重要的石油和天然氣運輸通道，約五分之一的全球能源通過此地運輸。自從美國和以色列對伊朗的攻擊開始以來，該地區的緊張局勢加劇，導致油價上漲。英國政府的應對措施包括確保碳酸氣的供應，這對食品和飲料行業至關重要。隨著戰爭持續，英國的經濟受到影響，特別是在能源和食品價格上，這使得政府必須考慮如何減輕民眾的經濟負擔。",
+          "news_focus": "Critical week for global economy as banks expected to issue warnings over conflict driving up prices Business live – latest updates The world’s most powerful central banks are poised to hold borrowing costs unchanged this week amid growing concerns over the unfolding inflation shock from the Iran war. In a critical week for the global economy, each of the central banks in the G7 are expected to issue warnings over the risks from the Middle East war driving up prices for households and businesses. Continue reading...",
+          "news_focus_zh": "七大工業國（G7）的中央銀行預計將在本週保持借貸成本不變，原因是對於伊朗戰爭可能導致的持續通脹衝擊的擔憂日益加劇。這一決策將在全球經濟中引發重要影響，各大中央銀行預計將發出警告，指出中東戰爭對家庭和企業價格的風險。",
+          "background": "目前，伊朗戰爭的持續進展對全球經濟造成了顯著影響，特別是在通脹方面。隨著戰爭的延續，能源和原材料價格的上漲對各國的經濟復甦形成了挑戰。G7國家面對的情況更加複雜，因為他們需要在支持經濟增長和控制通脹之間找到平衡。此外，根據參考報導，來自中國的支持也可能使伊朗在這場衝突中獲得更大的影響力，進一步加劇地緣政治的緊張局勢。",
           "stakeholders": [
-            "英國政府",
-            "消費者",
-            "能源供應商",
-            "食品產業",
-            "自由民主黨"
+            "G7中央銀行",
+            "伊朗",
+            "中國",
+            "科技公司",
+            "全球消費者"
           ],
-          "analysis": "Darren Jones的發言顯示出英國政府對未來經濟影響的擔憂，尤其是能源和食品價格的上漲。這反映出政府在應對外部衝突對內部經濟影響方面的脆弱性。Jones提到的八個月預測，顯示出政府對於供應鏈問題的長期考量。與此同時，英國自由民主黨呼籲將食品安全置於政府議程的首位，顯示出政治上對於應對高物價的不同看法。參考報導中提到的中國對伊朗的支持，雖然與英國的情況不同，但也反映出地緣政治對全球經濟的影響，未來可能進一步影響英國的能源供應和價格。"
+          "analysis": "G7中央銀行的決策反映了對伊朗戰爭的深切關注，尤其是其對全球通脹的潛在影響。各國央行在保持利率不變的同時，必須考慮如何應對因戰爭而上升的生活成本與企業支出。參考報導指出，伊朗戰爭已經干擾了電路板供應鏈，這對科技公司造成了新的打擊，尤其是在記憶體芯片價格已經高漲的背景下，這進一步突顯了戰爭的廣泛影響。不同報導的重點在於，The Diplomat強調了中國對伊朗的支持，而The Hindu International則專注於戰爭對供應鏈的具體影響，這顯示出各方在解讀戰爭影響時的不同視角。"
         },
-        "topic_priority_score": 9,
+        "topic_priority_score": 7,
         "event_type": "security_event",
         "supporting_sources": [
-          "Al Jazeera",
-          "The Diplomat"
+          "The Diplomat",
+          "The Hindu International"
         ],
         "supporting_titles": [
-          "Mali defence minister killed after coordinated attacks",
-          "Helping Iran, China Is a Party in the War"
+          "Helping Iran, China Is a Party in the War",
+          "Iran war disrupts the circuit board supply chain, raises costs for tech firms"
         ],
         "supporting_summaries": [
-          "Mali’s Defence Minister Sadio Camara has been killed after coordinated attacks on military sites and his home.",
-          "Several reports in recent weeks have revealed the extent of China’s active support for Iran."
+          "Several reports in recent weeks have revealed the extent of China’s active support for Iran.",
+          "The disruption is a fresh blow to electronics manufacturers which are already grappling with soaring memory chip ‌costs and highlights the broadening impact of the Iran war"
         ],
         "supporting_links": [
-          "https://www.aljazeera.com/video/newsfeed/2026/4/26/mali-defence-minister-killed-after-coordinated-attacks?traffic_source=rss",
-          "https://thediplomat.com/2026/04/helping-iran-china-is-a-party-in-the-war/"
+          "https://thediplomat.com/2026/04/helping-iran-china-is-a-party-in-the-war/",
+          "https://www.thehindu.com/sci-tech/technology/iran-war-disrupts-thecircuit-board-supply-chain-raises-costs-for-tech-firms/article70911358.ece"
         ],
         "source_count": 3
       },
       {
         "category": "politics",
-        "source_name": "SCMP World",
-        "title": "King Charles’ US state visit to go ahead as planned after Washington media gala shooting",
-        "link": "https://www.scmp.com/news/world/europe/article/3351501/king-charles-us-state-visit-go-ahead-planned-after-washington-media-gala-shooting?utm_source=rss_feed",
-        "summary": "The state visit by Britain’s King Charles to the US would take place as planned, Buckingham Palace said on Sunday, following a shooting at a Washington media gala. The incident late on Saturday at the annual dinner of the White House Correspondents’ Association came less than 48 hours before Charles and Queen Camilla begin a four-day state visit to the United States. The palace said Charles was “greatly relieved” that Trump, the first lady Melania and other guests were unharmed and later on...",
-        "published": "Sun, 26 Apr 2026 19:29:52 +0000",
-        "updated": "Sun, 26 Apr 2026 19:29:52 +0000",
-        "published_at_utc": "2026-04-26T19:29:52+00:00",
-        "id": "https://www.scmp.com/news/world/europe/article/3351501/king-charles-us-state-visit-go-ahead-planned-after-washington-media-gala-shooting?utm_source=rss_feed",
-        "topic_type": "diplomacy",
-        "relevance_score": 21,
+        "source_name": "SCMP Business",
+        "title": "China equities set for boost as Trump-Xi meeting raises hopes of thaw",
+        "link": "https://www.scmp.com/business/china-business/article/3351566/china-equities-set-boost-trump-xi-meeting-raises-hopes-thaw?utm_source=rss_feed",
+        "summary": "The long-anticipated state visit by US President Donald Trump to China next month could lift sentiment in mainland and Hong Kong equities, as investors bet that easing tensions between Beijing and Washington will support export-driven sectors and companies pursuing overseas expansion. Trump is scheduled to meet President Xi Jinping on May 14-15, with discussions expected to cover tariffs, purchases of US goods and restrictions on rare earths. Any progress could clear a path for Chinese firms to...",
+        "published": "Mon, 27 Apr 2026 09:30:10 +0000",
+        "updated": "Mon, 27 Apr 2026 09:30:10 +0000",
+        "published_at_utc": "2026-04-27T09:30:10+00:00",
+        "id": "https://www.scmp.com/business/china-business/article/3351566/china-equities-set-boost-trump-xi-meeting-raises-hopes-thaw?utm_source=rss_feed",
+        "topic_type": "us_politics",
+        "relevance_score": 22,
         "briefing": {
-          "news_focus": "The state visit by Britain’s King Charles to the US would take place as planned, Buckingham Palace said on Sunday, following a shooting at a Washington media gala. The incident late on Saturday at the annual dinner of the White House Correspondents’ Association came less than 48 hours before Charles and Queen Camilla begin a four-day state visit to the United States. The palace said Charles was “greatly relieved” that Trump, the first lady Melania and other guests were unharmed and later on...",
-          "news_focus_zh": "英國查爾斯國王的美國國事訪問將如期進行，白金漢宮於週日確認此消息。此訪問計畫在華盛頓一場媒體晚會發生槍擊事件後仍然不變。該事件發生在週六晚間，距離查爾斯國王與卡米拉王后開始為期四天的美國國事訪問不到48小時。宮殿表示，查爾斯對於特朗普及其他賓客未受傷感到「非常寬慰」。",
-          "background": "查爾斯國王的國事訪問是英美兩國長期友好關係的重要象徵，旨在加強雙邊合作與交流。此次訪問的時機恰逢美國媒體界的年度盛會，然而槍擊事件的發生無疑為此次訪問蒙上陰影。白宮記者協會的晚會是美國政治文化的一部分，吸引了大量政界與媒體人士參加，任何安全事件都可能影響到這類活動的舉辦及未來的安全措施。這次事件也引發了對美國槍支管制問題的再度關注。",
+          "news_focus": "The long-anticipated state visit by US President Donald Trump to China next month could lift sentiment in mainland and Hong Kong equities, as investors bet that easing tensions between Beijing and Washington will support export-driven sectors and companies pursuing overseas expansion. Trump is scheduled to meet President Xi Jinping on May 14-15, with discussions expected to cover tariffs, purchases of US goods and restrictions on rare earths. Any progress could clear a path for Chinese firms to...",
+          "news_focus_zh": "美國總統特朗普預定於下個月訪問中國，這一長期期待的國事訪問可能提升中國內地及香港股市的情緒。投資者預期，若中美之間的緊張關係緩解，將有助於出口導向的行業及尋求海外擴張的公司。特朗普與中國國家主席習近平的會談將於5月14日至15日舉行，預計將討論關稅、美國商品購買及稀土限制等議題。",
+          "background": "中美兩國在貿易、科技及地緣政治上存在持續的緊張關係，特別是在關稅及科技領域的競爭。特朗普的訪問被視為可能緩解這些緊張的契機，尤其是在中國經濟面臨下行壓力的背景下。投資者對於中美貿易的未來走向充滿期待，尤其是對於出口導向的行業，如製造業及科技公司，這些行業將受益於更為友好的貿易環境。",
           "stakeholders": [
-            "查爾斯國王",
-            "白金漢宮",
-            "美國白宮",
-            "媒體界",
-            "美國公眾"
+            "美國政府",
+            "中國政府",
+            "投資者",
+            "出口導向企業",
+            "科技公司"
           ],
-          "analysis": "查爾斯國王的訪問計畫未受槍擊事件影響，顯示出英國王室對於美國的重視及對安全局勢的信心。白金漢宮的迅速回應也反映出他們對於此次事件的重視，並希望平息外界的擔憂。儘管槍擊事件可能引發對美國安全的討論，但查爾斯的訪問仍然被視為加強英美關係的機會。未來幾天，媒體將密切關注訪問的進展及其對雙邊關係的影響，特別是在當前全球政治氣候不穩定的背景下，這次訪問的意義將更加凸顯。"
+          "analysis": "特朗普與習近平的會晤可能成為中美關係的一個轉折點，若雙方能在貿易及科技問題上達成共識，將有助於穩定市場情緒並促進投資。然而，參考報導指出，美國國務院近期對中國企業，特別是DeepSeek等公司提出了有關人工智慧竊取的指控，這顯示出美方在科技領域的警惕性仍然高漲。這種矛盾的情況可能使得雙方在會談中面臨更多挑戰，尤其是在涉及知識產權及科技安全的議題上。因此，雖然市場對於特朗普訪問的預期樂觀，但實際進展仍需觀察。"
         },
-        "topic_priority_score": 7,
-        "event_type": "political_signal",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "topic_priority_score": 8,
+        "event_type": "diplomatic_move",
+        "supporting_sources": [
+          "The Hindu International"
+        ],
+        "supporting_titles": [
+          "U.S. State Department orders global warning about alleged AI thefts by DeepSeek, other Chinese firms"
+        ],
+        "supporting_summaries": [
+          "The White House accusations and the cable come just weeks before ‌U.S. President Donald Trump is set to visit Chinese President Xi Jinping in Beijing"
+        ],
+        "supporting_links": [
+          "https://www.thehindu.com/sci-tech/technology/us-state-dept-orders-global-warning-about-alleged-ai-thefts-by-deepseek-other-chinese-firms/article70910661.ece"
+        ],
+        "source_count": 2
       },
       {
         "category": "politics",
         "source_name": "The Hindu International",
-        "title": "Iran Foreign Minister Araghchi meets Army Chief Munir after returning to Pakistan",
-        "link": "https://www.thehindu.com/news/international/iran-foreign-minister-abbas-araghchi-in-pakistan-islamabad-us-ceasefire-talks/article70909147.ece",
-        "summary": "Two Pakistani officials did not say when the Americans might return to the region to follow up on historic face-to-face talks earlier this month.",
-        "published": "Sun, 26 Apr 2026 22:53:03 +0530",
-        "updated": "Sun, 26 Apr 2026 22:53:03 +0530",
-        "published_at_utc": "2026-04-26T17:23:03+00:00",
-        "id": "article-70909147",
+        "title": "Iran Foreign Minister arrives in Russia as U.S. talks remain stalled",
+        "link": "https://www.thehindu.com/news/international/iran-foreign-minister-heads-to-russia-as-talks-remain-stalled/article70910632.ece",
+        "summary": "Russian and Iranian state media confirmed Mr. Araghchi’s talks with Putin, citing officials from their respective governments",
+        "published": "Mon, 27 Apr 2026 10:07:09 +0530",
+        "updated": "Mon, 27 Apr 2026 10:07:09 +0530",
+        "published_at_utc": "2026-04-27T04:37:09+00:00",
+        "id": "article-70910632",
         "topic_type": "diplomacy",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "Two Pakistani officials did not say when the Americans might return to the region to follow up on historic face-to-face talks earlier this month.",
-          "news_focus_zh": "伊朗外交部長阿拉赫奇在返回巴基斯坦後，會見了巴基斯坦陸軍參謀長穆尼爾。兩名巴基斯坦官員未透露美方何時可能回到該地區，跟進本月早些時候的歷史性面對面會談。",
-          "background": "伊朗與巴基斯坦之間的外交互動在當前地緣政治背景下顯得尤為重要，特別是在美國與伊朗的緊張關係及其對南亞地區的影響。近期的美伊會談旨在緩解雙方的緊張局勢，然而，巴基斯坦作為地區重要的戰略夥伴，面臨著如何在美伊之間保持平衡的挑戰。這種外交活動也反映出巴基斯坦在地區安全及經濟穩定中的關鍵角色。",
+          "news_focus": "Russian and Iranian state media confirmed Mr. Araghchi’s talks with Putin, citing officials from their respective governments",
+          "news_focus_zh": "伊朗外長阿巴斯·阿拉赫奇抵達俄羅斯，與普京進行會談。這一行動是在美國與伊朗的談判陷入停滯之際進行的，俄羅斯和伊朗的國家媒體均確認了此次會談的消息。",
+          "background": "美國與伊朗之間的核談判自2021年以來一直處於僵局，主要因為雙方在制裁和核計劃問題上的分歧。伊朗希望通過外交途徑重啟與西方的對話，而俄羅斯則在此背景下加強與伊朗的合作，以應對美國的影響力。俄羅斯與伊朗的關係在地緣政治上愈發緊密，尤其是在中東地區的戰略利益上。",
           "stakeholders": [
             "伊朗政府",
-            "巴基斯坦政府",
+            "俄羅斯政府",
             "美國政府",
-            "印度政府",
-            "地區民眾"
+            "中東地區國家",
+            "國際社會"
           ],
-          "analysis": "此次會議顯示出伊朗與巴基斯坦在面對美國政策變化時的外交靈活性。阿拉赫奇的訪問可能旨在加強雙方合作，以應對潛在的地區不穩定性。參考報導指出，持續的戰爭對印度和巴基斯坦人民的經濟影響將是深遠的，這暗示著兩國在安全與經濟層面上都受到外部衝突的影響。不同報導的重點在於，主新聞強調了伊朗與巴基斯坦的直接外交互動，而參考報導則關注於戰爭對地區民眾的經濟影響，顯示出各方在面對相似挑戰時的不同關注點。"
+          "analysis": "此次會談顯示伊朗在面對美國壓力時，尋求加強與俄羅斯的聯繫。阿拉赫奇的訪問可能旨在尋求俄方的支持，尤其是在美國制裁的背景下。參考報導補充指出，阿拉赫奇將與莫斯科的高級官員進行會談，這表明伊朗希望在多邊外交中尋求更多的支持與合作。不同報導的重點在於，主新聞強調了會談的時間背景，而參考報導則更著重於會談的具體對象，顯示出伊朗在外交上的靈活性與策略性。"
         },
         "topic_priority_score": 7,
         "event_type": "diplomatic_move",
         "supporting_sources": [
-          "The Diplomat"
+          "Al Jazeera"
         ],
         "supporting_titles": [
-          "The Iran War’s Impact on India and Pakistan"
+          "Iran’s foreign minister leaves Pakistan, heads to Russia for more talks"
         ],
         "supporting_summaries": [
-          "The economic brunt of a prolonged war would be borne by the Indian and Pakistani people, who have no part in it but no escape from its consequences."
+          "Abbas Araghchi will speak with 'senior officials' in Moscow, Iran's Foreign Ministry says."
         ],
         "supporting_links": [
-          "https://thediplomat.com/2026/04/the-iran-wars-impact-on-india-and-pakistan/"
+          "https://www.aljazeera.com/news/2026/4/26/irans-foreign-minister-leaves-pakistan-en-route-to-russia-for-more-talks?traffic_source=rss"
         ],
         "source_count": 2
       }
@@ -250,140 +256,182 @@
     "economy": [
       {
         "category": "economy",
-        "source_name": "Reuters",
-        "title": "China's Hengli Petrochemical denies trade with Iran in response to US sanctions - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU1p0SFVlSExOVVpncXI1SEZpUkxnQ1BHUTFfQlVnRUt3QW5SY0dLdndfamFfbzI3WDdqcEk4M1VfWjF4N2ZWN1ZxLTA0cEdONWdsYmo2aTZscjlyZE11MXBDZzFfWEloaER2S0hOMm9LODNreE9mbC1kNWNRZmJDdUxFMmx1czN4WS0tUENfU3ZXSFdHdXF3STNYRjZtR2VtSWtHV0lWQ1Z6eWUxczlCbWFuN3ZYZ3paZVB4aVhtLThYUQ?oc=5",
-        "summary": "China's Hengli Petrochemical denies trade with Iran in response to US sanctions Reuters",
-        "published": "Sun, 26 Apr 2026 11:16:08 GMT",
-        "updated": "Sun, 26 Apr 2026 11:16:08 GMT",
-        "published_at_utc": "2026-04-26T11:16:08+00:00",
-        "id": "CBMiwgFBVV95cUxNU1p0SFVlSExOVVpncXI1SEZpUkxnQ1BHUTFfQlVnRUt3QW5SY0dLdndfamFfbzI3WDdqcEk4M1VfWjF4N2ZWN1ZxLTA0cEdONWdsYmo2aTZscjlyZE11MXBDZzFfWEloaER2S0hOMm9LODNreE9mbC1kNWNRZmJDdUxFMmx1czN4WS0tUENfU3ZXSFdHdXF3STNYRjZtR2VtSWtHV0lWQ1Z6eWUxczlCbWFuN3ZYZ3paZVB4aVhtLThYUQ",
-        "topic_type": "sanctions",
-        "relevance_score": 23,
+        "source_name": "BBC Business",
+        "title": "Oil prices rise as US-Iran peace talks stall",
+        "link": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
+        "summary": "President Trump said the US had cancelled plans to send a team to Pakistan for negotiations.",
+        "published": "Mon, 27 Apr 2026 08:38:37 GMT",
+        "updated": "Mon, 27 Apr 2026 08:38:37 GMT",
+        "published_at_utc": "2026-04-27T08:38:37+00:00",
+        "id": "https://www.bbc.com/news/articles/c15d57pv925o#0",
+        "topic_type": "energy_markets",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "China's Hengli Petrochemical denies trade with Iran in response to US sanctions Reuters",
-          "news_focus_zh": "中國恒力石化針對美國制裁做出回應，否認與伊朗進行貿易。此聲明顯示出該公司在面對國際壓力時的立場，並試圖維護其商業形象及合規性。",
-          "background": "美國對伊朗的經濟制裁持續加強，特別是在能源和石油產品領域，旨在削弱伊朗的經濟實力。中國作為伊朗主要的貿易夥伴之一，面臨著在遵循國際制裁與維持雙邊貿易之間的兩難。恒力石化作為中國最大的民營石化企業之一，其業務運作受到全球市場動態及政策環境的影響，因此在此背景下，該公司對外界的聲明尤為重要。",
-          "stakeholders": [
-            "恒力石化",
-            "美國政府",
-            "中國政府",
-            "伊朗政府",
-            "國際市場"
-          ],
-          "analysis": "恒力石化的否認聲明可能是出於對美國制裁的擔憂，該公司希望避免因與伊朗的貿易而遭受進一步的制裁或國際譴責。這一行動顯示出企業在全球政治經濟環境中的敏感性，尤其是在美中貿易緊張局勢下，企業需謹慎應對國際壓力。另一方面，這也可能反映出中國政府對於企業在國際貿易中遵循規範的期待，尤其是在美國持續施壓的情況下。未來，恒力石化及其他中國企業可能需要更加透明地處理與伊朗的貿易關係，以維護其國際形象及商業運作的穩定性。"
-        },
-        "topic_priority_score": 8,
-        "event_type": "macro_signal",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "economy",
-        "source_name": "The Hindu International",
-        "title": "U.S. sanctions waiver on Chabahar port ends on April 26, could signal end of 23-year-old connectivity project",
-        "link": "https://www.thehindu.com/news/national/us-sanctions-waiver-on-chabahar-port-ends-on-april-26-india-iran-connectivity-project/article70905875.ece",
-        "summary": "Officials say they are discussing a possible transfer of IPGL-subsidiary’s stake to local Iranian company temporarily to avoid sanctions",
-        "published": "Sun, 26 Apr 2026 06:42:59 +0530",
-        "updated": "Sun, 26 Apr 2026 06:42:59 +0530",
-        "published_at_utc": "2026-04-26T01:12:59+00:00",
-        "id": "article-70905875",
-        "topic_type": "sanctions",
-        "relevance_score": 19,
-        "briefing": {
-          "news_focus": "Officials say they are discussing a possible transfer of IPGL-subsidiary’s stake to local Iranian company temporarily to avoid sanctions",
-          "news_focus_zh": "美國對查巴哈港的制裁豁免將於4月26日結束，這可能預示著這一持續23年的連通項目的終結。官員表示，正在討論將IPGL子公司的股份暫時轉讓給當地伊朗公司的可能性，以避免制裁影響。",
-          "background": "查巴哈港位於伊朗東南部，是一個重要的戰略港口，旨在促進伊朗與印度及其他國家的貿易連接。該港口的建設與發展受到美國制裁的影響，這些制裁旨在限制伊朗的經濟活動。美國曾對查巴哈港的某些項目提供豁免，以促進地區貿易，但這一豁免即將到期，可能對該港口的運營造成重大影響。",
+          "news_focus": "President Trump said the US had cancelled plans to send a team to Pakistan for negotiations.",
+          "news_focus_zh": "美國與伊朗的和平談判未能如期進行，導致油價上漲。美國總統特朗普宣布取消派遣團隊前往巴基斯坦進行談判的計劃，這一消息引發市場對未來供應的擔憂，進而推高布倫特原油價格超過2%。",
+          "background": "美國與伊朗之間的緊張關係長期以來影響著全球油市。隨著美國對伊朗的制裁持續，兩國之間的和平談判成為市場關注的焦點。此次談判原定於巴基斯坦舉行，旨在尋求解決雙方的分歧，然而談判的失敗使得市場對未來油價的預期變得不明朗。油價的波動不僅影響生產國的經濟，也對全球能源市場造成影響，尤其是在需求逐漸回升的背景下。",
           "stakeholders": [
             "美國政府",
             "伊朗政府",
-            "印度政府",
-            "IPGL",
-            "當地伊朗公司"
+            "全球石油市場",
+            "能源消費國",
+            "投資者"
           ],
-          "analysis": "美國制裁豁免的結束可能會對查巴哈港的運營和未來發展造成直接影響，尤其是對於依賴該港口進行貿易的國家和企業。官員提到的股份轉讓方案，顯示出伊朗方面試圖在制裁壓力下尋找解決方案，以維持項目的運行。然而，這一方案的可行性仍然存在不確定性，因為即使股份轉讓，仍然可能面臨美國的監管和制裁風險。各方利益關係複雜，印度與伊朗之間的合作可能會受到影響，進而影響到地區的經濟連通性和貿易流動。"
+          "analysis": "此次談判的失敗對於全球油市的影響顯而易見。根據參考報導，布倫特原油價格因為談判未能如期進行而上漲超過2%。這顯示出市場對於供應鏈穩定性的敏感度。美國和伊朗的立場差異仍然明顯，特朗普政府似乎對於與伊朗的交涉持保留態度，而伊朗則可能希望通過談判獲得更有利的條件。未來幾周，若談判仍未重啟，油價可能會持續受到影響，並可能引發其他地區的供應鏈問題。"
         },
         "topic_priority_score": 8,
-        "event_type": "macro_signal",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "event_type": "energy_supply_move",
+        "supporting_sources": [
+          "Al Jazeera"
+        ],
+        "supporting_titles": [
+          "Oil prices rise amid stalled US-Iran peace talks"
+        ],
+        "supporting_summaries": [
+          "Brent crude rises more than 2 percent after Washington and Tehran fail to hold second round of talks in Pakistan."
+        ],
+        "supporting_links": [
+          "https://www.aljazeera.com/economy/2026/4/27/oil-prices-rise-higher-amid-stalled-us-iran-peace-talks?traffic_source=rss"
+        ],
+        "source_count": 2
       },
       {
         "category": "economy",
         "source_name": "The Guardian Business",
-        "title": "NatWest faces AGM showdown over ‘climate backtracking’",
-        "link": "https://www.theguardian.com/business/2026/apr/26/natwest-agm-showdown-climate-backtracking-protest-vote",
-        "summary": "Shareholders including the Church of England back call for protest votes against bank’s chair NatWest is at risk of an embarrassing showdown at its shareholder meeting this week as investors and scientists call for an urgent reversal of what they describe as “climate backtracking”. Campaigners including ShareAction are calling for protest votes against the bank’s chair, Rick Haythornthwaite, at its annual meeting in Edinburgh on Tuesday. Continue reading...",
-        "published": "Sun, 26 Apr 2026 11:21:14 GMT",
-        "updated": "2026-04-26T11:21:14Z",
-        "published_at_utc": "2026-04-26T11:21:14+00:00",
-        "id": "https://www.theguardian.com/business/2026/apr/26/natwest-agm-showdown-climate-backtracking-protest-vote",
-        "topic_type": "markets",
-        "relevance_score": 17,
+        "title": "UK urged to deploy EU-style ‘trade bazooka’ against Trump’s tariffs",
+        "link": "https://www.theguardian.com/business/2026/apr/26/uk-urged-deploy-eu-style-trade-bazooka-trump-tariffs",
+        "summary": "‘Inadequate economic security’ is putting growth and jobs at risk, says British Chambers of Commerce UK business leaders have called on the government to build an EU-style “trade bazooka” to protect Britain’s economic interests in response to the latest tariff threats from Donald Trump. As transatlantic tensions rise, the British Chambers of Commerce said the UK’s “inadequate economic security” was putting growth and jobs at risk. Continue reading...",
+        "published": "Sun, 26 Apr 2026 21:30:25 GMT",
+        "updated": "2026-04-26T21:30:25Z",
+        "published_at_utc": "2026-04-26T21:30:25+00:00",
+        "id": "https://www.theguardian.com/business/2026/apr/26/uk-urged-deploy-eu-style-trade-bazooka-trump-tariffs",
+        "topic_type": "trade_wars",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Shareholders including the Church of England back call for protest votes against bank’s chair NatWest is at risk of an embarrassing showdown at its shareholder meeting this week as investors and scientists call for an urgent reversal of what they describe as “climate backtracking”. Campaigners including ShareAction are calling for protest votes against the bank’s chair, Rick Haythornthwaite, at its annual meeting in Edinburgh on Tuesday. Continue reading...",
-          "news_focus_zh": "NatWest銀行在即將召開的股東大會上面臨抗議壓力，投資者和科學家呼籲對銀行主席Rick Haythornthwaite進行抗議投票，原因是他們認為該行在氣候政策上出現了倒退。包括英國教會在內的股東們對此表示擔憂，並要求銀行緊急回應這一問題。",
-          "background": "近年來，金融機構在氣候變遷議題上受到越來越多的關注，許多銀行被要求承擔更多的環境責任。NatWest作為英國主要銀行之一，曾承諾支持可持續發展和減少碳排放。然而，近期的行動卻被批評為未能達成這些承諾，導致股東和環保團體的不滿。這一情況反映了金融界在面對氣候變遷時的矛盾與挑戰，特別是在投資決策與環境責任之間的平衡。",
+          "news_focus": "‘Inadequate economic security’ is putting growth and jobs at risk, says British Chambers of Commerce UK business leaders have called on the government to build an EU-style “trade bazooka” to protect Britain’s economic interests in response to the latest tariff threats from Donald Trump. As transatlantic tensions rise, the British Chambers of Commerce said the UK’s “inadequate economic security” was putting growth and jobs at risk. Continue reading...",
+          "news_focus_zh": "英國商會呼籲政府建立類似歐盟的“貿易大砲”，以應對唐納德·特朗普最新的關稅威脅。商會指出，英國目前的經濟安全不足，正危及增長和就業。隨著跨大西洋緊張局勢上升，商會強調必須採取行動以保護英國的經濟利益。",
+          "background": "英國在脫歐後面臨重新調整貿易政策的挑戰，特別是在與美國的貿易關係上。特朗普政府的關稅政策對英國企業造成了壓力，尤其是在製造業和出口領域。英國商會的呼籲反映了企業界對於政府在貿易政策上缺乏明確應對措施的擔憂，並希望能夠借鑒歐盟的成功經驗，制定出有效的貿易保護措施。",
           "stakeholders": [
-            "NatWest銀行",
-            "股東",
-            "英國教會",
-            "環保團體",
-            "投資者"
+            "英國商會",
+            "英國政府",
+            "美國企業",
+            "英國企業",
+            "歐盟"
           ],
-          "analysis": "NatWest面臨的抗議行動顯示出股東對於銀行氣候政策的高度關注，尤其是在全球對於可持續金融的要求日益增強的背景下。英國教會作為重要股東之一，其參與抗議投票可能會對其他投資者產生示範效應，進一步促使銀行重新評估其氣候策略。抗議者的立場強調了對於銀行在氣候問題上透明度和責任的需求，而NatWest若未能有效回應，可能會損害其品牌形象和市場信任度。此外，這一事件也可能引發其他金融機構的關注，促使它們檢視自身的環境政策，以避免類似的股東不滿。"
+          "analysis": "英國商會的提議顯示出對於特朗普關稅政策的強烈反彈，並突顯了英國企業在當前經濟環境中的脆弱性。參考報導指出，特朗普的關稅政策可能促使企業尋找“中國加一”的替代供應鏈，這意味著企業可能會將生產轉移到其他國家以減少對中國的依賴。這一動態可能會影響英國的貿易策略，促使其尋求與其他國家的貿易協定以彌補因美國關稅政策造成的損失。各方對於如何應對特朗普的關稅政策存在不同看法，英國政府是否能夠迅速採取行動以保護國內經濟，將成為未來的重要觀察焦點。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "macro_signal",
+        "supporting_sources": [
+          "The Economist"
+        ],
+        "supporting_titles": [
+          "Who will win from Trump’s tariffs?"
+        ],
+        "supporting_summaries": [
+          "New rates mean new “China plus one” locations"
+        ],
+        "supporting_links": [
+          "https://www.economist.com/finance-and-economics/2025/08/14/who-will-win-from-trumps-tariffs"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "economy",
+        "source_name": "SCMP Business",
+        "title": "How the Middle East war is boosting family offices, private banking in Hong Kong and Asia",
+        "link": "https://www.scmp.com/business/banking-finance/article/3351372/how-middle-east-war-boosting-family-offices-private-banking-hong-kong-and-asia?utm_source=rss_feed",
+        "summary": "The Middle East war has created new opportunities for family offices and private banking businesses in Hong Kong and Asia, as wealthy investors in the region seek to diversify their investments away from the conflict zone, according to industry players. Ida Liu, CEO of HSBC Private Bank, said some affluent Middle Eastern customers were diversifying into Asia. The bank is the largest wealth manager in Asia with US$1.05 trillion in wealth balances in Asia last year, up 16.3 per cent from a year...",
+        "published": "Mon, 27 Apr 2026 00:00:21 +0000",
+        "updated": "Mon, 27 Apr 2026 00:00:21 +0000",
+        "published_at_utc": "2026-04-27T00:00:21+00:00",
+        "id": "https://www.scmp.com/business/banking-finance/article/3351372/how-middle-east-war-boosting-family-offices-private-banking-hong-kong-and-asia?utm_source=rss_feed",
+        "topic_type": "markets",
+        "relevance_score": 19,
+        "briefing": {
+          "news_focus": "The Middle East war has created new opportunities for family offices and private banking businesses in Hong Kong and Asia, as wealthy investors in the region seek to diversify their investments away from the conflict zone, according to industry players. Ida Liu, CEO of HSBC Private Bank, said some affluent Middle Eastern customers were diversifying into Asia. The bank is the largest wealth manager in Asia with US$1.05 trillion in wealth balances in Asia last year, up 16.3 per cent from a year...",
+          "news_focus_zh": "中東戰爭促使香港及亞洲的家族辦公室和私人銀行業務蓬勃發展，因為該地區的富裕投資者尋求將投資多元化以避開衝突區。根據匯豐私人銀行首席執行官Ida Liu的說法，部分中東富裕客戶正在將資金轉向亞洲。匯豐在亞洲的財富管理業務去年達到1.05萬億美元的資產餘額，較前一年增長16.3%。",
+          "background": "中東地區的持續衝突對當地經濟造成了影響，促使富裕投資者尋求更安全的投資環境。香港作為亞洲金融中心，吸引了大量資本流入，尤其是在私人銀行和家族辦公室領域。這些機構專注於為高淨值客戶提供個性化的財務管理服務，並且隨著市場需求的增加，業務規模也在擴大。匯豐銀行作為亞洲最大的財富管理機構，正積極應對這一趨勢，並且在資產管理方面持續增長。",
+          "stakeholders": [
+            "匯豐銀行",
+            "中東富裕投資者",
+            "香港金融監管機構",
+            "家族辦公室",
+            "私人銀行業務"
+          ],
+          "analysis": "中東戰爭的爆發使得香港及亞洲的家族辦公室和私人銀行業務迎來了新的機遇，這些機構正在吸引來自中東的富裕客戶。根據《經濟學人》的報導，香港的金融市場正在恢復活力，吸引更多交易和資本流入，這與中東客戶的資金轉移相輔相成。然而，根據《衛報》的報導，匯豐銀行正在檢討其在香港的員工福利政策，這可能會影響其吸引和留住人才的能力。這些不同的報導顯示出，儘管市場機會增多，但銀行內部的政策調整也可能對其長期業務發展產生影響。"
         },
         "topic_priority_score": 4,
         "event_type": "market_repricing",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "supporting_sources": [
+          "The Guardian Business",
+          "The Economist"
+        ],
+        "supporting_titles": [
+          "HSBC ‘reviewing’ private school perk for bankers in Hong Kong",
+          "Hong Kong is getting its financial mojo back"
+        ],
+        "supporting_summaries": [
+          "Hundreds of senior staff in territory benefit from nearly £30,000-a-year grant per child not available to staff in group’s other hubs HSBC is reportedly reviewing a perk that covers school fees for bankers in Hong Kong as part of a big overhaul of the bank under chief executive Georges Elhedery. Europe’s largest bank is considering whether to scrap the perk for new employees or make changes to total compensation, Bloomberg News reported . No decisions have been made yet. Continue reading...",
+          "The hub is attracting more deals. And more Beijing-style politics"
+        ],
+        "supporting_links": [
+          "https://www.theguardian.com/business/2026/apr/27/hsbc-reviewing-private-school-perk-for-bankers-in-hong-kong",
+          "https://www.economist.com/finance-and-economics/2026/02/05/hong-kong-is-getting-its-financial-mojo-back"
+        ],
+        "source_count": 3
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
-        "title": "China launches Pakistani satellite",
-        "link": "https://www.thehindu.com/sci-tech/china-launches-pakistani-satellite/article70907952.ece",
+        "title": "Here’s How Much San Francisco Tech Companies Pay for Police Protection",
+        "link": "https://www.wired.com/story/heres-how-much-san-francisco-tech-companies-are-paying-for-police-protection/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-04-27T10:00:00+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Russian drone attack on Odesa wounds 10, officials say",
+        "link": "https://www.thehindu.com/news/international/russian-drone-attack-on-odesa-wounds-10-officials-say/article70910964.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-26T07:53:31+00:00",
+        "published_at_utc": "2026-04-27T07:24:32+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Shannon Semiconductor Technology Co Ltd - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xbFk1Mmd0V1NybWdJZGxEY2d1WWZzT1VPQ2lCZ20ydTcxdlhUNURrSVZfQ1phSDM0ZHc5RWxTVENIa3VfSFJnYnRONThhT1NBemFCVE1tYUlPcnhBNGhKVUpZd1ZmRjVLbDFXRUFRb2R1T3NhaTl5WVhReUY?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-27T01:56:40+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Satellite images show scale of Israeli destruction of south Lebanon towns",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/satellite-images-show-scale-of-israeli-destruction-of-south-lebanon-towns?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-04-27T02:29:58+00:00",
         "relevance_score": 16
       },
       {
-        "title": "‘This has to be a wake-up call’: NSW attorney general urged to order inquest into death of Sydney’s ‘birdman’",
-        "link": "https://www.theguardian.com/australia-news/2026/apr/27/this-has-to-be-a-wake-up-call-nsw-attorney-general-urged-to-order-inquest-into-death-of-sydneys-birdman",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-26T15:00:17+00:00",
+        "title": "Meta inks deal for solar power at night, beamed from space",
+        "link": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-27T10:00:00+00:00",
         "relevance_score": 14
       },
       {
-        "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-        "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-25T21:43:37+00:00",
-        "relevance_score": 13
+        "title": "Gina Rinehart calls for immigrants’ social media to be screened in Anzac memorial speech",
+        "link": "https://www.theguardian.com/business/2026/apr/27/gina-rinehart-immigrant-social-media-screening-anzac-day-sydney-opera-house-ntwnfb",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-27T05:09:51+00:00",
+        "relevance_score": 14
       },
       {
         "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
         "link": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
         "source_name": "Wired",
         "published_at_utc": "2026-04-25T10:30:00+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Altman apologizes after OpenAI failed to alert police before fatal Canada shooting",
-        "link": "https://www.theguardian.com/us-news/2026/apr/25/altman-apologizes-after-openai-failed-to-alert-police-before-fatal-canada-shooting",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-25T02:13:21+00:00",
         "relevance_score": 13
       },
       {
@@ -394,175 +442,161 @@
         "relevance_score": 13
       },
       {
-        "title": "US Special Forces Soldier Arrested for Polymarket Bets on Maduro Raid",
-        "link": "https://www.wired.com/story/us-special-forces-soldier-allegedly-profited-off-of-maduro-capture-on-polymarket/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-04-23T23:15:21+00:00",
+        "title": "U.S. companies back Sam Altman’s World ID even as much of the world pushes back",
+        "link": "https://restofworld.org/2026/sam-altman-worldcoin-zoom-tinder-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source_name": "Rest of World",
+        "published_at_utc": "2026-04-27T10:00:00+00:00",
         "relevance_score": 12
       },
       {
-        "title": "Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet",
-        "link": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-04-23T22:00:00+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "Palantir employees are talking about company's \"descent into fascism\"",
-        "link": "https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-04-25T10:49:52+00:00",
-        "relevance_score": 9
-      },
-      {
-        "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’",
-        "link": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-24T23:32:11+00:00",
-        "relevance_score": 9
+        "title": "China launches Pakistani satellite",
+        "link": "https://www.thehindu.com/sci-tech/china-launches-pakistani-satellite/article70907952.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-26T07:53:31+00:00",
+        "relevance_score": 12
       }
     ],
     "politics": [
       {
-        "title": "China backs Myanmar’s push to ease diplomatic isolation, stamp out telecoms scams",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3351479/china-backs-myanmars-push-ease-diplomatic-isolation-stamp-out-telecoms-scams?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-04-26T10:37:26+00:00",
+        "title": "Iran Foreign Minister Araghchi meets Army Chief Munir after returning to Pakistan",
+        "link": "https://www.thehindu.com/news/international/iran-foreign-minister-abbas-araghchi-in-pakistan-islamabad-us-ceasefire-talks/article70909147.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-04-26T17:23:03+00:00",
         "relevance_score": 21
       },
       {
-        "title": "Israel-Iran war live: Trump says Iran can call U.S. if it wants to negotiate",
-        "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-26T18:59:12+00:00",
+        "title": "Middle East crisis live: Trump says Iran can call ‘if they want to talk’ amid impasse on negotiations",
+        "link": "https://www.theguardian.com/world/live/2026/apr/27/middle-east-crisis-iran-us-israel-lebanon-trump-araghchi-putin-hormuz-oil-latest-news-updates",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-27T09:49:22+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Israel PM says Hezbollah 'dismantling' ceasefire with Lebanon",
-        "link": "https://www.thehindu.com/news/international/israel-pm-says-hezbollah-dismantling-ceasefire-with-lebanon/article70909606.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-26T17:02:12+00:00",
+        "title": "Odesa bears brunt of latest Russian attacks on Ukraine – Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/apr/27/europe-ukraine-russia-poland-germany-eu-latest-news-updates",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-27T09:39:08+00:00",
         "relevance_score": 20
       },
       {
-        "title": "UAE-Iran differences and India’s plans to dilute language on Israel-Palestine derail joint statement at BRICS meet",
-        "link": "https://www.thehindu.com/news/national/uae-iran-differences-and-indias-plans-to-dilute-language-on-israel-palestine-derail-joint-statement-at-brics-meet/article70909165.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-26T17:44:47+00:00",
+        "title": "Labor senator deletes Anzac Day video after mistakenly including raunchy rap song in Instagram post",
+        "link": "https://www.theguardian.com/australia-news/2026/apr/27/helen-polley-anzac-day-instagram-post",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-27T09:23:36+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Trump says King will be 'very safe' during US visit after security talks",
+        "link": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-04-27T09:19:11+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Washington hotel shooting exposes gaps in security protocols for Trump and other VIPs",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3351538/washington-hotel-shooting-exposes-gaps-security-protocols-trump-and-other-vips?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-27T06:32:30+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Everest climbers left hanging after giant ice chunk blocks path to summit",
+        "link": "https://www.scmp.com/news/asia/south-asia/article/3351530/everest-climbers-left-hanging-after-giant-ice-chunk-blocks-path-summit?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-27T06:05:07+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Notes from Central Taiwan: As Trump-Xi nears, once again, the sell out",
-        "link": "https://www.taipeitimes.com/News/feat/archives/2026/04/27/2003856294",
-        "source_name": "Taipei Times",
-        "published_at_utc": "2026-04-27T00:00:00+00:00",
+        "title": "Call for vote on inquiry into claims Starmer lied over Mandelson dismissed by Labour allies – UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/apr/27/keir-starmer-peter-mandelson-inquiry-speaker-shoplifting-latest-news-updates",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-27T09:42:07+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Did Trump save eight Iranian women from execution?",
-        "link": "https://www.bbc.com/news/videos/cx2e2lg2ny9o?at_medium=RSS&at_campaign=rss",
+        "title": "Suspected gunman at Washington press dinner identified as 31-year-old Californian",
+        "link": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC World",
-        "published_at_utc": "2026-04-26T19:16:58+00:00",
+        "published_at_utc": "2026-04-27T09:31:56+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Israel issues forced evacuation orders for southern Lebanon in escalation",
-        "link": "https://www.aljazeera.com/news/2026/4/26/israel-issues-forced-evacuation-orders-for-southern-lebanon-in-escalation?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-26T19:09:56+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Trump says U.S., Iranian officials can talk by phone",
-        "link": "https://www.thehindu.com/news/international/trump-says-us-iranian-officials-can-talk-by-phone/article70909743.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-26T19:00:30+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Trump makes a fresh case for White House ballroom after shooting incident at dinner event",
-        "link": "https://www.thehindu.com/news/international/trump-makes-a-fresh-case-for-white-house-ballroom-after-shooting-incident-at-dinner-event/article70909700.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-26T18:29:22+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Accused shooter was targeting Trump and US officials, authorities say",
-        "link": "https://www.aljazeera.com/news/2026/4/26/trump-his-administration-likely-targets-at-media-dinner-us-official?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-26T18:03:11+00:00",
+        "title": "White House press dinner shooting suspect to face criminal charges",
+        "link": "https://www.theguardian.com/us-news/2026/apr/27/white-house-press-dinner-shooting-suspect-court",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-27T09:30:06+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "Frenzy for Hong Kong luxury homes set to continue after 156% sales rise in first quarter",
-        "link": "https://www.scmp.com/business/article/3351361/frenzy-hong-kong-luxury-homes-set-continue-after-156-sales-rise-first-quarter?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-26T06:00:21+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Why Shenzhen may be first to climb out of China’s property slump",
-        "link": "https://www.scmp.com/business/article/3351407/why-shenzhen-may-be-first-climb-out-chinas-property-slump?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-26T04:00:09+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Unlucky chancellor? Iran shock hits Reeves just as UK seemed to turn corner",
-        "link": "https://www.theguardian.com/politics/2026/apr/25/iran-shock-hits-rachel-reeves-chancellor-as-uk-economy-turns-corner",
+        "title": "Oil at three-week high as US-Iran peace talks stall; China blocks Meta’s takeover of AI agent Manus – business live",
+        "link": "https://www.theguardian.com/business/live/2026/apr/27/oil-prices-high-us-iran-peace-talks-stock-markets-house-prices-latest-news-updates",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-25T11:00:43+00:00",
+        "published_at_utc": "2026-04-27T09:23:02+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Goldman Sachs raises oil price forecasts on tight supply - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFVLaDdMSWhvNFk4d0FlZkM3d3lTRUxtUXRYU3VSZ2dzbEpuRGx5MUpMVUpEOW1DcDIteTFhSGtlRm03dmFyOVZQT3V6aElON0UyZlFRUU0xQmROb3IzaHZJVlZTNVBOSWlSRXl1OWdSSS1Uc1F2YUJUd3p4eGhjRDgwbVk5aENZcUxKQTA0cmgwdmJfci1QcWlka0NnRlpkLTlDZG50STA?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-26T22:48:00+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Oil prices rise amid stalled US-Iran peace talks",
+        "link": "https://www.aljazeera.com/economy/2026/4/27/oil-prices-rise-higher-amid-stalled-us-iran-peace-talks?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-04-27T02:06:46+00:00",
         "relevance_score": 17
       },
       {
-        "title": "Raizen proposes alternative terms to creditors for debt restructuring, Bloomberg reports - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcnh0MnhuU3l2QWRtbFpQZHR6ZS1za3ZiOWNjZEFzNkVIeEkyd0ZZRUdQRVZVbDNYQ1RFekE3eW1taUpEaWdUaTVvTkYyQmJKTkNyckJkbVFWcENkUkZiM255azJIUWZDcEVUS1o5bHZwQUVXWDZIQmR2NWhaczBCTVRBQjZqbnMzVjRYc0hjV2Y2aGFGOEg3YWdkY2tVLS1XbGlHYTE5TDRVYjRSSWx5UG9kRWl1c3d3VjJOdnhZZG1pTlpGcUpaQ1dRdmg?oc=5",
+        "title": "Global stocks steady; oil climbs on stalled peace talks - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFFHZnR3cEZhaHhha01WbDU2dGlnQWJyX0w0Q2poQk55Y1RjQ1N5Zk84NVVraDBfX3ljdFZab1IxejVPZUZMRTVyRnQxYmZEWDYzaExnRTFKOENYLXBmdkVHeTlSZW1LSDI2b050UE5DNGJnMU1NdHFEaEdPM1JBS1dRbzItbGdH?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-04-26T17:20:14+00:00",
-        "relevance_score": 16
+        "published_at_utc": "2026-04-26T22:21:00+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Tokyo condo boom cools off as interest rates rise",
+        "link": "https://asia.nikkei.com/business/markets/trading-asia/tokyo-condo-boom-cools-off-as-interest-rates-rise",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
+        "relevance_score": 15
+      },
+      {
+        "title": "HSBC ‘reviewing’ private school perk for bankers in Hong Kong",
+        "link": "https://www.theguardian.com/business/2026/apr/27/hsbc-reviewing-private-school-perk-for-bankers-in-hong-kong",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-27T08:31:05+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "Kia CEO signals price cuts in Europe to fend off Chinese competition - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUzNuQk1aUGhGOHJVVVJteUJMZXM5NUZKaFpnT09UWGc0SHlrSHQzRTdIaG5ONkFtTU9GUndQU0wwdHNpSElRaWY0ci15dXI1MEFleEwyX3l1aXJqRDc2T2ZZbk1zaDVFaTUwZlNmTk1CdURFWWltaDAwdWpXbjBjN2tUVzVEZmwtM3Z4Y2xvVWMtRVRudkxDOFhFejZIY0I2WWUyNENPUVlydkZJWTE5NWFLYnhEWDNZV1ZlbVlaQmJMajlBZUw4?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-27T03:34:00+00:00",
+        "relevance_score": 14
       },
       {
         "title": "Will Kevin Warsh Trumpify the Federal Reserve?",
         "link": "https://www.economist.com/finance-and-economics/2026/04/26/will-kevin-warsh-trumpify-the-federal-reserve",
         "source_name": "The Economist",
         "published_at_utc": "2026-04-26T13:17:44+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Japan inflation remains below BOJ's 2% target in March",
-        "link": "https://asia.nikkei.com/economy/inflation/japan-inflation-remains-below-boj-s-2-target-in-march",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 15
-      },
-      {
-        "title": "Royal Mail investigating claims that postal worker ‘binned Reform UK election leaflets’",
-        "link": "https://www.theguardian.com/business/2026/apr/26/royal-mail-investigating-claims-postal-worker-binned-reform-uk-election-leaflets",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-26T17:25:56+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "Higher prices could last for eight months after Iran war, minister says",
-        "link": "https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-04-26T13:58:54+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "Asia's great disconnect: Markets boom as Iran war fuels cost of living crisis",
-        "link": "https://asia.nikkei.com/spotlight/big-in-asia/asia-s-great-disconnect-markets-boom-as-iran-war-fuels-cost-of-living-crisis",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
         "relevance_score": 13
       },
       {
-        "title": "Editor's Choice: Energy crisis drives India toward EVs as Asia's auto map shifts",
-        "link": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-energy-crisis-drives-india-toward-evs-as-asia-s-auto-map-shifts",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
+        "title": "Frenzy for Hong Kong luxury homes set to continue after 156% sales rise in first quarter",
+        "link": "https://www.scmp.com/business/article/3351361/frenzy-hong-kong-luxury-homes-set-continue-after-156-sales-rise-first-quarter?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-26T06:00:21+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Why Shenzhen may be first to climb out of China’s property slump",
+        "link": "https://www.scmp.com/business/article/3351407/why-shenzhen-may-be-first-climb-out-chinas-property-slump?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-26T04:00:09+00:00",
         "relevance_score": 13
       }
     ]
