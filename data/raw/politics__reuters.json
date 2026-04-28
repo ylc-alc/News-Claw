@@ -5,45 +5,11 @@
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
     "feed_title": "\"when:24h allinurl:reuters.com politics\" - Google News",
     "feed_link": "https://news.google.com/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
-    "fetched_at_utc": "2026-04-27T10:06:01.404496+00:00",
-    "entry_count": 3,
+    "fetched_at_utc": "2026-04-28T10:05:32.231267+00:00",
+    "entry_count": 0,
     "bozo": false,
-    "failed": false,
-    "failure_reason": ""
+    "failed": true,
+    "failure_reason": "feed returned zero entries"
   },
-  "items": [
-    {
-      "category": "politics",
-      "source_name": "Reuters",
-      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
-      "title": "North Korea's Kim vows to keep backing Russia, state media says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DRldKTUplaWpaZ0Q1bEZYRHhScl9taUk2S2xEcmJhNktkWnU0NWJnS0pQOFFzN0lnR3hBRng4R1pOcEVma3RlbjJJQU5jME5sek81YUkxNGdFdk82V21lS3ZlWE1DeS1kbnB5WFowUmdSSjFwdGNFNWl3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE9DRldKTUplaWpaZ0Q1bEZYRHhScl9taUk2S2xEcmJhNktkWnU0NWJnS0pQOFFzN0lnR3hBRng4R1pOcEVma3RlbjJJQU5jME5sek81YUkxNGdFdk82V21lS3ZlWE1DeS1kbnB5WFowUmdSSjFwdGNFNWl3?oc=5\" target=\"_blank\">North Korea's Kim vows to keep backing Russia, state media says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "Mon, 27 Apr 2026 04:53:39 GMT",
-      "updated": "Mon, 27 Apr 2026 04:53:39 GMT",
-      "id": "CBMiekFVX3lxTE9DRldKTUplaWpaZ0Q1bEZYRHhScl9taUk2S2xEcmJhNktkWnU0NWJnS0pQOFFzN0lnR3hBRng4R1pOcEVma3RlbjJJQU5jME5sek81YUkxNGdFdk82V21lS3ZlWE1DeS1kbnB5WFowUmdSSjFwdGNFNWl3"
-    },
-    {
-      "category": "politics",
-      "source_name": "Reuters",
-      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
-      "title": "Venezuela names economy czar, oil minister in cabinet shuffle - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQnFzeTdlVDdwZk16aS1mRHVmTHVSQnRMVHFCRmxKcWphRlpqVkZPeUFXa01oVDJKMl9QN3NBeEdhYTRjcGM4VmVDdU9mQTdXd1NsLS1pTGMybEV1X3lzLVdqb2hCZE9hbWlVQnFubzlTM1djR3k1cUdyUnZldGgxb0R0b3VEaWFmdktCNm5sZ0hfQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPQnFzeTdlVDdwZk16aS1mRHVmTHVSQnRMVHFCRmxKcWphRlpqVkZPeUFXa01oVDJKMl9QN3NBeEdhYTRjcGM4VmVDdU9mQTdXd1NsLS1pTGMybEV1X3lzLVdqb2hCZE9hbWlVQnFubzlTM1djR3k1cUdyUnZldGgxb0R0b3VEaWFmdktCNm5sZ0hfQQ?oc=5\" target=\"_blank\">Venezuela names economy czar, oil minister in cabinet shuffle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "Sun, 26 Apr 2026 14:13:03 GMT",
-      "updated": "Sun, 26 Apr 2026 14:13:03 GMT",
-      "id": "CBMikgFBVV95cUxPQnFzeTdlVDdwZk16aS1mRHVmTHVSQnRMVHFCRmxKcWphRlpqVkZPeUFXa01oVDJKMl9QN3NBeEdhYTRjcGM4VmVDdU9mQTdXd1NsLS1pTGMybEV1X3lzLVdqb2hCZE9hbWlVQnFubzlTM1djR3k1cUdyUnZldGgxb0R0b3VEaWFmdktCNm5sZ0hfQQ"
-    },
-    {
-      "category": "politics",
-      "source_name": "Reuters",
-      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
-      "title": "Jostling contenders for party elite play it safe at China parliament - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZm94dFJjakduazJ5S1hHb2RJWVFjREVKbnJBTjRzeGR6bUhmSkdnbUdmc0llNF9NN0cyRmlXN0pYX1VacDlWeG1LWVNhbGZkbGhQQXFWbGVzTkk0aWtOWDYxdUt0RjdNc25vZ0NQajBWREpYQUVVMTMwT291NHhHeEdZOUVEeWRLRlZTOTFZSUo3M25oNzNKVF9kQldMaTVCdlA5VGJ0dWNKNGFkVjdFN2NrWGlCdnZvaV93Uk9hb1lka2lrVHM0cGFFU0FvZ3c5aG9fbDlkMXUwRWNIbEFKLU5aWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZm94dFJjakduazJ5S1hHb2RJWVFjREVKbnJBTjRzeGR6bUhmSkdnbUdmc0llNF9NN0cyRmlXN0pYX1VacDlWeG1LWVNhbGZkbGhQQXFWbGVzTkk0aWtOWDYxdUt0RjdNc25vZ0NQajBWREpYQUVVMTMwT291NHhHeEdZOUVEeWRLRlZTOTFZSUo3M25oNzNKVF9kQldMaTVCdlA5VGJ0dWNKNGFkVjdFN2NrWGlCdnZvaV93Uk9hb1lka2lrVHM0cGFFU0FvZ3c5aG9fbDlkMXUwRWNIbEFKLU5aWQ?oc=5\" target=\"_blank\">Jostling contenders for party elite play it safe at China parliament</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "Sun, 26 Apr 2026 12:53:54 GMT",
-      "updated": "Sun, 26 Apr 2026 12:53:54 GMT",
-      "id": "CBMi4wFBVV95cUxNZm94dFJjakduazJ5S1hHb2RJWVFjREVKbnJBTjRzeGR6bUhmSkdnbUdmc0llNF9NN0cyRmlXN0pYX1VacDlWeG1LWVNhbGZkbGhQQXFWbGVzTkk0aWtOWDYxdUt0RjdNc25vZ0NQajBWREpYQUVVMTMwT291NHhHeEdZOUVEeWRLRlZTOTFZSUo3M25oNzNKVF9kQldMaTVCdlA5VGJ0dWNKNGFkVjdFN2NrWGlCdnZvaV93Uk9hb1lka2lrVHM0cGFFU0FvZ3c5aG9fbDlkMXUwRWNIbEFKLU5aWQ"
-    }
-  ]
+  "items": []
 }
