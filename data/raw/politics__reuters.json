@@ -5,11 +5,23 @@
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
     "feed_title": "\"when:24h allinurl:reuters.com politics\" - Google News",
     "feed_link": "https://news.google.com/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
-    "fetched_at_utc": "2026-04-28T10:05:32.231267+00:00",
-    "entry_count": 0,
+    "fetched_at_utc": "2026-04-29T09:56:56.668325+00:00",
+    "entry_count": 1,
     "bozo": false,
-    "failed": true,
-    "failure_reason": "feed returned zero entries"
+    "failed": false,
+    "failure_reason": ""
   },
-  "items": []
+  "items": [
+    {
+      "category": "politics",
+      "source_name": "Reuters",
+      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
+      "title": "Pressure to vet Mandelson 'quickly as possible', says ex-UK official - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMHM3cW42MzJsTDUwRXVmZTN6WlFGVHBVTTdVOW4xWTFzUVRfTlhnaS0tR0pZRUxBY2tjYnpEaThKMGRQN0loeW9tN2RENWI0N0JQMHNjRFMyVnhpeTVxU1dxVE10bWtZNXl5OFRwcXFDb0lTUzFmU1BwVm9PelNaV1FBTUFIcmprcko0VmhOMkhRaWVOWWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNMHM3cW42MzJsTDUwRXVmZTN6WlFGVHBVTTdVOW4xWTFzUVRfTlhnaS0tR0pZRUxBY2tjYnpEaThKMGRQN0loeW9tN2RENWI0N0JQMHNjRFMyVnhpeTVxU1dxVE10bWtZNXl5OFRwcXFDb0lTUzFmU1BwVm9PelNaV1FBTUFIcmprcko0VmhOMkhRaWVOWWc?oc=5\" target=\"_blank\">Pressure to vet Mandelson 'quickly as possible', says ex-UK official</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "Tue, 28 Apr 2026 11:45:12 GMT",
+      "updated": "Tue, 28 Apr 2026 11:45:12 GMT",
+      "id": "CBMilgFBVV95cUxNMHM3cW42MzJsTDUwRXVmZTN6WlFGVHBVTTdVOW4xWTFzUVRfTlhnaS0tR0pZRUxBY2tjYnpEaThKMGRQN0loeW9tN2RENWI0N0JQMHNjRFMyVnhpeTVxU1dxVE10bWtZNXl5OFRwcXFDb0lTUzFmU1BwVm9PelNaV1FBTUFIcmprcko0VmhOMkhRaWVOWWc"
+    }
+  ]
 }
