@@ -1,99 +1,58 @@
 {
-  "generated_at_utc": "2026-04-29T09:57:13.400866+00:00",
+  "generated_at_utc": "2026-04-30T09:58:17.301581+00:00",
   "summary": {
-    "total_raw_items": 1170,
-    "total_deduped_items": 1145,
+    "total_raw_items": 1146,
+    "total_deduped_items": 1118,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "platform_regulation",
-        "social_media",
+        "chips",
+        "ai",
         "ai"
       ],
       "politics": [
         "diplomacy",
-        "uk_politics",
-        "us_politics"
+        "diplomacy",
+        "diplomacy"
       ],
       "economy": [
-        "inflation",
-        "markets",
+        "interest_rates",
+        "corporate_earnings",
         "energy_markets"
       ]
     },
-    "multi_source_selected_count": 8
+    "multi_source_selected_count": 6
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "Reuters",
-        "title": "US FCC reviewing Disney's ABC station licenses after Kimmel joke - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs?oc=5",
-        "summary": "US FCC reviewing Disney's ABC station licenses after Kimmel joke Reuters",
-        "published": "Wed, 29 Apr 2026 09:17:43 GMT",
-        "updated": "Wed, 29 Apr 2026 09:17:43 GMT",
-        "published_at_utc": "2026-04-29T09:17:43+00:00",
-        "id": "CBMiUEFVX3lxTE4wV0N6QWFMeHk4Q0ZrZHVUOHZoUnBibW9PRGg0TGlTTHlTemoxb1F5dHUzRmx3dGpTYWU3a3UzT1FoZ0dJMWRwNW9Odk9rUHZs",
-        "topic_type": "platform_regulation",
-        "relevance_score": 20,
+        "source_name": "SCMP Business",
+        "title": "AI chip designer Cambricon vaults to China’s costliest stock after profits soar 185%",
+        "link": "https://www.scmp.com/tech/article/3351894/revenue-jumps-chinas-cambricon-metax-amid-thirst-domestic-ai-chips?utm_source=rss_feed",
+        "summary": "Cambricon Technologies, dubbed “China’s little Nvidia,” on Thursday became the costliest stock in mainland China’s equities market after it reported substantial growth in the first quarter amid an artificial intelligence boom and China’s tech self-sufficiency push. Cambricon shares rose as much as 18 per cent to nearly 1,680 yuan (US$245) on Thursday, beating optical chipmaker Yuanjie Semiconductor Technology, which traded at around 1,660 yuan. On Wednesday, Cambricon announced a 160 per cent...",
+        "published": "Wed, 29 Apr 2026 13:15:23 +0000",
+        "updated": "Wed, 29 Apr 2026 13:15:23 +0000",
+        "published_at_utc": "2026-04-29T13:15:23+00:00",
+        "id": "https://www.scmp.com/tech/article/3351894/revenue-jumps-chinas-cambricon-metax-amid-thirst-domestic-ai-chips?utm_source=rss_feed",
+        "topic_type": "chips",
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "US FCC reviewing Disney's ABC station licenses after Kimmel joke Reuters",
-          "news_focus_zh": "美國聯邦通信委員會（FCC）正在審查迪士尼旗下ABC電視台的執照，原因是喜劇演員吉米·基梅爾在節目中對梅拉尼亞·特朗普的玩笑引發爭議。基梅爾的玩笑稱梅拉尼亞為「懷孕的寡婦」，隨後FCC迅速展開了對該電視台執照的檢討。",
-          "background": "美國的廣播電視執照由FCC負責管理，該機構有權對違反公共利益的行為進行調查。近年來，政治言論在媒體上的影響力日益增強，尤其是在社交媒體和即時反應的環境中。基梅爾的玩笑不僅引發了觀眾的討論，也引起了特朗普及其支持者的強烈反彈，這使得FCC的審查行動更具爭議性。",
+          "news_focus": "Cambricon Technologies, dubbed “China’s little Nvidia,” on Thursday became the costliest stock in mainland China’s equities market after it reported substantial growth in the first quarter amid an artificial intelligence boom and China’s tech self-sufficiency push. Cambricon shares rose as much as 18 per cent to nearly 1,680 yuan (US$245) on Thursday, beating optical chipmaker Yuanjie Semiconductor Technology, which traded at around 1,660 yuan. On Wednesday, Cambricon announced a 160 per cent...",
+          "news_focus_zh": "Cambricon Technologies於週四報告其第一季度利潤增長185%，使其成為中國內地股市中最昂貴的股票，股價一度上漲18%至近1,680元人民幣（約245美元）。該公司被譽為「中國的小Nvidia」，其股價超過了光學芯片製造商元捷半導體技術，後者的股價約為1,660元。Cambricon的強勁表現反映了人工智慧熱潮及中國科技自給自足的推動。",
+          "background": "Cambricon Technologies成立於2016年，是一家專注於人工智慧芯片設計的公司，致力於滿足中國對高性能計算需求的增長。隨著中國政府推動科技自給自足的政策，特別是在半導體領域，Cambricon的成長符合國家戰略需求。中國市場對於AI技術的需求日益增加，促使相關企業快速發展，Cambricon的成功也反映了整體市場對於AI技術的信心與投資熱情。",
           "stakeholders": [
-            "美國聯邦通信委員會（FCC）",
-            "迪士尼",
-            "ABC電視台",
-            "吉米·基梅爾",
-            "特朗普及其支持者"
-          ],
-          "analysis": "此事件反映了美國媒體環境中政治與娛樂的交織。FCC的審查可能會對ABC的運營造成影響，尤其是在政治敏感的時期。基梅爾的玩笑引發的反應顯示出特朗普支持者對媒體批評的敏感性，這可能會促使FCC在未來對類似事件的處理更加謹慎。參考報導指出，FCC的行動是在基梅爾的玩笑之後立即展開的，這表明該機構可能受到政治壓力的影響。不同報導的重點在於，Ars Technica強調了玩笑對特朗普及其妻子的冒犯性，而主新聞則較為中立地報導了審查的事實。"
-        },
-        "topic_priority_score": 8,
-        "event_type": "strategic_move",
-        "supporting_sources": [
-          "Ars Technica"
-        ],
-        "supporting_titles": [
-          "FCC orders review of ABC licenses after Kimmel joke offends Trump and first lady"
-        ],
-        "supporting_summaries": [
-          "Kimmel joke calling Melania an \"expectant widow\" followed quickly by FCC order."
-        ],
-        "supporting_links": [
-          "https://arstechnica.com/tech-policy/2026/04/fcc-orders-review-of-abc-licenses-after-kimmel-joke-offends-trump-and-first-lady/"
-        ],
-        "source_count": 2
-      },
-      {
-        "category": "technology",
-        "source_name": "SCMP World",
-        "title": "China social media account banned for forcing women to stay in tank with crocodile",
-        "link": "https://www.scmp.com/news/people-culture/trending-china/article/3351667/china-social-media-account-banned-forcing-women-stay-tank-crocodile?utm_source=rss_feed",
-        "summary": "A social media account in China with more than 11 million followers which targets juveniles has been banned for forcing young female live-streamers to stay in a tank with a crocodile. The permanent ban also came after the account was exposed of also having made the women hold their breath under water. The account with the handle @Yebali, which means Night Paris in English, had been in operation on the social media platform for five years before it bowed to pressure to close, Jiupai News...",
-        "published": "Wed, 29 Apr 2026 06:00:08 +0000",
-        "updated": "Wed, 29 Apr 2026 06:00:08 +0000",
-        "published_at_utc": "2026-04-29T06:00:08+00:00",
-        "id": "https://www.scmp.com/news/people-culture/trending-china/article/3351667/china-social-media-account-banned-forcing-women-stay-tank-crocodile?utm_source=rss_feed",
-        "topic_type": "social_media",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "A social media account in China with more than 11 million followers which targets juveniles has been banned for forcing young female live-streamers to stay in a tank with a crocodile. The permanent ban also came after the account was exposed of also having made the women hold their breath under water. The account with the handle @Yebali, which means Night Paris in English, had been in operation on the social media platform for five years before it bowed to pressure to close, Jiupai News...",
-          "news_focus_zh": "中國一個擁有超過1100萬追隨者的社交媒體帳號因強迫年輕女性直播者與鱷魚同處於水箱中而被永久禁止。該帳號名為@Yebali（夜巴黎），在社交媒體平台運營了五年，近期因受到壓力而關閉。報導指出，該帳號還曾要求女性在水下屏住呼吸，這一行為引發了廣泛的譴責。",
-          "background": "在中國，社交媒體平台的內容監管日益嚴格，特別是針對青少年的內容。隨著直播文化的興起，許多帳號為了吸引觀眾，常常採取極端或危險的行為來增加觀看率。這種現象引發了社會對於青少年保護的關注，尤其是在涉及身體安全和心理健康的情況下。中國政府也在加強對於這類帳號的監管，以防止不當行為的發生。",
-          "stakeholders": [
-            "社交媒體平台",
-            "年輕女性直播者",
+            "Cambricon Technologies",
+            "元捷半導體技術",
             "中國政府",
-            "觀眾",
-            "社會輿論"
+            "投資者",
+            "科技產業"
           ],
-          "analysis": "該事件突顯了社交媒體平台在內容監管方面的挑戰與責任。對於@Yebali帳號的關閉，反映出社會對於青少年安全的重視，並可能促使其他平台加強對類似行為的監控。此事件也可能引發更廣泛的討論，關於直播文化的道德界限及其對年輕人的影響。儘管目前沒有其他報導提供補充細節，但這一事件的曝光可能促使政府進一步加強對社交媒體內容的規範，並對違規帳號施加更嚴厲的懲罰。"
+          "analysis": "Cambricon的股價飆升顯示出市場對於其未來增長潛力的高度期待，尤其是在AI技術日益重要的背景下。該公司與其他半導體企業如元捷半導體技術的競爭將可能加劇，因為市場對於高效能AI芯片的需求持續上升。此外，Cambricon的成功也可能吸引更多投資者進一步關注中國的科技企業，進而推動整體行業的發展。然而，隨著競爭的加劇，Cambricon未來的增長也面臨挑戰，特別是在技術創新和市場佔有率方面的持續壓力。"
         },
-        "topic_priority_score": 6,
-        "event_type": "regulation_action",
+        "topic_priority_score": 10,
+        "event_type": "commercial_update",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -102,316 +61,324 @@
       },
       {
         "category": "technology",
-        "source_name": "Wired",
-        "title": "Elon Musk Testifies That He Started OpenAI to Prevent a ‘Terminator Outcome’",
-        "link": "https://www.wired.com/story/model-behavior-elon-musk-testifies-at-musk-v-altman-trial/",
-        "summary": "The judge also warned Musk and Sam Altman to curb their “propensity to use social media to make things worse outside the courtroom” after both sides traded attacks online.",
-        "published": "Tue, 28 Apr 2026 21:35:17 +0000",
-        "updated": "Tue, 28 Apr 2026 21:35:17 +0000",
-        "published_at_utc": "2026-04-28T21:35:17+00:00",
-        "id": "69f0dbce6df6d549e4a099d4",
+        "source_name": "The Guardian World",
+        "title": "Families sue OpenAI over failure to report Canada mass shooter’s behavior on ChatGPT",
+        "link": "https://www.theguardian.com/technology/2026/apr/29/openai-tumbler-ridge-shooter-chatgpt-lawsuit",
+        "summary": "New lawsuits allege employees urged company to notify authorities months before deadly Tumbler Ridge attack Families of seven victims of a mass shooting at a secondary school in British Columbia are suing OpenAI and the company’s CEO for negligence after it failed to alert authorities to the shooter’s troubling conversations with ChatGPT. The lawsuits, filed on Wednesday in a federal court in San Francisco, allege that the violent intentions of the shooter, identified as 18-year-old Jesse Van Rootselaar, were well-known to OpenAI. Employees at the company flagged the shooter’s account eight months before the attack and determined that it posed “a credible and specific threat of gun violence against real people”, according to the lawsuit. Continue reading...",
+        "published": "Wed, 29 Apr 2026 13:00:49 GMT",
+        "updated": "2026-04-29T13:00:49Z",
+        "published_at_utc": "2026-04-29T13:00:49+00:00",
+        "id": "https://www.theguardian.com/technology/2026/apr/29/openai-tumbler-ridge-shooter-chatgpt-lawsuit",
         "topic_type": "ai",
         "relevance_score": 19,
         "briefing": {
-          "news_focus": "The judge also warned Musk and Sam Altman to curb their “propensity to use social media to make things worse outside the courtroom” after both sides traded attacks online.",
-          "news_focus_zh": "Elon Musk 在針對 OpenAI 的訴訟中作證，表示他創立 OpenAI 的初衷是為了防止出現類似《終結者》的災難性結果。法官同時警告 Musk 和 OpenAI CEO Sam Altman，要求他們控制在法庭外使用社交媒體的傾向，因為雙方在網上互相攻擊。",
-          "background": "Elon Musk 是 OpenAI 的共同創辦人之一，該公司以開發 ChatGPT 而聞名。Musk 早期投資了高達 3800 萬美元，但隨著對公司結構和使命的分歧，與其他創辦人的關係惡化。Musk 現在要求超過 1300 億美元的賠償，這顯示出他對 OpenAI 現狀的不滿及其對未來人工智慧發展的擔憂。此案件引發了對人工智慧倫理及其潛在風險的廣泛討論。",
+          "news_focus": "New lawsuits allege employees urged company to notify authorities months before deadly Tumbler Ridge attack Families of seven victims of a mass shooting at a secondary school in British Columbia are suing OpenAI and the company’s CEO for negligence after it failed to alert authorities to the shooter’s troubling conversations with ChatGPT. The lawsuits, filed on Wednesday in a federal court in San Francisco, allege that the violent intentions of the shooter, identified as 18-year-old Jesse Van Rootselaar, were well-known to OpenAI. Employees at the company flagged the shooter’s account eight months before the attack and determined that it posed “a credible and specific threat of gun violence against real people”, according to the lawsuit. Continue reading...",
+          "news_focus_zh": "加拿大不列顛哥倫比亞省的七名大屠殺受害者家屬對OpenAI及其CEO提出訴訟，指控其在槍手Jesse Van Rootselaar與ChatGPT的對話中未能及時通報當局，導致悲劇發生。訴訟指出，OpenAI的員工在攻擊前八個月已經標記了槍手的帳號，並認為其行為構成「對真實人員的可信且具體的槍暴威脅」。",
+          "background": "這起事件發生在一所中學，槍手在攻擊前與ChatGPT進行了多次對話，顯示出其暴力傾向。OpenAI作為一家人工智慧公司，負責開發ChatGPT，該平台的使用者可以進行自由對話。根據訴訟，OpenAI內部員工已經意識到這一威脅，但未能採取行動，這引發了對公司責任的質疑。此案在美國加州的聯邦法院提起，涉及的法律問題包括過失和是否應該對用戶的行為負責。",
           "stakeholders": [
-            "Elon Musk",
-            "Sam Altman",
-            "Greg Brockman",
             "OpenAI",
-            "科技產業"
+            "受害者家屬",
+            "法律機構",
+            "公共安全機構",
+            "科技監管機構"
           ],
-          "analysis": "Musk 和 Altman 之間的衝突反映了對人工智慧發展方向的根本分歧。Musk 擔心人工智慧的潛在危險，主張應加強監管，而 Altman 則可能更傾向於推動技術創新和商業化。根據 BBC 的報導，Musk 要求的賠償金額顯示出他對 OpenAI 當前運作的不滿，並可能試圖透過法律途徑重新獲得對公司的影響力。The Verge 的報導強調了三位創辦人之間的關係惡化，這不僅是個人之間的衝突，也反映了科技行業內部對於企業治理和倫理責任的深層次爭議。未來，這場訴訟可能會對人工智慧的發展政策及行業規範產生重要影響。"
+          "analysis": "此次訴訟引發了對於科技公司在用戶行為監控及其法律責任的廣泛討論。OpenAI面臨的挑戰在於，如何平衡用戶隱私與公共安全之間的界限。根據BBC的報導，訴訟指控OpenAI及其CEO Sam Altman在未能及時標記槍手的行為上存在過失，這與主新聞中的指控一致，強調了公司內部對於潛在威脅的認知。隨著案件的發展，可能會引發更多關於人工智慧平台的監管討論，特別是在如何處理用戶生成內容及其潛在風險方面。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "regulation_action",
+        "supporting_sources": [
+          "BBC World"
+        ],
+        "supporting_titles": [
+          "Seven lawsuits filed against OpenAI by families of Canada mass-shooting victims"
+        ],
+        "supporting_summaries": [
+          "The lawsuits, filed in California, accuse OpenAI and Sam Altman of negligence and abetting a mass shooting by failing to flag the suspect's ChatGPT activity."
+        ],
+        "supporting_links": [
+          "https://www.bbc.com/news/articles/c99l03k0ly4o?at_medium=RSS&at_campaign=rss"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "technology",
+        "source_name": "Reuters",
+        "title": "Anthropic weighs new funding round at valuation exceeding $900 billion, Bloomberg News reports - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTnd3bDhqMEVNc010WnRNc0hza0hNMWJ2bmlWVExTSU9QNVBYTjB2REtBMFBRSmVkX1ZXWVk1c0xkTXhYd0lBLUREeS1VaEhjVGh0SnRZdnQ4dmc2S1hxVS1valIzUnQySlp3dm9tT0hzWDNiTWdhRzlPaEEwVVRBa2RpVWV2WDJMM2FRWGNjZEVzYzQ4aGwyWFR6YlZkb2ljSVU1LUVWSmxUcWNFUWM0VTBFVDMzbUlWTGVhOFpoQldiWDVJVTUxdnIyTXUzTE1mODBj?oc=5",
+        "summary": "Anthropic weighs new funding round at valuation exceeding $900 billion, Bloomberg News reports Reuters",
+        "published": "Wed, 29 Apr 2026 22:46:00 GMT",
+        "updated": "Wed, 29 Apr 2026 22:46:00 GMT",
+        "published_at_utc": "2026-04-29T22:46:00+00:00",
+        "id": "CBMi0wFBVV95cUxOTnd3bDhqMEVNc010WnRNc0hza0hNMWJ2bmlWVExTSU9QNVBYTjB2REtBMFBRSmVkX1ZXWVk1c0xkTXhYd0lBLUREeS1VaEhjVGh0SnRZdnQ4dmc2S1hxVS1valIzUnQySlp3dm9tT0hzWDNiTWdhRzlPaEEwVVRBa2RpVWV2WDJMM2FRWGNjZEVzYzQ4aGwyWFR6YlZkb2ljSVU1LUVWSmxUcWNFUWM0VTBFVDMzbUlWTGVhOFpoQldiWDVJVTUxdnIyTXUzTE1mODBj",
+        "topic_type": "ai",
+        "relevance_score": 17,
+        "briefing": {
+          "news_focus": "Anthropic weighs new funding round at valuation exceeding $900 billion, Bloomberg News reports Reuters",
+          "news_focus_zh": "根據彭博社的報導，人工智慧公司Anthropic正在考慮進行新一輪的融資，估值超過9000億美元。此消息引起市場的關注，顯示出該公司在人工智慧領域的潛力與吸引力。",
+          "background": "Anthropic是一家專注於人工智慧技術的公司，尤其以其開發的Claude模型而聞名。隨著人工智慧技術的迅速發展，市場對於相關公司的投資興趣日益增加。近期，許多投資者對Anthropic表現出強烈的興趣，這反映出市場對於人工智慧未來潛力的看好。此時，Anthropic正處於一個關鍵的成長階段，尋求進一步的資金來擴展其技術與市場佔有率。",
+          "stakeholders": [
+            "Anthropic",
+            "投資者",
+            "競爭對手",
+            "市場分析師"
+          ],
+          "analysis": "根據TechCrunch的報導，Anthropic可能會在估值8500億至9000億美元的範圍內，進行一輪高達500億美元的融資。這顯示出市場對於Anthropic的信心，並且可能吸引更多的投資者參與。然而，這也可能引發競爭對手的關注，特別是在人工智慧領域內，其他公司也在尋求類似的資金支持。不同報導強調的焦點在於估值範圍的差異，TechCrunch提供了更具體的數字，顯示出市場對於Anthropic的多重投資意向，這可能會影響其未來的融資策略與市場定位。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
         "supporting_sources": [
-          "BBC Business",
-          "The Verge"
+          "TechCrunch"
         ],
         "supporting_titles": [
-          "Why Elon Musk and Sam Altman are fighting over OpenAI",
-          "Elon Musk takes the stand in high-profile trial against OpenAI"
+          "Sources: Anthropic could raise a new $50B round at a valuation of $900B"
         ],
         "supporting_summaries": [
-          "Musk, who co-founded the company that created ChatGPT with Altman, wants more than $130bn in damages.",
-          "Elon Musk officially began his testimony in the trial he has brought against OpenAI CEO Sam Altman and company president Greg Brockman. The three were on the initial founding team of OpenAI, with Musk investing up to $38 million early on before the co-founders' relationship soured over disagreements over company structure and mission, including whether […]"
+          "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter."
         ],
         "supporting_links": [
-          "https://www.bbc.com/news/videos/ckger3y52k2o?at_medium=RSS&at_campaign=rss",
-          "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman"
+          "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/"
         ],
-        "source_count": 3
+        "source_count": 2
       }
     ],
     "politics": [
       {
         "category": "politics",
         "source_name": "SCMP World",
-        "title": "US economic gap over China to widen, but Iran might bring them closer: former UN official",
-        "link": "https://www.scmp.com/economy/global-economy/article/3351732/us-economic-gap-over-china-widen-iran-might-bring-them-closer-former-un-official?utm_source=rss_feed",
-        "summary": "The economic divide between the United States and China is projected to widen to US$11 trillion by the end of the decade, yet escalating geopolitics – specifically the war in Iran and the ongoing Strait of Hormuz crisis – could inadvertently act as a stabilising force for bilateral ties, according to a prominent global strategist. Kishore Mahbubani, former president of the UN Security Council and once a top diplomat from Singapore, has forecast that the gross-domestic-product disparity between...",
-        "published": "Wed, 29 Apr 2026 01:00:18 +0000",
-        "updated": "Wed, 29 Apr 2026 01:00:18 +0000",
-        "published_at_utc": "2026-04-29T01:00:18+00:00",
-        "id": "https://www.scmp.com/economy/global-economy/article/3351732/us-economic-gap-over-china-widen-iran-might-bring-them-closer-former-un-official?utm_source=rss_feed",
+        "title": "Brics to push for intra-currency payments as ‘immunity’ against Western clout",
+        "link": "https://www.scmp.com/week-asia/economics/article/3351860/brics-push-intra-currency-payments-immunity-against-western-clout?utm_source=rss_feed",
+        "summary": "Brics nations are assessing whether a digital payments framework linking their currencies could lessen the impact of Western sanctions, tariffs and US dollar volatility without destabilising the Washington-led global financial system. Under the plan proposed by India’s central bank, Brics is looking to allow cross-border transactions to be settled in local currencies. Its feasibility depends on how far the bloc’s members can lessen their reliance on Western-controlled payment channels without...",
+        "published": "Thu, 30 Apr 2026 00:00:23 +0000",
+        "updated": "Thu, 30 Apr 2026 00:00:23 +0000",
+        "published_at_utc": "2026-04-30T00:00:23+00:00",
+        "id": "https://www.scmp.com/week-asia/economics/article/3351860/brics-push-intra-currency-payments-immunity-against-western-clout?utm_source=rss_feed",
         "topic_type": "diplomacy",
-        "relevance_score": 23,
+        "relevance_score": 25,
         "briefing": {
-          "news_focus": "The economic divide between the United States and China is projected to widen to US$11 trillion by the end of the decade, yet escalating geopolitics – specifically the war in Iran and the ongoing Strait of Hormuz crisis – could inadvertently act as a stabilising force for bilateral ties, according to a prominent global strategist. Kishore Mahbubani, former president of the UN Security Council and once a top diplomat from Singapore, has forecast that the gross-domestic-product disparity between...",
-          "news_focus_zh": "根據前聯合國官員基肖爾·馬哈布巴尼的預測，到2030年底，美國與中國之間的經濟差距將擴大至11萬億美元。然而，伊朗的戰爭及霍爾木茲海的危機可能會意外地成為穩定雙邊關係的力量。馬哈布巴尼指出，這些地緣政治因素可能促使美中兩國在某些議題上展開合作。",
-          "background": "美國與中國之間的經濟競爭持續升溫，兩國在貿易、科技及地緣政治等多方面的對抗愈演愈烈。根據馬哈布巴尼的觀察，這種競爭將在未來幾年內進一步加劇，尤其是在美國對中國的政策上，可能會導致經濟差距的擴大。另一方面，伊朗的戰爭及霍爾木茲海的局勢也在影響全球能源市場，進一步加劇了地緣政治的緊張局勢。",
+          "news_focus": "Brics nations are assessing whether a digital payments framework linking their currencies could lessen the impact of Western sanctions, tariffs and US dollar volatility without destabilising the Washington-led global financial system. Under the plan proposed by India’s central bank, Brics is looking to allow cross-border transactions to be settled in local currencies. Its feasibility depends on how far the bloc’s members can lessen their reliance on Western-controlled payment channels without...",
+          "news_focus_zh": "金磚國家（Brics）正在評估一項數位支付框架，旨在透過連結其貨幣來減少西方制裁、關稅及美元波動的影響。此計劃由印度中央銀行提出，目的是允許金磚國家之間的跨境交易以當地貨幣結算。該計劃的可行性取決於金磚成員國在多大程度上能減少對西方控制的支付渠道的依賴。",
+          "background": "金磚國家包括巴西、俄羅斯、印度、中國及南非，這些國家在全球經濟中扮演著日益重要的角色。隨著西方國家對某些金磚成員實施制裁，這些國家開始尋求減少對美元及西方金融體系的依賴。數位支付框架的提出，反映出金磚國家希望建立更自主的經濟合作模式，以應對外部壓力。此舉也與全球金融體系的變化相呼應，尤其是在數位貨幣及區塊鏈技術日益興起的背景下。",
           "stakeholders": [
-            "美國",
-            "中國",
-            "伊朗",
-            "全球能源市場",
-            "國際社會"
+            "金磚國家成員",
+            "印度中央銀行",
+            "西方國家",
+            "全球金融機構",
+            "國際貿易企業"
           ],
-          "analysis": "馬哈布巴尼的觀點指出，儘管美中之間的經濟差距將持續擴大，但伊朗的局勢可能會迫使兩國在某些方面進行合作，特別是在穩定能源供應及地區安全上。參考報導中提到，美國應考慮解除對伊朗的封鎖，以促進霍爾木茲海的通行，這可能會影響美國在中東的戰略布局。另一方面，另一報導則指出中國對伊朗的支持正在加強，這可能會使美中之間的競爭更加複雜。這些因素共同塑造了未來美中關係的動態，顯示出在競爭與合作之間的微妙平衡。"
+          "analysis": "金磚國家推動的數位支付框架，顯示出這些國家對於減少西方影響力的強烈需求。各成員國的經濟結構和對美元的依賴程度不同，這可能會影響該計劃的實施效果。例如，中國的經濟規模及其在全球貿易中的地位，可能使其在推動此計劃中扮演關鍵角色，而其他國家如巴西和南非可能在技術或政策上面臨挑戰。此外，該計劃的成功與否也取決於金磚國家能否建立有效的支付系統，並獲得成員國的廣泛支持，這在當前地緣政治緊張的背景下尤為重要。"
         },
         "topic_priority_score": 7,
-        "event_type": "security_event",
-        "supporting_sources": [
-          "The Hindu International",
-          "The Diplomat"
-        ],
-        "supporting_titles": [
-          "​Battle of wills: On the U.S. war on Iran",
-          "Helping Iran, China Is a Party in the War"
-        ],
-        "supporting_summaries": [
-          "The U.S. should lift its blockade so that Iran can open the Strait of Hormuz",
-          "Several reports in recent weeks have revealed the extent of China’s active support for Iran."
-        ],
-        "supporting_links": [
-          "https://www.thehindu.com/opinion/editorial/battle-of-wills-on-the-us-war-on-iran/article70916472.ece",
-          "https://thediplomat.com/2026/04/helping-iran-china-is-a-party-in-the-war/"
-        ],
-        "source_count": 3
+        "event_type": "diplomatic_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       },
       {
         "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "Wednesday briefing: Where Starmer stands after another precarious day in parliament",
-        "link": "https://www.theguardian.com/world/2026/apr/29/wednesday-briefing-where-starmer-stands-after-another-precarious-day-in-parliament",
-        "summary": "In today’s newsletter: As Labour braces for heavy local election losses, senior figures ​are signalling unease and​ morale ​is sinking​, can the prime minister hang on? Good morning. Keir Starmer is on thin ice. The prime minister survived a bruising Tuesday in the Commons as MPs continued to scrutinise his account of the decision to appoint Peter Mandelson as US ambassador. Almost all Labour MPs backed Starmer in a key vote on whether he should face an inquiry into whether he misled parliament. But in Westminster there is a growing feeling that the Labour leader is on borrowed time. Next week’s local and parliamentary elections, which Starmer will face as one of the most unpopular prime ministers since records began, is likely to see public dissatisfaction crystallise. “He’s in last chance saloon,” one minister said after last night’s vote. US | King Charles has extolled the importance of Britain’s “special relationship” with the US in a speech to Congress that made pointed reference to the importance of Nato, the defence of Ukraine and the climate crisis. Middle East | Britain is facing a £35bn economic hit and the risk of a recession this year as the fallout from the Iran war adds to the pressure on Keir Starmer’s government, the National Institute of Economic and Social Research (Niesr) has warned. Oil | The UAE has quit the Opec oil cartel after 60 years of membership, in a heavy blow to the group and its de facto leader, Saudi Arabia, as global energy markets contend with the biggest supply crisis in history. UK news | The chair of NatWest was forced to defend the bank against accusations of “climate backtracking” at a chaotic annual shareholder meeting, which was temporarily suspended owing to singing protesters. Women’s rights | Fifa has given permission for Afghan Women United – a squad composed of refugees scattered around the world in Australia, the Middle East and Europe – to represent Afghanistan in official competitions without requiring the approval of the Taliban , which banned the team. Continue reading...",
-        "published": "Wed, 29 Apr 2026 05:45:07 GMT",
-        "updated": "2026-04-29T05:45:07Z",
-        "published_at_utc": "2026-04-29T05:45:07+00:00",
-        "id": "https://www.theguardian.com/world/2026/apr/29/wednesday-briefing-where-starmer-stands-after-another-precarious-day-in-parliament",
-        "topic_type": "uk_politics",
-        "relevance_score": 22,
+        "source_name": "BBC World",
+        "title": "King and Queen lay flowers at 9/11 Memorial in New York",
+        "link": "https://www.bbc.com/news/articles/cd7pxnv4j7ro?at_medium=RSS&at_campaign=rss",
+        "summary": "King Charles and Queen Camilla on their state visit to the US visit the memorial in New York.",
+        "published": "Thu, 30 Apr 2026 06:30:56 GMT",
+        "updated": "Thu, 30 Apr 2026 06:30:56 GMT",
+        "published_at_utc": "2026-04-30T06:30:56+00:00",
+        "id": "https://www.bbc.com/news/articles/cd7pxnv4j7ro#1",
+        "topic_type": "diplomacy",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "In today’s newsletter: As Labour braces for heavy local election losses, senior figures ​are signalling unease and​ morale ​is sinking​, can the prime minister hang on? Good morning. Keir Starmer is on thin ice. The prime minister survived a bruising Tuesday in the Commons as MPs continued to scrutinise his account of the decision to appoint Peter Mandelson as US ambassador. Almost all Labour MPs backed Starmer in a key vote on whether he should face an inquiry into whether he misled parliament. But in Westminster there is a growing feeling that the Labour leader is on borrowed time. Next week’s local and parliamentary elections, which Starmer will face as one of the most unpopular prime ministers since records began, is likely to see public dissatisfaction crystallise. “He’s in last chance saloon,” one minister said after last night’s vote. US | King Charles has extolled the importance of Britain’s “special relationship” with the US in a speech to Congress that made pointed reference to the importance of Nato, the defence of Ukraine and the climate crisis. Middle East | Britain is facing a £35bn economic hit and the risk of a recession this year as the fallout from the Iran war adds to the pressure on Keir Starmer’s government, the National Institute of Economic and Social Research (Niesr) has warned. Oil | The UAE has quit the Opec oil cartel after 60 years of membership, in a heavy blow to the group and its de facto leader, Saudi Arabia, as global energy markets contend with the biggest supply crisis in history. UK news | The chair of NatWest was forced to defend the bank against accusations of “climate backtracking” at a chaotic annual shareholder meeting, which was temporarily suspended owing to singing protesters. Women’s rights | Fifa has given permission for Afghan Women United – a squad composed of refugees scattered around the world in Australia, the Middle East and Europe – to represent Afghanistan in official competitions without requiring the approval of the Taliban , which banned the team. Continue reading...",
-          "news_focus_zh": "英國首相基爾·斯塔默（Keir Starmer）在國會面臨重大壓力，尤其是針對他任命彼得·曼德爾森（Peter Mandelson）為美國大使的決定。儘管大多數工黨議員在關鍵投票中支持他，國會內部卻出現對其領導地位的懷疑聲音。隨著即將到來的地方及國會選舉，斯塔默的支持率創下歷史新低，許多觀察者認為他正處於「最後機會」的境地。",
-          "background": "目前英國正面臨經濟挑戰，包括因伊朗戰爭導致的350億英鎊經濟損失和潛在的衰退風險。這些因素進一步加大了斯塔默政府的壓力。工黨在即將舉行的地方選舉中可能遭遇重大損失，這使得斯塔默的領導地位受到質疑。此外，斯塔默的前首席幕僚已對曼德爾森的任命表示歉意，承認這是一個「嚴重錯誤」，進一步加深了外界對其決策能力的懷疑。",
+          "news_focus": "King Charles and Queen Camilla on their state visit to the US visit the memorial in New York.",
+          "news_focus_zh": "英國國王查爾斯三世與皇后卡米拉在美國國事訪問期間，前往紐約的911紀念館獻花，表達對於911恐怖攻擊受害者的悼念。這一行動象徵著英美之間的深厚聯繫與友誼。",
+          "background": "911恐怖攻擊發生於2001年，對美國及全球的政治與社會產生了深遠影響。隨著時間推移，911紀念館成為悼念受害者的重要場所，並吸引了來自世界各地的訪客。英國與美國之間的關係歷史悠久，兩國在多個領域，包括安全、經濟及文化上都有密切的合作。查爾斯國王的訪問正值這一關係的重要時刻，強調了兩國在面對全球挑戰時的團結。",
           "stakeholders": [
-            "基爾·斯塔默",
-            "彼得·曼德爾森",
-            "工黨議員",
-            "選民",
-            "經濟學家"
+            "英國王室",
+            "美國政府",
+            "911紀念館管理方",
+            "國際媒體",
+            "歷史學者"
           ],
-          "analysis": "在這一背景下，斯塔默的領導地位面臨多重挑戰。工黨內部對於即將到來的選舉結果感到不安，許多高層人士對其未來表示擔憂。參考報導指出，斯塔默的前首席幕僚對曼德爾森的任命表示歉意，這可能會加劇外界對斯塔默的質疑。各方對於斯塔默的支持與反對聲音交織，部分工黨成員認為他應該承擔更多責任，而其他人則擔心更換領導人可能導致更大的不穩定。隨著選舉的臨近，斯塔默必須迅速提升其支持率，否則可能面臨更大的政治危機。"
+          "analysis": "查爾斯國王與皇后在911紀念館獻花的行為，除了是對過去事件的悼念，也傳達出英國對美國的支持，強調兩國之間的特殊關係。參考報導指出，查爾斯國王在此次訪問中強調了美英之間的聯繫，這對於當前國際局勢中的合作與對話至關重要。不同報導的重點在於，BBC專注於具體的行動與悼念，而台北時報則強調了兩國之間的關係，顯示出不同媒體對於同一事件的不同解讀。未來，隨著國際局勢的變化，英美關係可能會面臨新的挑戰與機會。"
         },
-        "topic_priority_score": 9,
-        "event_type": "election_move",
+        "topic_priority_score": 7,
+        "event_type": "political_signal",
         "supporting_sources": [
-          "The Hindu International",
           "Taipei Times"
         ],
         "supporting_titles": [
-          "Starmer’s ex-chief of staff says sorry over Mandelson appointment as UK leader faces more pressure",
-          "Player says FIFA has made mockery of policy"
+          "King Charles highlights US-UK bond"
         ],
         "supporting_summaries": [
-          "U.K. Prime Minister Keir Starmer’s former chief of staff says that he made a “serious mistake” by recommending Peter Mandelson’s appointment as U.K. ambassador to the United States",
           ""
         ],
         "supporting_links": [
-          "https://www.thehindu.com/news/international/starmers-ex-chief-of-staff-says-sorry-over-mandelson-appointment-as-uk-leader-faces-more-pressure/article70917614.ece",
-          "https://www.taipeitimes.com/News/sport/archives/2026/04/29/2003856429"
+          "https://www.taipeitimes.com/News/world/archives/2026/04/30/2003856514"
         ],
-        "source_count": 3
+        "source_count": 2
       },
       {
         "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "US in tough spot as it tries to avoid deal that highlights its failures in Iran",
-        "link": "https://www.theguardian.com/world/2026/apr/29/us-tough-spot-deal-highlights-failures-iran-war-strait-of-hormuz-nuclear-weapon",
-        "summary": "Washington facing long economic war or risky military action to reopen strait of Hormuz – which may now be more valuable to Iran than a nuclear weapon Donald Trump is learning first-hand about the perils of mission creep. The US-Israel war in Iran has just passed its eighth week – twice as long as the president predicted it would take when US warplanes launched their joint attack with Israeli forces to decapitate the Iranian leadership and paralyse its military. The military attacks were successful. The predictions about the political cause-and-effect to follow were not. Continue reading...",
-        "published": "Wed, 29 Apr 2026 08:40:39 GMT",
-        "updated": "2026-04-29T08:40:39Z",
-        "published_at_utc": "2026-04-29T08:40:39+00:00",
-        "id": "https://www.theguardian.com/world/2026/apr/29/us-tough-spot-deal-highlights-failures-iran-war-strait-of-hormuz-nuclear-weapon",
-        "topic_type": "us_politics",
-        "relevance_score": 20,
+        "source_name": "SCMP World",
+        "title": "Why China’s jet fuel deal with Australia underscores Canberra’s balancing act",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3351964/why-chinas-jet-fuel-deal-australia-underscores-canberras-balancing-act?utm_source=rss_feed",
+        "summary": "China will work with Australian businesses on jet fuel shipments in an important “first step” in alleviating supply crunches, according to Australian Foreign Minister Penny Wong. The agreement came on Wednesday as part of Wong’s talks in Beijing with her Chinese counterpart, Wang Yi. “Inputs China supplies to Australia, including jet fuel, support the Australian resources sector, which in turn helps to maintain the flow of commodities that are so important in the bilateral trading relationship,”...",
+        "published": "Thu, 30 Apr 2026 06:16:19 +0000",
+        "updated": "Thu, 30 Apr 2026 06:16:19 +0000",
+        "published_at_utc": "2026-04-30T06:16:19+00:00",
+        "id": "https://www.scmp.com/news/china/diplomacy/article/3351964/why-chinas-jet-fuel-deal-australia-underscores-canberras-balancing-act?utm_source=rss_feed",
+        "topic_type": "diplomacy",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Washington facing long economic war or risky military action to reopen strait of Hormuz – which may now be more valuable to Iran than a nuclear weapon Donald Trump is learning first-hand about the perils of mission creep. The US-Israel war in Iran has just passed its eighth week – twice as long as the president predicted it would take when US warplanes launched their joint attack with Israeli forces to decapitate the Iranian leadership and paralyse its military. The military attacks were successful. The predictions about the political cause-and-effect to follow were not. Continue reading...",
-          "news_focus_zh": "美國在與以色列共同對伊朗發動的軍事行動已經持續八週，這一行動的初衷是削弱伊朗的軍事能力並推翻其領導層。然而，儘管軍事攻擊取得了一定的成功，政治後果卻未如預期。美國目前面臨兩難局面，既要避免達成可能突顯其在伊朗失敗的協議，又需考慮是否重新開放霍爾木茲海峽，這對伊朗來說可能比核武器更具價值。",
-          "background": "美國與伊朗之間的緊張關係由來已久，尤其是在美國對伊朗實施經濟制裁的背景下。霍爾木茲海峽是全球重要的石油運輸通道，控制該地區的能力對於兩國的戰略意圖至關重要。美國的軍事行動旨在削弱伊朗的影響力，但隨著時間推移，這些行動的政治效果卻未能如預期般顯現，反而使得美國在國際社會中的立場更加脆弱。",
+          "news_focus": "China will work with Australian businesses on jet fuel shipments in an important “first step” in alleviating supply crunches, according to Australian Foreign Minister Penny Wong. The agreement came on Wednesday as part of Wong’s talks in Beijing with her Chinese counterpart, Wang Yi. “Inputs China supplies to Australia, including jet fuel, support the Australian resources sector, which in turn helps to maintain the flow of commodities that are so important in the bilateral trading relationship,”...",
+          "news_focus_zh": "中國與澳大利亞達成了一項重要的噴氣燃料協議，這被視為緩解供應緊張的第一步。澳大利亞外交部長彭妮·黃在北京與中國外長王毅會談時宣布了這一協議。黃表示，中國對澳大利亞的噴氣燃料供應將支持澳大利亞的資源部門，並有助於維持雙邊貿易中重要商品的流通。",
+          "background": "近年來，中澳兩國的貿易關係經歷了波折，尤其是在政治緊張的背景下。中國是澳大利亞最大的貿易夥伴之一，雙方在資源、農產品等領域有著密切的合作。隨著全球供應鏈的變化，特別是在能源和原材料方面，兩國都面臨著供應短缺的挑戰。此次噴氣燃料協議的達成，反映出澳大利亞在維持與中國的經濟關係同時，也在努力平衡其外交政策，以應對國際市場的需求。",
           "stakeholders": [
-            "美國政府",
-            "伊朗政府",
-            "以色列政府",
-            "國際社會",
-            "石油市場"
+            "中國政府",
+            "澳大利亞政府",
+            "澳大利亞資源企業",
+            "國際市場",
+            "雙邊貿易夥伴"
           ],
-          "analysis": "美國目前面臨的困境在於，若繼續維持對伊朗的經濟封鎖，可能會導致長期的經濟戰，甚至引發更大規模的軍事衝突。根據《The Hindu International》的報導，解除封鎖可能是促進對話的關鍵，而《Al Jazeera》則指出，特朗普已經收到伊朗方面的要求，希望美方能解除對其港口的海軍封鎖。這顯示出伊朗在談判中的主動性，並可能影響美國的決策。各方的利益在此時交織，未來的發展將取決於美國是否願意調整其策略，以避免進一步的軍事升級。"
+          "analysis": "此次噴氣燃料協議的達成，顯示出澳大利亞在中美競爭加劇的背景下，試圖維持與中國的經濟合作。澳大利亞政府希望通過這樣的協議，來穩定其能源供應，並促進本國的資源產業。然而，這也可能引發國內外對於澳大利亞外交政策的不同看法，尤其是在某些政治派別對中國的警惕性上。中國方面則可能會利用這一協議來加強其在亞太地區的影響力，並展現其作為穩定供應國的角色。未來，雙方在其他領域的合作可能會受到此次協議的影響，進一步深化或是受到政治因素的制約。"
         },
-        "topic_priority_score": 8,
-        "event_type": "security_event",
-        "supporting_sources": [
-          "The Hindu International",
-          "Al Jazeera"
-        ],
-        "supporting_titles": [
-          "​Battle of wills: On the U.S. war on Iran",
-          "Iran war live: Trump threatens Iran to ‘get smart soon’ amid stalled talks"
-        ],
-        "supporting_summaries": [
-          "The U.S. should lift its blockade so that Iran can open the Strait of Hormuz",
-          "US president says Iran has reached out and asked Washington to lift its naval blockade on Iranian ports."
-        ],
-        "supporting_links": [
-          "https://www.thehindu.com/opinion/editorial/battle-of-wills-on-the-us-war-on-iran/article70916472.ece",
-          "https://www.aljazeera.com/news/liveblog/2026/4/29/iran-war-live-trump-says-tehran-wants-end-to-blockade-israel-kills-medics?traffic_source=rss"
-        ],
-        "source_count": 3
+        "topic_priority_score": 7,
+        "event_type": "diplomatic_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       }
     ],
     "economy": [
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Lloyds takes £151m hit from Iran war as it forecasts rise in UK unemployment",
-        "link": "https://www.theguardian.com/business/2026/apr/29/lloyds-iran-war-forecasts-rise-in-uk-unemployment",
-        "summary": "Bank expects its base case for GDP growth to be 0.5% this year, lower than IMF’s 0.8% prediction for Britain Business live – latest updates Lloyds has warned that the economic fallout from the Middle East conflict could cost it £151m amid rising unemployment and inflation and a slowdown in the housing market. The FTSE 100 group, whose brands include Lloyds Bank, Halifax and Bank of Scotland, issued a downbeat economic forecast that it said reflects the stagflationary consequences – the double hit of rising inflation at the same time as slower economic growth – for the UK and global economies. Continue reading...",
-        "published": "Wed, 29 Apr 2026 09:06:35 GMT",
-        "updated": "2026-04-29T09:06:35Z",
-        "published_at_utc": "2026-04-29T09:06:35+00:00",
-        "id": "https://www.theguardian.com/business/2026/apr/29/lloyds-iran-war-forecasts-rise-in-uk-unemployment",
-        "topic_type": "inflation",
-        "relevance_score": 25,
+        "source_name": "SCMP Business",
+        "title": "StanChart profit rises 19% as wealth management offsets lower rates and rising bad loans",
+        "link": "https://www.scmp.com/business/banking-finance/article/3351966/stanchart-profit-rises-19-wealth-management-offsets-lower-rates-and-rising-bad-loans?utm_source=rss_feed",
+        "summary": "Standard Chartered’s first-quarter profit rose 19 per cent as it achieved strong wealth-management performance, which was offset by lower interest rates and rising bad debt provisions due to the Middle East conflicts. Net profit increased 19 per cent year on year in the first three months of 2026 to US$1.9 billion, or 74.2 US cents per share, from US$1.59 billion a year earlier, the bank said on Thursday. The result was better than analysts’ estimates of US$1.33 billion. The bank’s pre-tax...",
+        "published": "Thu, 30 Apr 2026 06:35:33 +0000",
+        "updated": "Thu, 30 Apr 2026 06:35:33 +0000",
+        "published_at_utc": "2026-04-30T06:35:33+00:00",
+        "id": "https://www.scmp.com/business/banking-finance/article/3351966/stanchart-profit-rises-19-wealth-management-offsets-lower-rates-and-rising-bad-loans?utm_source=rss_feed",
+        "topic_type": "interest_rates",
+        "relevance_score": 27,
         "briefing": {
-          "news_focus": "Bank expects its base case for GDP growth to be 0.5% this year, lower than IMF’s 0.8% prediction for Britain Business live – latest updates Lloyds has warned that the economic fallout from the Middle East conflict could cost it £151m amid rising unemployment and inflation and a slowdown in the housing market. The FTSE 100 group, whose brands include Lloyds Bank, Halifax and Bank of Scotland, issued a downbeat economic forecast that it said reflects the stagflationary consequences – the double hit of rising inflation at the same time as slower economic growth – for the UK and global economies. Continue reading...",
-          "news_focus_zh": "Lloyds銀行預測，由於中東衝突的經濟影響，將面臨1.51億英鎊的損失，並預測英國失業率上升。該行的GDP增長預測為0.5%，低於國際貨幣基金組織的0.8%預測。Lloyds指出，這反映了英國及全球經濟的滯脹後果，即在經濟增長放緩的同時，通脹上升的雙重打擊。",
-          "background": "Lloyds銀行是英國主要的金融機構之一，其業務涵蓋多個品牌，包括Lloyds Bank、Halifax和Bank of Scotland。近期中東地區的衝突加劇，對全球經濟造成了不確定性，特別是在能源價格和供應鏈方面。英國經濟正面臨通脹上升和增長放緩的挑戰，這使得金融機構如Lloyds必須重新評估其經濟預測和風險管理策略。根據IMF的預測，英國的經濟增長將低於預期，這可能進一步影響消費者信心和投資活動。",
+          "news_focus": "Standard Chartered’s first-quarter profit rose 19 per cent as it achieved strong wealth-management performance, which was offset by lower interest rates and rising bad debt provisions due to the Middle East conflicts. Net profit increased 19 per cent year on year in the first three months of 2026 to US$1.9 billion, or 74.2 US cents per share, from US$1.59 billion a year earlier, the bank said on Thursday. The result was better than analysts’ estimates of US$1.33 billion. The bank’s pre-tax...",
+          "news_focus_zh": "標準渣打銀行（Standard Chartered）在2026年第一季度的淨利潤同比增長19%，達到19億美元，超過分析師預期的13.3億美元。儘管面臨低利率和因中東衝突導致的壞帳準備金上升，該行的財富管理業務表現強勁，成為利潤增長的主要推動力。每股收益為74.2美分，顯示出該行在困難環境中的韌性。",
+          "background": "標準渣打銀行在全球金融市場中扮演著重要角色，特別是在亞洲和非洲地區。隨著全球經濟的不穩定性增加，尤其是中東地區的衝突，銀行業面臨著利率下調和壞帳風險上升的挑戰。財富管理業務的增長成為銀行在逆境中保持盈利的關鍵因素。這一趨勢反映了消費者對資產管理和投資服務的需求增加，尤其是在不確定的經濟環境中。",
           "stakeholders": [
-            "Lloyds銀行",
-            "英國政府",
-            "消費者",
+            "標準渣打銀行",
             "投資者",
-            "能源市場"
+            "消費者",
+            "中東地區企業",
+            "金融分析師"
           ],
-          "analysis": "Lloyds銀行的預測顯示出中東衝突對經濟的直接影響，特別是在失業和通脹上升的背景下。該行的損失預測反映了其對未來經濟環境的悲觀態度，尤其是在房地產市場放緩的情況下。參考報導指出，儘管Lloyds銀行的利潤上升了33%，但其對未來的警告顯示出經濟不確定性對金融機構的影響。與此同時，The Economist的報導提到可再生能源在此背景下的吸引力上升，顯示出市場對能源政策的重新評估。這些不同的焦點反映出各方對經濟前景的不同看法，Lloyds專注於短期風險，而其他報導則可能更關注長期的能源轉型。"
+          "analysis": "標準渣打銀行的利潤增長顯示出其在財富管理領域的成功，這一業務線的增長幫助銀行抵消了低利率和壞帳準備金上升的影響。根據參考報導，其他企業如保時捷（Porsche）則因中東問題而面臨利潤下降，顯示出該地區的經濟挑戰對不同企業的影響不一。這表明，雖然標準渣打銀行在某些業務上表現良好，但整體市場環境仍然不穩定，未來可能會影響其持續增長的能力。"
         },
-        "topic_priority_score": 9,
-        "event_type": "inflation_data",
+        "topic_priority_score": 10,
+        "event_type": "rate_decision",
         "supporting_sources": [
-          "Reuters",
-          "The Economist"
+          "The Economist",
+          "Reuters"
         ],
         "supporting_titles": [
-          "Lloyds Bank reports 33% rise in profit, warns of Iran war impact - Reuters",
-          "Renewables are shining. The Iran war amplifies their appeal"
+          "Is it better to rent or buy?",
+          "Porsche adds Middle East to list of problems as first-quarter profit falls - Reuters"
         ],
         "supporting_summaries": [
-          "Lloyds Bank reports 33% rise in profit, warns of Iran war impact Reuters",
-          "Two new reports are a must-read of energy-starved governments"
+          "Much depends on long-term interest rates",
+          "Porsche adds Middle East to list of problems as first-quarter profit falls Reuters"
         ],
         "supporting_links": [
-          "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNnEwVFkzeHFJQ1hUMzU3QllwcG9kNTFVb1RFT0E1QzlaV3hfTFVUbzZENnpsN1psVDM2cWdVZkR3ck5JVnlsTnpySG1jQnRxejUzNlFfMERXaGVxeFFndzJGSXB6MjRSN2Q1N09KMEhrR2ZJSFgxUEhTa0hoYU9xbV9QSjhqWnBuMHoydmJlY1RiSEtvOElRWElrSTg4M19mR0I5c3c4SkMxdEFYd2Fr?oc=5",
-          "https://www.economist.com/finance-and-economics/2026/04/23/renewables-are-shining-the-iran-war-amplifies-their-appeal"
+          "https://www.economist.com/finance-and-economics/2026/01/07/is-it-better-to-rent-or-buy",
+          "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVHc1YmJERVpaREM3cDJtVTY0MUktYUZUTG13aURySkcxSGhueTZXN1QyWC1rLU1na01MWUtNQW9tVUdQSVRySUZzOC1NZFJwV01Vb1o3M1RWZmxwai1hRnlfMGtMT0FSOVJCbXRucVYxVlBMTUV1NEpHckwxYzB0dmNMdHpWUXZLdFUzNWhkSVFXczNRZDBRYjloeEZiME1RS2d0YU9nWDduazM3b2xUYnV5LUVXRHl0YWU2cQ?oc=5"
         ],
         "source_count": 3
       },
       {
         "category": "economy",
         "source_name": "SCMP Business",
-        "title": "China oil stocks rise as crude rally lifts Sinopec, CNOOC earnings",
-        "link": "https://www.scmp.com/business/china-business/article/3351788/china-oil-stocks-rise-crude-rally-lifts-sinopec-cnooc-earnings?utm_source=rss_feed",
-        "summary": "Chinese oil producers have seen market gains after two of the country’s major players reported stronger first-quarter earnings, buoyed by a surge in crude prices. Shares of China Petroleum and Chemical Corp, also known as Sinopec, rose 2.4 per cent to HK$4.70 in Hong Kong, while its Shanghai-listed stock gained 1.3 per cent to 5.42 yuan. China National Overseas Oil Corporation (CNOOC) climbed 1.4 per cent to HK$29.38 and PetroChina rallied 2.7 per cent to HK$11.98. Oil stocks have been in focus...",
-        "published": "Wed, 29 Apr 2026 04:28:37 +0000",
-        "updated": "Wed, 29 Apr 2026 04:28:37 +0000",
-        "published_at_utc": "2026-04-29T04:28:37+00:00",
-        "id": "https://www.scmp.com/business/china-business/article/3351788/china-oil-stocks-rise-crude-rally-lifts-sinopec-cnooc-earnings?utm_source=rss_feed",
-        "topic_type": "markets",
-        "relevance_score": 23,
+        "title": "China’s Big Four banks post stronger earnings as policy lending lifts growth",
+        "link": "https://www.scmp.com/business/china-business/article/3351965/chinas-big-four-banks-post-stronger-earnings-policy-lending-lifts-growth?utm_source=rss_feed",
+        "summary": "China’s largest state-owned banks delivered stronger-than-expected first-quarter earnings, with rising interest income and steady asset quality pointing to improving credit demand as Beijing ramps up support for key sectors of the economy. The Big Four lenders – Industrial and Commercial Bank of China (ICBC), China Construction Bank (CCB), Agricultural Bank of China (ABC) and Bank of China (BOC) – all reported growth in both revenue and net profit, marking a turnaround from the margin pressure...",
+        "published": "Thu, 30 Apr 2026 07:00:09 +0000",
+        "updated": "Thu, 30 Apr 2026 07:00:09 +0000",
+        "published_at_utc": "2026-04-30T07:00:09+00:00",
+        "id": "https://www.scmp.com/business/china-business/article/3351965/chinas-big-four-banks-post-stronger-earnings-policy-lending-lifts-growth?utm_source=rss_feed",
+        "topic_type": "corporate_earnings",
+        "relevance_score": 24,
         "briefing": {
-          "news_focus": "Chinese oil producers have seen market gains after two of the country’s major players reported stronger first-quarter earnings, buoyed by a surge in crude prices. Shares of China Petroleum and Chemical Corp, also known as Sinopec, rose 2.4 per cent to HK$4.70 in Hong Kong, while its Shanghai-listed stock gained 1.3 per cent to 5.42 yuan. China National Overseas Oil Corporation (CNOOC) climbed 1.4 per cent to HK$29.38 and PetroChina rallied 2.7 per cent to HK$11.98. Oil stocks have been in focus...",
-          "news_focus_zh": "中國主要石油生產商在報告第一季度強勁的收益後，股價出現上漲。中國石油化工股份有限公司（Sinopec）的股價在香港上漲2.4%至4.70港元，上海上市的股價也上漲1.3%至5.42元人民幣。中國海洋石油總公司（CNOOC）股價上漲1.4%至29.38港元，而中國石油天然氣股份有限公司（PetroChina）則上漲2.7%至11.98港元。這一現象主要受到原油價格飆升的推動。",
-          "background": "近期，全球原油價格的上漲對中國的石油行業產生了積極影響。隨著需求回升和供應鏈的逐步恢復，國際市場對原油的需求持續增長。中國作為全球最大的石油進口國，其主要石油公司如Sinopec、CNOOC和PetroChina在此背景下受益，報告的收益增長顯示出它們在市場中的競爭力。此外，中國政府對能源安全的重視，也促使這些企業加大投資以提升產能。",
+          "news_focus": "China’s largest state-owned banks delivered stronger-than-expected first-quarter earnings, with rising interest income and steady asset quality pointing to improving credit demand as Beijing ramps up support for key sectors of the economy. The Big Four lenders – Industrial and Commercial Bank of China (ICBC), China Construction Bank (CCB), Agricultural Bank of China (ABC) and Bank of China (BOC) – all reported growth in both revenue and net profit, marking a turnaround from the margin pressure...",
+          "news_focus_zh": "中國四大國有銀行在第一季度報告中顯示出超出預期的盈利增長，主要得益於利息收入的上升和資產質量的穩定，這表明信貸需求正在改善。工商銀行、中國建設銀行、中國農業銀行和中國銀行均報告了收入和淨利潤的增長，顯示出經濟支持政策的成效。",
+          "background": "中國政府近期加大了對關鍵經濟領域的支持力度，這促使銀行業的信貸需求回暖。四大國有銀行在過去幾年面臨利潤壓力，但隨著政策的調整和經濟的逐步復甦，這些銀行的財務表現開始好轉。利息收入的增加反映出貸款需求的增長，這對於中國經濟的穩定發展至關重要。",
           "stakeholders": [
-            "Sinopec",
-            "CNOOC",
-            "PetroChina",
+            "中國國有銀行",
+            "中國政府",
             "投資者",
-            "中國政府"
+            "消費者",
+            "金融市場分析師"
           ],
-          "analysis": "中國石油股價的上漲反映了市場對於原油價格持續回暖的樂觀預期。Sinopec和CNOOC的強勁收益不僅提升了投資者的信心，也可能促使其他相關企業跟進，進一步推動整個行業的增長。然而，市場也需警惕原油價格波動可能帶來的風險，尤其是在地緣政治緊張局勢影響下。此外，參考報導提到的中國對穩定幣的興趣，雖然與石油股無直接關聯，但顯示出中國在金融科技領域的探索，可能影響未來的資本流動與投資策略。"
+          "analysis": "四大國有銀行的盈利增長顯示出中國經濟在政策支持下的復甦潛力。這些銀行的表現不僅影響其自身的股價和市場信心，也對整體金融體系的穩定性有正面影響。不同於其他行業的波動，銀行業的穩定增長可能會吸引更多投資者的關注，進一步促進資本市場的活躍。參考報導中提到的Carvana的盈利增長則顯示出消費市場的另一面，強調了不同產業在經濟復甦過程中的差異化表現，這可能會影響投資者的資金配置策略。"
         },
-        "topic_priority_score": 4,
-        "event_type": "energy_supply_move",
+        "topic_priority_score": 5,
+        "event_type": "corporate_results",
         "supporting_sources": [
-          "The Economist"
+          "Reuters"
         ],
         "supporting_titles": [
-          "China turns crypto-curious"
+          "Carvana's first-quarter profit rises on used-car demand - Reuters"
         ],
         "supporting_summaries": [
-          "But would the country’s leaders really want stablecoins to succeed?"
+          "Carvana's first-quarter profit rises on used-car demand Reuters"
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2025/09/02/china-turns-crypto-curious"
+          "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYUhtbGQxMWc3MGoyS2R1d1JvLWVkX2M0Z052aVBCTTV4Q3NPejN1eG9TengwdE9FMUlfbGEtOWdFZ01iMXZmZS1TSWRRN1FsTkkyWmN6Q1Y2RHVtdVFzYmhxM3lEWk9RTTBWdUJoaHVuTnhJQjYwdW5tWVhIMUJLdFIyaG9FZ2tJcU4yVTZlMG5kczJzY1A3T255MG0?oc=5"
         ],
         "source_count": 2
       },
       {
         "category": "economy",
-        "source_name": "SCMP World",
-        "title": "Why UAE’s exit from Opec is good news for Asia’s energy security",
-        "link": "https://www.scmp.com/week-asia/economics/article/3351776/why-uaes-exit-opec-good-news-asias-energy-security?utm_source=rss_feed",
-        "summary": "Asia’s oil import-dependent economies will benefit from the United Arab Emirates’ (UAE) exit from Opec, though the ongoing closure of the arterial Strait of Hormuz may not offer any immediate relief from soaring prices, analysts say. Global oil prices continued to surge on Wednesday, with benchmark Brent crude oil prices hitting US$111 a barrel and US West Texas Intermediate (WTI) approaching US$100 a barrel. Before the Iran war, Brent was trading around US$70 a barrel, while WTI was about US$65...",
-        "published": "Wed, 29 Apr 2026 03:23:16 +0000",
-        "updated": "Wed, 29 Apr 2026 03:23:16 +0000",
-        "published_at_utc": "2026-04-29T03:23:16+00:00",
-        "id": "https://www.scmp.com/week-asia/economics/article/3351776/why-uaes-exit-opec-good-news-asias-energy-security?utm_source=rss_feed",
+        "source_name": "BBC Business",
+        "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+        "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+        "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+        "published": "Thu, 30 Apr 2026 09:51:52 GMT",
+        "updated": "Thu, 30 Apr 2026 09:51:52 GMT",
+        "published_at_utc": "2026-04-30T09:51:52+00:00",
+        "id": "https://www.bbc.com/news/articles/cx21m88rd14o#0",
         "topic_type": "energy_markets",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "Asia’s oil import-dependent economies will benefit from the United Arab Emirates’ (UAE) exit from Opec, though the ongoing closure of the arterial Strait of Hormuz may not offer any immediate relief from soaring prices, analysts say. Global oil prices continued to surge on Wednesday, with benchmark Brent crude oil prices hitting US$111 a barrel and US West Texas Intermediate (WTI) approaching US$100 a barrel. Before the Iran war, Brent was trading around US$70 a barrel, while WTI was about US$65...",
-          "news_focus_zh": "阿拉伯聯合大公國（UAE）宣布將於5月1日結束其近60年的石油輸出國組織（OPEC）會員資格，這一決定被認為將有利於亞洲依賴石油進口的經濟體。儘管如此，霍爾木茲海峽的持續封閉可能不會立即緩解油價飆升的壓力。近期，布倫特原油價格已達每桶111美元，而美國西德克薩斯中質原油（WTI）接近每桶100美元，顯示出市場的高度波動性。",
-          "background": "UAE的OPEC退出是在全球能源市場極為不穩定的背景下進行的。隨著地緣政治緊張局勢加劇，特別是伊朗與其他國家的衝突，油價持續上漲。UAE的決定使其能夠在這一波動的市場中提高產量，這對於依賴石油進口的亞洲國家來說，可能是一個利好消息。儘管如此，霍爾木茲海峽的封閉仍然是影響油價的重要因素，這一海域是全球主要的石油運輸通道。",
+          "news_focus": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+          "news_focus_zh": "根據Axios報導，美國中央指揮部已準備一項計劃，針對伊朗進行一系列短期且強力的軍事打擊。此消息導致油價飆升，達到自2022年以來的最高點，顯示出市場對於地緣政治緊張局勢的敏感反應。",
+          "background": "近期，全球油價因為地緣政治因素而波動，特別是與伊朗的緊張關係。美國對伊朗的軍事選項考量，可能會影響全球能源供應，進而推高油價。根據The Guardian的報導，布倫特原油價格上漲了7%，達到每桶126.41美元，這是自2022年3月以來的最高水平。此外，歐元區和英國的經濟數據顯示，能源價格的上漲對通脹造成了壓力，進一步影響了市場情緒。",
           "stakeholders": [
-            "阿拉伯聯合大公國",
-            "OPEC",
-            "亞洲進口國",
-            "石油市場分析師",
-            "全球投資者"
+            "美國政府",
+            "伊朗",
+            "全球油市",
+            "歐洲經濟體",
+            "投資者"
           ],
-          "analysis": "UAE的退出可能會使其能夠自主調整產量，從而在全球油價高漲的情況下，為亞洲市場提供更多的供應選擇。這對於依賴石油的亞洲經濟體來說，無疑是一個積極的信號。然而，根據參考報導，霍爾木茲海峽的持續封閉對油價的影響更為顯著，這可能會抵消UAE退出OPEC所帶來的潛在好處。各方利益關係中，UAE希望通過提高產量來增強其市場地位，而亞洲國家則希望能夠獲得穩定的能源供應以應對高漲的油價。未來，若霍爾木茲海峽的情況未能改善，則即使UAE的產量增加，亞洲國家的能源安全仍可能面臨挑戰。"
+          "analysis": "此次油價上漲反映了市場對於美國可能對伊朗採取軍事行動的擔憂。不同報導中，The Guardian強調了油價的具體上漲幅度及其對通脹的影響，而BBC則集中於美國的軍事計劃。這種情況可能會導致全球市場的不穩定，特別是在能源依賴度高的國家中，可能會引發更大的經濟壓力。隨著油價的上升，消費者和企業的成本也將增加，進一步影響經濟增長。未來幾個月，市場將密切關注美國的軍事行動及其對油價的長期影響。"
         },
         "topic_priority_score": 8,
-        "event_type": "rate_decision",
+        "event_type": "energy_supply_move",
         "supporting_sources": [
-          "Wired",
-          "Reuters"
+          "The Guardian Business",
+          "The Economist"
         ],
         "supporting_titles": [
-          "UAE to Exit OPEC After Nearly 60 Years",
-          "Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit - Reuters"
+          "Oil prices jump to new four-year high; Bank of England expected to hold interest rates at noon – business live",
+          "The new globalisation paradox"
         ],
         "supporting_summaries": [
-          "On May 1, the United Arab Emirates will end its a 59-year membership in the oil consortium, allowing it to raise output during one of the most volatile energy markets in years.",
-          "Oil ends up nearly 3% as Hormuz disruption outweighs UAE OPEC exit Reuters"
+          "Brent crude jumps as much as 7% to $126.41 a barrel, highest since March 2022 on report US is considering military options against Iran The eurozone grew by 0.1% in the first quarter, while inflation jumped to 3% in April driven by a near-11% surge in energy prices. The EU also expanded by 0.1% between January and March, according to a flash estimate published by Eurosta t, the statistical office of the European Union. In the fourth quarter of 2025, GDP increased by 0.2% in both areas. It will be interesting to see if the official trade data confirm the resilience of exporters in coming months. The outlook for the export sector is very important for China’s economy, as domestic demand has been weak. Continue reading...",
+          "In the age of Donald Trump, national autonomy requires deeper integration. Brazil shows why"
         ],
         "supporting_links": [
-          "https://www.wired.com/story/the-uae-will-exit-opec-after-nearly-60-years/",
-          "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWdEcWtxT1pxaGxwMmc3bHE1elRLZlNOZHlvNWQtWG94NTZ0RzB3STJ3NmQxT0ZMUVhKYWYwWVZjbGhyMkdLaDZ1VEZHT3ZGdTB6cTFXdlV3MzRUT0s0N0JFZV9OUk9sRGNiS2NNeDlGa1czbGgxeGhhOV9BT09qcURMcDNRb3Q2SnE4Y1NSU2JzOXNyX0Q4eFl4My1SNVU1NWJITm43aUc?oc=5"
+          "https://www.theguardian.com/business/live/2026/apr/30/bank-of-england-expected-hold-interest-rates-noon-assesses-fallout-iran-war-live-updates",
+          "https://www.economist.com/finance-and-economics/2025/10/30/the-new-globalisation-paradox"
         ],
         "source_count": 3
       }
@@ -420,218 +387,218 @@
   "further_reading": {
     "technology": [
       {
-        "title": "Meta found in breach of EU law for failing to keep children off platforms",
-        "link": "https://www.theguardian.com/technology/2026/apr/29/meta-found-in-breach-of-eu-law-for-failing-to-keep-children-off-platforms",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-29T09:29:46+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "General Motors is adding Gemini to four million cars",
-        "link": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-04-29T09:14:38+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-        "link": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+        "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+        "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-28T18:15:00+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Google reportedly signs classified AI deal with US Pentagon",
-        "link": "https://www.theguardian.com/technology/2026/apr/28/google-classified-ai-deal-pentagon",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-28T16:57:57+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "600 Google staff urge CEO to reject classified military AI contract",
-        "link": "https://www.thehindu.com/sci-tech/technology/600-google-staff-urge-ceo-to-reject-classified-military-ai-contract/article70913974.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-27T22:38:13+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "At his OpenAI trial, Musk relitigates an old friendship",
-        "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-29T00:40:16+00:00",
+        "published_at_utc": "2026-04-30T00:07:15+00:00",
         "relevance_score": 15
       },
       {
-        "title": "OpenAI Really Wants Codex to Shut Up About Goblins",
-        "link": "https://www.wired.com/story/openai-really-wants-codex-to-shut-up-about-goblins/",
+        "title": "On the stand, Elon Musk can’t escape his own tweets",
+        "link": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-29T23:58:36+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+        "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-29T23:55:23+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
+        "link": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
         "source_name": "Wired",
-        "published_at_utc": "2026-04-28T23:45:05+00:00",
+        "published_at_utc": "2026-04-29T23:41:51+00:00",
         "relevance_score": 15
       },
       {
-        "title": "OpenAI's latest AI models, Codex now available on Amazon Bedrock - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMjJfR0xvY01GSXdacnE2N2pISVlfOU9rakhVU29GeXhCV0x0MlZpX0dnWEJRdTV4QTNoSjAwWUQyalhIa0JabU9hQmNfbWlpT2VXZ0dEUGExZnRzdU51ZUtxc3BkMUlyMjBuN3pxc0MtaGpCVkZfMmU3Nk03WklCdEdlbE1RTElqaWR1Njl4cDlySjZBY1pfSXJrSWZleUZ4TjZGTm9SaEdsMDlvdzZQNGduQ1ZoczBJMFJlUENyR0Z5OGM?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-28T19:42:51+00:00",
+        "title": "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
+        "link": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-04-29T23:18:08+00:00",
         "relevance_score": 15
       },
       {
-        "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
-        "link": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
-        "source_name": "MIT Technology Review",
-        "published_at_utc": "2026-04-28T12:10:00+00:00",
+        "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+        "link": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-29T23:02:23+00:00",
         "relevance_score": 15
       },
       {
-        "title": "NASA's Artemis II moonship returns home to its launch site after historic voyage",
-        "link": "https://www.thehindu.com/sci-tech/nasas-artemis-ii-moonship-returns-home-to-its-launch-site-after-historic-voyage/article70918933.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-29T04:00:39+00:00",
+        "title": "More Gemini features are coming to Google TV",
+        "link": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-29T16:40:49+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Sri Lanka discloses another missing payment, days after hackers stole $2.5M from its finance ministry",
+        "link": "https://techcrunch.com/2026/04/29/sri-lanka-discloses-another-missing-payment-days-after-hackers-stole-2-5m-from-its-finance-ministry/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-29T13:23:57+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Meta in row after workers who say they saw smart glasses users having sex lose jobs",
+        "link": "https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Technology",
+        "published_at_utc": "2026-04-30T08:59:35+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "Amazon, Meta join fight to end Google Pay, PhonePe dominance in India",
+        "link": "https://techcrunch.com/2026/04/29/amazon-meta-join-fight-to-end-google-pay-phonepe-dominance-in-india/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-04-30T01:00:00+00:00",
         "relevance_score": 14
       }
     ],
     "politics": [
       {
-        "title": "King Charles agrees with me on Iran nuclear weapon ban, claims Trump",
-        "link": "https://www.theguardian.com/us-news/2026/apr/29/king-charles-agrees-with-me-on-iran-nuclear-weapon-ban-says-trump",
+        "title": "Hegseth faces further grilling over Iran war strategy and costs – US politics live",
+        "link": "https://www.theguardian.com/us-news/live/2026/apr/30/donald-trump-pete-hegseth-iran-war-oil-king-charles-latest-news-updates",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-29T07:48:45+00:00",
-        "relevance_score": 20
+        "published_at_utc": "2026-04-30T09:51:40+00:00",
+        "relevance_score": 22
       },
       {
-        "title": "Trump administration labels Australia’s media bargaining laws ‘foreign extortion’",
-        "link": "https://www.theguardian.com/media/2026/apr/29/trump-australia-news-bargaining-laws-extortion",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-29T06:25:08+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "US Senate blocks bid to stop Trump using military against Cuba",
-        "link": "https://www.aljazeera.com/news/2026/4/29/us-senate-blocks-bid-to-stop-trump-using-military-against-cuba?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-29T05:06:22+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "South Korea appeals court gives seven-year jail term to former President Yoon in arrest obstruction case",
-        "link": "https://www.thehindu.com/news/international/south-korea-yoon-suk-yeol-arrest-jail-sentence-martial-law-case/article70919478.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-29T09:42:14+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Israel-Iran war LIVE: U.S. Congress to grill Defence Secretary Pete Hegseth on West Asia conflict",
+        "title": "Israel-Iran war updates: Jaishankar holds talks with Iran's Foreign Minister on West Asia situation",
         "link": "https://www.thehindu.com/news/international/iran-israel-war-live-trump-ceasefire-talks-strait-of-hormuz-updates-april-29-2026/article70918966.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-29T09:39:33+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-04-30T04:56:11+00:00",
+        "relevance_score": 21
       },
       {
-        "title": "Consequences of Iran war ‘may echo for months or years to come,’ EU chief warns – Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/apr/29/europe-iran-hungary-russia-ukraine-eu-latest-news-updates",
+        "title": "‘A day of loss for our democracy’: civil rights groups slam supreme court ruling that weakens key part of Voting Rights Act – as it happened",
+        "link": "https://www.theguardian.com/us-news/live/2026/apr/29/king-charles-new-york-donald-trump-zohran-mamdani-iran-us-politics-live",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-29T09:20:44+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-04-30T02:00:27+00:00",
+        "relevance_score": 20
       },
       {
-        "title": "Ukraine targets Druzhba pipeline to sever Russian oil, influence in EU",
-        "link": "https://www.aljazeera.com/news/2026/4/29/ukraine-targets-druzhba-pipeline-to-sever-russian-oil-influence-in-eu?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-04-29T09:20:28+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "US supreme court to hear whether protected status of Haitians and Syrians can be revoked",
-        "link": "https://www.theguardian.com/us-news/2026/apr/29/us-supreme-court-haitians-syrians-tps",
+        "title": "Trump threatens Germany with US troop reduction after Merz’s Iran war criticism – Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/apr/30/europe-germany-troops-trump-threat-iran-eu-france-latest-news-updates",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-04-29T09:00:51+00:00",
+        "published_at_utc": "2026-04-30T09:52:31+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Five takeaways from the King's historic address to Congress",
-        "link": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
+        "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+        "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC World",
-        "published_at_utc": "2026-04-29T08:48:08+00:00",
+        "published_at_utc": "2026-04-30T09:51:52+00:00",
         "relevance_score": 18
       },
       {
-        "title": "White House drafts guidance to bypass Anthropic's risk flag for new AI models: Report",
-        "link": "https://www.thehindu.com/sci-tech/technology/white-house-drafts-guidance-to-bypass-anthropics-risk-flag-for-new-ai-models-report/article70919003.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-29T08:17:18+00:00",
+        "title": "Ministers under pressure to tackle antisemitism after Golders Green attack – live updates",
+        "link": "https://www.theguardian.com/uk-news/live/2026/apr/30/golders-green-terror-incident-security-jewish-community-safety-latest-news",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-30T09:31:47+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Oil price tops $126 a barrel after Trump warns Iran blockade could last ‘months’",
+        "link": "https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-30T09:16:22+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Oil surge on Trump blockade warning tests stocks’ resilience",
+        "link": "https://www.scmp.com/plus/news/world/middle-east/article/3352007/oil-surge-trump-blockade-warning-tests-stocks-resilience?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-30T09:00:19+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Why King Charles’ ‘Trump bell’ gift amuses Chinese internet users",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3352000/why-king-charles-trump-bell-gift-amuses-chinese-internet-users?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-30T08:23:53+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Jailed Hong Kong pro-democracy activist Jimmy Lai wins free speech award in Germany",
+        "link": "https://www.theguardian.com/world/2026/apr/30/jailed-hong-kong-pro-democracy-activist-jimmy-lai-wins-freedom-of-speech-award-in-germany",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-04-30T08:02:42+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "Oil price hits one month high as Trump plumps for ‘extended blockade of Iran’; UK exports to Middle East tumble – business live",
-        "link": "https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates",
+        "title": "Oil prices jump to new four-year high; Bank of England expected to hold interest rates at noon – business live",
+        "link": "https://www.theguardian.com/business/live/2026/apr/30/bank-of-england-expected-hold-interest-rates-noon-assesses-fallout-iran-war-live-updates",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-29T09:38:04+00:00",
-        "relevance_score": 25
+        "published_at_utc": "2026-04-30T09:16:07+00:00",
+        "relevance_score": 27
       },
       {
-        "title": "How the UAE’s decision to leave Opec could recast the Middle East",
-        "link": "https://www.theguardian.com/business/2026/apr/28/how-uae-leave-opec-recast-middle-east-saudi-arabia-us",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-28T18:58:59+00:00",
+        "title": "HKMA warns of interest-rate uncertainty as Fed’s trajectory remains doubtful",
+        "link": "https://www.scmp.com/business/banking-finance/article/3351921/hkma-holds-base-interest-rate-4-following-fed-war-inflation-worries-persist?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-29T23:27:32+00:00",
         "relevance_score": 21
       },
       {
-        "title": "Business basics: How do interest rates impact me? - AP News",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeU8yOFI0eUZDTUFXWXNIaV9jdlktQ1JoOHh6SkZLczRoZjJ5TkIzZ2xBQ1NkbXhmd1hGcHpLMjZiRGxyU3dPX3pOTWFKRDBmcVk3ZXNQZXB2Y0l4ZWFVT2RBSDdhenpKRjF1d3lsdW1hVnE4VWdYZll6UFBYekVWRzNGYnNuLVFFVTExN1VQT1RCM1BnV2VjZ0lTLVg0TkQ5NDF0cnZQbWU?oc=5",
-        "source_name": "Associated Press",
-        "published_at_utc": "2026-04-29T09:43:00+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Oil prices ease after rally as UAE exits OPEC; Iran conflict, Hormuz blockade keep supply concerns high",
-        "link": "https://www.thehindu.com/news/international/oil-prices-ease-after-rally-as-uae-exits-opec-iran-conflict-hormuz-blockade-keep-supply-concerns-high/article70919229.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-04-29T06:26:29+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Making sense of the noise",
-        "link": "https://www.scmp.com/presented/business/topics/discipline-over-market-noise/article/3349836/making-sense-noise?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-04-29T03:32:25+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Foreign demand for US corporate bonds rises as investors favor tech over financials, Citigroup says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOHQzVHItMlhnbmI5dGVpYUZOd3Q5V3JybkN4azVfa3czdmZNSldGeWdXMjdXUTg3eGhXaGhTZVZTSEFrc2JfcW9TeVB3S0l4enBuNTdUWlZUX0RsUXdpeGNHc3BqRkFzd1dURVdMVmZxbGF4MHYwQjc1eTJrR1VpSFhfdmR1VVlHM2s0RnpzNFJDLUJlS3A1dElUdl9nQ1hvTlNTVGpPU2cyU1ZLLU5NdlVnMzRQRm53OHZ4Mm9BTTJjNmM1ZjRTZg?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-28T12:49:13+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Komatsu expects profits to tumble 16% on Iran war, US tariffs",
-        "link": "https://asia.nikkei.com/business/construction/komatsu-expects-profits-to-tumble-16-on-iran-war-us-tariffs",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 19
-      },
-      {
-        "title": "GM expecting $500m Trump tariff refund, boosting its 2026 earnings outlook",
-        "link": "https://www.theguardian.com/business/2026/apr/28/general-motors-trump-tariffs-refund",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-28T16:47:53+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "HSBC turns bullish on US equities citing earnings momentum - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGJPY3NVN1B3Yi1iSk12eUZaM2lLa19vamRmNlMyUjJsSUxrRWpERlFJLVdHaS14Nmk2V2JueU94TzJHVEozcW9Fam9YdXNzdDZuRGFpSFBFRjBtRU5qdUFUNkppLVdTMmZ4ZjU3cWN4am5XcW0yZmt6c2c5dGlPWFZYNjQzbTR2UzhfOXFMaFpWR0xaQXdsdTFzWExvbVpPQWc?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-28T15:50:56+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "United Arab Emirates to quit oil cartel Opec",
-        "link": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
+        "title": "What is expected to happen to UK interest rates?",
+        "link": "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC Business",
-        "published_at_utc": "2026-04-29T08:05:11+00:00",
-        "relevance_score": 17
+        "published_at_utc": "2026-04-29T14:32:18+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Last Beefeater and Brewers Fayre restaurants to close, with loss of 3,800 jobs, Premier Inn owner says",
+        "link": "https://www.theguardian.com/business/2026/apr/30/last-beefeater-and-brewers-fayre-restaurants-to-close-with-loss-of-3800-jobs-premier-inn-owner-says",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-04-30T08:46:22+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Samsung, SK Hynix flag record supply squeeze in memory market as AI demand soars",
+        "link": "https://www.scmp.com/tech/big-tech/article/3352001/samsung-sk-hynix-flag-record-supply-squeeze-memory-market-ai-demand-soars?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-04-30T08:30:28+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Food bank stocks 'low as client numbers increase'",
+        "link": "https://www.bbc.com/news/articles/c202pr5w5k4o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-04-30T05:04:57+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Homeowners turn to solar panels as oil prices rise",
+        "link": "https://www.bbc.com/news/articles/c0429r3d0ero?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-04-30T05:03:41+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Gold gains but set for second monthly fall on inflation fears - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcHBjSWZocDNLRmxpcGtWQkR6bk9RS2h5OWZlaGNkNEFjTTBHOU4tSTdsOWdVbkxtY0ZSVUh3cWJaRThfdTJVdUY2THdSNG5LS01pQlJqeXVhdFI2YVRUNTBPbjNRTTFvOXpxaFk4b0s3Zk9tSGQ5cDZOdHhzZVFPeHY5VkxyTXFjOEtiMGxFTQ?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-04-30T01:23:00+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Interest rates expected to be held as uncertainty over Iran war continues",
+        "link": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-04-29T23:01:04+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "The UAE’s exit from Opec could bring ‘even bigger trouble’: Chinese expert",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3351896/uaes-exit-opec-could-bring-even-bigger-trouble-chinese-expert?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-04-29T22:00:16+00:00",
+        "relevance_score": 19
       }
     ]
   },

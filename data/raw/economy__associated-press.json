@@ -5,23 +5,11 @@
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+business&ceid=US:en&hl=en-US&gl=US",
     "feed_title": "\"when:24h allinurl:apnews.com business\" - Google News",
     "feed_link": "https://news.google.com/search?q=when:24h+allinurl:apnews.com+business&ceid=US:en&hl=en-US&gl=US",
-    "fetched_at_utc": "2026-04-29T09:56:59.724670+00:00",
-    "entry_count": 1,
+    "fetched_at_utc": "2026-04-30T09:58:04.618542+00:00",
+    "entry_count": 0,
     "bozo": false,
-    "failed": false,
-    "failure_reason": ""
+    "failed": true,
+    "failure_reason": "feed returned zero entries"
   },
-  "items": [
-    {
-      "category": "economy",
-      "source_name": "Associated Press",
-      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+business&ceid=US:en&hl=en-US&gl=US",
-      "title": "Business basics: How do interest rates impact me? - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeU8yOFI0eUZDTUFXWXNIaV9jdlktQ1JoOHh6SkZLczRoZjJ5TkIzZ2xBQ1NkbXhmd1hGcHpLMjZiRGxyU3dPX3pOTWFKRDBmcVk3ZXNQZXB2Y0l4ZWFVT2RBSDdhenpKRjF1d3lsdW1hVnE4VWdYZll6UFBYekVWRzNGYnNuLVFFVTExN1VQT1RCM1BnV2VjZ0lTLVg0TkQ5NDF0cnZQbWU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeU8yOFI0eUZDTUFXWXNIaV9jdlktQ1JoOHh6SkZLczRoZjJ5TkIzZ2xBQ1NkbXhmd1hGcHpLMjZiRGxyU3dPX3pOTWFKRDBmcVk3ZXNQZXB2Y0l4ZWFVT2RBSDdhenpKRjF1d3lsdW1hVnE4VWdYZll6UFBYekVWRzNGYnNuLVFFVTExN1VQT1RCM1BnV2VjZ0lTLVg0TkQ5NDF0cnZQbWU?oc=5\" target=\"_blank\">Business basics: How do interest rates impact me?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "Wed, 29 Apr 2026 09:43:00 GMT",
-      "updated": "Wed, 29 Apr 2026 09:43:00 GMT",
-      "id": "CBMiqAFBVV95cUxQeU8yOFI0eUZDTUFXWXNIaV9jdlktQ1JoOHh6SkZLczRoZjJ5TkIzZ2xBQ1NkbXhmd1hGcHpLMjZiRGxyU3dPX3pOTWFKRDBmcVk3ZXNQZXB2Y0l4ZWFVT2RBSDdhenpKRjF1d3lsdW1hVnE4VWdYZll6UFBYekVWRzNGYnNuLVFFVTExN1VQT1RCM1BnV2VjZ0lTLVg0TkQ5NDF0cnZQbWU"
-    }
-  ]
+  "items": []
 }
