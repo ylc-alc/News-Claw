@@ -1,25 +1,25 @@
 {
-  "generated_at_utc": "2026-05-01T09:25:18.681406+00:00",
+  "generated_at_utc": "2026-05-02T08:56:55.425411+00:00",
   "summary": {
-    "total_raw_items": 1118,
-    "total_deduped_items": 1092,
+    "total_raw_items": 1101,
+    "total_deduped_items": 1080,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "cybersecurity",
-        "chips",
-        "platform_regulation"
+        "ai",
+        "ai",
+        "chips"
       ],
       "politics": [
         "uk_politics",
-        "us_politics",
-        "us_politics"
+        "war_and_conflict",
+        "war_and_conflict"
       ],
       "economy": [
-        "inflation",
-        "trade_wars",
-        "interest_rates"
+        "interest_rates",
+        "sanctions",
+        "sanctions"
       ]
     },
     "multi_source_selected_count": 5
@@ -28,94 +28,120 @@
     "technology": [
       {
         "category": "technology",
-        "source_name": "Reuters",
-        "title": "Cybersecurity firm Check Point Software first-quarter profit beats estimates, cuts 2026 revenue outlook - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUx2TXRxVldId2NScUNTbUREc1ZSaUNpQUpPM1FSODQwUEVGQTI5N09QZjB3cXlOSTlQc2xZQl9wVzM1Q2dWd1pQdDdfcHVDb2pWQzdXSmxsYnlSR1d4dUJyRnB2YWxfTXF3YU40MzlzNnpERi1sbWFmSE9yQ0x6LV9FdlhUaTBTaWtDd093Wi1jRXdhTEw1bFcxTDVOY0E3N0x4VmxkWkJHdk5BUEhCMjNQUG1kREZqdGF2MWRGa04?oc=5",
-        "summary": "Cybersecurity firm Check Point Software first-quarter profit beats estimates, cuts 2026 revenue outlook Reuters",
-        "published": "Thu, 30 Apr 2026 14:08:10 GMT",
-        "updated": "Thu, 30 Apr 2026 14:08:10 GMT",
-        "published_at_utc": "2026-04-30T14:08:10+00:00",
-        "id": "CBMiwAFBVV95cUxONUx2TXRxVldId2NScUNTbUREc1ZSaUNpQUpPM1FSODQwUEVGQTI5N09QZjB3cXlOSTlQc2xZQl9wVzM1Q2dWd1pQdDdfcHVDb2pWQzdXSmxsYnlSR1d4dUJyRnB2YWxfTXF3YU40MzlzNnpERi1sbWFmSE9yQ0x6LV9FdlhUaTBTaWtDd093Wi1jRXdhTEw1bFcxTDVOY0E3N0x4VmxkWkJHdk5BUEhCMjNQUG1kREZqdGF2MWRGa04",
-        "topic_type": "cybersecurity",
+        "source_name": "The Hindu International",
+        "title": "U.S. military reaches deals with 7 tech companies to use their AI on classified systems; Anthropic not on the list",
+        "link": "https://www.thehindu.com/sci-tech/technology/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems-anthropic-not-on-the-list/article70930704.ece",
+        "summary": "The Pentagon says it has reached deals with seven tech companies to use their artificial intelligence in its classified computer networks",
+        "published": "Sat, 02 May 2026 13:27:47 +0530",
+        "updated": "Sat, 02 May 2026 13:27:47 +0530",
+        "published_at_utc": "2026-05-02T07:57:47+00:00",
+        "id": "article-70930704",
+        "topic_type": "ai",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "Cybersecurity firm Check Point Software first-quarter profit beats estimates, cuts 2026 revenue outlook Reuters",
-          "news_focus_zh": "網路安全公司Check Point Software在第一季度的獲利超出市場預期，但同時下調了2026年的營收預測。這一消息顯示出公司在當前市場環境中的挑戰與機會，儘管短期表現良好，長期展望卻顯示出不確定性。",
-          "background": "Check Point Software是一家專注於網路安全的公司，隨著數位化進程加速，網路安全需求持續增長。然而，市場競爭激烈，許多新興公司和技術不斷湧現，可能對Check Point的市場份額造成壓力。公司在第一季度的獲利表現良好，顯示出其在當前環境中的適應能力，但下調2026年營收預測則可能反映出對未來市場需求的擔憂，特別是在全球經濟不確定性加大的背景下。",
+          "news_focus": "The Pentagon says it has reached deals with seven tech companies to use their artificial intelligence in its classified computer networks",
+          "news_focus_zh": "美國國防部與七家科技公司達成協議，將其人工智慧技術應用於機密計算系統中。值得注意的是，這份名單中並不包括Anthropic，這引發了對其未來在國防科技領域的角色的關注。",
+          "background": "隨著人工智慧技術的迅速發展，美國軍方正積極尋求將AI應用於其作戰能力中，以提升戰鬥效率和決策速度。國防部的這一舉措反映出其對於成為一支以AI為核心的戰鬥力量的承諾。過去幾年，許多科技公司已經開始與軍方合作，提供先進的AI解決方案，這些合作不僅限於數據分析，還包括自動化系統和機器學習技術的應用。",
           "stakeholders": [
-            "Check Point Software",
-            "投資者",
-            "網路安全市場競爭者"
+            "美國國防部",
+            "科技公司",
+            "Anthropic",
+            "軍事分析師",
+            "國際安全專家"
           ],
-          "analysis": "Check Point Software的第一季度獲利超出預期，顯示出其在短期內的業務韌性。然而，對2026年營收的下調預測可能引發市場對其長期增長潛力的質疑。此舉可能反映出公司對未來市場競爭的擔憂，尤其是在網路安全領域，隨著新技術的出現，傳統解決方案面臨挑戰。投資者可能會密切關注公司未來的策略調整和市場反應，以評估其在不斷變化的市場環境中的競爭力。"
+          "analysis": "此次國防部與七家科技公司達成的協議顯示出美國軍方對於AI技術的重視，並且在未來的軍事行動中，AI將扮演越來越重要的角色。參考報導指出，國防部已經與八家大型科技公司簽署新合約，這可能暗示著未來將有更多的合作機會。不同於主新聞，參考報導中提到的八個合約數量顯示出軍方在擴展AI能力方面的積極性。此外，Anthropic未被納入協議名單，可能會影響其在軍事科技領域的發展潛力，這也引發了業界對其未來策略的討論。"
         },
         "topic_priority_score": 9,
-        "event_type": "commercial_update",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "event_type": "partnership_move",
+        "supporting_sources": [
+          "Reuters",
+          "BBC Technology"
+        ],
+        "supporting_titles": [
+          "Pentagon reaches agreements with top AI companies, but not Anthropic - Reuters",
+          "Pentagon says US military to be an 'AI-first' fighting force"
+        ],
+        "supporting_summaries": [
+          "Pentagon reaches agreements with top AI companies, but not Anthropic Reuters",
+          "The US military has agreed eight new contracts with big tech firms as it expands its artificial intelligence capabilities."
+        ],
+        "supporting_links": [
+          "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1lWcjNQNDY2aERXM3BnMTFFZllkWVZCNTFTY2Y0c0d4Nk1mY2UyQ0JNRVBMUVRNQnZiRlBNQnYzOWJaOFFUTTktZWpDWmNia2VpbWpreVU1dG1HSUo1T1JrWm12UVJ1R0ZxaUZIUXZrMXBDLUx4bXpUTE95ZFA1bHdGUXloZ0ZNc1ZfRm1SVGZGNnZUTWlrcVE0QzRsa3lHQzFPZURLTENMckd6UFpuWXRMd0I?oc=5",
+          "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss"
+        ],
+        "source_count": 3
       },
       {
         "category": "technology",
-        "source_name": "The Guardian World",
-        "title": "Calls grow to ban Palantir in Australia after manifesto described by UK MP as ‘ramblings of a supervillain’",
-        "link": "https://www.theguardian.com/technology/2026/apr/30/palantir-manifesto-australia-government-contracts",
-        "summary": "Spy tech firm says it’s just ‘a software company’ amid pressure for a ban on new contracts with government agencies Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Just weeks after it implied some cultures are inferior to others in a manifesto described by one UK MP as the “ramblings of a supervillain” , the US spy tech company Palantir says it is just “a software company” amid calls for Australian government agencies to ban any new contracts with the controversial company. In Australia, state and federal contracts with Palantir have reached nearly $80m, and federal investment in the company is reportedly more than $160m. Continue reading...",
-        "published": "Thu, 30 Apr 2026 15:00:23 GMT",
-        "updated": "2026-04-30T15:00:23Z",
-        "published_at_utc": "2026-04-30T15:00:23+00:00",
-        "id": "https://www.theguardian.com/technology/2026/apr/30/palantir-manifesto-australia-government-contracts",
-        "topic_type": "chips",
-        "relevance_score": 19,
+        "source_name": "MIT Technology Review",
+        "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+        "link": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+        "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat through…",
+        "published": "Fri, 01 May 2026 22:08:19 +0000",
+        "updated": "Fri, 01 May 2026 22:08:19 +0000",
+        "published_at_utc": "2026-05-01T22:08:19+00:00",
+        "id": "https://www.technologyreview.com/?p=1136800",
+        "topic_type": "ai",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Spy tech firm says it’s just ‘a software company’ amid pressure for a ban on new contracts with government agencies Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Just weeks after it implied some cultures are inferior to others in a manifesto described by one UK MP as the “ramblings of a supervillain” , the US spy tech company Palantir says it is just “a software company” amid calls for Australian government agencies to ban any new contracts with the controversial company. In Australia, state and federal contracts with Palantir have reached nearly $80m, and federal investment in the company is reportedly more than $160m. Continue reading...",
-          "news_focus_zh": "澳大利亞對美國間諜科技公司Palantir的合約問題引發爭議，因為該公司最近在一份宣言中暗示某些文化優劣，遭到英國國會議員批評為「超級惡棍的胡言亂語」。在此背景下，澳大利亞政府機構面臨對Palantir新合約的禁令呼聲。據報導，澳大利亞與Palantir的合約總額接近8000萬澳元，聯邦對該公司的投資超過1.6億澳元。",
-          "background": "Palantir是一家專注於數據分析和間諜技術的美國公司，近年來在全球範圍內擴展其業務。該公司在澳大利亞的業務增長迅速，與多個政府機構簽訂了合約，涉及公共安全和國防等領域。隨著對數據隱私和倫理的關注上升，Palantir的商業模式和道德立場受到越來越多的 scrutiny。特別是其最近的宣言引發了對其文化觀的質疑，進一步加劇了外界對其在政府部門角色的擔憂。",
+          "news_focus": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat through…",
+          "news_focus_zh": "在Elon Musk與OpenAI之間的訴訟第一週中，Musk在法庭上指控OpenAI的CEO Sam Altman和總裁Greg Brockman欺騙他，讓他資助該公司。Musk在作證時警告人工智慧可能會對人類造成毀滅性影響，並承認他的公司xAI在訓練模型時使用了OpenAI的技術。",
+          "background": "Elon Musk是OpenAI的早期支持者，但隨著該公司的發展，他與OpenAI的關係逐漸緊張。Musk對AI的潛在風險表達了深切的擔憂，並曾多次呼籲對AI技術進行更嚴格的監管。OpenAI作為一家領先的AI研究機構，致力於開發安全且有益的人工智慧技術，然而其商業模式和技術使用的透明度引發了外界的質疑。Musk的xAI成立於2022年，旨在開發更安全的AI系統，這使得他與OpenAI之間的競爭關係更加複雜。",
           "stakeholders": [
-            "Palantir",
-            "澳大利亞政府",
-            "公共安全機構",
-            "數據隱私倡導者",
-            "英國國會"
+            "Elon Musk",
+            "Sam Altman",
+            "Greg Brockman",
+            "xAI",
+            "OpenAI"
           ],
-          "analysis": "Palantir面臨的壓力主要來自於對其文化觀的批評，這可能影響其在澳大利亞的業務發展。政府機構的合約禁令呼聲反映了公眾對數據使用和倫理的高度敏感。雖然Palantir強調自己僅是一家軟體公司，但其與政府的密切合作關係使得其行為受到更嚴格的審視。若澳大利亞政府決定禁止與Palantir的新合約，將可能對該公司的營收造成影響，並促使其重新評估在其他市場的策略。此外，這一事件可能引發其他國家對Palantir的合約審查，進一步影響其全球業務。"
+          "analysis": "Musk在法庭上的指控顯示出他對OpenAI的強烈不滿，並且他在證詞中強調了AI技術的潛在風險，這與他過去的立場一致。根據參考報導，Musk在證詞中指責OpenAI的律師試圖誤導他，這表明訴訟過程中雙方的對立情況相當激烈。此外，Musk承認xAI使用OpenAI的模型進行訓練，這一點在Wired的報導中得到了強調，並指出這在AI實驗室中是常見做法，這可能會引發關於知識產權和競爭行為的進一步討論。各方在AI技術的使用和安全性問題上存在明顯的立場差異，這可能會影響未來的法律和政策走向。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "regulation_action",
+        "supporting_sources": [
+          "BBC Technology",
+          "Wired"
+        ],
+        "supporting_titles": [
+          "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
+          "Elon Musk Seemingly Admits xAI Has Used OpenAI’s Models to Train Its Own"
+        ],
+        "supporting_summaries": [
+          "Elon Musk was cross-examined on the third day of the trial over his lawsuit against Sam Altman and OpenAI.",
+          "While answering questions under oath, Musk argued it’s standard practice for AI labs to use their competitors’ models."
+        ],
+        "supporting_links": [
+          "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss",
+          "https://www.wired.com/story/elon-musk-distill-openai-models-partly-xai/"
+        ],
+        "source_count": 3
+      },
+      {
+        "category": "technology",
+        "source_name": "BBC Technology",
+        "title": "Bright idea? UK firm pioneers data centres using lampposts",
+        "link": "https://www.bbc.com/news/articles/c98r4e594p7o?at_medium=RSS&at_campaign=rss",
+        "summary": "The solar-powered iLamps will have a built-in Nvidia chip but there are questions over their security and scalability.",
+        "published": "Fri, 01 May 2026 21:23:33 GMT",
+        "updated": "Fri, 01 May 2026 21:23:33 GMT",
+        "published_at_utc": "2026-05-01T21:23:33+00:00",
+        "id": "https://www.bbc.com/news/articles/c98r4e594p7o#0",
+        "topic_type": "chips",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "The solar-powered iLamps will have a built-in Nvidia chip but there are questions over their security and scalability.",
+          "news_focus_zh": "英國一家公司推出了一種創新的數據中心解決方案，將太陽能供電的iLamps設置於路燈中，並內建Nvidia晶片。這一創新旨在提高數據處理的靈活性與可及性，但同時也引發了對其安全性和擴展性的質疑。",
+          "background": "隨著數據需求的增加，傳統數據中心面臨空間和能源的挑戰。英國的這一創新嘗試利用現有的城市基礎設施來解決這些問題，特別是在環保和可持續發展的背景下，太陽能技術的應用顯得尤為重要。Nvidia作為領先的計算平台供應商，其晶片的使用可能會提升數據處理的效率，進一步推動智能城市的發展。",
+          "stakeholders": [
+            "英國科技公司",
+            "城市規劃者",
+            "Nvidia",
+            "環保組織",
+            "數據安全專家"
+          ],
+          "analysis": "這一創新方案的推出，可能會吸引城市規劃者和科技公司對於數據中心的重新思考。對於城市而言，利用路燈作為數據處理的基礎設施，可以減少建設新數據中心的需求，降低成本並提高效率。然而，安全性和擴展性仍然是主要的顧慮，尤其是在數據隱私和網絡安全日益受到重視的當下。若無法有效解決這些問題，則可能會影響其廣泛應用的前景。"
         },
         "topic_priority_score": 10,
-        "event_type": "regulation_action",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "Reuters",
-        "title": "FCC chair says White House did not pressure him to open Disney review - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZmROQ3YzNUtQdURpclJLUjlYWEQ4eV9TQVJPaGZPdW5iQWlkZWFFNmdSZ1ROY0lCQzlKRDlSWlNEVDZvYnozWlh2TWRJemRIWVh2Y2dhd3FKNGptcXc4elhnYm9aWW9EVzhVZmpSYkozWkZrWlNFQnNYOE94MVFTTkQzMmhVUmRZaC1fU19XbUgzblY3cXVBVHIteDdQVEtVXzNFc0JQM1JKaEhMQnY5cQ?oc=5",
-        "summary": "FCC chair says White House did not pressure him to open Disney review Reuters",
-        "published": "Thu, 30 Apr 2026 22:29:42 GMT",
-        "updated": "Thu, 30 Apr 2026 22:29:42 GMT",
-        "published_at_utc": "2026-04-30T22:29:42+00:00",
-        "id": "CBMisAFBVV95cUxPZmROQ3YzNUtQdURpclJLUjlYWEQ4eV9TQVJPaGZPdW5iQWlkZWFFNmdSZ1ROY0lCQzlKRDlSWlNEVDZvYnozWlh2TWRJemRIWVh2Y2dhd3FKNGptcXc4elhnYm9aWW9EVzhVZmpSYkozWkZrWlNFQnNYOE94MVFTTkQzMmhVUmRZaC1fU19XbUgzblY3cXVBVHIteDdQVEtVXzNFc0JQM1JKaEhMQnY5cQ",
-        "topic_type": "platform_regulation",
-        "relevance_score": 18,
-        "briefing": {
-          "news_focus": "FCC chair says White House did not pressure him to open Disney review Reuters",
-          "news_focus_zh": "美國聯邦通信委員會（FCC）主席表示，白宮並未對他施加壓力以開啟對迪士尼的審查。他的聲明旨在澄清外界對於政府干預FCC獨立性的疑慮，並強調FCC在進行相關審查時的自主性。",
-          "background": "FCC負責監管美國的通信業務，包括廣播、電信和有線電視等領域。迪士尼作為一家大型媒體與娛樂公司，其業務運作受到FCC的監管。近期，隨著媒體合併與收購活動的增加，FCC的審查工作受到關注，特別是在政府對大型企業的監管立場日益強硬的背景下。這使得FCC的獨立性成為討論的焦點，尤其是在政治環境中，政府與監管機構的關係受到檢視。",
-          "stakeholders": [
-            "FCC",
-            "白宮",
-            "迪士尼",
-            "媒體公司",
-            "公眾"
-          ],
-          "analysis": "FCC主席的聲明意在強調其機構的獨立性，這對於維護監管機構的公信力至關重要。隨著媒體行業的整合，政府對大型企業的監管將可能加強，這可能會引發更多的審查與討論。不同利益方，包括媒體公司、政策制定者及公眾，對於FCC的獨立性和透明度有不同的期待。媒體公司可能希望減少監管壓力，而政策制定者則可能支持更嚴格的監管以防止壟斷行為。未來，FCC如何平衡這些利益，將影響其決策及行業的發展。"
-        },
-        "topic_priority_score": 8,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -127,31 +153,195 @@
     "politics": [
       {
         "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "Watchdog weighs investigation into Farage’s undisclosed £5m gift",
-        "link": "https://www.theguardian.com/politics/2026/may/01/election-watchdog-investigation-nigel-farage-undisclosed-donation",
-        "summary": "Electoral Commission reviewing whether Reform UK leader should have declared billionaire’s gift before entering parliament UK politics live – latest updates Analysis: Farage’s bid to get ahead of story only raises more questions The UK elections watchdog is considering whether to investigate an undisclosed £5m gift received by Nigel Farage before he announced his candidacy at the last general election. The move comes after the Guardian revealed this week that the Reform UK leader was given the money by the crypto billionaire Christopher Harborne. Continue reading...",
-        "published": "Fri, 01 May 2026 08:33:23 GMT",
-        "updated": "2026-05-01T08:33:23Z",
-        "published_at_utc": "2026-05-01T08:33:23+00:00",
-        "id": "https://www.theguardian.com/politics/2026/may/01/election-watchdog-investigation-nigel-farage-undisclosed-donation",
+        "source_name": "SCMP World",
+        "title": "UK PM Starmer says some pro-Palestinian marches could be banned, cites intifada chants",
+        "link": "https://www.scmp.com/news/world/europe/article/3352210/uk-pm-starmer-says-some-pro-palestinian-marches-could-be-banned-cites-intifada-chants?utm_source=rss_feed",
+        "summary": "Britain’s Prime Minister Keir Starmer said in an interview broadcast on Saturday that banning some pro-Palestinian marches could be justified, especially when they call for the intifada to spread. Labour leader Starmer is under pressure to act after a spate of antisemitic incidents, including this week, when two men were stabbed in the north London suburb of Golders Green, which is home to a large Jewish community. A 45-year-old British national who was born in Somalia was remanded in custody...",
+        "published": "Sat, 02 May 2026 07:46:45 +0000",
+        "updated": "Sat, 02 May 2026 07:46:45 +0000",
+        "published_at_utc": "2026-05-02T07:46:45+00:00",
+        "id": "https://www.scmp.com/news/world/europe/article/3352210/uk-pm-starmer-says-some-pro-palestinian-marches-could-be-banned-cites-intifada-chants?utm_source=rss_feed",
         "topic_type": "uk_politics",
-        "relevance_score": 22,
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "Electoral Commission reviewing whether Reform UK leader should have declared billionaire’s gift before entering parliament UK politics live – latest updates Analysis: Farage’s bid to get ahead of story only raises more questions The UK elections watchdog is considering whether to investigate an undisclosed £5m gift received by Nigel Farage before he announced his candidacy at the last general election. The move comes after the Guardian revealed this week that the Reform UK leader was given the money by the crypto billionaire Christopher Harborne. Continue reading...",
-          "news_focus_zh": "英國選舉監察機構正在考慮是否對改革英國黨領袖尼格爾·法拉奇（Nigel Farage）未披露的500萬英鎊贈款展開調查。這筆贈款來自加密貨幣億萬富翁克里斯托弗·哈博恩（Christopher Harborne），法拉奇在上次大選宣布參選之前收到了這筆資金。此事引發了對法拉奇透明度的質疑，並可能影響其政治前景。",
-          "background": "在英國，選舉法要求候選人披露來自個人或組織的重大捐贈，以確保政治資金的透明度和公正性。法拉奇作為改革英國黨的領袖，其政治活動受到廣泛關注，尤其是在脫歐後的政治環境中。哈博恩的背景也引起了關注，因為他在加密貨幣領域的影響力可能使這筆贈款的來源和意圖受到質疑。這一事件的調查結果可能對英國政治的信任度產生深遠影響。",
+          "news_focus": "Britain’s Prime Minister Keir Starmer said in an interview broadcast on Saturday that banning some pro-Palestinian marches could be justified, especially when they call for the intifada to spread. Labour leader Starmer is under pressure to act after a spate of antisemitic incidents, including this week, when two men were stabbed in the north London suburb of Golders Green, which is home to a large Jewish community. A 45-year-old British national who was born in Somalia was remanded in custody...",
+          "news_focus_zh": "英國首相基爾·斯塔默在接受訪問時表示，某些支持巴勒斯坦的遊行可能會被禁止，特別是當遊行中呼籲擴大暴動時。斯塔默面臨壓力，因為近期發生了一系列反猶太事件，包括本週在倫敦北部的戈爾德斯格林，兩名男子遭到刺傷，該地區擁有大量猶太社區。",
+          "background": "英國的社會氣候因以色列與哈馬斯之間的衝突而變得緊張，隨之而來的是反猶太主義的抬頭。斯塔默的工黨在此背景下受到批評，要求對反猶太事件採取更強硬的立場。近期的刺傷事件被歸類為恐怖主義，並由反恐部門進行調查，顯示出社會對這類事件的高度關注。這一系列事件促使政府重新評估對示威活動的管理，特別是那些可能引發仇恨言論的活動。",
           "stakeholders": [
-            "尼格爾·法拉奇",
-            "克里斯托弗·哈博恩",
-            "英國選舉監察機構",
-            "改革英國黨",
-            "英國選民"
+            "基爾·斯塔默",
+            "工黨",
+            "猶太社區",
+            "反恐部門",
+            "支持巴勒斯坦的活動人士"
           ],
-          "analysis": "法拉奇的未披露贈款問題引發了多方面的關注，尤其是選舉監察機構是否會對其進行調查。這一事件可能影響法拉奇的政治形象，並引發對其與哈博恩之間關係的進一步探討。支持者可能會認為這是對法拉奇的政治迫害，而反對者則可能利用此事質疑其誠信及透明度。此外，這一事件也可能引發對英國政治資金規範的更廣泛討論，特別是在加密貨幣捐贈的合法性和透明度方面。法拉奇的回應和選舉監察機構的最終決定將成為未來幾個月的重要觀察焦點。"
+          "analysis": "斯塔默的言論反映了他在面對內部壓力與社會安全之間的掙扎。工黨內部對於如何處理反猶太主義的分歧可能會影響其未來的選舉策略。部分成員可能支持更為強硬的立場，以回應社會對安全的擔憂，而另一些則可能擔心這樣的措施會限制言論自由。參考報導指出，刺傷事件被歸類為恐怖主義，這一點強調了事件的嚴重性，並可能進一步促使政府採取行動。未來，政府如何平衡安全與言論自由的問題將成為焦點，尤其是在社會對巴以衝突的反應日益激烈的情況下。"
         },
         "topic_priority_score": 9,
-        "event_type": "election_move",
+        "event_type": "diplomatic_move",
+        "supporting_sources": [
+          "Fox News World"
+        ],
+        "supporting_titles": [
+          "2 Jewish men stabbed in London attack classified as terrorism"
+        ],
+        "supporting_summaries": [
+          "Two men were stabbed in north London's Barnet borough, prompting a counterterrorism-led investigation into a potentially antisemitic incident."
+        ],
+        "supporting_links": [
+          "https://www.foxnews.com/world/2-jewish-men-stabbed-london-attack-classified-terrorism"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "politics",
+        "source_name": "SCMP World",
+        "title": "Hezbollah’s cheap drones pose challenge for Israel – like ‘children’s toys’",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3352209/hezbollahs-cheap-drones-pose-challenge-israel-childrens-toys?utm_source=rss_feed",
+        "summary": "Hezbollah’s cheap fibre-optic drones are creating new challenges for Israeli troops in southern Lebanon, forcing the military to adapt its tactics against an increasingly lethal threat. The Israeli military – considered one of the most advanced in the world – has confirmed two soldiers and one civilian contractor killed in explosive drone attacks in under a week, with several others wounded despite a ceasefire in place since mid-April. The devices are small, cheap and readily available, like...",
+        "published": "Sat, 02 May 2026 06:48:13 +0000",
+        "updated": "Sat, 02 May 2026 06:48:13 +0000",
+        "published_at_utc": "2026-05-02T06:48:13+00:00",
+        "id": "https://www.scmp.com/news/world/middle-east/article/3352209/hezbollahs-cheap-drones-pose-challenge-israel-childrens-toys?utm_source=rss_feed",
+        "topic_type": "war_and_conflict",
+        "relevance_score": 20,
+        "briefing": {
+          "news_focus": "Hezbollah’s cheap fibre-optic drones are creating new challenges for Israeli troops in southern Lebanon, forcing the military to adapt its tactics against an increasingly lethal threat. The Israeli military – considered one of the most advanced in the world – has confirmed two soldiers and one civilian contractor killed in explosive drone attacks in under a week, with several others wounded despite a ceasefire in place since mid-April. The devices are small, cheap and readily available, like...",
+          "news_focus_zh": "近日，真主黨使用廉價的光纖無人機對以色列軍隊造成了新的挑戰，迫使以色列軍方調整其戰術。儘管自四月中旬以來已經實施停火，但以色列軍方仍確認在不到一週的時間內，兩名士兵和一名民間承包商在無人機襲擊中喪生，還有數人受傷。這些無人機小巧、便宜且易於獲得，類似於“兒童玩具”。",
+          "background": "真主黨的無人機技術正在演變，特別是其使用光纖連接的無人機，這種技術使其不易被干擾。與傳統的GPS或無線電引導無人機不同，光纖無人機可以在數十公里內保持穩定的控制，這使得以色列軍方面臨新的威脅。以色列軍隊被認為是全球最先進的軍隊之一，但這些新型無人機的出現使其在南黎巴嫩的作戰環境中變得更加複雜。此時，儘管停火協議仍在執行，但雙方的衝突仍在持續升級。",
+          "stakeholders": [
+            "以色列軍方",
+            "真主黨",
+            "黎巴嫩政府",
+            "國際社會",
+            "民間承包商"
+          ],
+          "analysis": "以色列軍方面臨的挑戰主要來自於真主黨的無人機技術進步，這使得以色列的傳統防禦策略受到威脅。根據參考報導，真主黨的光纖無人機不易被干擾，這一點與傳統無人機形成鮮明對比，可能迫使以色列重新評估其軍事策略。另一方面，儘管以色列在進行空襲，但自三月二日以來，已有超過2600人在黎巴嫩的衝突中喪生，顯示出局勢的複雜性和持續的暴力循環。各方在停火協議下仍然進行攻擊，顯示出和平進程的脆弱性。"
+        },
+        "topic_priority_score": 11,
+        "event_type": "security_event",
+        "supporting_sources": [
+          "The Hindu International",
+          "Al Jazeera"
+        ],
+        "supporting_titles": [
+          "Hezbollah’s fibre-optic drones pose new challenge for Israel",
+          "At least 12 killed in latest Israeli attacks on Lebanon"
+        ],
+        "supporting_summaries": [
+          "Unlike conventional drones guided by GPS or radio, which can therefore be jammed, Hezbollah is using devices linked to their launch site by a thin fibre-optic cable that can stretch for dozens of kilometres",
+          "Israel's strikes continue, with more than 2,600 killed since March 2, despite an ongoing ceasefire."
+        ],
+        "supporting_links": [
+          "https://www.thehindu.com/news/international/hezbollahs-fibre-optic-drones-pose-new-challenge-for-israel/article70930699.ece",
+          "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss"
+        ],
+        "source_count": 3
+      },
+      {
+        "category": "politics",
+        "source_name": "The Hindu International",
+        "title": "U.S. to close its flagship Gaza mission as Donald Trump plan stalls",
+        "link": "https://www.thehindu.com/news/international/us-to-close-its-flagship-gaza-mission-as-donald-trump-plan-stalls/article70930743.ece",
+        "summary": "The closing of the Civil-Military Coordination Centre in Israel would mark the latest blow to President Donald Trump’s Gaza plan",
+        "published": "Sat, 02 May 2026 10:51:10 +0530",
+        "updated": "Sat, 02 May 2026 10:51:10 +0530",
+        "published_at_utc": "2026-05-02T05:21:10+00:00",
+        "id": "article-70930743",
+        "topic_type": "war_and_conflict",
+        "relevance_score": 18,
+        "briefing": {
+          "news_focus": "The closing of the Civil-Military Coordination Centre in Israel would mark the latest blow to President Donald Trump’s Gaza plan",
+          "news_focus_zh": "美國決定關閉位於以色列的民事-軍事協調中心，這一舉措被視為對總統唐納德·特朗普加沙計劃的最新打擊。該中心的關閉象徵著美國在該地區的外交努力面臨困難，特別是在推進特朗普的和平計劃方面。",
+          "background": "特朗普政府在任內提出了一項針對以色列和巴勒斯坦的和平計劃，旨在解決長期以來的衝突。然而，該計劃在實施過程中遭遇了重重困難，包括缺乏巴勒斯坦方面的支持以及國際社會的質疑。美國的民事-軍事協調中心原本被視為促進地區穩定和支持和平進程的重要機構，其關閉可能反映出美國在該地區影響力的減弱。",
+          "stakeholders": [
+            "美國政府",
+            "以色列政府",
+            "巴勒斯坦權力機構"
+          ],
+          "analysis": "此次關閉民事-軍事協調中心的決定，顯示出特朗普政府在推進其加沙計劃方面的困境。各方利益關係中，以色列可能會感受到美國支持的減少，而巴勒斯坦方面則可能會對美國的立場持更加懷疑的態度。此外，這一舉措可能會引發其他國家對美國在中東政策的重新評估，尤其是在美國與以色列的關係上。未來，若特朗普計劃繼續停滯，可能會導致美國在該地區的外交角色進一步削弱，並促使其他國家尋求在中東問題上的主導地位。"
+        },
+        "topic_priority_score": 11,
+        "event_type": "security_event",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      }
+    ],
+    "economy": [
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "The Guardian view on Britain’s fragile systems: when global shocks hit your shopping bill | Editorial",
+        "link": "https://www.theguardian.com/commentisfree/2026/may/01/the-guardian-view-on-britains-fragile-systems-when-global-shocks-hit-your-shopping-bill",
+        "summary": "Energy disruption abroad drives prices at home, showing how few safeguards are built in – which is why a call for resilience must be heeded When the Bank of England warned this week that food inflation could reach 7% by the end of the year, it revealed how little stands between a geopolitical jolt and a domestic crisis in Britain. A shock wave in the Gulf feeds through energy, fertiliser and supermarket prices into falling incomes, weak growth and job losses. What it exposes is not just inflation but a system unable to absorb disruption. The Bank is right that interest rates cannot move global energy prices. Raising them will not fix the shock. Instead, rate hikes redistribute the impact by compressing wages and deterring investment to stop higher costs becoming embedded. What appears as inflation is, in reality, the price of dependence on the strait of Hormuz. Clearly, the UK’s stability rests on security that the country that has yet to build into its infrastructure. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here . Continue reading...",
+        "published": "Fri, 01 May 2026 16:53:13 GMT",
+        "updated": "2026-05-01T16:53:13Z",
+        "published_at_utc": "2026-05-01T16:53:13+00:00",
+        "id": "https://www.theguardian.com/commentisfree/2026/may/01/the-guardian-view-on-britains-fragile-systems-when-global-shocks-hit-your-shopping-bill",
+        "topic_type": "interest_rates",
+        "relevance_score": 25,
+        "briefing": {
+          "news_focus": "Energy disruption abroad drives prices at home, showing how few safeguards are built in – which is why a call for resilience must be heeded When the Bank of England warned this week that food inflation could reach 7% by the end of the year, it revealed how little stands between a geopolitical jolt and a domestic crisis in Britain. A shock wave in the Gulf feeds through energy, fertiliser and supermarket prices into falling incomes, weak growth and job losses. What it exposes is not just inflation but a system unable to absorb disruption. The Bank is right that interest rates cannot move global energy prices. Raising them will not fix the shock. Instead, rate hikes redistribute the impact by compressing wages and deterring investment to stop higher costs becoming embedded. What appears as inflation is, in reality, the price of dependence on the strait of Hormuz. Clearly, the UK’s stability rests on security that the country that has yet to build into its infrastructure. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here . Continue reading...",
+          "news_focus_zh": "英國銀行本週警告，食品通脹可能在年底前達到7%，顯示出英國在面對全球能源干擾時的脆弱性。海灣地區的震盪影響著能源、肥料和超市價格，導致收入下降、經濟增長乏力和失業問題。這一情況揭示了英國系統在面對外部衝擊時的無法承受能力，並指出提高利率無法解決全球能源價格問題，反而可能壓縮工資並抑制投資。",
+          "background": "英國的經濟體系對外部能源供應的高度依賴，使其在面對地緣政治衝擊時顯得格外脆弱。尤其是海灣地區的局勢變化，直接影響到能源價格，進而波及食品和日常生活成本。英國銀行的警告反映出當前經濟增長放緩和通脹壓力的雙重挑戰，這不僅是短期的價格波動，而是顯示出英國在基礎設施和政策上缺乏足夠的韌性來應對這些挑戰。",
+          "stakeholders": [
+            "英國銀行",
+            "消費者",
+            "企業",
+            "政府",
+            "能源供應商"
+          ],
+          "analysis": "英國面臨的挑戰涉及多方利益關係。首先，消費者受到食品和能源價格上漲的直接影響，生活成本上升可能導致消費支出減少，進一步影響經濟增長。其次，企業在高通脹環境下面臨成本壓力，可能選擇減少投資或裁員以應對利潤壓縮。英國銀行的利率政策在此情況下顯得無力，因為提高利率無法直接解決全球能源價格的波動，反而可能加劇經濟不穩定。參考報導中提到的基礎設施問題，雖然與主新聞主題不同，但也暗示了改善基礎設施可能是提升韌性的長期解決方案。"
+        },
+        "topic_priority_score": 10,
+        "event_type": "rate_decision",
+        "supporting_sources": [
+          "The Economist",
+          "BBC Business"
+        ],
+        "supporting_titles": [
+          "America is escaping its office crisis",
+          "The real impact of roadworks on the country - and why they're set to get worse"
+        ],
+        "supporting_summaries": [
+          "The torment caused by covid-19 and high interest rates appears to be over",
+          "There is a fine balance between the benefits of improved infrastructure, versus the cost of disruption. Does the country have it right?"
+        ],
+        "supporting_links": [
+          "https://www.economist.com/finance-and-economics/2025/09/01/america-is-escaping-its-office-crisis",
+          "https://www.bbc.com/news/articles/c23e3d1r17go?at_medium=RSS&at_campaign=rss"
+        ],
+        "source_count": 3
+      },
+      {
+        "category": "economy",
+        "source_name": "The Hindu International",
+        "title": "U.S. warns shipping firms they could face sanctions over paying Iranian tolls in Strait of Hormuz",
+        "link": "https://www.thehindu.com/news/international/us-warns-shipping-firms-they-could-face-sanctions-over-paying-iranian-tolls-in-strait-of-hormuz/article70931118.ece",
+        "summary": "About a fifth of the world's trade in oil and natural gas typically passes through the strait at the mouth of the Persian Gulf in peacetime",
+        "published": "Sat, 02 May 2026 13:15:49 +0530",
+        "updated": "Sat, 02 May 2026 13:15:49 +0530",
+        "published_at_utc": "2026-05-02T07:45:49+00:00",
+        "id": "article-70931118",
+        "topic_type": "sanctions",
+        "relevance_score": 23,
+        "briefing": {
+          "news_focus": "About a fifth of the world's trade in oil and natural gas typically passes through the strait at the mouth of the Persian Gulf in peacetime",
+          "news_focus_zh": "美國警告航運公司，若支付伊朗在霍爾木茲海峽的通行費，可能面臨制裁。霍爾木茲海峽是全球石油和天然氣貿易的重要通道，和平時期約有五分之一的貿易量經過此地。",
+          "background": "霍爾木茲海峽位於波斯灣的入口處，是全球最繁忙的海運通道之一，對於石油和天然氣的運輸至關重要。隨著美國與伊朗之間的緊張關係持續升級，美國政府對於與伊朗的經濟交易採取了強硬立場，並對任何可能支持伊朗政府的行為進行警告。這一政策的背景是美國試圖限制伊朗的經濟活動，以減少其在地區的影響力，並迫使其改變行為。",
+          "stakeholders": [
+            "美國政府",
+            "航運公司",
+            "伊朗政府",
+            "全球能源市場",
+            "國際貿易組織"
+          ],
+          "analysis": "美國對航運公司的警告反映了其對伊朗影響力的擔憂，並顯示出美國在維護霍爾木茲海峽的航運自由方面的立場。航運公司面臨的選擇將直接影響其業務運營，特別是在全球能源市場的脆弱性背景下。若航運公司遵循美國的警告，可能會影響其與伊朗的商業往來，進一步削弱伊朗的經濟。然而，若航運公司選擇無視警告，則可能面臨美國的制裁，這將對其未來的國際貿易造成重大影響。這一情況可能導致航運公司在遵循國際法與維護商業利益之間的困境。"
+        },
+        "topic_priority_score": 8,
+        "event_type": "energy_supply_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -159,440 +349,257 @@
         "source_count": 1
       },
       {
-        "category": "politics",
-        "source_name": "BBC World",
-        "title": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
-        "link": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
-        "summary": "Last year ex-president Jair Bolsonaro was sentenced to 27 years in jail for plotting a coup after losing an election.",
-        "published": "Fri, 01 May 2026 05:58:20 GMT",
-        "updated": "Fri, 01 May 2026 05:58:20 GMT",
-        "published_at_utc": "2026-05-01T05:58:20+00:00",
-        "id": "https://www.bbc.com/news/articles/cqlpvl3wx4qo#0",
-        "topic_type": "us_politics",
-        "relevance_score": 22,
-        "briefing": {
-          "news_focus": "Last year ex-president Jair Bolsonaro was sentenced to 27 years in jail for plotting a coup after losing an election.",
-          "news_focus_zh": "巴西國會批准了一項法案，顯著減少前總統哈伊爾·博爾索納羅的監禁刑期。博爾索納羅因在選舉失利後策劃政變而被判處27年監禁。這項法案的通過意味著博爾索納羅的刑期將大幅縮短，該法案目前等待巴西最高法院的確認。",
-          "background": "博爾索納羅在2022年選舉後因其支持者在巴西利亞襲擊國會大廈而受到廣泛譴責，隨後被判刑。現任總統盧拉·達席爾瓦在今年1月對該法案行使了否決權，這一舉動被視為對博爾索納羅及其支持者行為的強烈反對。巴西國會的這一決定反映了該國政治的深刻分歧，尤其是在保守派與進步派之間的緊張關係。",
-          "stakeholders": [
-            "哈伊爾·博爾索納羅",
-            "盧拉·達席爾瓦",
-            "巴西國會",
-            "巴西最高法院",
-            "巴西社會"
-          ],
-          "analysis": "巴西國會的這一決策顯示出保守派勢力在國會中的影響力，尤其是在博爾索納羅的支持者中。盧拉的否決被推翻，顯示出他在國會中的支持基礎相對薄弱。這一法案的通過可能會引發社會的強烈反彈，尤其是進步派和反對派的抗議活動。根據參考報導，該法案已經在國會和參議院獲得批准，現在等待最高法院的確認，這可能成為未來幾個月巴西政治的重要焦點。各方對於博爾索納羅的刑期減少持有不同看法，保守派認為這是對其政治迫害的糾正，而進步派則擔心這會削弱法治和民主的基礎。"
-        },
-        "topic_priority_score": 8,
-        "event_type": "election_move",
-        "supporting_sources": [
-          "The Guardian World"
-        ],
-        "supporting_titles": [
-          "Brazil’s congress approves bill reducing prison sentence of former president Jair Bolsonaro"
-        ],
-        "supporting_summaries": [
-          "President Lula’s veto of the bill was overturned by Brazil’s congress and senate, meaning it now awaits confirmation by supreme court Brazil’s largely conservative congress has approved a bill reducing the prison sentence of the far-right former president Jair Bolsonaro, who was convicted last year of attempting a coup. The bill had initially been passed by congress in December, but President Luiz Inácio Lula da Silva vetoed it in January in a symbolic move marking three years since Bolsonaro supporters ransacked the capital, Brasília. Continue reading..."
-        ],
-        "supporting_links": [
-          "https://www.theguardian.com/world/2026/apr/30/brazils-congress-approves-bill-reducing-prison-sentence-of-former-president-jair-bolsonaro"
-        ],
-        "source_count": 2
-      },
-      {
-        "category": "politics",
-        "source_name": "Al Jazeera",
-        "title": "Iran war: What’s happening on day 63 as Trump signals possible attacks",
-        "link": "https://www.aljazeera.com/news/2026/5/1/iran-war-whats-happening-on-day-63-as-trump-signals-possible-attacks?traffic_source=rss",
-        "summary": "Iran’s president calls the US siege 'intolerable' as Donald Trump says war may resume.",
-        "published": "Fri, 01 May 2026 05:37:11 +0000",
-        "updated": "Fri, 01 May 2026 05:37:11 +0000",
-        "published_at_utc": "2026-05-01T05:37:11+00:00",
-        "id": "https://www.aljazeera.com/?t=1777587034",
-        "topic_type": "us_politics",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "Iran’s president calls the US siege 'intolerable' as Donald Trump says war may resume.",
-          "news_focus_zh": "伊朗總統批評美國的封鎖行為為「無法忍受」，同時唐納德·特朗普表示可能會重新啟動戰爭，這是伊朗戰爭第63天的最新發展。特朗普的言論顯示出美國對於伊朗局勢的強硬立場，並可能預示著未來的軍事行動。",
-          "background": "自從伊朗與美國之間的緊張局勢升級以來，雙方的對抗行動不斷加劇。美國對伊朗的經濟制裁和軍事壓力使得伊朗的經濟受到嚴重影響，導致當地民眾的不滿情緒上升。特朗普的言論反映出他對於國內油價的關注，並暗示結束戰爭可能會帶來油價的下降，這對於美國選民來說是一個重要的議題。",
-          "stakeholders": [
-            "伊朗政府",
-            "美國政府",
-            "特朗普",
-            "歐洲國家",
-            "國際油市"
-          ],
-          "analysis": "特朗普的強硬立場可能會引發伊朗的反擊，進一步加劇地區緊張局勢。根據參考報導，特朗普提到結束戰爭後油價將會下降，這顯示出他對於經濟影響的考量，可能會影響他在國內的支持度。此外，特朗普還威脅要重新評估美國在歐洲的軍事存在，這可能是對於外界對美國在伊朗戰爭中角色的批評反應。不同報導中，特朗普對於美國軍事部署的態度有所不同，這可能反映出他在應對國內外壓力時的策略調整。"
-        },
-        "topic_priority_score": 8,
-        "event_type": "security_event",
-        "supporting_sources": [
-          "Reuters",
-          "The Guardian World"
-        ],
-        "supporting_titles": [
-          "Trump says gas prices will drop as soon as Iran war is over - Reuters",
-          "Trump threatens to withdraw US troops from Italy and Spain – Europe live"
-        ],
-        "supporting_summaries": [
-          "Trump says gas prices will drop as soon as Iran war is over Reuters",
-          "The US president said he would carry out of a review of US military presence in Europe after public criticism of the US-Israeli war on Iran It’s a fairly slow news day today, as half of Europe is enjoying their long weekend celebrating the International Workers’ Day. So let’s show you some early pictures of 1 May parades – often led by trade unions and putting forward demands for better pay or working conditions – taking place in several countries around Europe. Continue reading..."
-        ],
-        "supporting_links": [
-          "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSmI1bHdMcENVRGtnQmpHUGpIZkF1bjhmN3FLSWEyWW9OR01sV1haN0hOMEhoX294cHhUQ2RTSFN2ODRTZzJRSnNsTDZ4RVVycWtyTWV2anNaTUhnVWxzYUVYRzY0TUUyc3lubVZpazdDdFNNdFBHX3VOUWJtZmh5ZDZaQVo5VXFMME5iU0M5ckZhMUlHa2hHMnQ3dnA1TDU5eDFGLTBWcjk?oc=5",
-          "https://www.theguardian.com/world/live/2026/may/01/donald-trump-us-troops-italy-spain-germany-nato-europe-latest-news"
-        ],
-        "source_count": 3
-      }
-    ],
-    "economy": [
-      {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "NatWest faces £140m hit from Iran war as UK growth slows and inflation rises",
-        "link": "https://www.theguardian.com/business/2026/may/01/natwest-faces-140m-hit-from-iran-war-as-uk-growth-slows-and-inflation-rises",
-        "summary": "Profits ahead of expectations but almost half of £283m impairment charge follows forecast reassessment Business live – latest updates NatWest said the economic fallout from the conflict in the Middle East could cost it £140m amid slowing growth and rising inflation even as it reported profits ahead of expectations. Overall, the FTSE 100 lender booked a £283m impairment charge and said that almost half of that was because of a reassessment of its economic forecast to “reflect increased geopolitical risk and weaker equity markets”. Continue reading...",
-        "published": "Fri, 01 May 2026 07:15:06 GMT",
-        "updated": "2026-05-01T07:15:06Z",
-        "published_at_utc": "2026-05-01T07:15:06+00:00",
-        "id": "https://www.theguardian.com/business/2026/may/01/natwest-faces-140m-hit-from-iran-war-as-uk-growth-slows-and-inflation-rises",
-        "topic_type": "inflation",
-        "relevance_score": 25,
-        "briefing": {
-          "news_focus": "Profits ahead of expectations but almost half of £283m impairment charge follows forecast reassessment Business live – latest updates NatWest said the economic fallout from the conflict in the Middle East could cost it £140m amid slowing growth and rising inflation even as it reported profits ahead of expectations. Overall, the FTSE 100 lender booked a £283m impairment charge and said that almost half of that was because of a reassessment of its economic forecast to “reflect increased geopolitical risk and weaker equity markets”. Continue reading...",
-          "news_focus_zh": "NatWest銀行預測因中東衝突將面臨1.4億英鎊的損失，這是在英國經濟增長放緩和通脹上升的背景下發生的。儘管該行的利潤超出預期，但仍錄得2.83億英鎊的減值費用，其中近一半是因為對經濟預測的重新評估，反映出地緣政治風險和股市疲軟的影響。",
-          "background": "隨著中東地區的衝突加劇，全球經濟面臨不確定性，特別是對於金融機構而言。英國的通脹率在衝突前已經上升，這使得英國央行在利率政策上面臨挑戰。NatWest的減值費用顯示出市場對未來經濟狀況的擔憂，尤其是在地緣政治風險加大的情況下。這些因素可能會影響投資者信心和消費者支出，進一步拖累經濟增長。",
-          "stakeholders": [
-            "NatWest銀行",
-            "英國央行",
-            "投資者",
-            "消費者",
-            "金融市場"
-          ],
-          "analysis": "NatWest面臨的1.4億英鎊損失主要源於對經濟前景的重新評估，這顯示出銀行在應對不確定性方面的脆弱性。根據BBC的報導，英國央行已決定維持利率在3.75%，但隨著中東衝突的影響持續，未來可能會考慮加息以應對通脹壓力。這表明，銀行和央行之間在應對經濟挑戰時的政策協調至關重要。不同報導中，The Economist強調了通脹在衝突前已經上升的背景，這可能使得市場對央行的反應更加敏感。各方在應對經濟挑戰時的策略和立場可能會影響未來的市場走向。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "inflation_data",
-        "supporting_sources": [
-          "The Economist",
-          "BBC Business"
-        ],
-        "supporting_titles": [
-          "America’s next Fed chair is caught in a vice",
-          "Bank of England says rates could rise as Iran war fuels inflation"
-        ],
-        "supporting_summaries": [
-          "Inflation was heating up even before the war in Iran",
-          "The Bank of England voted to hold interest rates at 3.75% as it monitors the knock-on effects of the Middle East conflict."
-        ],
-        "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2026/04/12/americas-next-fed-chair-is-caught-in-a-vice",
-          "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss"
-        ],
-        "source_count": 3
-      },
-      {
-        "category": "economy",
-        "source_name": "BBC Business",
-        "title": "Trump to remove whisky tariffs after King's visit",
-        "link": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss",
-        "summary": "The US president said he would lift restrictions on Scotland's ability to work with the state of Kentucky on whisky and bourbon.",
-        "published": "Fri, 01 May 2026 07:52:56 GMT",
-        "updated": "Fri, 01 May 2026 07:52:56 GMT",
-        "published_at_utc": "2026-05-01T07:52:56+00:00",
-        "id": "https://www.bbc.com/news/articles/cjrp3pew2d5o#0",
-        "topic_type": "trade_wars",
+        "source_name": "The Hindu International",
+        "title": "U.S. sanctions are ‘collective punishment’, says Cuba during May 1 marches",
+        "link": "https://www.thehindu.com/news/international/us-sanctions-are-collective-punishment-says-cuba-during-may-1-marches/article70930842.ece",
+        "summary": "U.S. President Donald Trump has mused about taking over Cuba, which lies 145 kilometers from Florida and has been under a nearly continuous U.S. trade embargo since Fidel Castro led a communist revolution in 1959",
+        "published": "Sat, 02 May 2026 10:44:39 +0530",
+        "updated": "Sat, 02 May 2026 10:44:39 +0530",
+        "published_at_utc": "2026-05-02T05:14:39+00:00",
+        "id": "article-70930842",
+        "topic_type": "sanctions",
         "relevance_score": 23,
         "briefing": {
-          "news_focus": "The US president said he would lift restrictions on Scotland's ability to work with the state of Kentucky on whisky and bourbon.",
-          "news_focus_zh": "美國總統特朗普宣布將解除對蘇格蘭威士忌的關稅限制，這將使蘇格蘭能夠與肯塔基州在威士忌和波本酒的合作上更加靈活。此舉可能是因應英國國王的訪問，旨在促進兩地之間的貿易關係。",
-          "background": "美國與蘇格蘭之間的貿易關係長期受到關稅政策的影響，特別是在威士忌和波本酒的進口上。特朗普政府曾因貿易不平衡問題對多個國家徵收關稅，這導致了國際貿易的緊張局勢。此次解除關稅的決定，可能是為了改善與英國的貿易關係，尤其是在英國脫歐後，尋求新的貿易機會。",
+          "news_focus": "U.S. President Donald Trump has mused about taking over Cuba, which lies 145 kilometers from Florida and has been under a nearly continuous U.S. trade embargo since Fidel Castro led a communist revolution in 1959",
+          "news_focus_zh": "在5月1日的遊行中，古巴政府指責美國的制裁為「集體懲罰」，這些制裁自1959年卡斯特羅領導的共產革命以來幾乎持續不斷。美國總統特朗普曾表示考慮接管古巴，這一言論引發了古巴方面的強烈反應，強調制裁對古巴人民的影響。",
+          "background": "古巴自1959年以來一直受到美國的貿易禁運，這一政策旨在削弱古巴政府的經濟基礎，並促進政治變革。隨著時間的推移，這些制裁對古巴的經濟造成了深遠影響，尤其是在醫療、食品和基本生活用品的供應上。特朗普政府在任內加強了對古巴的制裁，並提出了一些激進的政策選項，包括對古巴的軍事干預，這使得古巴政府對美國的立場更加敏感和警惕。",
           "stakeholders": [
+            "古巴政府",
             "美國政府",
-            "蘇格蘭威士忌生產商",
-            "肯塔基州波本酒生產商",
-            "美國消費者",
-            "國際貿易夥伴"
+            "古巴人民",
+            "國際社會",
+            "拉丁美洲國家"
           ],
-          "analysis": "特朗普的決定可能會受到多方利益的影響。對於蘇格蘭來說，解除關稅將有助於提升其威士忌的國際競爭力，並促進與肯塔基州的合作，這對於美國消費者來說也可能意味著更低的價格。然而，參考報導指出，特朗普政府的關稅政策對美國及其貿易夥伴造成了損害，這可能使其在國內外面臨壓力。各方對於解除關稅的看法可能存在分歧，部分經濟學者認為這是短期的政治策略，而非長期的經濟解決方案。"
+          "analysis": "古巴政府的指責反映了其對美國制裁的強烈不滿，認為這些措施不僅影響了國家的經濟發展，也對民眾的生活造成了直接傷害。特朗普的言論進一步加劇了古巴的擔憂，因為這可能暗示著美國對古巴的政策將更加強硬。從古巴的角度來看，這種情況可能促使其尋求更多的國際支持，尤其是來自拉丁美洲和其他反美國政策的國家。未來，若美國繼續施加壓力，古巴可能會加強內部團結，並尋求與其他國家建立更緊密的經濟與政治聯繫。"
         },
-        "topic_priority_score": 9,
+        "topic_priority_score": 8,
         "event_type": "macro_signal",
-        "supporting_sources": [
-          "The Economist"
-        ],
-        "supporting_titles": [
-          "Trump will not let the world move on from tariffs"
-        ],
-        "supporting_summaries": [
-          "Six charts show the damage to America, its trading partners and its consumers"
-        ],
-        "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2025/08/01/trump-will-not-let-the-world-move-on-from-tariffs"
-        ],
-        "source_count": 2
-      },
-      {
-        "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Why Bank kept interest rates on hold despite message for UK to brace itself for Trumpflation",
-        "link": "https://www.theguardian.com/business/2026/apr/30/why-bank-of-england-kept-interest-rates-on-hold-despite-trumpflation",
-        "summary": "The reasons are hardly comforting, pointing to the weakness of a battered economy in the face of this latest crisis Business live – latest updates Bank warns ‘higher inflation unavoidable’ after leaving interest rates on hold The message to the UK’s crisis-weary households from the Bank of England is: brace yourself for Trumpflation – and the higher interest rates it may yet take to rein it in. Reading the Bank’s quarterly monetary policy report, it is not difficult to understand the fury Rachel Reeves expressed while in Washington this month at the “folly” of the US president’s war on Iran – its economic consequences will hit the UK hard. Continue reading...",
-        "published": "Thu, 30 Apr 2026 12:12:14 GMT",
-        "updated": "2026-04-30T12:12:14Z",
-        "published_at_utc": "2026-04-30T12:12:14+00:00",
-        "id": "https://www.theguardian.com/business/2026/apr/30/why-bank-of-england-kept-interest-rates-on-hold-despite-trumpflation",
-        "topic_type": "interest_rates",
-        "relevance_score": 23,
-        "briefing": {
-          "news_focus": "The reasons are hardly comforting, pointing to the weakness of a battered economy in the face of this latest crisis Business live – latest updates Bank warns ‘higher inflation unavoidable’ after leaving interest rates on hold The message to the UK’s crisis-weary households from the Bank of England is: brace yourself for Trumpflation – and the higher interest rates it may yet take to rein it in. Reading the Bank’s quarterly monetary policy report, it is not difficult to understand the fury Rachel Reeves expressed while in Washington this month at the “folly” of the US president’s war on Iran – its economic consequences will hit the UK hard. Continue reading...",
-          "news_focus_zh": "英國銀行決定維持利率不變，儘管面對美國總統特朗普的政策可能導致的通脹壓力。英國銀行在其季度貨幣政策報告中指出，未來的高通脹是不可避免的，並警告英國家庭要為即將到來的經濟挑戰做好準備。這一決定反映出英國經濟的脆弱性，特別是在特朗普對伊朗的政策可能引發的經濟後果下。",
-          "background": "目前，英國經濟正面臨多重挑戰，包括高通脹和全球市場的不穩定性。英國銀行的利率政策一直受到密切關注，因為利率的變動直接影響家庭和企業的借貸成本。隨著全球經濟形勢的變化，特別是美國的外交政策對其他國家的影響，英國經濟的脆弱性愈發明顯。特別是特朗普政府的政策可能導致的通脹，讓英國銀行不得不考慮未來的利率調整。",
-          "stakeholders": [
-            "英國銀行",
-            "英國家庭",
-            "企業",
-            "國際市場",
-            "DBS銀行"
-          ],
-          "analysis": "英國銀行的決策反映了當前經濟環境的複雜性。維持利率不變可能是出於對經濟復甦的謹慎考量，但同時也顯示出對未來通脹壓力的擔憂。根據參考報導，DBS銀行警告伊朗戰爭可能帶來的二次影響，這與英國銀行的預測相呼應，表明國際局勢對英國經濟的潛在威脅。各方的立場顯示出對於如何應對這些挑戰的不同看法，英國銀行似乎更傾向於穩定現狀，而其他金融機構則可能對未來的風險持更為悲觀的態度。"
-        },
-        "topic_priority_score": 10,
-        "event_type": "rate_decision",
-        "supporting_sources": [
-          "The Economist",
-          "Nikkei Asia"
-        ],
-        "supporting_titles": [
-          "AI misinformation may have paradoxical consequences",
-          "Singapore's DBS warns of 'second-order effects' from Iran war"
-        ],
-        "supporting_summaries": [
-          "To understand why, consider the side-blotched lizard",
-          ""
-        ],
-        "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2025/12/04/ai-misinformation-may-have-paradoxical-consequences",
-          "https://asia.nikkei.com/business/finance/singapore-s-dbs-warns-of-second-order-effects-from-iran-war"
-        ],
-        "source_count": 3
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1,
+        "cross_section_refs": [
+          "politics"
+        ]
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
-        "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-        "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-01T02:00:00+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-        "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-30T18:20:03+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "OpenAI Rolls Out ‘Advanced’ Security Mode for At-Risk Accounts",
-        "link": "https://www.wired.com/story/openai-chatgpt-codex-advanced-account-security/",
+        "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
+        "link": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
         "source_name": "Wired",
-        "published_at_utc": "2026-04-30T17:30:39+00:00",
-        "relevance_score": 17
+        "published_at_utc": "2026-05-01T20:25:28+00:00",
+        "relevance_score": 21
       },
       {
-        "title": "This Indigenous Language Survived Russian Occupation. Can It Survive YouTube?",
-        "link": "https://www.wired.com/story/youtube-promote-russian-language-kyrgyzstan/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-05-01T09:00:00+00:00",
-        "relevance_score": 16
-      },
-      {
-        "title": "A new T-Mobile network for Christians aims to block porn and gender-related content",
-        "link": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
-        "source_name": "MIT Technology Review",
-        "published_at_utc": "2026-05-01T09:00:00+00:00",
-        "relevance_score": 16
-      },
-      {
-        "title": "Singapore jails 3 Chinese nationals over social media-inspired burglary spree",
-        "link": "https://www.scmp.com/news/asia/southeast-asia/article/3352093/singapore-jails-3-chinese-nationals-over-social-media-inspired-burglary-spree?utm_source=rss_feed",
+        "title": "US Pentagon signs AI deals with Google, Nvidia and SpaceX, focus on ‘lawful’ use",
+        "link": "https://www.scmp.com/news/us/economy-trade-business/article/3352199/us-pentagon-signs-ai-deals-google-nvidia-and-spacex-focus-lawful-use?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-05-01T02:08:45+00:00",
-        "relevance_score": 16
+        "published_at_utc": "2026-05-02T01:47:15+00:00",
+        "relevance_score": 19
       },
       {
-        "title": "Meta raises $25 billion in bond sale after lifting AI spending plan - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTW1SRFZOd0w3ajByMEtBUC11MEdSTHFFcUQtY09XVUhNYXEzM2xUc2w4Y3BLdUtaWktQbGRYTFVxMmp3NTVfS1ltUzMtQ3Jfcy1KU1B1bi1IQVZDLTRiVnROa2dyTTVTV05SVlp2NEp4Wl9lVV80MlF3akRqbGpPSXpSbmg1QndJVUZIUUNlRkNEWkw5ZlJvLWQ4R2NUVFlGVHJoNDg3dU1ZWDdnalZtUnc5WQ?oc=5",
+        "title": "Apple raises the Mac Mini’s starting price",
+        "link": "https://www.theverge.com/tech/922572/apple-mac-mini-256-model",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-05-01T21:52:09+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Pentagon says US military to be an 'AI-first' fighting force",
+        "link": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Technology",
+        "published_at_utc": "2026-05-01T21:09:52+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Pentagon reaches agreements with top AI companies, but not Anthropic - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1lWcjNQNDY2aERXM3BnMTFFZllkWVZCNTFTY2Y0c0d4Nk1mY2UyQ0JNRVBMUVRNQnZiRlBNQnYzOWJaOFFUTTktZWpDWmNia2VpbWpreVU1dG1HSUo1T1JrWm12UVJ1R0ZxaUZIUXZrMXBDLUx4bXpUTE95ZFA1bHdGUXloZ0ZNc1ZfRm1SVGZGNnZUTWlrcVE0QzRsa3lHQzFPZURLTENMckd6UFpuWXRMd0I?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-04-30T21:56:37+00:00",
+        "published_at_utc": "2026-05-01T17:15:46+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "The Download: a new Christian phone network, and debugging LLMs",
+        "link": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
+        "source_name": "MIT Technology Review",
+        "published_at_utc": "2026-05-01T12:10:00+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+        "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-01T16:02:36+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Cyber-Insecurity in the AI Era",
+        "link": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
+        "source_name": "MIT Technology Review",
+        "published_at_utc": "2026-05-01T15:54:01+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Meta raises specter of shutting down service to New Mexico in legal clash over child safety",
+        "link": "https://www.thehindu.com/sci-tech/technology/meta-raises-specter-of-shutting-down-service-to-new-mexico-in-legal-clash-over-child-safety/article70930710.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-05-02T05:23:34+00:00",
         "relevance_score": 16
       },
       {
-        "title": "How Shivon Zilis Operated as Elon Musk’s OpenAI Insider",
-        "link": "https://www.wired.com/story/model-behavior-why-everything-in-musk-v-altman-leads-back-to-shivon-zelis/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-05-01T00:51:18+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "As Tim Cook steps down, Apple hit record sales — but a chip shortage looms",
-        "link": "https://techcrunch.com/2026/04/30/as-tim-cook-steps-down-apple-hit-record-sales-but-a-chip-shortage-looms/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-30T23:59:15+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-        "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-04-30T23:07:56+00:00",
-        "relevance_score": 15
+        "title": "Rocket Report: Falcon Heavy is back; Russia's Soyuz-5 finally debuts",
+        "link": "https://arstechnica.com/space/2026/05/rocket-report-falcon-heavy-is-back-russias-soyuz-5-finally-debuts/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-05-01T12:39:03+00:00",
+        "relevance_score": 16
       }
     ],
     "politics": [
       {
-        "title": "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
-        "link": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss",
+        "title": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
+        "link": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-01T00:00:00+00:00",
+        "published_at_utc": "2026-05-02T04:06:01+00:00",
+        "relevance_score": 22
+      },
+      {
+        "title": "China urges reversal of UNIFIL departure from Lebanon as conflict escalates",
+        "link": "https://www.aljazeera.com/news/2026/5/2/china-urges-reversal-of-unifil-departure-from-lebanon-as-conflict-escalates?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-05-02T06:47:18+00:00",
         "relevance_score": 20
       },
       {
-        "title": "UN climate body presses on after US quits, while China leads with renewables",
-        "link": "https://www.scmp.com/news/china/science/article/3351983/un-climate-body-presses-after-us-quits-while-china-leads-renewables?utm_source=rss_feed",
+        "title": "China’s UN envoy blasts US ‘bullying’ as sanctions widen before Trump-Xi talks",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3352197/chinas-un-envoy-blasts-us-bullying-sanctions-widen-trump-xi-talks?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-05-01T02:00:11+00:00",
-        "relevance_score": 19
+        "published_at_utc": "2026-05-01T21:25:14+00:00",
+        "relevance_score": 20
       },
       {
-        "title": "Paraguay president to make first state visit to Taiwan next week",
-        "link": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/01/2003856563",
-        "source_name": "Taipei Times",
-        "published_at_utc": "2026-05-01T00:00:00+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Why is China warning the UN of a Japanese ‘nuclear breakout’?",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3352062/why-china-warning-un-japanese-nuclear-breakout?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-04-30T14:00:13+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Trump threatens to withdraw US troops from Italy and Spain – Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/may/01/donald-trump-us-troops-italy-spain-germany-nato-europe-latest-news",
+        "title": "Germany says it expected Trump’s withdrawal of US troops as row over Iran comments grows – live",
+        "link": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-01T09:09:38+00:00",
+        "published_at_utc": "2026-05-02T08:40:38+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Ukraine begins to flex muscle as an emerging air power, angering Russia",
-        "link": "https://www.aljazeera.com/news/2026/5/1/ukraine-begins-to-flex-muscle-as-an-emerging-air-power-angering-russia?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-01T08:02:57+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Facing 60-day deadline, Trump administration claims Iran war ‘terminated’",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3352134/facing-60-day-deadline-trump-administration-claims-iran-war-terminated?utm_source=rss_feed",
+        "title": "Mini-crises sparked by the Iran war may add up to a big collapse",
+        "link": "https://www.scmp.com/opinion/world-opinion/article/3352013/mini-crises-sparked-iran-war-may-add-big-collapse?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-05-01T07:22:19+00:00",
+        "published_at_utc": "2026-05-02T08:30:08+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Russia hammers targets across Ukraine overnight",
-        "link": "https://www.aljazeera.com/news/2026/5/1/russia-hammers-targets-across-ukraine-overnight?traffic_source=rss",
+        "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+        "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-05-02T08:14:09+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "How Trump is inadvertently bringing Japan, South Korea together",
+        "link": "https://www.scmp.com/week-asia/politics/article/3352211/how-trump-inadvertently-bringing-japan-south-korea-together?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-02T07:55:15+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "China’s UN Envoy: Hormuz closure will dominate Trump-Xi talks",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/chinas-un-envoy-hormuz-closure-will-dominate-trump-xi-talks?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-01T06:42:10+00:00",
+        "published_at_utc": "2026-05-02T07:37:49+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Russian attack damages port infrastructure in Ukraine's Odesa region, governor says",
-        "link": "https://www.thehindu.com/news/international/russian-attack-damages-port-infrastructure-in-ukraines-odesa-region-governor-says/article70927590.ece",
+        "title": "Spirit Airlines ceases operations after 34 years amid financial struggles and high oil prices",
+        "link": "https://www.theguardian.com/business/2026/may/01/spirit-airlines-stops-operation-after-failed-deal",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-05-02T06:37:09+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Legal limits on U.S. war involvement",
+        "link": "https://www.thehindu.com/news/international/legal-limits-on-us-war-involvement/article70913674.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-01T05:45:57+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Trump backs FIFA letting Iran play at World Cup in US",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-backs-fifa-letting-iran-play-at-world-cup-in-us?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-01T05:22:40+00:00",
+        "published_at_utc": "2026-05-02T06:06:37+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "How LNG interests are seeking to disrupt global talks on decarbonising shipping",
-        "link": "https://www.theguardian.com/environment/2026/may/01/lng-liquefied-natural-gas-imo-talks-shipping",
+        "title": "Spirit Airlines ceases operations after 34 years amid financial struggles and high oil prices",
+        "link": "https://www.theguardian.com/business/2026/may/01/spirit-airlines-stops-operation-after-failed-deal",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-01T06:00:38+00:00",
+        "published_at_utc": "2026-05-02T06:37:09+00:00",
         "relevance_score": 21
       },
       {
-        "title": "Battered Chinese property stocks primed for comeback as industry shows signs of turning",
-        "link": "https://www.scmp.com/business/china-business/article/3352031/battered-chinese-property-stocks-primed-comeback-industry-shows-signs-turning?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-01T04:30:09+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "China scraps tariffs for all but one African nation",
-        "link": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-05-01T00:02:57+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Annual US inflation posts biggest gain in nearly three years in March - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjMwUDZ2eHNkSmQ2SEpIVElWeXllZnljUzR5eDhUOTEyYWdUdHZWc2dNQ2hsMkUxTm1qazVLTXFKVEs1Z25sRmJUNmxDN2staDRNb3g3Z2dMbnlEN3N5RkJfUUppdGtHTW1zZV9uLXpIdzBTNWRCV2MwNktQM3F6Y28yb3ljZTNfZGcwdzRGYzFNcUFSOUZ1ZUJJaEhiZVdXbWs1WDdmQWtHQ3J3?oc=5",
+        "title": "Trump's tariffs on EU autos show US to be unreliable, says EU parliament's trade committee chair - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZzN6WnQ2UjROZF9EbGRFVnRoU2I1dndHMnNzWHVOMXdyYUcwX3VDX3BKRE9yaV9ZTDRobkNGRTh5bUNTRG9KbXFIZlJ2N3BZNWF6SmtCcE1yZkVJMDkybGxSSmo3dDVUdjUxaEI1THdDMnJXYVBrTkxaTU9HTjYyTE5TWjViNDR4ZTVKdktub3NvRTVRbThiMnJDVXZGZlkyMlYyRGhUN3NvNW9vbWw1eENlTmNIS2NjUFBZMDJETDhPaWluSEtPOEp1X2UwZk84TnFR?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-04-30T18:42:11+00:00",
+        "published_at_utc": "2026-05-01T17:06:09+00:00",
         "relevance_score": 21
+      },
+      {
+        "title": "Wall St Week Ahead: US stocks rally could find fuel in earnings, jobs data amid surging oil prices - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONWhzaUhINzZkck1OQjhJS1NFTTJYN3B3QVlTbHpMaTAzR2NUSmVQZjlHQlZ3cjZnZERvNFVZeVhvd1I2YmdXT2h4VUV2TF9Bb3p2Tkl2dzVYcWNrcEpPUnh0SDAxbG00eHBYMHB5cTVUdUlFWERkckVmS0VqbUdicUJCX0RUd1R1akV1S3k0OWFZRE0xakthemZucEEydzZicWRVd09iUVR5eTF3dTZucTBoM3Vsc2dPNHE0?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-01T10:02:00+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "US LNG exports to Asia surged in April as Middle East conflict curtailed supply - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPU0Z5Rkh0VUNsOFFJb1NWUTd0VE1hWG5rdzJ6Y1lKRzA3WjgtUDUxd01uN0RTYUhuQXFyOEdJODJTUjVGLVBTSG9TN2o3bFlZa09YckQxZkFCTXJuTkM1RFZQZkJSSjU1OTBHVkJqQ0pPMFp1RXUyTWlFdFdtSGtscGxLRkRiVl9Zc3FHQ1VrQ0IwS1Z1YU5pYjNqZ2l1cmtrNml0V3JueFZzeEhsbWt0WWJCcFM2WF96WUQwZUlFbw?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-01T20:00:20+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "US sanctions China-based operator, others over alleged Iran oil trade links",
+        "link": "https://www.scmp.com/news/china/money-wealth/article/3352195/us-sanctions-china-based-operator-others-over-alleged-iran-oil-trade-links?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-01T19:08:21+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Wall Street rises towards more records as oil prices slip",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3352188/wall-street-rises-towards-more-records-oil-prices-slip?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-01T15:10:50+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "While Asia and Europe scramble for natural gas, the US glut has nowhere to go - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMlREZFdvblRlbHBMWWlsU05keDNlRDZhQUNUQW8yT1NQZDRjemkyNHJNbzFnOWdZNVBJeGRCVHBoWV9lUXhESDhLTjBJUXpPWHYzTjZ2WGNDaHRfbVFVTExzTUpEVjlPb2NYdFduaTlhNUl2SUFDd05ZWEUxQzdhN3N4eE02SEZ1aXdXTnIyWWtUSW9zRHg5aFQtem0zaFczQ00yTU5OZjBPSkRXQkN0bG5LZw?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-01T12:04:00+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "CEO pay soared in 2025, 20 times faster than workers’ pay",
+        "link": "https://www.theguardian.com/business/2026/may/01/ceo-pay-workers-minimum-wages",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-01T10:00:43+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Exxon and Chevron quarterly earnings fall despite soaring oil prices",
+        "link": "https://www.theguardian.com/business/2026/may/01/exxon-chevron-quarterly-earnings",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-01T16:42:17+00:00",
+        "relevance_score": 18
       },
       {
         "title": "Bank of England says rates could rise as Iran war fuels inflation",
         "link": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC Business",
         "published_at_utc": "2026-04-30T15:02:26+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Why are UK prices rising more quickly?",
-        "link": "https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-04-30T11:54:57+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Bank of England holds rates and spells out inflation risks from Iran war - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUxLemtDVGZyamRweGVXaUZxY1g3UExMRWcydjBMQUxTTk1DSkg1LWdaTXNHNEJTYTN4WU9ZSlZXZjdnd1hGY1FjSnhtSDRCRUN5MmRSSk1pVUNBZGc0TF9BRnJpMWFld3F1VnplelBQWHhqLTM0anpmazJpMTFGNDBpSFJtbEZLWTJzRGUtb1FTX0tzcmZoeGRMZ1prZHRvbERzdG5kQ24?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-30T11:15:23+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Russia says OPEC+ will continue after UAE exit, no price war expected - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc1hveFYtMEtSTUZ1MkNkUWVqQVoxcE05R3F1UG1TUTVKUzVaMHc1a0JPM0M0eWVGOERuS25DNUI0U1lBNHJlRlBFZHU0Vl9mTXJyTGNWeDM4Y2ZYWHVPV1gxRHFfQUd2WXVLU2UxUmctYkZXbGtDUW9VdUNKc0YwVzVJQ1h4cmsxcVdiRF9HQUZFT2RnM09HTUdULW1hX283X2xJTXpZUVZwQm53Sm9JMHNVZXl6d1VDd1VJ?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-30T14:24:25+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Cuba is running out of time. We need fuel now to save lives | Francisco Pichón",
-        "link": "https://www.theguardian.com/global-development/2026/apr/30/cuba-energy-crisis-us-blockade-fuel-humanitarian-disaster-healthcare-water",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-04-30T13:00:18+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Global oil price retreats after hitting 4-year high on concern of US-Iran war escalation - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQenNidWVwSUNlZUxVRDFaR3N2NVdjRXdmTmJNZGk2T2prVmh6bTJndHR1bm1PUmhmbjN2dkpMYTN5NG5IZlFNUExLclNlcWJMVzFrd1VjTXoxRlFEWmtPbDlGZ055WlJVbEhESGRob0hPVFVKemt2aDNhaGpDR1RzZmRORVM3M0RmbjhuY0ctSGlYaEJXYkVtbmZtZnZZNnZHX3FVcXNIQm4wOXJ1Mk83dXFILXdmQi0xcFYzMw?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-04-30T12:58:08+00:00",
         "relevance_score": 17
       }
     ]
