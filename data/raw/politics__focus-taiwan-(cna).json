@@ -5,11 +5,23 @@
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US",
     "feed_title": "\"when:24h allinurl:focustaiwan.tw\" - Google News",
     "feed_link": "https://news.google.com/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US",
-    "fetched_at_utc": "2026-05-02T08:56:41.802290+00:00",
-    "entry_count": 0,
+    "fetched_at_utc": "2026-05-03T09:12:59.762989+00:00",
+    "entry_count": 1,
     "bozo": false,
-    "failed": true,
-    "failure_reason": "feed returned zero entries"
+    "failed": false,
+    "failure_reason": ""
   },
-  "items": []
+  "items": [
+    {
+      "category": "politics",
+      "source_name": "Focus Taiwan (CNA)",
+      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US",
+      "title": "Chinese participants absent as Asia Pride Games open in Kaohsiung - Focus Taiwan",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NaEQ4R3J4T29kYVhWalZRMllSZms3RnkyU0VuR005b3FSa2F1TGNpb0hBUjVfZWJ4Yk5SVWxkV3p3SnpFaTlGMmMwTzBGR0pXUEYxd1dCYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NaEQ4R3J4T29kYVhWalZRMllSZms3RnkyU0VuR005b3FSa2F1TGNpb0hBUjVfZWJ4Yk5SVWxkV3p3SnpFaTlGMmMwTzBGR0pXUEYxd1dCYw?oc=5\" target=\"_blank\">Chinese participants absent as Asia Pride Games open in Kaohsiung</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Focus Taiwan</font>",
+      "published": "Sat, 02 May 2026 11:00:00 GMT",
+      "updated": "Sat, 02 May 2026 11:00:00 GMT",
+      "id": "CBMiV0FVX3lxTE5NaEQ4R3J4T29kYVhWalZRMllSZms3RnkyU0VuR005b3FSa2F1TGNpb0hBUjVfZWJ4Yk5SVWxkV3p3SnpFaTlGMmMwTzBGR0pXUEYxd1dCYw"
+    }
+  ]
 }
