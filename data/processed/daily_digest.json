@@ -1,25 +1,25 @@
 {
-  "generated_at_utc": "2026-05-03T09:13:14.119213+00:00",
+  "generated_at_utc": "2026-05-04T10:05:21.672304+00:00",
   "summary": {
-    "total_raw_items": 1075,
-    "total_deduped_items": 1049,
+    "total_raw_items": 1067,
+    "total_deduped_items": 1041,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "ai",
-        "platform_regulation",
-        "ai"
+        "space_tech",
+        "chips",
+        "social_media"
       ],
       "politics": [
         "us_politics",
         "us_politics",
-        "diplomacy"
+        "us_politics"
       ],
       "economy": [
-        "sanctions",
+        "inflation",
         "markets",
-        "corporate_earnings"
+        "supply_chain"
       ]
     },
     "multi_source_selected_count": 3
@@ -28,31 +28,31 @@
     "technology": [
       {
         "category": "technology",
-        "source_name": "Wired",
-        "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
-        "link": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
-        "summary": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
-        "published": "Fri, 01 May 2026 20:25:28 +0000",
-        "updated": "Fri, 01 May 2026 20:25:28 +0000",
-        "published_at_utc": "2026-05-01T20:25:28+00:00",
-        "id": "69efd07746809921753a0fa4",
-        "topic_type": "ai",
-        "relevance_score": 17,
+        "source_name": "SCMP World",
+        "title": "China ‘Madman of Science’ believes budget space travel is viable after low-cost rocket launch",
+        "link": "https://www.scmp.com/news/people-culture/china-personalities/article/3351730/china-madman-science-believes-budget-space-travel-viable-after-low-cost-rocket-launch?utm_source=rss_feed",
+        "summary": "An innovator in China has successfully launched a self-developed low-cost rocket, proving the feasibility of budget space exploration to the world. In February, the 12m Shenzhen Pioneer rocket made local history in China’s remote northeastern Qinghai province, reaching a record altitude of 3,700m and setting a new regional benchmark for liquid rocket launches. Built by a five-person team led by 31-year-old Lu Yulong, the rocket took just 15 days to build in Shenzhen. Lu, a self-taught innovator...",
+        "published": "Mon, 04 May 2026 10:00:22 +0000",
+        "updated": "Mon, 04 May 2026 10:00:22 +0000",
+        "published_at_utc": "2026-05-04T10:00:22+00:00",
+        "id": "https://www.scmp.com/news/people-culture/china-personalities/article/3351730/china-madman-science-believes-budget-space-travel-viable-after-low-cost-rocket-launch?utm_source=rss_feed",
+        "topic_type": "space_tech",
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
-          "news_focus_zh": "一個名為Build American AI的非營利組織，與由OpenAI和Andreessen Horowitz的高管資助的超級政治行動委員會（super PAC）有關，正在資助一項運動，旨在透過影響者傳播親美國人工智慧的訊息，同時激起對中國人工智慧的恐懼。此運動的目的是塑造公眾對中國AI的看法，將其視為威脅。",
-          "background": "在當前的科技競爭中，中美兩國在人工智慧領域的競爭愈演愈烈。美國的科技公司，特別是OpenAI，正面臨來自中國在AI技術快速發展的壓力。此背景下，許多美國企業及其支持者開始擔心中國的AI技術可能對美國的經濟及國家安全構成威脅。因此，針對中國AI的負面宣傳及推廣美國AI的正面形象，成為一些企業及其利益集團的策略之一。",
+          "news_focus": "An innovator in China has successfully launched a self-developed low-cost rocket, proving the feasibility of budget space exploration to the world. In February, the 12m Shenzhen Pioneer rocket made local history in China’s remote northeastern Qinghai province, reaching a record altitude of 3,700m and setting a new regional benchmark for liquid rocket launches. Built by a five-person team led by 31-year-old Lu Yulong, the rocket took just 15 days to build in Shenzhen. Lu, a self-taught innovator...",
+          "news_focus_zh": "中國創新者盧宇龍領導的五人團隊成功發射了一枚自製的低成本火箭，證明了預算太空探索的可行性。這枚名為深圳先鋒的火箭於2月份在中國偏遠的青海省創下了3700米的高度紀錄，並為液體火箭發射設定了新的區域基準。該火箭在深圳僅花了15天建造完成，顯示出中國在太空技術上的進步。",
+          "background": "隨著太空探索的商業化趨勢日益明顯，許多國家和企業都在尋求降低太空任務的成本。中國在過去幾年中加大了對太空技術的投資，並積極發展自主研發的火箭技術。這一背景下，低成本火箭的成功發射不僅展示了中國在太空領域的技術進步，也可能吸引更多的私人資本進入太空探索市場，促進相關產業的發展。",
           "stakeholders": [
-            "Build American AI",
-            "OpenAI",
-            "Andreessen Horowitz",
-            "美國政府",
-            "中國科技企業"
+            "盧宇龍",
+            "中國政府",
+            "私人太空企業",
+            "國際太空機構",
+            "投資者"
           ],
-          "analysis": "此事件反映了美國科技界在面對中國AI崛起時的焦慮與反應。Build American AI的資金來源與OpenAI和Andreessen Horowitz的關聯，顯示出這些企業對於塑造公眾輿論的重視。此運動可能會引發對中國AI的負面情緒，進一步影響政策制定者的決策。然而，這種策略也可能引發批評，認為這是一種利用恐懼來推動自身利益的行為。未來，隨著AI技術的發展與國際競爭的加劇，這種宣傳活動可能會更加頻繁，並引發更廣泛的社會討論。"
+          "analysis": "盧宇龍的成功發射可能會引發中國內部對於太空探索的更大關注，並激勵其他創新者進一步探索低成本解決方案。這一事件也可能對國際太空市場產生影響，尤其是在商業太空旅行和衛星發射服務方面。隨著中國在太空技術上逐漸崛起，其他國家可能會重新評估其在太空探索中的策略和投資。此外，這一成就也可能引起國際社會對中國太空計畫的關注，特別是在技術轉移和國際合作方面的潛在機會與挑戰。"
         },
-        "topic_priority_score": 9,
-        "event_type": "regulation_action",
+        "topic_priority_score": 4,
+        "event_type": "product_launch",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -61,520 +61,524 @@
       },
       {
         "category": "technology",
-        "source_name": "Wired",
-        "title": "What You Need to Know About the Foreign-Made Router Ban in the US",
-        "link": "https://www.wired.com/story/us-government-foreign-made-router-ban-explained/",
-        "summary": "The FCC banned the sale of new consumer-grade Wi-Fi routers and mobile hot spots manufactured outside the US. Here’s what it means for you.",
-        "published": "Sat, 02 May 2026 11:30:00 +0000",
-        "updated": "Sat, 02 May 2026 11:30:00 +0000",
-        "published_at_utc": "2026-05-02T11:30:00+00:00",
-        "id": "69c2b2ed091b67bde20865bb",
-        "topic_type": "platform_regulation",
-        "relevance_score": 16,
+        "source_name": "SCMP World",
+        "title": "AI helped Shenzhen judges handle cases 50% faster. Is this the future for China?",
+        "link": "https://www.scmp.com/news/china/politics/article/3352161/ai-helped-shenzhen-judges-handle-cases-50-faster-future-china?utm_source=rss_feed",
+        "summary": "Judges in Shenzhen – China’s Silicon Valley – processed 50 per cent more cases last year than in 2024 with the help of a pilot system powered by AI technology, according to the city’s Intermediate People’s Court. It said the artificial intelligence-driven system would now be introduced in the courts of dozens more Chinese cities. In a social media post on Tuesday, the Shenzhen Intermediate People’s Court said each judge in the city had handled an average of 744 cases in 2025 – up by 249 cases...",
+        "published": "Mon, 04 May 2026 04:00:08 +0000",
+        "updated": "Mon, 04 May 2026 04:00:08 +0000",
+        "published_at_utc": "2026-05-04T04:00:08+00:00",
+        "id": "https://www.scmp.com/news/china/politics/article/3352161/ai-helped-shenzhen-judges-handle-cases-50-faster-future-china?utm_source=rss_feed",
+        "topic_type": "chips",
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "The FCC banned the sale of new consumer-grade Wi-Fi routers and mobile hot spots manufactured outside the US. Here’s what it means for you.",
-          "news_focus_zh": "美國聯邦通信委員會（FCC）禁止銷售新型的消費級Wi-Fi路由器和移動熱點，這些設備必須在美國境內製造。此禁令旨在加強國內安全，防範外國製造的設備可能帶來的風險，特別是在數據安全和隱私方面。",
-          "background": "近年來，美國對於外國科技產品的安全性問題越來越重視，尤其是來自中國的產品。FCC的這項禁令是對外國製造的網絡設備進行更嚴格監管的一部分，反映出美國政府對於網絡安全的擔憂。這一政策可能會影響消費者的選擇，並促使國內製造業的發展，因為企業需要尋找符合新規的替代方案。",
+          "news_focus": "Judges in Shenzhen – China’s Silicon Valley – processed 50 per cent more cases last year than in 2024 with the help of a pilot system powered by AI technology, according to the city’s Intermediate People’s Court. It said the artificial intelligence-driven system would now be introduced in the courts of dozens more Chinese cities. In a social media post on Tuesday, the Shenzhen Intermediate People’s Court said each judge in the city had handled an average of 744 cases in 2025 – up by 249 cases...",
+          "news_focus_zh": "深圳市中級人民法院報告指出，該市法官在2025年利用人工智慧技術的試點系統，案件處理速度提升了50%。每位法官平均處理744件案件，較2024年增加249件。該法院計劃在更多中國城市推廣這一人工智慧驅動的系統，顯示出科技在法律領域的應用潛力。",
+          "background": "深圳被譽為中國的矽谷，擁有強大的科技創新能力。隨著人工智慧技術的迅速發展，各行各業都在探索其應用潛力，尤其是在法律和司法系統中。中國政府積極推動數字化轉型，並將人工智慧視為提升行政效率的重要工具。深圳的這一試點計劃不僅反映了地方政府的創新實踐，也可能成為全國範圍內的政策示範，影響中國未來的司法運作模式。",
           "stakeholders": [
-            "美國聯邦通信委員會（FCC）",
-            "消費者",
-            "國內製造商",
-            "外國製造商",
-            "網絡安全專家"
+            "深圳市中級人民法院",
+            "中國政府",
+            "法官",
+            "法律專業人士",
+            "科技公司"
           ],
-          "analysis": "這項禁令的實施將對美國的消費者和市場產生深遠影響。消費者可能面臨更高的價格和有限的產品選擇，因為國內製造的路由器和熱點設備可能無法迅速滿足市場需求。此外，這項政策可能會引發外國製造商的反彈，並可能影響美國與其他國家的貿易關係。支持此禁令的官員認為，這是保護國家安全的必要措施，而反對者則擔心這會限制市場競爭，並增加消費者的負擔。隨著禁令的實施，市場可能會出現新的競爭格局，未來的發展值得關注。"
+          "analysis": "深圳法官利用人工智慧系統提高案件處理效率，顯示出科技在司法領域的潛在變革。這一進展可能會引發其他城市和地區的模仿，促進全國範圍內的司法改革。支持者認為，這將提升法律服務的效率和公平性，減少法官的工作壓力。然而，批評者可能會擔心人工智慧在法律決策中的應用可能導致的偏見和透明度問題。此外，這一做法也可能引發對於數據隱私和安全性的討論，特別是在涉及敏感案件的情況下。整體而言，深圳的這一舉措可能成為中國司法系統未來發展的重要指標。"
         },
-        "topic_priority_score": 8,
-        "event_type": "regulation_action",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "Taipei Times",
-        "title": "Oscars set new rules for artificial intelligence",
-        "link": "https://www.taipeitimes.com/News/world/archives/2026/05/03/2003856685",
-        "summary": "",
-        "published": "",
-        "updated": "2026-05-03T08:00:00+08:00",
-        "published_at_utc": "2026-05-03T00:00:00+00:00",
-        "id": "https://www.taipeitimes.com/News/world/archives/2026/05/03/2003856685",
-        "topic_type": "ai",
-        "relevance_score": 15,
-        "briefing": {
-          "news_focus": "Oscars set new rules for artificial intelligence",
-          "news_focus_zh": "奧斯卡頒獎典禮宣布將針對人工智慧（AI）制定新規則，具體內容尚未公開。此舉顯示出對於AI在創意產業中日益增長的影響的重視，並可能影響未來電影製作及評選的標準。",
-          "background": "隨著人工智慧技術的迅速發展，許多行業開始探索其應用潛力，特別是在創意產業中。奧斯卡作為電影界的最高榮譽，對於AI的規範將可能影響整個電影生態系統。近期，美國國防部也宣布將軍事力量轉型為以AI為主的作戰力量，顯示出AI在各個領域的重要性和潛在影響力。此外，許多個人也開始透過出售自己的數據來參與AI訓練，這引發了對於數據隱私和倫理的討論。",
-          "stakeholders": [
-            "奧斯卡頒獎典禮",
-            "電影製作人",
-            "科技公司",
-            "美國國防部",
-            "數據提供者"
-          ],
-          "analysis": "奧斯卡的新規則可能會引發電影製作人和技術公司的不同反應。製作人可能擔心AI技術會影響創意表達和藝術價值，而技術公司則可能支持這些規則以促進AI的合法應用。參考報導中提到的美國軍方AI優先策略，顯示出政府對於AI技術的重視，可能會促使更多資源投入到AI的發展中，進一步影響娛樂產業的技術應用。此外，關於個人數據出售的報導則突顯了AI訓練中涉及的倫理問題，這可能成為奧斯卡在制定新規則時需要考量的重要因素。"
-        },
-        "topic_priority_score": 9,
+        "topic_priority_score": 10,
         "event_type": "strategic_move",
-        "supporting_sources": [
-          "BBC Technology",
-          "The Guardian Technology"
-        ],
-        "supporting_titles": [
-          "Pentagon says US military to be an 'AI-first' fighting force",
-          "Thousands of people are selling their identities to train AI – but at what cost?"
-        ],
-        "supporting_summaries": [
-          "The US military has agreed eight new contracts with big tech firms as it expands its artificial intelligence capabilities.",
-          "Gig AI trainers worldwide are selling moments of their lives, including calls and texts, to AI companies for quick cash One morning last year, Jacobus Louw set out on his daily neighborhood walk to feed the seagulls he finds along the way. Except this time, he recorded several videos of his feet and the view as he walked on the pavement. The video earned him $14, about 10 times the country’s minimum wage, or for Louw, a 27-year-old based in Cape Town, South Africa, half a week’s worth of groceries. The video was for an “Urban Navigation” task Louw found on Kled AI, an app that pays contributors for uploading their data, such as videos and photos, to train artificial intelligence models. In a couple of weeks, Louw made $50 by uploading pictures and videos of his everyday life. Continue reading..."
-        ],
-        "supporting_links": [
-          "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
-          "https://www.theguardian.com/technology/2026/mar/21/ai-trainers-identity-cost"
-        ],
-        "source_count": 3
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "Rest of World",
+        "title": "Motorola’s India lawsuit could make platforms police speech faster",
+        "link": "https://restofworld.org/2026/motorola-india-lawsuit-social-media-defamation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "summary": "The American phonemaker's Indian arm has named X, YouTube, Instagram, Facebook, Threads, Google, and Meta in a lawsuit asking to take down existing and future “defamatory” content.",
+        "published": "Mon, 04 May 2026 10:00:00 +0000",
+        "updated": "Mon, 04 May 2026 10:00:00 +0000",
+        "published_at_utc": "2026-05-04T10:00:00+00:00",
+        "id": "https://restofworld.org/2026/motorola-india-lawsuit-social-media-defamation/",
+        "topic_type": "social_media",
+        "relevance_score": 18,
+        "briefing": {
+          "news_focus": "The American phonemaker's Indian arm has named X, YouTube, Instagram, Facebook, Threads, Google, and Meta in a lawsuit asking to take down existing and future “defamatory” content.",
+          "news_focus_zh": "美國手機製造商摩托羅拉在印度提起訴訟，針對社交媒體平台X、YouTube、Instagram、Facebook、Threads、Google及Meta，要求這些平台刪除現有及未來的「誹謗」內容。此舉可能促使這些平台加速監管用戶言論，影響社交媒體的內容管理政策。",
+          "background": "摩托羅拉在印度的法律行動反映了當地對於網路言論的日益關注。隨著社交媒體的普及，誹謗和不實信息的問題愈發嚴重，企業和個人都可能受到影響。印度政府也在推動更嚴格的網路監管政策，要求平台對於用戶生成內容負更多責任。這一訴訟可能成為未來類似案件的先例，促使其他企業採取類似行動以保護自身聲譽。",
+          "stakeholders": [
+            "摩托羅拉",
+            "社交媒體平台",
+            "印度政府",
+            "用戶",
+            "法律界"
+          ],
+          "analysis": "摩托羅拉的訴訟可能會引發社交媒體平台在內容管理上的重大變化。若法院支持摩托羅拉的要求，這將迫使平台在監控和刪除內容方面加快步伐，可能導致用戶言論自由受到限制。另一方面，這也可能引發平台與用戶之間的信任危機，因為用戶可能會擔心自己的言論被隨意刪除。此外，這一訴訟可能影響其他企業的行為，促使它們也採取法律手段來維護自身利益，進一步加劇平台的監管壓力。"
+        },
+        "topic_priority_score": 6,
+        "event_type": "regulation_action",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       }
     ],
     "politics": [
       {
         "category": "politics",
-        "source_name": "BBC World",
-        "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
-        "link": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
-        "summary": "The chairs of the House and Senate armed services committees say withdrawing 5,000 service personnel risked undermining deterrence.",
-        "published": "Sun, 03 May 2026 08:41:23 GMT",
-        "updated": "Sun, 03 May 2026 08:41:23 GMT",
-        "published_at_utc": "2026-05-03T08:41:23+00:00",
-        "id": "https://www.bbc.com/news/articles/cewpx5yvwyxo#0",
-        "topic_type": "us_politics",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "The chairs of the House and Senate armed services committees say withdrawing 5,000 service personnel risked undermining deterrence.",
-          "news_focus_zh": "美國國會兩位高層共和黨人指出，德國計劃撤回5,000名軍事人員的決定可能會向俄羅斯傳遞錯誤的信號，並可能削弱對俄羅斯的威懾力。他們擔心這一行動可能會影響北約的整體防禦能力。",
-          "background": "德國在北約的角色一直是維持歐洲安全的重要一環。隨著俄烏衝突的持續，西方國家對於軍事部署的策略變得更加敏感。美國和德國之間的軍事合作歷來是北約防禦架構的基石，而德國的軍事人員撤回計畫可能會被視為對俄羅斯的威脅減少，從而影響整體地緣政治局勢。",
-          "stakeholders": [
-            "德國政府",
-            "美國國會共和黨",
-            "北約",
-            "俄羅斯政府",
-            "歐洲安全政策制定者"
-          ],
-          "analysis": "美國國會的兩位共和黨領袖對德國的軍隊撤回計畫表達了強烈的擔憂，認為這可能削弱對俄羅斯的威懾力，進而影響北約的防禦能力。這反映出美國對於歐洲安全的重視，尤其是在當前俄烏衝突的背景下。德國的軍事部署決策可能會引發其他北約成員國的擔憂，進一步影響北約的團結與合作。儘管德國可能有其內部的軍事調整考量，但在當前的地緣政治環境中，這一行動的信號可能被解讀為對俄方的妥協，從而引發更大的安全隱患。"
-        },
-        "topic_priority_score": 8,
-        "event_type": "political_signal",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "Germany focuses on shared interests after U.S. announces troop drawdown",
-        "link": "https://www.thehindu.com/news/international/germany-focuses-on-shared-interests-after-us-announces-troop-drawdown/article70934273.ece",
-        "summary": "Germany’s Defence Minister called the move “foreseeable,” apparently alluding to President Donald Trump's recent threat of a drawdown the country",
-        "published": "Sun, 03 May 2026 09:46:47 +0530",
-        "updated": "Sun, 03 May 2026 09:46:47 +0530",
-        "published_at_utc": "2026-05-03T04:16:47+00:00",
-        "id": "article-70934273",
-        "topic_type": "us_politics",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "Germany’s Defence Minister called the move “foreseeable,” apparently alluding to President Donald Trump's recent threat of a drawdown the country",
-          "news_focus_zh": "德國國防部長對美國宣布撤軍的決定表示此舉是「可預見的」，這似乎暗示著特朗普總統近期對撤軍的威脅。德國方面強調將專注於共同利益，以應對美國軍事部署的變化。",
-          "background": "美國在全球的軍事部署一直是國際政治的重要議題，特別是在北約成員國中。德國作為北約的重要成員，長期以來依賴美國的軍事支持來維持其國防能力。特朗普政府曾多次對北約盟友施壓，要求他們增加國防開支，並暗示可能會調整美國在歐洲的軍事存在。這樣的背景使得德國對美國的撤軍計劃感到關注，並促使其重新評估與美國的軍事合作及其自身的防衛策略。",
-          "stakeholders": [
-            "德國政府",
-            "美國政府",
-            "北約",
-            "德國軍方",
-            "歐洲盟國"
-          ],
-          "analysis": "德國國防部長的回應顯示出對美國撤軍的預期，並強調尋求共同利益的重要性。這反映出德國在面對美國政策變化時，試圖保持穩定的國防合作關係。各方可能會對美國撤軍的具體影響進行不同解讀，德國可能會加強與其他北約成員國的合作，以彌補美國軍事存在的減少。此外，德國也可能會考慮增加自身的軍事開支，以確保國家安全。這一動態可能會影響北約的整體戰略，並引發其他成員國對美國軍事承諾的重新評估。"
-        },
-        "topic_priority_score": 8,
-        "event_type": "security_event",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
         "source_name": "SCMP World",
-        "title": "Indonesia’s aim to lure more K-pop concerts spurs chorus of doubts",
-        "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3352158/indonesias-aim-lure-more-k-pop-concerts-spurs-chorus-doubts?utm_source=rss_feed",
-        "summary": "When Indonesian President Prabowo Subianto recently visited Seoul for a state visit, one of the most memorable moments was a photo that he took with a 19-year-old Indonesian K-pop idol. Nyoman Ayu Carmenita, better known as Carmen of the girl group Hearts2Hearts, symbolises Indonesia’s ascendancy in the K-pop universe: no longer just a vast market for the genre’s stars, with the country increasingly playing a part in the industry’s global growth. Foreign Minister Sugiono said on April 22 that...",
-        "published": "Sun, 03 May 2026 00:00:12 +0000",
-        "updated": "Sun, 03 May 2026 00:00:12 +0000",
-        "published_at_utc": "2026-05-03T00:00:12+00:00",
-        "id": "https://www.scmp.com/week-asia/lifestyle-culture/article/3352158/indonesias-aim-lure-more-k-pop-concerts-spurs-chorus-doubts?utm_source=rss_feed",
-        "topic_type": "diplomacy",
-        "relevance_score": 17,
+        "title": "China says to ignore US sanctions even as Trump visit nears",
+        "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3352361/china-says-ignore-us-sanctions-even-trump-visit-nears?utm_source=rss_feed",
+        "summary": "China ordered companies to ignore US sanctions against five oil refiners accused of buying Iranian crude, an unprecedented pushback against American financial measures less than two weeks before a presidential summit. The US action “violates international law and the basic norms of international relations”, China’s Ministry of Commerce said on Saturday. The sanctions cover a refinery in Dalian owned by Shanghai-listed Hengli Petrochemical, along with four independent “teapot” refineries –...",
+        "published": "Mon, 04 May 2026 09:01:20 +0000",
+        "updated": "Mon, 04 May 2026 09:01:20 +0000",
+        "published_at_utc": "2026-05-04T09:01:20+00:00",
+        "id": "https://www.scmp.com/plus/news/china/diplomacy/article/3352361/china-says-ignore-us-sanctions-even-trump-visit-nears?utm_source=rss_feed",
+        "topic_type": "us_politics",
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "When Indonesian President Prabowo Subianto recently visited Seoul for a state visit, one of the most memorable moments was a photo that he took with a 19-year-old Indonesian K-pop idol. Nyoman Ayu Carmenita, better known as Carmen of the girl group Hearts2Hearts, symbolises Indonesia’s ascendancy in the K-pop universe: no longer just a vast market for the genre’s stars, with the country increasingly playing a part in the industry’s global growth. Foreign Minister Sugiono said on April 22 that...",
-          "news_focus_zh": "印尼總統普拉博沃·蘇比安托最近訪問首爾，並與19歲的印尼K-pop偶像卡門合影，象徵著印尼在K-pop界的崛起。印尼不再僅是K-pop明星的市場，而是逐漸在全球音樂產業中扮演重要角色。外交部長蘇基諾於4月22日表示，印尼希望吸引更多K-pop音樂會，然而此舉引發了外界的質疑與擔憂。",
-          "background": "印尼的音樂市場在近年來逐漸受到K-pop文化的影響，尤其是年輕世代對韓國流行音樂的熱愛。隨著印尼偶像的崛起，該國希望能在K-pop產業中占有一席之地，並吸引更多國際音樂活動。印尼政府的政策也逐漸轉向促進文化交流，並希望藉此提升國家形象及經濟收益。然而，這一目標的實現面臨著多重挑戰，包括市場競爭、文化適應及國內外的接受度。",
+          "news_focus": "China ordered companies to ignore US sanctions against five oil refiners accused of buying Iranian crude, an unprecedented pushback against American financial measures less than two weeks before a presidential summit. The US action “violates international law and the basic norms of international relations”, China’s Ministry of Commerce said on Saturday. The sanctions cover a refinery in Dalian owned by Shanghai-listed Hengli Petrochemical, along with four independent “teapot” refineries –...",
+          "news_focus_zh": "中國政府命令國內企業無視美國對五家石油煉油廠的制裁，這些煉油廠被指控購買伊朗原油。中國商務部表示，美國的制裁行為違反國際法及國際關係基本準則，這一舉措是在特朗普總統訪問前的兩週內發出的，顯示出中國對美國金融措施的強烈反擊。",
+          "background": "美國對伊朗的制裁政策已經持續多年，主要是針對伊朗的核計劃及其在中東的影響力。此次制裁針對的五家煉油廠中，包括了大連的恒力石化和四家獨立的“茶壺”煉油廠，這些企業在中國的能源供應鏈中扮演著重要角色。中國作為全球最大的石油進口國之一，對伊朗原油的需求仍然強勁，這使得中國在面對美國制裁時，必須考量其能源安全與國際貿易的平衡。",
           "stakeholders": [
-            "印尼政府",
-            "K-pop藝人",
-            "印尼音樂產業",
-            "文化觀察者",
-            "當地觀眾"
+            "中國政府",
+            "美國政府",
+            "石油煉油廠",
+            "國際貿易企業",
+            "伊朗政府"
           ],
-          "analysis": "印尼政府希望通過吸引更多K-pop音樂會來提升國內文化產業的發展，並進一步融入全球音樂市場。然而，這一計畫引發了外界的質疑，主要集中在印尼是否具備足夠的基礎設施和市場需求來支持這一目標。此外，K-pop的流行可能會對印尼本土音樂產生影響，導致文化同質化的擔憂。各方對於印尼在K-pop產業中的角色定位存在不同看法，部分觀察者認為這是印尼文化自信的表現，而另一些則擔心這可能會削弱本土文化的獨特性。"
+          "analysis": "中國對美國制裁的強烈反應顯示出其在國際貿易中維護自身利益的決心。中國商務部的聲明不僅是對美國政策的反擊，也是對國內企業的一種支持，鼓勵他們繼續與伊朗進行貿易。這一行動可能會引發美國進一步的制裁措施，並加劇中美之間的緊張關係。隨著特朗普訪問的臨近，中國的這一決策可能會成為雙方談判中的一個重要議題，影響未來的外交動態。各方可能會在貿易、能源安全及國際法的解釋上展開激烈的討論。"
         },
-        "topic_priority_score": 7,
+        "topic_priority_score": 8,
         "event_type": "diplomatic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
         "supporting_links": [],
         "source_count": 1
+      },
+      {
+        "category": "politics",
+        "source_name": "The Hindu International",
+        "title": "Israel-Iran war updates: Trump announces 'Project Freedom' to help stranded ships out of Strait of Hormuz",
+        "link": "https://www.thehindu.com/news/international/iran-israel-us-war-trump-ceasefire-news-strait-of-hormuz-live-may-3-2026/article70934287.ece",
+        "summary": "Amid Trump's announcement, Ebrahim Azizi, head of the national security commission in Iran's parliament, said that any U.S. action in Strait of Hormuz would be a breach of ceasefire",
+        "published": "Mon, 04 May 2026 06:24:49 +0530",
+        "updated": "Mon, 04 May 2026 06:24:49 +0530",
+        "published_at_utc": "2026-05-04T00:54:49+00:00",
+        "id": "article-70934287",
+        "topic_type": "us_politics",
+        "relevance_score": 20,
+        "briefing": {
+          "news_focus": "Amid Trump's announcement, Ebrahim Azizi, head of the national security commission in Iran's parliament, said that any U.S. action in Strait of Hormuz would be a breach of ceasefire",
+          "news_focus_zh": "特朗普宣布啟動名為「自由計畫」的行動，旨在協助被困於霍爾木茲海峽的船隻。此舉引起伊朗國會國家安全委員會主席艾布拉欣·阿齊齊的強烈反對，他表示任何美國在霍爾木茲海峽的行動都將違反停火協議。",
+          "background": "霍爾木茲海峽是全球最重要的石油運輸通道之一，近年來因美伊緊張關係而成為衝突焦點。美國與伊朗之間的對抗加劇，特別是在特朗普政府期間，雙方在該地區的軍事行動與言辭交鋒頻繁。特朗普的「自由計畫」意在強化美國在該地區的影響力，並保障航運安全，然而伊朗則強烈反對外國軍事介入，認為這將威脅到其國家安全與主權。",
+          "stakeholders": [
+            "美國政府",
+            "伊朗政府",
+            "國際航運公司",
+            "中東地區國家",
+            "全球石油市場"
+          ],
+          "analysis": "特朗普的「自由計畫」意在提升美國在霍爾木茲海峽的軍事存在，這可能會引發伊朗的強烈反應。根據參考報導，伊朗國會官員已明言美國的行動將被視為對停火協議的違反，顯示出雙方在該地區的緊張局勢可能進一步升級。美國希望通過此計畫來保護國際航運，但伊朗則可能會視此為挑釁，進一步加劇地緣政治緊張。此外，參考報導1中提到特朗普的具體行動計畫，強調了美國的主動性，而其他報導則未涉及具體細節，這反映出不同媒體對事件的關注重點有所不同。"
+        },
+        "topic_priority_score": 8,
+        "event_type": "election_move",
+        "supporting_sources": [
+          "Al Jazeera",
+          "Taipei Times"
+        ],
+        "supporting_titles": [
+          "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
+          "US airlines help stranded passengers as Spirit closes"
+        ],
+        "supporting_summaries": [
+          "President Trump said the US will begin Project Freedom on Monday to guide stranded ships out of the Strait of Hormuz.",
+          ""
+        ],
+        "supporting_links": [
+          "https://www.aljazeera.com/news/2026/5/4/iran-warns-us-to-stay-out-of-hormuz-after-trump-says-us-will-guide-ships?traffic_source=rss",
+          "https://www.taipeitimes.com/News/world/archives/2026/05/04/2003856730"
+        ],
+        "source_count": 3
+      },
+      {
+        "category": "politics",
+        "source_name": "The Guardian Business",
+        "title": "Young Americans have soured on Trump | Steven Greenhouse",
+        "link": "https://www.theguardian.com/commentisfree/2026/may/03/young-americans-trump-elections",
+        "summary": "The president’s approval rating with those under 30 has plummeted as he has failed to deliver on promise after promise Republicans rejoiced when far more young voters than expected backed Donald Trump in 2024, with many of them moved by Trump’s grandiose promises, such as his vow to “ build the greatest economy in the history of the world”. But Republicans should be alarmed that so many 18- to 29-year-olds have soured on Trump – his approval rating with that group has sunk from 48% in January 2025 to between just 25% and 33% in recent months , according to polls by YouGov/the Economist. It shouldn’t be a surprise that millions of young Americans have turned against Trump, considering that he has failed to deliver on so many promises, most notably his vow to reduce prices on day one . For young people, inflation is the No 1 economic issue , far outpacing other issues, and they very much wanted Trump to focus on affordability, but Trump has focused on everything but affordability. He’s focused instead on his glitzy, $400m ballroom , his war against Iran (which has increased gas prices ), and his tariff wars (which have increased overall inflation). In bad news for Republicans, 78% of Americans under age 30 disapprove of how Trump is handling inflation. Steven Greenhouse is a journalist and author, focusing on labor and the workplace, as well as economic and legal issues Continue reading...",
+        "published": "Sun, 03 May 2026 13:00:02 GMT",
+        "updated": "2026-05-03T13:00:02Z",
+        "published_at_utc": "2026-05-03T13:00:02+00:00",
+        "id": "https://www.theguardian.com/commentisfree/2026/may/03/young-americans-trump-elections",
+        "topic_type": "us_politics",
+        "relevance_score": 18,
+        "briefing": {
+          "news_focus": "The president’s approval rating with those under 30 has plummeted as he has failed to deliver on promise after promise Republicans rejoiced when far more young voters than expected backed Donald Trump in 2024, with many of them moved by Trump’s grandiose promises, such as his vow to “ build the greatest economy in the history of the world”. But Republicans should be alarmed that so many 18- to 29-year-olds have soured on Trump – his approval rating with that group has sunk from 48% in January 2025 to between just 25% and 33% in recent months , according to polls by YouGov/the Economist. It shouldn’t be a surprise that millions of young Americans have turned against Trump, considering that he has failed to deliver on so many promises, most notably his vow to reduce prices on day one . For young people, inflation is the No 1 economic issue , far outpacing other issues, and they very much wanted Trump to focus on affordability, but Trump has focused on everything but affordability. He’s focused instead on his glitzy, $400m ballroom , his war against Iran (which has increased gas prices ), and his tariff wars (which have increased overall inflation). In bad news for Republicans, 78% of Americans under age 30 disapprove of how Trump is handling inflation. Steven Greenhouse is a journalist and author, focusing on labor and the workplace, as well as economic and legal issues Continue reading...",
+          "news_focus_zh": "根據最新民調，年輕美國人對特朗普的支持率大幅下降，從2025年1月的48%降至目前的25%至33%。這一變化主要源於特朗普未能兌現其承諾，尤其是在通脹問題上，年輕選民對其處理經濟的表現感到失望。儘管年輕選民曾對特朗普的宏大承諾抱有期待，但他們對其在通脹和生活成本上的無能為力感到不滿，78%的年輕選民不滿意特朗普對通脹的處理。",
+          "background": "特朗普在2024年選舉中獲得了意外的年輕選民支持，這使得共和黨對其未來的政治前景感到樂觀。然而，隨著通脹成為年輕選民最關心的經濟議題，特朗普未能專注於降低生活成本，反而將注意力放在其他議題上，導致年輕選民的支持率驟降。年輕選民的經濟壓力加劇，使得他們對特朗普的失望情緒加深，這對共和黨在即將到來的選舉中構成挑戰。",
+          "stakeholders": [
+            "特朗普",
+            "年輕選民",
+            "共和黨",
+            "經濟學家",
+            "媒體"
+          ],
+          "analysis": "年輕選民的支持率下降顯示出特朗普在經濟議題上的失誤，特別是在通脹問題上。根據參考報導，特朗普的施政表現將受到選民對經濟狀況的評價影響，這意味著如果生活成本持續上升，他的支持率可能會進一步下滑。共和黨需要重新評估其政策方向，以吸引年輕選民的支持，否則在未來的選舉中可能面臨更大的挑戰。參考報導強調了經濟狀況對選民投票行為的重要性，這與主新聞中年輕選民對通脹的關注相呼應，顯示出經濟議題在選舉中的關鍵性。"
+        },
+        "topic_priority_score": 8,
+        "event_type": "election_move",
+        "supporting_sources": [
+          "BBC Business"
+        ],
+        "supporting_titles": [
+          "Voters will judge Trump on the economy - how is it doing?"
+        ],
+        "supporting_summaries": [
+          "How much Donald Trump can do with the time he has left as president will depend massively on the cost of living."
+        ],
+        "supporting_links": [
+          "https://www.bbc.com/news/articles/cgepyv20vrpo?at_medium=RSS&at_campaign=rss"
+        ],
+        "source_count": 2
       }
     ],
     "economy": [
       {
         "category": "economy",
-        "source_name": "Al Jazeera",
-        "title": "China blocks US sanctions against five ‘teapot’ refineries",
-        "link": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries?traffic_source=rss",
-        "summary": "Ministry of Commerce says sanctions against refineries accused of importing Iranian oil violate international law.",
-        "published": "Sun, 03 May 2026 06:57:42 +0000",
-        "updated": "Sun, 03 May 2026 06:57:42 +0000",
-        "published_at_utc": "2026-05-03T06:57:42+00:00",
-        "id": "https://www.aljazeera.com/?t=1777780250",
-        "topic_type": "sanctions",
+        "source_name": "The Guardian Business",
+        "title": "Could Iran’s escalating economic crisis weaken negotiating position with US?",
+        "link": "https://www.theguardian.com/world/2026/may/04/could-irans-escalating-economic-crisis-weaken-negotiating-position-with-us",
+        "summary": "War has combined with battered economy to leave Tehran wondering how hardline it can afford to be Iran may not be choking like a stuffed pig as Donald Trump predicted, but its economy is in serious difficulty as a combination of a massive war-damages bill, inflation, currency devaluation, unemployment and a contraction in oil revenues combine to leave the political elite worrying how hardline they can afford to be with their US negotiators. One estimate circulating in Iran’s media suggests the damage to the economy from the US-Israeli attacks is nine times the value of the Iranian budget last year. The UN Development Programme has estimated that 4.1 million more Iranians could fall into poverty. Continue reading...",
+        "published": "Mon, 04 May 2026 05:00:15 GMT",
+        "updated": "2026-05-04T05:00:15Z",
+        "published_at_utc": "2026-05-04T05:00:15+00:00",
+        "id": "https://www.theguardian.com/world/2026/may/04/could-irans-escalating-economic-crisis-weaken-negotiating-position-with-us",
+        "topic_type": "inflation",
         "relevance_score": 25,
         "briefing": {
-          "news_focus": "Ministry of Commerce says sanctions against refineries accused of importing Iranian oil violate international law.",
-          "news_focus_zh": "中國商務部宣布，針對五家被指控進口伊朗石油的‘茶壺’煉油廠的美國制裁措施違反國際法，並已對這些制裁進行阻止。這一行動顯示中國對美國制裁政策的強烈反對，並強調其企業在國際貿易中的合法權利。",
-          "background": "美國對伊朗的制裁政策旨在限制其石油出口，並對與伊朗有貿易往來的國家和企業施加壓力。中國作為全球最大的石油進口國之一，與伊朗有著密切的能源合作關係。中國政府一貫反對單邊制裁，認為這些措施不僅影響雙邊貿易，也損害了國際貿易的正常運行。此事件發生在中美貿易緊張局勢持續升溫的背景下，兩國在經濟、科技等多個領域的競爭愈發激烈。",
+          "news_focus": "War has combined with battered economy to leave Tehran wondering how hardline it can afford to be Iran may not be choking like a stuffed pig as Donald Trump predicted, but its economy is in serious difficulty as a combination of a massive war-damages bill, inflation, currency devaluation, unemployment and a contraction in oil revenues combine to leave the political elite worrying how hardline they can afford to be with their US negotiators. One estimate circulating in Iran’s media suggests the damage to the economy from the US-Israeli attacks is nine times the value of the Iranian budget last year. The UN Development Programme has estimated that 4.1 million more Iranians could fall into poverty. Continue reading...",
+          "news_focus_zh": "伊朗面臨嚴重的經濟危機，這使得當地政治精英對於與美國的談判立場感到擔憂。隨著戰爭造成的巨大損失、通貨膨脹、貨幣貶值、失業率上升以及石油收入減少，伊朗的經濟狀況日益惡化。有報導指出，來自美國和以色列的攻擊造成的經濟損失，估計是伊朗去年預算的九倍。聯合國開發計劃署預測，將有410萬伊朗人可能陷入貧困。",
+          "background": "伊朗的經濟危機源於多重因素，包括國際制裁、內部政策失誤以及持續的軍事衝突。自特朗普政府實施制裁以來，伊朗的經濟受到重創，尤其是石油產業的萎縮影響了國家收入。隨著戰爭的加劇，伊朗的基礎設施和經濟體系遭受了進一步的損害，導致通脹飆升和貨幣貶值。這一系列問題使得伊朗政府在與美國的談判中，面臨更大的壓力和挑戰。",
           "stakeholders": [
-            "中國政府",
-            "美國政府",
             "伊朗政府",
-            "中國企業",
-            "國際貿易組織"
+            "美國政府",
+            "聯合國開發計劃署",
+            "中國",
+            "伊朗革命衛隊"
           ],
-          "analysis": "中國商務部的聲明強調，美國的制裁措施不僅對中國企業造成影響，也違反了國際貿易的基本規範，這顯示出中國在捍衛自身經濟利益方面的堅定立場。參考報導指出，中國政府認為這些制裁不當地限制了其企業與第三國的正常經濟和貿易活動，這可能會引發更廣泛的國際爭議。隨著中美之間的經濟摩擦加劇，未來可能出現更多類似的對抗行為，尤其是在能源和貿易領域，這將進一步影響全球市場的穩定性。"
+          "analysis": "伊朗的經濟困境使得其在與美國的談判中處於不利地位。根據主新聞，伊朗的政治精英擔心，過於強硬的立場可能會進一步惡化經濟狀況，這使得他們不得不重新考慮談判策略。參考報導1提到的美國對伊朗的攻擊使用了人工智慧技術，可能使得戰爭的影響更加深遠，進一步加劇了伊朗的經濟壓力。另一方面，參考報導2指出，中國正在幫助伊朗的革命衛隊從石油貿易中獲利，這可能為伊朗提供了一定的經濟支持，儘管整體經濟形勢依然嚴峻。未來，伊朗可能需要在國際關係中尋求更靈活的策略，以應對內外挑戰。"
         },
-        "topic_priority_score": 8,
-        "event_type": "energy_supply_move",
+        "topic_priority_score": 9,
+        "event_type": "inflation_data",
         "supporting_sources": [
-          "The Hindu International"
+          "Nikkei Asia",
+          "The Economist"
         ],
         "supporting_titles": [
-          "China rejects U.S. sanctions on refineries over Iran oil links"
+          "How AI speeds 'kill chain' in US attacks on Iran",
+          "How Iran is making a mint from Donald Trump’s war"
         ],
         "supporting_summaries": [
-          "The U.S. sanctions \"improperly prohibit or restrict Chinese enterprises from conducting normal economic, trade and related activities with third countries... and violate international law and the basic norms governing international relations,\" the Commerce Ministry said in a statement."
+          "",
+          "China is helping the Revolutionary Guards profit from Iranian crude"
         ],
         "supporting_links": [
-          "https://www.thehindu.com/news/international/china-rejects-us-sanctions-on-refineris-over-iran-oil-links/article70932170.ece"
+          "https://asia.nikkei.com/spotlight/comment/how-ai-speeds-kill-chain-in-us-attacks-on-iran",
+          "https://www.economist.com/finance-and-economics/2026/03/29/how-iran-is-making-a-mint-from-donald-trumps-war"
         ],
-        "source_count": 2
+        "source_count": 3,
+        "cross_section_refs": [
+          "politics"
+        ]
       },
       {
         "category": "economy",
         "source_name": "SCMP Business",
-        "title": "Ant Group’s bank adds stock trading to Alipay app in Hong Kong",
-        "link": "https://www.scmp.com/business/china-business/article/3352264/ant-groups-bank-adds-stock-trading-alipay-app-hong-kong?utm_source=rss_feed",
-        "summary": "Ant Bank, the digital banking arm of Ant Group, has rolled out stock trading services within its AlipayHK mobile application, marking a further push into Hong Kong’s retail brokerage market as fintech players race to capture a new generation of investors. The service allowed users to trade Hong Kong and US stocks and exchange-traded funds, as well as structured products including warrants and callable contracts, through the app’s wealth-management section, according to its promotional...",
-        "published": "Sun, 03 May 2026 08:30:12 +0000",
-        "updated": "Sun, 03 May 2026 08:30:12 +0000",
-        "published_at_utc": "2026-05-03T08:30:12+00:00",
-        "id": "https://www.scmp.com/business/china-business/article/3352264/ant-groups-bank-adds-stock-trading-alipay-app-hong-kong?utm_source=rss_feed",
+        "title": "Full charge: Xiaomi shares surge on EV sales boost",
+        "link": "https://www.scmp.com/business/china-business/article/3352336/full-charge-xiaomi-shares-surge-ev-sales-boost?utm_source=rss_feed",
+        "summary": "Shares of Xiaomi jumped in Hong Kong on Monday after the Chinese smartphone and electric-vehicle (EV) maker reported robust growth in its EV business, though analysts cautioned that broader headwinds could limit revenue upside. The stock rose as much as 11 per cent in early trade before closing 6.8 per cent higher at HK$30.98. Turnover reached HK$7.3 billion (US$931 million), placing it among the most actively traded counters on the city’s main board. The rally followed data showing Xiaomi’s EV...",
+        "published": "Mon, 04 May 2026 07:15:10 +0000",
+        "updated": "Mon, 04 May 2026 07:15:10 +0000",
+        "published_at_utc": "2026-05-04T07:15:10+00:00",
+        "id": "https://www.scmp.com/business/china-business/article/3352336/full-charge-xiaomi-shares-surge-ev-sales-boost?utm_source=rss_feed",
         "topic_type": "markets",
-        "relevance_score": 23,
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Ant Bank, the digital banking arm of Ant Group, has rolled out stock trading services within its AlipayHK mobile application, marking a further push into Hong Kong’s retail brokerage market as fintech players race to capture a new generation of investors. The service allowed users to trade Hong Kong and US stocks and exchange-traded funds, as well as structured products including warrants and callable contracts, through the app’s wealth-management section, according to its promotional...",
-          "news_focus_zh": "Ant Group的數位銀行Ant Bank在其AlipayHK應用程式中推出了股票交易服務，進一步進軍香港的零售經紀市場。此服務允許用戶透過應用程式的財富管理部分交易香港及美國股票、交易所交易基金（ETF），以及結構性產品如權證和可贖回合約，顯示出金融科技公司爭取新一代投資者的努力。",
-          "background": "香港的金融市場正經歷重振，吸引了更多的交易和投資者。隨著數位銀行和金融科技的興起，傳統金融機構面臨著來自新進者的競爭。Ant Bank的進入標誌著金融科技公司在香港零售經紀市場的擴張，這一市場過去主要由傳統銀行和經紀公司主導。香港政府也在推動金融科技發展，以提升市場的競爭力和吸引力，這與北京的政策取向相符，顯示出地緣政治的影響。",
+          "news_focus": "Shares of Xiaomi jumped in Hong Kong on Monday after the Chinese smartphone and electric-vehicle (EV) maker reported robust growth in its EV business, though analysts cautioned that broader headwinds could limit revenue upside. The stock rose as much as 11 per cent in early trade before closing 6.8 per cent higher at HK$30.98. Turnover reached HK$7.3 billion (US$931 million), placing it among the most actively traded counters on the city’s main board. The rally followed data showing Xiaomi’s EV...",
+          "news_focus_zh": "小米的股價在香港大幅上漲，原因是該公司報告其電動車（EV）業務增長強勁。周一，小米的股價在早盤交易中上漲了11%，最終以30.98港元收盤，上漲6.8%。交易量達到73億港元（約9.31億美元），使其成為香港主要交易所中最活躍的股票之一。這一股價上漲的背景是小米的電動車業務數據顯示出良好的增長潛力。",
+          "background": "小米作為一家知名的智能手機製造商，近年來積極拓展其電動車業務，以應對市場競爭及多元化收入來源。隨著中國電動車市場的快速增長，許多科技公司都在尋求進入這一領域。小米的EV業務增長反映了其在這一新興市場中的潛力，儘管市場分析師警告，整體經濟環境和行業挑戰可能會限制其未來的收入增長。",
           "stakeholders": [
-            "Ant Group",
-            "Ant Bank",
-            "香港政府",
-            "傳統金融機構",
-            "投資者"
+            "小米",
+            "投資者",
+            "市場分析師",
+            "競爭對手",
+            "中國政府"
           ],
-          "analysis": "Ant Bank推出股票交易服務，顯示其對香港市場的重視，並試圖吸引年輕投資者。這一舉措可能會對傳統金融機構造成壓力，因為年輕一代更傾向於使用數位平台進行投資。參考報導指出，香港的金融市場正在吸引更多的交易，這可能與政府的政策支持和市場需求有關。然而，市場也面臨著來自北京的政治影響，這可能會影響投資者的信心和市場的穩定性。各方利益關係中，金融科技公司希望擴大市場份額，而傳統金融機構則需調整策略以應對新競爭者的挑戰。"
+          "analysis": "小米的股價上漲顯示出市場對其電動車業務的信心，然而分析師的警告也指出，宏觀經濟的不確定性及行業競爭可能會對其未來的表現造成壓力。這一情況可能使投資者在短期內看好小米的增長潛力，但長期而言，仍需密切關注市場動態及競爭對手的策略。此外，隨著中國政府對電動車產業的支持政策，這可能會進一步影響小米的市場表現及策略調整。"
         },
         "topic_priority_score": 4,
-        "event_type": "market_repricing",
-        "supporting_sources": [
-          "The Economist"
-        ],
-        "supporting_titles": [
-          "Hong Kong is getting its financial mojo back"
-        ],
-        "supporting_summaries": [
-          "The hub is attracting more deals. And more Beijing-style politics"
-        ],
-        "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2026/02/05/hong-kong-is-getting-its-financial-mojo-back"
-        ],
-        "source_count": 2
-      },
-      {
-        "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Dynamic pay on platforms such as Uber should be banned, says TUC",
-        "link": "https://www.theguardian.com/business/2026/may/03/dynamic-pay-uber-tuc",
-        "summary": "Exclusive: Union body finds workers describing themselves as ‘gambling’ because wages felt like the outcome of chance rather than work The practice of using “dynamic pricing” to set pay on gig economy platforms including Uber should be banned because it leaves workers at the mercy of shadowy algorithms with no certainty over their earnings, trade union leaders have urged. In a report exposing the human cost of the gig economy practice, the Trades Union Congress said pay was becoming decoupled from time, skill or effort. Instead, work had become a speculative practice with the rewards determined by an algorithmic process with little transparency. Continue reading...",
-        "published": "Sun, 03 May 2026 06:00:46 GMT",
-        "updated": "2026-05-03T06:00:46Z",
-        "published_at_utc": "2026-05-03T06:00:46+00:00",
-        "id": "https://www.theguardian.com/business/2026/may/03/dynamic-pay-uber-tuc",
-        "topic_type": "corporate_earnings",
-        "relevance_score": 22,
-        "briefing": {
-          "news_focus": "Exclusive: Union body finds workers describing themselves as ‘gambling’ because wages felt like the outcome of chance rather than work The practice of using “dynamic pricing” to set pay on gig economy platforms including Uber should be banned because it leaves workers at the mercy of shadowy algorithms with no certainty over their earnings, trade union leaders have urged. In a report exposing the human cost of the gig economy practice, the Trades Union Congress said pay was becoming decoupled from time, skill or effort. Instead, work had become a speculative practice with the rewards determined by an algorithmic process with little transparency. Continue reading...",
-          "news_focus_zh": "英國工會聯合會（TUC）呼籲禁止在如Uber等平台上使用的動態薪酬制度，因為這使得工人面臨不確定的收入，並將工作視為一種賭博行為。根據TUC的報告，工資與工作時間、技能或努力脫節，工人的報酬變成由不透明的算法決定，缺乏可預測性。",
-          "background": "隨著共享經濟的興起，許多平台如Uber、Lyft等採用動態定價策略，根據需求和供應變化調整工資。這種模式雖然能在高需求時期吸引更多駕駛員，但也使得工人面臨收入不穩定的風險。工會的報告指出，這種做法不僅影響工人的經濟安全，也反映出平台經濟對傳統勞動市場的挑戰，工人權益的保障成為亟待解決的問題。",
-          "stakeholders": [
-            "英國工會聯合會（TUC）",
-            "Uber",
-            "平台經濟工人",
-            "政府監管機構",
-            "消費者"
-          ],
-          "analysis": "工會對動態薪酬制度的批評反映了對工人權益的關注，尤其是在數位平台日益普及的背景下。支持者認為，動態薪酬能提高效率並激勵勞動力，但反對者則指出，這種做法使工人收入不穩定，並剝奪了他們對工作報酬的控制權。未來，若工會的呼籲獲得支持，可能促使政府制定更嚴格的勞動法規，以保障工人的基本權益，並可能引發平台經濟的結構性變革。"
-        },
-        "topic_priority_score": 5,
         "event_type": "corporate_results",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
         "supporting_links": [],
-        "source_count": 1,
-        "cross_section_refs": [
-          "politics"
-        ]
+        "source_count": 1
+      },
+      {
+        "category": "economy",
+        "source_name": "SCMP Business",
+        "title": "Asia races to de-risk critical minerals supply chain with new financing tool",
+        "link": "https://www.scmp.com/economy/china-economy/article/3352352/asia-races-de-risk-critical-minerals-supply-chain-new-financing-tool?utm_source=rss_feed",
+        "summary": "The Asian Development Bank (ADB) has launched a new financing facility aimed at strengthening critical mineral supply chains across the Asia-Pacific region, as a global push to loosen China’s chokehold over the sector continues. The initiative is designed to help Asia-Pacific nations move up the critical minerals value chain – moving beyond just mining – by equipping them with the technical capabilities to process and recycle the materials, according to the ADB. “Asia and the Pacific should be...",
+        "published": "Mon, 04 May 2026 08:15:00 +0000",
+        "updated": "Mon, 04 May 2026 08:15:00 +0000",
+        "published_at_utc": "2026-05-04T08:15:00+00:00",
+        "id": "https://www.scmp.com/economy/china-economy/article/3352352/asia-races-de-risk-critical-minerals-supply-chain-new-financing-tool?utm_source=rss_feed",
+        "topic_type": "supply_chain",
+        "relevance_score": 20,
+        "briefing": {
+          "news_focus": "The Asian Development Bank (ADB) has launched a new financing facility aimed at strengthening critical mineral supply chains across the Asia-Pacific region, as a global push to loosen China’s chokehold over the sector continues. The initiative is designed to help Asia-Pacific nations move up the critical minerals value chain – moving beyond just mining – by equipping them with the technical capabilities to process and recycle the materials, according to the ADB. “Asia and the Pacific should be...",
+          "news_focus_zh": "亞洲開發銀行（ADB）推出了一項新的融資工具，旨在加強亞太地區的關鍵礦產供應鏈，這是全球努力減少中國在該領域影響力的一部分。此舉旨在幫助亞太國家提升關鍵礦產的價值鏈，不僅限於採礦，還包括提供技術能力以進行材料的加工和回收。",
+          "background": "隨著全球對關鍵礦產需求的增加，特別是在電動車和可再生能源領域，亞洲地區面臨著對中國供應鏈依賴的挑戰。中國在全球關鍵礦產的開採和加工中佔據主導地位，這使得其他國家開始尋求多元化供應來源。亞洲開發銀行的這項新融資工具，旨在支持亞太國家在關鍵礦產的開發和利用上，提升自主能力，減少對中國的依賴，並促進地區經濟的可持續發展。",
+          "stakeholders": [
+            "亞洲開發銀行",
+            "亞太國家政府",
+            "礦業公司",
+            "環保組織",
+            "投資者"
+          ],
+          "analysis": "亞洲開發銀行的這一舉措反映了亞太地區對於關鍵礦產供應鏈安全的高度重視。各國政府和企業可能會積極參與這項計劃，以獲得技術和資金支持，進而提升本地的產業能力。這不僅有助於減少對中國的依賴，還可能促進區域內的合作與競爭。然而，這一過程也可能面臨挑戰，包括技術轉移的難度、資金的有效分配以及市場需求的變化。隨著全球對於環保和可持續發展的重視，如何平衡經濟增長與環境保護將成為各國面臨的重要課題。"
+        },
+        "topic_priority_score": 6,
+        "event_type": "macro_signal",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
+        "title": "Welcome to the Great American Satellite Age",
+        "link": "https://www.wired.com/story/welcome-to-the-great-american-satellite-age/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-05-04T09:00:00+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Wikipedia founder brands Australia’s social media ban an ‘unmitigated disaster’ and ‘embarrassment’",
+        "link": "https://www.theguardian.com/technology/2026/may/04/wikipedia-founder-brands-australias-social-media-ban-an-unmitigated-disaster-and-an-embarrassment",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-05-04T06:49:38+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "Can Listening to ‘Subliminals’ Make You Beautiful? Plenty of Women Believe It",
+        "link": "https://www.wired.com/story/subliminals-tiktok-youtube-make-you-beautiful/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-05-04T10:00:00+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "New Mexico seeks child safety restrictions on Meta apps, algorithms in trial's 2nd phase",
+        "link": "https://www.thehindu.com/news/international/new-mexico-seeks-child-safety-restrictions-on-meta-apps-algorithms-in-trials-2nd-phase/article70937689.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-05-04T07:15:42+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+        "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-03T18:00:09+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
+        "link": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-04T02:02:25+00:00",
+        "relevance_score": 12
+      },
+      {
         "title": "The Download: a new Christian phone network, and debugging LLMs",
         "link": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
         "source_name": "MIT Technology Review",
         "published_at_utc": "2026-05-01T12:10:00+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Disneyland Now Uses Face Recognition on Visitors",
-        "link": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-05-02T10:30:00+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Apple raises the Mac Mini’s starting price",
-        "link": "https://www.theverge.com/tech/922572/apple-mac-mini-256-model",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-05-01T21:52:09+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Pentagon says US military to be an 'AI-first' fighting force",
-        "link": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Technology",
-        "published_at_utc": "2026-05-01T21:09:52+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-        "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-01T16:02:36+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Cyber-Insecurity in the AI Era",
-        "link": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-        "source_name": "MIT Technology Review",
-        "published_at_utc": "2026-05-01T15:54:01+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Rocket Report: Falcon Heavy is back; Russia's Soyuz-5 finally debuts",
-        "link": "https://arstechnica.com/space/2026/05/rocket-report-falcon-heavy-is-back-russias-soyuz-5-finally-debuts/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-05-01T12:39:03+00:00",
         "relevance_score": 12
       },
       {
-        "title": "Dangerous New Linux Exploit Gives Attackers Root Access to Countless Computers",
-        "link": "https://www.wired.com/story/dangerous-new-linux-exploit-gives-attackers-root-access-to-countless-computers/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-05-01T20:30:00+00:00",
-        "relevance_score": 11
+        "title": "As Formula One evolves, AI becomes part of the race - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjlIX0JUZjhLMGdrRzc0cmt6b2JxcndUYjVRa1JsRl9rbFFDNnR0UmM0MGxSRURrc0NMaWRIZWExQ3k2UjJXNmNDVENhVm9UUzE4aHZrRmN1ME5Sb1VaTE51R3gtY2NNcVhZckdhbjdaeU5mVG5NVDk1UWVDSG9RTHhZMWY3SldWRDVhNXF4Q3I?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-04T09:38:23+00:00",
+        "relevance_score": 10
       },
       {
-        "title": "Minnesota passes ban on fake AI nudes; app makers risk $500K fines",
-        "link": "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-05-01T17:36:29+00:00",
-        "relevance_score": 11
+        "title": "A robot rescues 77‑year‑old Ukrainian woman from the front line - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LNmRpaWViQzZHT1JLQ3VXM1UtTU9HLUJuOVlqME5PbUwzdzdVTlBiMm9Gdi1PZklwQVJkWERuZ3pnZW83eXV0R1FES25zZUM2alg1SkJ4QVQtTXRzd01HUl9EMFpKNnc5S0FRelJBbkxlazJRbVBXdjVlckE?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-04T06:44:27+00:00",
+        "relevance_score": 10
       },
       {
-        "title": "GPT-5.5 matches heavily hyped Mythos Preview in new cybersecurity tests",
-        "link": "https://arstechnica.com/ai/2026/05/amid-mythos-hyped-cybersecurity-prowess-researchers-find-gpt-5-5-is-just-as-good/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-05-01T15:32:27+00:00",
-        "relevance_score": 11
+        "title": "Guilty until proven innocent: shoppers falsely identified by facial recognition system struggle to clear their names",
+        "link": "https://www.theguardian.com/technology/2026/may/03/guilty-until-proven-innocent-shoppers-falsely-identified-by-facial-recognition-struggle-to-clear-their-name",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-03T16:00:01+00:00",
+        "relevance_score": 10
       }
     ],
     "politics": [
       {
-        "title": "Dynamic pay on platforms such as Uber should be banned, says TUC",
-        "link": "https://www.theguardian.com/business/2026/may/03/dynamic-pay-uber-tuc",
+        "title": "Could Iran’s escalating economic crisis weaken negotiating position with US?",
+        "link": "https://www.theguardian.com/world/2026/may/04/could-irans-escalating-economic-crisis-weaken-negotiating-position-with-us",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-03T06:00:46+00:00",
+        "published_at_utc": "2026-05-04T05:00:15+00:00",
         "relevance_score": 22
       },
       {
-        "title": "Polanski ‘not fit to lead a party’ after Golders Green tweet, says minister – UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/may/03/local-elections-greens-polanksi-labour-starmer-conservatives-badenoch-reform-latest-news-updates",
+        "title": "Tories accuse Starmer of ‘undemocratic hit job’ after report the UK could pay £1bn to access EU single market – UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-03T08:54:49+00:00",
+        "published_at_utc": "2026-05-04T09:48:51+00:00",
         "relevance_score": 20
       },
       {
-        "title": "US approves $8.6bn in arms sales to Middle East allies",
-        "link": "https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-03T04:05:28+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "The World Cup & Passport privilege",
-        "link": "https://www.aljazeera.com/video/game-theory/2026/5/3/aje-onl-wcpassport_v5-030526?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-03T08:04:51+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Israel-Iran war LIVE: Israeli military urges southern Lebanon residents to evacuate amid operations against Hezbollah",
-        "link": "https://www.thehindu.com/news/international/iran-israel-us-war-trump-ceasefire-news-strait-of-hormuz-live-may-3-2026/article70934287.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-03T07:53:53+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "South Korea holds pro-Palestine protest in solidarity with Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/south-korea-holds-pro-palestine-protest-in-solidarity-with-gaza?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-03T07:39:43+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Dozens paddle out in Sydney and Newcastle in solidarity with Gaza Flotilla – as it happened",
-        "link": "https://www.theguardian.com/australia-news/live/2026/may/03/politics-updates-liberals-nepean-byelection-victoria-anthony-albanese-labor-angus-taylor-matt-canavan-nationals-ntwnfb",
+        "title": "EU forging closer ties with Armenia as it sends experts to help counter Russian interference",
+        "link": "https://www.theguardian.com/world/2026/may/04/eu-closer-ties-armenia-counter-russian-interference",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-03T06:21:56+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-05-04T04:00:15+00:00",
+        "relevance_score": 19
       },
       {
-        "title": "Russian strike kills one as Ukraine launches hundreds of drones",
-        "link": "https://www.thehindu.com/news/international/russian-strike-kills-one-as-ukraine-launches-hundreds-of-drones/article70934520.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-03T06:07:44+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Trump’s US troop removal from Germany rebuked by Republicans, Nato",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3352254/trumps-us-troop-removal-germany-rebuked-republicans-nato?utm_source=rss_feed",
+        "title": "Transgender student sues Hong Kong school over ‘discriminatory’ hair policy",
+        "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352370/transgender-student-sues-hong-kong-school-over-discriminatory-hair-policy?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-05-03T05:13:02+00:00",
+        "published_at_utc": "2026-05-04T10:00:54+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Trump says Iran has not yet ‘paid a big enough price’ as he reviews new peace proposal",
-        "link": "https://www.theguardian.com/world/2026/may/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
+        "title": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
+        "link": "https://www.aljazeera.com/news/2026/5/4/iran-warns-us-to-stay-out-of-hormuz-after-trump-says-us-will-guide-ships?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-05-04T08:20:54+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "How to escape Russia’s army: Soldiers serving in Ukraine seek a way out",
+        "link": "https://www.aljazeera.com/news/2026/5/4/how-to-escape-russias-army-soldiers-serving-in-ukraine-seek-a-way-out?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-05-04T06:15:24+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Why African leaders value seamless transcontinental links over US-China rivalry",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3352324/why-african-leaders-value-seamless-transcontinental-links-over-us-china-rivalry?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-04T06:00:11+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Philippine Lawmaker Plants National Flag on Disputed South China Sea Sandbar",
+        "link": "https://thediplomat.com/2026/05/philippine-lawmaker-plants-national-flag-on-disputed-south-china-sea-sandbar/",
+        "source_name": "The Diplomat",
+        "published_at_utc": "2026-05-04T05:33:00+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Japan sees largest protest in support of pacifist constitution as PM Takaichi pushes revisions",
+        "link": "https://www.theguardian.com/world/2026/may/04/japan-sees-largest-protest-in-support-of-pacifist-constitution-as-pm-takaichi-pushes-revisions",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-03T03:48:09+00:00",
+        "published_at_utc": "2026-05-04T05:14:49+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Cheaper durians for China, Hong Kong helpers camp in tents: 5 weekend reads you missed",
+        "link": "https://www.scmp.com/news/world/article/3352312/cheaper-durians-china-hong-kong-helpers-camp-tents-5-weekend-reads-you-missed?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-04T04:34:07+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "One in three HR leaders face opposition to inclusion schemes, study finds",
-        "link": "https://www.theguardian.com/society/2026/may/03/hr-leaders-opposition-diversity-equity-inclusion-schemes-study",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-03T07:47:14+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Cuba says Trump’s fresh sanctions on its economy amount to ‘collective punishment’",
-        "link": "https://www.theguardian.com/world/2026/may/02/cuba-trump-new-sanctions-economy",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-02T01:34:21+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Why did the UAE quit OPEC and OPEC+?",
-        "link": "https://www.thehindu.com/news/international/why-did-the-uae-quit-opec-and-opec/article70932811.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-03T04:02:38+00:00",
+        "title": "Gold rush: Hong Kong sees sudden jump in bullion imports from Dubai amid US-Iran war",
+        "link": "https://www.scmp.com/business/commodities/article/3352334/gold-rush-hong-kong-sees-sudden-jump-bullion-imports-dubai-amid-us-iran-war?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-04T06:44:44+00:00",
         "relevance_score": 19
+      },
+      {
+        "title": "Kazakhstan’s AIFC discussing stock-trading links with Shanghai, Hong Kong",
+        "link": "https://www.scmp.com/business/banking-finance/article/3352276/kazakhstans-aifc-discussing-stock-trading-links-shanghai-hong-kong?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-04T01:00:13+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Who could gain from DeepSeek’s V4 with China chips poised for stronger demand?",
+        "link": "https://www.scmp.com/business/china-business/article/3352126/who-could-gain-deepseeks-v4-china-chips-poised-stronger-demand?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-03T23:00:10+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "OPEC+ agrees third oil output quota hike since Hormuz closure - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDd4Y0FGSVFkY1NjbFBmd0V5Q01udExuM2l6MjhFWXBzOWJBZU04dnExbzJ6S001ckRnRThWd2dKODNuUnhKRVViWXdEdEFNZlJPbEJYOUlEYWxPSkVIRzgyeXlsMzNCTjNSME5GNEFfcUVNMlk2a2J1SzJ6MHk0dXNvdE1SeDJVSm5MblRZcWVueHV1UTFIR2lnSjdTb01MMlBmclhteFk3ZDN0SHc0TjVlNmVJYkpnWHNnYTF5VGNZRnpwclE?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-03T11:34:45+00:00",
+        "relevance_score": 15
       },
       {
         "title": "China rejects U.S. sanctions on refineries over Iran oil links",
         "link": "https://www.thehindu.com/news/international/china-rejects-us-sanctions-on-refineris-over-iran-oil-links/article70932170.ece",
         "source_name": "The Hindu International",
         "published_at_utc": "2026-05-02T14:20:10+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "From phones to humanoid robots: China’s supply chain eyes next growth curve",
-        "link": "https://www.scmp.com/tech/tech-trends/article/3352212/phones-robots-chinas-supply-chain-eyes-next-growth-curve-humanoid?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-05-03T04:00:17+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Why Singapore wealth-tech firms are choosing Hong Kong as their first overseas market",
-        "link": "https://www.scmp.com/business/banking-finance/article/3352176/why-singapore-wealth-tech-firms-are-choosing-hong-kong-their-first-overseas-market?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-03T06:00:15+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Recent inflation data was 'bad news,' Fed's Goolsbee says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdjFrR3JOODNsLVBXSWtFc1NPU0tzT3JpYTFVd2E3akJRQ0o4OWJNcm8tLWJJSlJSMElpdUh3LW9uQ1FrX0RzbWlVMERKcE1wT0NfOGdkSHlHM25TQ1Z6ZWpJWE5aUXJ3d3JsOHZoRlRWN1AtY05HZVdaTUtfVk1jNlM3T1dpcmY5ekowYzVqOF9FbjRzT1IzeG1rUjM5aTA?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-05-02T19:07:10+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Brazil's Petrobras raises natural gas prices by 19% after oil shock - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMnlQZThzNVJ5SW5IcFlSanpqQ2NienFVdGRPRWtpV1JEUmlBOVhPal9fT2NRc3N6UzVyTm9qeGlTR3pCNl9uNkdGYjV4UGRtRW1NTExHaDNqS3d2VmtMblJUUHRQUm1nSDZRT3VIdW15YVlwc0JkM1E0cDZ1MUNqNVRyNmlYQWE4M2VTbW11cVlEUXNKNnhfaVJUVXdEclNWYlpvQU1XcndfRHdNUUpyenJobkJ2S1lh?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-05-02T16:16:11+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Solar booms in industrial US midwest as energy crisis persists",
-        "link": "https://www.theguardian.com/us-news/2026/may/02/solar-midwest-energy-crisis",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-02T16:00:29+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "OPEC+ set for another oil output quota hike despite Hormuz closure, sources say - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWtaSThlNlVxYjNBMGo2VVlIZzh6TjNOVFFMVnZTOHNCREtwS1RvX3NQcmxlQk13QUdsNWxQZkdYVFFPY1pibmZ5VHdQbVBNNmFfNkxMdHVkQ1lYd1dLcU00cmJMaERwRkM5Q1owLUJoQ0wwT2NDTmZTZ3J1eUpNS1FBMG54cXN2cXJzNGUtN3JoWlZDRlFUeUtVY1MtTkY1bUtGTV80dHROXzc3aElrcUNsUm5uMTVuaEJyRm5WeHEycUU?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-05-02T18:41:44+00:00",
         "relevance_score": 15
+      },
+      {
+        "title": "Tacos win hearts and wallets of inflation-squeezed Japanese diners",
+        "link": "https://asia.nikkei.com/business/food-beverage/tacos-win-hearts-and-wallets-of-inflation-squeezed-japanese-diners",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
+        "relevance_score": 15
+      },
+      {
+        "title": "AI chipmaker Cerebras targets $115-$125 share price in US IPO, source says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3JWZ1Zhb2twMlJzUTh0M1hNTHpIQlNxNTM4elZtdmhGbGxDSGRFNlpkLWVBVmllalFIZ1VFZmQ1WHY3UUtRX3Y5SmVUVnZIQVBqWWl5WjFSYUFkb1BUQmlTUjdvU2R6V0lXeWs2YkV0Nkdwa0JtVW9ka2J6TjVQaFUzRE04UXNQZWhpTDRmbzZJUzllYUNKeXk4d3NaZGsxWGZJb3VldHVHeDNpaHBRaWR2OA?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-04T08:16:53+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "Australia and Japan sign agreements on defence, energy and critical minerals – video",
+        "link": "https://www.theguardian.com/australia-news/video/2026/may/04/australia-japan-defence-energy-critical-minerals-deal-video",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-04T08:06:02+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "National Australia Bank posts first-half profit miss, warns of Middle East conflict risks - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUHNnUTYtZEJrMFkwaDJDQnlkM1R6bzFQdHNKNGYtNDJhNGV0Unc5SnN6RGRNUUNJM3JteEFUY3NCazRvM0d0cjZJQ2FlQzJTNFJTWFJENTl6VjVnQjB0YTdvdlFadTJJNWltSzNlSDk5YnJQTU8wRzhCc3ppbE95TFRJQ2NLN2lOc1JOdGpLemlQSzctdTBWbWVRWFd3cmZ0OHAyWkwzdGNCdnBV?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-03T23:09:00+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "In five charts: How UAE's exit could affect Opec's influence over the oil price",
+        "link": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-05-03T12:06:34+00:00",
+        "relevance_score": 13
       }
     ]
   },
