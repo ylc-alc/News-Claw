@@ -5,23 +5,11 @@
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
     "feed_title": "\"when:24h allinurl:reuters.com politics\" - Google News",
     "feed_link": "https://news.google.com/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
-    "fetched_at_utc": "2026-05-04T10:05:07.256938+00:00",
-    "entry_count": 1,
+    "fetched_at_utc": "2026-05-05T09:52:16.545919+00:00",
+    "entry_count": 0,
     "bozo": false,
-    "failed": false,
-    "failure_reason": ""
+    "failed": true,
+    "failure_reason": "feed returned zero entries"
   },
-  "items": [
-    {
-      "category": "politics",
-      "source_name": "Reuters",
-      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
-      "title": "Germany’s Merz downplays rift with Trump over troop drawdown - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcjdITU9BLUlXbWFjdEtoUmhmZ1N1VUlDQ0NWWFdsZldhQ3gxNnJOblBTQThuM1lwSVBMZkFPSDhiczVYYXFtdmRnWERILXUwSzhhX2tmRnRlbmcwVFdCa0EtZXFqOUlBZzlnZEtGTDRNcnl3bVA0amFCaGU1NlFfQjI3NFdMM1g3dnBqUl93SXdTLWlLVEh3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPcjdITU9BLUlXbWFjdEtoUmhmZ1N1VUlDQ0NWWFdsZldhQ3gxNnJOblBTQThuM1lwSVBMZkFPSDhiczVYYXFtdmRnWERILXUwSzhhX2tmRnRlbmcwVFdCa0EtZXFqOUlBZzlnZEtGTDRNcnl3bVA0amFCaGU1NlFfQjI3NFdMM1g3dnBqUl93SXdTLWlLVEh3?oc=5\" target=\"_blank\">Germany’s Merz downplays rift with Trump over troop drawdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "Mon, 04 May 2026 02:25:11 GMT",
-      "updated": "Mon, 04 May 2026 02:25:11 GMT",
-      "id": "CBMilwFBVV95cUxPcjdITU9BLUlXbWFjdEtoUmhmZ1N1VUlDQ0NWWFdsZldhQ3gxNnJOblBTQThuM1lwSVBMZkFPSDhiczVYYXFtdmRnWERILXUwSzhhX2tmRnRlbmcwVFdCa0EtZXFqOUlBZzlnZEtGTDRNcnl3bVA0amFCaGU1NlFfQjI3NFdMM1g3dnBqUl93SXdTLWlLVEh3"
-    }
-  ]
+  "items": []
 }

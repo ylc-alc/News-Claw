@@ -1,88 +1,53 @@
 {
-  "generated_at_utc": "2026-05-04T10:05:21.672304+00:00",
+  "generated_at_utc": "2026-05-05T09:52:30.573017+00:00",
   "summary": {
-    "total_raw_items": 1067,
-    "total_deduped_items": 1041,
+    "total_raw_items": 1085,
+    "total_deduped_items": 1065,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "space_tech",
         "chips",
-        "social_media"
+        "chips",
+        "cybersecurity"
       ],
       "politics": [
         "us_politics",
         "us_politics",
-        "us_politics"
+        "diplomacy"
       ],
       "economy": [
-        "inflation",
-        "markets",
-        "supply_chain"
+        "interest_rates",
+        "interest_rates",
+        "interest_rates"
       ]
     },
-    "multi_source_selected_count": 3
+    "multi_source_selected_count": 5
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "SCMP World",
-        "title": "China ‘Madman of Science’ believes budget space travel is viable after low-cost rocket launch",
-        "link": "https://www.scmp.com/news/people-culture/china-personalities/article/3351730/china-madman-science-believes-budget-space-travel-viable-after-low-cost-rocket-launch?utm_source=rss_feed",
-        "summary": "An innovator in China has successfully launched a self-developed low-cost rocket, proving the feasibility of budget space exploration to the world. In February, the 12m Shenzhen Pioneer rocket made local history in China’s remote northeastern Qinghai province, reaching a record altitude of 3,700m and setting a new regional benchmark for liquid rocket launches. Built by a five-person team led by 31-year-old Lu Yulong, the rocket took just 15 days to build in Shenzhen. Lu, a self-taught innovator...",
-        "published": "Mon, 04 May 2026 10:00:22 +0000",
-        "updated": "Mon, 04 May 2026 10:00:22 +0000",
-        "published_at_utc": "2026-05-04T10:00:22+00:00",
-        "id": "https://www.scmp.com/news/people-culture/china-personalities/article/3351730/china-madman-science-believes-budget-space-travel-viable-after-low-cost-rocket-launch?utm_source=rss_feed",
-        "topic_type": "space_tech",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "An innovator in China has successfully launched a self-developed low-cost rocket, proving the feasibility of budget space exploration to the world. In February, the 12m Shenzhen Pioneer rocket made local history in China’s remote northeastern Qinghai province, reaching a record altitude of 3,700m and setting a new regional benchmark for liquid rocket launches. Built by a five-person team led by 31-year-old Lu Yulong, the rocket took just 15 days to build in Shenzhen. Lu, a self-taught innovator...",
-          "news_focus_zh": "中國創新者盧宇龍領導的五人團隊成功發射了一枚自製的低成本火箭，證明了預算太空探索的可行性。這枚名為深圳先鋒的火箭於2月份在中國偏遠的青海省創下了3700米的高度紀錄，並為液體火箭發射設定了新的區域基準。該火箭在深圳僅花了15天建造完成，顯示出中國在太空技術上的進步。",
-          "background": "隨著太空探索的商業化趨勢日益明顯，許多國家和企業都在尋求降低太空任務的成本。中國在過去幾年中加大了對太空技術的投資，並積極發展自主研發的火箭技術。這一背景下，低成本火箭的成功發射不僅展示了中國在太空領域的技術進步，也可能吸引更多的私人資本進入太空探索市場，促進相關產業的發展。",
-          "stakeholders": [
-            "盧宇龍",
-            "中國政府",
-            "私人太空企業",
-            "國際太空機構",
-            "投資者"
-          ],
-          "analysis": "盧宇龍的成功發射可能會引發中國內部對於太空探索的更大關注，並激勵其他創新者進一步探索低成本解決方案。這一事件也可能對國際太空市場產生影響，尤其是在商業太空旅行和衛星發射服務方面。隨著中國在太空技術上逐漸崛起，其他國家可能會重新評估其在太空探索中的策略和投資。此外，這一成就也可能引起國際社會對中國太空計畫的關注，特別是在技術轉移和國際合作方面的潛在機會與挑戰。"
-        },
-        "topic_priority_score": 4,
-        "event_type": "product_launch",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "SCMP World",
-        "title": "AI helped Shenzhen judges handle cases 50% faster. Is this the future for China?",
-        "link": "https://www.scmp.com/news/china/politics/article/3352161/ai-helped-shenzhen-judges-handle-cases-50-faster-future-china?utm_source=rss_feed",
-        "summary": "Judges in Shenzhen – China’s Silicon Valley – processed 50 per cent more cases last year than in 2024 with the help of a pilot system powered by AI technology, according to the city’s Intermediate People’s Court. It said the artificial intelligence-driven system would now be introduced in the courts of dozens more Chinese cities. In a social media post on Tuesday, the Shenzhen Intermediate People’s Court said each judge in the city had handled an average of 744 cases in 2025 – up by 249 cases...",
-        "published": "Mon, 04 May 2026 04:00:08 +0000",
-        "updated": "Mon, 04 May 2026 04:00:08 +0000",
-        "published_at_utc": "2026-05-04T04:00:08+00:00",
-        "id": "https://www.scmp.com/news/china/politics/article/3352161/ai-helped-shenzhen-judges-handle-cases-50-faster-future-china?utm_source=rss_feed",
+        "source_name": "Reuters",
+        "title": "Apple holds talks with Intel, Samsung for US chipmaking, Bloomberg News reports - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTDZvaGVDUlk4YkJaSDJVVDNsaVBFYnZPaWZDZFZmMVpSc2ZGc0M3emFIS09jQk1OcUxJckVYQjJCekY3cTNOdDRYdG1LRFRVbFVPU2l5LXk2RTBxTjBZVEIxSEFqcHhzWkh2WGRhOXJGZkNEYlJieUpQOVZ1aGhFVlkyQTMyMUxRZ0Z0ZnVCQTRWNjhSdnRMd2I5YWRzdGJLN05XN09jQlhEX3ZQZllXcG05VGFCdDNnNjJObFJR?oc=5",
+        "summary": "Apple holds talks with Intel, Samsung for US chipmaking, Bloomberg News reports Reuters",
+        "published": "Tue, 05 May 2026 03:00:00 GMT",
+        "updated": "Tue, 05 May 2026 03:00:00 GMT",
+        "published_at_utc": "2026-05-05T03:00:00+00:00",
+        "id": "CBMivgFBVV95cUxQTDZvaGVDUlk4YkJaSDJVVDNsaVBFYnZPaWZDZFZmMVpSc2ZGc0M3emFIS09jQk1OcUxJckVYQjJCekY3cTNOdDRYdG1LRFRVbFVPU2l5LXk2RTBxTjBZVEIxSEFqcHhzWkh2WGRhOXJGZkNEYlJieUpQOVZ1aGhFVlkyQTMyMUxRZ0Z0ZnVCQTRWNjhSdnRMd2I5YWRzdGJLN05XN09jQlhEX3ZQZllXcG05VGFCdDNnNjJObFJR",
         "topic_type": "chips",
-        "relevance_score": 19,
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Judges in Shenzhen – China’s Silicon Valley – processed 50 per cent more cases last year than in 2024 with the help of a pilot system powered by AI technology, according to the city’s Intermediate People’s Court. It said the artificial intelligence-driven system would now be introduced in the courts of dozens more Chinese cities. In a social media post on Tuesday, the Shenzhen Intermediate People’s Court said each judge in the city had handled an average of 744 cases in 2025 – up by 249 cases...",
-          "news_focus_zh": "深圳市中級人民法院報告指出，該市法官在2025年利用人工智慧技術的試點系統，案件處理速度提升了50%。每位法官平均處理744件案件，較2024年增加249件。該法院計劃在更多中國城市推廣這一人工智慧驅動的系統，顯示出科技在法律領域的應用潛力。",
-          "background": "深圳被譽為中國的矽谷，擁有強大的科技創新能力。隨著人工智慧技術的迅速發展，各行各業都在探索其應用潛力，尤其是在法律和司法系統中。中國政府積極推動數字化轉型，並將人工智慧視為提升行政效率的重要工具。深圳的這一試點計劃不僅反映了地方政府的創新實踐，也可能成為全國範圍內的政策示範，影響中國未來的司法運作模式。",
+          "news_focus": "Apple holds talks with Intel, Samsung for US chipmaking, Bloomberg News reports Reuters",
+          "news_focus_zh": "Apple 正在與 Intel 和 Samsung 進行會談，探討在美國進行晶片製造的可能性。這一舉動顯示出 Apple 對於加強其供應鏈的自主性和安全性的重視，尤其是在全球科技競爭日益激烈的背景下。",
+          "background": "隨著全球對半導體的需求持續增長，各大科技公司都在尋求更穩定的供應鏈。美國政府也在推動本土半導體產業的發展，通過各種政策和資金支持來吸引企業在美國設廠。Apple 作為全球最大的科技公司之一，對於晶片的自主生產有著強烈的需求，這不僅能降低對外部供應商的依賴，還能在技術上保持競爭優勢。",
           "stakeholders": [
-            "深圳市中級人民法院",
-            "中國政府",
-            "法官",
-            "法律專業人士",
-            "科技公司"
+            "Apple",
+            "Intel",
+            "Samsung"
           ],
-          "analysis": "深圳法官利用人工智慧系統提高案件處理效率，顯示出科技在司法領域的潛在變革。這一進展可能會引發其他城市和地區的模仿，促進全國範圍內的司法改革。支持者認為，這將提升法律服務的效率和公平性，減少法官的工作壓力。然而，批評者可能會擔心人工智慧在法律決策中的應用可能導致的偏見和透明度問題。此外，這一做法也可能引發對於數據隱私和安全性的討論，特別是在涉及敏感案件的情況下。整體而言，深圳的這一舉措可能成為中國司法系統未來發展的重要指標。"
+          "analysis": "Apple 與 Intel 和 Samsung 的會談顯示出其在晶片製造上的新策略，這可能會改變目前的供應鏈格局。Intel 作為傳統的半導體巨頭，可能會在技術和製造能力上提供支持，而 Samsung 則在記憶體和其他晶片技術上有著強大的實力。這三者的合作可能會促進美國本土半導體產業的復甦，並且對於 Apple 來說，這樣的合作不僅能提升其產品的獨特性，還能降低未來的供應風險。隨著美國政府對半導體產業的重視，未來可能會有更多企業加入這一行列，進一步推動美國的技術自主性。"
         },
         "topic_priority_score": 10,
         "event_type": "strategic_move",
@@ -94,31 +59,64 @@
       },
       {
         "category": "technology",
-        "source_name": "Rest of World",
-        "title": "Motorola’s India lawsuit could make platforms police speech faster",
-        "link": "https://restofworld.org/2026/motorola-india-lawsuit-social-media-defamation/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "summary": "The American phonemaker's Indian arm has named X, YouTube, Instagram, Facebook, Threads, Google, and Meta in a lawsuit asking to take down existing and future “defamatory” content.",
-        "published": "Mon, 04 May 2026 10:00:00 +0000",
-        "updated": "Mon, 04 May 2026 10:00:00 +0000",
-        "published_at_utc": "2026-05-04T10:00:00+00:00",
-        "id": "https://restofworld.org/2026/motorola-india-lawsuit-social-media-defamation/",
-        "topic_type": "social_media",
-        "relevance_score": 18,
+        "source_name": "Reuters",
+        "title": "Palantir lifts annual revenue forecast on robust US government demand - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPekRlNnJjaEpaakt5SWo3SjNFcDdlcXduRWUxbk1MZGdPTjVQUURUcXFzWFNNVlJqOF9Rc3JZMU5OZmJ1UzI2YUlzUFNJR2tSWWZTUlZ3dWFqbE1JZlVnN2s0LVIzR2NqQWR4M2N0XzRwMmd1cWRsT3dPNDRpTVhoaHdZdi1fZmpLNzhqandoaVplVVVwY0Qza05LVmpXX0RWbVdHYWh5Y1F6YVYteVVIWkc3X2hnenEtX3c?oc=5",
+        "summary": "Palantir lifts annual revenue forecast on robust US government demand Reuters",
+        "published": "Mon, 04 May 2026 22:37:05 GMT",
+        "updated": "Mon, 04 May 2026 22:37:05 GMT",
+        "published_at_utc": "2026-05-04T22:37:05+00:00",
+        "id": "CBMiugFBVV95cUxPekRlNnJjaEpaakt5SWo3SjNFcDdlcXduRWUxbk1MZGdPTjVQUURUcXFzWFNNVlJqOF9Rc3JZMU5OZmJ1UzI2YUlzUFNJR2tSWWZTUlZ3dWFqbE1JZlVnN2s0LVIzR2NqQWR4M2N0XzRwMmd1cWRsT3dPNDRpTVhoaHdZdi1fZmpLNzhqandoaVplVVVwY0Qza05LVmpXX0RWbVdHYWh5Y1F6YVYteVVIWkc3X2hnenEtX3c",
+        "topic_type": "chips",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "The American phonemaker's Indian arm has named X, YouTube, Instagram, Facebook, Threads, Google, and Meta in a lawsuit asking to take down existing and future “defamatory” content.",
-          "news_focus_zh": "美國手機製造商摩托羅拉在印度提起訴訟，針對社交媒體平台X、YouTube、Instagram、Facebook、Threads、Google及Meta，要求這些平台刪除現有及未來的「誹謗」內容。此舉可能促使這些平台加速監管用戶言論，影響社交媒體的內容管理政策。",
-          "background": "摩托羅拉在印度的法律行動反映了當地對於網路言論的日益關注。隨著社交媒體的普及，誹謗和不實信息的問題愈發嚴重，企業和個人都可能受到影響。印度政府也在推動更嚴格的網路監管政策，要求平台對於用戶生成內容負更多責任。這一訴訟可能成為未來類似案件的先例，促使其他企業採取類似行動以保護自身聲譽。",
+          "news_focus": "Palantir lifts annual revenue forecast on robust US government demand Reuters",
+          "news_focus_zh": "Palantir Technologies 宣布因美國政府需求強勁，提升了其年度營收預測。這一消息反映出該公司在政府合約方面的成功，顯示出其在數據分析和人工智慧領域的競爭力。",
+          "background": "Palantir 是一家專注於數據分析的科技公司，主要為政府機構和大型企業提供解決方案。近年來，隨著數據驅動決策的重要性日益增加，Palantir 在美國政府的需求也隨之上升。特別是在國防、安全和公共服務領域，政府對於高效數據處理和分析的需求持續增長，這為 Palantir 提供了穩定的收入來源。此外，隨著科技進步，Palantir 的產品在市場上的競爭力也逐漸提升。",
           "stakeholders": [
-            "摩托羅拉",
-            "社交媒體平台",
-            "印度政府",
-            "用戶",
-            "法律界"
+            "Palantir Technologies",
+            "美國政府",
+            "投資者",
+            "競爭對手",
+            "科技產業"
           ],
-          "analysis": "摩托羅拉的訴訟可能會引發社交媒體平台在內容管理上的重大變化。若法院支持摩托羅拉的要求，這將迫使平台在監控和刪除內容方面加快步伐，可能導致用戶言論自由受到限制。另一方面，這也可能引發平台與用戶之間的信任危機，因為用戶可能會擔心自己的言論被隨意刪除。此外，這一訴訟可能影響其他企業的行為，促使它們也採取法律手段來維護自身利益，進一步加劇平台的監管壓力。"
+          "analysis": "Palantir 提升年度營收預測的決策，顯示出其對美國政府市場的信心。這一動作可能吸引更多投資者的注意，進一步提升其市場價值。政府需求的增長也可能促使 Palantir 擴大其產品線或加強與其他科技公司的合作，以滿足日益增長的需求。然而，市場競爭依然激烈，其他數據分析公司也在積極爭取政府合約，這可能會影響 Palantir 的市場份額。未來，若美國政府在科技預算上持續增加投入，Palantir 的業務將有望持續增長。"
         },
-        "topic_priority_score": 6,
-        "event_type": "regulation_action",
+        "topic_priority_score": 10,
+        "event_type": "commercial_update",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "TechCrunch",
+        "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
+        "link": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+        "summary": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux.",
+        "published": "Mon, 04 May 2026 22:21:32 +0000",
+        "updated": "Mon, 04 May 2026 22:21:32 +0000",
+        "published_at_utc": "2026-05-04T22:21:32+00:00",
+        "id": "https://techcrunch.com/?p=3119046",
+        "topic_type": "cybersecurity",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux.",
+          "news_focus_zh": "美國網路安全機構CISA發出警告，指出名為CopyFail的漏洞正在被黑客利用，對依賴Linux的伺服器和數據中心構成重大風險。此漏洞影響多個主要版本的Linux，可能導致數據洩露和系統入侵。",
+          "background": "Linux作為開源操作系統，廣泛應用於伺服器和數據中心，特別是在企業和雲計算環境中。隨著數位化進程加速，Linux的安全性愈加受到重視。CISA的警告反映出當前網路安全形勢的嚴峻，尤其是在黑客攻擊日益頻繁的背景下。CopyFail漏洞的出現，可能與開源軟體的開發模式有關，因為其代碼可被任何人檢視和修改，這雖然促進了創新，但也可能導致安全隱患的增加。",
+          "stakeholders": [
+            "CISA",
+            "Linux開發者",
+            "企業用戶",
+            "黑客",
+            "網路安全專家"
+          ],
+          "analysis": "CISA的警告突顯了Linux系統在安全防護方面的脆弱性，尤其是在企業環境中。各方利益關係中，企業用戶希望能夠依賴穩定的系統運行業務，而開發者則需在創新與安全之間找到平衡。若不及時修補此漏洞，可能會導致大規模的數據洩露事件，進一步影響企業信譽和客戶信任。此外，這一事件可能促使Linux社群加強對安全漏洞的監控和修補，進一步推動安全技術的發展。未來，隨著黑客技術的進步，對於開源軟體的安全性將成為更為重要的議題。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -129,120 +127,128 @@
     "politics": [
       {
         "category": "politics",
-        "source_name": "SCMP World",
-        "title": "China says to ignore US sanctions even as Trump visit nears",
-        "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3352361/china-says-ignore-us-sanctions-even-trump-visit-nears?utm_source=rss_feed",
-        "summary": "China ordered companies to ignore US sanctions against five oil refiners accused of buying Iranian crude, an unprecedented pushback against American financial measures less than two weeks before a presidential summit. The US action “violates international law and the basic norms of international relations”, China’s Ministry of Commerce said on Saturday. The sanctions cover a refinery in Dalian owned by Shanghai-listed Hengli Petrochemical, along with four independent “teapot” refineries –...",
-        "published": "Mon, 04 May 2026 09:01:20 +0000",
-        "updated": "Mon, 04 May 2026 09:01:20 +0000",
-        "published_at_utc": "2026-05-04T09:01:20+00:00",
-        "id": "https://www.scmp.com/plus/news/china/diplomacy/article/3352361/china-says-ignore-us-sanctions-even-trump-visit-nears?utm_source=rss_feed",
+        "source_name": "The Guardian World",
+        "title": "First Russian oil reportedly arrives in Japan since Iran war – as it happened",
+        "link": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
+        "summary": "This blog is now closed Trump threatens to blow Iran ‘off the face of the earth’ if it attacks US vessels Trump sends warships to break Iran’s strait of Hormuz blockade We have a bit more of the statement from Maj Gen Ali Abdollahi, the commander of Iran’s Khatam al-Anbiya central headquarters, who said earlier that the US or any other foreign armed forces would be attacked if they entered the strait of Hormuz (see post at 07.39 for more details). Abdollahi also said: We will maintain and vigorously manage the security of the strait of Hormuz with all our might, and we inform all commercial ships and tankers to refrain from any attempt to transit without the coordination of the armed forces stationed in the strait of Hormuz, so as not to jeopardise their security. Continue reading...",
+        "published": "Tue, 05 May 2026 04:03:12 GMT",
+        "updated": "2026-05-05T04:03:12Z",
+        "published_at_utc": "2026-05-05T04:03:12+00:00",
+        "id": "https://www.theguardian.com/world/live/2026/may/04/iran-war-live-updates-trump-hormuz-us-operation-tanker-strikes",
         "topic_type": "us_politics",
-        "relevance_score": 20,
+        "relevance_score": 22,
         "briefing": {
-          "news_focus": "China ordered companies to ignore US sanctions against five oil refiners accused of buying Iranian crude, an unprecedented pushback against American financial measures less than two weeks before a presidential summit. The US action “violates international law and the basic norms of international relations”, China’s Ministry of Commerce said on Saturday. The sanctions cover a refinery in Dalian owned by Shanghai-listed Hengli Petrochemical, along with four independent “teapot” refineries –...",
-          "news_focus_zh": "中國政府命令國內企業無視美國對五家石油煉油廠的制裁，這些煉油廠被指控購買伊朗原油。中國商務部表示，美國的制裁行為違反國際法及國際關係基本準則，這一舉措是在特朗普總統訪問前的兩週內發出的，顯示出中國對美國金融措施的強烈反擊。",
-          "background": "美國對伊朗的制裁政策已經持續多年，主要是針對伊朗的核計劃及其在中東的影響力。此次制裁針對的五家煉油廠中，包括了大連的恒力石化和四家獨立的“茶壺”煉油廠，這些企業在中國的能源供應鏈中扮演著重要角色。中國作為全球最大的石油進口國之一，對伊朗原油的需求仍然強勁，這使得中國在面對美國制裁時，必須考量其能源安全與國際貿易的平衡。",
+          "news_focus": "This blog is now closed Trump threatens to blow Iran ‘off the face of the earth’ if it attacks US vessels Trump sends warships to break Iran’s strait of Hormuz blockade We have a bit more of the statement from Maj Gen Ali Abdollahi, the commander of Iran’s Khatam al-Anbiya central headquarters, who said earlier that the US or any other foreign armed forces would be attacked if they entered the strait of Hormuz (see post at 07.39 for more details). Abdollahi also said: We will maintain and vigorously manage the security of the strait of Hormuz with all our might, and we inform all commercial ships and tankers to refrain from any attempt to transit without the coordination of the armed forces stationed in the strait of Hormuz, so as not to jeopardise their security. Continue reading...",
+          "news_focus_zh": "自伊朗戰爭以來，首批俄羅斯石油已抵達日本。日本在這場衝突中面臨能源供應挑戰，因為該國約95%的石油依賴西亞進口。此舉顯示日本正努力多元化其能源來源，以應對地緣政治緊張局勢。",
+          "background": "自2023年2月28日伊朗戰爭爆發以來，伊朗已有效封鎖霍爾木茲海峽，這一地區是全球重要的石油運輸通道。日本作為一個高度依賴進口能源的國家，面臨著石油供應的嚴重挑戰，因此積極尋求多元化的能源來源。此次俄羅斯石油的到來，可能是日本在尋找替代供應商方面的一個重要步驟，尤其是在美國對伊朗的制裁和地區緊張局勢加劇的背景下。",
           "stakeholders": [
-            "中國政府",
-            "美國政府",
-            "石油煉油廠",
-            "國際貿易企業",
-            "伊朗政府"
-          ],
-          "analysis": "中國對美國制裁的強烈反應顯示出其在國際貿易中維護自身利益的決心。中國商務部的聲明不僅是對美國政策的反擊，也是對國內企業的一種支持，鼓勵他們繼續與伊朗進行貿易。這一行動可能會引發美國進一步的制裁措施，並加劇中美之間的緊張關係。隨著特朗普訪問的臨近，中國的這一決策可能會成為雙方談判中的一個重要議題，影響未來的外交動態。各方可能會在貿易、能源安全及國際法的解釋上展開激烈的討論。"
-        },
-        "topic_priority_score": 8,
-        "event_type": "diplomatic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "Israel-Iran war updates: Trump announces 'Project Freedom' to help stranded ships out of Strait of Hormuz",
-        "link": "https://www.thehindu.com/news/international/iran-israel-us-war-trump-ceasefire-news-strait-of-hormuz-live-may-3-2026/article70934287.ece",
-        "summary": "Amid Trump's announcement, Ebrahim Azizi, head of the national security commission in Iran's parliament, said that any U.S. action in Strait of Hormuz would be a breach of ceasefire",
-        "published": "Mon, 04 May 2026 06:24:49 +0530",
-        "updated": "Mon, 04 May 2026 06:24:49 +0530",
-        "published_at_utc": "2026-05-04T00:54:49+00:00",
-        "id": "article-70934287",
-        "topic_type": "us_politics",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "Amid Trump's announcement, Ebrahim Azizi, head of the national security commission in Iran's parliament, said that any U.S. action in Strait of Hormuz would be a breach of ceasefire",
-          "news_focus_zh": "特朗普宣布啟動名為「自由計畫」的行動，旨在協助被困於霍爾木茲海峽的船隻。此舉引起伊朗國會國家安全委員會主席艾布拉欣·阿齊齊的強烈反對，他表示任何美國在霍爾木茲海峽的行動都將違反停火協議。",
-          "background": "霍爾木茲海峽是全球最重要的石油運輸通道之一，近年來因美伊緊張關係而成為衝突焦點。美國與伊朗之間的對抗加劇，特別是在特朗普政府期間，雙方在該地區的軍事行動與言辭交鋒頻繁。特朗普的「自由計畫」意在強化美國在該地區的影響力，並保障航運安全，然而伊朗則強烈反對外國軍事介入，認為這將威脅到其國家安全與主權。",
-          "stakeholders": [
-            "美國政府",
+            "日本政府",
+            "俄羅斯政府",
             "伊朗政府",
-            "國際航運公司",
-            "中東地區國家",
-            "全球石油市場"
+            "美國軍方",
+            "國際能源市場"
           ],
-          "analysis": "特朗普的「自由計畫」意在提升美國在霍爾木茲海峽的軍事存在，這可能會引發伊朗的強烈反應。根據參考報導，伊朗國會官員已明言美國的行動將被視為對停火協議的違反，顯示出雙方在該地區的緊張局勢可能進一步升級。美國希望通過此計畫來保護國際航運，但伊朗則可能會視此為挑釁，進一步加劇地緣政治緊張。此外，參考報導1中提到特朗普的具體行動計畫，強調了美國的主動性，而其他報導則未涉及具體細節，這反映出不同媒體對事件的關注重點有所不同。"
+          "analysis": "此次俄羅斯石油抵達日本，反映出日本在能源供應上的策略調整。日本政府可能希望通過引入俄羅斯石油來減少對伊朗及其他地區的依賴，這在當前的地緣政治環境中尤為重要。參考報導指出，伊朗方面對美國軍方的行動表示強烈反對，並威脅如果外國軍隊進入霍爾木茲海峽將會受到攻擊，這進一步加劇了該地區的緊張局勢。各方的立場差異顯示出在能源供應與地緣政治之間的複雜關係，未來可能會影響國際市場的石油價格及供應鏈的穩定性。"
         },
         "topic_priority_score": 8,
-        "event_type": "election_move",
+        "event_type": "security_event",
         "supporting_sources": [
-          "Al Jazeera",
-          "Taipei Times"
+          "The Hindu International",
+          "Al Jazeera"
         ],
         "supporting_titles": [
-          "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
-          "US airlines help stranded passengers as Spirit closes"
+          "First Russian oil arrives in Japan since Iran war: media",
+          "Iran says US military killed five civilians in attacks on passenger boats"
         ],
         "supporting_summaries": [
-          "President Trump said the US will begin Project Freedom on Monday to guide stranded ships out of the Strait of Hormuz.",
-          ""
+          "Japan, which depends on West Asia for around 95% of its oil imports, has tried to diversify sources of energy procurement since the outbreak of war on February 28 saw Tehran effectively shut the Strait",
+          "Iranian commander says US military attacked two passenger boats, not IRGC vessels, in the Strait of Hormuz on Monday."
         ],
         "supporting_links": [
-          "https://www.aljazeera.com/news/2026/5/4/iran-warns-us-to-stay-out-of-hormuz-after-trump-says-us-will-guide-ships?traffic_source=rss",
-          "https://www.taipeitimes.com/News/world/archives/2026/05/04/2003856730"
+          "https://www.thehindu.com/news/international/first-russian-oil-arrives-in-japan-since-iran-war-media/article70941303.ece",
+          "https://www.aljazeera.com/news/2026/5/5/iran-says-us-military-killed-five-civilians-in-attacks-on-passenger-boats?traffic_source=rss"
         ],
         "source_count": 3
       },
       {
         "category": "politics",
         "source_name": "The Guardian Business",
-        "title": "Young Americans have soured on Trump | Steven Greenhouse",
-        "link": "https://www.theguardian.com/commentisfree/2026/may/03/young-americans-trump-elections",
-        "summary": "The president’s approval rating with those under 30 has plummeted as he has failed to deliver on promise after promise Republicans rejoiced when far more young voters than expected backed Donald Trump in 2024, with many of them moved by Trump’s grandiose promises, such as his vow to “ build the greatest economy in the history of the world”. But Republicans should be alarmed that so many 18- to 29-year-olds have soured on Trump – his approval rating with that group has sunk from 48% in January 2025 to between just 25% and 33% in recent months , according to polls by YouGov/the Economist. It shouldn’t be a surprise that millions of young Americans have turned against Trump, considering that he has failed to deliver on so many promises, most notably his vow to reduce prices on day one . For young people, inflation is the No 1 economic issue , far outpacing other issues, and they very much wanted Trump to focus on affordability, but Trump has focused on everything but affordability. He’s focused instead on his glitzy, $400m ballroom , his war against Iran (which has increased gas prices ), and his tariff wars (which have increased overall inflation). In bad news for Republicans, 78% of Americans under age 30 disapprove of how Trump is handling inflation. Steven Greenhouse is a journalist and author, focusing on labor and the workplace, as well as economic and legal issues Continue reading...",
-        "published": "Sun, 03 May 2026 13:00:02 GMT",
-        "updated": "2026-05-03T13:00:02Z",
-        "published_at_utc": "2026-05-03T13:00:02+00:00",
-        "id": "https://www.theguardian.com/commentisfree/2026/may/03/young-americans-trump-elections",
+        "title": "The Guardian view on Trump, Merz and Europe’s security: EU countries cannot go it alone | Editorial",
+        "link": "https://www.theguardian.com/commentisfree/2026/may/04/the-guardian-view-on-trump-merz-and-europes-security-eu-countries-cannot-go-it-alone",
+        "summary": "The announcement of the withdrawal of thousands of US troops from Germany underlines the urgency of a pan-European defence strategy As Donald Trump’s second term has become overshadowed by plunging poll ratings and an illegal, ill-advised war in the Middle East, European governments have regularly been singled out to bear the brunt of the US president’s growing frustration. Sir Keir Starmer’s refusal to militarily back the attack on Iran led to unfavourable comparisons to both Winston Churchill and King Charles. “ Unfriendly ” Spain has been threatened with a trade embargo for similar reasons. Italy’s prime minister, Giorgia Meloni, previously seen as a key political ally, has also been on the receiving end. “I’m shocked by her,” Mr Trump said last month. “I thought she had courage. I was wrong.” Currently it is Germany’s chancellor, Friedrich Merz, who finds himself in Washington’s crosshairs. In the wake of Mr Merz’s accurate observation that the US has no convincing strategy on Iran, the Pentagon has announced the future withdrawal of 5,000 US troops from bases in Germany. Vital long-range weapons are also to be withheld as American military stockpiles are depleted by events in the Middle East. For good measure, Mr Trump has threatened to raise tariffs on European car manufacturers to 25% – a measure that would hit Germany hardest. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here . Continue reading...",
+        "published": "Mon, 04 May 2026 17:31:14 GMT",
+        "updated": "2026-05-04T17:31:14Z",
+        "published_at_utc": "2026-05-04T17:31:14+00:00",
+        "id": "https://www.theguardian.com/commentisfree/2026/may/04/the-guardian-view-on-trump-merz-and-europes-security-eu-countries-cannot-go-it-alone",
         "topic_type": "us_politics",
-        "relevance_score": 18,
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "The president’s approval rating with those under 30 has plummeted as he has failed to deliver on promise after promise Republicans rejoiced when far more young voters than expected backed Donald Trump in 2024, with many of them moved by Trump’s grandiose promises, such as his vow to “ build the greatest economy in the history of the world”. But Republicans should be alarmed that so many 18- to 29-year-olds have soured on Trump – his approval rating with that group has sunk from 48% in January 2025 to between just 25% and 33% in recent months , according to polls by YouGov/the Economist. It shouldn’t be a surprise that millions of young Americans have turned against Trump, considering that he has failed to deliver on so many promises, most notably his vow to reduce prices on day one . For young people, inflation is the No 1 economic issue , far outpacing other issues, and they very much wanted Trump to focus on affordability, but Trump has focused on everything but affordability. He’s focused instead on his glitzy, $400m ballroom , his war against Iran (which has increased gas prices ), and his tariff wars (which have increased overall inflation). In bad news for Republicans, 78% of Americans under age 30 disapprove of how Trump is handling inflation. Steven Greenhouse is a journalist and author, focusing on labor and the workplace, as well as economic and legal issues Continue reading...",
-          "news_focus_zh": "根據最新民調，年輕美國人對特朗普的支持率大幅下降，從2025年1月的48%降至目前的25%至33%。這一變化主要源於特朗普未能兌現其承諾，尤其是在通脹問題上，年輕選民對其處理經濟的表現感到失望。儘管年輕選民曾對特朗普的宏大承諾抱有期待，但他們對其在通脹和生活成本上的無能為力感到不滿，78%的年輕選民不滿意特朗普對通脹的處理。",
-          "background": "特朗普在2024年選舉中獲得了意外的年輕選民支持，這使得共和黨對其未來的政治前景感到樂觀。然而，隨著通脹成為年輕選民最關心的經濟議題，特朗普未能專注於降低生活成本，反而將注意力放在其他議題上，導致年輕選民的支持率驟降。年輕選民的經濟壓力加劇，使得他們對特朗普的失望情緒加深，這對共和黨在即將到來的選舉中構成挑戰。",
+          "news_focus": "The announcement of the withdrawal of thousands of US troops from Germany underlines the urgency of a pan-European defence strategy As Donald Trump’s second term has become overshadowed by plunging poll ratings and an illegal, ill-advised war in the Middle East, European governments have regularly been singled out to bear the brunt of the US president’s growing frustration. Sir Keir Starmer’s refusal to militarily back the attack on Iran led to unfavourable comparisons to both Winston Churchill and King Charles. “ Unfriendly ” Spain has been threatened with a trade embargo for similar reasons. Italy’s prime minister, Giorgia Meloni, previously seen as a key political ally, has also been on the receiving end. “I’m shocked by her,” Mr Trump said last month. “I thought she had courage. I was wrong.” Currently it is Germany’s chancellor, Friedrich Merz, who finds himself in Washington’s crosshairs. In the wake of Mr Merz’s accurate observation that the US has no convincing strategy on Iran, the Pentagon has announced the future withdrawal of 5,000 US troops from bases in Germany. Vital long-range weapons are also to be withheld as American military stockpiles are depleted by events in the Middle East. For good measure, Mr Trump has threatened to raise tariffs on European car manufacturers to 25% – a measure that would hit Germany hardest. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here . Continue reading...",
+          "news_focus_zh": "美國宣布將撤回5,000名駐德國軍隊，凸顯出歐洲國家在安全防衛上面臨的緊迫性。隨著特朗普的支持率下降及其在中東的軍事行動受到質疑，歐洲政府面臨美國總統日益增長的不滿。德國總理梅茲指出美國在伊朗問題上的策略不具說服力，隨後遭到特朗普的攻擊，並威脅對歐洲汽車製造商提高25%的關稅，這將對德國造成重大影響。",
+          "background": "隨著美國在全球安全政策上的轉變，特別是在特朗普政府下，歐洲國家被迫重新評估其防衛策略。美國的軍事存在長期以來是歐洲安全的基石，但隨著美國撤軍的消息傳出，歐洲國家必須考慮建立更具自主性的防衛機制。此外，特朗普對歐洲盟友的批評及其對貿易政策的威脅，進一步加劇了歐洲對美國安全承諾的疑慮。",
           "stakeholders": [
-            "特朗普",
-            "年輕選民",
-            "共和黨",
-            "經濟學家",
-            "媒體"
+            "美國政府",
+            "德國政府",
+            "歐洲聯盟",
+            "伊朗政府",
+            "歐洲汽車製造商"
           ],
-          "analysis": "年輕選民的支持率下降顯示出特朗普在經濟議題上的失誤，特別是在通脹問題上。根據參考報導，特朗普的施政表現將受到選民對經濟狀況的評價影響，這意味著如果生活成本持續上升，他的支持率可能會進一步下滑。共和黨需要重新評估其政策方向，以吸引年輕選民的支持，否則在未來的選舉中可能面臨更大的挑戰。參考報導強調了經濟狀況對選民投票行為的重要性，這與主新聞中年輕選民對通脹的關注相呼應，顯示出經濟議題在選舉中的關鍵性。"
+          "analysis": "此次美國撤軍的決定反映了特朗普政府對歐洲盟友的不滿，尤其是德國的表現。特朗普對梅茲的批評以及對歐洲汽車行業的關稅威脅，顯示出美國在外交政策上的強硬立場。這可能導致歐洲國家加速尋求獨立的防衛能力，以減少對美國的依賴。參考報導提到的伊朗問題，雖然未提供具體細節，但可能暗示中東局勢對美國軍事資源的影響，進而影響到歐洲的安全考量。各國在面對美國政策變化時，將如何調整其外交與防衛策略，將成為未來的重要議題。"
         },
         "topic_priority_score": 8,
         "event_type": "election_move",
         "supporting_sources": [
-          "BBC Business"
+          "Al Jazeera"
         ],
         "supporting_titles": [
-          "Voters will judge Trump on the economy - how is it doing?"
+          "What Iran is saying about attack on UAE"
         ],
         "supporting_summaries": [
-          "How much Donald Trump can do with the time he has left as president will depend massively on the cost of living."
+          "What Iran is saying about attack on UAE"
         ],
         "supporting_links": [
-          "https://www.bbc.com/news/articles/cgepyv20vrpo?at_medium=RSS&at_campaign=rss"
+          "https://www.aljazeera.com/video/newsfeed/2026/5/5/what-iran-is-saying-about-attack-on-uae?traffic_source=rss"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "politics",
+        "source_name": "Taipei Times",
+        "title": "Taiwan has largest delegation at US investment summit",
+        "link": "https://www.taipeitimes.com/News/biz/archives/2026/05/05/2003856754",
+        "summary": "",
+        "published": "",
+        "updated": "2026-05-05T08:00:00+08:00",
+        "published_at_utc": "2026-05-05T00:00:00+00:00",
+        "id": "https://www.taipeitimes.com/News/biz/archives/2026/05/05/2003856754",
+        "topic_type": "diplomacy",
+        "relevance_score": 19,
+        "briefing": {
+          "news_focus": "Taiwan has largest delegation at US investment summit",
+          "news_focus_zh": "台灣在美國投資峰會上派出了最大的代表團，顯示出其在國際投資領域的積極參與與影響力。此舉不僅強調了台灣在全球經濟中的角色，也反映出其對外關係的重視，尤其是在美國市場的投資機會。",
+          "background": "台灣在過去幾年中積極尋求擴大其國際影響力，尤其是在經濟和投資方面。隨著全球供應鏈的變化，台灣的科技產業和製造業受到關注，特別是在半導體和電子產品領域。美國作為台灣的重要貿易夥伴，兩國之間的經濟合作愈加緊密，台灣的投資代表團參加此類峰會，旨在促進雙邊貿易與投資，並強化其在國際市場中的地位。",
+          "stakeholders": [
+            "台灣政府",
+            "美國政府",
+            "中國政府",
+            "國際投資者",
+            "全球供應鏈企業"
+          ],
+          "analysis": "台灣在美國投資峰會上派出最大的代表團，顯示出其對國際經濟合作的重視，尤其是在美國市場的潛力。這一行動可能會引起中國的關注，因為中國對台灣的國際參與持反對態度，並可能加大對台灣的外交壓力。根據參考報導，台灣在與其他國家的外交活動中強調其參與全球事務的權利，這表明台灣希望在國際舞台上獲得更多的認可與支持。未來，台灣可能會繼續加強與美國及其他國家的經濟合作，並尋求在全球供應鏈中扮演更重要的角色。"
+        },
+        "topic_priority_score": 7,
+        "event_type": "diplomatic_move",
+        "supporting_sources": [
+          "Al Jazeera"
+        ],
+        "supporting_titles": [
+          "Taiwan has ‘right to engage with the world’ after Eswatini visit"
+        ],
+        "supporting_summaries": [
+          "Taiwan has ‘right to engage with the world’ after Eswatini visit"
+        ],
+        "supporting_links": [
+          "https://www.aljazeera.com/video/newsfeed/2026/5/5/taiwan-has-right-to-engage-with-the-world-after-eswatini-visit?traffic_source=rss"
         ],
         "source_count": 2
       }
@@ -250,79 +256,76 @@
     "economy": [
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Could Iran’s escalating economic crisis weaken negotiating position with US?",
-        "link": "https://www.theguardian.com/world/2026/may/04/could-irans-escalating-economic-crisis-weaken-negotiating-position-with-us",
-        "summary": "War has combined with battered economy to leave Tehran wondering how hardline it can afford to be Iran may not be choking like a stuffed pig as Donald Trump predicted, but its economy is in serious difficulty as a combination of a massive war-damages bill, inflation, currency devaluation, unemployment and a contraction in oil revenues combine to leave the political elite worrying how hardline they can afford to be with their US negotiators. One estimate circulating in Iran’s media suggests the damage to the economy from the US-Israeli attacks is nine times the value of the Iranian budget last year. The UN Development Programme has estimated that 4.1 million more Iranians could fall into poverty. Continue reading...",
-        "published": "Mon, 04 May 2026 05:00:15 GMT",
-        "updated": "2026-05-04T05:00:15Z",
-        "published_at_utc": "2026-05-04T05:00:15+00:00",
-        "id": "https://www.theguardian.com/world/2026/may/04/could-irans-escalating-economic-crisis-weaken-negotiating-position-with-us",
-        "topic_type": "inflation",
-        "relevance_score": 25,
+        "source_name": "The Guardian World",
+        "title": "RBA interest rates: Michele Bullock says Australians poorer with ‘no way out’ as she warns of more rate hikes",
+        "link": "https://www.theguardian.com/australia-news/2026/may/05/rba-interest-rate-decision-reserve-bank-australia-rates-inflation",
+        "summary": "Reserve Bank of Australia raises cash rate for third consecutive meeting as governor says increases ‘are not going to do anything for inflation’ in next six months Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Use our loan calculator to see how rate hikes could affect you The Reserve Bank governor has said surging oil prices in the wake of the US-Israel war on Iran have made Australians poorer with “no way out”, after handing down an interest rate rise and warning more hikes could be needed. A week out from the federal budget, Michele Bullock also warned inflation would get worse if governments’ cost-of-living relief was not “targeting where it’s most needed”. Continue reading...",
+        "published": "Tue, 05 May 2026 07:44:12 GMT",
+        "updated": "2026-05-05T07:44:12Z",
+        "published_at_utc": "2026-05-05T07:44:12+00:00",
+        "id": "https://www.theguardian.com/australia-news/2026/may/05/rba-interest-rate-decision-reserve-bank-australia-rates-inflation",
+        "topic_type": "interest_rates",
+        "relevance_score": 27,
         "briefing": {
-          "news_focus": "War has combined with battered economy to leave Tehran wondering how hardline it can afford to be Iran may not be choking like a stuffed pig as Donald Trump predicted, but its economy is in serious difficulty as a combination of a massive war-damages bill, inflation, currency devaluation, unemployment and a contraction in oil revenues combine to leave the political elite worrying how hardline they can afford to be with their US negotiators. One estimate circulating in Iran’s media suggests the damage to the economy from the US-Israeli attacks is nine times the value of the Iranian budget last year. The UN Development Programme has estimated that 4.1 million more Iranians could fall into poverty. Continue reading...",
-          "news_focus_zh": "伊朗面臨嚴重的經濟危機，這使得當地政治精英對於與美國的談判立場感到擔憂。隨著戰爭造成的巨大損失、通貨膨脹、貨幣貶值、失業率上升以及石油收入減少，伊朗的經濟狀況日益惡化。有報導指出，來自美國和以色列的攻擊造成的經濟損失，估計是伊朗去年預算的九倍。聯合國開發計劃署預測，將有410萬伊朗人可能陷入貧困。",
-          "background": "伊朗的經濟危機源於多重因素，包括國際制裁、內部政策失誤以及持續的軍事衝突。自特朗普政府實施制裁以來，伊朗的經濟受到重創，尤其是石油產業的萎縮影響了國家收入。隨著戰爭的加劇，伊朗的基礎設施和經濟體系遭受了進一步的損害，導致通脹飆升和貨幣貶值。這一系列問題使得伊朗政府在與美國的談判中，面臨更大的壓力和挑戰。",
+          "news_focus": "Reserve Bank of Australia raises cash rate for third consecutive meeting as governor says increases ‘are not going to do anything for inflation’ in next six months Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Use our loan calculator to see how rate hikes could affect you The Reserve Bank governor has said surging oil prices in the wake of the US-Israel war on Iran have made Australians poorer with “no way out”, after handing down an interest rate rise and warning more hikes could be needed. A week out from the federal budget, Michele Bullock also warned inflation would get worse if governments’ cost-of-living relief was not “targeting where it’s most needed”. Continue reading...",
+          "news_focus_zh": "澳洲儲備銀行（RBA）連續第三次提高現金利率，將官方現金利率調升至4.35%。行長米歇爾·布洛克（Michele Bullock）表示，近期因美以戰爭導致的油價飆升使得澳洲民眾的生活成本上升，且未來可能會有更多的利率上調。她警告，若政府的生活成本救助措施未能針對最需要的群體，通脹情況將會惡化。",
+          "background": "澳洲的通脹率在過去一年中持續上升，主要受到全球能源價格上漲的影響。儲備銀行為了應對通脹，已經多次提高利率，這一政策旨在減少消費支出，從而抑制價格上漲。然而，布洛克指出，這些措施在短期內對於控制油價驅動的通脹無法產生顯著效果。隨著聯邦預算即將公布，政府的財政策略也將受到廣泛關注，特別是在生活成本救助方面。",
           "stakeholders": [
-            "伊朗政府",
-            "美國政府",
-            "聯合國開發計劃署",
-            "中國",
-            "伊朗革命衛隊"
+            "澳洲儲備銀行",
+            "澳洲政府",
+            "消費者",
+            "抵押貸款持有者",
+            "經濟學家"
           ],
-          "analysis": "伊朗的經濟困境使得其在與美國的談判中處於不利地位。根據主新聞，伊朗的政治精英擔心，過於強硬的立場可能會進一步惡化經濟狀況，這使得他們不得不重新考慮談判策略。參考報導1提到的美國對伊朗的攻擊使用了人工智慧技術，可能使得戰爭的影響更加深遠，進一步加劇了伊朗的經濟壓力。另一方面，參考報導2指出，中國正在幫助伊朗的革命衛隊從石油貿易中獲利，這可能為伊朗提供了一定的經濟支持，儘管整體經濟形勢依然嚴峻。未來，伊朗可能需要在國際關係中尋求更靈活的策略，以應對內外挑戰。"
+          "analysis": "此次利率上調反映了RBA對於通脹壓力的持續擔憂，尤其是在油價因地緣政治因素而上漲的背景下。布洛克的發言強調了政府在應對生活成本危機時，需更精準地針對受影響最嚴重的群體，否則可能導致通脹惡化。參考報導1補充指出，這次利率上調的主要目的是為了減少消費支出，而非直接控制油價。這一政策可能對抵押貸款持有者造成影響，進一步加劇家庭財務壓力。各方對於如何平衡經濟增長與通脹控制的看法可能存在分歧，未來的政策走向將受到密切關注。"
         },
-        "topic_priority_score": 9,
-        "event_type": "inflation_data",
+        "topic_priority_score": 10,
+        "event_type": "rate_decision",
         "supporting_sources": [
-          "Nikkei Asia",
-          "The Economist"
+          "The Guardian Business",
+          "Reuters"
         ],
         "supporting_titles": [
-          "How AI speeds 'kill chain' in US attacks on Iran",
-          "How Iran is making a mint from Donald Trump’s war"
+          "RBA governor announces cash rate hike and warns more interest rate rises could come – video",
+          "Trump says interest rates are too high - Reuters"
         ],
         "supporting_summaries": [
-          "",
-          "China is helping the Revolutionary Guards profit from Iranian crude"
+          "Michele Bullock says more interest rate rises may be needed after the third interest rate hike in 2026 bringing the offical cash rate to 4.35%. The Reserve Bank governor says rate hikes to date won’t be able to stop fuel prices from driving up inflation and are instead aimed at cutting spending to stop broader prices from rising after the oil price spike ends RBA interest rates: Reserve Bank hikes official cash rate to 4.35% in blow to mortgage holders Continue reading...",
+          "Trump says interest rates are too high Reuters"
         ],
         "supporting_links": [
-          "https://asia.nikkei.com/spotlight/comment/how-ai-speeds-kill-chain-in-us-attacks-on-iran",
-          "https://www.economist.com/finance-and-economics/2026/03/29/how-iran-is-making-a-mint-from-donald-trumps-war"
+          "https://www.theguardian.com/australia-news/video/2026/may/05/rba-cash-rate-interest-rates-decision-reserve-bank-governor-video",
+          "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUll5RHo1ZEsxTEs4VUhaZU03aGg5X0o3S2VjbkJLVEFaUEE5UGcySTRBYTczNE5lQm1SVi0xdDlCcHJmV0Z4ejZFUXJDTVpPSC1rX2dLRmUwc1ZRSGNNRU9hcVJydDhpTm1FTGdJZU9rQlZacl96NDF3eW5rMjFxTVF4dUtNOUEzYm1r?oc=5"
         ],
-        "source_count": 3,
-        "cross_section_refs": [
-          "politics"
-        ]
+        "source_count": 3
       },
       {
         "category": "economy",
         "source_name": "SCMP Business",
-        "title": "Full charge: Xiaomi shares surge on EV sales boost",
-        "link": "https://www.scmp.com/business/china-business/article/3352336/full-charge-xiaomi-shares-surge-ev-sales-boost?utm_source=rss_feed",
-        "summary": "Shares of Xiaomi jumped in Hong Kong on Monday after the Chinese smartphone and electric-vehicle (EV) maker reported robust growth in its EV business, though analysts cautioned that broader headwinds could limit revenue upside. The stock rose as much as 11 per cent in early trade before closing 6.8 per cent higher at HK$30.98. Turnover reached HK$7.3 billion (US$931 million), placing it among the most actively traded counters on the city’s main board. The rally followed data showing Xiaomi’s EV...",
-        "published": "Mon, 04 May 2026 07:15:10 +0000",
-        "updated": "Mon, 04 May 2026 07:15:10 +0000",
-        "published_at_utc": "2026-05-04T07:15:10+00:00",
-        "id": "https://www.scmp.com/business/china-business/article/3352336/full-charge-xiaomi-shares-surge-ev-sales-boost?utm_source=rss_feed",
-        "topic_type": "markets",
-        "relevance_score": 21,
+        "title": "HSBC profit flat as Middle East provisions offset wealth growth",
+        "link": "https://www.scmp.com/business/banking-finance/article/3352456/hsbc-profit-flat-middle-east-provisions-offset-wealth-growth?utm_source=rss_feed",
+        "summary": "HSBC, Hong Kong’s largest lender, reported broadly flat first-quarter profit as lower interest rates and provisions linked to the Middle East conflict offset solid growth in its wealth management business. Net profit for the first three months of 2026 rose 0.14 per cent year on year to US$6.94 billion, or 41 US cents per share, the London-based bank said in a Hong Kong stock exchange filing on Tuesday. The result missed the US$7.07 billion consensus estimate of 17 analysts polled by the...",
+        "published": "Tue, 05 May 2026 06:06:17 +0000",
+        "updated": "Tue, 05 May 2026 06:06:17 +0000",
+        "published_at_utc": "2026-05-05T06:06:17+00:00",
+        "id": "https://www.scmp.com/business/banking-finance/article/3352456/hsbc-profit-flat-middle-east-provisions-offset-wealth-growth?utm_source=rss_feed",
+        "topic_type": "interest_rates",
+        "relevance_score": 27,
         "briefing": {
-          "news_focus": "Shares of Xiaomi jumped in Hong Kong on Monday after the Chinese smartphone and electric-vehicle (EV) maker reported robust growth in its EV business, though analysts cautioned that broader headwinds could limit revenue upside. The stock rose as much as 11 per cent in early trade before closing 6.8 per cent higher at HK$30.98. Turnover reached HK$7.3 billion (US$931 million), placing it among the most actively traded counters on the city’s main board. The rally followed data showing Xiaomi’s EV...",
-          "news_focus_zh": "小米的股價在香港大幅上漲，原因是該公司報告其電動車（EV）業務增長強勁。周一，小米的股價在早盤交易中上漲了11%，最終以30.98港元收盤，上漲6.8%。交易量達到73億港元（約9.31億美元），使其成為香港主要交易所中最活躍的股票之一。這一股價上漲的背景是小米的電動車業務數據顯示出良好的增長潛力。",
-          "background": "小米作為一家知名的智能手機製造商，近年來積極拓展其電動車業務，以應對市場競爭及多元化收入來源。隨著中國電動車市場的快速增長，許多科技公司都在尋求進入這一領域。小米的EV業務增長反映了其在這一新興市場中的潛力，儘管市場分析師警告，整體經濟環境和行業挑戰可能會限制其未來的收入增長。",
+          "news_focus": "HSBC, Hong Kong’s largest lender, reported broadly flat first-quarter profit as lower interest rates and provisions linked to the Middle East conflict offset solid growth in its wealth management business. Net profit for the first three months of 2026 rose 0.14 per cent year on year to US$6.94 billion, or 41 US cents per share, the London-based bank said in a Hong Kong stock exchange filing on Tuesday. The result missed the US$7.07 billion consensus estimate of 17 analysts polled by the...",
+          "news_focus_zh": "匯豐銀行（HSBC）在2026年第一季報告顯示，淨利潤年增0.14%至69.4億美元，或每股41美分，表現平穩。然而，由於中東衝突相關的撥備及低利率影響，這一結果未達到分析師預期的70.7億美元。儘管其財富管理業務表現強勁，卻因上述因素影響整體利潤。",
+          "background": "匯豐銀行作為香港最大的銀行，近年來在全球經濟環境中面臨多重挑戰。低利率環境使得銀行的利息收入受到壓制，而中東地區的地緣政治緊張局勢則導致銀行需要為潛在損失撥備，進一步影響其財務表現。儘管如此，匯豐在財富管理業務上仍顯示出增長潛力，顯示出其在多元化業務上的努力。",
           "stakeholders": [
-            "小米",
-            "投資者",
-            "市場分析師",
-            "競爭對手",
-            "中國政府"
+            "匯豐銀行",
+            "香港投資者",
+            "中東地區經濟體",
+            "財富管理客戶",
+            "分析師"
           ],
-          "analysis": "小米的股價上漲顯示出市場對其電動車業務的信心，然而分析師的警告也指出，宏觀經濟的不確定性及行業競爭可能會對其未來的表現造成壓力。這一情況可能使投資者在短期內看好小米的增長潛力，但長期而言，仍需密切關注市場動態及競爭對手的策略。此外，隨著中國政府對電動車產業的支持政策，這可能會進一步影響小米的市場表現及策略調整。"
+          "analysis": "匯豐銀行的平穩利潤反映了當前經濟環境的複雜性。中東衝突的持續影響使得銀行不得不為潛在損失撥備，這對其利潤造成了壓力。儘管財富管理業務增長顯著，但整體利潤未達預期，顯示出市場對於銀行未來表現的擔憂。分析師對於匯豐的未來展望可能會因為這些不確定性而變得謹慎，尤其是在全球利率可能持平或下降的情況下。匯豐需要在穩定其核心業務與應對外部挑戰之間找到平衡。"
         },
-        "topic_priority_score": 4,
-        "event_type": "corporate_results",
+        "topic_priority_score": 10,
+        "event_type": "rate_decision",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -331,254 +334,262 @@
       },
       {
         "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "Asia races to de-risk critical minerals supply chain with new financing tool",
-        "link": "https://www.scmp.com/economy/china-economy/article/3352352/asia-races-de-risk-critical-minerals-supply-chain-new-financing-tool?utm_source=rss_feed",
-        "summary": "The Asian Development Bank (ADB) has launched a new financing facility aimed at strengthening critical mineral supply chains across the Asia-Pacific region, as a global push to loosen China’s chokehold over the sector continues. The initiative is designed to help Asia-Pacific nations move up the critical minerals value chain – moving beyond just mining – by equipping them with the technical capabilities to process and recycle the materials, according to the ADB. “Asia and the Pacific should be...",
-        "published": "Mon, 04 May 2026 08:15:00 +0000",
-        "updated": "Mon, 04 May 2026 08:15:00 +0000",
-        "published_at_utc": "2026-05-04T08:15:00+00:00",
-        "id": "https://www.scmp.com/economy/china-economy/article/3352352/asia-races-de-risk-critical-minerals-supply-chain-new-financing-tool?utm_source=rss_feed",
-        "topic_type": "supply_chain",
-        "relevance_score": 20,
+        "source_name": "The Guardian Business",
+        "title": "RBA governor announces cash rate hike and warns more interest rate rises could come – video",
+        "link": "https://www.theguardian.com/australia-news/video/2026/may/05/rba-cash-rate-interest-rates-decision-reserve-bank-governor-video",
+        "summary": "Michele Bullock says more interest rate rises may be needed after the third interest rate hike in 2026 bringing the offical cash rate to 4.35%. The Reserve Bank governor says rate hikes to date won’t be able to stop fuel prices from driving up inflation and are instead aimed at cutting spending to stop broader prices from rising after the oil price spike ends RBA interest rates: Reserve Bank hikes official cash rate to 4.35% in blow to mortgage holders Continue reading...",
+        "published": "Tue, 05 May 2026 06:16:10 GMT",
+        "updated": "2026-05-05T06:16:10Z",
+        "published_at_utc": "2026-05-05T06:16:10+00:00",
+        "id": "https://www.theguardian.com/australia-news/video/2026/may/05/rba-cash-rate-interest-rates-decision-reserve-bank-governor-video",
+        "topic_type": "interest_rates",
+        "relevance_score": 25,
         "briefing": {
-          "news_focus": "The Asian Development Bank (ADB) has launched a new financing facility aimed at strengthening critical mineral supply chains across the Asia-Pacific region, as a global push to loosen China’s chokehold over the sector continues. The initiative is designed to help Asia-Pacific nations move up the critical minerals value chain – moving beyond just mining – by equipping them with the technical capabilities to process and recycle the materials, according to the ADB. “Asia and the Pacific should be...",
-          "news_focus_zh": "亞洲開發銀行（ADB）推出了一項新的融資工具，旨在加強亞太地區的關鍵礦產供應鏈，這是全球努力減少中國在該領域影響力的一部分。此舉旨在幫助亞太國家提升關鍵礦產的價值鏈，不僅限於採礦，還包括提供技術能力以進行材料的加工和回收。",
-          "background": "隨著全球對關鍵礦產需求的增加，特別是在電動車和可再生能源領域，亞洲地區面臨著對中國供應鏈依賴的挑戰。中國在全球關鍵礦產的開採和加工中佔據主導地位，這使得其他國家開始尋求多元化供應來源。亞洲開發銀行的這項新融資工具，旨在支持亞太國家在關鍵礦產的開發和利用上，提升自主能力，減少對中國的依賴，並促進地區經濟的可持續發展。",
+          "news_focus": "Michele Bullock says more interest rate rises may be needed after the third interest rate hike in 2026 bringing the offical cash rate to 4.35%. The Reserve Bank governor says rate hikes to date won’t be able to stop fuel prices from driving up inflation and are instead aimed at cutting spending to stop broader prices from rising after the oil price spike ends RBA interest rates: Reserve Bank hikes official cash rate to 4.35% in blow to mortgage holders Continue reading...",
+          "news_focus_zh": "澳洲儲備銀行（RBA）行長米歇爾·布洛克宣布，自2026年以來第三次提高官方現金利率，將其提升至4.35%。她表示，未來可能還會有更多的利率上調，這些措施旨在減少支出以應對通脹，儘管目前的利率上調無法立即解決因油價上漲而引發的通脹問題。",
+          "background": "近期，全球油價因美以衝突而急劇上升，這對澳洲經濟造成了壓力。儘管RBA已經連續提高利率以應對通脹，但布洛克行長指出，這些措施在短期內無法有效降低通脹，特別是在油價持續高漲的背景下。她還提到，政府在生活成本救助方面的措施需更具針對性，以防止通脹進一步惡化。此時，澳洲即將公布聯邦預算，政府的財政策略將受到廣泛關注。",
           "stakeholders": [
-            "亞洲開發銀行",
-            "亞太國家政府",
-            "礦業公司",
-            "環保組織",
-            "投資者"
+            "澳洲儲備銀行",
+            "澳洲政府",
+            "消費者",
+            "房貸持有者",
+            "經濟學家"
           ],
-          "analysis": "亞洲開發銀行的這一舉措反映了亞太地區對於關鍵礦產供應鏈安全的高度重視。各國政府和企業可能會積極參與這項計劃，以獲得技術和資金支持，進而提升本地的產業能力。這不僅有助於減少對中國的依賴，還可能促進區域內的合作與競爭。然而，這一過程也可能面臨挑戰，包括技術轉移的難度、資金的有效分配以及市場需求的變化。隨著全球對於環保和可持續發展的重視，如何平衡經濟增長與環境保護將成為各國面臨的重要課題。"
+          "analysis": "布洛克行長的警告反映了RBA面對的困境：儘管提高利率是應對通脹的常見手段，但在油價上漲的情況下，這些措施的效果受到限制。她提到，澳洲民眾的經濟狀況正在惡化，且似乎沒有明顯的解決方案。參考報導中強調，若政府的生活成本救助措施未能針對最需要的群體，通脹將可能進一步加劇。這顯示出政府與中央銀行在應對經濟挑戰上的協調需求，未來的政策走向將對澳洲經濟復甦至關重要。"
         },
-        "topic_priority_score": 6,
-        "event_type": "macro_signal",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "topic_priority_score": 10,
+        "event_type": "rate_decision",
+        "supporting_sources": [
+          "The Guardian World"
+        ],
+        "supporting_titles": [
+          "RBA interest rates: Michele Bullock says Australians poorer with ‘no way out’ as she warns of more rate hikes"
+        ],
+        "supporting_summaries": [
+          "Reserve Bank of Australia raises cash rate for third consecutive meeting as governor says increases ‘are not going to do anything for inflation’ in next six months Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Use our loan calculator to see how rate hikes could affect you The Reserve Bank governor has said surging oil prices in the wake of the US-Israel war on Iran have made Australians poorer with “no way out”, after handing down an interest rate rise and warning more hikes could be needed. A week out from the federal budget, Michele Bullock also warned inflation would get worse if governments’ cost-of-living relief was not “targeting where it’s most needed”. Continue reading..."
+        ],
+        "supporting_links": [
+          "https://www.theguardian.com/australia-news/2026/may/05/rba-interest-rate-decision-reserve-bank-australia-rates-inflation"
+        ],
+        "source_count": 2
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
-        "title": "Welcome to the Great American Satellite Age",
-        "link": "https://www.wired.com/story/welcome-to-the-great-american-satellite-age/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-05-04T09:00:00+00:00",
-        "relevance_score": 18
+        "title": "Time limits, curfews or a full ban: how UK may restrict social media for under-16s",
+        "link": "https://www.theguardian.com/uk-news/2026/may/05/how-uk-may-restrict-social-media-under-16s-time-limits-curfews-ban",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-05T08:00:46+00:00",
+        "relevance_score": 20
       },
       {
-        "title": "Wikipedia founder brands Australia’s social media ban an ‘unmitigated disaster’ and ‘embarrassment’",
-        "link": "https://www.theguardian.com/technology/2026/may/04/wikipedia-founder-brands-australias-social-media-ban-an-unmitigated-disaster-and-an-embarrassment",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-04T06:49:38+00:00",
+        "title": "Meta Quest Promo Codes: $50 Off | May 2026",
+        "link": "https://www.wired.com/story/meta-quest-promo-code/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-05-05T05:00:00+00:00",
         "relevance_score": 16
       },
       {
-        "title": "Can Listening to ‘Subliminals’ Make You Beautiful? Plenty of Women Believe It",
-        "link": "https://www.wired.com/story/subliminals-tiktok-youtube-make-you-beautiful/",
+        "title": "Middle East war drives demand for Hong Kong metal storage, but capacity falls short",
+        "link": "https://www.scmp.com/business/article/3352394/middle-east-war-drives-demand-hong-kong-metal-storage-capacity-falls-short?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-05T00:00:24+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
+        "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-05T03:31:54+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "OpenAI’s president does ‘all the things,’ except answer a question",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-05-04T23:49:33+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
+        "link": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
         "source_name": "Wired",
-        "published_at_utc": "2026-05-04T10:00:00+00:00",
-        "relevance_score": 14
+        "published_at_utc": "2026-05-04T23:19:52+00:00",
+        "relevance_score": 15
       },
       {
-        "title": "New Mexico seeks child safety restrictions on Meta apps, algorithms in trial's 2nd phase",
-        "link": "https://www.thehindu.com/news/international/new-mexico-seeks-child-safety-restrictions-on-meta-apps-algorithms-in-trials-2nd-phase/article70937689.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-04T07:15:42+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-        "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+        "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+        "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-03T18:00:09+00:00",
+        "published_at_utc": "2026-05-04T21:53:21+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Intel appoints Qualcomm executive to lead PC and physical AI business - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQldKc3AxNXltRkY5UWFEVnRmbGtUWVNrNjFicmN3U2JNZV9JMHlxWGJHaTFfeHZ4MkVlNmRxbkg2RHdFMzFGeGVzRG1fTExlNndWdFQydFJ4Y3RXdkt4TV9kQXY5RS01ZVNkVVpINXdvRHNzYUJHMFhGa2ljOFFwaEJJOXl4V0NHX21tRFN3Nm1DVGZvYjVUelUtMWIyT2JOeVlxd3JrX3JYLTA?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-04T21:51:42+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Hong Kong researchers develop ‘world-first’ nasal spray for rapid stroke aid",
+        "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3352496/hong-kong-researchers-develop-world-first-nasal-spray-rapid-stroke-aid?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-05T09:25:39+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "Influential study touting ChatGPT in education retracted over red flags",
+        "link": "https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-05-04T19:03:39+00:00",
         "relevance_score": 13
-      },
-      {
-        "title": "We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
-        "link": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-04T02:02:25+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "The Download: a new Christian phone network, and debugging LLMs",
-        "link": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
-        "source_name": "MIT Technology Review",
-        "published_at_utc": "2026-05-01T12:10:00+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "As Formula One evolves, AI becomes part of the race - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjlIX0JUZjhLMGdrRzc0cmt6b2JxcndUYjVRa1JsRl9rbFFDNnR0UmM0MGxSRURrc0NMaWRIZWExQ3k2UjJXNmNDVENhVm9UUzE4aHZrRmN1ME5Sb1VaTE51R3gtY2NNcVhZckdhbjdaeU5mVG5NVDk1UWVDSG9RTHhZMWY3SldWRDVhNXF4Q3I?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-05-04T09:38:23+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "A robot rescues 77‑year‑old Ukrainian woman from the front line - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LNmRpaWViQzZHT1JLQ3VXM1UtTU9HLUJuOVlqME5PbUwzdzdVTlBiMm9Gdi1PZklwQVJkWERuZ3pnZW83eXV0R1FES25zZUM2alg1SkJ4QVQtTXRzd01HUl9EMFpKNnc5S0FRelJBbkxlazJRbVBXdjVlckE?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-05-04T06:44:27+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "Guilty until proven innocent: shoppers falsely identified by facial recognition system struggle to clear their names",
-        "link": "https://www.theguardian.com/technology/2026/may/03/guilty-until-proven-innocent-shoppers-falsely-identified-by-facial-recognition-struggle-to-clear-their-name",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-03T16:00:01+00:00",
-        "relevance_score": 10
       }
     ],
     "politics": [
       {
-        "title": "Could Iran’s escalating economic crisis weaken negotiating position with US?",
-        "link": "https://www.theguardian.com/world/2026/may/04/could-irans-escalating-economic-crisis-weaken-negotiating-position-with-us",
+        "title": "Russia launches attacks on Ukraine energy infrastructure amid truce talks – Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/may/05/zelenskyy-putin-ukraine-russia-trump-troops-merz-latest-news-updates",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-04T05:00:15+00:00",
-        "relevance_score": 22
+        "published_at_utc": "2026-05-05T09:39:00+00:00",
+        "relevance_score": 24
       },
       {
-        "title": "Tories accuse Starmer of ‘undemocratic hit job’ after report the UK could pay £1bn to access EU single market – UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
+        "title": "Australia eyes security pact with Fiji as pushback from Beijing undermines agreement with Vanuatu",
+        "link": "https://www.theguardian.com/world/2026/may/05/australia-eyes-security-pact-with-fiji-as-pushback-from-beijing-undermines-agreement-with-vanuatu",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-04T09:48:51+00:00",
+        "published_at_utc": "2026-05-05T05:34:18+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Starmer calls antisemitism ‘crisis for all of us’ ahead of Downing Street summit – UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/may/05/keir-starmer-uk-antisemitism-summit-golders-green-terror-latest-news-updates",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-05-05T09:41:40+00:00",
         "relevance_score": 20
       },
       {
-        "title": "EU forging closer ties with Armenia as it sends experts to help counter Russian interference",
-        "link": "https://www.theguardian.com/world/2026/may/04/eu-closer-ties-armenia-counter-russian-interference",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-04T04:00:15+00:00",
-        "relevance_score": 19
+        "title": "Iran-Israel war LIVE: PM Modi condemns attacks on the UAE, which resulted in injuries to three Indian nationals",
+        "link": "https://www.thehindu.com/news/international/iran-israel-war-ceasefire-news-strait-of-hormuz-ships-attacks-trump-may-5-2026/article70941232.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-05-05T06:57:24+00:00",
+        "relevance_score": 20
       },
       {
-        "title": "Transgender student sues Hong Kong school over ‘discriminatory’ hair policy",
-        "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352370/transgender-student-sues-hong-kong-school-over-discriminatory-hair-policy?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-05-04T10:00:54+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Iran warns US to stay out of Hormuz after Trump says US will ‘guide’ ships",
-        "link": "https://www.aljazeera.com/news/2026/5/4/iran-warns-us-to-stay-out-of-hormuz-after-trump-says-us-will-guide-ships?traffic_source=rss",
+        "title": "Russian air attacks kill five at Ukraine’s Naftogaz gas facilities",
+        "link": "https://www.aljazeera.com/news/2026/5/5/russian-attack-kills-five-at-ukraines-naftogaz-gas-facility?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-04T08:20:54+00:00",
+        "published_at_utc": "2026-05-05T09:14:14+00:00",
         "relevance_score": 18
       },
       {
-        "title": "How to escape Russia’s army: Soldiers serving in Ukraine seek a way out",
-        "link": "https://www.aljazeera.com/news/2026/5/4/how-to-escape-russias-army-soldiers-serving-in-ukraine-seek-a-way-out?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-04T06:15:24+00:00",
+        "title": "Ukraine and Russia declare separate truces",
+        "link": "https://www.thehindu.com/news/international/ukraine-and-russia-declare-separate-truces/article70940571.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-05-05T07:05:13+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Why African leaders value seamless transcontinental links over US-China rivalry",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3352324/why-african-leaders-value-seamless-transcontinental-links-over-us-china-rivalry?utm_source=rss_feed",
+        "title": "South Korea rebuffs Trump’s ‘Project Freedom’ call after Hormuz ship fire",
+        "link": "https://www.scmp.com/week-asia/politics/article/3352462/south-korea-rebuffs-trumps-project-freedom-call-after-hormuz-ship-fire?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-05-04T06:00:11+00:00",
+        "published_at_utc": "2026-05-05T06:30:46+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Philippine Lawmaker Plants National Flag on Disputed South China Sea Sandbar",
-        "link": "https://thediplomat.com/2026/05/philippine-lawmaker-plants-national-flag-on-disputed-south-china-sea-sandbar/",
-        "source_name": "The Diplomat",
-        "published_at_utc": "2026-05-04T05:33:00+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Japan sees largest protest in support of pacifist constitution as PM Takaichi pushes revisions",
-        "link": "https://www.theguardian.com/world/2026/may/04/japan-sees-largest-protest-in-support-of-pacifist-constitution-as-pm-takaichi-pushes-revisions",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-04T05:14:49+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Cheaper durians for China, Hong Kong helpers camp in tents: 5 weekend reads you missed",
-        "link": "https://www.scmp.com/news/world/article/3352312/cheaper-durians-china-hong-kong-helpers-camp-tents-5-weekend-reads-you-missed?utm_source=rss_feed",
+        "title": "HSBC profit flat as Middle East provisions offset wealth growth",
+        "link": "https://www.scmp.com/business/banking-finance/article/3352456/hsbc-profit-flat-middle-east-provisions-offset-wealth-growth?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-05-04T04:34:07+00:00",
+        "published_at_utc": "2026-05-05T06:06:17+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "South Korea to probe ship fire in Strait of Hormuz, Trump blames Iranian attack",
+        "link": "https://www.thehindu.com/news/international/south-korea-to-probe-ship-fire-in-strait-of-hormuz-trump-blames-iranian-attack/article70941503.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-05-05T05:44:59+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "U.S. Military strike on alleged drug boat kills two in the Caribbean",
+        "link": "https://www.thehindu.com/news/international/us-military-strike-on-alleged-drug-boat-kills-two-in-the-caribbean/article70941536.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-05-05T05:43:30+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "Gold rush: Hong Kong sees sudden jump in bullion imports from Dubai amid US-Iran war",
-        "link": "https://www.scmp.com/business/commodities/article/3352334/gold-rush-hong-kong-sees-sudden-jump-bullion-imports-dubai-amid-us-iran-war?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-04T06:44:44+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Kazakhstan’s AIFC discussing stock-trading links with Shanghai, Hong Kong",
-        "link": "https://www.scmp.com/business/banking-finance/article/3352276/kazakhstans-aifc-discussing-stock-trading-links-shanghai-hong-kong?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-04T01:00:13+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Who could gain from DeepSeek’s V4 with China chips poised for stronger demand?",
-        "link": "https://www.scmp.com/business/china-business/article/3352126/who-could-gain-deepseeks-v4-china-chips-poised-stronger-demand?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-03T23:00:10+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "OPEC+ agrees third oil output quota hike since Hormuz closure - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDd4Y0FGSVFkY1NjbFBmd0V5Q01udExuM2l6MjhFWXBzOWJBZU04dnExbzJ6S001ckRnRThWd2dKODNuUnhKRVViWXdEdEFNZlJPbEJYOUlEYWxPSkVIRzgyeXlsMzNCTjNSME5GNEFfcUVNMlk2a2J1SzJ6MHk0dXNvdE1SeDJVSm5MblRZcWVueHV1UTFIR2lnSjdTb01MMlBmclhteFk3ZDN0SHc0TjVlNmVJYkpnWHNnYTF5VGNZRnpwclE?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-05-03T11:34:45+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "China rejects U.S. sanctions on refineries over Iran oil links",
-        "link": "https://www.thehindu.com/news/international/china-rejects-us-sanctions-on-refineris-over-iran-oil-links/article70932170.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-02T14:20:10+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Tacos win hearts and wallets of inflation-squeezed Japanese diners",
-        "link": "https://asia.nikkei.com/business/food-beverage/tacos-win-hearts-and-wallets-of-inflation-squeezed-japanese-diners",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 15
-      },
-      {
-        "title": "AI chipmaker Cerebras targets $115-$125 share price in US IPO, source says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3JWZ1Zhb2twMlJzUTh0M1hNTHpIQlNxNTM4elZtdmhGbGxDSGRFNlpkLWVBVmllalFIZ1VFZmQ1WHY3UUtRX3Y5SmVUVnZIQVBqWWl5WjFSYUFkb1BUQmlTUjdvU2R6V0lXeWs2YkV0Nkdwa0JtVW9ka2J6TjVQaFUzRE04UXNQZWhpTDRmbzZJUzllYUNKeXk4d3NaZGsxWGZJb3VldHVHeDNpaHBRaWR2OA?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-05-04T08:16:53+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "Australia and Japan sign agreements on defence, energy and critical minerals – video",
-        "link": "https://www.theguardian.com/australia-news/video/2026/may/04/australia-japan-defence-energy-critical-minerals-deal-video",
+        "title": "UK car sales jump in April as two millionth EV registered; Rachel Reeves ‘clashed with Scott Bessent’ over Iran war criticism – business live",
+        "link": "https://www.theguardian.com/business/live/2026/may/05/hsbc-400m-uk-fraud-charge-rachel-reeves-scott-bessent-row-stock-markets-car-sales-live-updates",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-04T08:06:02+00:00",
-        "relevance_score": 14
+        "published_at_utc": "2026-05-05T09:44:58+00:00",
+        "relevance_score": 27
       },
       {
-        "title": "National Australia Bank posts first-half profit miss, warns of Middle East conflict risks - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUHNnUTYtZEJrMFkwaDJDQnlkM1R6bzFQdHNKNGYtNDJhNGV0Unc5SnN6RGRNUUNJM3JteEFUY3NCazRvM0d0cjZJQ2FlQzJTNFJTWFJENTl6VjVnQjB0YTdvdlFadTJJNWltSzNlSDk5YnJQTU8wRzhCc3ppbE95TFRJQ2NLN2lOc1JOdGpLemlQSzctdTBWbWVRWFd3cmZ0OHAyWkwzdGNCdnBV?oc=5",
+        "title": "Philippine inflation hits 3-year high amid Middle East conflict",
+        "link": "https://www.scmp.com/news/asia/southeast-asia/article/3352449/philippine-inflation-hits-3-year-high-amid-middle-east-conflict?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-05T05:09:22+00:00",
+        "relevance_score": 25
+      },
+      {
+        "title": "European shares gain as positive earnings outweigh Mideast worries - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTTVvTGlWclRoSHkyVjR3eVh4MlJUS294UlpLRTZrQmt6OG1LMkFaLVpydTU1QXIwZEdCQUdESDhXeUhvWi1iRnRQbnlXQmlTd09EVjhRV01fY0hZYXY0UHNma2JnNVJFcGpkdVZPRkU0NEU5N1FyQlRTdkxaLWI3YWZKLUxNcDR6LVJGb2lBOG1HWGdNa1pFOU8yckVMV19EOGpPc09ILTdnRkIx?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-05-03T23:09:00+00:00",
-        "relevance_score": 14
+        "published_at_utc": "2026-05-05T08:41:13+00:00",
+        "relevance_score": 22
       },
       {
-        "title": "In five charts: How UAE's exit could affect Opec's influence over the oil price",
-        "link": "https://www.bbc.com/news/articles/c70vjpny0dno?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-05-03T12:06:34+00:00",
-        "relevance_score": 13
+        "title": "EU countries push to settle US trade deal to avoid car tariff hike - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnYwdy0zUnl5UFUyd3ItWmJubnplUjVlNTdCaWppMDVFZUtVUTlHNFE4dF9Yek1tMXJwZWdMRWdQVVpycnA5a2l6TTVOc25IdjRkVGVBRzJJNkNvMkYwdDNZZFFhNGNHSHhDU3U1SnQ1Mk1EdG5tUzFJTVE3R0lFMDdoSm5wT1htZm1fc19UZkFlUVVTZUR2MmFxWEx2NExrLUwydmJuMzM?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-04T12:27:59+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Could Iran’s escalating economic crisis weaken negotiating position with US?",
+        "link": "https://www.theguardian.com/world/2026/may/04/could-irans-escalating-economic-crisis-weaken-negotiating-position-with-us",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-04T05:00:15+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "UAE’s Opec exit, why Japan shared Mogami warship design with India: 7 Asia highlights",
+        "link": "https://www.scmp.com/news/asia/article/3352436/uaes-opec-exit-why-japan-shared-mogami-warship-design-india-7-asia-highlights?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-05T04:30:06+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Chinese start-up ZYT eyes mass production of semi-autonomous trucks this year",
+        "link": "https://www.scmp.com/business/china-evs/article/3352396/chinese-start-zyt-eyes-mass-production-semi-autonomous-trucks-year?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-04T23:00:08+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "U.S. equity fund inflows ease to a six-week low - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaFRsbURhb180YUh2TVRxZGpjWUpiVEczODFvUTFTeFN2N0lXcUdVYzlBbFctejh2S01qUDhHODdBQ09idjRJYUw4emVCYjRCVVZMaFBDVDdRdWVhYWRydjJGLUpNdHprRjFLcGpRUkQyUFRhdTU2WVc5T0N1VWd4UkJmN0pxb1VXamt0SURR?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-04T17:28:33+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "OCBC acquires HSBC’s retail and wealth management in Indonesia",
+        "link": "https://www.scmp.com/business/article/3352432/ocbc-acquires-hsbcs-retail-and-wealth-management-indonesia?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-05T02:23:23+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Trump says interest rates are too high - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUll5RHo1ZEsxTEs4VUhaZU03aGg5X0o3S2VjbkJLVEFaUEE5UGcySTRBYTczNE5lQm1SVi0xdDlCcHJmV0Z4ejZFUXJDTVpPSC1rX2dLRmUwc1ZRSGNNRU9hcVJydDhpTm1FTGdJZU9rQlZacl96NDF3eW5rMjFxTVF4dUtNOUEzYm1r?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-04T19:03:41+00:00",
+        "relevance_score": 17
       }
     ]
   },
