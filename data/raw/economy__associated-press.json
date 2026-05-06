@@ -5,23 +5,11 @@
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+business&ceid=US:en&hl=en-US&gl=US",
     "feed_title": "\"when:24h allinurl:apnews.com business\" - Google News",
     "feed_link": "https://news.google.com/search?q=when:24h+allinurl:apnews.com+business&ceid=US:en&hl=en-US&gl=US",
-    "fetched_at_utc": "2026-05-05T09:52:18.686880+00:00",
-    "entry_count": 1,
+    "fetched_at_utc": "2026-05-06T10:07:47.141761+00:00",
+    "entry_count": 0,
     "bozo": false,
-    "failed": false,
-    "failure_reason": ""
+    "failed": true,
+    "failure_reason": "feed returned zero entries"
   },
-  "items": [
-    {
-      "category": "economy",
-      "source_name": "Associated Press",
-      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+business&ceid=US:en&hl=en-US&gl=US",
-      "title": "Restaurants celebrate authentic Mexican culture and history this Cinco de Mayo - AP News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWVZ1UnQydVR3QjVnMERZa1MwbXFDajlRVjdBNEwzSUR5RUt1TnVTakVkaEM0UmcwUjJTWFlhUFkxSXItb1QzTHFHVUtCZ0pNYWUyMFZzV2Q4b1AzeS1pWmpYZ1o4Q24xRlk1SUV1dlNLYkh6UnlBeGQ2bG9pZHlNQ2ZiZmF0dDc3aUhieU1iNUVROWVEeEJ2cHFyT2pKdUFx?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQWVZ1UnQydVR3QjVnMERZa1MwbXFDajlRVjdBNEwzSUR5RUt1TnVTakVkaEM0UmcwUjJTWFlhUFkxSXItb1QzTHFHVUtCZ0pNYWUyMFZzV2Q4b1AzeS1pWmpYZ1o4Q24xRlk1SUV1dlNLYkh6UnlBeGQ2bG9pZHlNQ2ZiZmF0dDc3aUhieU1iNUVROWVEeEJ2cHFyT2pKdUFx?oc=5\" target=\"_blank\">Restaurants celebrate authentic Mexican culture and history this Cinco de Mayo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "Tue, 05 May 2026 04:12:00 GMT",
-      "updated": "Tue, 05 May 2026 04:12:00 GMT",
-      "id": "CBMioAFBVV95cUxQWVZ1UnQydVR3QjVnMERZa1MwbXFDajlRVjdBNEwzSUR5RUt1TnVTakVkaEM0UmcwUjJTWFlhUFkxSXItb1QzTHFHVUtCZ0pNYWUyMFZzV2Q4b1AzeS1pWmpYZ1o4Q24xRlk1SUV1dlNLYkh6UnlBeGQ2bG9pZHlNQ2ZiZmF0dDc3aUhieU1iNUVROWVEeEJ2cHFyT2pKdUFx"
-    }
-  ]
+  "items": []
 }

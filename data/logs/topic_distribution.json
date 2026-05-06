@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-04-05",
-      "topics": {
-        "technology": [
-          "space_tech",
-          "platform_regulation",
-          "general"
-        ],
-        "politics": [
-          "diplomacy",
-          "eu_policy",
-          "us_politics"
-        ],
-        "economy": [
-          "markets",
-          "sanctions",
-          "energy_markets"
-        ]
-      }
-    },
-    {
       "date": "2026-04-06",
       "topics": {
         "technology": [
@@ -771,41 +751,61 @@
           "interest_rates"
         ]
       }
+    },
+    {
+      "date": "2026-05-06",
+      "topics": {
+        "technology": [
+          "cybersecurity",
+          "chips",
+          "quantum_computing"
+        ],
+        "politics": [
+          "us_politics",
+          "diplomacy",
+          "diplomacy"
+        ],
+        "economy": [
+          "interest_rates",
+          "sanctions",
+          "trade_wars"
+        ]
+      }
     }
   ],
   "rolling_frequency": {
     "technology": {
-      "space_tech": 8,
-      "platform_regulation": 6,
-      "general": 9,
-      "chips": 28,
+      "chips": 29,
       "ai": 37,
-      "cybersecurity": 16,
+      "cybersecurity": 17,
+      "general": 8,
       "social_media": 9,
-      "quantum_computing": 1
+      "space_tech": 7,
+      "quantum_computing": 2,
+      "platform_regulation": 5
     },
     "politics": {
-      "diplomacy": 28,
-      "eu_policy": 4,
-      "us_politics": 39,
       "war_and_conflict": 23,
+      "us_politics": 39,
       "social_protests": 6,
+      "diplomacy": 29,
+      "eu_policy": 3,
       "uk_politics": 13,
       "democracy_autocracy": 1
     },
     "economy": {
-      "markets": 29,
-      "sanctions": 12,
-      "energy_markets": 15,
-      "interest_rates": 16,
+      "interest_rates": 17,
+      "markets": 28,
+      "energy_markets": 14,
       "inflation": 19,
       "corporate_earnings": 5,
       "general": 5,
-      "trade_wars": 9,
+      "trade_wars": 10,
       "supply_chain": 3,
+      "sanctions": 12,
       "emerging_markets": 1
     }
   },
   "window_days": 30,
-  "last_updated": "2026-05-05"
+  "last_updated": "2026-05-06"
 }

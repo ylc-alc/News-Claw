@@ -1,55 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-04-05",
-      "healthy_count": 26,
-      "failed_count": 7,
-      "failed_feeds": [
-        {
-          "source_name": "Associated Press",
-          "category": "economy",
-          "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+business&ceid=US:en&hl=en-US&gl=US",
-          "failure_reason": "feed returned zero entries"
-        },
-        {
-          "source_name": "Focus Taiwan (CNA)",
-          "category": "economy",
-          "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw+economy&ceid=US:en&hl=en-US&gl=US",
-          "failure_reason": "feed returned zero entries"
-        },
-        {
-          "source_name": "Associated Press",
-          "category": "politics",
-          "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+world-news&ceid=US:en&hl=en-US&gl=US",
-          "failure_reason": "feed returned zero entries"
-        },
-        {
-          "source_name": "Focus Taiwan (CNA)",
-          "category": "politics",
-          "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US",
-          "failure_reason": "feed returned zero entries"
-        },
-        {
-          "source_name": "Reuters",
-          "category": "politics",
-          "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
-          "failure_reason": "feed returned zero entries"
-        },
-        {
-          "source_name": "Associated Press",
-          "category": "technology",
-          "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+technology&ceid=US:en&hl=en-US&gl=US",
-          "failure_reason": "feed returned zero entries"
-        },
-        {
-          "source_name": "Reuters",
-          "category": "technology",
-          "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+technology&ceid=US:en&hl=en-US&gl=US",
-          "failure_reason": "feed returned zero entries"
-        }
-      ]
-    },
-    {
       "date": "2026-04-06",
       "healthy_count": 29,
       "failed_count": 4,
@@ -1287,13 +1238,68 @@
           "failure_reason": "feed returned zero entries"
         }
       ]
+    },
+    {
+      "date": "2026-05-06",
+      "healthy_count": 25,
+      "failed_count": 8,
+      "failed_feeds": [
+        {
+          "source_name": "Associated Press",
+          "category": "economy",
+          "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+business&ceid=US:en&hl=en-US&gl=US",
+          "failure_reason": "feed returned zero entries"
+        },
+        {
+          "source_name": "Focus Taiwan (CNA)",
+          "category": "economy",
+          "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw+economy&ceid=US:en&hl=en-US&gl=US",
+          "failure_reason": "feed returned zero entries"
+        },
+        {
+          "source_name": "Reuters",
+          "category": "economy",
+          "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+business&ceid=US:en&hl=en-US&gl=US",
+          "failure_reason": "feed returned zero entries"
+        },
+        {
+          "source_name": "Associated Press",
+          "category": "politics",
+          "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+world-news&ceid=US:en&hl=en-US&gl=US",
+          "failure_reason": "feed returned zero entries"
+        },
+        {
+          "source_name": "Focus Taiwan (CNA)",
+          "category": "politics",
+          "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US",
+          "failure_reason": "feed returned zero entries"
+        },
+        {
+          "source_name": "Reuters",
+          "category": "politics",
+          "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+politics&ceid=US:en&hl=en-US&gl=US",
+          "failure_reason": "feed returned zero entries"
+        },
+        {
+          "source_name": "Associated Press",
+          "category": "technology",
+          "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+technology&ceid=US:en&hl=en-US&gl=US",
+          "failure_reason": "feed returned zero entries"
+        },
+        {
+          "source_name": "Reuters",
+          "category": "technology",
+          "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+technology&ceid=US:en&hl=en-US&gl=US",
+          "failure_reason": "feed returned zero entries"
+        }
+      ]
     }
   ],
   "persistent_failures": {
     "Associated Press": 100,
     "Focus Taiwan (CNA)": 48,
-    "Reuters": 20
+    "Reuters": 21
   },
   "window_days": 30,
-  "last_updated": "2026-05-05"
+  "last_updated": "2026-05-06"
 }

@@ -5,23 +5,11 @@
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US",
     "feed_title": "\"when:24h allinurl:focustaiwan.tw\" - Google News",
     "feed_link": "https://news.google.com/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US",
-    "fetched_at_utc": "2026-05-05T09:52:16.121850+00:00",
-    "entry_count": 1,
+    "fetched_at_utc": "2026-05-06T10:07:44.694448+00:00",
+    "entry_count": 0,
     "bozo": false,
-    "failed": false,
-    "failure_reason": ""
+    "failed": true,
+    "failure_reason": "feed returned zero entries"
   },
-  "items": [
-    {
-      "category": "politics",
-      "source_name": "Focus Taiwan (CNA)",
-      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US",
-      "title": "Taiwan medical tech expo to be held in Geneva to coincide with WHA - Focus Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4X3FKLWtWOTFPeXg2MkVkeF84M2Etb2JZQTV6VzlsRGVYN2lYLThZRWptdFF0SUxOUW1obWwtS2psOXA0S2U3cjNBQkhVaHlsbkZ2MXJjUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4X3FKLWtWOTFPeXg2MkVkeF84M2Etb2JZQTV6VzlsRGVYN2lYLThZRWptdFF0SUxOUW1obWwtS2psOXA0S2U3cjNBQkhVaHlsbkZ2MXJjUQ?oc=5\" target=\"_blank\">Taiwan medical tech expo to be held in Geneva to coincide with WHA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Focus Taiwan</font>",
-      "published": "Tue, 05 May 2026 06:29:00 GMT",
-      "updated": "Tue, 05 May 2026 06:29:00 GMT",
-      "id": "CBMiV0FVX3lxTFA4X3FKLWtWOTFPeXg2MkVkeF84M2Etb2JZQTV6VzlsRGVYN2lYLThZRWptdFF0SUxOUW1obWwtS2psOXA0S2U3cjNBQkhVaHlsbkZ2MXJjUQ"
-    }
-  ]
+  "items": []
 }
