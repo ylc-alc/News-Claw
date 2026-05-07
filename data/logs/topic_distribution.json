@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-04-06",
-      "topics": {
-        "technology": [
-          "chips",
-          "ai",
-          "cybersecurity"
-        ],
-        "politics": [
-          "war_and_conflict",
-          "us_politics",
-          "social_protests"
-        ],
-        "economy": [
-          "interest_rates",
-          "markets",
-          "energy_markets"
-        ]
-      }
-    },
-    {
       "date": "2026-04-07",
       "topics": {
         "technology": [
@@ -771,33 +751,53 @@
           "trade_wars"
         ]
       }
+    },
+    {
+      "date": "2026-05-07",
+      "topics": {
+        "technology": [
+          "social_media",
+          "chips",
+          "chips"
+        ],
+        "politics": [
+          "diplomacy",
+          "us_politics",
+          "eu_policy"
+        ],
+        "economy": [
+          "interest_rates",
+          "markets",
+          "energy_markets"
+        ]
+      }
     }
   ],
   "rolling_frequency": {
     "technology": {
-      "chips": 29,
-      "ai": 37,
-      "cybersecurity": 17,
+      "ai": 36,
+      "chips": 30,
       "general": 8,
-      "social_media": 9,
+      "cybersecurity": 16,
+      "social_media": 10,
       "space_tech": 7,
       "quantum_computing": 2,
       "platform_regulation": 5
     },
     "politics": {
-      "war_and_conflict": 23,
       "us_politics": 39,
-      "social_protests": 6,
-      "diplomacy": 29,
-      "eu_policy": 3,
+      "war_and_conflict": 22,
+      "social_protests": 5,
+      "diplomacy": 30,
+      "eu_policy": 4,
       "uk_politics": 13,
       "democracy_autocracy": 1
     },
     "economy": {
       "interest_rates": 17,
-      "markets": 28,
       "energy_markets": 14,
       "inflation": 19,
+      "markets": 28,
       "corporate_earnings": 5,
       "general": 5,
       "trade_wars": 10,
@@ -807,5 +807,5 @@
     }
   },
   "window_days": 30,
-  "last_updated": "2026-05-06"
+  "last_updated": "2026-05-07"
 }

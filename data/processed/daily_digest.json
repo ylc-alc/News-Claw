@@ -1,142 +1,123 @@
 {
-  "generated_at_utc": "2026-05-06T10:07:59.178227+00:00",
+  "generated_at_utc": "2026-05-07T10:13:53.887421+00:00",
   "summary": {
-    "total_raw_items": 1063,
-    "total_deduped_items": 1040,
+    "total_raw_items": 1071,
+    "total_deduped_items": 1047,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "cybersecurity",
+        "social_media",
         "chips",
-        "quantum_computing"
+        "chips"
       ],
       "politics": [
-        "us_politics",
         "diplomacy",
-        "diplomacy"
+        "us_politics",
+        "eu_policy"
       ],
       "economy": [
         "interest_rates",
-        "sanctions",
-        "trade_wars"
+        "markets",
+        "energy_markets"
       ]
     },
-    "multi_source_selected_count": 5
+    "multi_source_selected_count": 4
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "Kaspersky suspects Chinese hackers planted a backdoor into Daemon Tools in ‘widespread’ attack",
-        "link": "https://techcrunch.com/2026/05/05/kaspersky-suspects-chinese-hackers-planted-a-backdoor-into-daemon-tools-in-widespread-attack/",
-        "summary": "The cybersecurity company says it's seen thousands of infection attempts, and at least a dozen successful hacks after users installed malicious versions of the popular Windows software.",
-        "published": "Tue, 05 May 2026 15:20:24 +0000",
-        "updated": "Tue, 05 May 2026 15:20:24 +0000",
-        "published_at_utc": "2026-05-05T15:20:24+00:00",
-        "id": "https://techcrunch.com/?p=3119213",
-        "topic_type": "cybersecurity",
-        "relevance_score": 21,
+        "source_name": "SCMP World",
+        "title": "TikTok makes record US$25b investment to expand digital infrastructure in Thailand",
+        "link": "https://www.scmp.com/tech/article/3352736/tiktok-makes-record-us25b-investment-expand-digital-infrastructure-thailand?utm_source=rss_feed",
+        "summary": "TikTok is investing US$25 billion in data infrastructure projects in Thailand, the company’s biggest investment announced to date in Southeast Asia, as China’s technology giants continue expanding their footprint in the region. The investment would be used to install additional servers and expand data storage and processing infrastructure across Bangkok, Samut Prakan and Chachoengsao provinces to support rising demand for digital services, according to an announcement by Thailand’s Board of...",
+        "published": "Thu, 07 May 2026 08:30:10 +0000",
+        "updated": "Thu, 07 May 2026 08:30:10 +0000",
+        "published_at_utc": "2026-05-07T08:30:10+00:00",
+        "id": "https://www.scmp.com/tech/article/3352736/tiktok-makes-record-us25b-investment-expand-digital-infrastructure-thailand?utm_source=rss_feed",
+        "topic_type": "social_media",
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "The cybersecurity company says it's seen thousands of infection attempts, and at least a dozen successful hacks after users installed malicious versions of the popular Windows software.",
-          "news_focus_zh": "Kaspersky指出，中國黑客可能在Daemon Tools這款廣泛使用的Windows軟體中植入後門，導致數千次感染嘗試和至少十幾次成功的駭客攻擊。這些攻擊發生在用戶安裝了惡意版本的Daemon Tools後，顯示出此事件的嚴重性。",
-          "background": "Daemon Tools是一款流行的磁碟映像管理工具，廣泛應用於Windows系統中。隨著數位化進程的加速，供應鏈攻擊成為網路安全的一大威脅，黑客透過植入惡意軟體來侵入合法應用程式，進而影響大量用戶。Kaspersky的報告強調了供應鏈攻擊的普遍性及其潛在影響，特別是在使用者未能辨識惡意版本的情況下，這類攻擊的風險顯著增加。",
+          "news_focus": "TikTok is investing US$25 billion in data infrastructure projects in Thailand, the company’s biggest investment announced to date in Southeast Asia, as China’s technology giants continue expanding their footprint in the region. The investment would be used to install additional servers and expand data storage and processing infrastructure across Bangkok, Samut Prakan and Chachoengsao provinces to support rising demand for digital services, according to an announcement by Thailand’s Board of...",
+          "news_focus_zh": "TikTok 宣布將在泰國投資 250 億美元，這是該公司在東南亞的最大投資。此次投資將用於在曼谷、沙繪披、查喬恩索等省份安裝額外的伺服器，擴展數據存儲和處理基礎設施，以應對日益增長的數字服務需求。這一決策顯示出中國科技巨頭在該地區擴展影響力的持續努力。",
+          "background": "隨著數字化浪潮的加速，東南亞成為全球科技公司爭奪的重要市場。泰國政府積極推動數字經濟發展，並提供相應的政策支持，吸引外資進入。TikTok 作為中國科技企業的代表，已在全球範圍內迅速擴張，尤其是在東南亞市場。此次投資不僅是對泰國數字基礎設施的強化，也反映了該地區對數字服務需求的上升趨勢，預示著未來將有更多的科技公司跟隨其步伐進一步擴展。",
           "stakeholders": [
-            "Kaspersky",
-            "Daemon Tools用戶",
-            "網路安全公司",
-            "黑客",
-            "應用程式開發商"
+            "TikTok",
+            "泰國政府",
+            "當地企業",
+            "數字服務用戶",
+            "中國科技企業"
           ],
-          "analysis": "Kaspersky的警告揭示了供應鏈攻擊的嚴重性，特別是針對廣泛使用的應用程式。根據參考報導，這次攻擊持續了一個月，並且建議Daemon Tools的用戶立即檢查其設備以尋找潛在的隱藏感染。各方利益關係中，使用者面臨安全風險，必須加強對軟體來源的辨識與防護；而開發商則需提升其安全性以防止未來的攻擊。Kaspersky和其他網路安全公司可能會因此加強對供應鏈安全的研究和防護措施，以應對日益增長的威脅。"
+          "analysis": "TikTok 的 250 億美元投資將顯著提升泰國的數據基礎設施，這對於當地的數字經濟發展至關重要。此舉不僅能滿足日益增長的數字服務需求，還可能促進當地創新和創業生態系統的發展。對於 TikTok 而言，這是加強其在東南亞市場地位的關鍵步驟，尤其是在面對來自其他科技巨頭的競爭時。儘管目前沒有其他報導提供補充細節，但這一投資的規模和影響力顯示出 TikTok 對泰國市場的重視，並可能引發其他中國科技公司效仿，進一步擴大在該地區的影響力。"
         },
-        "topic_priority_score": 9,
-        "event_type": "strategic_move",
-        "supporting_sources": [
-          "Ars Technica"
-        ],
-        "supporting_titles": [
-          "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack"
-        ],
-        "supporting_summaries": [
-          "Daemon Tools users: It's time to check your machines for stealthy infections, stat."
-        ],
-        "supporting_links": [
-          "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/"
-        ],
-        "source_count": 2
+        "topic_priority_score": 6,
+        "event_type": "regulation_action",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       },
       {
         "category": "technology",
-        "source_name": "BBC Technology",
-        "title": "Apple to pay up to $95 to some US iPhone buyers over AI lawsuit",
-        "link": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.",
-        "published": "Wed, 06 May 2026 00:15:14 GMT",
-        "updated": "Wed, 06 May 2026 00:15:14 GMT",
-        "published_at_utc": "2026-05-06T00:15:14+00:00",
-        "id": "https://www.bbc.com/news/articles/c0j2nydnzy7o#0",
+        "source_name": "TechCrunch",
+        "title": "Five architects of the AI economy explain where the wheels are coming off",
+        "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+        "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tech is wrong.",
+        "published": "Thu, 07 May 2026 05:25:10 +0000",
+        "updated": "Thu, 07 May 2026 05:25:10 +0000",
+        "published_at_utc": "2026-05-07T05:25:10+00:00",
+        "id": "https://techcrunch.com/?p=3120025",
         "topic_type": "chips",
-        "relevance_score": 19,
+        "relevance_score": 17,
         "briefing": {
-          "news_focus": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.",
-          "news_focus_zh": "蘋果公司同意向部分美國iPhone買家支付最多95美元，以解決一項有關人工智慧的訴訟。該訴訟指控蘋果在廣告中誤導消費者，聲稱其Apple Intelligence功能未如預期提供。這項和解方案旨在補償那些因為這些誤導性宣傳而感到受騙的消費者。",
-          "background": "蘋果在過去幾年中大力推廣其人工智慧功能，尤其是Siri助手，並將其視為提升用戶體驗的重要元素。然而，隨著消費者對這些功能的期待增高，若其實際表現未能達到宣傳的標準，便可能引發法律訴訟。此次訴訟的背景是消費者對於蘋果在AI功能上的承諾感到失望，並認為公司未能如實告知其產品的實際能力，這在科技產業中並不罕見。",
+          "news_focus": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tech is wrong.",
+          "news_focus_zh": "在本週的米爾肯全球會議上，五位涉及人工智慧供應鏈各個層面的專家與TechCrunch進行了對話。他們討論了從晶片短缺到軌道數據中心的各種議題，並提出了對當前技術架構可能存在的根本性問題的擔憂。",
+          "background": "隨著人工智慧技術的迅速發展，相關的供應鏈問題也日益凸顯。晶片短缺影響了許多科技公司的生產能力，進而影響到整個AI生態系統的發展。此外，隨著數據需求的增加，數據中心的建設與運營也面臨挑戰，尤其是在環境與成本的考量上。這些問題不僅影響科技公司，也對投資者和政策制定者提出了新的挑戰，促使各方重新思考AI技術的未來架構。",
           "stakeholders": [
-            "Apple",
-            "iPhone buyers",
-            "legal authorities",
-            "consumer advocacy groups"
+            "科技公司",
+            "投資者",
+            "政策制定者",
+            "學術界",
+            "數據中心運營商"
           ],
-          "analysis": "此次和解的金額雖然相對較小，但卻反映出蘋果在消費者信任與品牌形象上的潛在風險。根據參考報導1，蘋果還同意支付2.5億美元以解決類似的集體訴訟，這顯示出公司在面對法律挑戰時的財務壓力。不同於主新聞的焦點，參考報導1強調了和解金額的具體數字及其對消費者的影響，這可能會引發更多消費者對於蘋果產品的關注與質疑。未來，蘋果可能需要更加謹慎地管理其產品宣傳，以避免類似的法律問題再次發生。"
+          "analysis": "此次會議上，專家們的討論揭示了AI供應鏈中存在的多重挑戰，包括資源短缺和基礎架構的可持續性。晶片短缺問題已經影響到多個行業，專家們擔心這將限制AI技術的進一步發展。此外，對於當前技術架構的質疑，可能引發業界對於未來技術路線的重新評估。這些問題的解決需要多方合作，包括政府、企業及學術界的共同努力，以確保AI技術的健康發展。"
         },
         "topic_priority_score": 10,
-        "event_type": "regulation_action",
-        "supporting_sources": [
-          "The Verge",
-          "Wired"
-        ],
-        "supporting_titles": [
-          "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
-          "The iPhone That Never Was"
-        ],
-        "supporting_summaries": [
-          "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would apply to people in the US who purchased all models of the iPhone 16 and the iPhone 15 Pro between June 10th, 2024 and […]",
-          "In 1990, three former Apple employees launched a company that epitomized the Silicon Valley dream. What they invented looked like an iPhone—more than a decade earlier. The device never came to be."
-        ],
-        "supporting_links": [
-          "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
-          "https://www.wired.com/story/book-excerpt-david-epstein-inside-the-box-general-magic/"
-        ],
-        "source_count": 3
+        "event_type": "strategic_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       },
       {
         "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
-        "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
-        "summary": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign of enduring tailwinds for AI, quantum computing, and sovereign tech, especially for Europe-made companies.",
-        "published": "Wed, 06 May 2026 06:47:12 +0000",
-        "updated": "Wed, 06 May 2026 06:47:12 +0000",
-        "published_at_utc": "2026-05-06T06:47:12+00:00",
-        "id": "https://techcrunch.com/?p=3119437",
-        "topic_type": "quantum_computing",
-        "relevance_score": 18,
+        "source_name": "Ars Technica",
+        "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
+        "link": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
+        "summary": "TSMC backs renewables during record demand for energy-hungry chip manufacturing.",
+        "published": "Wed, 06 May 2026 21:47:27 +0000",
+        "updated": "Wed, 06 May 2026 21:47:27 +0000",
+        "published_at_utc": "2026-05-06T21:47:27+00:00",
+        "id": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
+        "topic_type": "chips",
+        "relevance_score": 17,
         "briefing": {
-          "news_focus": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign of enduring tailwinds for AI, quantum computing, and sovereign tech, especially for Europe-made companies.",
-          "news_focus_zh": "芬蘭的人工智慧實驗室QuTwo，由前AMD Silo AI首席執行官Peter Sarlin創立，最近完成了一輪2500萬歐元（約合2900萬美元）的天使投資，該公司的估值達到3.25億歐元（約合3.8億美元）。這顯示出人工智慧、量子計算及主權科技在歐洲企業中的持續增長潛力。",
-          "background": "QuTwo的成立背景與當前全球科技趨勢密切相關，尤其是在人工智慧和量子計算領域的快速發展。隨著各國政府對於科技主權的重視，越來越多的資金流入這些新興技術領域。歐洲在這方面的努力，尤其是在推動本土企業的發展上，顯示出其對於科技創新的重視。此輪投資不僅為QuTwo提供了資金支持，也反映出市場對於歐洲科技公司的信心。",
+          "news_focus": "TSMC backs renewables during record demand for energy-hungry chip manufacturing.",
+          "news_focus_zh": "台灣半導體製造公司TSMC在面對對能源需求激增的情況下，開始積極採用風能作為其生產過程中的可再生能源來源。這一決策反映出在AI晶片需求創下新高的背景下，台灣面臨的能源緊張局勢。",
+          "background": "隨著人工智慧技術的快速發展，對高效能晶片的需求急劇增加，這使得半導體製造業面臨前所未有的能源需求壓力。台灣作為全球半導體生產的重要基地，TSMC的生產能力直接影響全球供應鏈。然而，台灣的能源結構長期依賴傳統能源，導致在需求激增時出現能源短缺的風險。因此，TSMC轉向可再生能源，特別是風能，旨在減輕對傳統能源的依賴，並應對日益嚴峻的能源挑戰。",
           "stakeholders": [
-            "QuTwo",
-            "投資者",
-            "歐洲科技企業",
-            "人工智慧產業",
-            "量子計算領域"
+            "TSMC",
+            "台灣政府",
+            "半導體產業",
+            "可再生能源企業",
+            "AI技術開發者"
           ],
-          "analysis": "QuTwo的成功融資顯示出市場對於人工智慧及量子計算技術的強勁需求，尤其是在歐洲市場。這一輪天使投資的完成，可能會吸引更多投資者關注類似的科技初創企業，進一步推動該領域的發展。各方利益關係中，投資者希望透過這些新興技術獲得回報，而創業公司則期望利用這些資金加速技術研發與市場擴展。未來，若QuTwo能夠持續在技術上取得突破，將可能引領更多歐洲企業進入這一競爭激烈的市場。"
+          "analysis": "TSMC的決策不僅是為了應對自身的能源需求，也是對台灣整體能源政策的回應。隨著AI晶片需求的上升，TSMC面臨著生產擴張的壓力，這使得其在能源使用上必須尋求更可持續的解決方案。這一轉變可能促使其他半導體公司跟隨其腳步，進一步推動台灣在可再生能源方面的投資與發展。此外，這也可能影響台灣政府的能源政策，促進對可再生能源的支持與基礎設施建設。未來，若能源短缺問題未能有效解決，可能會對台灣的半導體產業造成長期影響。"
         },
-        "topic_priority_score": 7,
+        "topic_priority_score": 10,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -148,31 +129,31 @@
     "politics": [
       {
         "category": "politics",
-        "source_name": "SCMP World",
-        "title": "Anxious Australia and jittery Japan deepen ‘quasi-alliance’ for an uneasy age",
-        "link": "https://www.scmp.com/week-asia/politics/article/3352566/anxious-australia-and-jittery-japan-deepen-quasi-alliance-uneasy-age?utm_source=rss_feed",
-        "summary": "Japan’s prime minister touched down in Australia on Sunday with a set of shared anxieties – about Trump, China and the fragility of supply chains that the two insular nations have long relied upon – to which she sought some small relief. By the time she departed, Sanae Takaichi and Australian Prime Minister Anthony Albanese had signed an economic security pact, unlocked nearly US$1 billion in critical minerals funding and laid the groundwork for what observers describe as the most comprehensive...",
-        "published": "Wed, 06 May 2026 04:25:03 +0000",
-        "updated": "Wed, 06 May 2026 04:25:03 +0000",
-        "published_at_utc": "2026-05-06T04:25:03+00:00",
-        "id": "https://www.scmp.com/week-asia/politics/article/3352566/anxious-australia-and-jittery-japan-deepen-quasi-alliance-uneasy-age?utm_source=rss_feed",
-        "topic_type": "us_politics",
-        "relevance_score": 22,
+        "source_name": "The Hindu International",
+        "title": "Rubio to visit India for bilateral talks; Quad Foreign Ministers’ meeting May-end",
+        "link": "https://www.thehindu.com/news/national/rubio-to-visit-india-for-bilateral-talks-quad-foreign-ministers-meeting-may-end/article70948359.ece",
+        "summary": "Rubio will hold talks with Jaishankar and Ajit Doval, and call on Prime Minister Modi, in discussions that are expected to set the course for India-U.S. ties after several ups and downs over tariffs and sanctions",
+        "published": "Thu, 07 May 2026 08:19:23 +0530",
+        "updated": "Thu, 07 May 2026 08:19:23 +0530",
+        "published_at_utc": "2026-05-07T02:49:23+00:00",
+        "id": "article-70948359",
+        "topic_type": "diplomacy",
+        "relevance_score": 23,
         "briefing": {
-          "news_focus": "Japan’s prime minister touched down in Australia on Sunday with a set of shared anxieties – about Trump, China and the fragility of supply chains that the two insular nations have long relied upon – to which she sought some small relief. By the time she departed, Sanae Takaichi and Australian Prime Minister Anthony Albanese had signed an economic security pact, unlocked nearly US$1 billion in critical minerals funding and laid the groundwork for what observers describe as the most comprehensive...",
-          "news_focus_zh": "日本首相於週日抵達澳大利亞，雙方針對共同的焦慮進行會談，這些焦慮包括特朗普的影響、中國的崛起及供應鏈的脆弱性。會後，兩國簽署了一項經濟安全協議，釋放近10億美元的關鍵礦產資金，並為觀察家所稱的最全面的準同盟關係奠定基礎。",
-          "background": "澳大利亞與日本之間的關係在近年來因應地緣政治的變化而逐漸加深。隨著中國在亞太地區的影響力上升，兩國都對自身的經濟安全和供應鏈穩定性表達了擔憂。此外，特朗普政府的貿易政策及其對國際關係的影響，讓兩國在安全與經濟合作上尋求更緊密的聯繫。這次會議的成果顯示出兩國在面對共同挑戰時，願意加強合作以維護各自的利益。",
+          "news_focus": "Rubio will hold talks with Jaishankar and Ajit Doval, and call on Prime Minister Modi, in discussions that are expected to set the course for India-U.S. ties after several ups and downs over tariffs and sanctions",
+          "news_focus_zh": "美國參議員馬可·魯比奧（Marco Rubio）將訪問印度，與印度外交部長蘇傑生（S. Jaishankar）及國家安全顧問阿吉特·多瓦爾（Ajit Doval）進行雙邊會談，並會見印度總理莫迪。此次會談旨在為印度與美國之間的關係定下基調，尤其是在過去因關稅和制裁而出現的波折之後。",
+          "background": "印度與美國的雙邊關係在近年來經歷了多次波動，特別是在貿易政策和安全合作方面。美國對印度的某些貿易行為施加了關稅，而印度則對美國的制裁措施表示不滿。這些因素影響了兩國之間的經濟合作和戰略夥伴關係。魯比奧的訪問被視為重啟對話的機會，尤其是在即將召開的四方外長會議（Quad Foreign Ministers’ meeting）前夕，該會議將進一步加強美國、印度、日本和澳大利亞之間的合作。",
           "stakeholders": [
-            "日本政府",
-            "澳大利亞政府",
-            "中國政府",
-            "全球供應鏈企業",
-            "國際觀察者"
+            "美國政府",
+            "印度政府",
+            "美國國會",
+            "印度商界",
+            "四方合作夥伴"
           ],
-          "analysis": "此次會議標誌著澳大利亞與日本在應對地緣政治挑戰上的進一步合作。雙方的經濟安全協議及資金釋放，顯示出他們對於確保關鍵資源供應的重視，尤其是在全球供應鏈面臨不確定性之際。日本對於特朗普及中國的擔憂，與澳大利亞的立場相呼應，顯示出兩國在安全政策上的一致性。未來，這樣的準同盟關係可能會進一步深化，尤其是在面對中國的影響力擴張及全球經濟不穩定的背景下。各方觀察者將密切關注這一合作是否能夠轉化為實質的戰略行動。"
+          "analysis": "魯比奧的訪問可能會成為修復和加強美印關係的重要契機，各方都希望能夠克服過去的貿易摩擦。美國希望通過加強與印度的合作來對抗中國的影響力，而印度則希望在經濟和安全方面獲得更多的支持。此次會談可能會涉及到貿易協議的重新談判以及在地區安全問題上的合作。值得注意的是，魯比奧的訪問也可能受到國內政治因素的影響，特別是在美國即將進入選舉周期的背景下，各方的立場可能會有所不同，特別是在貿易和外交政策的具體細節上。"
         },
-        "topic_priority_score": 8,
-        "event_type": "security_event",
+        "topic_priority_score": 7,
+        "event_type": "diplomatic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -181,85 +162,87 @@
       },
       {
         "category": "politics",
-        "source_name": "BBC World",
-        "title": "China calls for Strait to be reopened 'as soon as possible' in Iran talks",
-        "link": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss",
-        "summary": "Wang Yi is holding talks with Iran's foreign minister Aragchi who is on his first trip to China since the war began.",
-        "published": "Wed, 06 May 2026 09:35:39 GMT",
-        "updated": "Wed, 06 May 2026 09:35:39 GMT",
-        "published_at_utc": "2026-05-06T09:35:39+00:00",
-        "id": "https://www.bbc.com/news/articles/c0m21mndm71o#1",
-        "topic_type": "diplomacy",
-        "relevance_score": 21,
+        "source_name": "The Guardian World",
+        "title": "Marco Rubio to meet pope at the Vatican after Trump attacks on pontiff",
+        "link": "https://www.theguardian.com/world/2026/may/07/marco-rubio-to-meet-pope-at-the-vatican-after-trump-attacks-on-pontiff",
+        "summary": "US secretary of state will hold talks with Italian government, also berated by Trump for not supporting Iran war The US secretary of state, Marco Rubio, is to meet Pope Leo at the Vatican on Thursday in an effort to ease tensions after Donald Trump’s repeated criticisms of the first North American pontiff. Amid unprecedented strain on relations between the Holy See and Washington, Rubio is expected to meet Leo at the Apostolic Palace in the morning, before holding a series of meetings with the Italian government. Continue reading...",
+        "published": "Thu, 07 May 2026 07:35:27 GMT",
+        "updated": "2026-05-07T07:35:27Z",
+        "published_at_utc": "2026-05-07T07:35:27+00:00",
+        "id": "https://www.theguardian.com/world/2026/may/07/marco-rubio-to-meet-pope-at-the-vatican-after-trump-attacks-on-pontiff",
+        "topic_type": "us_politics",
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "Wang Yi is holding talks with Iran's foreign minister Aragchi who is on his first trip to China since the war began.",
-          "news_focus_zh": "中國外長王毅與伊朗外長阿巴斯·阿拉赫奇進行會談，這是阿拉赫奇自戰爭爆發以來首次訪問中國。會中，中方呼籲儘快重新開放霍爾木茲海峽，以促進人道援助的運送。",
-          "background": "霍爾木茲海峽是全球重要的石油運輸通道，近期因為伊朗與美國及以色列之間的緊張局勢，該地區的安全形勢惡化，導致運輸受阻。這一局勢不僅影響了石油價格，還使得人道援助的運送面臨挑戰，特別是對於急需食物、燃料和醫療物資的民眾。隨著戰爭的持續，國際社會對於開放人道走廊的呼聲日益高漲。",
+          "news_focus": "US secretary of state will hold talks with Italian government, also berated by Trump for not supporting Iran war The US secretary of state, Marco Rubio, is to meet Pope Leo at the Vatican on Thursday in an effort to ease tensions after Donald Trump’s repeated criticisms of the first North American pontiff. Amid unprecedented strain on relations between the Holy See and Washington, Rubio is expected to meet Leo at the Apostolic Palace in the morning, before holding a series of meetings with the Italian government. Continue reading...",
+          "news_focus_zh": "美國國務卿馬可·魯比奧將於週四在梵蒂岡會見教宗利奧，旨在緩解唐納德·特朗普對教宗的批評所造成的緊張關係。此會議將在宗座宮進行，隨後魯比奧將與意大利政府進行一系列會談。此次會議是在聖座與華盛頓之間的關係前所未有的緊張背景下進行的。",
+          "background": "近期，特朗普對教宗利奧的言論引發了美國與梵蒂岡之間的緊張局勢。特朗普的批評主要集中在教宗對某些政治和社會議題的立場上，這使得美國政府與教廷的關係受到考驗。魯比奧的會議是應梵蒂岡方面的請求而安排的，顯示出美方希望修復與教廷的關係，並尋求在一些重要議題上達成共識，特別是在涉及伊朗的政策上，因為特朗普曾批評意大利政府未能支持對伊朗的戰爭行動。",
           "stakeholders": [
-            "中國",
-            "伊朗",
-            "非政府組織",
-            "國際社會",
-            "石油市場"
+            "馬可·魯比奧",
+            "教宗利奧",
+            "唐納德·特朗普",
+            "意大利政府",
+            "美國駐聖座大使"
           ],
-          "analysis": "各方在此事件中的利益關係顯著。中國希望通過促進人道援助來穩定地區局勢，並強化與伊朗的外交關係，這符合其在中東擴展影響力的戰略。伊朗則面臨內部壓力，急需外部援助以緩解民生困境。根據《衛報》的報導，非政府組織強調，霍爾木茲海峽的封鎖使得援助無法順利送達，這進一步加劇了人道危機。各方對於如何解決這一問題的看法可能存在差異，尤其是涉及到地緣政治的複雜性。"
+          "analysis": "此次會議的主要目的是為了緩解特朗普對教宗的攻擊所帶來的外交壓力。參考報導指出，魯比奧預期會與教宗進行坦誠的對話，這表明美方希望能夠重建信任並改善雙方的關係。然而，Brian Burch，美國駐聖座大使，則表示不認為雙方之間存在深層的裂痕，這可能反映出美方對於此會議的不同看法。各方對於會議的期待和解讀存在差異，這可能影響後續的外交動作和政策走向。若會議能成功緩解緊張，將有助於美國在國際舞台上重新定位其與宗教領袖的關係。"
         },
-        "topic_priority_score": 7,
+        "topic_priority_score": 8,
         "event_type": "security_event",
         "supporting_sources": [
           "Al Jazeera",
-          "The Guardian World"
+          "The Hindu International"
         ],
         "supporting_titles": [
-          "Iranian Foreign Minister Araghchi arrives in China for talks",
-          "Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid"
+          "Rubio arrives at Vatican to meet Pope Leo amid Trump attacks",
+          "Rubio expects 'frank' meeting with pope as Trump takes fresh potshots at Leo"
         ],
         "supporting_summaries": [
-          "Iran’s Foreign Minister Abbas Araghchi has arrived in Beijing for talks with his Chinese counterpart, Wang Yi.",
-          "Soaring oil prices and the blockade are preventing food, fuel and medicine being delivered to millions of people in desperate need, say NGOs The volatility of global oil prices caused by the US and Israel’s war on Iran is taking a toll on the most vulnerable people, by slowing or blocking food and medical aid from reaching them. Now aid organisations are calling for a “humanitarian corridor” to be opened through the strait of Hormuz amid rocketing transportation costs. Continue reading..."
+          "Vatican Secretary of State Cardinal Pietro Parolin says the meeting was requested by the US.",
+          "“I don’t accept the idea that somehow there’s some deep rift,” said Brian Burch, the U.S. ambassador to the Holy See"
         ],
         "supporting_links": [
-          "https://www.aljazeera.com/video/newsfeed/2026/5/6/iranian-foreign-minister-araghchi-arrives-in-china-for-talks?traffic_source=rss",
-          "https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid"
+          "https://www.aljazeera.com/news/2026/5/7/rubio-arrives-at-vatican-to-meet-pope-leo-amid-trump-attacks?traffic_source=rss",
+          "https://www.thehindu.com/news/international/rubio-expects-frank-meeting-with-pope-as-trump-takes-fresh-potshots-at-leo/article70944405.ece"
         ],
         "source_count": 3
       },
       {
         "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "Iran says it wants a 'comprehensive agreement' with U.S.",
-        "link": "https://www.thehindu.com/news/international/iran-says-it-wants-a-comprehensive-agreement-with-us/article70946237.ece",
-        "summary": "“We will do our best to protect our legitimate rights and interests ⁠in the negotiations,” Foreign Minister Abbas Araqchi said in Beijing after a meeting with China’s top diplomat Wang Yi, Iranian media reported",
-        "published": "Wed, 06 May 2026 13:58:47 +0530",
-        "updated": "Wed, 06 May 2026 13:58:47 +0530",
-        "published_at_utc": "2026-05-06T08:28:47+00:00",
-        "id": "article-70946237",
-        "topic_type": "diplomacy",
-        "relevance_score": 21,
+        "source_name": "The Guardian World",
+        "title": "Billionaire philanthropist’s former secretary facing additional fraud charges – as it happened",
+        "link": "https://www.theguardian.com/australia-news/live/2026/may/07/royal-commission-antisemitism-budget-cost-of-living-jim-chalmers-anthony-albanese-tax-islamic-state-families-syria-ntwnfb",
+        "summary": "This blog is now closed. Get our breaking news email , free app or daily news podcast Bridget McKenzie says rollback of inland rail project sends ‘chill’ through community Nationals senator Bridget McKenzie , the shadow minister for infrastructure, said the Labor party has sent a “chill through the infrastructure pipeline” after the Albanese government abandoned a beleaguered inland rail project connecting NSW with Queensland. People were surprised and shocked and dismayed at this announcement by the Labor government, they’ve been making their concerns heard loud and clear. This Labor government has actually derailed this project and, indeed, sent a chill through the infrastructure pipeline investment community because no project would now be safe from some future government turning off the tap. You’re cutting the wrong things, not the things that are going to drive a productive economy. Continue reading...",
+        "published": "Thu, 07 May 2026 07:20:16 GMT",
+        "updated": "2026-05-07T07:20:16Z",
+        "published_at_utc": "2026-05-07T07:20:16+00:00",
+        "id": "https://www.theguardian.com/australia-news/live/2026/may/07/royal-commission-antisemitism-budget-cost-of-living-jim-chalmers-anthony-albanese-tax-islamic-state-families-syria-ntwnfb",
+        "topic_type": "eu_policy",
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "“We will do our best to protect our legitimate rights and interests ⁠in the negotiations,” Foreign Minister Abbas Araqchi said in Beijing after a meeting with China’s top diplomat Wang Yi, Iranian media reported",
-          "news_focus_zh": "伊朗外長阿巴斯·阿拉克奇在北京會見中國外交部長王毅後表示，伊朗希望與美國達成一項「全面協議」，並強調將竭盡所能保護其在談判中的合法權益。這一表態顯示出伊朗在國際談判中的積極姿態。",
-          "background": "伊朗與美國的關係自2018年美國單方面退出核協議以來持續緊張。伊朗在此期間面臨嚴重的經濟制裁，並試圖通過外交途徑尋求緩解。中國作為伊朗的重要盟友，對於伊朗的外交努力具有關鍵影響。此次會議的背景是伊朗希望在全球政治中重新獲得合法性，並尋求與美國的對話以解決核問題及經濟困境。",
+          "news_focus": "This blog is now closed. Get our breaking news email , free app or daily news podcast Bridget McKenzie says rollback of inland rail project sends ‘chill’ through community Nationals senator Bridget McKenzie , the shadow minister for infrastructure, said the Labor party has sent a “chill through the infrastructure pipeline” after the Albanese government abandoned a beleaguered inland rail project connecting NSW with Queensland. People were surprised and shocked and dismayed at this announcement by the Labor government, they’ve been making their concerns heard loud and clear. This Labor government has actually derailed this project and, indeed, sent a chill through the infrastructure pipeline investment community because no project would now be safe from some future government turning off the tap. You’re cutting the wrong things, not the things that are going to drive a productive economy. Continue reading...",
+          "news_focus_zh": "澳洲國家黨參議員布里吉特·麥肯齊對阿爾巴尼斯政府放棄內陸鐵路項目表示強烈不滿，稱此舉對基礎建設投資社群造成了‘寒意’。她指出，這一決策讓社會感到驚訝和失望，並擔心未來任何基礎建設項目都可能面臨類似的命運，因為未來政府可能隨時中止資金支持。麥肯齊批評政府削減了不應削減的項目，影響經濟生產力。",
+          "background": "內陸鐵路項目是澳洲政府計劃中的一個重要基礎建設工程，旨在連接新南威爾士州與昆士蘭州，促進兩州之間的貨運與經濟交流。該項目自啟動以來面臨多重挑戰，包括資金不足、環境問題及社區反對等。阿爾巴尼斯政府的決定被視為對基礎建設政策的重大調整，可能影響未來的投資信心，尤其是在基礎建設領域，因為此舉可能使其他潛在項目也面臨不確定性。",
           "stakeholders": [
-            "伊朗政府",
-            "美國政府",
-            "中國政府"
+            "布里吉特·麥肯齊",
+            "阿爾巴尼斯政府",
+            "基礎建設投資者",
+            "國家黨",
+            "社區居民"
           ],
-          "analysis": "伊朗希望與美國達成全面協議的表態，顯示出其在面對國際壓力下的靈活外交策略。阿拉克奇強調保護合法權益，顯示出伊朗在談判中不會輕易妥協。參考報導補充了阿拉克奇抵達北京的背景，強調其與中國的外交互動，這可能表明伊朗在尋求與美國對話的同時，也在加強與中國的戰略合作。各方可能會對伊朗的提議持不同立場，美國可能會要求伊朗在核問題上做出更多讓步，而中國則可能支持伊朗的立場以維護其在中東的影響力。"
+          "analysis": "麥肯齊的反應反映了國家黨對阿爾巴尼斯政府政策的不滿，並試圖利用此事件來鞏固其在基礎建設議題上的立場。她的言論強調了基礎建設投資對經濟增長的重要性，並警告未來政府可能對基礎建設項目的不穩定性。這一事件可能導致基礎建設投資者對政府政策的信任下降，進而影響未來的投資決策。參考報導未提供與此事件直接相關的細節，僅提及其他政治事件，未能補充本新聞的具體背景。"
         },
-        "topic_priority_score": 7,
+        "topic_priority_score": 9,
         "event_type": "diplomatic_move",
         "supporting_sources": [
-          "Al Jazeera"
+          "Taipei Times"
         ],
         "supporting_titles": [
-          "Iranian Foreign Minister Araghchi arrives in China for talks"
+          "Former news host faces China espionage charges"
         ],
         "supporting_summaries": [
-          "Iran’s Foreign Minister Abbas Araghchi has arrived in Beijing for talks with his Chinese counterpart, Wang Yi."
+          ""
         ],
         "supporting_links": [
-          "https://www.aljazeera.com/video/newsfeed/2026/5/6/iranian-foreign-minister-araghchi-arrives-in-china-for-talks?traffic_source=rss"
+          "https://www.taipeitimes.com/News/front/archives/2026/05/07/2003856894"
         ],
         "source_count": 2
       }
@@ -267,31 +250,72 @@
     "economy": [
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Reinstate windfall tax on banks after surge in profits, TUC urges",
-        "link": "https://www.theguardian.com/business/2026/may/06/raise-windfall-tax-on-banks-urges-tuc",
-        "summary": "Unions group wants rate returned from 3% to 8% after big four UK lenders reveal £14bn total profit in first quarter An increased windfall tax should be imposed on the UK’s largest banks according to trade union leaders, after the big four lenders reported almost £14bn in first-quarter profits, partly fuelled by market turbulence caused by the Iran war. The Trades Union Congress (TUC) renewed its call for an increase in the current bank surcharge, which was reduced from 8% to 3% of profits above £100m by the Conservative government in 2023, as banks benefit from the high interest rate environment. Continue reading...",
-        "published": "Tue, 05 May 2026 23:01:52 GMT",
-        "updated": "2026-05-05T23:01:52Z",
-        "published_at_utc": "2026-05-05T23:01:52+00:00",
-        "id": "https://www.theguardian.com/business/2026/may/06/raise-windfall-tax-on-banks-urges-tuc",
+        "source_name": "SCMP World",
+        "title": "Australia’s interest rate rise signals growing hawkish stance in Asia",
+        "link": "https://www.scmp.com/opinion/world-opinion/article/3352708/australias-interest-rate-rise-signals-growing-hawkish-stance-asia?utm_source=rss_feed",
+        "summary": "For an indication of how much the energy crisis is shaping the path of monetary policy, look no further than Australia. On May 5, the country’s central bank raised interest rates for the third consecutive time, unwinding last year’s monetary easing. The Reserve Bank of Australia (RBA) said “higher fuel prices are adding to inflation and there are indications that this is likely to have second-round effects on prices for goods and services more broadly”. The RBA’s decision to keep tightening...",
+        "published": "Thu, 07 May 2026 08:30:05 +0000",
+        "updated": "Thu, 07 May 2026 08:30:05 +0000",
+        "published_at_utc": "2026-05-07T08:30:05+00:00",
+        "id": "https://www.scmp.com/opinion/world-opinion/article/3352708/australias-interest-rate-rise-signals-growing-hawkish-stance-asia?utm_source=rss_feed",
         "topic_type": "interest_rates",
-        "relevance_score": 25,
+        "relevance_score": 23,
         "briefing": {
-          "news_focus": "Unions group wants rate returned from 3% to 8% after big four UK lenders reveal £14bn total profit in first quarter An increased windfall tax should be imposed on the UK’s largest banks according to trade union leaders, after the big four lenders reported almost £14bn in first-quarter profits, partly fuelled by market turbulence caused by the Iran war. The Trades Union Congress (TUC) renewed its call for an increase in the current bank surcharge, which was reduced from 8% to 3% of profits above £100m by the Conservative government in 2023, as banks benefit from the high interest rate environment. Continue reading...",
-          "news_focus_zh": "英國工會組織工會會議（TUC）呼籲政府重新提高對大型銀行的意外利潤稅率，從目前的3%恢復至8%。這一要求是在英國四大銀行報告顯示其第一季度總利潤達到140億英鎊的背景下提出的，這部分利潤受到伊朗戰爭引發的市場動盪影響。工會認為，銀行在高利率環境中獲利，應該承擔更高的稅負。",
-          "background": "2023年，英國保守黨政府將對銀行的意外利潤稅率從8%降低至3%。此舉旨在刺激銀行業的增長，但隨著市場環境的變化，特別是高利率的持續影響，銀行的利潤大幅上升。工會組織認為，這一稅率的降低使得銀行在經濟不穩定時期獲得了不成比例的利益，並且呼籲政府重新考慮該政策，以確保銀行對社會的貢獻與其獲利相符。",
+          "news_focus": "For an indication of how much the energy crisis is shaping the path of monetary policy, look no further than Australia. On May 5, the country’s central bank raised interest rates for the third consecutive time, unwinding last year’s monetary easing. The Reserve Bank of Australia (RBA) said “higher fuel prices are adding to inflation and there are indications that this is likely to have second-round effects on prices for goods and services more broadly”. The RBA’s decision to keep tightening...",
+          "news_focus_zh": "澳洲中央銀行於5月5日連續第三次提高利率，顯示出對於能源危機影響貨幣政策的日益關注。澳洲儲備銀行表示，燃料價格上漲正在推高通脹，並可能對商品和服務的價格產生二次影響。這一決策標誌著澳洲在貨幣政策上逐漸轉向更為鷹派的立場。",
+          "background": "隨著全球能源價格的上漲，許多國家面臨通脹壓力，這使得各國中央銀行不得不重新評估其貨幣政策。澳洲儲備銀行在過去一年中曾實施貨幣寬鬆政策，但隨著通脹的上升，特別是能源價格的影響，該行決定逐步收緊政策。這一轉變不僅反映了澳洲的經濟狀況，也可能影響整個亞洲地區的貨幣政策走向，因為其他國家可能會跟隨澳洲的步伐以應對類似的經濟挑戰。",
           "stakeholders": [
-            "英國工會會議（TUC）",
-            "英國四大銀行",
-            "保守黨政府",
+            "澳洲儲備銀行",
+            "消費者",
+            "企業",
             "投資者",
-            "社會運動組織"
+            "房地產市場"
           ],
-          "analysis": "工會的呼籲反映了對銀行業在當前經濟環境中獲利的擔憂，尤其是在高利率和市場波動的背景下。銀行的高利潤引發了社會對其責任的討論，工會希望透過提高稅率來促進社會公平。保守黨政府在稅率問題上的立場可能會面臨壓力，特別是在選舉臨近之際，選民對經濟不平等的關注可能會影響政策方向。若政府拒絕調整稅率，可能會引發工會及其他社會運動的進一步抗議，從而加劇政治緊張局勢。"
+          "analysis": "澳洲的利率上升可能會對其經濟增長產生影響，特別是在消費者支出和企業投資方面。這一政策轉變也可能引發其他亞洲國家考慮類似的措施，以應對通脹壓力。根據參考報導，長期利率的變化將影響租賃與購買的選擇，這可能會進一步影響房地產市場的動態。各方利益相關者，包括消費者、企業和投資者，將密切關注這一政策的後續影響，並根據市場變化調整其策略。"
         },
         "topic_priority_score": 10,
         "event_type": "rate_decision",
+        "supporting_sources": [
+          "The Economist"
+        ],
+        "supporting_titles": [
+          "Is it better to rent or buy?"
+        ],
+        "supporting_summaries": [
+          "Much depends on long-term interest rates"
+        ],
+        "supporting_links": [
+          "https://www.economist.com/finance-and-economics/2026/01/07/is-it-better-to-rent-or-buy"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "Europe’s AI translation industry told it risks reputation by partnering with US firms",
+        "link": "https://www.theguardian.com/technology/2026/may/07/europe-ai-translation-industry-deepl-partnering-us-firms",
+        "summary": "Partnership between top startup DeepL and Amazon comes amid concern about Silicon Valley’s monopoly over digital infrastructure AI companies in Europe risk losing their world-leading status in the field of machine translation, industry figures have said, after the decision by one of the continent’s leading startups to partner with Amazon’s cloud computing division provoked alarm. While businesses in the EU have generally lagged behind the US and China in AI adoption, a small group of European companies have cornered the global market for high-quality machine translations for professional use. Continue reading...",
+        "published": "Thu, 07 May 2026 06:00:40 GMT",
+        "updated": "2026-05-07T06:00:40Z",
+        "published_at_utc": "2026-05-07T06:00:40+00:00",
+        "id": "https://www.theguardian.com/technology/2026/may/07/europe-ai-translation-industry-deepl-partnering-us-firms",
+        "topic_type": "markets",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "Partnership between top startup DeepL and Amazon comes amid concern about Silicon Valley’s monopoly over digital infrastructure AI companies in Europe risk losing their world-leading status in the field of machine translation, industry figures have said, after the decision by one of the continent’s leading startups to partner with Amazon’s cloud computing division provoked alarm. While businesses in the EU have generally lagged behind the US and China in AI adoption, a small group of European companies have cornered the global market for high-quality machine translations for professional use. Continue reading...",
+          "news_focus_zh": "歐洲的人工智慧翻譯產業因為知名初創公司DeepL與亞馬遜雲計算部門的合作而引發擔憂。業界人士指出，這樣的合作可能會損害歐洲在機器翻譯領域的世界領導地位，因為歐洲企業在人工智慧的採用上普遍落後於美國和中國。儘管如此，仍有少數歐洲公司在專業機器翻譯市場中佔有一席之地。",
+          "background": "歐洲的人工智慧產業面臨著與美國和中國的競爭壓力，特別是在數位基礎設施的壟斷問題上。DeepL作為歐洲領先的機器翻譯初創公司，其與亞馬遜的合作引發了業界的廣泛關注。許多專家擔心，這樣的合作可能會使歐洲在全球市場的競爭力下降，尤其是在高品質專業翻譯的領域。儘管歐洲在某些技術上具有優勢，但整體上仍需加強對人工智慧的投資與創新。",
+          "stakeholders": [
+            "DeepL",
+            "亞馬遜",
+            "歐洲AI企業",
+            "專業翻譯市場",
+            "歐盟政策制定者"
+          ],
+          "analysis": "DeepL與亞馬遜的合作引發了業界對歐洲AI翻譯產業未來的擔憂。業界人士認為，這樣的合作可能會使歐洲企業在全球市場中失去競爭優勢，因為與美國科技巨頭的聯盟可能會導致技術和數據的依賴，進而削弱歐洲的自主創新能力。此外，這也可能引發對數據隱私和安全的擔憂，因為亞馬遜的雲服務在全球範圍內運作，可能會影響歐洲的數據主權。未來，歐洲企業可能需要重新評估與大型科技公司的合作策略，以保持其在機器翻譯領域的領導地位。"
+        },
+        "topic_priority_score": 4,
+        "event_type": "market_repricing",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -301,298 +325,265 @@
       {
         "category": "economy",
         "source_name": "The Guardian Business",
-        "title": "Trump and his oil-and-coal oligarchy should face sanctions for their war on the environment | Alexander Hurst",
-        "link": "https://www.theguardian.com/commentisfree/2026/may/06/donald-trump-oil-coal-oligarchy-sanctions-war-environment-europe",
-        "summary": "Europe punished Russian billionaires over the war in Ukraine. It should do the same to those abetting an ecocidal regime The ecological disasters of the US-Israel war with Iran are already bad enough . The noxious smoke from bombed oil facilities, spills in the Gulf’s waters, the contamination of farmland and groundwater with toxic chemicals unleashed by explosions and their debris, the millions of additional tons of CO 2 spewed into the atmosphere. But as bad as it is, the Iran war hides another conflict: the ecological war that Donald Trump’s US is waging against the rest of the world. When the EU and UK imposed individual sanctions, travel bans and asset seizures on Russian oligarchs, it wasn’t because most of them were individually responsible for Vladimir Putin’s colonial war of aggression against Ukraine. They were targeted because, as a class, they were viewed by many as inextricable from the apparatus of corruption and levers of power of the Russian state threatening global stability. Alexander Hurst writes for Guardian Europe from Paris. His memoir Generation Desperation is out now Continue reading...",
-        "published": "Wed, 06 May 2026 04:00:02 GMT",
-        "updated": "2026-05-06T04:00:02Z",
-        "published_at_utc": "2026-05-06T04:00:02+00:00",
-        "id": "https://www.theguardian.com/commentisfree/2026/may/06/donald-trump-oil-coal-oligarchy-sanctions-war-environment-europe",
-        "topic_type": "sanctions",
-        "relevance_score": 23,
+        "title": "Cut UK speed limits to reduce Iran war impact on consumers, thinktank urges",
+        "link": "https://www.theguardian.com/business/2026/may/07/lower-speed-limits-uk-oil-prices-ippr-thinktank",
+        "summary": "Cap of 20mph in towns and cities and 60mph on motorways would cut fuel demand and combat rising prices, IPPR says Britain should lower speed limits for drivers as part of a package of measures to reduce the impact of the Iran war on consumers, a thinktank has said. Capping legal speeds at 20mph in towns and cities and 60mph on motorways would help reduce fuel demand and combat soaring oil prices triggered by conflict, according to the Institute for Public Policy Research (IPPR). Continue reading...",
+        "published": "Thu, 07 May 2026 04:00:40 GMT",
+        "updated": "2026-05-07T04:00:40Z",
+        "published_at_utc": "2026-05-07T04:00:40+00:00",
+        "id": "https://www.theguardian.com/business/2026/may/07/lower-speed-limits-uk-oil-prices-ippr-thinktank",
+        "topic_type": "energy_markets",
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "Europe punished Russian billionaires over the war in Ukraine. It should do the same to those abetting an ecocidal regime The ecological disasters of the US-Israel war with Iran are already bad enough . The noxious smoke from bombed oil facilities, spills in the Gulf’s waters, the contamination of farmland and groundwater with toxic chemicals unleashed by explosions and their debris, the millions of additional tons of CO 2 spewed into the atmosphere. But as bad as it is, the Iran war hides another conflict: the ecological war that Donald Trump’s US is waging against the rest of the world. When the EU and UK imposed individual sanctions, travel bans and asset seizures on Russian oligarchs, it wasn’t because most of them were individually responsible for Vladimir Putin’s colonial war of aggression against Ukraine. They were targeted because, as a class, they were viewed by many as inextricable from the apparatus of corruption and levers of power of the Russian state threatening global stability. Alexander Hurst writes for Guardian Europe from Paris. His memoir Generation Desperation is out now Continue reading...",
-          "news_focus_zh": "本則新聞指出，隨著美國與伊朗之間的衝突加劇，生態災難的影響愈發嚴重，特別是來自被轟炸的石油設施所釋放的有毒煙霧及化學物質，對環境造成了重大損害。文章呼籲歐洲應該對支持美國環境破壞行為的利益集團，特別是唐納德·特朗普及其石油和煤炭寡頭，實施制裁，類似於對俄羅斯寡頭的制裁，以應對全球穩定的威脅。",
-          "background": "在當前的國際局勢中，美國與伊朗的緊張關係持續升級，導致多起生態災難，包括海灣地區的石油洩漏和農田污染。這些事件不僅影響當地生態系統，也對全球氣候變化造成進一步的壓力。與此同時，歐洲在面對俄烏戰爭時，已經對俄羅斯的寡頭實施了一系列制裁，這些制裁的目的在於削弱其對俄羅斯政府的支持，並促進全球穩定。文章認為，類似的制裁措施應該針對那些在美國環境政策中扮演重要角色的利益集團。",
+          "news_focus": "Cap of 20mph in towns and cities and 60mph on motorways would cut fuel demand and combat rising prices, IPPR says Britain should lower speed limits for drivers as part of a package of measures to reduce the impact of the Iran war on consumers, a thinktank has said. Capping legal speeds at 20mph in towns and cities and 60mph on motorways would help reduce fuel demand and combat soaring oil prices triggered by conflict, according to the Institute for Public Policy Research (IPPR). Continue reading...",
+          "news_focus_zh": "英國智庫公共政策研究所（IPPR）建議，為了減少伊朗戰爭對消費者的影響，應該降低城市和城鎮的法定速度限制至每小時20英里，及高速公路至每小時60英里。這項措施旨在降低燃料需求，並應對因衝突而飆升的油價。",
+          "background": "隨著伊朗戰爭的持續，全球油價受到顯著影響，導致各國面臨能源成本上升的壓力。英國的能源市場也不例外，面對高油價的挑戰，政府和智庫開始尋求創新解決方案。IPPR的提案是針對當前經濟環境的一種應對策略，旨在減少對石油的依賴，並促進可持續交通方式的發展。此外，隨著可再生能源的興起，這一提案也可能促使更多人關注替代能源的使用。",
           "stakeholders": [
-            "唐納德·特朗普",
-            "美國石油和煤炭企業",
-            "歐洲聯盟",
-            "環保組織",
-            "全球投資者"
+            "英國政府",
+            "公共政策研究所（IPPR）",
+            "能源公司（如Shell）",
+            "消費者",
+            "可再生能源產業"
           ],
-          "analysis": "各方對於特朗普及其支持的石油和煤炭利益集團的看法存在分歧。支持者認為這些企業是美國經濟的重要支柱，並且在能源獨立方面發揮了關鍵作用。反對者則指出，這些企業的行為對環境造成了不可逆轉的損害，並且應該承擔相應的責任。參考報導中提到的《經濟學人》指出，市場對於與特朗普相關的投資已經開始失去信心，這可能會進一步影響這些企業的未來發展。整體而言，隨著環境問題的日益嚴重，對於特朗普及其支持者的制裁呼聲可能會增強，並促使政策的改變。"
+          "analysis": "IPPR的提議反映了英國政府在面對能源危機時的應對策略，旨在減少消費者的經濟負擔。然而，這一措施可能會引發不同利益方的反應。支持者認為，降低速度限制有助於減少燃料需求，從而緩解油價上漲的壓力。相對地，反對者可能會指出，這樣的措施可能影響交通效率，並對商業運輸造成負面影響。此外，根據BBC的報導，隨著油價波動，像殼牌（Shell）這樣的能源巨頭也因此獲利增加，顯示出戰爭對能源市場的深遠影響。這與《經濟學人》的報導形成對比，後者強調可再生能源在當前環境中的吸引力，顯示出市場對於能源轉型的需求。"
         },
         "topic_priority_score": 8,
         "event_type": "energy_supply_move",
         "supporting_sources": [
-          "Nikkei Asia",
+          "BBC Business",
           "The Economist"
         ],
         "supporting_titles": [
-          "AI to power megadeals in global M&A despite Iran worries",
-          "Bye, bye to the Trump trades"
+          "Shell latest oil giant to see profits surge due to Iran war impact",
+          "Renewables are shining. The Iran war amplifies their appeal"
         ],
         "supporting_summaries": [
-          "",
-          "Markets are calling time on many Donald-adjacent bets"
+          "The energy giant's profits jump by nearly a quarter as it benefits from the recent volatility in the oil price",
+          "Two new reports are a must-read of energy-starved governments"
         ],
         "supporting_links": [
-          "https://asia.nikkei.com/business/markets/ai-to-power-megadeals-in-global-m-a-despite-iran-worries",
-          "https://www.economist.com/finance-and-economics/2026/04/07/bye-bye-to-the-trump-trades"
+          "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
+          "https://www.economist.com/finance-and-economics/2026/04/23/renewables-are-shining-the-iran-war-amplifies-their-appeal"
         ],
         "source_count": 3
-      },
-      {
-        "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "EU trade deal could force UK to restrict use of weedkiller linked to cancer",
-        "link": "https://www.theguardian.com/environment/2026/may/06/eu-trade-deal-could-force-uk-restrict-glyphosate-weedkiller-linked-to-cancer",
-        "summary": "Glyphosate is currently sprayed on cereal and pulse crops to dessicate them and make them easier to harvest A new trade deal with the EU could lead to restrictions on the use of the controversial weedkiller glyphosate on UK food crops. The full-spectrum herbicide, which kills almost every plant it touches, is often sprayed on wheat, oats and other cereal and pulse crops shortly before harvest to desiccate them and make them easier to handle. Continue reading...",
-        "published": "Wed, 06 May 2026 05:00:03 GMT",
-        "updated": "2026-05-06T05:00:03Z",
-        "published_at_utc": "2026-05-06T05:00:03+00:00",
-        "id": "https://www.theguardian.com/environment/2026/may/06/eu-trade-deal-could-force-uk-restrict-glyphosate-weedkiller-linked-to-cancer",
-        "topic_type": "trade_wars",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "Glyphosate is currently sprayed on cereal and pulse crops to dessicate them and make them easier to harvest A new trade deal with the EU could lead to restrictions on the use of the controversial weedkiller glyphosate on UK food crops. The full-spectrum herbicide, which kills almost every plant it touches, is often sprayed on wheat, oats and other cereal and pulse crops shortly before harvest to desiccate them and make them easier to handle. Continue reading...",
-          "news_focus_zh": "根據《衛報》報導，歐盟與英國之間的新貿易協議可能迫使英國限制使用與癌症相關的除草劑草甘膦。草甘膦目前被廣泛用於小麥、燕麥等穀物及豆類作物的收割前，以促進作物的乾燥和便於處理。此舉可能對英國農業產生重大影響，特別是在作物生產和農業政策方面。",
-          "background": "草甘膦是一種廣譜除草劑，因其有效性而被廣泛使用，但也因其潛在的健康風險而受到爭議。歐盟對草甘膦的使用有嚴格的規範，並在某些國家已經禁止其使用。隨著英國脫歐後的貿易政策調整，英國可能需要重新評估其農業標準，以符合與歐盟的貿易協議要求。這種情況下，英國農業部門的利益和消費者的健康考量將成為政策制定的關鍵因素。",
-          "stakeholders": [
-            "英國農業部門",
-            "歐盟",
-            "消費者",
-            "環保組織",
-            "農業利益團體"
-          ],
-          "analysis": "英國農業部門面臨著來自新貿易協議的壓力，可能需要在生產效率和消費者健康之間做出艱難的選擇。限制草甘膦的使用可能會提高生產成本，影響農民的收益，並可能導致作物產量下降。另一方面，消費者對食品安全的關注日益增加，這可能促使政府採取更嚴格的農業標準。不同利益方之間的角力將影響政策的最終走向，農業利益團體可能會強烈反對任何限制措施，而環保組織則會支持更嚴格的規範以保護公共健康。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "macro_signal",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
-        "title": "'I thought he was going to hit me,' OpenAI co-founder says of Musk",
-        "link": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-05-06T07:10:16+00:00",
+        "title": "DOJ says ransomware gang tapped into Russian government databases",
+        "link": "https://techcrunch.com/2026/05/06/doj-says-ransomware-gang-tapped-into-russian-government-databases/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-06T18:20:21+00:00",
         "relevance_score": 17
       },
       {
-        "title": "OpenAI president forced to read his personal diary entries to jury",
-        "link": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
+        "title": "DeepSeek could hit $45B valuation from its first investment round",
+        "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-06T17:20:34+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "China’s chipmakers rush to embrace DeepSeek’s V4. Which names stand out?",
+        "link": "https://www.scmp.com/tech/big-tech/article/3352644/chinas-chipmakers-rush-embrace-deepseeks-v4-which-names-stand-out?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-06T12:30:05+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
+        "link": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-05-06T23:23:45+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
+        "link": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
         "source_name": "Ars Technica",
-        "published_at_utc": "2026-05-05T22:28:12+00:00",
-        "relevance_score": 17
+        "published_at_utc": "2026-05-06T22:09:14+00:00",
+        "relevance_score": 15
       },
       {
-        "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
-        "link": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-05-05T21:18:23+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-        "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-05-05T17:28:52+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Google DeepMind Workers Vote to Unionize Over Military AI Deals",
-        "link": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
+        "title": "Hackers Hate AI Slop Even More Than You Do",
+        "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
         "source_name": "Wired",
-        "published_at_utc": "2026-05-05T11:59:20+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
-        "link": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-06T00:07:47+00:00",
+        "published_at_utc": "2026-05-06T15:49:12+00:00",
         "relevance_score": 15
       },
       {
-        "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-        "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+        "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+        "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-05T23:50:10+00:00",
-        "relevance_score": 15
+        "published_at_utc": "2026-05-06T21:57:56+00:00",
+        "relevance_score": 13
       },
       {
-        "title": "‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",
-        "link": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
+        "title": "Former OpenAI board member says Elon Musk offered her sperm donations",
+        "link": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-05-06T20:05:02+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
+        "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
         "source_name": "Wired",
-        "published_at_utc": "2026-05-05T23:24:58+00:00",
-        "relevance_score": 15
+        "published_at_utc": "2026-05-06T18:28:52+00:00",
+        "relevance_score": 13
       },
       {
-        "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-        "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+        "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+        "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-05T15:31:37+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "The global cybersecurity gap deepens as AI-powered attacks surge",
-        "link": "https://restofworld.org/2026/ai-cybersecurity-anthropic-mythos/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "source_name": "Rest of World",
-        "published_at_utc": "2026-05-05T10:00:00+00:00",
-        "relevance_score": 15
+        "published_at_utc": "2026-05-06T18:23:54+00:00",
+        "relevance_score": 13
       }
     ],
     "politics": [
       {
-        "title": "Middle East crisis live: Trump changes strait of Hormuz plan again as Rubio says US offensive is ‘over’",
+        "title": "Middle East crisis live: Iran reviewing peace proposal as Trump says a deal ‘very possible’",
+        "link": "https://www.theguardian.com/world/live/2026/may/07/middle-east-crisis-iran-trump-us-negotiations-deal-war-peace-proposal-hormuz-latest-news-updates",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-05-07T10:08:19+00:00",
+        "relevance_score": 22
+      },
+      {
+        "title": "South Korea rejects Trump’s claim that ship was hit because it ‘decided to go it alone’",
+        "link": "https://www.scmp.com/news/asia/east-asia/article/3352720/south-korea-rejects-trumps-claim-ship-was-hit-because-it-decided-go-it-alone?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-07T07:18:26+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Major test for Labour as polls open in English, Scottish and Welsh elections",
+        "link": "https://www.theguardian.com/politics/2026/may/07/local-elections-labour-test-greens-reform-lib-dems-tories-england-scotland-wales-polls",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-05-07T06:00:41+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Has ‘the Beast’ arrived in Beijing? Trump’s motorcade SUVs spotted before visit",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3352682/has-beast-arrived-beijing-trumps-motorcade-suvs-spotted-visit?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-07T01:28:33+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Macron says ‘all parties must lift the blockades’ – as it happened",
         "link": "https://www.theguardian.com/world/live/2026/may/06/trump-iran-hormuz-us-project-freedom-live-updates-middle-east-crisis",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-06T09:41:29+00:00",
-        "relevance_score": 22
-      },
-      {
-        "title": "Wednesday briefing: How Trump’s attempt to reopen to strait of Hormuz brought war closer again",
-        "link": "https://www.theguardian.com/world/2026/may/06/wednesday-briefing-how-trumps-attempt-to-reopen-to-strait-of-hormuz-brought-war-closer-again",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-06T05:47:15+00:00",
-        "relevance_score": 22
-      },
-      {
-        "title": "Iranian Foreign Minister Araghchi arrives in China for talks",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/6/iranian-foreign-minister-araghchi-arrives-in-china-for-talks?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-06T07:12:56+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Iranian Foreign Minister Araghchi meets Chinese counterpart Wang Yi in Beijing",
-        "link": "https://www.thehindu.com/news/international/iranian-foreign-minister-araghchi-chinese-counterpart-wang-yi-meeting-in-beijing-amid-west-asia-crisis/article70945539.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-06T06:02:01+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "‘Putin only cares about parades’: fury as Russia rains missiles on Ukraine during 24-hour truce",
-        "link": "https://www.theguardian.com/world/2026/may/06/russia-ukraine-missiles-24-hour-ceasefire-military-parade",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-06T09:32:14+00:00",
+        "published_at_utc": "2026-05-07T00:35:12+00:00",
         "relevance_score": 20
       },
       {
-        "title": "EU cyber plan barring Chinese suppliers will cost US$430 billion: report",
-        "link": "https://www.scmp.com/economy/china-economy/article/3352610/eu-cyber-plan-barring-chinese-suppliers-will-cost-us430-billion-report?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-05-06T08:59:46+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Palestinian ambassador protests to Foreign Office over ’erasure’ by British Museum",
-        "link": "https://www.theguardian.com/world/2026/may/06/palestinian-ambassador-protest-foreign-office-british-museum",
+        "title": "Rubio set to meet Pope Leo in bid to ease tensions after Trump’s criticism of the pontiff - Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/may/07/ukraine-russia-drones-latvia-hungary-bulgaria-latest-news-updates",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-06T05:00:04+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Europe readies trade war weapon amid China export deluge",
-        "link": "https://www.scmp.com/plus/economy/china-economy/article/3352604/europe-readies-trade-war-weapon-amid-china-export-deluge?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-05-06T09:02:57+00:00",
+        "published_at_utc": "2026-05-07T10:08:00+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Is Rubio’s star rising in Trump world? Duel with Vance for 2028 heats up",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3352603/rubios-star-rising-trump-world-duel-vance-2028-heats?utm_source=rss_feed",
+        "title": "China seeks improved US ties and ‘harmony’, FM Wang Yi tells visiting American senators",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3352763/china-seeks-improved-us-ties-and-harmony-fm-wang-yi-tells-visiting-american-senators?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-05-06T08:38:04+00:00",
+        "published_at_utc": "2026-05-07T10:05:22+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Iran war day 68: Trump talks about progress in talks; Rubio says war ‘over’",
-        "link": "https://www.aljazeera.com/news/2026/5/6/iran-war-day-68-trump-talks-about-progress-in-talks-rubio-says-war-over?traffic_source=rss",
+        "title": "Fertiliser shortages to have dramatic effect on food prices, says Duke of Westminster’s firm",
+        "link": "https://www.theguardian.com/business/2026/may/06/fertiliser-shortages-iran-war-global-food-prices-farming",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-07T09:39:54+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "US-Iran peace optimism fuels Asian stock market gains",
+        "link": "https://www.scmp.com/plus/news/world/middle-east/article/3352743/us-iran-peace-optimism-fuels-asian-stock-market-gains?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-07T09:00:25+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "French warship moves towards Hormuz for possible defensive mission",
+        "link": "https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-06T07:25:53+00:00",
+        "published_at_utc": "2026-05-07T08:36:21+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "Oil prices retreat and global stocks hit record highs after Trump hails ‘great progress’ on Iran deal – business live",
-        "link": "https://www.theguardian.com/business/live/2026/may/06/oil-prices-retreat-global-stocks-hit-record-highs-trump-great-progress-iran-deal-live-updates",
+        "title": "Iran deal optimism pushes oil price down; UK builders hit by surge in costs – business live",
+        "link": "https://www.theguardian.com/business/live/2026/may/07/iran-deal-shell-profits-oil-gas-stock-markets-business-live",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-06T09:53:49+00:00",
-        "relevance_score": 25
+        "published_at_utc": "2026-05-07T10:04:02+00:00",
+        "relevance_score": 27
       },
       {
-        "title": "China’s Nasdaq nears record high as strong tech momentum buoys Asian stocks",
-        "link": "https://www.scmp.com/business/china-business/article/3352551/asian-stocks-climb-strong-tech-momentum-and-trumps-fresh-iran-talks-signal?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-06T02:09:50+00:00",
+        "title": "What is China’s anti-sanctions law and how does it work?",
+        "link": "https://www.aljazeera.com/economy/2026/5/7/what-is-chinas-anti-sanctions-law-and-how-does-it-work?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-05-07T09:50:50+00:00",
+        "relevance_score": 23
+      },
+      {
+        "title": "Shell latest oil giant to see profits surge due to Iran war impact",
+        "link": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-05-07T09:38:04+00:00",
         "relevance_score": 21
+      },
+      {
+        "title": "Cornish Pirates boosted by ‘milestone’ seven-figure deal with US private equity firm",
+        "link": "https://www.theguardian.com/sport/2026/may/07/cornish-pirates-champ-rugby-seven-figure-deal-us-private-equity-",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-07T04:00:39+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Chinese household appliance maker Midea seeks US$2.2 billion from convertible bond sale",
+        "link": "https://www.scmp.com/business/china-business/article/3352697/chinese-household-appliance-maker-midea-seeks-us22-billion-convertible-bond-sale?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-07T03:49:07+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Hong Kong stocks hit 2-month high on hopes of Middle East war ending",
+        "link": "https://www.scmp.com/business/markets/article/3352687/hong-kong-stocks-cross-26500-easing-middle-east-concerns?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-07T02:32:38+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+        "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-05-06T16:11:44+00:00",
+        "relevance_score": 17
       },
       {
         "title": "Stock markets are wobbling, but £10bn cash bids at fat premiums can still happen",
         "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/may/05/stock-markets-are-wobbling-but-10bn-cash-bids-at-fat-premiums-can-still-happen",
         "source_name": "The Guardian Business",
         "published_at_utc": "2026-05-05T17:26:37+00:00",
-        "relevance_score": 21
+        "relevance_score": 17
       },
       {
         "title": "China says wider U.S. sanctions on Cuba are 'illegal'",
         "link": "https://www.thehindu.com/news/international/china-says-wider-us-sanctions-on-cuba-are-illegal/article70944387.ece",
         "source_name": "The Hindu International",
         "published_at_utc": "2026-05-05T17:15:38+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Totally grounded? How the jet fuel crisis could change our holidays – and world history",
-        "link": "https://www.theguardian.com/business/2026/may/06/totally-grounded-how-the-jet-fuel-crisis-could-change-our-summer-holidays-and-world-history",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-06T04:00:03+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Oil prices ease as US pauses Project Freedom to seek deal with Iran",
-        "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-05-06T03:05:16+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "China’s chipmakers pour revenue into R&D, outpacing US ratios",
-        "link": "https://www.scmp.com/tech/big-tech/article/3352533/chinas-chipmakers-pour-revenue-rd-outpacing-us-ratios?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-06T02:30:05+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Hong Kong home sales surge to 2-year high, boosting overall transactions",
-        "link": "https://www.scmp.com/business/article/3352506/hong-kong-home-sales-surge-2-year-high-boosting-overall-transactions?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-05T10:45:04+00:00",
         "relevance_score": 17
       },
       {
-        "title": "As Ukraine seeks to edge China out of its drone supply chain, Taiwan emerges as a quiet player",
-        "link": "https://www.theguardian.com/world/2026/may/06/ukraine-drone-supply-chain-taiwan",
+        "title": "Climate campaigners attack Shell over ‘windfall’ profits from Iran war",
+        "link": "https://www.theguardian.com/business/2026/may/07/climate-campaigners-attack-shell-over-windfall-profits-from-iran-war",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-06T00:00:53+00:00",
+        "published_at_utc": "2026-05-07T06:14:20+00:00",
         "relevance_score": 16
-      },
-      {
-        "title": "Tell us: are you caught up in the NS&I lost funds issue?",
-        "link": "https://www.theguardian.com/money/2026/may/05/ttell-us-are-you-caught-up-ns-and-i-lost-funds",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-05T16:26:15+00:00",
-        "relevance_score": 15
       }
     ]
   },
