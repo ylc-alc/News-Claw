@@ -1,25 +1,25 @@
 {
-  "generated_at_utc": "2026-05-07T10:13:53.887421+00:00",
+  "generated_at_utc": "2026-05-08T09:04:48.145620+00:00",
   "summary": {
-    "total_raw_items": 1071,
-    "total_deduped_items": 1047,
+    "total_raw_items": 1069,
+    "total_deduped_items": 1052,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "social_media",
-        "chips",
-        "chips"
+        "cybersecurity",
+        "ai",
+        "cybersecurity"
       ],
       "politics": [
-        "diplomacy",
         "us_politics",
-        "eu_policy"
+        "diplomacy",
+        "us_politics"
       ],
       "economy": [
-        "interest_rates",
+        "energy_markets",
         "markets",
-        "energy_markets"
+        "trade_wars"
       ]
     },
     "multi_source_selected_count": 4
@@ -28,63 +28,30 @@
     "technology": [
       {
         "category": "technology",
-        "source_name": "SCMP World",
-        "title": "TikTok makes record US$25b investment to expand digital infrastructure in Thailand",
-        "link": "https://www.scmp.com/tech/article/3352736/tiktok-makes-record-us25b-investment-expand-digital-infrastructure-thailand?utm_source=rss_feed",
-        "summary": "TikTok is investing US$25 billion in data infrastructure projects in Thailand, the company’s biggest investment announced to date in Southeast Asia, as China’s technology giants continue expanding their footprint in the region. The investment would be used to install additional servers and expand data storage and processing infrastructure across Bangkok, Samut Prakan and Chachoengsao provinces to support rising demand for digital services, according to an announcement by Thailand’s Board of...",
-        "published": "Thu, 07 May 2026 08:30:10 +0000",
-        "updated": "Thu, 07 May 2026 08:30:10 +0000",
-        "published_at_utc": "2026-05-07T08:30:10+00:00",
-        "id": "https://www.scmp.com/tech/article/3352736/tiktok-makes-record-us25b-investment-expand-digital-infrastructure-thailand?utm_source=rss_feed",
-        "topic_type": "social_media",
-        "relevance_score": 20,
+        "source_name": "Wired",
+        "title": "The Canvas Hack Is a New Kind of Ransomware Debacle",
+        "link": "https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/",
+        "summary": "Thousands of schools around the US were paralyzed on Thursday after education tech firm Instructure shut down access to its Canvas platform following a breach by hackers going by the name ShinyHunters.",
+        "published": "Fri, 08 May 2026 05:02:40 +0000",
+        "updated": "Fri, 08 May 2026 05:02:40 +0000",
+        "published_at_utc": "2026-05-08T05:02:40+00:00",
+        "id": "69fd45d7740b0efb9775b994",
+        "topic_type": "cybersecurity",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "TikTok is investing US$25 billion in data infrastructure projects in Thailand, the company’s biggest investment announced to date in Southeast Asia, as China’s technology giants continue expanding their footprint in the region. The investment would be used to install additional servers and expand data storage and processing infrastructure across Bangkok, Samut Prakan and Chachoengsao provinces to support rising demand for digital services, according to an announcement by Thailand’s Board of...",
-          "news_focus_zh": "TikTok 宣布將在泰國投資 250 億美元，這是該公司在東南亞的最大投資。此次投資將用於在曼谷、沙繪披、查喬恩索等省份安裝額外的伺服器，擴展數據存儲和處理基礎設施，以應對日益增長的數字服務需求。這一決策顯示出中國科技巨頭在該地區擴展影響力的持續努力。",
-          "background": "隨著數字化浪潮的加速，東南亞成為全球科技公司爭奪的重要市場。泰國政府積極推動數字經濟發展，並提供相應的政策支持，吸引外資進入。TikTok 作為中國科技企業的代表，已在全球範圍內迅速擴張，尤其是在東南亞市場。此次投資不僅是對泰國數字基礎設施的強化，也反映了該地區對數字服務需求的上升趨勢，預示著未來將有更多的科技公司跟隨其步伐進一步擴展。",
+          "news_focus": "Thousands of schools around the US were paralyzed on Thursday after education tech firm Instructure shut down access to its Canvas platform following a breach by hackers going by the name ShinyHunters.",
+          "news_focus_zh": "美國數千所學校在週四遭遇嚴重影響，因為教育科技公司Instructure因駭客攻擊而關閉了其Canvas平台的訪問。這次攻擊是由名為ShinyHunters的駭客集團所發起，導致許多學校無法使用該平台進行教學和管理。",
+          "background": "Canvas是一個廣泛應用於教育領域的學習管理系統，許多學校依賴其提供的工具來進行課程管理和學生互動。隨著數位學習的普及，教育科技公司的安全性變得愈發重要。近期，針對教育機構的網路攻擊事件頻繁發生，這使得學校和教育機構面臨更大的安全挑戰。Instructure作為Canvas的開發商，必須不斷加強其系統的防護措施，以保護用戶資料及維持服務的穩定性。",
           "stakeholders": [
-            "TikTok",
-            "泰國政府",
-            "當地企業",
-            "數字服務用戶",
-            "中國科技企業"
+            "Instructure",
+            "ShinyHunters",
+            "學校",
+            "學生",
+            "教育部門"
           ],
-          "analysis": "TikTok 的 250 億美元投資將顯著提升泰國的數據基礎設施，這對於當地的數字經濟發展至關重要。此舉不僅能滿足日益增長的數字服務需求，還可能促進當地創新和創業生態系統的發展。對於 TikTok 而言，這是加強其在東南亞市場地位的關鍵步驟，尤其是在面對來自其他科技巨頭的競爭時。儘管目前沒有其他報導提供補充細節，但這一投資的規模和影響力顯示出 TikTok 對泰國市場的重視，並可能引發其他中國科技公司效仿，進一步擴大在該地區的影響力。"
+          "analysis": "此次Canvas平台的癱瘓事件顯示出教育科技產業在面對網路安全威脅時的脆弱性。ShinyHunters駭客集團的攻擊不僅影響了學校的運作，也可能對學生的學習造成長期影響。Instructure在面對這種情況時，必須迅速回應並加強安全措施，以恢復用戶信任。此外，這一事件可能引發對教育科技公司在數據保護和安全性方面的更大監管壓力。各方利益關係中，學校希望能迅速恢復服務，而Instructure則需平衡安全與用戶需求之間的矛盾，未來可能會出現更多針對教育科技的安全政策或標準。"
         },
-        "topic_priority_score": 6,
-        "event_type": "regulation_action",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "Five architects of the AI economy explain where the wheels are coming off",
-        "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
-        "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tech is wrong.",
-        "published": "Thu, 07 May 2026 05:25:10 +0000",
-        "updated": "Thu, 07 May 2026 05:25:10 +0000",
-        "published_at_utc": "2026-05-07T05:25:10+00:00",
-        "id": "https://techcrunch.com/?p=3120025",
-        "topic_type": "chips",
-        "relevance_score": 17,
-        "briefing": {
-          "news_focus": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tech is wrong.",
-          "news_focus_zh": "在本週的米爾肯全球會議上，五位涉及人工智慧供應鏈各個層面的專家與TechCrunch進行了對話。他們討論了從晶片短缺到軌道數據中心的各種議題，並提出了對當前技術架構可能存在的根本性問題的擔憂。",
-          "background": "隨著人工智慧技術的迅速發展，相關的供應鏈問題也日益凸顯。晶片短缺影響了許多科技公司的生產能力，進而影響到整個AI生態系統的發展。此外，隨著數據需求的增加，數據中心的建設與運營也面臨挑戰，尤其是在環境與成本的考量上。這些問題不僅影響科技公司，也對投資者和政策制定者提出了新的挑戰，促使各方重新思考AI技術的未來架構。",
-          "stakeholders": [
-            "科技公司",
-            "投資者",
-            "政策制定者",
-            "學術界",
-            "數據中心運營商"
-          ],
-          "analysis": "此次會議上，專家們的討論揭示了AI供應鏈中存在的多重挑戰，包括資源短缺和基礎架構的可持續性。晶片短缺問題已經影響到多個行業，專家們擔心這將限制AI技術的進一步發展。此外，對於當前技術架構的質疑，可能引發業界對於未來技術路線的重新評估。這些問題的解決需要多方合作，包括政府、企業及學術界的共同努力，以確保AI技術的健康發展。"
-        },
-        "topic_priority_score": 10,
+        "topic_priority_score": 9,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -94,30 +61,63 @@
       },
       {
         "category": "technology",
-        "source_name": "Ars Technica",
-        "title": "TSMC taps wind power as AI chip demand soars, Taiwan feels energy crunch",
-        "link": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
-        "summary": "TSMC backs renewables during record demand for energy-hungry chip manufacturing.",
-        "published": "Wed, 06 May 2026 21:47:27 +0000",
-        "updated": "Wed, 06 May 2026 21:47:27 +0000",
-        "published_at_utc": "2026-05-06T21:47:27+00:00",
-        "id": "https://arstechnica.com/gadgets/2026/05/tsmc-taps-wind-power-as-ai-chip-demand-soars-taiwan-feels-energy-crunch/",
-        "topic_type": "chips",
+        "source_name": "TechCrunch",
+        "title": "OpenAI launches new voice intelligence features in its API",
+        "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+        "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+        "published": "Thu, 07 May 2026 22:24:50 +0000",
+        "updated": "Thu, 07 May 2026 22:24:50 +0000",
+        "published_at_utc": "2026-05-07T22:24:50+00:00",
+        "id": "https://techcrunch.com/?p=3120319",
+        "topic_type": "ai",
         "relevance_score": 17,
         "briefing": {
-          "news_focus": "TSMC backs renewables during record demand for energy-hungry chip manufacturing.",
-          "news_focus_zh": "台灣半導體製造公司TSMC在面對對能源需求激增的情況下，開始積極採用風能作為其生產過程中的可再生能源來源。這一決策反映出在AI晶片需求創下新高的背景下，台灣面臨的能源緊張局勢。",
-          "background": "隨著人工智慧技術的快速發展，對高效能晶片的需求急劇增加，這使得半導體製造業面臨前所未有的能源需求壓力。台灣作為全球半導體生產的重要基地，TSMC的生產能力直接影響全球供應鏈。然而，台灣的能源結構長期依賴傳統能源，導致在需求激增時出現能源短缺的風險。因此，TSMC轉向可再生能源，特別是風能，旨在減輕對傳統能源的依賴，並應對日益嚴峻的能源挑戰。",
+          "news_focus": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+          "news_focus_zh": "OpenAI推出了其API中的新語音智能功能，這些功能主要針對客戶服務系統，但OpenAI表示，這些應用也可擴展至教育和創作者平台等多個領域。這一舉措顯示出OpenAI在語音技術上的進一步發展，旨在提升用戶互動和服務效率。",
+          "background": "隨著人工智慧技術的快速發展，語音識別和處理技術已成為許多行業的重要工具。特別是在客戶服務領域，企業越來越依賴自動化系統來提高效率和降低成本。OpenAI作為領先的AI技術公司之一，持續推出創新產品以滿足市場需求，這次的語音智能功能正是其在語音技術領域的重要進展，可能會影響教育和創作者平台等其他行業的發展。",
           "stakeholders": [
-            "TSMC",
-            "台灣政府",
-            "半導體產業",
-            "可再生能源企業",
-            "AI技術開發者"
+            "OpenAI",
+            "企業客戶",
+            "教育機構",
+            "創作者平台",
+            "競爭對手"
           ],
-          "analysis": "TSMC的決策不僅是為了應對自身的能源需求，也是對台灣整體能源政策的回應。隨著AI晶片需求的上升，TSMC面臨著生產擴張的壓力，這使得其在能源使用上必須尋求更可持續的解決方案。這一轉變可能促使其他半導體公司跟隨其腳步，進一步推動台灣在可再生能源方面的投資與發展。此外，這也可能影響台灣政府的能源政策，促進對可再生能源的支持與基礎設施建設。未來，若能源短缺問題未能有效解決，可能會對台灣的半導體產業造成長期影響。"
+          "analysis": "OpenAI的新語音智能功能可能會引起多方利益相關者的關注。對於企業而言，這些功能能夠提升客戶服務的效率，降低人力成本，並改善用戶體驗。教育機構和創作者平台也可能從中受益，因為這些功能可以幫助提升教學互動性和內容創作的便利性。然而，市場上也存在競爭者，如Google和Amazon等公司，它們同樣在語音技術領域有著強大的產品和服務。這使得OpenAI需要不斷創新以保持競爭優勢。此外，隨著語音技術的普及，隱私和數據安全問題也將成為未來討論的焦點。"
         },
-        "topic_priority_score": 10,
+        "topic_priority_score": 9,
+        "event_type": "product_launch",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "The Verge",
+        "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+        "link": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+        "summary": "The Instructure-owned learning management platform, Canvas, is down after recently confirming a massive data breach that impacted student names, email addresses, ID numbers, and messages. Students attempting to access the system on Thursday saw a message from the hacking group ShinyHunters, which claimed responsibility for the attack: ShinyHunters has breached Instructure (again). Instead of contacting […]",
+        "published": "2026-05-07T17:29:27-04:00",
+        "updated": "2026-05-08T03:47:12-04:00",
+        "published_at_utc": "2026-05-07T21:29:27+00:00",
+        "id": "https://www.theverge.com/?p=926458",
+        "topic_type": "cybersecurity",
+        "relevance_score": 17,
+        "briefing": {
+          "news_focus": "The Instructure-owned learning management platform, Canvas, is down after recently confirming a massive data breach that impacted student names, email addresses, ID numbers, and messages. Students attempting to access the system on Thursday saw a message from the hacking group ShinyHunters, which claimed responsibility for the attack: ShinyHunters has breached Instructure (again). Instead of contacting […]",
+          "news_focus_zh": "學習管理平台Canvas因遭到駭客集團ShinyHunters的攻擊而無法使用。此次數據洩露事件影響了學生的姓名、電子郵件地址、身份證號碼及訊息。Canvas在周四確認了這一重大數據洩露，並顯示了ShinyHunters的聲明，該集團宣稱再次入侵了Instructure。",
+          "background": "Canvas是由Instructure擁有的學習管理平台，廣泛應用於學校和教育機構中。隨著數位學習的普及，這類平台的安全性愈發受到關注。近期，教育科技領域的數據洩露事件頻繁發生，駭客攻擊的手法也日益多樣化，這使得許多學校和學生的個人信息面臨風險。ShinyHunters是一個知名的駭客集團，過去曾多次針對教育機構和其他企業進行攻擊，這使得其行為引發了社會的廣泛關注。",
+          "stakeholders": [
+            "Instructure",
+            "ShinyHunters",
+            "學生",
+            "教育機構",
+            "數據安全專家"
+          ],
+          "analysis": "此次事件突顯了教育科技平台在數據安全方面的脆弱性，特別是在面對專業駭客團體時。學生和教育機構的個人信息被洩露，可能導致身份盜竊及其他安全問題。Instructure需要迅速採取措施來修復漏洞並加強安全防護，以恢復用戶信任。此外，學校也應該加強對學生的安全教育，提升其對數據安全的意識。ShinyHunters的再次攻擊可能會促使更多機構重新評估其數據保護政策，並考慮與專業安全公司合作以防範未來的攻擊。"
+        },
+        "topic_priority_score": 9,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -129,28 +129,74 @@
     "politics": [
       {
         "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "Rubio to visit India for bilateral talks; Quad Foreign Ministers’ meeting May-end",
-        "link": "https://www.thehindu.com/news/national/rubio-to-visit-india-for-bilateral-talks-quad-foreign-ministers-meeting-may-end/article70948359.ece",
-        "summary": "Rubio will hold talks with Jaishankar and Ajit Doval, and call on Prime Minister Modi, in discussions that are expected to set the course for India-U.S. ties after several ups and downs over tariffs and sanctions",
-        "published": "Thu, 07 May 2026 08:19:23 +0530",
-        "updated": "Thu, 07 May 2026 08:19:23 +0530",
-        "published_at_utc": "2026-05-07T02:49:23+00:00",
-        "id": "article-70948359",
-        "topic_type": "diplomacy",
-        "relevance_score": 23,
+        "source_name": "Al Jazeera",
+        "title": "Trump says ceasefire still in effect, but Iran ‘better sign agreement fast’",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/8/trump-says-ceasefire-still-in-effect-but-iran-better-sign-agreement?traffic_source=rss",
+        "summary": "US President Donald Trump says the ceasefire with Iran is still in effect, despite clashes in the Strait of Hormuz.",
+        "published": "Fri, 08 May 2026 04:25:03 +0000",
+        "updated": "Fri, 08 May 2026 04:25:03 +0000",
+        "published_at_utc": "2026-05-08T04:25:03+00:00",
+        "id": "https://www.aljazeera.com/?t=1778214008",
+        "topic_type": "us_politics",
+        "relevance_score": 22,
         "briefing": {
-          "news_focus": "Rubio will hold talks with Jaishankar and Ajit Doval, and call on Prime Minister Modi, in discussions that are expected to set the course for India-U.S. ties after several ups and downs over tariffs and sanctions",
-          "news_focus_zh": "美國參議員馬可·魯比奧（Marco Rubio）將訪問印度，與印度外交部長蘇傑生（S. Jaishankar）及國家安全顧問阿吉特·多瓦爾（Ajit Doval）進行雙邊會談，並會見印度總理莫迪。此次會談旨在為印度與美國之間的關係定下基調，尤其是在過去因關稅和制裁而出現的波折之後。",
-          "background": "印度與美國的雙邊關係在近年來經歷了多次波動，特別是在貿易政策和安全合作方面。美國對印度的某些貿易行為施加了關稅，而印度則對美國的制裁措施表示不滿。這些因素影響了兩國之間的經濟合作和戰略夥伴關係。魯比奧的訪問被視為重啟對話的機會，尤其是在即將召開的四方外長會議（Quad Foreign Ministers’ meeting）前夕，該會議將進一步加強美國、印度、日本和澳大利亞之間的合作。",
+          "news_focus": "US President Donald Trump says the ceasefire with Iran is still in effect, despite clashes in the Strait of Hormuz.",
+          "news_focus_zh": "美國總統特朗普表示，儘管霍爾木茲海峽發生衝突，但與伊朗的停火協議仍然有效。他強調伊朗需要儘快簽署協議，以避免進一步的緊張局勢。",
+          "background": "美國與伊朗之間的緊張關係持續升級，特別是在霍爾木茲海峽這一重要海上通道。自從美國退出2015年核協議以來，雙方的對抗加劇，並且經常發生軍事衝突。伊朗指責美國違反停火協議，並指控其對油輪和沿海地區發動攻擊，這使得雙方的信任度進一步下降。",
           "stakeholders": [
             "美國政府",
-            "印度政府",
-            "美國國會",
-            "印度商界",
-            "四方合作夥伴"
+            "伊朗政府",
+            "國際油市",
+            "霍爾木茲海峽航運業者",
+            "中東地區國家"
           ],
-          "analysis": "魯比奧的訪問可能會成為修復和加強美印關係的重要契機，各方都希望能夠克服過去的貿易摩擦。美國希望通過加強與印度的合作來對抗中國的影響力，而印度則希望在經濟和安全方面獲得更多的支持。此次會談可能會涉及到貿易協議的重新談判以及在地區安全問題上的合作。值得注意的是，魯比奧的訪問也可能受到國內政治因素的影響，特別是在美國即將進入選舉周期的背景下，各方的立場可能會有所不同，特別是在貿易和外交政策的具體細節上。"
+          "analysis": "此次特朗普的聲明顯示出美國在面對伊朗時的外交策略仍在調整中。根據BBC報導，伊朗方面指控美國違反停火，這顯示出雙方在對停火協議的解讀上存在分歧。另一方面，《衛報》指出特朗普的外交政策似乎陷入困境，並提到他最近提出的提案被德黑蘭視為不切實際的願望清單，這可能使得雙方的談判更加複雜。整體而言，特朗普的強硬立場與伊朗的反應可能導致未來局勢的進一步惡化，尤其是在霍爾木茲海峽這一戰略地區。"
+        },
+        "topic_priority_score": 8,
+        "event_type": "diplomatic_move",
+        "is_major_update": true,
+        "supporting_sources": [
+          "BBC World",
+          "The Guardian Business"
+        ],
+        "supporting_titles": [
+          "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+          "Another day, another pivot as Trump flails in an Iran trap of his own making"
+        ],
+        "supporting_summaries": [
+          "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
+          "Latest proposal, derided by Tehran as a ‘wishlist’, could yet be a way out – but with 5,000 dead, it comes at an awful price Another day, another hairpin turn in the world of Donald Trump’s foreign policy. The weekend was all about war, and Trump insisting Iran had not yet “paid a big enough price”. Tuesday was Project Freedom, styled as a grand “humanitarian gesture” to allow trapped ships and their crews to escape the Gulf, but also aimed at weakening Iran’s chokehold on the strait of Hormuz. Continue reading..."
+        ],
+        "supporting_links": [
+          "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+          "https://www.theguardian.com/world/2026/may/06/another-day-another-pivot-as-trump-flails-in-an-iran-trap-of-his-own-making"
+        ],
+        "source_count": 3
+      },
+      {
+        "category": "politics",
+        "source_name": "SCMP World",
+        "title": "Hong Kong-based mediation body resolves international maritime dispute",
+        "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352874/hong-kong-based-mediation-body-resolves-international-maritime-dispute?utm_source=rss_feed",
+        "summary": "A new intergovernmental mediation body headquartered in Hong Kong has resolved a maritime dispute between parties from mainland China and Singapore this month, as more states have joined the organisation since its launch last year. Teresa Cheng Yeuk-wah, secretary general of the International Organisation for Mediation (IOMed), revealed the achievement on Friday at a summit, where senior officials reaffirmed Hong Kong’s pledge to act as a mediation centre amid increasing volatility in global...",
+        "published": "Fri, 08 May 2026 08:04:17 +0000",
+        "updated": "Fri, 08 May 2026 08:04:17 +0000",
+        "published_at_utc": "2026-05-08T08:04:17+00:00",
+        "id": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352874/hong-kong-based-mediation-body-resolves-international-maritime-dispute?utm_source=rss_feed",
+        "topic_type": "diplomacy",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "A new intergovernmental mediation body headquartered in Hong Kong has resolved a maritime dispute between parties from mainland China and Singapore this month, as more states have joined the organisation since its launch last year. Teresa Cheng Yeuk-wah, secretary general of the International Organisation for Mediation (IOMed), revealed the achievement on Friday at a summit, where senior officials reaffirmed Hong Kong’s pledge to act as a mediation centre amid increasing volatility in global...",
+          "news_focus_zh": "一個總部位於香港的政府間調解機構於本月成功解決了中國大陸與新加坡之間的海事爭端。該機構自去年成立以來，已有更多國家加入。國際調解組織（IOMed）的秘書長鄭若驊在一次峰會上透露了這一成就，並重申了香港作為調解中心的承諾，尤其在全球局勢日益不穩的背景下。",
+          "background": "隨著國際貿易和海洋活動的增加，海事爭端在全球範圍內變得越來越常見。香港作為一個重要的國際貿易和金融中心，致力於發展其作為調解和爭端解決機構的角色。IOMed的成立旨在為各國提供一個中立的平台，促進國際合作與和平解決爭端。隨著越來越多的國家加入，該機構的影響力和重要性也在不斷增強，特別是在面對地緣政治緊張局勢的當下。",
+          "stakeholders": [
+            "中國大陸",
+            "新加坡",
+            "國際調解組織（IOMed）",
+            "香港特區政府",
+            "其他參與國家"
+          ],
+          "analysis": "此次海事爭端的解決顯示了IOMed在國際調解中的潛力，並強調了香港在全球調解機構中的重要角色。中國大陸與新加坡之間的合作，可能反映了兩國在經濟和貿易上的互利關係，並可能促進未來更多的合作機會。隨著IOMed的成長，其他國家可能會考慮加入，進一步擴大其影響力。然而，這也可能引發對於調解機構中立性的質疑，特別是在涉及大國利益的情況下。各方如何平衡自身利益與國際合作將是未來發展的關鍵。"
         },
         "topic_priority_score": 7,
         "event_type": "diplomatic_move",
@@ -162,157 +208,116 @@
       },
       {
         "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "Marco Rubio to meet pope at the Vatican after Trump attacks on pontiff",
-        "link": "https://www.theguardian.com/world/2026/may/07/marco-rubio-to-meet-pope-at-the-vatican-after-trump-attacks-on-pontiff",
-        "summary": "US secretary of state will hold talks with Italian government, also berated by Trump for not supporting Iran war The US secretary of state, Marco Rubio, is to meet Pope Leo at the Vatican on Thursday in an effort to ease tensions after Donald Trump’s repeated criticisms of the first North American pontiff. Amid unprecedented strain on relations between the Holy See and Washington, Rubio is expected to meet Leo at the Apostolic Palace in the morning, before holding a series of meetings with the Italian government. Continue reading...",
-        "published": "Thu, 07 May 2026 07:35:27 GMT",
-        "updated": "2026-05-07T07:35:27Z",
-        "published_at_utc": "2026-05-07T07:35:27+00:00",
-        "id": "https://www.theguardian.com/world/2026/may/07/marco-rubio-to-meet-pope-at-the-vatican-after-trump-attacks-on-pontiff",
+        "source_name": "SCMP Business",
+        "title": "Trump’s Beijing trip, Iran war diplomacy, tech earnings",
+        "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3352886/trumps-beijing-trip-iran-war-diplomacy-tech-earnings?utm_source=rss_feed",
+        "summary": "US President Donald Trump will bring a scaled-back group of chief executive officers with him on a trip to Beijing next week, reflecting limited expectations for a summit that may be overshadowed by the war on Iran. The White House considered inviting about a dozen business leaders on the May 14-15 trip, compared with the 29 high-profile executives on Trump’s last visit in 2017, Reuters said, citing unidentified people briefed on preparations. Nvidia, Apple and Boeing are among the companies...",
+        "published": "Fri, 08 May 2026 09:00:11 +0000",
+        "updated": "Fri, 08 May 2026 09:00:11 +0000",
+        "published_at_utc": "2026-05-08T09:00:11+00:00",
+        "id": "https://www.scmp.com/plus/news/china/diplomacy/article/3352886/trumps-beijing-trip-iran-war-diplomacy-tech-earnings?utm_source=rss_feed",
         "topic_type": "us_politics",
         "relevance_score": 20,
         "briefing": {
-          "news_focus": "US secretary of state will hold talks with Italian government, also berated by Trump for not supporting Iran war The US secretary of state, Marco Rubio, is to meet Pope Leo at the Vatican on Thursday in an effort to ease tensions after Donald Trump’s repeated criticisms of the first North American pontiff. Amid unprecedented strain on relations between the Holy See and Washington, Rubio is expected to meet Leo at the Apostolic Palace in the morning, before holding a series of meetings with the Italian government. Continue reading...",
-          "news_focus_zh": "美國國務卿馬可·魯比奧將於週四在梵蒂岡會見教宗利奧，旨在緩解唐納德·特朗普對教宗的批評所造成的緊張關係。此會議將在宗座宮進行，隨後魯比奧將與意大利政府進行一系列會談。此次會議是在聖座與華盛頓之間的關係前所未有的緊張背景下進行的。",
-          "background": "近期，特朗普對教宗利奧的言論引發了美國與梵蒂岡之間的緊張局勢。特朗普的批評主要集中在教宗對某些政治和社會議題的立場上，這使得美國政府與教廷的關係受到考驗。魯比奧的會議是應梵蒂岡方面的請求而安排的，顯示出美方希望修復與教廷的關係，並尋求在一些重要議題上達成共識，特別是在涉及伊朗的政策上，因為特朗普曾批評意大利政府未能支持對伊朗的戰爭行動。",
+          "news_focus": "US President Donald Trump will bring a scaled-back group of chief executive officers with him on a trip to Beijing next week, reflecting limited expectations for a summit that may be overshadowed by the war on Iran. The White House considered inviting about a dozen business leaders on the May 14-15 trip, compared with the 29 high-profile executives on Trump’s last visit in 2017, Reuters said, citing unidentified people briefed on preparations. Nvidia, Apple and Boeing are among the companies...",
+          "news_focus_zh": "美國總統唐納德·特朗普將於下週前往北京，隨行的商界領袖人數大幅減少，顯示出對此次峰會的期望有限。根據報導，白宮考慮邀請約12位商業領袖，遠低於2017年特朗普上次訪問時的29位高管。此次會議可能會受到伊朗戰爭的影響，成為主要議題之一。",
+          "background": "特朗普的北京之行定於5月14日至15日，正值美中貿易緊張局勢與地緣政治挑戰交織之時。此次訪問的背景是美國對伊朗的軍事行動，這可能會影響與中國的外交關係。特朗普政府在貿易、科技和地緣政治上與中國的關係日益緊張，這使得此次會議的成果受到廣泛關注。參考報導中提到，伊朗外交部長阿拉基正在尋求中國的支持，以建立戰後的區域框架，顯示出中國在中東地區日益增長的影響力。",
           "stakeholders": [
-            "馬可·魯比奧",
-            "教宗利奧",
-            "唐納德·特朗普",
-            "意大利政府",
-            "美國駐聖座大使"
+            "美國政府",
+            "中國政府",
+            "商界領袖",
+            "伊朗政府",
+            "科技公司"
           ],
-          "analysis": "此次會議的主要目的是為了緩解特朗普對教宗的攻擊所帶來的外交壓力。參考報導指出，魯比奧預期會與教宗進行坦誠的對話，這表明美方希望能夠重建信任並改善雙方的關係。然而，Brian Burch，美國駐聖座大使，則表示不認為雙方之間存在深層的裂痕，這可能反映出美方對於此會議的不同看法。各方對於會議的期待和解讀存在差異，這可能影響後續的外交動作和政策走向。若會議能成功緩解緊張，將有助於美國在國際舞台上重新定位其與宗教領袖的關係。"
+          "analysis": "此次特朗普的訪問顯示出美國對中國的依賴在某種程度上仍然存在，特別是在科技和經濟領域。然而，隨著伊朗戰爭的升級，這次會議的重點可能會轉向地緣政治而非經濟合作。參考報導指出，伊朗外交部長的行程與特朗普的訪問時間接近，顯示出中東局勢可能成為會議的重要議題。各方可能會在貿易和安全問題上展開激烈的討論，特別是中國如何在美國與伊朗之間的緊張關係中尋求自身利益。這樣的背景下，商界領袖的參與人數減少，可能反映出企業對未來政策的不確定性。"
         },
         "topic_priority_score": 8,
         "event_type": "security_event",
         "supporting_sources": [
-          "Al Jazeera",
-          "The Hindu International"
+          "The Hindu International",
+          "The Diplomat"
         ],
         "supporting_titles": [
-          "Rubio arrives at Vatican to meet Pope Leo amid Trump attacks",
-          "Rubio expects 'frank' meeting with pope as Trump takes fresh potshots at Leo"
+          "Iran FM says seeking China's support for 'new post-war' regional framework",
+          "Malaysia’s Tech Talent Shortage"
         ],
         "supporting_summaries": [
-          "Vatican Secretary of State Cardinal Pietro Parolin says the meeting was requested by the US.",
-          "“I don’t accept the idea that somehow there’s some deep rift,” said Brian Burch, the U.S. ambassador to the Holy See"
+          "Mr. Araqchi’s one-day trip comes a week ahead of U.S. President Donald Trump’s ‌scheduled visit to Beijing for a summit with President Xi Jinping ‌on May 14 and ‌15",
+          "Industry leaders describe a war for talent."
         ],
         "supporting_links": [
-          "https://www.aljazeera.com/news/2026/5/7/rubio-arrives-at-vatican-to-meet-pope-leo-amid-trump-attacks?traffic_source=rss",
-          "https://www.thehindu.com/news/international/rubio-expects-frank-meeting-with-pope-as-trump-takes-fresh-potshots-at-leo/article70944405.ece"
+          "https://www.thehindu.com/news/international/iranian-foreign-minister-araghchi-chinese-counterpart-wang-yi-meeting-in-beijing-amid-west-asia-crisis/article70945539.ece",
+          "https://thediplomat.com/2026/05/malaysias-tech-talent-shortage/"
         ],
         "source_count": 3
-      },
-      {
-        "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "Billionaire philanthropist’s former secretary facing additional fraud charges – as it happened",
-        "link": "https://www.theguardian.com/australia-news/live/2026/may/07/royal-commission-antisemitism-budget-cost-of-living-jim-chalmers-anthony-albanese-tax-islamic-state-families-syria-ntwnfb",
-        "summary": "This blog is now closed. Get our breaking news email , free app or daily news podcast Bridget McKenzie says rollback of inland rail project sends ‘chill’ through community Nationals senator Bridget McKenzie , the shadow minister for infrastructure, said the Labor party has sent a “chill through the infrastructure pipeline” after the Albanese government abandoned a beleaguered inland rail project connecting NSW with Queensland. People were surprised and shocked and dismayed at this announcement by the Labor government, they’ve been making their concerns heard loud and clear. This Labor government has actually derailed this project and, indeed, sent a chill through the infrastructure pipeline investment community because no project would now be safe from some future government turning off the tap. You’re cutting the wrong things, not the things that are going to drive a productive economy. Continue reading...",
-        "published": "Thu, 07 May 2026 07:20:16 GMT",
-        "updated": "2026-05-07T07:20:16Z",
-        "published_at_utc": "2026-05-07T07:20:16+00:00",
-        "id": "https://www.theguardian.com/australia-news/live/2026/may/07/royal-commission-antisemitism-budget-cost-of-living-jim-chalmers-anthony-albanese-tax-islamic-state-families-syria-ntwnfb",
-        "topic_type": "eu_policy",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "This blog is now closed. Get our breaking news email , free app or daily news podcast Bridget McKenzie says rollback of inland rail project sends ‘chill’ through community Nationals senator Bridget McKenzie , the shadow minister for infrastructure, said the Labor party has sent a “chill through the infrastructure pipeline” after the Albanese government abandoned a beleaguered inland rail project connecting NSW with Queensland. People were surprised and shocked and dismayed at this announcement by the Labor government, they’ve been making their concerns heard loud and clear. This Labor government has actually derailed this project and, indeed, sent a chill through the infrastructure pipeline investment community because no project would now be safe from some future government turning off the tap. You’re cutting the wrong things, not the things that are going to drive a productive economy. Continue reading...",
-          "news_focus_zh": "澳洲國家黨參議員布里吉特·麥肯齊對阿爾巴尼斯政府放棄內陸鐵路項目表示強烈不滿，稱此舉對基礎建設投資社群造成了‘寒意’。她指出，這一決策讓社會感到驚訝和失望，並擔心未來任何基礎建設項目都可能面臨類似的命運，因為未來政府可能隨時中止資金支持。麥肯齊批評政府削減了不應削減的項目，影響經濟生產力。",
-          "background": "內陸鐵路項目是澳洲政府計劃中的一個重要基礎建設工程，旨在連接新南威爾士州與昆士蘭州，促進兩州之間的貨運與經濟交流。該項目自啟動以來面臨多重挑戰，包括資金不足、環境問題及社區反對等。阿爾巴尼斯政府的決定被視為對基礎建設政策的重大調整，可能影響未來的投資信心，尤其是在基礎建設領域，因為此舉可能使其他潛在項目也面臨不確定性。",
-          "stakeholders": [
-            "布里吉特·麥肯齊",
-            "阿爾巴尼斯政府",
-            "基礎建設投資者",
-            "國家黨",
-            "社區居民"
-          ],
-          "analysis": "麥肯齊的反應反映了國家黨對阿爾巴尼斯政府政策的不滿，並試圖利用此事件來鞏固其在基礎建設議題上的立場。她的言論強調了基礎建設投資對經濟增長的重要性，並警告未來政府可能對基礎建設項目的不穩定性。這一事件可能導致基礎建設投資者對政府政策的信任下降，進而影響未來的投資決策。參考報導未提供與此事件直接相關的細節，僅提及其他政治事件，未能補充本新聞的具體背景。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "diplomatic_move",
-        "supporting_sources": [
-          "Taipei Times"
-        ],
-        "supporting_titles": [
-          "Former news host faces China espionage charges"
-        ],
-        "supporting_summaries": [
-          ""
-        ],
-        "supporting_links": [
-          "https://www.taipeitimes.com/News/front/archives/2026/05/07/2003856894"
-        ],
-        "source_count": 2
       }
     ],
     "economy": [
       {
         "category": "economy",
-        "source_name": "SCMP World",
-        "title": "Australia’s interest rate rise signals growing hawkish stance in Asia",
-        "link": "https://www.scmp.com/opinion/world-opinion/article/3352708/australias-interest-rate-rise-signals-growing-hawkish-stance-asia?utm_source=rss_feed",
-        "summary": "For an indication of how much the energy crisis is shaping the path of monetary policy, look no further than Australia. On May 5, the country’s central bank raised interest rates for the third consecutive time, unwinding last year’s monetary easing. The Reserve Bank of Australia (RBA) said “higher fuel prices are adding to inflation and there are indications that this is likely to have second-round effects on prices for goods and services more broadly”. The RBA’s decision to keep tightening...",
-        "published": "Thu, 07 May 2026 08:30:05 +0000",
-        "updated": "Thu, 07 May 2026 08:30:05 +0000",
-        "published_at_utc": "2026-05-07T08:30:05+00:00",
-        "id": "https://www.scmp.com/opinion/world-opinion/article/3352708/australias-interest-rate-rise-signals-growing-hawkish-stance-asia?utm_source=rss_feed",
-        "topic_type": "interest_rates",
-        "relevance_score": 23,
+        "source_name": "BBC Business",
+        "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
+        "link": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
+        "summary": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place.",
+        "published": "Fri, 08 May 2026 08:43:55 GMT",
+        "updated": "Fri, 08 May 2026 08:43:55 GMT",
+        "published_at_utc": "2026-05-08T08:43:55+00:00",
+        "id": "https://www.bbc.com/news/articles/c86dp85g59xo#0",
+        "topic_type": "energy_markets",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "For an indication of how much the energy crisis is shaping the path of monetary policy, look no further than Australia. On May 5, the country’s central bank raised interest rates for the third consecutive time, unwinding last year’s monetary easing. The Reserve Bank of Australia (RBA) said “higher fuel prices are adding to inflation and there are indications that this is likely to have second-round effects on prices for goods and services more broadly”. The RBA’s decision to keep tightening...",
-          "news_focus_zh": "澳洲中央銀行於5月5日連續第三次提高利率，顯示出對於能源危機影響貨幣政策的日益關注。澳洲儲備銀行表示，燃料價格上漲正在推高通脹，並可能對商品和服務的價格產生二次影響。這一決策標誌著澳洲在貨幣政策上逐漸轉向更為鷹派的立場。",
-          "background": "隨著全球能源價格的上漲，許多國家面臨通脹壓力，這使得各國中央銀行不得不重新評估其貨幣政策。澳洲儲備銀行在過去一年中曾實施貨幣寬鬆政策，但隨著通脹的上升，特別是能源價格的影響，該行決定逐步收緊政策。這一轉變不僅反映了澳洲的經濟狀況，也可能影響整個亞洲地區的貨幣政策走向，因為其他國家可能會跟隨澳洲的步伐以應對類似的經濟挑戰。",
+          "news_focus": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place.",
+          "news_focus_zh": "美國與伊朗在霍爾木茲海峽發生交火，導致油價上漲。儘管發生衝突，美國總統特朗普表示，華盛頓與德黑蘭之間的停火協議仍然有效。",
+          "background": "霍爾木茲海峽是全球最重要的石油運輸通道之一，任何在此地區的衝突都可能影響全球油價。美國與伊朗之間的緊張關係由於核協議的破裂而加劇，雙方經常在該地區發生摩擦。近期的衝突再次引發市場對供應中斷的擔憂，進一步推高油價。根據報導，布倫特原油價格因為這一事件而上漲，顯示出市場對地緣政治風險的敏感反應。",
           "stakeholders": [
-            "澳洲儲備銀行",
-            "消費者",
-            "企業",
-            "投資者",
-            "房地產市場"
+            "美國政府",
+            "伊朗政府",
+            "石油市場投資者",
+            "全球能源消費國",
+            "國際原油生產商"
           ],
-          "analysis": "澳洲的利率上升可能會對其經濟增長產生影響，特別是在消費者支出和企業投資方面。這一政策轉變也可能引發其他亞洲國家考慮類似的措施，以應對通脹壓力。根據參考報導，長期利率的變化將影響租賃與購買的選擇，這可能會進一步影響房地產市場的動態。各方利益相關者，包括消費者、企業和投資者，將密切關注這一政策的後續影響，並根據市場變化調整其策略。"
+          "analysis": "此次美伊交火事件引發了市場對油價的即時反應，尤其是布倫特原油價格的上漲，顯示出投資者對於供應鏈安全的擔憂。特朗普總統的聲明強調停火協議仍然有效，這可能意在安撫市場情緒，避免過度反應。然而，根據Al Jazeera的報導，這一衝突的發生可能會使市場對未來的供應風險保持高度警覺。各方對於此事件的解讀可能存在差異，部分分析師可能認為這是短期波動，而另一些則可能預測長期的地緣政治緊張將持續影響油價。"
         },
-        "topic_priority_score": 10,
-        "event_type": "rate_decision",
+        "topic_priority_score": 8,
+        "event_type": "energy_supply_move",
         "supporting_sources": [
-          "The Economist"
+          "Al Jazeera"
         ],
         "supporting_titles": [
-          "Is it better to rent or buy?"
+          "Oil prices jump as US, Iran trade fire in Strait of Hormuz"
         ],
         "supporting_summaries": [
-          "Much depends on long-term interest rates"
+          "Brent crude rises amid clashes in critical waterway."
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2026/01/07/is-it-better-to-rent-or-buy"
+          "https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss"
         ],
         "source_count": 2
       },
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Europe’s AI translation industry told it risks reputation by partnering with US firms",
-        "link": "https://www.theguardian.com/technology/2026/may/07/europe-ai-translation-industry-deepl-partnering-us-firms",
-        "summary": "Partnership between top startup DeepL and Amazon comes amid concern about Silicon Valley’s monopoly over digital infrastructure AI companies in Europe risk losing their world-leading status in the field of machine translation, industry figures have said, after the decision by one of the continent’s leading startups to partner with Amazon’s cloud computing division provoked alarm. While businesses in the EU have generally lagged behind the US and China in AI adoption, a small group of European companies have cornered the global market for high-quality machine translations for professional use. Continue reading...",
-        "published": "Thu, 07 May 2026 06:00:40 GMT",
-        "updated": "2026-05-07T06:00:40Z",
-        "published_at_utc": "2026-05-07T06:00:40+00:00",
-        "id": "https://www.theguardian.com/technology/2026/may/07/europe-ai-translation-industry-deepl-partnering-us-firms",
+        "source_name": "SCMP Business",
+        "title": "AI electricity gap fuels Weichai Power, GE Vernova shares as generator demand surges",
+        "link": "https://www.scmp.com/business/china-business/article/3352880/ai-electricity-gap-fuels-weichai-power-ge-vernova-shares-generator-demand-surges?utm_source=rss_feed",
+        "summary": "An electricity shortfall for AI data centres and computing power is fuelling demand for generators and power equipment, driving up stocks from Weichai Power in China to GE Vernova in the US. The AI investment spree in the world’s two largest economies, which are vying for a leading position in the cutting-edge technology, has rekindled buying interest in stocks of a sector viewed as old economy. Shares of Weichai Power, a heavy-duty truck maker that also builds large-bore engines, have jumped...",
+        "published": "Fri, 08 May 2026 08:32:50 +0000",
+        "updated": "Fri, 08 May 2026 08:32:50 +0000",
+        "published_at_utc": "2026-05-08T08:32:50+00:00",
+        "id": "https://www.scmp.com/business/china-business/article/3352880/ai-electricity-gap-fuels-weichai-power-ge-vernova-shares-generator-demand-surges?utm_source=rss_feed",
         "topic_type": "markets",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "Partnership between top startup DeepL and Amazon comes amid concern about Silicon Valley’s monopoly over digital infrastructure AI companies in Europe risk losing their world-leading status in the field of machine translation, industry figures have said, after the decision by one of the continent’s leading startups to partner with Amazon’s cloud computing division provoked alarm. While businesses in the EU have generally lagged behind the US and China in AI adoption, a small group of European companies have cornered the global market for high-quality machine translations for professional use. Continue reading...",
-          "news_focus_zh": "歐洲的人工智慧翻譯產業因為知名初創公司DeepL與亞馬遜雲計算部門的合作而引發擔憂。業界人士指出，這樣的合作可能會損害歐洲在機器翻譯領域的世界領導地位，因為歐洲企業在人工智慧的採用上普遍落後於美國和中國。儘管如此，仍有少數歐洲公司在專業機器翻譯市場中佔有一席之地。",
-          "background": "歐洲的人工智慧產業面臨著與美國和中國的競爭壓力，特別是在數位基礎設施的壟斷問題上。DeepL作為歐洲領先的機器翻譯初創公司，其與亞馬遜的合作引發了業界的廣泛關注。許多專家擔心，這樣的合作可能會使歐洲在全球市場的競爭力下降，尤其是在高品質專業翻譯的領域。儘管歐洲在某些技術上具有優勢，但整體上仍需加強對人工智慧的投資與創新。",
+          "news_focus": "An electricity shortfall for AI data centres and computing power is fuelling demand for generators and power equipment, driving up stocks from Weichai Power in China to GE Vernova in the US. The AI investment spree in the world’s two largest economies, which are vying for a leading position in the cutting-edge technology, has rekindled buying interest in stocks of a sector viewed as old economy. Shares of Weichai Power, a heavy-duty truck maker that also builds large-bore engines, have jumped...",
+          "news_focus_zh": "隨著全球對人工智慧（AI）數據中心和計算能力的需求上升，電力短缺問題日益嚴重，進而推動了發電機和電力設備的需求。這一趨勢使得中國的威柴動力和美國的GE Vernova等公司的股票價格上漲。這兩個國家在尖端科技領域的競爭，重新點燃了市場對傳統經濟部門股票的購買興趣。",
+          "background": "隨著人工智慧技術的快速發展，對於數據處理和計算能力的需求急劇增加，尤其是在美國和中國這兩大經濟體中。這導致了電力需求的激增，並使得電力供應面臨挑戰。威柴動力作為一家重型卡車製造商，同時也生產大型發動機，正好符合市場對於高效能發電機的需求。GE Vernova則專注於可再生能源和電力解決方案，兩者的股票在此背景下受益於市場的重新評價。",
           "stakeholders": [
-            "DeepL",
-            "亞馬遜",
-            "歐洲AI企業",
-            "專業翻譯市場",
-            "歐盟政策制定者"
+            "威柴動力",
+            "GE Vernova",
+            "投資者",
+            "AI數據中心",
+            "電力設備製造商"
           ],
-          "analysis": "DeepL與亞馬遜的合作引發了業界對歐洲AI翻譯產業未來的擔憂。業界人士認為，這樣的合作可能會使歐洲企業在全球市場中失去競爭優勢，因為與美國科技巨頭的聯盟可能會導致技術和數據的依賴，進而削弱歐洲的自主創新能力。此外，這也可能引發對數據隱私和安全的擔憂，因為亞馬遜的雲服務在全球範圍內運作，可能會影響歐洲的數據主權。未來，歐洲企業可能需要重新評估與大型科技公司的合作策略，以保持其在機器翻譯領域的領導地位。"
+          "analysis": "各方利益關係中，威柴動力和GE Vernova的股價上漲反映了市場對於傳統能源設備的重新認識，儘管這些公司屬於老經濟部門，但在AI浪潮中卻成為了新的投資熱點。投資者的興趣轉向這些公司，顯示出對於穩定電力供應的迫切需求。隨著AI技術的進一步發展，這一需求可能會持續增長，並進一步推動相關公司的業務增長。此外，市場競爭的加劇可能會促使這些企業加大研發投入，以提升其產品的競爭力。"
         },
         "topic_priority_score": 4,
         "event_type": "market_repricing",
@@ -324,46 +329,46 @@
       },
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Cut UK speed limits to reduce Iran war impact on consumers, thinktank urges",
-        "link": "https://www.theguardian.com/business/2026/may/07/lower-speed-limits-uk-oil-prices-ippr-thinktank",
-        "summary": "Cap of 20mph in towns and cities and 60mph on motorways would cut fuel demand and combat rising prices, IPPR says Britain should lower speed limits for drivers as part of a package of measures to reduce the impact of the Iran war on consumers, a thinktank has said. Capping legal speeds at 20mph in towns and cities and 60mph on motorways would help reduce fuel demand and combat soaring oil prices triggered by conflict, according to the Institute for Public Policy Research (IPPR). Continue reading...",
-        "published": "Thu, 07 May 2026 04:00:40 GMT",
-        "updated": "2026-05-07T04:00:40Z",
-        "published_at_utc": "2026-05-07T04:00:40+00:00",
-        "id": "https://www.theguardian.com/business/2026/may/07/lower-speed-limits-uk-oil-prices-ippr-thinktank",
-        "topic_type": "energy_markets",
-        "relevance_score": 19,
+        "source_name": "BBC Business",
+        "title": "Trump gives EU ultimatum deadline to approve trade deal with US",
+        "link": "https://www.bbc.com/news/articles/cp3pyk4nw3lo?at_medium=RSS&at_campaign=rss",
+        "summary": "Trump's deadline to the European Union came as a trade court ruled his global tariff policy violated US law.",
+        "published": "Thu, 07 May 2026 23:11:35 GMT",
+        "updated": "Thu, 07 May 2026 23:11:35 GMT",
+        "published_at_utc": "2026-05-07T23:11:35+00:00",
+        "id": "https://www.bbc.com/news/articles/cp3pyk4nw3lo#0",
+        "topic_type": "trade_wars",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Cap of 20mph in towns and cities and 60mph on motorways would cut fuel demand and combat rising prices, IPPR says Britain should lower speed limits for drivers as part of a package of measures to reduce the impact of the Iran war on consumers, a thinktank has said. Capping legal speeds at 20mph in towns and cities and 60mph on motorways would help reduce fuel demand and combat soaring oil prices triggered by conflict, according to the Institute for Public Policy Research (IPPR). Continue reading...",
-          "news_focus_zh": "英國智庫公共政策研究所（IPPR）建議，為了減少伊朗戰爭對消費者的影響，應該降低城市和城鎮的法定速度限制至每小時20英里，及高速公路至每小時60英里。這項措施旨在降低燃料需求，並應對因衝突而飆升的油價。",
-          "background": "隨著伊朗戰爭的持續，全球油價受到顯著影響，導致各國面臨能源成本上升的壓力。英國的能源市場也不例外，面對高油價的挑戰，政府和智庫開始尋求創新解決方案。IPPR的提案是針對當前經濟環境的一種應對策略，旨在減少對石油的依賴，並促進可持續交通方式的發展。此外，隨著可再生能源的興起，這一提案也可能促使更多人關注替代能源的使用。",
+          "news_focus": "Trump's deadline to the European Union came as a trade court ruled his global tariff policy violated US law.",
+          "news_focus_zh": "特朗普對歐盟發出最後通牒，要求其在7月4日前批准與美國的貿易協議，否則將面臨更高的關稅。此舉是在美國貿易法院裁定特朗普的全球關稅政策違反美國法律之後發出的，顯示出特朗普對於協議進展的急迫性。",
+          "background": "特朗普的全球10%關稅政策於2023年2月生效，隨後遭到小企業的挑戰。美國貿易法院最近的裁決認為，這項政策未能根據1970年代的貿易法獲得正當性，這對特朗普的貿易政策構成了法律挑戰。歐盟與美國之間的貿易協議一直在談判中，雙方在具體條款上未能達成共識，導致特朗普的施壓行動。此時，特朗普的通牒不僅反映了他對貿易政策的強硬立場，也顯示出他希望在即將到來的國慶日之前達成協議的迫切性。",
           "stakeholders": [
-            "英國政府",
-            "公共政策研究所（IPPR）",
-            "能源公司（如Shell）",
-            "消費者",
-            "可再生能源產業"
+            "特朗普政府",
+            "歐盟",
+            "美國小企業",
+            "貿易法院",
+            "經濟學者"
           ],
-          "analysis": "IPPR的提議反映了英國政府在面對能源危機時的應對策略，旨在減少消費者的經濟負擔。然而，這一措施可能會引發不同利益方的反應。支持者認為，降低速度限制有助於減少燃料需求，從而緩解油價上漲的壓力。相對地，反對者可能會指出，這樣的措施可能影響交通效率，並對商業運輸造成負面影響。此外，根據BBC的報導，隨著油價波動，像殼牌（Shell）這樣的能源巨頭也因此獲利增加，顯示出戰爭對能源市場的深遠影響。這與《經濟學人》的報導形成對比，後者強調可再生能源在當前環境中的吸引力，顯示出市場對於能源轉型的需求。"
+          "analysis": "特朗普的最後通牒可能會加劇美國與歐盟之間的貿易緊張關係。根據參考報導，特朗普在社交平台上提到，他已與歐盟主席烏蘇拉·馮德萊恩進行了對話，這表明他希望通過直接溝通來推動協議的進展。然而，歐盟官員對於特朗普的要求反應冷淡，這可能導致雙方在未來幾個月內的貿易摩擦加劇。特朗普的立場與一些經濟學者和小企業的觀點相悖，後者認為高關稅將對經濟造成負面影響。隨著7月4日的臨近，市場對於貿易協議的期待與不安將持續升溫。"
         },
-        "topic_priority_score": 8,
-        "event_type": "energy_supply_move",
+        "topic_priority_score": 9,
+        "event_type": "macro_signal",
         "supporting_sources": [
-          "BBC Business",
-          "The Economist"
+          "The Guardian Business",
+          "The Guardian World"
         ],
         "supporting_titles": [
-          "Shell latest oil giant to see profits surge due to Iran war impact",
-          "Renewables are shining. The Iran war amplifies their appeal"
+          "US trade court rules against Trump’s 10% global tariffs",
+          "Trump gives EU until 4 July to ratify trade deal or face ‘much higher’ tariffs"
         ],
         "supporting_summaries": [
-          "The energy giant's profits jump by nearly a quarter as it benefits from the recent volatility in the oil price",
-          "Two new reports are a must-read of energy-starved governments"
+          "Trump also issues new deadline for EU to implement trade deal terms before raising tariffs to ‘much higher levels’ The US trade court on Thursday ruled against Donald Trump’s latest 10% global tariffs, finding across-the-board tariffs were not justified under a 1970s trade law. The US court of international trade ruled in favor of small businesses that challenged the tariffs, which took effect on 24 February. The ruling was 2-1, with one judge saying it was premature to grant victory to the small business plaintiffs. Continue reading...",
+          "Trump sets Fourth of July deadline as he vents impatience at speed of EU’s implementation Donald Trump has said the EU must ratify its trade deal with the US by 4 July or face “much higher” tariffs, after European officials fell short of agreement on the pact. Trump said he spoke to the EU chief, Ursula von der Leyen, about the issue and, he posted on his Truth Social platform, “agreed to give her until our Country’s 250th Birthday or, unfortunately, their Tariffs would immediately jump to much higher levels”. Continue reading..."
         ],
         "supporting_links": [
-          "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
-          "https://www.economist.com/finance-and-economics/2026/04/23/renewables-are-shining-the-iran-war-amplifies-their-appeal"
+          "https://www.theguardian.com/us-news/2026/may/07/trump-global-tariffs-trade-court-ruling",
+          "https://www.theguardian.com/us-news/2026/may/07/trump-gives-eu-until-4-july-to-ratify-trade-deal-or-face-much-higher-tariffs"
         ],
         "source_count": 3
       }
@@ -372,218 +377,218 @@
   "further_reading": {
     "technology": [
       {
-        "title": "DOJ says ransomware gang tapped into Russian government databases",
-        "link": "https://techcrunch.com/2026/05/06/doj-says-ransomware-gang-tapped-into-russian-government-databases/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-06T18:20:21+00:00",
+        "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+        "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-05-07T17:40:50+00:00",
         "relevance_score": 17
       },
       {
-        "title": "DeepSeek could hit $45B valuation from its first investment round",
-        "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-06T17:20:34+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "China’s chipmakers rush to embrace DeepSeek’s V4. Which names stand out?",
-        "link": "https://www.scmp.com/tech/big-tech/article/3352644/chinas-chipmakers-rush-embrace-deepseeks-v4-which-names-stand-out?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-06T12:30:05+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
-        "link": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
+        "title": "ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’",
+        "link": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
         "source_name": "Wired",
-        "published_at_utc": "2026-05-06T23:23:45+00:00",
+        "published_at_utc": "2026-05-07T16:25:48+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Meet Rassvet, Russia’s Answer to Starlink",
+        "link": "https://www.wired.com/story/meet-rassvet-russias-answer-to-starlink/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-05-08T08:30:00+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+        "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-05-08T01:42:14+00:00",
         "relevance_score": 15
       },
       {
-        "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
-        "link": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+        "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+        "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-07T19:21:21+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+        "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-07T16:05:48+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Google’s $9.99-per-month AI health coach launches May 19",
+        "link": "https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-07T15:35:38+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Elon Musk tried to hire OpenAI founders to start AI unit inside Tesla",
+        "link": "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/",
         "source_name": "Ars Technica",
-        "published_at_utc": "2026-05-06T22:09:14+00:00",
+        "published_at_utc": "2026-05-07T13:14:01+00:00",
         "relevance_score": 15
       },
       {
-        "title": "Hackers Hate AI Slop Even More Than You Do",
-        "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-05-06T15:49:12+00:00",
-        "relevance_score": 15
+        "title": "Gold futures set for Hong Kong comeback as mainland China’s appetite for the metal grows",
+        "link": "https://www.scmp.com/business/banking-finance/article/3352800/gold-futures-set-hong-kong-comeback-mainland-chinas-appetite-metal-grows?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-07T14:03:11+00:00",
+        "relevance_score": 14
       },
       {
-        "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
-        "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+        "title": "Hackers deface school login pages after claiming another Instructure hack",
+        "link": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-06T21:57:56+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Former OpenAI board member says Elon Musk offered her sperm donations",
-        "link": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-05-06T20:05:02+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Anthropic Gets in Bed With SpaceX as the AI Race Turns Weird",
-        "link": "https://www.wired.com/story/anthropic-spacex-compute-deal-colossus/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-05-06T18:28:52+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-        "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-06T18:23:54+00:00",
+        "published_at_utc": "2026-05-07T20:59:09+00:00",
         "relevance_score": 13
       }
     ],
     "politics": [
       {
-        "title": "Middle East crisis live: Iran reviewing peace proposal as Trump says a deal ‘very possible’",
-        "link": "https://www.theguardian.com/world/live/2026/may/07/middle-east-crisis-iran-trump-us-negotiations-deal-war-peace-proposal-hormuz-latest-news-updates",
+        "title": "Middle East crisis live: Trump insists ceasefire is intact after Iran and US exchange fire in Hormuz",
+        "link": "https://www.theguardian.com/world/live/2026/may/08/iran-us-israel-donald-trump-lebanon-ceasefire-oil-strait-hormuz-missiles-latest-news-updates",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-07T10:08:19+00:00",
+        "published_at_utc": "2026-05-08T08:52:10+00:00",
         "relevance_score": 22
       },
       {
-        "title": "South Korea rejects Trump’s claim that ship was hit because it ‘decided to go it alone’",
-        "link": "https://www.scmp.com/news/asia/east-asia/article/3352720/south-korea-rejects-trumps-claim-ship-was-hit-because-it-decided-go-it-alone?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-05-07T07:18:26+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Major test for Labour as polls open in English, Scottish and Welsh elections",
-        "link": "https://www.theguardian.com/politics/2026/may/07/local-elections-labour-test-greens-reform-lib-dems-tories-england-scotland-wales-polls",
+        "title": "Elections 2026 live: ‘I’m not going to walk away’, says Starmer as Farage hails ‘historic shift in British politics’",
+        "link": "https://www.theguardian.com/politics/live/2026/may/07/elections-2026-local-scotland-wales-reform-green-labour-conservatives-live-news-updates",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-07T06:00:41+00:00",
+        "published_at_utc": "2026-05-08T08:53:29+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Has ‘the Beast’ arrived in Beijing? Trump’s motorcade SUVs spotted before visit",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3352682/has-beast-arrived-beijing-trumps-motorcade-suvs-spotted-visit?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-05-07T01:28:33+00:00",
+        "title": "Iran-Israel war LIVE: UAE reports drone, missile attack as ceasefire is challenged",
+        "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-8-2026/article70953662.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-05-08T06:53:01+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Macron says ‘all parties must lift the blockades’ – as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/may/06/trump-iran-hormuz-us-project-freedom-live-updates-middle-east-crisis",
+        "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+        "link": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-05-08T05:57:08+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "UAE says air defences engaging with Iranian attacks – as it happened",
+        "link": "https://www.theguardian.com/world/live/2026/may/07/middle-east-crisis-iran-trump-us-negotiations-deal-war-peace-proposal-hormuz-latest-news-updates",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-07T00:35:12+00:00",
+        "published_at_utc": "2026-05-08T04:27:51+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Rubio set to meet Pope Leo in bid to ease tensions after Trump’s criticism of the pontiff - Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/may/07/ukraine-russia-drones-latvia-hungary-bulgaria-latest-news-updates",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-07T10:08:00+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "China seeks improved US ties and ‘harmony’, FM Wang Yi tells visiting American senators",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3352763/china-seeks-improved-us-ties-and-harmony-fm-wang-yi-tells-visiting-american-senators?utm_source=rss_feed",
+        "title": "Why today’s ‘unravelled’ international order echoes the lead-up to WWI",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3352795/why-todays-unravelled-international-order-echoes-lead-world-war-i?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-05-07T10:05:22+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-05-08T04:00:08+00:00",
+        "relevance_score": 20
       },
       {
-        "title": "Fertiliser shortages to have dramatic effect on food prices, says Duke of Westminster’s firm",
-        "link": "https://www.theguardian.com/business/2026/may/06/fertiliser-shortages-iran-war-global-food-prices-farming",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-07T09:39:54+00:00",
-        "relevance_score": 18
+        "title": "U.S. trade court rules against Trump's global 10% tariff",
+        "link": "https://www.thehindu.com/news/international/us-trade-court-rules-against-trumps-global-10-tariff/article70952884.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-05-07T22:33:17+00:00",
+        "relevance_score": 20
       },
       {
-        "title": "US-Iran peace optimism fuels Asian stock market gains",
-        "link": "https://www.scmp.com/plus/news/world/middle-east/article/3352743/us-iran-peace-optimism-fuels-asian-stock-market-gains?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-05-07T09:00:25+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "French warship moves towards Hormuz for possible defensive mission",
-        "link": "https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission?traffic_source=rss",
+        "title": "Southeast Asia’s leaders confront fallout from Iran war at ASEAN summit",
+        "link": "https://www.aljazeera.com/economy/2026/5/8/southeast-asias-leaders-confront-fallout-from-iran-war-at-asean-summit?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-07T08:36:21+00:00",
+        "published_at_utc": "2026-05-08T07:11:41+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Energy crisis dominates Asean summit, forcing long-standing issues to back burner",
+        "link": "https://www.scmp.com/week-asia/politics/article/3352850/energy-crisis-dominates-asean-summit-forcing-long-standing-issues-back-burner?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-08T05:17:18+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Ukraine and Russia accuse each other of breaking proposed ceasefires ahead of Victory Day parade in Moscow – Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/may/08/ukraine-russia-ceasefire-accusations-strikes-rubio-meloni-hanavirus-latest-news-updates",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-05-08T08:47:38+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "Iran deal optimism pushes oil price down; UK builders hit by surge in costs – business live",
-        "link": "https://www.theguardian.com/business/live/2026/may/07/iran-deal-shell-profits-oil-gas-stock-markets-business-live",
+        "title": "Global food prices jump as Iran war drives up costs; pound and UK bonds stronger after local election results – business live",
+        "link": "https://www.theguardian.com/business/live/2026/may/08/oil-us-iran-ceasefire-uk-house-prices-food-prices-jobs-report-pound-bonds-elections-latest-news-updates",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-07T10:04:02+00:00",
-        "relevance_score": 27
+        "published_at_utc": "2026-05-08T08:49:16+00:00",
+        "relevance_score": 25
       },
       {
-        "title": "What is China’s anti-sanctions law and how does it work?",
-        "link": "https://www.aljazeera.com/economy/2026/5/7/what-is-chinas-anti-sanctions-law-and-how-does-it-work?traffic_source=rss",
+        "title": "Trump gives EU until 4 July to ratify trade deal or face ‘much higher’ tariffs",
+        "link": "https://www.theguardian.com/us-news/2026/may/07/trump-gives-eu-until-4-july-to-ratify-trade-deal-or-face-much-higher-tariffs",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-05-07T22:04:10+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "US trade court rules against Trump’s 10% global tariffs",
+        "link": "https://www.theguardian.com/us-news/2026/may/07/trump-global-tariffs-trade-court-ruling",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-07T21:43:49+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Diesel prices squeeze US farmers ‘barely getting by’ amid tariffs and drought",
+        "link": "https://www.theguardian.com/environment/2026/may/07/us-farmers-diesel-prices-tariffs-drought",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-07T12:00:49+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Whirlpool warns of ‘recession-level’ slump as Iran war and tariff ruling hit sales",
+        "link": "https://www.theguardian.com/business/2026/may/07/whirlpool-recession-sales-iran-tariffs",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-07T18:18:17+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Oil prices jump as US, Iran trade fire in Strait of Hormuz",
+        "link": "https://www.aljazeera.com/economy/2026/5/8/oil-prices-jump-as-us-iran-trade-fire-in-strait-of-hormuz?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-07T09:50:50+00:00",
-        "relevance_score": 23
+        "published_at_utc": "2026-05-08T03:03:36+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Both left and right are deluding themselves about the scale of the energy crisis Britain faces | Ewan Gibbs",
+        "link": "https://www.theguardian.com/commentisfree/2026/may/07/left-right-energy-crisis-britain-north-sea-renewables",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-07T12:00:48+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "As US stocks hit record highs, will investors keep buying or stay diversified?",
+        "link": "https://www.scmp.com/business/china-business/article/3352716/us-stocks-hit-record-highs-will-investors-keep-buying-or-stay-diversified?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-07T12:00:05+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "After accounting overhaul, can Wuliangye share purchase restore investor confidence?",
+        "link": "https://www.scmp.com/business/article/3352780/wuliangye-majority-shareholder-steps-large-scale-stake-purchase?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-07T11:04:40+00:00",
+        "relevance_score": 17
       },
       {
         "title": "Shell latest oil giant to see profits surge due to Iran war impact",
         "link": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC Business",
         "published_at_utc": "2026-05-07T09:38:04+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Cornish Pirates boosted by ‘milestone’ seven-figure deal with US private equity firm",
-        "link": "https://www.theguardian.com/sport/2026/may/07/cornish-pirates-champ-rugby-seven-figure-deal-us-private-equity-",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-07T04:00:39+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Chinese household appliance maker Midea seeks US$2.2 billion from convertible bond sale",
-        "link": "https://www.scmp.com/business/china-business/article/3352697/chinese-household-appliance-maker-midea-seeks-us22-billion-convertible-bond-sale?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-07T03:49:07+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Hong Kong stocks hit 2-month high on hopes of Middle East war ending",
-        "link": "https://www.scmp.com/business/markets/article/3352687/hong-kong-stocks-cross-26500-easing-middle-east-concerns?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-07T02:32:38+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-        "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-05-06T16:11:44+00:00",
         "relevance_score": 17
-      },
-      {
-        "title": "Stock markets are wobbling, but £10bn cash bids at fat premiums can still happen",
-        "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/may/05/stock-markets-are-wobbling-but-10bn-cash-bids-at-fat-premiums-can-still-happen",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-05T17:26:37+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "China says wider U.S. sanctions on Cuba are 'illegal'",
-        "link": "https://www.thehindu.com/news/international/china-says-wider-us-sanctions-on-cuba-are-illegal/article70944387.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-05T17:15:38+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Climate campaigners attack Shell over ‘windfall’ profits from Iran war",
-        "link": "https://www.theguardian.com/business/2026/may/07/climate-campaigners-attack-shell-over-windfall-profits-from-iran-war",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-07T06:14:20+00:00",
-        "relevance_score": 16
       }
     ]
   },
