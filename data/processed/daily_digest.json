@@ -1,58 +1,58 @@
 {
-  "generated_at_utc": "2026-05-10T09:21:49.948114+00:00",
+  "generated_at_utc": "2026-05-11T10:52:54.288744+00:00",
   "summary": {
-    "total_raw_items": 1056,
-    "total_deduped_items": 1038,
+    "total_raw_items": 1058,
+    "total_deduped_items": 1025,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "ai",
+        "chips",
         "space_tech",
         "chips"
       ],
       "politics": [
+        "eu_policy",
         "us_politics",
-        "us_politics",
-        "war_and_conflict"
+        "democracy_autocracy"
       ],
       "economy": [
-        "corporate_earnings",
-        "energy_markets",
+        "interest_rates",
+        "inflation",
         "energy_markets"
       ]
     },
-    "multi_source_selected_count": 5
+    "multi_source_selected_count": 4
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "SCMP World",
-        "title": "China scrambles to close AI security gap as Anthropic, OpenAI pull ahead with new models",
-        "link": "https://www.scmp.com/tech/tech-trends/article/3352978/china-scrambles-close-ai-security-gap-anthropic-openai-pull-ahead-new-models?utm_source=rss_feed",
-        "summary": "While leading US artificial intelligence developers such as Anthropic and OpenAI unveil new models with enhanced cybersecurity capabilities, China is also aggressively scaling up its own AI-driven cyber defence market. Anthropic’s Mythos, launched in April, sparked a rapid global response due to its ability to discover and exploit cybersecurity vulnerabilities with unprecedented speed and efficiency. “Our assessment is that China’s own Mythos will definitely emerge, though currently the overall...",
-        "published": "Sun, 10 May 2026 03:00:22 +0000",
-        "updated": "Sun, 10 May 2026 03:00:22 +0000",
-        "published_at_utc": "2026-05-10T03:00:22+00:00",
-        "id": "https://www.scmp.com/tech/tech-trends/article/3352978/china-scrambles-close-ai-security-gap-anthropic-openai-pull-ahead-new-models?utm_source=rss_feed",
-        "topic_type": "ai",
+        "source_name": "Rest of World",
+        "title": "The Chinese whiz kids of Silicon Valley",
+        "link": "https://restofworld.org/2026/chinese-ai-researchers-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "summary": "Chinese-born tech workers have fueled Silicon Valley for decades. In the AI era, they're superstars.",
+        "published": "Mon, 11 May 2026 10:00:00 +0000",
+        "updated": "Mon, 11 May 2026 10:00:00 +0000",
+        "published_at_utc": "2026-05-11T10:00:00+00:00",
+        "id": "https://restofworld.org/2026/chinese-ai-researchers-silicon-valley/",
+        "topic_type": "chips",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "While leading US artificial intelligence developers such as Anthropic and OpenAI unveil new models with enhanced cybersecurity capabilities, China is also aggressively scaling up its own AI-driven cyber defence market. Anthropic’s Mythos, launched in April, sparked a rapid global response due to its ability to discover and exploit cybersecurity vulnerabilities with unprecedented speed and efficiency. “Our assessment is that China’s own Mythos will definitely emerge, though currently the overall...",
-          "news_focus_zh": "隨著美國人工智慧開發商Anthropic和OpenAI推出具備增強網絡安全能力的新模型，中國也在積極擴展其人工智慧驅動的網絡防禦市場。Anthropic於四月推出的Mythos模型因其能以空前的速度和效率發現及利用網絡安全漏洞而引發全球迅速反應。報導指出，中國的Mythos模型也將會出現，儘管目前整體發展仍有待加強。",
-          "background": "在全球人工智慧技術快速發展的背景下，網絡安全已成為各國政府和企業的重中之重。隨著數位化轉型的加速，網絡攻擊的頻率和複雜性也在上升，促使各國加強自身的網絡防禦能力。美國的Anthropic和OpenAI在此領域的創新，特別是在發現和應對安全漏洞方面，對全球市場產生了深遠影響。中國政府也意識到這一趨勢，並積極推動本國的AI技術發展，以提升其網絡安全防護能力，並縮小與美國在該領域的差距。",
+          "news_focus": "Chinese-born tech workers have fueled Silicon Valley for decades. In the AI era, they're superstars.",
+          "news_focus_zh": "中國出生的科技工作者在矽谷的發展歷程中扮演了重要角色，尤其在人工智慧（AI）時代，他們更是成為了業界的明星。這些技術人才不僅在創新和技術推動上貢獻良多，還在全球科技產業中占據了舉足輕重的地位。",
+          "background": "矽谷作為全球科技創新的中心，吸引了來自世界各地的科技人才。中國出生的科技工作者在這一領域中歷史悠久，許多知名企業的創始人和高管均是中國裔。隨著人工智慧技術的迅速發展，這些人才的影響力愈加顯著，許多中國科技工作者在AI研究、開發及應用方面展現出卓越的能力，推動了行業的進步和變革。",
           "stakeholders": [
-            "Anthropic",
-            "OpenAI",
-            "中國政府",
-            "網絡安全企業",
-            "全球科技市場"
+            "中國科技工作者",
+            "矽谷企業",
+            "全球科技產業",
+            "政府政策制定者",
+            "學術界"
           ],
-          "analysis": "中國在AI驅動的網絡安全市場的擴展，顯示出其對於提升國家安全的重視。隨著Anthropic和OpenAI的技術進步，中國的競爭壓力加大，促使其加速研發類似的技術。各方利益關係中，美國企業希望保持技術領先地位，而中國則希望通過自主創新來減少對外依賴。未來，中國可能會加大對AI網絡安全技術的投資，並可能出現與美國企業的直接競爭。這一動態將影響全球網絡安全市場的格局，並可能引發各國在技術標準和規範上的競爭。"
+          "analysis": "中國科技工作者在矽谷的成功不僅反映了他們的專業技能，也顯示了全球化背景下人才流動的趨勢。這些人才的崛起可能會引發其他國家對於科技人才的競爭，特別是在AI等新興技術領域。儘管目前並未有其他報導提供不同的觀點或細節，但可以預見，隨著AI技術的進一步發展，中國科技工作者的角色將持續受到關注，並可能引發關於科技倫理、知識產權及國際合作的討論。"
         },
-        "topic_priority_score": 9,
-        "event_type": "product_launch",
+        "topic_priority_score": 10,
+        "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -73,19 +73,20 @@
         "relevance_score": 18,
         "briefing": {
           "news_focus": "Established in the 1990s under military control, GAESA was the Cuban Armed Forces' strategic response to the economic collapse that followed the Soviet Union's fall and the tightening of U.S. sanctions in place at the time",
-          "news_focus_zh": "美國參議員馬可·魯比奧（Marco Rubio）為最新針對古巴的制裁辯護，這些制裁專門針對由軍方控制的企業集團GAESA。該集團成立於1990年代，旨在應對蘇聯解體後的經濟崩潰及當時美國制裁的加強，成為古巴武裝部隊的戰略回應。",
-          "background": "GAESA（古巴軍事企業集團）是古巴政府在面對經濟挑戰時所成立的主要經濟實體之一。自1990年代以來，該集團在古巴經濟中扮演了重要角色，控制著多個關鍵產業，包括旅遊、建設及零售等。美國對古巴的制裁政策自1960年代以來持續存在，並在不同政權下有所調整。近年來，隨著古巴經濟困境的加劇，美國政府再次加強對古巴的制裁，特別是針對軍方企業，以期削弱其經濟基礎，促進政治變革。",
+          "news_focus_zh": "美國參議員馬可·魯比奧（Marco Rubio）為新一輪針對古巴的制裁辯護，這次制裁主要針對由古巴軍方控制的財團GAESA。該財團成立於1990年代，旨在應對蘇聯解體後的經濟崩潰及當時美國制裁的加強。此舉顯示美國政府對古巴軍方經濟利益的持續關注與打擊。",
+          "background": "GAESA（古巴軍事企業集團）自成立以來，一直在古巴經濟中扮演重要角色，尤其是在旅遊、建設及其他行業。隨著美國對古巴的制裁政策持續，GAESA的影響力也隨之增強。美國政府過去曾針對古巴的經濟活動進行制裁，特別是針對與軍方有關的企業，這些制裁旨在削弱古巴政府的財政基礎，並促進政治變革。此次新制裁的推出，反映出美國對古巴軍方企業的持續施壓，並試圖限制其在經濟上的擴張。",
           "stakeholders": [
             "美國政府",
             "古巴政府",
             "古巴軍方",
-            "古巴人民",
-            "國際社會"
+            "國際企業",
+            "古巴民眾"
           ],
-          "analysis": "魯比奧的辯護顯示出美國政府對古巴軍方經濟影響力的擔憂，並試圖通過制裁來削弱其對古巴社會的控制。這些制裁可能會對古巴的經濟造成進一步打擊，尤其是在疫情後經濟復甦乏力的背景下。古巴政府可能會將這些制裁視為外部干預，進一步強化其國內的民族主義情緒。此外，這一政策的推動者與反對者之間存在明顯的立場差異，支持者認為制裁能促進民主，而反對者則擔心這會加劇古巴人民的困境，並無助於解決根本問題。"
+          "analysis": "此次制裁的具體新增內容在於針對GAESA的直接打擊，這是美國政府在古巴政策上進一步升級的表現。與先前的制裁相比，這次措施更具針對性，旨在直接削弱軍方對經濟的控制。這一行動可能會引發古巴政府的強烈反應，並使得美國與古巴之間的緊張關係進一步加劇。此外，這也可能影響到古巴國內的經濟活動，特別是在旅遊業及其他依賴軍方企業的領域。各方觀察者可能會關注此舉是否會促使古巴政府進行政治改革，或是加強其對外部壓力的抵抗。"
         },
         "topic_priority_score": 4,
         "event_type": "regulation_action",
+        "is_major_update": true,
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -94,147 +95,139 @@
       },
       {
         "category": "technology",
-        "source_name": "The Guardian Business",
-        "title": "Who is Louis Mosley, the man tasked with defending Palantir against its critics?",
-        "link": "https://www.theguardian.com/technology/2026/may/09/who-is-louis-mosley-defending-palantir-critics",
-        "summary": "The company’s UK and Europe boss has become a lightning rod for the British public’s fear of a US tech takeover The hall was packed with rightwing radicals when Louis Mosley heralded a coming revolution. Just as Oliver Cromwell – that “crusader for Christ and liberty” – routed King Charles I’s royalists, “a similar revolution is brewing today”, said the UK and Europe boss of Palantir. Globalism’s “twilight” was upon us, he said in a speech dotted with admiring mentions of the podcaster Joe Rogan and “Elon’s Doge”. It was not a typical peroration for a big UK government contractor with more than £600m in deals with the NHS, the Ministry of Defence and police. But Palantir, the world’s most controversial tech company, is no typical contractor. In recent years it has gained firm footholds across Britain’s public sector while appalling critics with its leadership’s rightwing rhetoric and its work for the US and Israeli militaries and Donald Trump’s ICE immigration crackdown . Continue reading...",
-        "published": "Sat, 09 May 2026 10:00:53 GMT",
-        "updated": "2026-05-09T10:00:53Z",
-        "published_at_utc": "2026-05-09T10:00:53+00:00",
-        "id": "https://www.theguardian.com/technology/2026/may/09/who-is-louis-mosley-defending-palantir-critics",
+        "source_name": "Wired",
+        "title": "CUDA Proves Nvidia Is a Software Company",
+        "link": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
+        "summary": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
+        "published": "Mon, 11 May 2026 10:00:00 +0000",
+        "updated": "Mon, 11 May 2026 10:00:00 +0000",
+        "published_at_utc": "2026-05-11T10:00:00+00:00",
+        "id": "69dd40da8b9e2ea9455fc48c",
         "topic_type": "chips",
         "relevance_score": 17,
         "briefing": {
-          "news_focus": "The company’s UK and Europe boss has become a lightning rod for the British public’s fear of a US tech takeover The hall was packed with rightwing radicals when Louis Mosley heralded a coming revolution. Just as Oliver Cromwell – that “crusader for Christ and liberty” – routed King Charles I’s royalists, “a similar revolution is brewing today”, said the UK and Europe boss of Palantir. Globalism’s “twilight” was upon us, he said in a speech dotted with admiring mentions of the podcaster Joe Rogan and “Elon’s Doge”. It was not a typical peroration for a big UK government contractor with more than £600m in deals with the NHS, the Ministry of Defence and police. But Palantir, the world’s most controversial tech company, is no typical contractor. In recent years it has gained firm footholds across Britain’s public sector while appalling critics with its leadership’s rightwing rhetoric and its work for the US and Israeli militaries and Donald Trump’s ICE immigration crackdown . Continue reading...",
-          "news_focus_zh": "路易斯·莫斯利（Louis Mosley）被任命為Palantir在英國及歐洲的負責人，面對公眾對美國科技公司接管的擔憂。他在一次演講中提到，當前正醞釀一場類似於奧利弗·克倫威爾（Oliver Cromwell）時代的革命，並提及了右派媒體人物喬·羅根（Joe Rogan）及埃隆·馬斯克（Elon Musk）的狗狗幣（Doge）。Palantir作為一家爭議性科技公司，與英國公共部門的合作關係引發了不少批評，尤其是其與美國及以色列軍方的合作背景。",
-          "background": "Palantir是一家專注於數據分析的科技公司，近年來在英國公共部門獲得了超過6億英鎊的合同，包括與國民健康服務（NHS）、國防部及警察的合作。該公司因其與美國軍方及特朗普政府的移民執法機構（ICE）的合作而受到批評，這使得其在英國的業務運作面臨公眾的質疑與反對聲浪。隨著全球對科技公司影響力的關注加劇，Palantir的右派領導言論及其業務模式引發了更大的爭議，尤其是在當前政治環境中。",
+          "news_focus": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
+          "news_focus_zh": "Nvidia的CUDA技術顯示出該公司已經不僅僅是一家硬體製造商，而是轉型為一家以軟體為核心的公司。這一發展表明Nvidia在市場中的競爭優勢主要來自其軟體生態系統，而非僅依賴其知名的顯示卡產品。",
+          "background": "Nvidia長期以來以其高效能的顯示卡聞名，特別是在遊戲和人工智慧領域。然而，隨著市場需求的變化，Nvidia開始重視其軟體產品，特別是CUDA，這是一個讓開發者能夠利用其硬體加速計算的平臺。這一轉變反映了科技產業中軟體與硬體融合的趨勢，並且顯示出Nvidia在技術創新和市場定位上的靈活性。",
           "stakeholders": [
-            "Palantir Technologies",
-            "英國政府",
-            "國民健康服務（NHS）",
-            "公眾",
-            "批評者"
+            "Nvidia",
+            "開發者社群",
+            "Porsche",
+            "消費者",
+            "投資者"
           ],
-          "analysis": "路易斯·莫斯利的任命反映了Palantir在英國市場的戰略意圖，試圖通過強調其對抗全球主義的立場來贏得支持。然而，這種右派言論可能會進一步激化公眾對其的反感，特別是在英國社會中對美國科技公司影響力的敏感性上。Palantir的支持者可能認為其數據分析能力能為公共安全及效率帶來提升，但反對者則擔心其技術可能被用於監控及侵犯隱私。隨著Palantir在英國的影響力增強，未來可能會面臨更多的監管挑戰及公眾反對，尤其是在涉及數據隱私及倫理問題的討論中。"
+          "analysis": "Nvidia的轉型為軟體公司意味著其未來的增長將更多依賴於軟體服務和生態系統的擴展，而不僅僅是硬體銷售。這樣的策略可能會吸引更多的開發者和企業客戶，進一步鞏固其市場地位。與此同時，Porsche的報導則顯示出另一種企業策略，即專注於核心業務並削減不必要的子公司。這反映了在當前經濟環境中，企業必須靈活調整其業務模式以應對市場挑戰。雖然兩者的焦點不同，但都強調了企業在面對變化時的適應能力和策略調整的重要性。"
         },
         "topic_priority_score": 10,
-        "event_type": "partnership_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "event_type": "strategic_move",
+        "supporting_sources": [
+          "TechCrunch"
+        ],
+        "supporting_titles": [
+          "Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul"
+        ],
+        "supporting_summaries": [
+          "More than 500 people will be affected by the closures. “We must refocus on our core business,” Porsche CEO and executive chair Michael Leiters said in a statement. \"This is the indispensable foundation for a successful strategic realignment. This forces us to make painful cuts — including our subsidiaries.\""
+        ],
+        "supporting_links": [
+          "https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/"
+        ],
+        "source_count": 2
       }
     ],
     "politics": [
       {
         "category": "politics",
-        "source_name": "SCMP World",
-        "title": "US-Iran ceasefire tested near Qatar as Trump awaits ceasefire response",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3353029/trump-awaits-irans-response-amid-relative-calm-hormuz?utm_source=rss_feed",
-        "summary": "A cargo ship caught fire on Sunday after being hit by an unknown projectile off Qatar’s coast, the British military said, in the latest attack on vessels in the Persian Gulf since a shaky ceasefire stopped fighting between the US and Iran. The Trump administration says the month-old ceasefire remains in effect, but it has been repeatedly tested with Iran restricting traffic through the Strait of Hormuz and the US imposing a blockade of Iranian ports. Washington has been awaiting Iran’s response...",
-        "published": "Sun, 10 May 2026 06:58:24 +0000",
-        "updated": "Sun, 10 May 2026 06:58:24 +0000",
-        "published_at_utc": "2026-05-10T06:58:24+00:00",
-        "id": "https://www.scmp.com/news/world/middle-east/article/3353029/trump-awaits-irans-response-amid-relative-calm-hormuz?utm_source=rss_feed",
+        "source_name": "The Guardian World",
+        "title": "Democrats are playing with fire in trying to reclaim tax cuts from Republicans",
+        "link": "https://www.theguardian.com/business/2026/may/11/democrats-tax-cuts-republicans",
+        "summary": "Senator Chris Van Hollen and other Democratic lawmakers are embracing a policy that hardly benefits the middle class Soul-searching within the Democratic party is to be expected after its loss in the 2024 election. Donald Trump’s edge over Kamala Harris in voters’ perceptions of economic competence (perplexing though it now appears following a year of erratic policymaking) was bound to inspire a call to rethink the party platform. Yet the second-guessing is steering the Democrats down a dangerous path to embracing a tax-cutting strategy that risks defeating the project to enable a healthier, more equitable society. Continue reading...",
+        "published": "Mon, 11 May 2026 10:00:51 GMT",
+        "updated": "2026-05-11T10:00:51Z",
+        "published_at_utc": "2026-05-11T10:00:51+00:00",
+        "id": "https://www.theguardian.com/business/2026/may/11/democrats-tax-cuts-republicans",
+        "topic_type": "eu_policy",
+        "relevance_score": 22,
+        "briefing": {
+          "news_focus": "Senator Chris Van Hollen and other Democratic lawmakers are embracing a policy that hardly benefits the middle class Soul-searching within the Democratic party is to be expected after its loss in the 2024 election. Donald Trump’s edge over Kamala Harris in voters’ perceptions of economic competence (perplexing though it now appears following a year of erratic policymaking) was bound to inspire a call to rethink the party platform. Yet the second-guessing is steering the Democrats down a dangerous path to embracing a tax-cutting strategy that risks defeating the project to enable a healthier, more equitable society. Continue reading...",
+          "news_focus_zh": "美國民主黨在2024年選舉失利後，參議員克里斯·范霍倫及其他民主黨立法者正考慮重新評估稅收政策，特別是試圖從共和黨手中奪回稅收減免。儘管這一策略旨在改善中產階級的經濟狀況，但批評者認為這可能會危及民主黨推動更健康、更公平社會的計畫，並可能導致黨內更深層的分歧。",
+          "background": "民主黨在2024年選舉中的失利引發了對其政策的反思，尤其是在經濟表現方面，黨內對於如何重新獲得選民信任的討論愈加激烈。參議員范霍倫的提議是試圖透過稅收減免來吸引中產階級選民，這一策略在過去的選舉中曾被共和黨廣泛使用。然而，這也引發了黨內對於是否應該繼續推動社會公平與經濟正義的辯論，因為這可能與稅收減免的目標相悖。",
+          "stakeholders": [
+            "民主黨",
+            "共和黨",
+            "中產階級選民",
+            "經濟政策專家",
+            "社會公平倡導者"
+          ],
+          "analysis": "民主黨內部對於稅收政策的重新評估顯示出其面臨的兩難局面。一方面，試圖通過稅收減免來吸引選民，可能會被視為對中產階級的關注，但另一方面，這一策略可能削弱黨內對於推動社會公平的承諾。批評者擔心，這樣的政策轉變可能會使民主黨失去其核心支持者，並在長期內損害其形象。特別是在經濟不確定性加劇的背景下，選民對於經濟管理的信心可能成為影響未來選舉結果的關鍵因素。民主黨是否能夠找到一個平衡點，將決定其未來的政治走向。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "election_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "politics",
+        "source_name": "BBC Business",
+        "title": "Trump's China visit set to test fragile truce",
+        "link": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
+        "summary": "The first US presidential visit to China in almost 10 years will test a fragile tariff truce.",
+        "published": "Mon, 11 May 2026 09:26:33 GMT",
+        "updated": "Mon, 11 May 2026 09:26:33 GMT",
+        "published_at_utc": "2026-05-11T09:26:33+00:00",
+        "id": "https://www.bbc.com/news/articles/c3rz75rgn8zo#0",
         "topic_type": "us_politics",
         "relevance_score": 20,
         "briefing": {
-          "news_focus": "A cargo ship caught fire on Sunday after being hit by an unknown projectile off Qatar’s coast, the British military said, in the latest attack on vessels in the Persian Gulf since a shaky ceasefire stopped fighting between the US and Iran. The Trump administration says the month-old ceasefire remains in effect, but it has been repeatedly tested with Iran restricting traffic through the Strait of Hormuz and the US imposing a blockade of Iranian ports. Washington has been awaiting Iran’s response...",
-          "news_focus_zh": "在卡塔爾沿岸，一艘貨船於週日因遭到不明飛行物擊中而起火，這是自美伊之間脆弱的停火協議以來，波斯灣內船隻遭攻擊的最新事件。儘管特朗普政府聲稱停火協議仍然有效，但該協議已多次受到考驗，因為伊朗限制霍爾木茲海的交通，而美國則對伊朗港口實施封鎖。華盛頓目前正等待伊朗的回應。",
-          "background": "美國與伊朗之間的緊張關係在過去幾年中持續升級，尤其是在特朗普政府對伊朗實施制裁後。儘管雙方在一個月前達成了停火協議，但該協議的脆弱性在於雙方的行動仍然相互挑釁。伊朗對霍爾木茲海的交通限制，及美國對伊朗港口的封鎖，顯示出雙方在維持停火的同時，仍在進行戰略上的角力。這一背景使得近期的攻擊事件更加引人關注。",
+          "news_focus": "The first US presidential visit to China in almost 10 years will test a fragile tariff truce.",
+          "news_focus_zh": "美國前總統特朗普即將進行近十年來首度訪問中國，此行將對脆弱的關稅休戰進行考驗。此次訪問的背景是在美中貿易緊張局勢下，雙方在關稅政策上達成的暫時共識，特朗普的行程可能影響未來的貿易談判與雙邊關係。",
+          "background": "美中貿易關係在過去幾年中經歷了劇烈波動，特別是在特朗普任內，兩國之間的關稅政策引發了廣泛的經濟影響。隨著特朗普的訪問，外界關注他是否會重申對中國的貿易立場，或是尋求進一步的合作。此行的背景是雙方在某些領域達成的脆弱共識，然而，這種共識是否能夠持續仍然存在不確定性，特別是在全球經濟不穩定的情況下。",
           "stakeholders": [
             "美國政府",
-            "伊朗政府",
-            "英國軍方",
-            "國際航運業",
-            "中東地區國家"
+            "中國政府",
+            "美國企業",
+            "中國企業",
+            "國際貿易組織"
           ],
-          "analysis": "此次貨船起火事件再次突顯了美伊之間的緊張局勢。特朗普政府強調停火協議仍在生效，但隨著伊朗對交通的限制及美國的封鎖行動，雙方的信任基礎已經受到侵蝕。參考報導指出，伊朗正在以自己的步調審查美方的提議，這表明伊朗在回應美國的壓力時可能會採取更加謹慎的態度。各方對於停火的解讀和期待存在差異，特別是美國官員對伊朗的回應持有較高期望，而伊朗則可能會選擇延遲回應，以便在談判中獲得更有利的條件。這種情況可能導致局勢進一步升級，特別是在雙方都未能有效降低敵對行為的情況下。"
+          "analysis": "特朗普的訪問可能會成為檢驗美中貿易關係的一個重要時刻。若他在訪問中強調合作，可能有助於穩定雙邊關係，進一步促進貿易。然而，若他重申強硬立場，則可能導致關稅政策的重新評估，甚至引發新的貿易摩擦。各方利益關係複雜，企業界希望看到穩定的貿易環境，而政治界則可能因選舉考量而採取不同立場。特朗普的行程能否促進實質對話，將是未來幾周的關鍵觀察點。"
         },
         "topic_priority_score": 8,
-        "event_type": "security_event",
-        "supporting_sources": [
-          "The Hindu International"
-        ],
-        "supporting_titles": [
-          "Iran-Israel war updates: Iran reviewing U.S. proposal at ‘own pace’ as Trump awaits response, says report"
-        ],
-        "supporting_summaries": [
-          "The report said expectations had grown that Tehran would issue a response after U.S. Secretary of State Marco Rubio indicated that Washington was expecting an answer from Iran"
-        ],
-        "supporting_links": [
-          "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-9-2026/article70958008.ece"
-        ],
-        "source_count": 2
+        "event_type": "political_signal",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       },
       {
         "category": "politics",
         "source_name": "The Guardian World",
-        "title": "Iran’s Revolutionary Guards threaten US sites in Middle East if tankers come under fire",
-        "link": "https://www.theguardian.com/world/2026/may/10/iran-threatens-us-sites-in-middle-east-if-tankers-come-under-fire",
-        "summary": "Revolutionary Guards issue warning as Trump awaits Iran’s response to Washington’s latest proposal for peace deal Iran’s Revolutionary Guards have threatened to target US sites in the Middle East if its tankers come under fire, Iranian media reported on Saturday, as Washington was left waiting for Tehran’s response to its latest negotiating position. “Any attack on Iranian tankers and commercial vessels will result in a heavy attack on one of the American centres in the region and enemy ships,” the force said, a day after US strikes on two Iranian tankers in the Gulf of Oman. Continue reading...",
-        "published": "Sun, 10 May 2026 05:54:28 GMT",
-        "updated": "2026-05-10T05:54:28Z",
-        "published_at_utc": "2026-05-10T05:54:28+00:00",
-        "id": "https://www.theguardian.com/world/2026/may/10/iran-threatens-us-sites-in-middle-east-if-tankers-come-under-fire",
-        "topic_type": "us_politics",
-        "relevance_score": 20,
+        "title": "Disappearances in Mexico involving state at ‘alarming’ rate, says report",
+        "link": "https://www.theguardian.com/world/2026/may/11/disappearances-mexico-involving-state-alarming-rate-iachr-report",
+        "summary": "Exclusive: Human rights group warns of ‘deep collusion’ between criminals and officials in some parts of country State actors are involved in disappearances in Mexico at an “alarming” rate, according to a report from the Inter-American Commission on Human Rights (IACHR). The sweeping investigation, to which the Guardian was given exclusive access, presents a dire picture of the crisis of disappearances in Mexico , where more than 130,000 people have gone missing, mostly in the last 20 years since the government declared its war on drug cartels. Continue reading...",
+        "published": "Mon, 11 May 2026 09:52:44 GMT",
+        "updated": "2026-05-11T09:52:44Z",
+        "published_at_utc": "2026-05-11T09:52:44+00:00",
+        "id": "https://www.theguardian.com/world/2026/may/11/disappearances-mexico-involving-state-alarming-rate-iachr-report",
+        "topic_type": "democracy_autocracy",
+        "relevance_score": 18,
         "briefing": {
-          "news_focus": "Revolutionary Guards issue warning as Trump awaits Iran’s response to Washington’s latest proposal for peace deal Iran’s Revolutionary Guards have threatened to target US sites in the Middle East if its tankers come under fire, Iranian media reported on Saturday, as Washington was left waiting for Tehran’s response to its latest negotiating position. “Any attack on Iranian tankers and commercial vessels will result in a heavy attack on one of the American centres in the region and enemy ships,” the force said, a day after US strikes on two Iranian tankers in the Gulf of Oman. Continue reading...",
-          "news_focus_zh": "伊朗革命衛隊對美國在中東的軍事基地發出威脅，表示如果伊朗的油輪受到攻擊，將對美國的設施和敵方船隻進行報復。此警告是在美國對兩艘伊朗油輪進行空襲後發出的，正值特朗普政府等待伊朗對最新和平提議的回應。",
-          "background": "美國與伊朗之間的緊張局勢持續升級，特別是在海灣地區的油輪安全問題上。美國近期對伊朗油輪的攻擊引發了伊朗的強烈反應，革命衛隊的威脅顯示出雙方在地緣政治上的對抗加劇。伊朗的油輪運輸在全球能源市場中扮演重要角色，而美國則試圖通過軍事行動來限制伊朗的影響力。此事件發生在特朗普政府尋求與伊朗達成和平協議的背景下，雙方的談判仍然處於不確定狀態。",
+          "news_focus": "Exclusive: Human rights group warns of ‘deep collusion’ between criminals and officials in some parts of country State actors are involved in disappearances in Mexico at an “alarming” rate, according to a report from the Inter-American Commission on Human Rights (IACHR). The sweeping investigation, to which the Guardian was given exclusive access, presents a dire picture of the crisis of disappearances in Mexico , where more than 130,000 people have gone missing, mostly in the last 20 years since the government declared its war on drug cartels. Continue reading...",
+          "news_focus_zh": "根據美洲人權委員會（IACHR）的一份報告，墨西哥的失踪事件正在以‘驚人的’速度發生，並且國家行為者與犯罪分子之間存在‘深度勾結’。該報告指出，自政府宣戰毒品卡特爾以來，已有超過130,000人失踪，這一危機主要發生在過去20年內。",
+          "background": "墨西哥的失踪問題已成為一個嚴重的人權危機，特別是在政府宣戰毒品卡特爾的背景下。這場戰爭導致了暴力的激增，並使得許多無辜民眾成為受害者。根據IACHR的報告，失踪事件的數量在過去二十年中持續上升，顯示出政府在打擊犯罪方面的無能與腐敗。報告強調，部分國家官員與犯罪組織之間的勾結，使得這一問題更加複雜和難以解決。",
           "stakeholders": [
-            "伊朗革命衛隊",
-            "美國政府",
-            "國際油輪運輸公司",
-            "日本政府",
-            "中東地區國家"
+            "墨西哥政府",
+            "美洲人權委員會",
+            "人權組織",
+            "犯罪組織",
+            "受害者家庭"
           ],
-          "analysis": "伊朗革命衛隊的威脅反映出其捍衛國家利益的決心，並可能導致美國在中東的軍事行動進一步升級。美國的空襲行動可能是為了展示其對伊朗行為的強硬立場，但這也可能引發更大範圍的衝突。參考報導提到日本在霍爾木茲海峽的軍事部署，顯示出其他國家對於該地區安全的關注，並可能影響到美國的戰略考量。各方在此事件中的立場差異明顯，伊朗強調報復權利，而美國則強調維護航行自由，未來的發展將取決於雙方的外交互動及軍事行動。"
+          "analysis": "該報告揭示了墨西哥政府在處理失踪案件方面的重大失誤，並指出國家機構的腐敗是導致這一危機的根本原因。人權組織對於政府的回應表示失望，認為缺乏有效的調查和懲處機制使得失踪事件屢禁不止。此外，報告中提到的‘深度勾結’暗示了官員與犯罪集團之間的利益交織，這可能使得未來的改革與治理更加困難。各方對於如何解決這一問題的看法存在分歧，政府可能會強調打擊犯罪的必要性，而人權團體則呼籲更透明的調查與問責機制。"
         },
-        "topic_priority_score": 8,
-        "event_type": "security_event",
-        "supporting_sources": [
-          "The Diplomat"
-        ],
-        "supporting_titles": [
-          "Japan’s Forgotten Deployment to the Middle East"
-        ],
-        "supporting_summaries": [
-          "Tokyo should take two-step approach to support safe passage in the Strait of Hormuz, starting by leveraging its existing force in the region."
-        ],
-        "supporting_links": [
-          "https://thediplomat.com/2026/05/japans-forgotten-deployment-to-the-middle-east/"
-        ],
-        "source_count": 2
-      },
-      {
-        "category": "politics",
-        "source_name": "The Guardian Business",
-        "title": "Defence sovereignty: Europe races to build the low-cost weapons of future",
-        "link": "https://www.theguardian.com/world/2026/may/10/defence-sovereignty-europe-builds-low-cost-weapons-drones",
-        "summary": "With Trump wavering on Nato and war in Ukraine, Europe is scrambling to spend billions on weapons such as drones In a small workshop in England’s East Midlands, engineers at the British startup Skycutter are designing weapons for Ukraine. A row of 3D printers make the fuselage for interceptor drones, while parts such as motors and navigation chips are slotted together by hand. The same process happens hundreds of thousands of times a month in partner Ukrainian factories. The swarms of cheap, deadly and often autonomous drones deployed in that war have already changed combat completely. Troops far behind the frontline must move constantly to avoid attack from the air, travelling along netted tunnels and landscapes crisscrossed by fibre optic cables used to steer drones past radio jamming. Cities are terrorised by guided missiles that are cheaper and therefore more widely used than those that came before. Continue reading...",
-        "published": "Sun, 10 May 2026 04:00:15 GMT",
-        "updated": "2026-05-10T04:00:15Z",
-        "published_at_utc": "2026-05-10T04:00:15+00:00",
-        "id": "https://www.theguardian.com/world/2026/may/10/defence-sovereignty-europe-builds-low-cost-weapons-drones",
-        "topic_type": "war_and_conflict",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "With Trump wavering on Nato and war in Ukraine, Europe is scrambling to spend billions on weapons such as drones In a small workshop in England’s East Midlands, engineers at the British startup Skycutter are designing weapons for Ukraine. A row of 3D printers make the fuselage for interceptor drones, while parts such as motors and navigation chips are slotted together by hand. The same process happens hundreds of thousands of times a month in partner Ukrainian factories. The swarms of cheap, deadly and often autonomous drones deployed in that war have already changed combat completely. Troops far behind the frontline must move constantly to avoid attack from the air, travelling along netted tunnels and landscapes crisscrossed by fibre optic cables used to steer drones past radio jamming. Cities are terrorised by guided missiles that are cheaper and therefore more widely used than those that came before. Continue reading...",
-          "news_focus_zh": "隨著特朗普對北約的立場不穩定以及烏克蘭戰爭的持續，歐洲各國正加速投入數十億美元於未來低成本武器的研發。英國初創公司Skycutter的工程師正在設計用於烏克蘭的攔截無人機，並利用3D打印技術生產機身，手工組裝各種零部件。這些便宜且致命的無人機已經在戰場上改變了戰鬥方式，迫使前線後方的部隊不斷移動以避免空中攻擊。",
-          "background": "在烏克蘭戰爭的背景下，歐洲國家面臨著加強國防能力的壓力，特別是在特朗普政府對北約的支持不確定性增加的情況下。這促使歐洲加快武器研發，尤其是無人機等低成本武器的生產。無人機的使用不僅改變了傳統戰爭的模式，也使得各國在軍事技術上的競爭愈加激烈。隨著戰爭的持續，對於高效、便宜的武器系統的需求日益增加，促使相關產業迅速發展。",
-          "stakeholders": [
-            "歐洲國家",
-            "烏克蘭政府",
-            "武器製造商",
-            "初創科技公司",
-            "北約"
-          ],
-          "analysis": "各國在武器研發上的投入反映了對未來戰爭形態的重新評估。無人機的普及使得傳統軍事力量的運用方式發生了變化，部隊必須適應新的戰鬥環境。英國的Skycutter等初創企業在這一趨勢中扮演了重要角色，通過創新技術來滿足市場需求。然而，這也引發了對於武器擴散及其對平民安全影響的擔憂。各國政府在支持本國防務產業的同時，必須考慮到這些武器的使用可能帶來的倫理和法律問題。未來，隨著技術的進步，無人機的戰術應用將更加多樣化，可能會引發更廣泛的國際軍備競賽。"
-        },
-        "topic_priority_score": 11,
+        "topic_priority_score": 6,
         "event_type": "security_event",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -246,132 +239,135 @@
     "economy": [
       {
         "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "KFC, McDonald’s drive-throughs in China get EV charging, upgraded smart systems",
-        "link": "https://www.scmp.com/business/china-business/article/3352994/kfc-mcdonalds-drive-throughs-china-get-ev-charging-upgraded-smart-systems?utm_source=rss_feed",
-        "summary": "Global fast-food chain KFC is adding more electric vehicle (EV) charging stations and McDonald’s is upgrading digital services, as the fast-food sector turns to digital convenience to draw more customers to drive-through stores amid fierce competition, according to analysts. KFC now operates over 7,000 drive-through restaurants nationwide, including kerbside pickups, according to the first-quarter earnings report of Yum China, operator of KFC and Pizza Hut in mainland China and Hong Kong. The...",
-        "published": "Sun, 10 May 2026 04:30:07 +0000",
-        "updated": "Sun, 10 May 2026 04:30:07 +0000",
-        "published_at_utc": "2026-05-10T04:30:07+00:00",
-        "id": "https://www.scmp.com/business/china-business/article/3352994/kfc-mcdonalds-drive-throughs-china-get-ev-charging-upgraded-smart-systems?utm_source=rss_feed",
-        "topic_type": "corporate_earnings",
-        "relevance_score": 20,
+        "source_name": "The Guardian Business",
+        "title": "US Senate expected to confirm Kevin Warsh as next Federal Reserve chair",
+        "link": "https://www.theguardian.com/business/2026/may/11/senate-kevin-warsh-federal-reserve-chair",
+        "summary": "Warsh would succeed outgoing Fed chair Jerome Powell as Trump continues his push to influence the US central bank Sign up for the Breaking News US newsletter email The US Senate is expected to confirm Kevin Warsh this week as chair of the Federal Reserve , as Donald Trump continues his campaign to influence the world’s most important central bank. The Fed’s influence over the economy spans from the job market to mortgage rates, and its every move is carefully scrutinized by investors on Wall Street. Warsh’s confirmation comes at a turbulent time for the central bank, which has fallen under intense scrutiny from Trump for not lowering interest rates. Continue reading...",
+        "published": "Mon, 11 May 2026 08:00:49 GMT",
+        "updated": "2026-05-11T08:00:49Z",
+        "published_at_utc": "2026-05-11T08:00:49+00:00",
+        "id": "https://www.theguardian.com/business/2026/may/11/senate-kevin-warsh-federal-reserve-chair",
+        "topic_type": "interest_rates",
+        "relevance_score": 25,
         "briefing": {
-          "news_focus": "Global fast-food chain KFC is adding more electric vehicle (EV) charging stations and McDonald’s is upgrading digital services, as the fast-food sector turns to digital convenience to draw more customers to drive-through stores amid fierce competition, according to analysts. KFC now operates over 7,000 drive-through restaurants nationwide, including kerbside pickups, according to the first-quarter earnings report of Yum China, operator of KFC and Pizza Hut in mainland China and Hong Kong. The...",
-          "news_focus_zh": "全球快餐連鎖品牌KFC在中國擴增電動車充電站，而麥當勞則升級其數位服務，以提升顧客在自取餐廳的便利性，應對激烈的市場競爭。根據百勝中國的第一季度財報，KFC在全國擁有超過7,000家自取餐廳，包括路邊取餐服務，顯示出快餐業者正積極轉向數位化以吸引更多顧客。",
-          "background": "隨著電動車的普及，中國市場對於充電基礎設施的需求日益增加。快餐業者如KFC和麥當勞正面臨來自其他餐飲品牌的激烈競爭，這促使他們必須不斷創新以吸引顧客。KFC和麥當勞的數位化轉型不僅是為了提升顧客體驗，也是為了適應消費者對於便利性和環保的需求。這一趨勢反映了中國快餐市場的變化，並顯示出企業在面對市場挑戰時的靈活應對策略。",
+          "news_focus": "Warsh would succeed outgoing Fed chair Jerome Powell as Trump continues his push to influence the US central bank Sign up for the Breaking News US newsletter email The US Senate is expected to confirm Kevin Warsh this week as chair of the Federal Reserve , as Donald Trump continues his campaign to influence the world’s most important central bank. The Fed’s influence over the economy spans from the job market to mortgage rates, and its every move is carefully scrutinized by investors on Wall Street. Warsh’s confirmation comes at a turbulent time for the central bank, which has fallen under intense scrutiny from Trump for not lowering interest rates. Continue reading...",
+          "news_focus_zh": "美國參議院預計本週將確認凱文·沃什（Kevin Warsh）擔任聯邦儲備委員會（Fed）主席，接替即將卸任的傑羅姆·鮑威爾（Jerome Powell）。這一任命是在唐納德·特朗普（Donald Trump）持續推動影響美國中央銀行的背景下進行的。聯邦儲備的決策對經濟有深遠影響，從就業市場到抵押貸款利率，市場投資者對其每一步動作都高度關注。",
+          "background": "聯邦儲備委員會是美國的中央銀行，負責制定貨幣政策以促進經濟穩定與增長。近期，特朗普對聯邦儲備的批評主要集中在其未能降低利率上，這使得聯邦儲備在政策決策上面臨更大的壓力。沃什的任命正值經濟增長持平的時期，儘管市場對利率的變動十分敏感，但根據《經濟學人》的報導，當前經濟表現超出悲觀預期，顯示出一定的韌性。",
           "stakeholders": [
-            "KFC",
-            "麥當勞",
-            "百勝中國",
-            "電動車製造商",
-            "消費者"
+            "凱文·沃什",
+            "唐納德·特朗普",
+            "聯邦儲備委員會",
+            "市場投資者",
+            "美國經濟"
           ],
-          "analysis": "KFC和麥當勞的策略反映了快餐業者在數位化和環保方面的雙重考量。KFC的充電站設置不僅能吸引電動車車主，也符合當前的環保趨勢，可能會增強品牌形象。而麥當勞的數位服務升級則旨在提升顧客的用餐體驗，進一步增強顧客忠誠度。這些舉措可能會使兩者在競爭中獲得優勢，但也可能引發其他快餐品牌的跟進，進一步加劇市場競爭。參考報導提及的穩定幣話題雖然與主新聞無直接關聯，但也反映了中國在數位化方面的探索，顯示出市場對於新技術的開放態度。"
+          "analysis": "沃什的確認可能會改變聯邦儲備的政策走向，特別是在利率決策方面。特朗普希望透過沃什的任命來促進更低的利率，以刺激經濟增長，這與目前聯邦儲備的保守立場形成對比。參考報導指出，儘管聯邦儲備正在降低利率，但經濟增長仍然保持穩定，這可能使得沃什面臨兩難局面：一方面需要響應政治壓力，另一方面則需考量經濟實際狀況。未來，市場將密切關注沃什的政策取向及其對經濟的影響。"
         },
-        "topic_priority_score": 5,
+        "topic_priority_score": 10,
         "event_type": "rate_decision",
         "supporting_sources": [
           "The Economist"
         ],
         "supporting_titles": [
-          "China turns crypto-curious"
+          "America’s economy defies gloomy expectations"
         ],
         "supporting_summaries": [
-          "But would the country’s leaders really want stablecoins to succeed?"
+          "As the Federal Reserve cuts interest rates, growth is holding up"
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2025/09/02/china-turns-crypto-curious"
+          "https://www.economist.com/finance-and-economics/2025/09/14/americas-economy-defies-gloomy-expectations"
         ],
-        "source_count": 2
+        "source_count": 2,
+        "cross_section_refs": [
+          "politics"
+        ]
       },
       {
         "category": "economy",
         "source_name": "The Guardian Business",
-        "title": "Neither US nor Iran can sustain strait of Hormuz standoff indefinitely",
-        "link": "https://www.theguardian.com/world/2026/may/09/neither-us-nor-iran-can-sustain-strait-of-hormuz-standoff-indefinitely",
-        "summary": "Simply hanging on could be a disaster for Iranians, while Trump needs to resolve this economic crisis he created Exchanges of fire between Iran and the US demonstrate the serious instability of the situation in the Middle East. Though the US strikes late on Thursday were just “a love tap”, according to the US president, Donald Trump, the reality is that neither side can continue the high-stakes standoff in the strait of Hormuz indefinitely. The US and its ally Israel demonstrated a comprehensive military superiority over Iran – taking minimal casualties in the 38-day war – but Washington has both failed to translate that into strategic dominance and allowed Iran to take control of the strait, driving up the oil price. Continue reading...",
-        "published": "Sat, 09 May 2026 14:00:59 GMT",
-        "updated": "2026-05-09T14:00:59Z",
-        "published_at_utc": "2026-05-09T14:00:59+00:00",
-        "id": "https://www.theguardian.com/world/2026/may/09/neither-us-nor-iran-can-sustain-strait-of-hormuz-standoff-indefinitely",
-        "topic_type": "energy_markets",
-        "relevance_score": 17,
+        "title": "Thinktank calls for ‘double lock’ England private rent cap to ease living costs",
+        "link": "https://www.theguardian.com/business/2026/may/11/ippr-thinktank-double-lock-england-private-rent-cap-living-costs",
+        "summary": "Influential IPPR proposes capping rents at whichever is lower of consumer price inflation or wage growth UK politics live – latest updates One of the thinktanks closest to the Labour government is urging ministers to introduce private sector rent controls in England, as the chancellor weighs up how to ease a surge in living costs caused by the Iran war. The Institute for Public Policy Research (IPPR) has published a paper calling for a rent “double lock”, which would link rent increases to either wages or inflation, depending on which was lower. Continue reading...",
+        "published": "Mon, 11 May 2026 10:07:15 GMT",
+        "updated": "2026-05-11T10:07:15Z",
+        "published_at_utc": "2026-05-11T10:07:15+00:00",
+        "id": "https://www.theguardian.com/business/2026/may/11/ippr-thinktank-double-lock-england-private-rent-cap-living-costs",
+        "topic_type": "inflation",
+        "relevance_score": 23,
         "briefing": {
-          "news_focus": "Simply hanging on could be a disaster for Iranians, while Trump needs to resolve this economic crisis he created Exchanges of fire between Iran and the US demonstrate the serious instability of the situation in the Middle East. Though the US strikes late on Thursday were just “a love tap”, according to the US president, Donald Trump, the reality is that neither side can continue the high-stakes standoff in the strait of Hormuz indefinitely. The US and its ally Israel demonstrated a comprehensive military superiority over Iran – taking minimal casualties in the 38-day war – but Washington has both failed to translate that into strategic dominance and allowed Iran to take control of the strait, driving up the oil price. Continue reading...",
-          "news_focus_zh": "美國與伊朗在霍爾木茲海峽的緊張局勢持續升級，雙方的交火顯示出中東地區的嚴重不穩定。儘管美國總統特朗普形容最近的空襲為「輕微的打擊」，但事實上，雙方都無法長期維持這種高風險的對峙。美國及其盟友以色列在38天的戰爭中展現出對伊朗的軍事優勢，但未能轉化為戰略上的主導地位，反而讓伊朗控制了霍爾木茲海峽，導致油價上漲。",
-          "background": "霍爾木茲海峽是全球重要的石油運輸通道，任何在此地區的衝突都可能影響全球油價。美國與伊朗的緊張關係源於多年的地緣政治衝突，特別是在特朗普政府期間，對伊朗的制裁政策加劇了雙方的對立。伊朗在地區內的影響力增強，使其在戰略上能夠對美國的行動進行反制。隨著局勢的惡化，全球市場對於油價的波動反應敏感，這使得各方都面臨著經濟壓力。",
+          "news_focus": "Influential IPPR proposes capping rents at whichever is lower of consumer price inflation or wage growth UK politics live – latest updates One of the thinktanks closest to the Labour government is urging ministers to introduce private sector rent controls in England, as the chancellor weighs up how to ease a surge in living costs caused by the Iran war. The Institute for Public Policy Research (IPPR) has published a paper calling for a rent “double lock”, which would link rent increases to either wages or inflation, depending on which was lower. Continue reading...",
+          "news_focus_zh": "英國智庫IPPR呼籲政府對私營租金實施雙重鎖定，以應對因伊朗戰爭引發的生活成本上漲。該提案建議將租金增長限制在消費者物價通脹或工資增長中較低者，旨在減輕民眾的經濟壓力。此舉正值財政大臣考慮如何應對生活成本激增之際。",
+          "background": "英國目前面臨著因伊朗戰爭引發的能源價格飆升，進而推高生活成本的挑戰。這一情勢使得政府必須考慮如何有效應對通脹壓力。IPPR的提案反映了對租金控制的需求，尤其是在工資增長緩慢的背景下，租金的上漲將進一步加劇家庭的經濟負擔。此提案的提出，顯示出在政治上對於生活成本問題的高度關注，尤其是在即將到來的選舉中，如何平衡經濟政策與民生需求將成為重要議題。",
           "stakeholders": [
-            "美國政府",
-            "伊朗政府",
-            "全球石油市場",
-            "以色列政府",
-            "國際航運業"
+            "英國政府",
+            "IPPR",
+            "房東",
+            "租客",
+            "經濟學家"
           ],
-          "analysis": "在這場對峙中，美國與伊朗的利益交織複雜。美國希望通過軍事優勢來維持對地區的控制，但面臨著經濟壓力，特朗普需要解決由此引發的經濟危機。另一方面，伊朗則試圖利用其在霍爾木茲海峽的控制權來增強其談判籌碼。參考報導中提到的油價上漲，顯示出市場對於這一局勢的敏感反應，可能進一步影響全球經濟。不同報導的重點在於，BBC強調了特朗普對停火的表態，而Nikkei Asia則指出了全球航運的脆弱性，這可能暗示著更廣泛的經濟影響。"
+          "analysis": "IPPR的提案可能會引發政府內部的不同聲音。一方面，支持者認為這是緩解生活成本壓力的必要措施，尤其是在通脹高企的情況下，限制租金增長將有助於保護低收入家庭。另一方面，反對者可能擔心租金管制會抑制市場供應，進而影響房地產投資和建設，最終可能導致租金上漲的惡性循環。此外，根據Nikkei Asia的報導，財政政策的應對可能會加劇通脹，這意味著政府在制定政策時需謹慎考量各種經濟指標的影響。The Economist則指出，全球通脹的上升可能會加劇這一問題，政府的應對策略需在控制通脹與促進經濟增長之間取得平衡。"
         },
-        "topic_priority_score": 8,
-        "event_type": "energy_supply_move",
+        "topic_priority_score": 9,
+        "event_type": "inflation_data",
         "supporting_sources": [
-          "BBC Business",
-          "Nikkei Asia"
+          "Nikkei Asia",
+          "The Economist"
         ],
         "supporting_titles": [
-          "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-          "The Iran war has exposed global shipping's weakest links"
+          "Fiscal policy response to Iran war risks worsening inflation: BIS chief",
+          "How high could global inflation go?"
         ],
         "supporting_summaries": [
-          "US President Donald Trump says the ceasefire between Washington and Tehran is still in place.",
-          ""
+          "",
+          "With luck, the Iran war won’t cause a recession. But the surge in energy prices will push up the cost of living"
         ],
         "supporting_links": [
-          "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
-          "https://asia.nikkei.com/opinion/the-iran-war-has-exposed-global-shipping-s-weakest-links"
+          "https://asia.nikkei.com/editor-s-picks/interview/fiscal-policy-response-to-iran-war-risks-worsening-inflation-bis-chief",
+          "https://www.economist.com/finance-and-economics/2026/03/23/how-high-could-global-inflation-go"
         ],
         "source_count": 3
       },
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Spiritless summer: Americans feel squeeze of costly fuel amid busy travel season",
-        "link": "https://www.theguardian.com/us-news/2026/may/09/travelers-feel-squeeze-summer-travel-iran-war-fuel",
-        "summary": "Soaring oil prices have left many Americans with higher costs and fewer options for travel amid the Iran war Tell us: have your holiday plans changed in light of recent world events? Chelsea Blackmore saves up every year for an annual vacation with her 58-year-old mother. This year, after landing an especially good deal, they made plans to embark on a Disney cruise from Orlando. To keep costs low, she bought the least expensive plane tickets she could find: a $500 round trip fare on Spirit Airlines. Continue reading...",
-        "published": "Sat, 09 May 2026 12:00:56 GMT",
-        "updated": "2026-05-09T12:00:56Z",
-        "published_at_utc": "2026-05-09T12:00:56+00:00",
-        "id": "https://www.theguardian.com/us-news/2026/may/09/travelers-feel-squeeze-summer-travel-iran-war-fuel",
+        "source_name": "BBC Business",
+        "title": "Oil prices jump after Trump dismisses Iran proposal to end war",
+        "link": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
+        "summary": "The Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments.",
+        "published": "Mon, 11 May 2026 09:01:41 GMT",
+        "updated": "Mon, 11 May 2026 09:01:41 GMT",
+        "published_at_utc": "2026-05-11T09:01:41+00:00",
+        "id": "https://www.bbc.com/news/articles/ckgp4ev4yg4o#0",
         "topic_type": "energy_markets",
-        "relevance_score": 17,
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "Soaring oil prices have left many Americans with higher costs and fewer options for travel amid the Iran war Tell us: have your holiday plans changed in light of recent world events? Chelsea Blackmore saves up every year for an annual vacation with her 58-year-old mother. This year, after landing an especially good deal, they made plans to embark on a Disney cruise from Orlando. To keep costs low, she bought the least expensive plane tickets she could find: a $500 round trip fare on Spirit Airlines. Continue reading...",
-          "news_focus_zh": "隨著油價飆升，美國人在繁忙的旅遊季節中感受到燃料成本上升的壓力，導致旅行選擇減少。報導提到，許多家庭的度假計劃受到影響，例如切爾西·布萊克莫爾（Chelsea Blackmore）與母親的迪士尼郵輪計劃，雖然她努力尋找便宜的機票，但仍面臨高昂的旅行成本。",
-          "background": "近期，由於伊朗戰爭的影響，油價急劇上升，這使得美國民眾在旅行時面臨更高的燃料費用。根據《經濟學人》的報導，這場戰爭可能引發多年的最大油價衝擊，並且油價可能會持續高企。這一情況對於依賴汽油的旅行業和消費者的財務狀況造成了壓力，尤其是在夏季旅遊高峰期，許多家庭的度假計劃因此受到影響。",
+          "news_focus": "The Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments.",
+          "news_focus_zh": "在特朗普駁回伊朗提出的結束戰爭提議後，霍爾木茲海峽的航道實質上被封閉，這對全球能源運輸造成了嚴重干擾，導致油價大幅上漲。",
+          "background": "霍爾木茲海峽是全球最重要的石油運輸通道之一，約有五分之一的全球石油貿易經過此地。近期因伊朗與美國之間的緊張關係加劇，導致該地區的安全形勢惡化，進一步影響了油價。特朗普的決策使得原本就不穩定的局勢更加複雜，並直接影響到全球能源市場的供應鏈。此外，隨著油價上漲，航空業也受到波及，許多航空公司面臨更高的燃料成本，進一步影響其經營狀況。",
           "stakeholders": [
-            "美國消費者",
+            "特朗普政府",
+            "伊朗政府",
+            "全球能源市場",
             "航空公司",
-            "旅遊業",
-            "能源市場",
-            "政府"
+            "可再生能源企業"
           ],
-          "analysis": "在這一背景下，各方的利益關係變得更加複雜。美國消費者面臨高油價的直接影響，這可能導致他們減少旅行或選擇更便宜的選項，進而影響航空公司和旅遊業的收益。參考報導1提到美國和伊朗之間可能達成協議的消息，這可能會對油價產生積極影響，從而改善消費者的旅行選擇。然而，《經濟學人》則警告，油價可能仍將保持高位，這使得未來的旅行計劃仍然充滿不確定性。這種情況下，消費者的信心和支出模式將成為關鍵觀察指標。"
+          "analysis": "此次事件中，特朗普的回應對伊朗的提議表示拒絕，顯示出美國對於中東政策的強硬立場，這可能會導致該地區局勢的進一步惡化。根據參考報導，霍爾木茲海峽的封閉不僅影響了油價，還導致航空業如Spirit Airlines等公司因燃料成本上升而面臨經營困難，甚至導致其倒閉。這顯示出能源價格的波動對其他產業的連鎖反應。此外，根據《經濟學人》的報導，隨著傳統能源的危機，對可再生能源的需求可能會因此上升，這可能成為未來能源市場的一個重要趨勢。"
         },
         "topic_priority_score": 8,
         "event_type": "energy_supply_move",
         "supporting_sources": [
-          "BBC Business",
+          "The Guardian Business",
           "The Economist"
         ],
         "supporting_titles": [
-          "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-          "War in Iran could cause the biggest oil shock in years"
+          "Air travel was already miserable. Now we get to pay more for it! | Dave Schilling",
+          "Renewables are shining. The Iran war amplifies their appeal"
         ],
         "supporting_summaries": [
-          "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
-          "Prices have surged—and may stay high for a while"
+          "Spirit Airlines helped turn flying into a fee-based nightmare. Now it’s gone, and fuel prices are soaring Forgive me for not mourning last week’s demise of Spirit Airlines, the company responsible for making flying absolutely terrible. Due to rising expenses and billions of dollars in debt, Spirit shut down abruptly last Saturday, stranding thousands of customers who were unaware that an entire business meant to transport them through the sky was about to shutter for good. Spirit was struggling for years , but it all got so much worse thanks to the soaring cost of jet fuel caused by the war in Iran and the crisis in the strait of Hormuz that halted the shipment of oil. It was bad enough being the country’s most ridiculed mode of conveyance outside of the Segway. But now it costs even more to suck that badly. Dave Schilling is a Los Angeles-based writer and humorist Continue reading...",
+          "Two new reports are a must-read of energy-starved governments"
         ],
         "supporting_links": [
-          "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-          "https://www.economist.com/finance-and-economics/2026/03/01/war-in-iran-could-cause-the-biggest-oil-shock-in-years"
+          "https://www.theguardian.com/commentisfree/2026/may/09/spirit-airlines-air-travel",
+          "https://www.economist.com/finance-and-economics/2026/04/23/renewables-are-shining-the-iran-war-amplifies-their-appeal"
         ],
         "source_count": 3
       }
@@ -380,176 +376,204 @@
   "further_reading": {
     "technology": [
       {
-        "title": "Shadow APIs: how Chinese developers bypass restrictions to access Claude and Gemini",
-        "link": "https://www.scmp.com/tech/tech-trends/article/3353002/shadow-apis-how-chinese-developers-bypass-restrictions-access-claude-and-gemini?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-05-10T07:00:05+00:00",
-        "relevance_score": 21
+        "title": "How Hong Kong could ease its ‘positive problem’ of full metals warehouses",
+        "link": "https://www.scmp.com/business/commodities/article/3353057/how-hong-kong-could-ease-its-positive-problem-full-metals-warehouses?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-11T00:00:23+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "TSMC to remain top Apple chipmaker despite reported Intel deal: Experts",
+        "link": "https://www.taipeitimes.com/News/biz/archives/2026/05/11/2003857095",
+        "source_name": "Taipei Times",
+        "published_at_utc": "2026-05-11T00:00:00+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+        "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-10T20:40:41+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+        "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-10T15:34:25+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Keyboard Shortcuts I Learned From My Cat",
+        "link": "https://www.wired.com/story/keyboard-shortcuts-i-learned-from-my-cat/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-05-11T09:30:00+00:00",
+        "relevance_score": 10
       },
       {
         "title": "The 19 Most Exciting Cars at the Beijing Auto Show 2026",
         "link": "https://www.wired.com/story/most-exciting-cars-at-beijing-auto-show-auto-china-2026/",
         "source_name": "Wired",
         "published_at_utc": "2026-05-09T10:00:00+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Satellite images show likely oil slick off Iran’s Kharg Island",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-10T01:23:32+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge",
-        "link": "https://www.theguardian.com/technology/2026/may/09/elon-musk-sam-altman-openai-trial",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-09T16:00:01+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Nvidia has already committed $40B to equity AI deals this year",
-        "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-09T14:43:30+00:00",
-        "relevance_score": 13
+        "relevance_score": 10
       },
       {
         "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
         "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
         "source_name": "Wired",
         "published_at_utc": "2026-05-08T15:00:00+00:00",
-        "relevance_score": 13
+        "relevance_score": 10
       },
       {
         "title": "How Nvidia’s Corning pact shines light on China’s dominant role in global fibre supply",
         "link": "https://www.scmp.com/tech/tech-trends/article/3352907/how-nvidias-corning-pact-shines-light-chinas-dominant-role-global-fibre-supply?utm_source=rss_feed",
         "source_name": "SCMP Business",
         "published_at_utc": "2026-05-08T13:00:06+00:00",
-        "relevance_score": 13
+        "relevance_score": 10
       },
       {
-        "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
-        "link": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-05-09T10:30:00+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "Chaos erupts as cyberattack disrupts learning platform Canvas amid finals",
-        "link": "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-05-08T18:33:48+00:00",
-        "relevance_score": 11
-      },
-      {
-        "title": "AI-powered surveillance company Palantir created a chore coat. Great, now I have no choice but to burn mine | Van Badham",
-        "link": "https://www.theguardian.com/technology/commentisfree/2026/may/08/palantir-chore-coat-jacket-merch",
+        "title": "What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge",
+        "link": "https://www.theguardian.com/technology/2026/may/09/elon-musk-sam-altman-openai-trial",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-08T15:00:31+00:00",
-        "relevance_score": 11
+        "published_at_utc": "2026-05-09T16:00:01+00:00",
+        "relevance_score": 9
+      },
+      {
+        "title": "Nvidia has already committed $40B to equity AI deals this year",
+        "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-09T14:43:30+00:00",
+        "relevance_score": 9
       }
     ],
     "politics": [
       {
-        "title": "Labour MP challenges ministers to trigger leadership contest as PM vows to fight on – UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/may/10/may-elections-keir-starmer-catherine-west-labour-leadership-nigel-farage-reform-conservatives-kemi-badenoch-richard-tice-bridget-phillipson-uk-politics-latest-news-updates",
+        "title": "US Senate expected to confirm Kevin Warsh as next Federal Reserve chair",
+        "link": "https://www.theguardian.com/business/2026/may/11/senate-kevin-warsh-federal-reserve-chair",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-10T09:10:11+00:00",
+        "published_at_utc": "2026-05-11T08:00:49+00:00",
+        "relevance_score": 22
+      },
+      {
+        "title": "Ukraine reports Russian attacks and battlefield clashes despite ceasefire",
+        "link": "https://www.thehindu.com/news/international/ukraine-reports-russian-attacks-and-battlefield-clashes-despite-ceasefire/article70964916.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-05-11T09:25:27+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Spain starts evacuating passengers from hantavirus-hit cruise ship in Tenerife – Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/may/10/hantavirus-cruise-ship-rat-spain-tenerife-russia-ukraine-putin-zelenskyy-war-europe-latest-news-updates",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-10T09:13:31+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Could Spain’s ‘compliment sandwich’ approach to China work for the EU?",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3353031/could-spains-compliment-sandwich-approach-china-work-eu?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-05-10T09:00:05+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "‘Better the devil you know’: former Labour voters in Birmingham unsure about replacing Starmer",
-        "link": "https://www.theguardian.com/politics/2026/may/10/better-the-devil-you-know-former-labour-voters-birmingham-unsure-replacing-keir-starmer",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-10T08:47:21+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Can China engineer a price recovery that doesn’t make people feel poorer?",
-        "link": "https://www.scmp.com/opinion/china-opinion/article/3352619/can-china-engineer-price-recovery-doesnt-make-people-feel-poorer?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-05-10T08:30:04+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Downing Street rally asks ‘silent majority’ to fight antisemitism",
-        "link": "https://www.theguardian.com/uk-news/2026/may/10/downing-street-rally-asks-silent-majority-to-fight-antisemitism",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-10T06:38:40+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Tehran, Taiwan, trade … what are the hazards facing Trump on Xi summit tightrope?",
-        "link": "https://www.theguardian.com/news/ng-interactive/2026/may/10/tehran-taiwan-trade-donald-trump-xi-jinping-us-china-summit",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-10T04:00:15+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "U.K. PM Starmer turns to Labour Party grandees after tough local election verdict",
-        "link": "https://www.thehindu.com/news/international/uk-pm-starmer-turns-to-labour-party-grandees-after-tough-local-election-verdict/article70959672.ece",
+        "title": "Eyeing migrant returns, EU pushes to revive Syria ties",
+        "link": "https://www.thehindu.com/news/international/eyeing-migrant-returns-eu-pushes-to-revive-syria-ties/article70964733.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-09T16:06:41+00:00",
+        "published_at_utc": "2026-05-11T07:30:21+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "UK’s Keir Starmer battles for political survival after election defeat",
+        "link": "https://www.aljazeera.com/news/2026/5/11/uks-keir-starmer-faces-likely-challenge-following-labours-election-defeat?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-05-11T07:12:28+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Iran responds to U.S. ceasefire proposal but Trump rejects it as ‘unacceptable’",
+        "link": "https://www.thehindu.com/news/international/iran-responds-to-us-ceasefire-proposal-but-trump-rejects-it-as-unacceptable/article70963484.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-05-11T01:47:03+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Under-threat UK PM Starmer vows to prove ‘doubters’ wrong",
+        "link": "https://www.scmp.com/news/world/europe/article/3353163/under-threat-uk-pm-starmer-vows-prove-doubters-wrong?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-11T10:45:39+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Flotilla activists arrive in Turkiye before setting sail to Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/flotilla-activists-arrive-in-turkiye-before-setting-sail-to-gaza?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-10T07:56:45+00:00",
-        "relevance_score": 16
+        "title": "Keir Starmer vows to ‘prove doubters wrong’ as he tries to avert leadership challenge – UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-05-11T10:41:44+00:00",
+        "relevance_score": 18
       },
       {
-        "title": "Israel deports two Gaza aid flotilla activists",
-        "link": "https://www.aljazeera.com/news/2026/5/10/israel-deports-two-gaza-aid-flotilla-activists?traffic_source=rss",
+        "title": "What did Keir Starmer say in ‘last chance’ speech to save his premiership?",
+        "link": "https://www.theguardian.com/politics/2026/may/11/what-did-keir-starmer-say-in-labour-leadership-speech",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-05-11T10:39:14+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Former Qatar PM: Netanyahu using Iran war to reshape Middle East",
+        "link": "https://www.aljazeera.com/news/2026/5/11/former-qatar-pm-netanyahu-using-iran-war-to-reshape-middle-east?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-10T07:13:50+00:00",
-        "relevance_score": 16
+        "published_at_utc": "2026-05-11T10:37:19+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Taiwan civilians sharpen self-defence skills ahead of Trump-Xi summit",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/taiwan-civilians-sharpen-self-defence-skills-ahead-of-trump-xi-summit?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-05-11T10:36:53+00:00",
+        "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "‘A long road ahead’: could community car-sharing help UK hit climate targets?",
-        "link": "https://www.theguardian.com/environment/2026/may/10/a-long-road-ahead-could-community-car-sharing-help-uk-hit-climate-targets",
+        "title": "UK government borrowing costs rise as pressure mounts on Starmer, and oil price jumps – business live",
+        "link": "https://www.theguardian.com/business/live/2026/may/11/uk-economy-job-losses-iran-war-oil-pound-bonds-politics-starmer-live-updates",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-10T06:00:17+00:00",
-        "relevance_score": 14
+        "published_at_utc": "2026-05-11T10:18:37+00:00",
+        "relevance_score": 27
       },
       {
-        "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-        "link": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-05-08T08:43:55+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "Hong Kong secures US$3.5 billion to fund Northern Metropolis and green projects",
-        "link": "https://www.scmp.com/business/banking-finance/article/3352956/hong-kong-secures-us35-billion-fund-northern-metropolis-and-green-projects?utm_source=rss_feed",
+        "title": "China’s ChiNext Index up 3.5% to highest level since 2015 as semiconductor rally broadens",
+        "link": "https://www.scmp.com/business/markets/article/3353091/hong-kong-chip-stocks-extend-their-rally-they-ride-global-semiconductor-wave?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-08T15:01:43+00:00",
-        "relevance_score": 13
+        "published_at_utc": "2026-05-11T04:03:42+00:00",
+        "relevance_score": 19
       },
       {
-        "title": "How reading the Guardian led to a million-pound move for Cornish Pirates",
-        "link": "https://www.theguardian.com/sport/2026/may/08/how-reading-the-guardian-led-to-a-million-pound-move-for-cornish-pirates",
+        "title": "Haggling prices and chasing debts - tradespeople hit with cost of living headache",
+        "link": "https://www.bbc.com/news/articles/c4gd4nl23rro?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-05-11T05:56:21+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Why the UAE’s Opec exit spells the beginning of the end of Gulf unity",
+        "link": "https://www.scmp.com/opinion/world-opinion/article/3352666/why-uaes-opec-exit-spells-beginning-end-gulf-unity?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-10T21:30:05+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Rental yields, redevelopment gains drive home sales in Hong Kong’s To Kwa Wan",
+        "link": "https://www.scmp.com/business/article/3353054/rental-yields-redevelopment-gains-drive-home-sales-hong-kongs-kwa-wan?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-10T12:25:31+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Advisers urge JP Morgan investors to vote to split chair and CEO positions",
+        "link": "https://www.theguardian.com/business/2026/may/10/advisers-urge-jp-morgan-investors-to-vote-to-split-chair-and-ceo-positions",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-08T15:00:32+00:00",
-        "relevance_score": 13
+        "published_at_utc": "2026-05-10T12:00:25+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Fiscal policy response to Iran war risks worsening inflation: BIS chief",
+        "link": "https://asia.nikkei.com/editor-s-picks/interview/fiscal-policy-response-to-iran-war-risks-worsening-inflation-bis-chief",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
+        "relevance_score": 15
+      },
+      {
+        "title": "Get back: Beatles’ Apple Corps to turn former London base into seven-storey visitor attraction",
+        "link": "https://www.theguardian.com/music/2026/may/11/beatles-apple-corps-former-london-base-seven-storey-visitor-attraction",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-11T07:00:48+00:00",
+        "relevance_score": 14
       },
       {
         "title": "HSBC profit flat as Middle East provisions offset wealth growth",
@@ -564,34 +588,6 @@
         "source_name": "Nikkei Asia",
         "published_at_utc": "",
         "relevance_score": 13
-      },
-      {
-        "title": "Cape Verde bets on tech to reverse postcolonial brain drain",
-        "link": "https://www.theguardian.com/world/2026/may/10/cape-verde-tech-brain-drain",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-10T06:00:18+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "Trump visits China, vote on Sara Duterte impeachment, SoftBank earnings",
-        "link": "https://asia.nikkei.com/spotlight/your-week-in-asia/trump-visits-china-vote-on-sara-duterte-impeachment-softbank-earnings",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 12
-      },
-      {
-        "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-        "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-05-06T16:11:44+00:00",
-        "relevance_score": 11
-      },
-      {
-        "title": "Why American bondholders are jumpy about inflation",
-        "link": "https://www.economist.com/finance-and-economics/2025/09/10/why-american-bondholders-are-jumpy-about-inflation",
-        "source_name": "The Economist",
-        "published_at_utc": "2025-09-10T19:05:23+00:00",
-        "relevance_score": 11
       }
     ]
   },
