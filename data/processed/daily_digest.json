@@ -1,55 +1,55 @@
 {
-  "generated_at_utc": "2026-05-11T10:52:54.288744+00:00",
+  "generated_at_utc": "2026-05-12T10:23:38.539758+00:00",
   "summary": {
-    "total_raw_items": 1058,
-    "total_deduped_items": 1025,
+    "total_raw_items": 1082,
+    "total_deduped_items": 1056,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
         "chips",
-        "space_tech",
+        "ai",
         "chips"
       ],
       "politics": [
-        "eu_policy",
-        "us_politics",
-        "democracy_autocracy"
+        "diplomacy",
+        "diplomacy",
+        "diplomacy"
       ],
       "economy": [
-        "interest_rates",
+        "markets",
         "inflation",
-        "energy_markets"
+        "markets"
       ]
     },
-    "multi_source_selected_count": 4
+    "multi_source_selected_count": 3
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "Rest of World",
-        "title": "The Chinese whiz kids of Silicon Valley",
-        "link": "https://restofworld.org/2026/chinese-ai-researchers-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "summary": "Chinese-born tech workers have fueled Silicon Valley for decades. In the AI era, they're superstars.",
-        "published": "Mon, 11 May 2026 10:00:00 +0000",
-        "updated": "Mon, 11 May 2026 10:00:00 +0000",
-        "published_at_utc": "2026-05-11T10:00:00+00:00",
-        "id": "https://restofworld.org/2026/chinese-ai-researchers-silicon-valley/",
+        "source_name": "Al Jazeera",
+        "title": "‘Potential security risk’: Unpacking the UK’s trust issues with Palantir",
+        "link": "https://www.aljazeera.com/news/2026/5/12/palantir?traffic_source=rss",
+        "summary": "Analysts say it is challenging to track whether Palantir is sticking to the terms of its NHS contract.",
+        "published": "Tue, 12 May 2026 07:17:21 +0000",
+        "updated": "Tue, 12 May 2026 07:17:21 +0000",
+        "published_at_utc": "2026-05-12T07:17:21+00:00",
+        "id": "https://www.aljazeera.com/?t=1777995152",
         "topic_type": "chips",
-        "relevance_score": 21,
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "Chinese-born tech workers have fueled Silicon Valley for decades. In the AI era, they're superstars.",
-          "news_focus_zh": "中國出生的科技工作者在矽谷的發展歷程中扮演了重要角色，尤其在人工智慧（AI）時代，他們更是成為了業界的明星。這些技術人才不僅在創新和技術推動上貢獻良多，還在全球科技產業中占據了舉足輕重的地位。",
-          "background": "矽谷作為全球科技創新的中心，吸引了來自世界各地的科技人才。中國出生的科技工作者在這一領域中歷史悠久，許多知名企業的創始人和高管均是中國裔。隨著人工智慧技術的迅速發展，這些人才的影響力愈加顯著，許多中國科技工作者在AI研究、開發及應用方面展現出卓越的能力，推動了行業的進步和變革。",
+          "news_focus": "Analysts say it is challenging to track whether Palantir is sticking to the terms of its NHS contract.",
+          "news_focus_zh": "英國對Palantir的信任問題引發關注，分析師指出，追蹤該公司是否遵循其與國民健康服務（NHS）簽訂的合約條款相當具挑戰性。這一情況引發了對Palantir在數據安全和隱私方面的潛在風險的討論。",
+          "background": "Palantir是一家專注於數據分析的科技公司，近年來與多個政府機構合作，包括英國的NHS。隨著數據隱私和安全問題日益受到重視，Palantir的合約執行狀況成為焦點。英國政府對於數據使用的透明度和合規性有著嚴格的要求，這使得Palantir的運作受到密切監視。特別是在公共健康領域，數據的準確性和安全性對於政策制定和民眾信任至關重要。",
           "stakeholders": [
-            "中國科技工作者",
-            "矽谷企業",
-            "全球科技產業",
-            "政府政策制定者",
-            "學術界"
+            "Palantir",
+            "英國國民健康服務（NHS）",
+            "英國政府",
+            "數據隱私倡導者",
+            "公眾"
           ],
-          "analysis": "中國科技工作者在矽谷的成功不僅反映了他們的專業技能，也顯示了全球化背景下人才流動的趨勢。這些人才的崛起可能會引發其他國家對於科技人才的競爭，特別是在AI等新興技術領域。儘管目前並未有其他報導提供不同的觀點或細節，但可以預見，隨著AI技術的進一步發展，中國科技工作者的角色將持續受到關注，並可能引發關於科技倫理、知識產權及國際合作的討論。"
+          "analysis": "英國政府對Palantir的信任問題反映了對數據安全的高度關注。分析師指出，Palantir在合約執行上的透明度不足，可能導致對其數據處理方式的質疑。這一情況可能影響Palantir在英國的業務發展，尤其是在公共部門的合作機會。此外，隨著數據隱私法規的日益嚴格，Palantir需加強合規性以維護其市場地位。不同於其他科技公司，Palantir的業務模式依賴於與政府機構的合作，這使其面臨更高的監管風險和公眾 scrutiny。"
         },
         "topic_priority_score": 10,
         "event_type": "strategic_move",
@@ -61,32 +61,31 @@
       },
       {
         "category": "technology",
-        "source_name": "The Hindu International",
-        "title": "Rubio defends new U.S. sanctions on Cuba, targeting military-run conglomerate GAESA",
-        "link": "https://www.thehindu.com/news/international/rubio-defends-new-us-sanctions-on-cuba-targeting-military-run-conglomerate-gaesa/article70960104.ece",
-        "summary": "Established in the 1990s under military control, GAESA was the Cuban Armed Forces' strategic response to the economic collapse that followed the Soviet Union's fall and the tightening of U.S. sanctions in place at the time",
-        "published": "Sat, 09 May 2026 22:39:52 +0530",
-        "updated": "Sat, 09 May 2026 22:39:52 +0530",
-        "published_at_utc": "2026-05-09T17:09:52+00:00",
-        "id": "article-70960104",
-        "topic_type": "space_tech",
-        "relevance_score": 18,
+        "source_name": "The Verge",
+        "title": "OpenAI just released its answer to Claude Mythos",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+        "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher […]",
+        "published": "2026-05-11T19:05:01-04:00",
+        "updated": "2026-05-11T19:05:51-04:00",
+        "published_at_utc": "2026-05-11T23:05:01+00:00",
+        "id": "https://www.theverge.com/?p=928342",
+        "topic_type": "ai",
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "Established in the 1990s under military control, GAESA was the Cuban Armed Forces' strategic response to the economic collapse that followed the Soviet Union's fall and the tightening of U.S. sanctions in place at the time",
-          "news_focus_zh": "美國參議員馬可·魯比奧（Marco Rubio）為新一輪針對古巴的制裁辯護，這次制裁主要針對由古巴軍方控制的財團GAESA。該財團成立於1990年代，旨在應對蘇聯解體後的經濟崩潰及當時美國制裁的加強。此舉顯示美國政府對古巴軍方經濟利益的持續關注與打擊。",
-          "background": "GAESA（古巴軍事企業集團）自成立以來，一直在古巴經濟中扮演重要角色，尤其是在旅遊、建設及其他行業。隨著美國對古巴的制裁政策持續，GAESA的影響力也隨之增強。美國政府過去曾針對古巴的經濟活動進行制裁，特別是針對與軍方有關的企業，這些制裁旨在削弱古巴政府的財政基礎，並促進政治變革。此次新制裁的推出，反映出美國對古巴軍方企業的持續施壓，並試圖限制其在經濟上的擴張。",
+          "news_focus": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher […]",
+          "news_focus_zh": "OpenAI推出了一項名為Daybreak的AI計畫，旨在在攻擊者發現漏洞之前，檢測並修補這些漏洞。Daybreak利用在三月推出的Codex Security AI代理，根據組織的代碼建立威脅模型，專注於可能的攻擊路徑，驗證潛在的漏洞，並自動化檢測高風險的安全問題。",
+          "background": "隨著數位化進程的加速，企業面臨的網絡安全威脅日益增加。許多組織在應對安全漏洞時，往往是事後補救，這使得他們容易受到攻擊。OpenAI的Daybreak計畫正是針對這一需求而設計，通過預防性措施來加強安全防護。Codex Security AI代理的推出，標誌著OpenAI在安全領域的進一步擴展，並顯示出其對於AI技術在網絡安全應用上的重視。",
           "stakeholders": [
-            "美國政府",
-            "古巴政府",
-            "古巴軍方",
-            "國際企業",
-            "古巴民眾"
+            "OpenAI",
+            "企業用戶",
+            "網絡安全專家",
+            "競爭對手",
+            "投資者"
           ],
-          "analysis": "此次制裁的具體新增內容在於針對GAESA的直接打擊，這是美國政府在古巴政策上進一步升級的表現。與先前的制裁相比，這次措施更具針對性，旨在直接削弱軍方對經濟的控制。這一行動可能會引發古巴政府的強烈反應，並使得美國與古巴之間的緊張關係進一步加劇。此外，這也可能影響到古巴國內的經濟活動，特別是在旅遊業及其他依賴軍方企業的領域。各方觀察者可能會關注此舉是否會促使古巴政府進行政治改革，或是加強其對外部壓力的抵抗。"
+          "analysis": "OpenAI推出Daybreak的舉措反映了當前市場對於主動防禦網絡安全的需求。隨著攻擊手法的日益複雜，企業越來越需要能夠預測和防範潛在威脅的解決方案。Daybreak的成功將取決於其能否有效識別並修補漏洞，並在業界建立信任。此外，這一計畫可能會引發其他科技公司進一步競爭，推動更多創新解決方案的出現。雖然目前沒有其他報導提供補充細節，但未來可能會有其他企業針對類似問題提出不同的技術或策略，進一步擴大市場競爭。"
         },
-        "topic_priority_score": 4,
-        "event_type": "regulation_action",
-        "is_major_update": true,
+        "topic_priority_score": 9,
+        "event_type": "product_launch",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -95,74 +94,111 @@
       },
       {
         "category": "technology",
-        "source_name": "Wired",
-        "title": "CUDA Proves Nvidia Is a Software Company",
-        "link": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
-        "summary": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
-        "published": "Mon, 11 May 2026 10:00:00 +0000",
-        "updated": "Mon, 11 May 2026 10:00:00 +0000",
-        "published_at_utc": "2026-05-11T10:00:00+00:00",
-        "id": "69dd40da8b9e2ea9455fc48c",
+        "source_name": "TechCrunch",
+        "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
+        "link": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
+        "summary": "Five-year old European military drone startup Helsing is close to raising another monster round.",
+        "published": "Mon, 11 May 2026 17:38:32 +0000",
+        "updated": "Mon, 11 May 2026 17:38:32 +0000",
+        "published_at_utc": "2026-05-11T17:38:32+00:00",
+        "id": "https://techcrunch.com/?p=3121198",
         "topic_type": "chips",
         "relevance_score": 17,
         "briefing": {
-          "news_focus": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
-          "news_focus_zh": "Nvidia的CUDA技術顯示出該公司已經不僅僅是一家硬體製造商，而是轉型為一家以軟體為核心的公司。這一發展表明Nvidia在市場中的競爭優勢主要來自其軟體生態系統，而非僅依賴其知名的顯示卡產品。",
-          "background": "Nvidia長期以來以其高效能的顯示卡聞名，特別是在遊戲和人工智慧領域。然而，隨著市場需求的變化，Nvidia開始重視其軟體產品，特別是CUDA，這是一個讓開發者能夠利用其硬體加速計算的平臺。這一轉變反映了科技產業中軟體與硬體融合的趨勢，並且顯示出Nvidia在技術創新和市場定位上的靈活性。",
+          "news_focus": "Five-year old European military drone startup Helsing is close to raising another monster round.",
+          "news_focus_zh": "歐洲軍事無人機初創公司Helsing正在接近完成一輪12億美元的融資，估值達到180億美元。這家公司成立僅五年，受到Spotify創始人Daniel Ek的支持，顯示出其在防務科技領域的潛力和吸引力。",
+          "background": "Helsing成立於2018年，專注於開發先進的軍事無人機技術，這一領域在近年來因地緣政治緊張和軍事需求上升而受到高度關注。隨著各國對無人機技術的需求增加，Helsing的市場潛力也隨之擴大。特別是在歐洲，隨著防務開支的增加，許多國家正在尋求提升其軍事能力，這為Helsing的成長提供了良好的環境。",
           "stakeholders": [
-            "Nvidia",
-            "開發者社群",
-            "Porsche",
-            "消費者",
-            "投資者"
+            "Helsing",
+            "Daniel Ek",
+            "投資者",
+            "軍事機構",
+            "競爭對手"
           ],
-          "analysis": "Nvidia的轉型為軟體公司意味著其未來的增長將更多依賴於軟體服務和生態系統的擴展，而不僅僅是硬體銷售。這樣的策略可能會吸引更多的開發者和企業客戶，進一步鞏固其市場地位。與此同時，Porsche的報導則顯示出另一種企業策略，即專注於核心業務並削減不必要的子公司。這反映了在當前經濟環境中，企業必須靈活調整其業務模式以應對市場挑戰。雖然兩者的焦點不同，但都強調了企業在面對變化時的適應能力和策略調整的重要性。"
+          "analysis": "Helsing的成功融資反映出投資者對軍事科技的高度興趣，尤其是在當前全球安全形勢不穩定的背景下。Daniel Ek的支持不僅為Helsing提供了資金，還可能帶來其在科技領域的專業知識和網絡。未來，Helsing可能會面臨來自其他軍事科技公司的競爭，這些公司也在努力開發創新技術以滿足市場需求。此外，隨著資金的增加，Helsing可能會加速其產品開發和市場擴張，進一步鞏固其在防務科技領域的地位。"
         },
         "topic_priority_score": 10,
         "event_type": "strategic_move",
-        "supporting_sources": [
-          "TechCrunch"
-        ],
-        "supporting_titles": [
-          "Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul"
-        ],
-        "supporting_summaries": [
-          "More than 500 people will be affected by the closures. “We must refocus on our core business,” Porsche CEO and executive chair Michael Leiters said in a statement. \"This is the indispensable foundation for a successful strategic realignment. This forces us to make painful cuts — including our subsidiaries.\""
-        ],
-        "supporting_links": [
-          "https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/"
-        ],
-        "source_count": 2
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       }
     ],
     "politics": [
       {
         "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "Democrats are playing with fire in trying to reclaim tax cuts from Republicans",
-        "link": "https://www.theguardian.com/business/2026/may/11/democrats-tax-cuts-republicans",
-        "summary": "Senator Chris Van Hollen and other Democratic lawmakers are embracing a policy that hardly benefits the middle class Soul-searching within the Democratic party is to be expected after its loss in the 2024 election. Donald Trump’s edge over Kamala Harris in voters’ perceptions of economic competence (perplexing though it now appears following a year of erratic policymaking) was bound to inspire a call to rethink the party platform. Yet the second-guessing is steering the Democrats down a dangerous path to embracing a tax-cutting strategy that risks defeating the project to enable a healthier, more equitable society. Continue reading...",
-        "published": "Mon, 11 May 2026 10:00:51 GMT",
-        "updated": "2026-05-11T10:00:51Z",
-        "published_at_utc": "2026-05-11T10:00:51+00:00",
-        "id": "https://www.theguardian.com/business/2026/may/11/democrats-tax-cuts-republicans",
-        "topic_type": "eu_policy",
-        "relevance_score": 22,
+        "source_name": "The Hindu International",
+        "title": "EU agrees sanctions on West Bank settlers and Hamas leaders",
+        "link": "https://www.thehindu.com/news/international/eu-agrees-sanctions-on-west-bank-settlers-and-hamas-leaders/article70967301.ece",
+        "summary": "The group declined to support stronger measures from some European governments and withheld details, but French Foreign Minister Jean-Noël Barrot said the Ministers had decided to sanction Hamas leaders",
+        "published": "Tue, 12 May 2026 10:44:20 +0530",
+        "updated": "Tue, 12 May 2026 10:44:20 +0530",
+        "published_at_utc": "2026-05-12T05:14:20+00:00",
+        "id": "article-70967301",
+        "topic_type": "diplomacy",
+        "relevance_score": 25,
         "briefing": {
-          "news_focus": "Senator Chris Van Hollen and other Democratic lawmakers are embracing a policy that hardly benefits the middle class Soul-searching within the Democratic party is to be expected after its loss in the 2024 election. Donald Trump’s edge over Kamala Harris in voters’ perceptions of economic competence (perplexing though it now appears following a year of erratic policymaking) was bound to inspire a call to rethink the party platform. Yet the second-guessing is steering the Democrats down a dangerous path to embracing a tax-cutting strategy that risks defeating the project to enable a healthier, more equitable society. Continue reading...",
-          "news_focus_zh": "美國民主黨在2024年選舉失利後，參議員克里斯·范霍倫及其他民主黨立法者正考慮重新評估稅收政策，特別是試圖從共和黨手中奪回稅收減免。儘管這一策略旨在改善中產階級的經濟狀況，但批評者認為這可能會危及民主黨推動更健康、更公平社會的計畫，並可能導致黨內更深層的分歧。",
-          "background": "民主黨在2024年選舉中的失利引發了對其政策的反思，尤其是在經濟表現方面，黨內對於如何重新獲得選民信任的討論愈加激烈。參議員范霍倫的提議是試圖透過稅收減免來吸引中產階級選民，這一策略在過去的選舉中曾被共和黨廣泛使用。然而，這也引發了黨內對於是否應該繼續推動社會公平與經濟正義的辯論，因為這可能與稅收減免的目標相悖。",
+          "news_focus": "The group declined to support stronger measures from some European governments and withheld details, but French Foreign Minister Jean-Noël Barrot said the Ministers had decided to sanction Hamas leaders",
+          "news_focus_zh": "歐盟決定對西岸定居者和哈馬斯領導人實施制裁。儘管一些歐洲國家提議更強硬的措施，但最終未獲得支持。法國外交部長讓-諾埃爾·巴羅表示，外長們已決定對哈馬斯領導人進行制裁。",
+          "background": "近期以色列與哈馬斯之間的衝突加劇，導致西岸地區的暴力事件頻發，這引發了國際社會的關注。歐盟作為一個重要的政治與經濟聯盟，對於中東和平進程的關注持續升溫。歐盟外長在此次會議中強調，極端主義和暴力行為必須承擔後果，這一立場反映了對於以色列和巴勒斯坦局勢的深刻擔憂。",
           "stakeholders": [
-            "民主黨",
-            "共和黨",
-            "中產階級選民",
-            "經濟政策專家",
-            "社會公平倡導者"
+            "歐盟",
+            "以色列政府",
+            "哈馬斯",
+            "法國政府",
+            "巴勒斯坦人"
           ],
-          "analysis": "民主黨內部對於稅收政策的重新評估顯示出其面臨的兩難局面。一方面，試圖通過稅收減免來吸引選民，可能會被視為對中產階級的關注，但另一方面，這一策略可能削弱黨內對於推動社會公平的承諾。批評者擔心，這樣的政策轉變可能會使民主黨失去其核心支持者，並在長期內損害其形象。特別是在經濟不確定性加劇的背景下，選民對於經濟管理的信心可能成為影響未來選舉結果的關鍵因素。民主黨是否能夠找到一個平衡點，將決定其未來的政治走向。"
+          "analysis": "此次制裁決定顯示出歐盟對於以色列定居者在西岸地區的行為以及哈馬斯的立場的強烈反對。參考報導中提到，歐盟外長強調了極端主義和暴力的後果，而以色列則對此舉表示譴責，稱其為“任意”的行為。這表明歐盟在面對以色列的壓力時，仍然試圖維持對巴勒斯坦人權益的支持。未來，這一制裁可能會影響以色列與歐盟之間的外交關係，並引發其他國家對於類似行為的反應。"
         },
-        "topic_priority_score": 9,
-        "event_type": "election_move",
+        "topic_priority_score": 7,
+        "event_type": "diplomatic_move",
+        "supporting_sources": [
+          "BBC World",
+          "Taipei Times"
+        ],
+        "supporting_titles": [
+          "EU agrees sanctions on Israeli settlers over West Bank violence",
+          "Taiwan ‘confident’ in US ties, foreign minister says"
+        ],
+        "supporting_summaries": [
+          "The EU's foreign policy chief said \"extremism and violence carry consequences\", while Israel branded the move \"arbitrary\".",
+          ""
+        ],
+        "supporting_links": [
+          "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
+          "https://www.taipeitimes.com/News/taiwan/archives/2026/05/12/2003857177"
+        ],
+        "source_count": 3
+      },
+      {
+        "category": "politics",
+        "source_name": "SCMP World",
+        "title": "US climber dies in avalanche on Nepal’s Mount Makalu",
+        "link": "https://www.scmp.com/news/asia/south-asia/article/3353272/us-climber-dies-avalanche-nepals-mount-makalu?utm_source=rss_feed",
+        "summary": "An American climber has died in an avalanche on Mount Makalu, officials said on Tuesday, as fatalities mount early in Nepal’s busy spring climbing season. Shelley Johannesen, 53, was killed on Monday while descending from the summit of the world’s fifth-highest peak, expedition organisers said, marking the season’s latest death. David Roubinek, a 38-year-old Czech climber, and three Nepali guides have died in the Himalayas so far this season. Johannesen, co-founder of US-based outfitter Dash...",
+        "published": "Tue, 12 May 2026 09:21:18 +0000",
+        "updated": "Tue, 12 May 2026 09:21:18 +0000",
+        "published_at_utc": "2026-05-12T09:21:18+00:00",
+        "id": "https://www.scmp.com/news/asia/south-asia/article/3353272/us-climber-dies-avalanche-nepals-mount-makalu?utm_source=rss_feed",
+        "topic_type": "diplomacy",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "An American climber has died in an avalanche on Mount Makalu, officials said on Tuesday, as fatalities mount early in Nepal’s busy spring climbing season. Shelley Johannesen, 53, was killed on Monday while descending from the summit of the world’s fifth-highest peak, expedition organisers said, marking the season’s latest death. David Roubinek, a 38-year-old Czech climber, and three Nepali guides have died in the Himalayas so far this season. Johannesen, co-founder of US-based outfitter Dash...",
+          "news_focus_zh": "美國登山者雪莉·約翰內森（Shelley Johannesen）在尼泊爾的馬卡魯峰（Mount Makalu）遭遇雪崩，於周一不幸遇難。這起事件發生在尼泊爾繁忙的春季登山季節初期，隨著登山活動增加，死亡人數也在上升。除了約翰內森外，已有捷克登山者大衛·魯比內克（David Roubinek）及三名尼泊爾向導在本季登山中喪生。",
+          "background": "馬卡魯峰是全球第五高的山峰，吸引了眾多登山者前來挑戰。每年春季，尼泊爾的登山季節都會吸引來自世界各地的登山愛好者，然而，隨著登山活動的增加，事故和死亡事件也時有發生。尼泊爾的登山業對當地經濟至關重要，但安全問題始終是登山活動中的一大挑戰，尤其是在惡劣天氣和雪崩風險較高的情況下。",
+          "stakeholders": [
+            "美國登山者",
+            "尼泊爾政府",
+            "登山業者",
+            "當地向導",
+            "登山協會"
+          ],
+          "analysis": "此次雪崩事件突顯了登山活動中的安全隱患，尤其是在春季登山季節中，隨著越來越多的登山者進入高危險區域，事故風險也隨之增加。各方對於登山安全的關注度提升，可能促使尼泊爾政府和相關機構加強對登山活動的監管和安全措施。登山業者與當地向導的角色也將受到檢視，如何平衡商業利益與登山者的安全將成為未來討論的焦點。此外，隨著死亡人數的上升，可能會引發對於登山許可和安全標準的重新評估。"
+        },
+        "topic_priority_score": 7,
+        "event_type": "diplomatic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -171,423 +207,371 @@
       },
       {
         "category": "politics",
-        "source_name": "BBC Business",
-        "title": "Trump's China visit set to test fragile truce",
-        "link": "https://www.bbc.com/news/articles/c3rz75rgn8zo?at_medium=RSS&at_campaign=rss",
-        "summary": "The first US presidential visit to China in almost 10 years will test a fragile tariff truce.",
-        "published": "Mon, 11 May 2026 09:26:33 GMT",
-        "updated": "Mon, 11 May 2026 09:26:33 GMT",
-        "published_at_utc": "2026-05-11T09:26:33+00:00",
-        "id": "https://www.bbc.com/news/articles/c3rz75rgn8zo#0",
-        "topic_type": "us_politics",
-        "relevance_score": 20,
+        "source_name": "Al Jazeera",
+        "title": "France’s Macron announces $27bn investment in Africa at Kenya summit",
+        "link": "https://www.aljazeera.com/news/2026/5/12/frances-macron-announces-27bn-investment-in-africa-at-kenya-summit?traffic_source=rss",
+        "summary": "Africa Forward summit comes amid France's fading ties with its former African colonies, as Kenya seeks greater trade.",
+        "published": "Tue, 12 May 2026 08:34:20 +0000",
+        "updated": "Tue, 12 May 2026 08:34:20 +0000",
+        "published_at_utc": "2026-05-12T08:34:20+00:00",
+        "id": "https://www.aljazeera.com/?t=1778569959",
+        "topic_type": "diplomacy",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "The first US presidential visit to China in almost 10 years will test a fragile tariff truce.",
-          "news_focus_zh": "美國前總統特朗普即將進行近十年來首度訪問中國，此行將對脆弱的關稅休戰進行考驗。此次訪問的背景是在美中貿易緊張局勢下，雙方在關稅政策上達成的暫時共識，特朗普的行程可能影響未來的貿易談判與雙邊關係。",
-          "background": "美中貿易關係在過去幾年中經歷了劇烈波動，特別是在特朗普任內，兩國之間的關稅政策引發了廣泛的經濟影響。隨著特朗普的訪問，外界關注他是否會重申對中國的貿易立場，或是尋求進一步的合作。此行的背景是雙方在某些領域達成的脆弱共識，然而，這種共識是否能夠持續仍然存在不確定性，特別是在全球經濟不穩定的情況下。",
+          "news_focus": "Africa Forward summit comes amid France's fading ties with its former African colonies, as Kenya seeks greater trade.",
+          "news_focus_zh": "法國總統馬克宏在肯尼亞舉行的非洲前進峰會上宣布將對非洲投資270億美元，旨在重振法國與其前非洲殖民地的關係，並促進貿易。此次峰會的背景是法國與非洲的關係逐漸淡化，肯尼亞則希望加強貿易往來。",
+          "background": "法國在非洲的影響力正面臨挑戰，尤其是在其前殖民地國家中。隨著中國和其他國家在非洲的投資增加，法國需要重新評估其在該地區的外交和經濟策略。肯尼亞作為東非的重要國家，正試圖擴大與外國的貿易關係，並尋求更多的外資來支持其經濟發展。在這樣的背景下，馬克宏的270億美元投資計畫被視為法國重建與非洲關係的重要一步。",
           "stakeholders": [
-            "美國政府",
-            "中國政府",
-            "美國企業",
-            "中國企業",
-            "國際貿易組織"
+            "法國政府",
+            "肯尼亞政府",
+            "非洲國家",
+            "中國",
+            "國際投資者"
           ],
-          "analysis": "特朗普的訪問可能會成為檢驗美中貿易關係的一個重要時刻。若他在訪問中強調合作，可能有助於穩定雙邊關係，進一步促進貿易。然而，若他重申強硬立場，則可能導致關稅政策的重新評估，甚至引發新的貿易摩擦。各方利益關係複雜，企業界希望看到穩定的貿易環境，而政治界則可能因選舉考量而採取不同立場。特朗普的行程能否促進實質對話，將是未來幾周的關鍵觀察點。"
+          "analysis": "馬克宏在峰會上宣布的投資計畫反映了法國對於重振與非洲關係的迫切需求，尤其是在面對中國和其他國家的競爭時。然而，根據參考報導，馬克宏在峰會上對與會者的批評，指出他們的行為缺乏尊重，顯示出他在推動法國利益時的強硬立場。這可能會引發與非洲國家之間的緊張關係，尤其是在他們對法國的期望與實際行動之間存在差距的情況下。各方利益關係的角力將影響未來的投資效果及法國在非洲的長期影響力。"
         },
-        "topic_priority_score": 8,
-        "event_type": "political_signal",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "Disappearances in Mexico involving state at ‘alarming’ rate, says report",
-        "link": "https://www.theguardian.com/world/2026/may/11/disappearances-mexico-involving-state-alarming-rate-iachr-report",
-        "summary": "Exclusive: Human rights group warns of ‘deep collusion’ between criminals and officials in some parts of country State actors are involved in disappearances in Mexico at an “alarming” rate, according to a report from the Inter-American Commission on Human Rights (IACHR). The sweeping investigation, to which the Guardian was given exclusive access, presents a dire picture of the crisis of disappearances in Mexico , where more than 130,000 people have gone missing, mostly in the last 20 years since the government declared its war on drug cartels. Continue reading...",
-        "published": "Mon, 11 May 2026 09:52:44 GMT",
-        "updated": "2026-05-11T09:52:44Z",
-        "published_at_utc": "2026-05-11T09:52:44+00:00",
-        "id": "https://www.theguardian.com/world/2026/may/11/disappearances-mexico-involving-state-alarming-rate-iachr-report",
-        "topic_type": "democracy_autocracy",
-        "relevance_score": 18,
-        "briefing": {
-          "news_focus": "Exclusive: Human rights group warns of ‘deep collusion’ between criminals and officials in some parts of country State actors are involved in disappearances in Mexico at an “alarming” rate, according to a report from the Inter-American Commission on Human Rights (IACHR). The sweeping investigation, to which the Guardian was given exclusive access, presents a dire picture of the crisis of disappearances in Mexico , where more than 130,000 people have gone missing, mostly in the last 20 years since the government declared its war on drug cartels. Continue reading...",
-          "news_focus_zh": "根據美洲人權委員會（IACHR）的一份報告，墨西哥的失踪事件正在以‘驚人的’速度發生，並且國家行為者與犯罪分子之間存在‘深度勾結’。該報告指出，自政府宣戰毒品卡特爾以來，已有超過130,000人失踪，這一危機主要發生在過去20年內。",
-          "background": "墨西哥的失踪問題已成為一個嚴重的人權危機，特別是在政府宣戰毒品卡特爾的背景下。這場戰爭導致了暴力的激增，並使得許多無辜民眾成為受害者。根據IACHR的報告，失踪事件的數量在過去二十年中持續上升，顯示出政府在打擊犯罪方面的無能與腐敗。報告強調，部分國家官員與犯罪組織之間的勾結，使得這一問題更加複雜和難以解決。",
-          "stakeholders": [
-            "墨西哥政府",
-            "美洲人權委員會",
-            "人權組織",
-            "犯罪組織",
-            "受害者家庭"
-          ],
-          "analysis": "該報告揭示了墨西哥政府在處理失踪案件方面的重大失誤，並指出國家機構的腐敗是導致這一危機的根本原因。人權組織對於政府的回應表示失望，認為缺乏有效的調查和懲處機制使得失踪事件屢禁不止。此外，報告中提到的‘深度勾結’暗示了官員與犯罪集團之間的利益交織，這可能使得未來的改革與治理更加困難。各方對於如何解決這一問題的看法存在分歧，政府可能會強調打擊犯罪的必要性，而人權團體則呼籲更透明的調查與問責機制。"
-        },
-        "topic_priority_score": 6,
+        "topic_priority_score": 7,
         "event_type": "security_event",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "supporting_sources": [
+          "Fox News World"
+        ],
+        "supporting_titles": [
+          "Macron takes the stage uninvited at Africa summit to scold crowd for 'total lack of respect'"
+        ],
+        "supporting_summaries": [
+          "French President Emmanuel Macron interrupted a youth-focused session at the Africa Forward Summit in Nairobi, calling the disruption \"a total lack of respect.\""
+        ],
+        "supporting_links": [
+          "https://www.foxnews.com/world/macron-takes-stage-uninvited-africa-summit-scold-crowd-total-lack-respect"
+        ],
+        "source_count": 2
       }
     ],
     "economy": [
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "US Senate expected to confirm Kevin Warsh as next Federal Reserve chair",
-        "link": "https://www.theguardian.com/business/2026/may/11/senate-kevin-warsh-federal-reserve-chair",
-        "summary": "Warsh would succeed outgoing Fed chair Jerome Powell as Trump continues his push to influence the US central bank Sign up for the Breaking News US newsletter email The US Senate is expected to confirm Kevin Warsh this week as chair of the Federal Reserve , as Donald Trump continues his campaign to influence the world’s most important central bank. The Fed’s influence over the economy spans from the job market to mortgage rates, and its every move is carefully scrutinized by investors on Wall Street. Warsh’s confirmation comes at a turbulent time for the central bank, which has fallen under intense scrutiny from Trump for not lowering interest rates. Continue reading...",
-        "published": "Mon, 11 May 2026 08:00:49 GMT",
-        "updated": "2026-05-11T08:00:49Z",
-        "published_at_utc": "2026-05-11T08:00:49+00:00",
-        "id": "https://www.theguardian.com/business/2026/may/11/senate-kevin-warsh-federal-reserve-chair",
-        "topic_type": "interest_rates",
-        "relevance_score": 25,
+        "source_name": "The Guardian World",
+        "title": "UK borrowing costs hit highest since 1998 amid Starmer uncertainty",
+        "link": "https://www.theguardian.com/business/2026/may/12/uk-borrowing-costs-keir-starmer-bond-yields-pound-dollar-labour",
+        "summary": "Bond yields soar and pound falls against dollar as investors brace for potential Labour leadership change Business live – latest updates UK politics live – latest updates Long-term UK borrowing costs have soared to the highest level in nearly three decades while the pound and stocks fell as investors braced for a potential change of leadership, with cabinet ministers urging Keir Starmer to quit . With investors worried about potential changes to the fiscal rigour of Starmer’s government, the yield – in effect the interest rate – on 30-year government bonds jumped 11 basis points to 5.794%, the highest since May 1998. Continue reading...",
+        "published": "Tue, 12 May 2026 09:46:37 GMT",
+        "updated": "2026-05-12T09:46:37Z",
+        "published_at_utc": "2026-05-12T09:46:37+00:00",
+        "id": "https://www.theguardian.com/business/2026/may/12/uk-borrowing-costs-keir-starmer-bond-yields-pound-dollar-labour",
+        "topic_type": "markets",
+        "relevance_score": 23,
         "briefing": {
-          "news_focus": "Warsh would succeed outgoing Fed chair Jerome Powell as Trump continues his push to influence the US central bank Sign up for the Breaking News US newsletter email The US Senate is expected to confirm Kevin Warsh this week as chair of the Federal Reserve , as Donald Trump continues his campaign to influence the world’s most important central bank. The Fed’s influence over the economy spans from the job market to mortgage rates, and its every move is carefully scrutinized by investors on Wall Street. Warsh’s confirmation comes at a turbulent time for the central bank, which has fallen under intense scrutiny from Trump for not lowering interest rates. Continue reading...",
-          "news_focus_zh": "美國參議院預計本週將確認凱文·沃什（Kevin Warsh）擔任聯邦儲備委員會（Fed）主席，接替即將卸任的傑羅姆·鮑威爾（Jerome Powell）。這一任命是在唐納德·特朗普（Donald Trump）持續推動影響美國中央銀行的背景下進行的。聯邦儲備的決策對經濟有深遠影響，從就業市場到抵押貸款利率，市場投資者對其每一步動作都高度關注。",
-          "background": "聯邦儲備委員會是美國的中央銀行，負責制定貨幣政策以促進經濟穩定與增長。近期，特朗普對聯邦儲備的批評主要集中在其未能降低利率上，這使得聯邦儲備在政策決策上面臨更大的壓力。沃什的任命正值經濟增長持平的時期，儘管市場對利率的變動十分敏感，但根據《經濟學人》的報導，當前經濟表現超出悲觀預期，顯示出一定的韌性。",
+          "news_focus": "Bond yields soar and pound falls against dollar as investors brace for potential Labour leadership change Business live – latest updates UK politics live – latest updates Long-term UK borrowing costs have soared to the highest level in nearly three decades while the pound and stocks fell as investors braced for a potential change of leadership, with cabinet ministers urging Keir Starmer to quit . With investors worried about potential changes to the fiscal rigour of Starmer’s government, the yield – in effect the interest rate – on 30-year government bonds jumped 11 basis points to 5.794%, the highest since May 1998. Continue reading...",
+          "news_focus_zh": "英國長期借貸成本達到近三十年來的最高水平，這一情況發生在投資者對工黨領導人基爾·斯塔默（Keir Starmer）可能下台的擔憂中。隨著內閣成員呼籲斯塔默辭職，30年期國債收益率上升了11個基點，達到5.794%，是自1998年以來的最高點。同時，英鎊對美元匯率下跌，股市也出現下滑。",
+          "background": "近期，英國政治局勢不穩定，工黨內部對領導層的質疑加劇，這使得市場對未來政策的預期變得不確定。斯塔默的政府在財政紀律方面的立場受到挑戰，投資者擔心如果發生領導變更，可能會導致財政策略的重大調整。這種不確定性直接影響了國債收益率的上升，反映出市場對政府未來財政策的擔憂。",
           "stakeholders": [
-            "凱文·沃什",
-            "唐納德·特朗普",
-            "聯邦儲備委員會",
-            "市場投資者",
-            "美國經濟"
+            "英國政府",
+            "工黨",
+            "投資者",
+            "市場分析師",
+            "經濟學家"
           ],
-          "analysis": "沃什的確認可能會改變聯邦儲備的政策走向，特別是在利率決策方面。特朗普希望透過沃什的任命來促進更低的利率，以刺激經濟增長，這與目前聯邦儲備的保守立場形成對比。參考報導指出，儘管聯邦儲備正在降低利率，但經濟增長仍然保持穩定，這可能使得沃什面臨兩難局面：一方面需要響應政治壓力，另一方面則需考量經濟實際狀況。未來，市場將密切關注沃什的政策取向及其對經濟的影響。"
+          "analysis": "目前，英國的借貸成本上升反映了市場對政治不穩定的敏感反應。投資者對斯塔默的財政策略感到不安，特別是在內閣成員呼籲其辭職的背景下，這進一步加劇了市場的不安情緒。若斯塔默下台，可能會導致新領導人採取不同的經濟政策，這將影響投資者的信心和市場走向。此外，英鎊的貶值和股市的下滑也顯示出市場對未來經濟環境的擔憂。這一情況可能會促使政府在政策上做出調整，以穩定市場情緒。"
         },
-        "topic_priority_score": 10,
+        "topic_priority_score": 4,
         "event_type": "rate_decision",
-        "supporting_sources": [
-          "The Economist"
-        ],
-        "supporting_titles": [
-          "America’s economy defies gloomy expectations"
-        ],
-        "supporting_summaries": [
-          "As the Federal Reserve cuts interest rates, growth is holding up"
-        ],
-        "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2025/09/14/americas-economy-defies-gloomy-expectations"
-        ],
-        "source_count": 2,
-        "cross_section_refs": [
-          "politics"
-        ]
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       },
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Thinktank calls for ‘double lock’ England private rent cap to ease living costs",
-        "link": "https://www.theguardian.com/business/2026/may/11/ippr-thinktank-double-lock-england-private-rent-cap-living-costs",
-        "summary": "Influential IPPR proposes capping rents at whichever is lower of consumer price inflation or wage growth UK politics live – latest updates One of the thinktanks closest to the Labour government is urging ministers to introduce private sector rent controls in England, as the chancellor weighs up how to ease a surge in living costs caused by the Iran war. The Institute for Public Policy Research (IPPR) has published a paper calling for a rent “double lock”, which would link rent increases to either wages or inflation, depending on which was lower. Continue reading...",
-        "published": "Mon, 11 May 2026 10:07:15 GMT",
-        "updated": "2026-05-11T10:07:15Z",
-        "published_at_utc": "2026-05-11T10:07:15+00:00",
-        "id": "https://www.theguardian.com/business/2026/may/11/ippr-thinktank-double-lock-england-private-rent-cap-living-costs",
+        "source_name": "The Guardian World",
+        "title": "Tax cuts and cost of living help proposed by Labour-linked groups allied to Streeting and Burnham",
+        "link": "https://www.theguardian.com/politics/2026/may/12/tax-cuts-and-cost-of-living-help-proposed-by-labour-linked-groups-allied-to-streeting-and-burnham",
+        "summary": "With Starmer under growing pressure to resign, Growth and Tribune groups put forward ideas for policy revamps UK politics live – latest updates Groups connected to the health secretary, Wes Streeting, and the Greater Manchester mayor, Andy Burnham, have proposed large changes to government policy, giving a sense of how the country may change should either one succeed Keir Starmer. The Labour Growth Group, allied to Streeting, and the Tribune group of Labour MPs, allied to Burnham, have published competing visions for how Britain should be run, including sweeping tax cuts, help with the cost of living and big changes to government machinery. Continue reading...",
+        "published": "Tue, 12 May 2026 09:03:06 GMT",
+        "updated": "2026-05-12T09:03:06Z",
+        "published_at_utc": "2026-05-12T09:03:06+00:00",
+        "id": "https://www.theguardian.com/politics/2026/may/12/tax-cuts-and-cost-of-living-help-proposed-by-labour-linked-groups-allied-to-streeting-and-burnham",
         "topic_type": "inflation",
         "relevance_score": 23,
         "briefing": {
-          "news_focus": "Influential IPPR proposes capping rents at whichever is lower of consumer price inflation or wage growth UK politics live – latest updates One of the thinktanks closest to the Labour government is urging ministers to introduce private sector rent controls in England, as the chancellor weighs up how to ease a surge in living costs caused by the Iran war. The Institute for Public Policy Research (IPPR) has published a paper calling for a rent “double lock”, which would link rent increases to either wages or inflation, depending on which was lower. Continue reading...",
-          "news_focus_zh": "英國智庫IPPR呼籲政府對私營租金實施雙重鎖定，以應對因伊朗戰爭引發的生活成本上漲。該提案建議將租金增長限制在消費者物價通脹或工資增長中較低者，旨在減輕民眾的經濟壓力。此舉正值財政大臣考慮如何應對生活成本激增之際。",
-          "background": "英國目前面臨著因伊朗戰爭引發的能源價格飆升，進而推高生活成本的挑戰。這一情勢使得政府必須考慮如何有效應對通脹壓力。IPPR的提案反映了對租金控制的需求，尤其是在工資增長緩慢的背景下，租金的上漲將進一步加劇家庭的經濟負擔。此提案的提出，顯示出在政治上對於生活成本問題的高度關注，尤其是在即將到來的選舉中，如何平衡經濟政策與民生需求將成為重要議題。",
+          "news_focus": "With Starmer under growing pressure to resign, Growth and Tribune groups put forward ideas for policy revamps UK politics live – latest updates Groups connected to the health secretary, Wes Streeting, and the Greater Manchester mayor, Andy Burnham, have proposed large changes to government policy, giving a sense of how the country may change should either one succeed Keir Starmer. The Labour Growth Group, allied to Streeting, and the Tribune group of Labour MPs, allied to Burnham, have published competing visions for how Britain should be run, including sweeping tax cuts, help with the cost of living and big changes to government machinery. Continue reading...",
+          "news_focus_zh": "英國工黨內部的兩個團體，分別是與衛生大臣Wes Streeting相關的成長小組和與大曼徹斯特市長Andy Burnham相關的Tribune小組，提出了對政府政策的大幅改變建議，這反映出若Streeting或Burnham接替Keir Starmer，英國可能會發生的變化。這些提案包括大規模的減稅、生活成本援助以及政府機構的重大改革，顯示出工黨內部對未來政策的不同願景。",
+          "background": "目前，英國工黨面臨內部壓力，尤其是對黨魁Keir Starmer的領導能力的質疑。隨著生活成本上升和經濟挑戰，工黨內部的不同派系開始提出各自的政策建議，以吸引選民支持。成長小組主張通過減稅來刺激經濟，而Tribune小組則強調社會福利和生活成本援助的重要性。這些提案不僅反映了當前的經濟環境，也顯示出工黨內部對未來方向的不同看法。",
           "stakeholders": [
-            "英國政府",
-            "IPPR",
-            "房東",
-            "租客",
-            "經濟學家"
+            "Wes Streeting",
+            "Andy Burnham",
+            "Keir Starmer",
+            "工黨成長小組",
+            "Tribune小組"
           ],
-          "analysis": "IPPR的提案可能會引發政府內部的不同聲音。一方面，支持者認為這是緩解生活成本壓力的必要措施，尤其是在通脹高企的情況下，限制租金增長將有助於保護低收入家庭。另一方面，反對者可能擔心租金管制會抑制市場供應，進而影響房地產投資和建設，最終可能導致租金上漲的惡性循環。此外，根據Nikkei Asia的報導，財政政策的應對可能會加劇通脹，這意味著政府在制定政策時需謹慎考量各種經濟指標的影響。The Economist則指出，全球通脹的上升可能會加劇這一問題，政府的應對策略需在控制通脹與促進經濟增長之間取得平衡。"
+          "analysis": "在這一背景下，Streeting和Burnham的提案代表了工黨內部的不同利益和策略。Streeting的成長小組主張減稅，可能吸引中產階級選民，意圖在經濟復甦中獲得支持；而Burnham的Tribune小組則更關注社會福利，可能會吸引低收入選民和工會的支持。這種內部競爭可能會導致工黨在未來的選舉中出現分歧，影響其整體競選策略。參考報導《經濟學人》提到的對於財富稅的討論，雖未直接提及這兩個小組，但反映出對於稅收政策的不同看法，可能會成為未來政策辯論的焦點。"
         },
         "topic_priority_score": 9,
-        "event_type": "inflation_data",
+        "event_type": "macro_signal",
         "supporting_sources": [
-          "Nikkei Asia",
           "The Economist"
         ],
         "supporting_titles": [
-          "Fiscal policy response to Iran war risks worsening inflation: BIS chief",
-          "How high could global inflation go?"
+          "Don’t tax wealth"
         ],
         "supporting_summaries": [
-          "",
-          "With luck, the Iran war won’t cause a recession. But the surge in energy prices will push up the cost of living"
+          "Even the most sophisticated arguments in favour of doing so make no sense"
         ],
         "supporting_links": [
-          "https://asia.nikkei.com/editor-s-picks/interview/fiscal-policy-response-to-iran-war-risks-worsening-inflation-bis-chief",
-          "https://www.economist.com/finance-and-economics/2026/03/23/how-high-could-global-inflation-go"
+          "https://www.economist.com/finance-and-economics/2025/10/02/dont-tax-wealth"
         ],
-        "source_count": 3
+        "source_count": 2
       },
       {
         "category": "economy",
-        "source_name": "BBC Business",
-        "title": "Oil prices jump after Trump dismisses Iran proposal to end war",
-        "link": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
-        "summary": "The Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments.",
-        "published": "Mon, 11 May 2026 09:01:41 GMT",
-        "updated": "Mon, 11 May 2026 09:01:41 GMT",
-        "published_at_utc": "2026-05-11T09:01:41+00:00",
-        "id": "https://www.bbc.com/news/articles/ckgp4ev4yg4o#0",
-        "topic_type": "energy_markets",
-        "relevance_score": 19,
+        "source_name": "The Guardian Business",
+        "title": "Buyers of Liza Minnelli memoir claim it was not signed by hand",
+        "link": "https://www.theguardian.com/music/2026/may/12/liza-minnelli-memoir-signed-by-hand-signatures-autopen",
+        "summary": "Premium editions of Kids, Wait Till You Hear This! cost up to $250 but some say signatures are unnaturally identical Liza Minnelli fans who bought signed copies of her memoir are seeking refunds because they believe her signature is fake. Copies of Kids, Wait Till You Hear This ! by the American 80-year-old singer were marketed around the world as “hand-signed collectibles”, with premium editions costing up to $250 (£185). Continue reading...",
+        "published": "Tue, 12 May 2026 07:00:18 GMT",
+        "updated": "2026-05-12T07:00:18Z",
+        "published_at_utc": "2026-05-12T07:00:18+00:00",
+        "id": "https://www.theguardian.com/music/2026/may/12/liza-minnelli-memoir-signed-by-hand-signatures-autopen",
+        "topic_type": "markets",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "The Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments.",
-          "news_focus_zh": "在特朗普駁回伊朗提出的結束戰爭提議後，霍爾木茲海峽的航道實質上被封閉，這對全球能源運輸造成了嚴重干擾，導致油價大幅上漲。",
-          "background": "霍爾木茲海峽是全球最重要的石油運輸通道之一，約有五分之一的全球石油貿易經過此地。近期因伊朗與美國之間的緊張關係加劇，導致該地區的安全形勢惡化，進一步影響了油價。特朗普的決策使得原本就不穩定的局勢更加複雜，並直接影響到全球能源市場的供應鏈。此外，隨著油價上漲，航空業也受到波及，許多航空公司面臨更高的燃料成本，進一步影響其經營狀況。",
+          "news_focus": "Premium editions of Kids, Wait Till You Hear This! cost up to $250 but some say signatures are unnaturally identical Liza Minnelli fans who bought signed copies of her memoir are seeking refunds because they believe her signature is fake. Copies of Kids, Wait Till You Hear This ! by the American 80-year-old singer were marketed around the world as “hand-signed collectibles”, with premium editions costing up to $250 (£185). Continue reading...",
+          "news_focus_zh": "Liza Minnelli的回憶錄《Kids, Wait Till You Hear This!》的買家對於其所謂的手寫簽名提出質疑，認為簽名並非由Minnelli本人親自簽署。這些簽名版的收藏品在全球市場上以高達250美元的價格銷售，然而，買家們發現簽名之間的相似度過高，因而要求退款。",
+          "background": "Liza Minnelli是一位知名的美國歌手和演員，其回憶錄的發行吸引了眾多粉絲的關注。這本書的高價位和被標示為“手簽收藏品”的特性，使得其市場需求上升。然而，隨著消費者對於簽名真偽的質疑，這一市場的信任度受到挑戰。手簽商品在收藏市場中通常具有較高的價值，消費者對於其真實性有著極高的期待，這也使得一旦出現質疑，可能引發大規模的退款潮。",
           "stakeholders": [
-            "特朗普政府",
-            "伊朗政府",
-            "全球能源市場",
-            "航空公司",
-            "可再生能源企業"
+            "Liza Minnelli",
+            "書籍出版商",
+            "消費者",
+            "收藏品市場",
+            "經銷商"
           ],
-          "analysis": "此次事件中，特朗普的回應對伊朗的提議表示拒絕，顯示出美國對於中東政策的強硬立場，這可能會導致該地區局勢的進一步惡化。根據參考報導，霍爾木茲海峽的封閉不僅影響了油價，還導致航空業如Spirit Airlines等公司因燃料成本上升而面臨經營困難，甚至導致其倒閉。這顯示出能源價格的波動對其他產業的連鎖反應。此外，根據《經濟學人》的報導，隨著傳統能源的危機，對可再生能源的需求可能會因此上升，這可能成為未來能源市場的一個重要趨勢。"
+          "analysis": "目前，買家對於簽名的真實性表示懷疑，這可能會對Liza Minnelli的品牌形象造成負面影響。若這些簽名被證實為偽造，將不僅影響到本書的銷售，還可能對未來的簽名商品市場造成衝擊。此事件也突顯了在高價商品中，消費者對於真實性和稀有性的重視。雖然目前尚未有官方回應，但若未來有進一步的調查或證據出現，可能會導致法律行動或更廣泛的市場反應，進一步影響相關的出版商和經銷商的信譽。"
         },
-        "topic_priority_score": 8,
-        "event_type": "energy_supply_move",
-        "supporting_sources": [
-          "The Guardian Business",
-          "The Economist"
-        ],
-        "supporting_titles": [
-          "Air travel was already miserable. Now we get to pay more for it! | Dave Schilling",
-          "Renewables are shining. The Iran war amplifies their appeal"
-        ],
-        "supporting_summaries": [
-          "Spirit Airlines helped turn flying into a fee-based nightmare. Now it’s gone, and fuel prices are soaring Forgive me for not mourning last week’s demise of Spirit Airlines, the company responsible for making flying absolutely terrible. Due to rising expenses and billions of dollars in debt, Spirit shut down abruptly last Saturday, stranding thousands of customers who were unaware that an entire business meant to transport them through the sky was about to shutter for good. Spirit was struggling for years , but it all got so much worse thanks to the soaring cost of jet fuel caused by the war in Iran and the crisis in the strait of Hormuz that halted the shipment of oil. It was bad enough being the country’s most ridiculed mode of conveyance outside of the Segway. But now it costs even more to suck that badly. Dave Schilling is a Los Angeles-based writer and humorist Continue reading...",
-          "Two new reports are a must-read of energy-starved governments"
-        ],
-        "supporting_links": [
-          "https://www.theguardian.com/commentisfree/2026/may/09/spirit-airlines-air-travel",
-          "https://www.economist.com/finance-and-economics/2026/04/23/renewables-are-shining-the-iran-war-amplifies-their-appeal"
-        ],
-        "source_count": 3
+        "topic_priority_score": 4,
+        "event_type": "market_repricing",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
-        "title": "How Hong Kong could ease its ‘positive problem’ of full metals warehouses",
-        "link": "https://www.scmp.com/business/commodities/article/3353057/how-hong-kong-could-ease-its-positive-problem-full-metals-warehouses?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-11T00:00:23+00:00",
+        "title": "TikTok launches £3.99 subscription for no ads in UK",
+        "link": "https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Technology",
+        "published_at_utc": "2026-05-11T16:05:39+00:00",
         "relevance_score": 16
       },
       {
-        "title": "TSMC to remain top Apple chipmaker despite reported Intel deal: Experts",
-        "link": "https://www.taipeitimes.com/News/biz/archives/2026/05/11/2003857095",
-        "source_name": "Taipei Times",
-        "published_at_utc": "2026-05-11T00:00:00+00:00",
+        "title": "TikTok launches an ad-free subscription plan in the UK",
+        "link": "https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-11T14:05:47+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "Ilya Sutskever Stands by His Role in Sam Altman’s OpenAI Ouster: ‘I Didn’t Want It to Be Destroyed’",
+        "link": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-05-11T23:51:35+00:00",
         "relevance_score": 15
       },
       {
-        "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-        "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-10T20:40:41+00:00",
+        "title": "Linux bitten by second severe vulnerability in as many weeks",
+        "link": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-05-11T22:28:19+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Rise of Anthropic's Mythos spurs Japan to bolster cybersecurity on infrastructure",
+        "link": "https://asia.nikkei.com/spotlight/cybersecurity/rise-of-anthropic-s-mythos-spurs-japan-to-bolster-cybersecurity-on-infrastructure",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
+        "relevance_score": 15
+      },
+      {
+        "title": "Here’s what Mira Murati’s AI company is up to",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-05-11T22:19:15+00:00",
         "relevance_score": 13
       },
       {
-        "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
-        "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-10T15:34:25+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Keyboard Shortcuts I Learned From My Cat",
-        "link": "https://www.wired.com/story/keyboard-shortcuts-i-learned-from-my-cat/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-05-11T09:30:00+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "The 19 Most Exciting Cars at the Beijing Auto Show 2026",
-        "link": "https://www.wired.com/story/most-exciting-cars-at-beijing-auto-show-auto-china-2026/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-05-09T10:00:00+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "There’s a Long-Shot Proposal to Protect California Workers From AI",
-        "link": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-05-08T15:00:00+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "How Nvidia’s Corning pact shines light on China’s dominant role in global fibre supply",
-        "link": "https://www.scmp.com/tech/tech-trends/article/3352907/how-nvidias-corning-pact-shines-light-chinas-dominant-role-global-fibre-supply?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-08T13:00:06+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "What I saw at the Musk-OpenAI trial: petty billionaires, protests and a stern judge",
-        "link": "https://www.theguardian.com/technology/2026/may/09/elon-musk-sam-altman-openai-trial",
+        "title": "‘A consistent pattern of lying’: Musk v OpenAI trial exposes what insiders think of Sam Altman",
+        "link": "https://www.theguardian.com/us-news/2026/may/11/musk-v-openai-altman-trial",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-09T16:00:01+00:00",
-        "relevance_score": 9
+        "published_at_utc": "2026-05-11T22:01:44+00:00",
+        "relevance_score": 13
       },
       {
-        "title": "Nvidia has already committed $40B to equity AI deals this year",
-        "link": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-09T14:43:30+00:00",
-        "relevance_score": 9
+        "title": "Palantir’s true believers are wearing this jacket",
+        "link": "https://www.theverge.com/report/928026/palantir-chore-coat",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-05-11T18:26:04+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Three things in AI to watch, according to a Nobel-winning economist",
+        "link": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+        "source_name": "MIT Technology Review",
+        "published_at_utc": "2026-05-11T17:35:12+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Texas sues Netflix for advertising ‘bait and switch’ and spying",
+        "link": "https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-05-11T17:04:22+00:00",
+        "relevance_score": 13
       }
     ],
     "politics": [
       {
-        "title": "US Senate expected to confirm Kevin Warsh as next Federal Reserve chair",
-        "link": "https://www.theguardian.com/business/2026/may/11/senate-kevin-warsh-federal-reserve-chair",
+        "title": "Three-day ceasefire ends with fresh wave of Russian attacks on Ukraine – Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/may/12/europe-defence-ukraine-russia-hungary-latest-news-updates",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-11T08:00:49+00:00",
+        "published_at_utc": "2026-05-12T10:07:17+00:00",
         "relevance_score": 22
       },
       {
-        "title": "Ukraine reports Russian attacks and battlefield clashes despite ceasefire",
-        "link": "https://www.thehindu.com/news/international/ukraine-reports-russian-attacks-and-battlefield-clashes-despite-ceasefire/article70964916.ece",
+        "title": "China’s Foreign Minister to skip BRICS Delhi meet for ‘scheduling reasons’",
+        "link": "https://www.thehindu.com/news/international/chinas-foreign-minister-to-skip-brics-delhi-meet-for-scheduling-reasons/article70968165.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-11T09:25:27+00:00",
+        "published_at_utc": "2026-05-12T05:21:36+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Labour MP in seat eyed by Burnham allies says she will not stand aside",
+        "link": "https://www.theguardian.com/politics/2026/may/12/labour-mp-seat-burnham-allies-not-stand-aside-marie-rimmer",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-05-12T09:07:34+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Eyeing migrant returns, EU pushes to revive Syria ties",
-        "link": "https://www.thehindu.com/news/international/eyeing-migrant-returns-eu-pushes-to-revive-syria-ties/article70964733.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-11T07:30:21+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "UK’s Keir Starmer battles for political survival after election defeat",
-        "link": "https://www.aljazeera.com/news/2026/5/11/uks-keir-starmer-faces-likely-challenge-following-labours-election-defeat?traffic_source=rss",
+        "title": "Live: First UK minister quits amid calls for PM Starmer’s resignation",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/5/12/live-first-uk-minister-resigns-amid-calls-for-pm-stamers-resignation?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-11T07:12:28+00:00",
+        "published_at_utc": "2026-05-12T09:02:15+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Iran responds to U.S. ceasefire proposal but Trump rejects it as ‘unacceptable’",
-        "link": "https://www.thehindu.com/news/international/iran-responds-to-us-ceasefire-proposal-but-trump-rejects-it-as-unacceptable/article70963484.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-11T01:47:03+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Under-threat UK PM Starmer vows to prove ‘doubters’ wrong",
-        "link": "https://www.scmp.com/news/world/europe/article/3353163/under-threat-uk-pm-starmer-vows-prove-doubters-wrong?utm_source=rss_feed",
+        "title": "Starmer is fighting to stay in power. Here’s what could happen",
+        "link": "https://www.scmp.com/news/world/europe/article/3353255/starmer-fighting-stay-power-heres-what-could-happen?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-05-11T10:45:39+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-05-12T08:04:38+00:00",
+        "relevance_score": 20
       },
       {
-        "title": "Keir Starmer vows to ‘prove doubters wrong’ as he tries to avert leadership challenge – UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-11T10:41:44+00:00",
-        "relevance_score": 18
+        "title": "Key events in ties among United States, China and Taiwan",
+        "link": "https://www.thehindu.com/news/international/key-events-in-ties-between-the-united-states-china-and-taiwan/article70968350.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-05-12T06:02:58+00:00",
+        "relevance_score": 20
       },
       {
-        "title": "What did Keir Starmer say in ‘last chance’ speech to save his premiership?",
-        "link": "https://www.theguardian.com/politics/2026/may/11/what-did-keir-starmer-say-in-labour-leadership-speech",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-11T10:39:14+00:00",
-        "relevance_score": 18
+        "title": "UAE attacked Iran last month: WSJ",
+        "link": "https://www.thehindu.com/news/international/uae-attacked-iran-last-month-wsj/article70968355.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-05-12T05:22:08+00:00",
+        "relevance_score": 20
       },
       {
-        "title": "Former Qatar PM: Netanyahu using Iran war to reshape Middle East",
-        "link": "https://www.aljazeera.com/news/2026/5/11/former-qatar-pm-netanyahu-using-iran-war-to-reshape-middle-east?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-11T10:37:19+00:00",
-        "relevance_score": 18
+        "title": "EU rejects Putin’s idea of role for ex-German leader in future security talks",
+        "link": "https://www.scmp.com/news/world/europe/article/3353225/eu-rejects-putins-idea-role-ex-german-leader-future-security-talks?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-12T05:00:00+00:00",
+        "relevance_score": 20
       },
       {
-        "title": "Taiwan civilians sharpen self-defence skills ahead of Trump-Xi summit",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/11/taiwan-civilians-sharpen-self-defence-skills-ahead-of-trump-xi-summit?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-11T10:36:53+00:00",
-        "relevance_score": 18
+        "title": "U.S.-Iran ceasefire on ‘life support’, says Trump",
+        "link": "https://www.thehindu.com/news/international/us-iran-ceasefire-on-life-support-says-trump/article70967185.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-05-12T02:44:11+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Taiwan ‘confident’ in US ties, foreign minister says",
+        "link": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/12/2003857177",
+        "source_name": "Taipei Times",
+        "published_at_utc": "2026-05-12T00:00:00+00:00",
+        "relevance_score": 19
       }
     ],
     "economy": [
       {
-        "title": "UK government borrowing costs rise as pressure mounts on Starmer, and oil price jumps – business live",
-        "link": "https://www.theguardian.com/business/live/2026/may/11/uk-economy-job-losses-iran-war-oil-pound-bonds-politics-starmer-live-updates",
+        "title": "UK long-term borrowing costs hit highest since 1998 as Starmer faces pressure to stand down – business live",
+        "link": "https://www.theguardian.com/business/live/2026/may/12/uk-bond-yields-borrowing-costs-pound-falls-oil-inflation-live-updates",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-11T10:18:37+00:00",
-        "relevance_score": 27
+        "published_at_utc": "2026-05-12T10:08:21+00:00",
+        "relevance_score": 21
       },
       {
-        "title": "China’s ChiNext Index up 3.5% to highest level since 2015 as semiconductor rally broadens",
-        "link": "https://www.scmp.com/business/markets/article/3353091/hong-kong-chip-stocks-extend-their-rally-they-ride-global-semiconductor-wave?utm_source=rss_feed",
+        "title": "UK households cut back spending at fastest rate in 16 months, Barclays says",
+        "link": "https://www.theguardian.com/business/2026/may/12/uk-households-cut-spending-barclays-credit-card-iran-war",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-12T06:40:42+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "U.S. issues new sanctions over Iran’s oil shipments to China",
+        "link": "https://www.thehindu.com/news/international/us-issues-new-sanctions-over-irans-oil-shipments-to-china/article70968108.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-05-12T01:42:02+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "China should stop hoarding food and fertiliser, says former World Bank chief",
+        "link": "https://www.bbc.com/news/articles/cwy2rnyg50zo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-05-12T08:30:52+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "‘Art of the deal’: UK telecoms exit fits Li family’s trademark timing for selling at top",
+        "link": "https://www.scmp.com/business/banking-finance/article/3353185/art-deal-uk-telecoms-exit-fits-li-familys-trademark-timing-selling-top?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-11T04:03:42+00:00",
+        "published_at_utc": "2026-05-11T23:00:13+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Haggling prices and chasing debts - tradespeople hit with cost of living headache",
-        "link": "https://www.bbc.com/news/articles/c4gd4nl23rro?at_medium=RSS&at_campaign=rss",
+        "title": "Ovo energy customers urged not to panic as takeover planned",
+        "link": "https://www.bbc.com/news/articles/cn4pl91npjdo?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC Business",
-        "published_at_utc": "2026-05-11T05:56:21+00:00",
-        "relevance_score": 17
+        "published_at_utc": "2026-05-11T15:39:32+00:00",
+        "relevance_score": 19
       },
       {
-        "title": "Why the UAE’s Opec exit spells the beginning of the end of Gulf unity",
-        "link": "https://www.scmp.com/opinion/world-opinion/article/3352666/why-uaes-opec-exit-spells-beginning-end-gulf-unity?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-05-10T21:30:05+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Rental yields, redevelopment gains drive home sales in Hong Kong’s To Kwa Wan",
-        "link": "https://www.scmp.com/business/article/3353054/rental-yields-redevelopment-gains-drive-home-sales-hong-kongs-kwa-wan?utm_source=rss_feed",
+        "title": "Emerging markets rebound on inflows as Xi-Trump talks eyed for momentum",
+        "link": "https://www.scmp.com/business/money/money-news/article/3353232/us583-billion-flows-back-emerging-markets-geopolitical-panic-blows-over?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-10T12:25:31+00:00",
-        "relevance_score": 15
+        "published_at_utc": "2026-05-12T06:11:00+00:00",
+        "relevance_score": 18
       },
       {
-        "title": "Advisers urge JP Morgan investors to vote to split chair and CEO positions",
-        "link": "https://www.theguardian.com/business/2026/may/10/advisers-urge-jp-morgan-investors-to-vote-to-split-chair-and-ceo-positions",
+        "title": "Seven-day weeks and ‘debt bondage’: China’s first electric car plant in Europe mired in allegations of worker abuse",
+        "link": "https://www.theguardian.com/global-development/2026/may/12/china-first-electric-car-plant-europe-allegations-worker-abuse",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-10T12:00:25+00:00",
-        "relevance_score": 15
+        "published_at_utc": "2026-05-12T05:00:15+00:00",
+        "relevance_score": 18
       },
       {
-        "title": "Fiscal policy response to Iran war risks worsening inflation: BIS chief",
-        "link": "https://asia.nikkei.com/editor-s-picks/interview/fiscal-policy-response-to-iran-war-risks-worsening-inflation-bis-chief",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 15
-      },
-      {
-        "title": "Get back: Beatles’ Apple Corps to turn former London base into seven-storey visitor attraction",
-        "link": "https://www.theguardian.com/music/2026/may/11/beatles-apple-corps-former-london-base-seven-storey-visitor-attraction",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-11T07:00:48+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "HSBC profit flat as Middle East provisions offset wealth growth",
-        "link": "https://www.scmp.com/business/banking-finance/article/3352456/hsbc-profit-flat-middle-east-provisions-offset-wealth-growth?utm_source=rss_feed",
+        "title": "Chinese chip pioneer calls for focus on ‘pragmatic breakthroughs’ over chasing 2nm hype",
+        "link": "https://www.scmp.com/tech/big-tech/article/3353188/chinese-chip-pioneer-calls-focus-pragmatic-breakthroughs-over-chasing-2nm-hype?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-05T06:06:17+00:00",
-        "relevance_score": 13
+        "published_at_utc": "2026-05-11T23:30:06+00:00",
+        "relevance_score": 18
       },
       {
-        "title": "US investors cite 3 ways Japanese equities can unlock more value",
-        "link": "https://asia.nikkei.com/business/markets/equities/us-investors-cite-3-ways-japanese-equities-can-unlock-more-value",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 13
+        "title": "BuzzFeed sold to Byron Allen, who will take over as CEO in $120m deal",
+        "link": "https://www.theguardian.com/business/2026/may/11/buzzfeed-digital-media-deal-byron-allen",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-11T22:43:25+00:00",
+        "relevance_score": 17
       }
     ]
   },
