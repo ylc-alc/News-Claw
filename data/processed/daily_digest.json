@@ -1,20 +1,20 @@
 {
-  "generated_at_utc": "2026-05-13T10:13:00.374410+00:00",
+  "generated_at_utc": "2026-05-14T10:06:11.792741+00:00",
   "summary": {
-    "total_raw_items": 1076,
-    "total_deduped_items": 1053,
+    "total_raw_items": 1064,
+    "total_deduped_items": 1043,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "chips",
+        "cybersecurity",
         "ai",
-        "ai"
+        "social_media"
       ],
       "politics": [
         "diplomacy",
         "diplomacy",
-        "diplomacy"
+        "us_china_relations"
       ],
       "economy": [
         "sanctions",
@@ -22,37 +22,37 @@
         "interest_rates"
       ]
     },
-    "multi_source_selected_count": 5
+    "multi_source_selected_count": 4
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "The Guardian Business",
-        "title": "Nvidia’s Jensen Huang joins Trump as tech dominates China trip",
-        "link": "https://www.theguardian.com/technology/2026/may/13/nvidia-jensen-huang-joins-trump-as-tech-dominates-china-trip",
-        "summary": "Invitation to be part of group including Elon Musk and Tim Cook highlights American AI and tech ambitions The billionaire chief executive of the chipmaker Nvidia, Jensen Huang, has joined Donald Trump’s China delegation after a reported last-minute invitation, highlighting the US’s AI and tech ambitions. Huang will join a roster of US bosses including the Tesla chief executive and X owner, Elon Musk, the Apple chief executive, Tim Cook, and Goldman Sachs’s David Solomon at Trump’s 36-hour meeting with the Chinese president, Xi Jinping. Continue reading...",
-        "published": "Wed, 13 May 2026 07:41:26 GMT",
-        "updated": "2026-05-13T07:41:26Z",
-        "published_at_utc": "2026-05-13T07:41:26+00:00",
-        "id": "https://www.theguardian.com/technology/2026/may/13/nvidia-jensen-huang-joins-trump-as-tech-dominates-china-trip",
-        "topic_type": "chips",
+        "source_name": "Wired",
+        "title": "Your iPhone Gets Stolen. Then the Hacking Begins",
+        "link": "https://www.wired.com/story/your-iphone-gets-stolen-then-the-hacking-begins/",
+        "summary": "A bustling underground ecosystem is providing criminals with the tools to unlock iPhones—and wage phishing attacks against their contacts to access bank accounts and more.",
+        "published": "Thu, 14 May 2026 10:00:00 +0000",
+        "updated": "Thu, 14 May 2026 10:00:00 +0000",
+        "published_at_utc": "2026-05-14T10:00:00+00:00",
+        "id": "6a0339f22a6c5e7b8bd88f64",
+        "topic_type": "cybersecurity",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "Invitation to be part of group including Elon Musk and Tim Cook highlights American AI and tech ambitions The billionaire chief executive of the chipmaker Nvidia, Jensen Huang, has joined Donald Trump’s China delegation after a reported last-minute invitation, highlighting the US’s AI and tech ambitions. Huang will join a roster of US bosses including the Tesla chief executive and X owner, Elon Musk, the Apple chief executive, Tim Cook, and Goldman Sachs’s David Solomon at Trump’s 36-hour meeting with the Chinese president, Xi Jinping. Continue reading...",
-          "news_focus_zh": "Nvidia的首席執行官黃仁勳受邀參加唐納德·特朗普的中國代表團，與特斯拉的埃隆·馬斯克、蘋果的蒂姆·庫克及高盛的戴維·所羅門等美國科技領袖一同出席。此次會議將持續36小時，重點在於美國在人工智慧及科技領域的雄心，並與中國國家主席習近平進行會談。",
-          "background": "美中兩國在科技領域的競爭日益激烈，特別是在人工智慧和半導體產業。美國政府對中國的科技發展持謹慎態度，並試圖透過高層會議加強與中國的對話。此次會議的背景是美國希望在全球科技競爭中保持領先地位，並尋求與中國達成某種程度的合作或理解，以減少貿易摩擦和技術衝突。",
+          "news_focus": "A bustling underground ecosystem is providing criminals with the tools to unlock iPhones—and wage phishing attacks against their contacts to access bank accounts and more.",
+          "news_focus_zh": "近期報導指出，隨著iPhone被盜事件的增加，犯罪分子利用地下生態系統獲得解鎖iPhone的工具，並對受害者的聯絡人發起網路釣魚攻擊，以進一步獲取銀行帳戶等敏感資訊。這一現象顯示出手機盜竊後的後續風險，對用戶的財務安全構成威脅。",
+          "background": "隨著智能手機的普及，iPhone成為了許多用戶的首選，然而其高價值也使其成為盜竊的目標。地下市場的興起使得犯罪分子能夠輕易獲得解鎖工具，這不僅促進了手機盜竊的風潮，也使得受害者面臨更大的風險。根據報導，這些犯罪分子不僅限於盜取手機，還會利用受害者的社交網絡進行網路釣魚，進一步侵害其財務安全，這一行為的增長引發了社會對手機安全的廣泛關注。",
           "stakeholders": [
-            "Nvidia",
-            "Tesla",
-            "Apple",
-            "Goldman Sachs",
-            "美國政府"
+            "手機製造商",
+            "用戶",
+            "執法機構",
+            "網路安全公司",
+            "地下市場犯罪分子"
           ],
-          "analysis": "此次會議的參與者均為美國科技界的重要人物，顯示出美國對於中國市場的重視及其在全球科技戰略中的地位。黃仁勳的參與可能代表著Nvidia在中國市場的擴展意圖，特別是在AI技術的應用上。特朗普與習近平的會談將可能涉及科技合作、貿易政策及市場准入等議題。各方利益關係複雜，特朗普可能希望利用這些科技領袖的影響力來促進美中之間的經濟合作，但同時也面臨來自國內對中國政策的壓力。此行的結果將對未來美中科技關係及全球科技市場產生深遠影響。"
+          "analysis": "這一事件突顯了科技進步與犯罪活動之間的矛盾。對於手機製造商而言，如何加強設備的安全性以防止被盜及後續的網路攻擊成為一大挑戰。用戶則需要提高警覺，對於可疑的聯絡人訊息保持警惕。此外，執法機構也面臨著打擊這一地下生態系統的壓力，因為這些犯罪行為不僅影響個人用戶，也對整體社會的安全構成威脅。未來，可能會出現更多針對手機安全的政策和技術創新，以應對這一日益嚴重的問題。"
         },
-        "topic_priority_score": 10,
-        "event_type": "strategic_move",
+        "topic_priority_score": 9,
+        "event_type": "regulation_action",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -61,237 +61,217 @@
       },
       {
         "category": "technology",
-        "source_name": "The Guardian Business",
-        "title": "Sam Altman defends OpenAI in courtroom showdown with Elon Musk",
-        "link": "https://www.theguardian.com/technology/2026/may/12/sam-altman-openai-trial-elon-musk",
-        "summary": "The OpenAI chief rejects claims he deceived Elon Musk as high-stakes AI trial nears its end Sign up for the Breaking News US newsletter email The OpenAI CEO, Sam Altman , took the stand on Tuesday to defend himself and his company against a lawsuit by Elon Musk . Altman is set to be one of the final witnesses in the trial, which has pitted two of the tech industry’s most powerful men against each other in a dramatic courtroom showdown. Musk has accused Altman and OpenAI of breaking the AI firm’s founding agreement by restructuring it into a for-profit enterprise, alleging that Altman essentially swindled him into co-founding the company and providing tens of millions in financial backing. Musk also claims Altman unjustly enriched himself in the process and is seeking the CEO’s removal from OpenAI, the redistribution of $134bn to the firm’s non-profit and the undoing of its for-profit conversion. Continue reading...",
-        "published": "Tue, 12 May 2026 20:48:15 GMT",
-        "updated": "2026-05-12T20:48:15Z",
-        "published_at_utc": "2026-05-12T20:48:15+00:00",
-        "id": "https://www.theguardian.com/technology/2026/may/12/sam-altman-openai-trial-elon-musk",
+        "source_name": "The Hindu International",
+        "title": "What is the OpenAI criminal investigation about? | Explained",
+        "link": "https://www.thehindu.com/sci-tech/technology/what-is-the-openai-criminal-investigation-about-explained/article70976866.ece",
+        "summary": "Two mass shootings — one in the U.S. and one in Canada — have brought to light the use of OpenAI’s ChatGPT in public killings",
+        "published": "Thu, 14 May 2026 11:31:46 +0530",
+        "updated": "Thu, 14 May 2026 11:31:46 +0530",
+        "published_at_utc": "2026-05-14T06:01:46+00:00",
+        "id": "article-70976866",
         "topic_type": "ai",
-        "relevance_score": 19,
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "The OpenAI chief rejects claims he deceived Elon Musk as high-stakes AI trial nears its end Sign up for the Breaking News US newsletter email The OpenAI CEO, Sam Altman , took the stand on Tuesday to defend himself and his company against a lawsuit by Elon Musk . Altman is set to be one of the final witnesses in the trial, which has pitted two of the tech industry’s most powerful men against each other in a dramatic courtroom showdown. Musk has accused Altman and OpenAI of breaking the AI firm’s founding agreement by restructuring it into a for-profit enterprise, alleging that Altman essentially swindled him into co-founding the company and providing tens of millions in financial backing. Musk also claims Altman unjustly enriched himself in the process and is seeking the CEO’s removal from OpenAI, the redistribution of $134bn to the firm’s non-profit and the undoing of its for-profit conversion. Continue reading...",
-          "news_focus_zh": "OpenAI CEO Sam Altman 在與 Elon Musk 的高風險 AI 訴訟中出庭作證，為自己和公司辯護。Musk 指控 Altman 和 OpenAI 違反創始協議，將公司重組為盈利企業，並聲稱 Altman 欺騙他共同創辦公司，導致他投入數千萬資金。Musk 進一步要求將 Altman 逐出 OpenAI，並要求將 1340 億美元重新分配給公司的非營利部分，撤銷其盈利轉型。",
-          "background": "OpenAI 成立於 2015 年，最初是一個非營利機構，旨在推動人工智慧的安全發展。隨著 AI 技術的迅速發展，OpenAI 在 2019 年轉型為盈利模式，這引發了創始人 Elon Musk 的不滿。他認為這一轉變背離了最初的使命，並對公司治理產生了質疑。Musk 對 Altman 的控訴涉及公司治理、資金運用及利益分配等多方面，這場訴訟不僅是兩位科技巨頭的對抗，也反映了 AI 行業內部對於倫理與盈利之間的緊張關係。",
+          "news_focus": "Two mass shootings — one in the U.S. and one in Canada — have brought to light the use of OpenAI’s ChatGPT in public killings",
+          "news_focus_zh": "近期美國與加拿大發生的兩起大規模槍擊事件引發了對OpenAI的ChatGPT的刑事調查。這些事件突顯了人工智慧技術在暴力行為中的潛在影響，並引發了對其使用的倫理與法律問題的討論。",
+          "background": "隨著人工智慧技術的迅速發展，特別是像OpenAI的ChatGPT這樣的對話型AI，社會對其應用的關注日益增加。這些技術在提供資訊、創造內容等方面具有廣泛應用潛力，但同時也引發了對其可能被濫用的擔憂。特別是在涉及暴力事件的情況下，如何監管和負責任地使用這些技術成為了重要議題。這些槍擊事件的發生，促使社會各界重新審視AI技術的安全性與責任問題。",
           "stakeholders": [
-            "Sam Altman",
-            "Elon Musk",
             "OpenAI",
-            "投資者",
-            "科技產業"
+            "政府機構",
+            "公共安全組織",
+            "法律專家",
+            "社會大眾"
           ],
-          "analysis": "在這場訴訟中，Sam Altman 強調 Elon Musk 對 OpenAI 的控制欲，並指出 Musk 曾多次試圖獲得對公司的完全控制權。這一點在 BBC 的報導中得到了補充，指出 Musk 的企圖心可能是訴訟背後的動機之一。另一方面，Musk 的指控則集中在 Altman 的商業行為上，認為其行為不當導致自己受到損失。這場官司不僅關乎個人之間的爭執，還可能影響 OpenAI 的未來發展方向及其在 AI 領域的地位。隨著訴訟進入尾聲，未來的裁決將對科技界產生深遠影響，尤其是在公司治理與盈利模式的討論上。"
+          "analysis": "此次刑事調查的發起，反映了社會對於科技與暴力之間關係的深刻擔憂。各方利益關係錯綜複雜，政府機構希望透過調查來釐清AI技術在犯罪中的角色，以便制定相應的法律和政策來防範未來的事件。另一方面，OpenAI及類似企業則可能面臨公眾信任的危機，需加強對其產品的負責任使用的宣導與監管。儘管目前尚無具體證據顯示ChatGPT直接導致了這些槍擊事件，但此事件無疑將促使對AI技術的監管討論更加深入，並可能引發更嚴格的法律框架來規範AI的使用。"
         },
         "topic_priority_score": 9,
         "event_type": "regulation_action",
-        "supporting_sources": [
-          "BBC Business",
-          "Wired"
-        ],
-        "supporting_titles": [
-          "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
-          "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says"
-        ],
-        "supporting_summaries": [
-          "Sam Altman said Elon Musk tried many times for total control of OpenAI, which he's now suing.",
-          "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company."
-        ],
-        "supporting_links": [
-          "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
-          "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/"
-        ],
-        "source_count": 3
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       },
       {
         "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-        "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-        "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
-        "published": "Tue, 12 May 2026 18:05:15 +0000",
-        "updated": "Tue, 12 May 2026 18:05:15 +0000",
-        "published_at_utc": "2026-05-12T18:05:15+00:00",
-        "id": "https://techcrunch.com/?p=3121651",
-        "topic_type": "ai",
-        "relevance_score": 19,
+        "source_name": "The Verge",
+        "title": "Trump administration defends right to ban content moderation experts from US",
+        "link": "https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research",
+        "summary": "The Trump administration is fighting for the right to keep some social media moderation advocates out of the US. On Wednesday, US District Court Judge James Boasberg heard arguments in a lawsuit between the nonprofit Coalition for Independent Technology Research (CITR) and Secretary of State Marco Rubio and other Trump administration officials. The suit concerns […]",
+        "published": "2026-05-13T17:58:44-04:00",
+        "updated": "2026-05-13T19:53:00-04:00",
+        "published_at_utc": "2026-05-13T21:58:44+00:00",
+        "id": "https://www.theverge.com/?p=930178",
+        "topic_type": "social_media",
+        "relevance_score": 18,
         "briefing": {
-          "news_focus": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
-          "news_focus_zh": "OpenAI CEO Sam Altman 在法庭上證實，Elon Musk 曾多次表達希望將 OpenAI 的控制權交給他的孩子。這一表述引發了對於 Musk 對 OpenAI 控制權的關注，因為該公司致力於防止先進人工智慧落入單一個人手中。Altman 指出，創始人通常不會輕易放棄控制權，這使他對 Musk 的意圖感到擔憂。",
-          "background": "OpenAI 成立於 2015 年，旨在推動人工智慧的安全發展，並避免其被濫用。最初，OpenAI 是以非營利模式運作，但隨著資金需求的增加，於 2019 年轉型為有限利潤公司。Elon Musk 是 OpenAI 的創始成員之一，但在 2018 年因與公司的方向分歧而辭去董事會職位。隨著 OpenAI 的技術進步，特別是 GPT 系列的推出，對於其控制權的爭議也隨之升高，尤其是在 Musk 對 AI 風險的公開擔憂背景下。",
+          "news_focus": "The Trump administration is fighting for the right to keep some social media moderation advocates out of the US. On Wednesday, US District Court Judge James Boasberg heard arguments in a lawsuit between the nonprofit Coalition for Independent Technology Research (CITR) and Secretary of State Marco Rubio and other Trump administration officials. The suit concerns […]",
+          "news_focus_zh": "特朗普政府正在為禁止某些社交媒體內容審核專家進入美國的權利進行辯護。美國地區法官詹姆斯·博斯伯格於周三聽取了獨立技術研究聯盟（CITR）與國務卿馬可·魯比奧及其他特朗普政府官員之間的訴訟辯論，該訴訟涉及政府對內容審核專家的入境限制。",
+          "background": "特朗普政府在社交媒體內容審核問題上採取了強硬立場，認為某些專家可能對其政策構成威脅。獨立技術研究聯盟（CITR）是一個非營利組織，專注於社交媒體的透明度和公平性，該組織的專家通常批評政府的內容管理政策。此案件反映了美國在社交媒體治理中的法律與政策爭議，尤其是在言論自由與政府監管之間的平衡問題。",
           "stakeholders": [
-            "Elon Musk",
-            "Sam Altman",
-            "OpenAI",
-            "投資者",
-            "科技行業"
+            "特朗普政府",
+            "獨立技術研究聯盟（CITR）",
+            "社交媒體平台",
+            "言論自由倡導者",
+            "法律專家"
           ],
-          "analysis": "Musk 對 OpenAI 控制權的強烈關注反映了他對於 AI 發展的深刻擔憂，尤其是其潛在的社會影響。Altman 的證詞顯示，Musk 似乎對於將公司控制權交給他的後代有著不尋常的想法，這可能會引發對於公司未來方向的重大爭議。參考報導中提到，Musk 的律師對 Altman 的財務投資網絡提出質疑，可能暗示著對其誠信的挑戰。這一系列事件不僅影響 OpenAI 的內部治理，也可能對整個科技行業的企業治理模式產生影響，尤其是在涉及高風險技術的公司中。"
+          "analysis": "特朗普政府的立場強調了對社交媒體內容審核的控制，並可能影響未來的政策制定。CITR則主張這樣的禁令損害了言論自由，並可能導致社會對社交媒體平台的信任下降。這場訴訟的結果可能會影響其他國家對社交媒體內容管理的法律框架，尤其是在如何平衡言論自由與公共安全之間的爭論。各方的立場差異顯示出在社交媒體治理上，政府與民間組織之間的緊張關係仍在持續發展中。"
         },
-        "topic_priority_score": 9,
-        "event_type": "commercial_update",
-        "supporting_sources": [
-          "BBC Business",
-          "Wired"
-        ],
-        "supporting_titles": [
-          "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
-          "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says"
-        ],
-        "supporting_summaries": [
-          "Sam Altman said Elon Musk tried many times for total control of OpenAI, which he's now suing.",
-          "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company."
-        ],
-        "supporting_links": [
-          "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
-          "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/"
-        ],
-        "source_count": 3
+        "topic_priority_score": 6,
+        "event_type": "regulation_action",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       }
     ],
     "politics": [
       {
         "category": "politics",
         "source_name": "The Hindu International",
-        "title": "'Nothing is happening' in U.S.-Russia relations: Foreign Minister Sergei Lavrov",
-        "link": "https://www.thehindu.com/news/international/nothing-is-happening-in-us-russia-relations-foreign-minister-sergei-lavrov/article70972968.ece",
-        "summary": "After winning the ‌2024 U.S. Presidential election, Donald Trump re-established U.S. dialogue with ‌Russian President Vladimir Putin and has ‌repeatedly ⁠promised to end the ⁠war in Ukraine",
-        "published": "Wed, 13 May 2026 13:28:29 +0530",
-        "updated": "Wed, 13 May 2026 13:28:29 +0530",
-        "published_at_utc": "2026-05-13T07:58:29+00:00",
-        "id": "article-70972968",
+        "title": "BRICS Foreign Ministers meet in India as Iran war, oil prices, internal divisions test bloc’s unity",
+        "link": "https://www.thehindu.com/news/international/brics-foreign-ministers-meet-in-india-as-iran-war-oil-prices-internal-divisions-test-blocs-unity/article70977220.ece",
+        "summary": "The meeting brings together diplomats from Brazil, Russia, India, China and South Africa along with newer member countries",
+        "published": "Thu, 14 May 2026 13:30:43 +0530",
+        "updated": "Thu, 14 May 2026 13:30:43 +0530",
+        "published_at_utc": "2026-05-14T08:00:43+00:00",
+        "id": "article-70977220",
         "topic_type": "diplomacy",
-        "relevance_score": 23,
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "After winning the ‌2024 U.S. Presidential election, Donald Trump re-established U.S. dialogue with ‌Russian President Vladimir Putin and has ‌repeatedly ⁠promised to end the ⁠war in Ukraine",
-          "news_focus_zh": "俄羅斯外長謝爾蓋·拉夫羅夫表示，當前美俄關係中並未發生任何實質變化。他的言論是在唐納德·特朗普贏得2024年美國總統選舉後，特朗普重新建立與俄羅斯總統弗拉基米爾·普京的對話並承諾結束烏克蘭戰爭的背景下發表的。",
-          "background": "美俄關係在過去幾年中因烏克蘭衝突而急劇惡化。隨著西方國家對俄羅斯實施制裁，雙方的外交互動大幅減少。特朗普在其總統任期內曾試圖改善與俄羅斯的關係，但隨著拜登政府上任，這一趨勢被逆轉。特朗普若再次當選，可能會重新評估美國對俄政策，這引發了國際社會的廣泛關注，尤其是在烏克蘭問題上。",
+          "news_focus": "The meeting brings together diplomats from Brazil, Russia, India, China and South Africa along with newer member countries",
+          "news_focus_zh": "BRICS外長會議在印度舉行，參與國包括巴西、俄羅斯、印度、中國和南非，並邀請了新成員國。此次會議的背景是伊朗戰爭、油價波動及內部分歧對該集團的團結性造成挑戰。",
+          "background": "BRICS集團由五個主要新興經濟體組成，旨在促進成員國之間的經濟合作與政治對話。隨著全球地緣政治局勢的變化，特別是中東地區的衝突，BRICS的內部團結面臨考驗。此次會議的舉行正值2026年BRICS峰會前夕，顯示出成員國希望在面對外部挑戰時維持合作關係。參考報導指出，會議的結果將影響未來的外交政策及經濟合作方向。",
           "stakeholders": [
-            "美國政府",
-            "俄羅斯政府",
-            "烏克蘭政府",
-            "西方盟國",
-            "國際社會"
+            "巴西",
+            "俄羅斯",
+            "印度",
+            "中國",
+            "南非"
           ],
-          "analysis": "拉夫羅夫的言論反映出俄方對美國政策的不滿與懷疑，特別是在特朗普承諾改善雙邊關係的背景下，俄方似乎並不期待實質性的改變。特朗普的勝選可能會使美俄之間的對話恢復，但考慮到烏克蘭戰爭的複雜性，雙方的利益仍存在根本衝突。特朗普的立場可能會受到美國國內政治的影響，特別是民主黨和部分共和黨內部對俄政策的不同看法，這可能會影響其對俄政策的實施。此外，國際社會對於美俄關係的未來走向也充滿不確定性，尤其是在烏克蘭問題上，西方國家的立場仍然強硬。"
+          "analysis": "此次會議的主要焦點在於如何應對伊朗戰爭及其對油價的影響，這對成員國的經濟穩定至關重要。中國在此次會議中的角色尤其受到關注，參考報導指出，中國如何處理此衝突將揭示其實際力量及脆弱性。不同報導強調了會議的重要性，Al Jazeera指出這是2026年峰會前的重要準備，而The Diplomat則更聚焦於中國在此事件中的外交挑戰。這顯示出BRICS內部對於如何應對外部危機的不同看法，可能導致未來的政策分歧。"
         },
         "topic_priority_score": 7,
-        "event_type": "election_move",
+        "event_type": "security_event",
+        "supporting_sources": [
+          "Al Jazeera",
+          "The Diplomat"
+        ],
+        "supporting_titles": [
+          "Iran war: Why the BRICS foreign ministers meeting in India matters",
+          "Iran Is the Test China Didn’t Ask For"
+        ],
+        "supporting_summaries": [
+          "The foreign ministers meeting is taking place before the 2026 BRICS summit in India in September.",
+          "How China handles this conflict will reveal more about its actual power – and its vulnerabilities – than any trade deal announced in Beijing."
+        ],
+        "supporting_links": [
+          "https://www.aljazeera.com/news/2026/5/14/iran-war-why-the-brics-foreign-ministers-meeting-in-india-matters?traffic_source=rss",
+          "https://thediplomat.com/2026/05/iran-is-the-test-china-didnt-ask-for/"
+        ],
+        "source_count": 3
+      },
+      {
+        "category": "politics",
+        "source_name": "SCMP World",
+        "title": "China-US summit ‘remarkable’ but is it enough to change relations?",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3353515/china-us-summit-remarkable-it-enough-change-relations?utm_source=rss_feed",
+        "summary": "The US-China summit is “extremely important” to arrest the downward spiral of relations between the two countries, according to Li Cheng, a leading Chinese academic. But a summit would not be enough to change the overall structure of ties, which had been fraught for years, Li said on Thursday as US President Donald Trump began the first full day of his state visit to Beijing – the first by an American leader since 2017. The two presidents began the day with two hours of talks at the Great Hall...",
+        "published": "Thu, 14 May 2026 05:59:23 +0000",
+        "updated": "Thu, 14 May 2026 05:59:23 +0000",
+        "published_at_utc": "2026-05-14T05:59:23+00:00",
+        "id": "https://www.scmp.com/news/china/diplomacy/article/3353515/china-us-summit-remarkable-it-enough-change-relations?utm_source=rss_feed",
+        "topic_type": "diplomacy",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "The US-China summit is “extremely important” to arrest the downward spiral of relations between the two countries, according to Li Cheng, a leading Chinese academic. But a summit would not be enough to change the overall structure of ties, which had been fraught for years, Li said on Thursday as US President Donald Trump began the first full day of his state visit to Beijing – the first by an American leader since 2017. The two presidents began the day with two hours of talks at the Great Hall...",
+          "news_focus_zh": "美國總統特朗普在北京進行國事訪問的第一天，與中國國家主席習近平展開了為期兩小時的會談。中國學者李成指出，這次中美峰會對於扭轉兩國關係的下滑趨勢至關重要，但僅靠峰會無法改變長期以來緊張的雙邊關係結構。",
+          "background": "中美兩國的關係在過去幾年中因貿易戰、科技競爭及地緣政治緊張而日益惡化。特朗普政府在貿易政策上對中國採取強硬立場，導致雙方關係降至冰點。此次峰會是自2017年以來美國總統首次訪問中國，外界普遍關注這次會議能否為雙邊關係帶來新的轉機。同時，習近平與普京的會晤也在此峰會之後進行，可能影響中美之間的外交動態。",
+          "stakeholders": [
+            "美國政府",
+            "中國政府",
+            "學術界",
+            "商業界",
+            "俄羅斯政府"
+          ],
+          "analysis": "此次中美峰會的舉行被視為一個重要的外交努力，旨在減少雙方的緊張關係。然而，李成的觀點強調，單靠一次會議無法根本改變兩國之間的結構性問題。參考報導提到，隨後的普京與習近平會議可能會進一步影響中美關係，形成三角外交的局面。這表明，中國可能會利用與俄羅斯的關係來平衡與美國的緊張局勢。各方對於峰會的期望存在差異，美方希望能夠在貿易和安全問題上取得進展，而中方則更關注主權和發展權益的保障。"
+        },
+        "topic_priority_score": 7,
+        "event_type": "security_event",
+        "supporting_sources": [
+          "The Diplomat"
+        ],
+        "supporting_titles": [
+          "Russia and the China-US Summit"
+        ],
+        "supporting_summaries": [
+          "The upcoming meeting between U.S. President Donald Trump and Xi will be followed by a Putin-Xi summit. Will there be scope for triangular diplomacy?"
+        ],
+        "supporting_links": [
+          "https://thediplomat.com/2026/05/russia-and-the-china-us-summit/"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "politics",
+        "source_name": "SCMP World",
+        "title": "Why US is backing Philippine airport at former Sangley Point naval base",
+        "link": "https://www.scmp.com/week-asia/economics/article/3353548/why-us-backing-philippine-airport-former-sangley-point-naval-base?utm_source=rss_feed",
+        "summary": "A proposed airport on a former US naval base in the Philippines near the entrance to Manila Bay is drawing fresh strategic attention after Washington agreed to fund a feasibility study, a move analysts say fits into US efforts to strengthen logistics, access and interoperability with the country in the South China Sea. Experts said the proposed Sangley Point International Airport in Cavite could become more than a commercial aviation project because of its access to the South China Sea and the...",
+        "published": "Thu, 14 May 2026 10:00:10 +0000",
+        "updated": "Thu, 14 May 2026 10:00:10 +0000",
+        "published_at_utc": "2026-05-14T10:00:10+00:00",
+        "id": "https://www.scmp.com/week-asia/economics/article/3353548/why-us-backing-philippine-airport-former-sangley-point-naval-base?utm_source=rss_feed",
+        "topic_type": "us_china_relations",
+        "relevance_score": 18,
+        "briefing": {
+          "news_focus": "A proposed airport on a former US naval base in the Philippines near the entrance to Manila Bay is drawing fresh strategic attention after Washington agreed to fund a feasibility study, a move analysts say fits into US efforts to strengthen logistics, access and interoperability with the country in the South China Sea. Experts said the proposed Sangley Point International Airport in Cavite could become more than a commercial aviation project because of its access to the South China Sea and the...",
+          "news_focus_zh": "美國同意資助菲律賓在前美軍海軍基地——桑格利角的國際機場可行性研究，這一提議引起了新的戰略關注。分析人士指出，這項計劃不僅是商業航空項目，還可能增強美國在南海的物流、接入和協同作戰能力，進一步加強與菲律賓的合作。",
+          "background": "桑格利角曾是美國海軍的重要基地，隨著美軍在1992年撤出，該地區的發展潛力逐漸受到重視。菲律賓政府希望利用這一地理優勢，促進經濟發展並提升國際航空運輸能力。美國對該機場的支持，反映出其在亞太地區的戰略重心，尤其是在面對中國在南海日益增強的影響力時，這一舉措被視為加強雙邊關係的重要步驟。",
+          "stakeholders": [
+            "美國政府",
+            "菲律賓政府",
+            "中國政府",
+            "當地居民",
+            "國際航空公司"
+          ],
+          "analysis": "美國對桑格利角機場的支持，顯示出其在南海地區的戰略意圖，旨在加強與菲律賓的軍事和經濟聯繫。這一計劃可能會引發中國的關注，因為該地區的地理位置對於南海的航運和軍事活動至關重要。專家認為，若機場建設成功，將提升美國在該地區的軍事部署能力，並促進與菲律賓的合作。各方可能會在未來的發展中展開角力，特別是在基礎設施建設和地緣政治影響力方面。"
+        },
+        "topic_priority_score": 10,
+        "event_type": "political_signal",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
         "supporting_links": [],
         "source_count": 1
-      },
-      {
-        "category": "politics",
-        "source_name": "SCMP World",
-        "title": "Leaving so soon? US, China hold briefest trade talks yet before leaders’ summit",
-        "link": "https://www.scmp.com/economy/global-economy/article/3353424/leaving-so-soon-us-china-hold-briefest-trade-talks-yet-leaders-summit?utm_source=rss_feed",
-        "summary": "Senior officials from China and the United States concluded their latest round of trade talks in Seoul after less than four hours on Wednesday, the briefest session since the two countries began holding talks last year. The seventh round of negotiations – led by Chinese Vice-Premier He Lifeng and US Treasury Secretary Scott Bessent – wrapped up just hours ahead of US President Donald Trump’s scheduled arrival in Beijing. The officials ended the session without speaking to the media, a departure...",
-        "published": "Wed, 13 May 2026 09:09:29 +0000",
-        "updated": "Wed, 13 May 2026 09:09:29 +0000",
-        "published_at_utc": "2026-05-13T09:09:29+00:00",
-        "id": "https://www.scmp.com/economy/global-economy/article/3353424/leaving-so-soon-us-china-hold-briefest-trade-talks-yet-leaders-summit?utm_source=rss_feed",
-        "topic_type": "diplomacy",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "Senior officials from China and the United States concluded their latest round of trade talks in Seoul after less than four hours on Wednesday, the briefest session since the two countries began holding talks last year. The seventh round of negotiations – led by Chinese Vice-Premier He Lifeng and US Treasury Secretary Scott Bessent – wrapped up just hours ahead of US President Donald Trump’s scheduled arrival in Beijing. The officials ended the session without speaking to the media, a departure...",
-          "news_focus_zh": "美國與中國的高層官員於首爾進行了最新一輪貿易談判，會議時間不足四小時，成為自去年以來最短的一次。此次談判由中國副總理何立峰與美國財政部長斯科特·貝森特共同領導，會議結束後未對媒體發表任何聲明，顯示雙方在即將舉行的領導人峰會前的緊張局勢。",
-          "background": "美中貿易關係自去年以來一直處於緊張狀態，雙方在多個層面上進行了多輪談判，旨在解決貿易不平衡及其他經濟問題。此次會議的背景是美國總統特朗普即將訪問北京，這使得談判的時間顯得尤為緊迫。雙方在貿易政策上的分歧仍然存在，且未能達成具體協議，顯示出解決問題的困難。",
-          "stakeholders": [
-            "美國政府",
-            "中國政府",
-            "國際貿易組織",
-            "企業界",
-            "投資者"
-          ],
-          "analysis": "此次談判的短暫性引發了外界對美中貿易關係未來走向的擔憂。雖然雙方在會議中進行了討論，但未能達成任何具體協議，顯示出雙方在核心問題上的分歧仍然存在。根據參考報導，格林蘭首相也提到與美國的談判進展，但同樣未達成協議，這可能反映出更廣泛的國際貿易環境中的不確定性。各方對於未來的貿易政策及其影響仍持觀望態度，未來的發展將取決於雙方在即將召開的領導人峰會上的互動。"
-        },
-        "topic_priority_score": 7,
-        "event_type": "diplomatic_move",
-        "supporting_sources": [
-          "The Hindu International"
-        ],
-        "supporting_titles": [
-          "Progress in talks with U.S. but no deal yet: Greenland PM"
-        ],
-        "supporting_summaries": [
-          "\"We are negotiating but we don't have an agreement,\" Prime Minister Jens-Frederik Nielsen said in a speech to the Copenhagen Democracy Summit"
-        ],
-        "supporting_links": [
-          "https://www.thehindu.com/news/international/progress-in-talks-with-us-but-no-deal-yet-greenland-pm/article70969186.ece"
-        ],
-        "source_count": 2
-      },
-      {
-        "category": "politics",
-        "source_name": "SCMP World",
-        "title": "Why the world needs China to save more, not less",
-        "link": "https://www.scmp.com/opinion/china-opinion/article/3353281/why-world-needs-china-save-more-not-less?utm_source=rss_feed",
-        "summary": "The G7 economists’ memo from March and the IMF’s April report on global imbalances arrived at the same prescription: China’s current account surplus is excessive and should be cut by boosting consumption. The diagnosis is wrong. The world economy, especially emerging markets and developing economies, benefits from China’s high saving. A current account surplus is the excess of national saving over domestic investment. The saving is not lost; it is exported abroad in the form of net capital...",
-        "published": "Wed, 13 May 2026 08:30:08 +0000",
-        "updated": "Wed, 13 May 2026 08:30:08 +0000",
-        "published_at_utc": "2026-05-13T08:30:08+00:00",
-        "id": "https://www.scmp.com/opinion/china-opinion/article/3353281/why-world-needs-china-save-more-not-less?utm_source=rss_feed",
-        "topic_type": "diplomacy",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "The G7 economists’ memo from March and the IMF’s April report on global imbalances arrived at the same prescription: China’s current account surplus is excessive and should be cut by boosting consumption. The diagnosis is wrong. The world economy, especially emerging markets and developing economies, benefits from China’s high saving. A current account surplus is the excess of national saving over domestic investment. The saving is not lost; it is exported abroad in the form of net capital...",
-          "news_focus_zh": "G7經濟學家的備忘錄與國際貨幣基金組織（IMF）的報告指出，中國的經常帳盈餘過高，應透過提升消費來減少。然而，這一診斷被認為是錯誤的，因為中國的高儲蓄對全球經濟，特別是新興市場和發展中國家是有益的。經常帳盈餘代表國家儲蓄超過國內投資，這些儲蓄並未消失，而是以淨資本的形式輸出到國外。",
-          "background": "中國的經常帳盈餘長期以來一直是全球經濟討論的焦點。G7及IMF的建議反映了對中國經濟模式的擔憂，認為過高的儲蓄可能抑制全球需求，特別是在經濟復甦的過程中。中國的高儲蓄率使其能夠在全球市場中扮演重要角色，特別是在資本輸出方面，這對許多依賴外資的發展中國家至關重要。儘管如此，這一模式也引發了對中國內需不足的批評，並促使國際社會呼籲中國進行結構性改革以促進消費。",
-          "stakeholders": [
-            "中國政府",
-            "G7國家",
-            "國際貨幣基金組織",
-            "新興市場經濟體",
-            "發展中國家"
-          ],
-          "analysis": "各方對中國經常帳盈餘的看法存在分歧。G7和IMF認為中國應減少儲蓄以促進全球經濟增長，但這一觀點遭到質疑，認為中國的高儲蓄實際上對新興市場和發展中國家有利。這一觀點強調儲蓄的輸出對全球資本流動的重要性，並指出中國的經濟模式在當前全球經濟環境中仍然具有其必要性。參考報導提到中國密切關注印度與越南的關係，雖然與主新聞無直接關聯，但顯示出中國在地緣政治上的關注，可能影響其經濟策略的調整。"
-        },
-        "topic_priority_score": 7,
-        "event_type": "political_signal",
-        "supporting_sources": [
-          "The Diplomat"
-        ],
-        "supporting_titles": [
-          "Why Is China Watching India-Vietnam Relations Carefully"
-        ],
-        "supporting_summaries": [
-          "China appears to be closely monitoring the development of India-Vietnam relations, particularly in the areas of defense, maritime affairs, and strategic technology."
-        ],
-        "supporting_links": [
-          "https://thediplomat.com/2026/05/why-is-china-watching-india-vietnam-relations-carefully/"
-        ],
-        "source_count": 2
       }
     ],
     "economy": [
       {
         "category": "economy",
-        "source_name": "SCMP World",
-        "title": "Chinese company that tracked US bombers over Iran wears sanctions with pride",
-        "link": "https://www.scmp.com/news/china/military/article/3353282/chinese-company-tracked-us-bombers-over-iran-wears-sanctions-pride?utm_source=rss_feed",
-        "summary": "Chinese satellite imagery firm MizarVision, which rose to fame with its analysis of American military deployments in the US-Israel war on Iran, is treating its addition to the US sanctions list as a badge of honour in its hiring campaign. The open-source intelligence (OSINT) start-up, formally known as Meentropy Technology Hangzhou Co Ltd, specialises in analysing data from commercial satellites and has conducted several observations of US military movements in recent months. It was added to the...",
-        "published": "Wed, 13 May 2026 04:00:05 +0000",
-        "updated": "Wed, 13 May 2026 04:00:05 +0000",
-        "published_at_utc": "2026-05-13T04:00:05+00:00",
-        "id": "https://www.scmp.com/news/china/military/article/3353282/chinese-company-tracked-us-bombers-over-iran-wears-sanctions-pride?utm_source=rss_feed",
+        "source_name": "Al Jazeera",
+        "title": "Federal judge blocks US sanctions against UN rapporteur Francesca Albanese",
+        "link": "https://www.aljazeera.com/news/2026/5/14/federal-judge-blocks-us-sanctions-against-un-rapporteur-francesca-albanese?traffic_source=rss",
+        "summary": "US sanctions imposed on UN expert Francesca Albanese by the Trump administration temporarily ⁠blocked by a judge.",
+        "published": "Thu, 14 May 2026 09:16:59 +0000",
+        "updated": "Thu, 14 May 2026 09:16:59 +0000",
+        "published_at_utc": "2026-05-14T09:16:59+00:00",
+        "id": "https://www.aljazeera.com/?t=1778740999",
         "topic_type": "sanctions",
-        "relevance_score": 21,
+        "relevance_score": 27,
         "briefing": {
-          "news_focus": "Chinese satellite imagery firm MizarVision, which rose to fame with its analysis of American military deployments in the US-Israel war on Iran, is treating its addition to the US sanctions list as a badge of honour in its hiring campaign. The open-source intelligence (OSINT) start-up, formally known as Meentropy Technology Hangzhou Co Ltd, specialises in analysing data from commercial satellites and has conducted several observations of US military movements in recent months. It was added to the...",
-          "news_focus_zh": "中國衛星影像公司MizarVision因其對美國軍事部署在美以伊戰爭中的分析而受到關注。該公司最近被列入美國制裁名單，但卻將此視為招聘活動中的一種榮譽。MizarVision專注於分析商業衛星數據，並在近期對美國軍事動態進行了多次觀察。",
-          "background": "MizarVision，正式名稱為Meentropy Technology Hangzhou Co Ltd，是一家專注於開源情報(OSINT)的初創公司。該公司利用商業衛星數據進行軍事和地緣政治分析，特別是在美國與以色列的衝突中，對伊朗的軍事部署進行了詳細追蹤。隨著全球對衛星數據需求的增加，這類公司在國際安全和情報領域的角色愈發重要。美國對MizarVision的制裁反映了其對中國企業在軍事情報領域活動的擔憂，尤其是在涉及敏感地區的情況下。",
+          "news_focus": "US sanctions imposed on UN expert Francesca Albanese by the Trump administration temporarily ⁠blocked by a judge.",
+          "news_focus_zh": "美國聯邦法官暫時阻止了特朗普政府對聯合國專家Francesca Albanese施加的制裁。這項裁決意味著Albanese在法律上不再受到這些制裁的限制，將能夠繼續其專業工作。",
+          "background": "Francesca Albanese是一位專注於人權和國際法的聯合國專家，曾對以色列在巴勒斯坦地區的行為提出批評。特朗普政府在其任內對Albanese施加制裁，理由是她的言論被認為損害了美國的外交利益。這些制裁通常包括凍結資產和禁止入境，對於專家在國際舞台上的活動造成了重大影響。隨著拜登政府上任，對於這些制裁的重新評估成為焦點，但至今仍未有明確的政策改變。",
           "stakeholders": [
-            "MizarVision",
-            "美國政府",
-            "中國政府",
-            "國際軍事分析機構",
-            "商業衛星數據市場"
+            "Francesca Albanese",
+            "美國聯邦法官",
+            "特朗普政府",
+            "拜登政府",
+            "人權組織"
           ],
-          "analysis": "MizarVision的制裁標誌著中美之間在科技和軍事情報領域的緊張關係加劇。該公司將制裁視為榮譽，顯示出其對美國政策的挑戰和對自身業務的自信。這一做法可能吸引了對抗美國影響力的中國企業和人才，進一步鞏固其在開源情報市場的地位。另一方面，美國的制裁措施可能會促使其他國家在選擇合作夥伴時更加謹慎，尤其是在涉及軍事和安全的合作上。未來，MizarVision的發展將取決於其如何在國際市場上平衡業務擴展與政治風險之間的關係。"
+          "analysis": "這項裁決對於Albanese及其支持者來說是一個勝利，可能會促使更多的國際專家對於人權議題發聲，而不必擔心遭受制裁的風險。此事件也反映出美國內部對於外交政策的分歧，尤其是在特朗普政府的政策遺留問題上。不同的政治派別對於Albanese的立場有不同的看法，部分人認為她的批評是必要的，而另一些人則認為這損害了美國的國際形象。未來，這一裁決可能會引發對於制裁政策的更廣泛討論，特別是在如何平衡國家安全與人權倡導之間的緊張關係。"
         },
         "topic_priority_score": 8,
         "event_type": "macro_signal",
@@ -303,295 +283,307 @@
       },
       {
         "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "Xi-Trump meeting could lift Chinese stocks 12%: Morgan Stanley",
-        "link": "https://www.scmp.com/business/banking-finance/article/3353351/trump-xi-beijing-meeting-lift-chinese-stocks-morgan-stanley-says?utm_source=rss_feed",
-        "summary": "Morgan Stanley expects US President Donald Trump’s visit to Beijing to give Chinese stocks a moderate lift if the current trade truce is extended. The bank’s base case forecasts an 8 per cent gain to 28,400 for Hong Kong’s Hang Seng Index by the second quarter of 2027, as well as an 11 per cent rise in the Hang Seng China Enterprises Index and a 12 per cent increase for the MSCI China Index, according to its report on Wednesday. The bull case stretches to 27 per cent for the MSCI China gauge if...",
-        "published": "Wed, 13 May 2026 03:14:56 +0000",
-        "updated": "Wed, 13 May 2026 03:14:56 +0000",
-        "published_at_utc": "2026-05-13T03:14:56+00:00",
-        "id": "https://www.scmp.com/business/banking-finance/article/3353351/trump-xi-beijing-meeting-lift-chinese-stocks-morgan-stanley-says?utm_source=rss_feed",
+        "source_name": "The Guardian Business",
+        "title": "‘There’s a risk of another Liz Truss moment’: City raises spectre of bond market meltdown again",
+        "link": "https://www.theguardian.com/business/2026/may/14/theres-a-risk-of-another-liz-truss-moment-city-raises-spectre-of-bond-market-meltdown-again",
+        "summary": "As Keir Starmer’s leadership totters, investors warn a Labour leadership contest ignoring public finances and market realpolitik could be disastrous Business live – latest updates UK economy records surprise 0.3% growth despite Iran war Analysis: Reeves says ‘if economy ain’t broke, don’t fix it’ A rise in borrowing costs and warnings to avoid a “Liz Truss moment”. As Keir Starmer faces a potential leadership challenge, the spectre of the bond market looms large. Amid febrile conditions in Westminster, the prospect of Britain switching prime ministers for a sixth time in seven years has fuelled a sharp sell-off in the market for UK government debt. Continue reading...",
+        "published": "Thu, 14 May 2026 06:00:19 GMT",
+        "updated": "2026-05-14T06:00:19Z",
+        "published_at_utc": "2026-05-14T06:00:19+00:00",
+        "id": "https://www.theguardian.com/business/2026/may/14/theres-a-risk-of-another-liz-truss-moment-city-raises-spectre-of-bond-market-meltdown-again",
         "topic_type": "markets",
-        "relevance_score": 21,
+        "relevance_score": 23,
         "briefing": {
-          "news_focus": "Morgan Stanley expects US President Donald Trump’s visit to Beijing to give Chinese stocks a moderate lift if the current trade truce is extended. The bank’s base case forecasts an 8 per cent gain to 28,400 for Hong Kong’s Hang Seng Index by the second quarter of 2027, as well as an 11 per cent rise in the Hang Seng China Enterprises Index and a 12 per cent increase for the MSCI China Index, according to its report on Wednesday. The bull case stretches to 27 per cent for the MSCI China gauge if...",
-          "news_focus_zh": "摩根士丹利預測，美國總統特朗普的北京訪問可能會促使中國股市上漲，若目前的貿易休戰得以延續，香港恒生指數預計在2027年第二季度上漲8%，達到28,400點。此外，恒生中國企業指數將上漲11%，MSCI中國指數則可能上漲12%。在最佳情況下，MSCI中國指數的增幅可達27%。",
-          "background": "中美貿易關係在過去幾年中經歷了多次波動，貿易戰的影響使得兩國經濟和市場情緒受到壓制。近期，雙方在貿易問題上展開了最後的談判，這可能是特朗普訪問前的重要舉措。市場對於貿易休戰的期待，尤其是在特朗普與習近平會晤的背景下，對於投資者信心的恢復至關重要。摩根士丹利的預測反映了市場對於未來經濟回暖的期待，尤其是在中國經濟增長放緩的情況下。",
+          "news_focus": "As Keir Starmer’s leadership totters, investors warn a Labour leadership contest ignoring public finances and market realpolitik could be disastrous Business live – latest updates UK economy records surprise 0.3% growth despite Iran war Analysis: Reeves says ‘if economy ain’t broke, don’t fix it’ A rise in borrowing costs and warnings to avoid a “Liz Truss moment”. As Keir Starmer faces a potential leadership challenge, the spectre of the bond market looms large. Amid febrile conditions in Westminster, the prospect of Britain switching prime ministers for a sixth time in seven years has fuelled a sharp sell-off in the market for UK government debt. Continue reading...",
+          "news_focus_zh": "隨著基爾·斯塔默（Keir Starmer）面臨潛在的領導挑戰，英國投資者對於可能的勞工黨領導人選感到擔憂，特別是如果新領導人忽視公共財政與市場現實，可能導致經濟災難。英國經濟雖然意外錄得0.3%的增長，但借貸成本上升，以及對於重蹈莉茲·特拉斯（Liz Truss）執政時期的擔憂，使得英國政府債券市場出現劇烈拋售。",
+          "background": "英國在過去幾年內經歷了多次首相更迭，導致市場對政治穩定性產生疑慮。莉茲·特拉斯的短暫任期因其經濟政策引發市場動盪而成為警示，投資者對於任何可能的政治變動都保持高度警覺。當前，隨著基爾·斯塔默的領導地位受到挑戰，市場對於勞工黨未來的財政策略及其對經濟的影響充滿不確定性。這種不確定性加上借貸成本的上升，進一步加劇了市場的緊張情緒。",
           "stakeholders": [
-            "摩根士丹利",
-            "中國政府",
-            "美國政府",
+            "基爾·斯塔默",
+            "英國勞工黨",
             "投資者",
-            "市場分析師"
+            "英國政府",
+            "經濟學家"
           ],
-          "analysis": "摩根士丹利的預測顯示，市場對於特朗普訪問北京的反應可能是積極的，尤其是如果貿易休戰得以延續。這一預測反映了投資者對於中美關係改善的期待，並可能促使資金流入中國股市。然而，參考報導提到的中美貿易首席談判官的最後會談，則暗示著雙方在貿易問題上仍存在不確定性。若談判未能達成共識，市場情緒可能會迅速轉向悲觀。因此，雖然摩根士丹利的預測是基於樂觀的情境，但市場的實際反應仍需觀察雙方談判的結果及其對貿易政策的影響。"
+          "analysis": "目前，英國的政治局勢不穩定，投資者對於勞工黨可能的領導人選表達了強烈的擔憂，尤其是如果新領導人未能妥善處理公共財政問題，可能會引發市場的劇烈反應。參考報導中提到的美國債券市場相對安靜，反映出與英國市場的緊張情勢形成鮮明對比，顯示出不同市場對於政治風險的敏感度不同。若英國政府未能有效應對市場的擔憂，可能會導致更大範圍的經濟影響，甚至引發類似莉茲·特拉斯任期內的經濟危機。"
         },
         "topic_priority_score": 4,
-        "event_type": "corporate_results",
+        "event_type": "market_repricing",
         "supporting_sources": [
-          "Nikkei Asia"
+          "The Economist"
         ],
         "supporting_titles": [
-          "China, US trade chiefs huddle for last-minute talks before Trump visit"
+          "America’s bond market is quiet—almost too quiet"
         ],
         "supporting_summaries": [
-          ""
+          "Scott Bessent has a cunning plan"
         ],
         "supporting_links": [
-          "https://asia.nikkei.com/economy/trade-war/china-us-trade-chiefs-huddle-for-last-minute-talks-before-trump-visit"
+          "https://www.economist.com/finance-and-economics/2025/12/11/americas-bond-market-is-quiet-almost-too-quiet"
         ],
         "source_count": 2
       },
       {
         "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "How Australia’s mining giants are helping China to globalise the yuan",
-        "link": "https://www.scmp.com/economy/china-economy/article/3353274/how-australias-mining-giants-are-helping-china-globalise-yuan?utm_source=rss_feed",
-        "summary": "Australia’s mining giants are aiding China’s push to internationalise its currency and reduce the dominance of the US dollar, as they gradually shift towards using the yuan for financing and settlements, analysts said. China has been using its heft as the world’s dominant iron ore buyer to push global mining companies to adopt the yuan. And several firms are already making the switch, with China’s relatively low interest rates becoming an added incentive. BHP, the world’s largest mining company,...",
-        "published": "Wed, 13 May 2026 01:00:14 +0000",
-        "updated": "Wed, 13 May 2026 01:00:14 +0000",
-        "published_at_utc": "2026-05-13T01:00:14+00:00",
-        "id": "https://www.scmp.com/economy/china-economy/article/3353274/how-australias-mining-giants-are-helping-china-globalise-yuan?utm_source=rss_feed",
+        "source_name": "The Guardian Business",
+        "title": "US Senate confirms Kevin Warsh as Federal Reserve chair, replacing Jerome Powell",
+        "link": "https://www.theguardian.com/business/2026/may/13/kevin-warsh-federal-reserve-chair",
+        "summary": "Warsh will serve four-year term as chair, taking over amid rising inflation and pressure from Trump to lower rates The US Senate confirmed Kevin Warsh as chair of the Federal Reserve , one of the most powerful roles in the federal government that holds enormous sway over the economy. The 54-45 Senate vote on Wednesday was split along party lines, with the exception of the Democratic senator John Fetterman from Pennsylvania, who joined the Republican majority. It was most divisive confirmation vote for the position in history. Continue reading...",
+        "published": "Wed, 13 May 2026 20:10:15 GMT",
+        "updated": "2026-05-13T20:10:15Z",
+        "published_at_utc": "2026-05-13T20:10:15+00:00",
+        "id": "https://www.theguardian.com/business/2026/may/13/kevin-warsh-federal-reserve-chair",
         "topic_type": "interest_rates",
-        "relevance_score": 21,
+        "relevance_score": 23,
         "briefing": {
-          "news_focus": "Australia’s mining giants are aiding China’s push to internationalise its currency and reduce the dominance of the US dollar, as they gradually shift towards using the yuan for financing and settlements, analysts said. China has been using its heft as the world’s dominant iron ore buyer to push global mining companies to adopt the yuan. And several firms are already making the switch, with China’s relatively low interest rates becoming an added incentive. BHP, the world’s largest mining company,...",
-          "news_focus_zh": "澳大利亞的礦業巨頭正在協助中國推動人民幣的國際化，逐步轉向使用人民幣進行融資和結算。分析師指出，中國作為全球主要的鐵礦石買家，利用其市場地位促使全球礦業公司採用人民幣。多家企業已經開始轉變，並且中國相對較低的利率成為一項額外的誘因。",
-          "background": "中國政府近年來積極推動人民幣國際化，旨在減少對美元的依賴，並提升人民幣在全球貿易中的地位。澳大利亞擁有豐富的礦產資源，特別是鐵礦石，這使其成為中國的重要供應來源。隨著中國經濟的增長，對礦產資源的需求持續上升，這也促使澳大利亞的礦業公司考慮用人民幣進行交易，以便更好地滿足中國市場的需求。此外，全球經濟環境的變化及地緣政治的影響，也使得各國企業在貨幣使用上更加謹慎。",
+          "news_focus": "Warsh will serve four-year term as chair, taking over amid rising inflation and pressure from Trump to lower rates The US Senate confirmed Kevin Warsh as chair of the Federal Reserve , one of the most powerful roles in the federal government that holds enormous sway over the economy. The 54-45 Senate vote on Wednesday was split along party lines, with the exception of the Democratic senator John Fetterman from Pennsylvania, who joined the Republican majority. It was most divisive confirmation vote for the position in history. Continue reading...",
+          "news_focus_zh": "美國參議院以54票對45票確認凱文·沃什（Kevin Warsh）擔任聯邦儲備委員會主席，取代傑羅姆·鮑威爾（Jerome Powell）。此次投票沿黨派劃分，民主黨參議員約翰·費特曼（John Fetterman）例外地支持共和黨。這是歷史上最具爭議的確認投票，沃什將在通脹上升及特朗普施壓降低利率的背景下展開四年任期。",
+          "background": "聯邦儲備委員會是美國經濟政策的核心機構，負責制定貨幣政策以應對通脹和失業等經濟挑戰。近期，美國面臨高通脹壓力，市場對利率政策的預期變化頻繁。鮑威爾在任期間，聯儲採取了多次加息措施以控制通脹，但也引發了對經濟增長的擔憂。沃什的任命可能意味著聯儲政策的轉變，尤其是他在特朗普政府期間的經驗，可能會影響未來的利率決策。",
           "stakeholders": [
-            "中國政府",
-            "澳大利亞礦業公司",
-            "全球礦業公司",
-            "國際投資者",
-            "美元使用者"
+            "凱文·沃什",
+            "聯邦儲備委員會",
+            "美國參議院",
+            "特朗普",
+            "市場投資者"
           ],
-          "analysis": "澳大利亞的礦業巨頭轉向人民幣，顯示出他們對中國市場的依賴程度加深，並可能影響全球貿易格局。這一轉變不僅有助於中國推動人民幣國際化，還可能促使其他國家和企業考慮類似的做法。然而，這也可能引發對美元主導地位的挑戰，尤其是在資源交易中。不同的礦業公司可能對此有不同的看法，部分公司可能仍然偏好使用美元以避免匯率風險。未來，若更多企業跟隨這一趨勢，將可能加速人民幣在全球市場的接受度。"
+          "analysis": "沃什的確認標誌著聯邦儲備政策可能出現重大變化，尤其是在通脹壓力持續的情況下。沃什被認為可能傾向於降低利率，以促進經濟增長，這與鮑威爾的加息策略形成對比。參考報導提到，預測市場（如Kalshi）可能成為聯儲決策的新工具，這顯示出對於政策透明度與市場反應的重視。這一變化可能會受到市場的密切關注，特別是在經濟不確定性加劇的背景下。各方對於沃什的任命反應不一，民主黨內部對於其政策方向的擔憂可能會影響未來的經濟政策討論。"
         },
         "topic_priority_score": 10,
         "event_type": "rate_decision",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "is_major_update": true,
+        "supporting_sources": [
+          "The Economist"
+        ],
+        "supporting_titles": [
+          "How Kalshi can help the Federal Reserve"
+        ],
+        "supporting_summaries": [
+          "Prediction markets may be a win for central banking"
+        ],
+        "supporting_links": [
+          "https://www.economist.com/finance-and-economics/2026/04/30/how-kalshi-can-help-the-federal-reserve"
+        ],
+        "source_count": 2,
+        "cross_section_refs": [
+          "politics"
+        ]
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
-        "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
-        "link": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
+        "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
+        "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-12T15:07:37+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "How Silicon Valley giants are turning into war contractors",
-        "link": "https://www.aljazeera.com/video/all-hail/2026/5/13/how-silicon-valley-giants-are-turning-into-war-contractors?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-13T08:41:45+00:00",
+        "published_at_utc": "2026-05-14T05:24:39+00:00",
         "relevance_score": 17
       },
       {
-        "title": "US bank discloses security lapse after sharing customer data with AI app",
-        "link": "https://techcrunch.com/2026/05/12/us-bank-discloses-security-lapse-after-sharing-customer-data-with-ai-app/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-12T16:36:44+00:00",
+        "title": "Researchers probed for cybersecurity data breach",
+        "link": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/14/2003857313",
+        "source_name": "Taipei Times",
+        "published_at_utc": "2026-05-14T00:00:00+00:00",
         "relevance_score": 17
       },
       {
-        "title": "Why Indonesia is expanding under-16 social media ban to e-commerce",
-        "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3353440/why-indonesia-expanding-under-16-social-media-ban-e-commerce?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-05-13T10:00:33+00:00",
+        "title": "Anthropic courts a new kind of customer: small business owners",
+        "link": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-13T16:00:00+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "US lawmakers demand answers from Instructure after Canvas data breaches",
+        "link": "https://techcrunch.com/2026/05/13/us-lawmakers-demand-answers-from-instructure-after-canvas-data-breaches/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-13T14:32:45+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "The shock of seeing your body used in deepfake porn",
+        "link": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+        "source_name": "MIT Technology Review",
+        "published_at_utc": "2026-05-14T09:00:00+00:00",
         "relevance_score": 16
       },
       {
-        "title": "‘Blatant disregard for rights’: concern grows over Gabon’s social media clampdown",
-        "link": "https://www.theguardian.com/world/2026/may/13/concern-gabon-social-media-clampdown-human-rights",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-13T04:00:20+00:00",
+        "title": "Meta’s New Reality: Record High Profits. Record Low Morale",
+        "link": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-05-14T09:00:00+00:00",
         "relevance_score": 16
       },
       {
-        "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
-        "link": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-05-13T00:10:05+00:00",
+        "title": "This is what some of the world’s largest banks of malware look like stacked as hard drives",
+        "link": "https://techcrunch.com/2026/05/13/this-is-what-some-of-the-worlds-largest-banks-of-malware-look-like-stacked-as-hard-drives/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-13T18:12:29+00:00",
         "relevance_score": 15
       },
       {
-        "title": "Foxconn Ransomware Attack Shows Nothing Is Safe Forever",
-        "link": "https://www.wired.com/story/foxconn-ransomware-attack-shows-nothing-is-safe-forever/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-05-12T21:52:05+00:00",
+        "title": "Anduril raises $5B, doubles valuation to $61B",
+        "link": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-13T14:44:25+00:00",
         "relevance_score": 15
       },
       {
-        "title": "NASA’s Curiosity Rover Got Its Drill Stuck on a Rock. Here’s How They Freed It",
-        "link": "https://www.wired.com/story/nasas-curiosity-rover-got-its-drill-stuck-on-a-rock-heres-how-they-freed-it/",
+        "title": "These Instagram Ads Sure Seem to Be Selling Cocaine Accessories",
+        "link": "https://www.wired.com/story/it-sure-seems-like-these-instagram-ads-think-youre-doing-cocaine-all-wrong/",
         "source_name": "Wired",
-        "published_at_utc": "2026-05-13T08:30:00+00:00",
+        "published_at_utc": "2026-05-14T09:30:00+00:00",
         "relevance_score": 14
       },
       {
-        "title": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
-        "link": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Technology",
-        "published_at_utc": "2026-05-13T05:01:07+00:00",
+        "title": "Who decides what AI tells you? Campbell Brown, once Meta’s news chief, has thoughts",
+        "link": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-14T06:05:31+00:00",
         "relevance_score": 14
-      },
-      {
-        "title": "“Will I be OK?” Teen died after ChatGPT pushed deadly mix of drugs, lawsuit says",
-        "link": "https://arstechnica.com/tech-policy/2026/05/will-i-be-ok-teen-died-after-chatgpt-pushed-deadly-mix-of-drugs-lawsuit-says/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-05-12T19:00:25+00:00",
-        "relevance_score": 13
       }
     ],
     "politics": [
       {
-        "title": "Starmer heads to parliament for king’s speech after less than 20 minute meeting with Streeting in No 10 – UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/may/13/keir-starmer-labour-party-prime-minister-leadership-wes-streeting-kings-speech-latest-news-updates",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-13T10:04:54+00:00",
-        "relevance_score": 20
+        "title": "Warsh confirmed as Federal Reserve chair, as US central bank faces Trump assault",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3353480/warsh-confirmed-federal-reserve-chair-us-central-bank-faces-trump-assault?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-13T19:42:18+00:00",
+        "relevance_score": 22
       },
       {
-        "title": "What’s at stake for tech at the Trump-Xi meeting",
-        "link": "https://restofworld.org/2026/trump-xi-meeting-tech/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "source_name": "Rest of World",
-        "published_at_utc": "2026-05-13T10:00:00+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "U.S. appeals court halts order declaring Trump’s global 10% tariff illegal",
-        "link": "https://www.thehindu.com/news/international/us-appeals-court-halts-order-declaring-trumps-global-10-tariff-illegal/article70973205.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-13T08:25:21+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "China’s Xi expected to press Trump on Taiwan, tariffs during summit",
-        "link": "https://www.aljazeera.com/news/2026/5/13/chinas-xi-to-press-trump-on-taiwan-tariffs-during-summit?traffic_source=rss",
+        "title": "How China changed Rubio name to let him join Trump summit despite sanctions",
+        "link": "https://www.aljazeera.com/news/2026/5/14/how-china-changed-rubio-name-to-let-him-join-trump-summit-despite-sanctions?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-13T07:48:54+00:00",
-        "relevance_score": 20
+        "published_at_utc": "2026-05-14T08:11:39+00:00",
+        "relevance_score": 23
       },
       {
-        "title": "‘Going to do whatever is necessary’: Trump on Russian oil waiver; forecasts inflation drop after Iran war",
-        "link": "https://www.thehindu.com/news/international/going-to-do-whatever-is-necessary-trump-on-russian-oil-waiver-forecasts-inflation-drop-after-iran-war/article70973126.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-13T07:48:39+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Who could replace Starmer as UK prime minister?",
-        "link": "https://www.scmp.com/news/world/europe/article/3353408/who-could-replace-starmer-uk-prime-minister?utm_source=rss_feed",
+        "title": "Iran’s ‘anti-American’ rhetoric tests India’s balancing act at Brics meeting",
+        "link": "https://www.scmp.com/week-asia/politics/article/3353511/irans-anti-american-rhetoric-tests-indias-balancing-act-brics-meeting?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-05-13T07:46:53+00:00",
-        "relevance_score": 20
+        "published_at_utc": "2026-05-14T05:20:23+00:00",
+        "relevance_score": 21
       },
       {
-        "title": "Chinese brands eye Europe; Geely joins Chery and BYD in profit slide: 7 EV reads",
-        "link": "https://www.scmp.com/business/china-evs/article/3353258/chinese-brands-eye-europe-geely-joins-chery-and-byd-profit-slide-7-ev-reads?utm_source=rss_feed",
+        "title": "Typhon launch of Tomahawk missile is ‘worst provocation’ by the US against China",
+        "link": "https://www.scmp.com/news/china/military/article/3353551/typhon-launch-tomahawk-missile-worst-provocation-us-against-china?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-05-13T07:30:05+00:00",
+        "published_at_utc": "2026-05-14T09:58:22+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Trump's proposed ‘Golden Dome’ estimated to cost $1.2 trillion, far more than he initially said",
-        "link": "https://www.thehindu.com/news/international/trumps-proposed-golden-dome-estimated-to-cost-12-trillion-far-more-than-he-initially-said/article70972427.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-13T05:59:28+00:00",
+        "title": "Angela Rayner says Starmer should ‘reflect on’ stepping aside after HMRC clears her over tax affairs - UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/may/14/angela-rayner-says-starmer-should-reflect-on-stepping-aside-after-hmrc-clears-her-over-tax-affairs-uk-politics-live",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-05-14T09:54:22+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Trump Tower on Gold Coast scrapped because brand 'toxic to Australians'",
-        "link": "https://www.theguardian.com/australia-news/2026/may/13/trump-tower-australia-gold-coast-scrapped-ntwnfb",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-13T05:13:54+00:00",
+        "title": "Latvia prime minister resigns days after ‘stray’ drone incursion – Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/may/14/russia-ukraine-strikes-poland-defence-talks-latest-news-updates",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-05-14T09:51:21+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Israel strikes Lebanon as 380 reported killed since April 17 ceasefire",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3353356/israel-strikes-lebanon-380-reported-killed-april-17-ceasefire?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-05-13T03:38:22+00:00",
+        "title": "Trump praises China as he ignores question about Taiwan",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/trump-praises-china-as-he-ignores-question-about-taiwan?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-05-14T08:40:01+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon",
+        "link": "https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-05-14T07:00:12+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Scepticism and tight security as Trump is welcomed by Xi to Beijing",
+        "link": "https://www.theguardian.com/world/2026/may/13/trump-visit-beijing-china-scepticism-security",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-05-14T05:46:38+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Nebraska Democratic Senate primary winner says she’ll drop out to support independent in general election",
+        "link": "https://www.theguardian.com/us-news/2026/may/12/nebraska-demoratic-house-primary-winner-cindy-burbank",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-05-14T00:23:25+00:00",
         "relevance_score": 20
       }
     ],
     "economy": [
       {
-        "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
-        "link": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
+        "title": "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up?",
+        "link": "https://www.theguardian.com/business/ng-interactive/2026/may/14/us-stock-market-war-inflation-tariffs-trump",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-05-14T10:00:24+00:00",
+        "relevance_score": 25
+      },
+      {
+        "title": "Geely, Xiaomi lead the pack: battery EVs top China sales on rising oil costs",
+        "link": "https://www.scmp.com/business/china-evs/article/3353525/geely-xiaomi-lead-pack-battery-evs-top-china-sales-rising-oil-costs?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-14T07:30:05+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Chinese chip ETFs pause trading as they warn of soaring premium risks",
+        "link": "https://www.scmp.com/business/china-business/article/3353523/chinese-chip-etfs-pause-trading-they-warn-soaring-premium-risks?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-14T06:41:23+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Why are UK prices rising more quickly?",
+        "link": "https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC Business",
-        "published_at_utc": "2026-05-12T18:36:58+00:00",
+        "published_at_utc": "2026-05-13T10:45:51+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Warning higher Europe air fares 'inevitable' due to Iran war",
+        "link": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-05-13T23:03:15+00:00",
         "relevance_score": 19
       },
       {
-        "title": "US inflation jumped to 3.8% in April as war with Iran continues to drive up prices",
-        "link": "https://www.theguardian.com/business/2026/may/12/us-inflation-april-iran-war",
+        "title": "‘I don’t think about Americans’ financial situation,’ says Trump amid Iran talks",
+        "link": "https://www.theguardian.com/us-news/2026/may/13/trump-iran-war-americans-finances",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-12T15:09:45+00:00",
+        "published_at_utc": "2026-05-13T14:03:24+00:00",
         "relevance_score": 19
       },
       {
-        "title": "UK borrowing costs jump as uncertainty over PM's future continues",
-        "link": "https://www.bbc.com/news/articles/cqjpqy19npxo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-05-12T16:31:00+00:00",
+        "title": "Cheng family’s NWD slumps after admitting 11 Skies, new investor plans stalled",
+        "link": "https://www.scmp.com/business/china-business/article/3353565/cheng-familys-nwd-slumps-after-admitting-11-skies-new-investor-plans-stalled?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-14T09:10:53+00:00",
         "relevance_score": 17
       },
       {
-        "title": "Hong Kong-listed biotech firm uses AI to produce nano-rockets to deliver life-saving drugs",
-        "link": "https://www.scmp.com/business/banking-finance/article/3353341/hong-kong-biotech-firm-uses-ai-produce-nano-rockets-deliver-life-saving-drugs?utm_source=rss_feed",
+        "title": "Olea $30M Series A paves the way for AI-Powered trade finance, backed by BBVA and global investors",
+        "link": "https://www.scmp.com/presented/business/topics/can-you-give-me-example/article/3351859/olea-30m-series-paves-way-ai-powered-trade-finance-backed-bbva-and-global-investors?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-13T01:30:13+00:00",
-        "relevance_score": 15
+        "published_at_utc": "2026-05-13T16:00:08+00:00",
+        "relevance_score": 17
       },
       {
-        "title": "Ovo energy customers urged not to panic as takeover planned",
-        "link": "https://www.bbc.com/news/articles/cn4pl91npjdo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-05-11T15:39:32+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Chinese brands eye Europe; Geely joins Chery and BYD in profit slide: 7 EV reads",
-        "link": "https://www.scmp.com/business/china-evs/article/3353258/chinese-brands-eye-europe-geely-joins-chery-and-byd-profit-slide-7-ev-reads?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-13T07:30:05+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "How new owner became all powerful in ‘high stakes’ attempt to revive former WH Smith chain",
-        "link": "https://www.theguardian.com/business/2026/may/13/wh-smith-new-owner-modella-tg-jones-stores-jobs",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-13T06:00:21+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "‘Art of the deal’: UK telecoms exit fits Li family’s trademark timing for selling at top",
-        "link": "https://www.scmp.com/business/banking-finance/article/3353185/art-deal-uk-telecoms-exit-fits-li-familys-trademark-timing-selling-top?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-11T23:00:13+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "China’s bond market faces climbing re-defaults as property crisis drags on",
-        "link": "https://www.scmp.com/business/article/3353172/chinas-bond-market-faces-climbing-re-defaults-property-crisis-drags?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-11T12:30:15+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Private equity firm EQT to buy Japan restaurant review operator for $3.7bn",
-        "link": "https://asia.nikkei.com/business/business-deals/private-equity-firm-eqt-to-buy-japan-restaurant-review-operator-for-3.7bn",
+        "title": "Japan long-term bond yields surge past 2.6% as inflation runs hot",
+        "link": "https://asia.nikkei.com/business/markets/japan-long-term-bond-yields-surge-past-2.6-as-inflation-runs-hot",
         "source_name": "Nikkei Asia",
         "published_at_utc": "",
-        "relevance_score": 13
+        "relevance_score": 15
+      },
+      {
+        "title": "Iran war inflation is hitting Japan faster than previous oil shocks",
+        "link": "https://asia.nikkei.com/business/markets/commodities/iran-war-inflation-is-hitting-japan-faster-than-previous-oil-shocks",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
+        "relevance_score": 15
       }
     ]
   },
