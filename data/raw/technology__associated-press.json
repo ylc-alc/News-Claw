@@ -5,11 +5,23 @@
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+technology&ceid=US:en&hl=en-US&gl=US",
     "feed_title": "\"when:24h allinurl:apnews.com technology\" - Google News",
     "feed_link": "https://news.google.com/search?q=when:24h+allinurl:apnews.com+technology&ceid=US:en&hl=en-US&gl=US",
-    "fetched_at_utc": "2026-05-14T10:05:55.444232+00:00",
-    "entry_count": 0,
+    "fetched_at_utc": "2026-05-15T10:11:58.139316+00:00",
+    "entry_count": 1,
     "bozo": false,
-    "failed": true,
-    "failure_reason": "feed returned zero entries"
+    "failed": false,
+    "failure_reason": ""
   },
-  "items": []
+  "items": [
+    {
+      "category": "technology",
+      "source_name": "Associated Press",
+      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+technology&ceid=US:en&hl=en-US&gl=US",
+      "title": "Some parents don’t want their kids to use tech at school. But districts are pushing back - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV09ITUNSZTZPckJ6TDBHMlB6X2lPSDJyR2ZvdUVNU2JOT1pOYTBBOUtJNlI3LXh5ZTBudXRtWEN4OU9iYnhnRG5vamRCTVE2RV92V3UwQ1djdFlROG1jZFF3SWg2VGw2WEVEdG9zUTVqTFZDc1p3RWN5SHRpV2xudTllUUVlOWttZjVSNVV6TUE4VnlNSHRZNUc2UXJrcGZjUlhVdmNZXzZPLTgwR1I2blpjbExaS3dv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV09ITUNSZTZPckJ6TDBHMlB6X2lPSDJyR2ZvdUVNU2JOT1pOYTBBOUtJNlI3LXh5ZTBudXRtWEN4OU9iYnhnRG5vamRCTVE2RV92V3UwQ1djdFlROG1jZFF3SWg2VGw2WEVEdG9zUTVqTFZDc1p3RWN5SHRpV2xudTllUUVlOWttZjVSNVV6TUE4VnlNSHRZNUc2UXJrcGZjUlhVdmNZXzZPLTgwR1I2blpjbExaS3dv?oc=5\" target=\"_blank\">Some parents don’t want their kids to use tech at school. But districts are pushing back</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "Thu, 14 May 2026 19:31:00 GMT",
+      "updated": "Thu, 14 May 2026 19:31:00 GMT",
+      "id": "CBMiuAFBVV95cUxNV09ITUNSZTZPckJ6TDBHMlB6X2lPSDJyR2ZvdUVNU2JOT1pOYTBBOUtJNlI3LXh5ZTBudXRtWEN4OU9iYnhnRG5vamRCTVE2RV92V3UwQ1djdFlROG1jZFF3SWg2VGw2WEVEdG9zUTVqTFZDc1p3RWN5SHRpV2xudTllUUVlOWttZjVSNVV6TUE4VnlNSHRZNUc2UXJrcGZjUlhVdmNZXzZPLTgwR1I2blpjbExaS3dv"
+    }
+  ]
 }
