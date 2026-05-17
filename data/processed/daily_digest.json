@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-05-16T09:20:41.112258+00:00",
+  "generated_at_utc": "2026-05-17T09:27:14.357866+00:00",
   "summary": {
-    "total_raw_items": 1058,
-    "total_deduped_items": 1036,
+    "total_raw_items": 1048,
+    "total_deduped_items": 1021,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
         "ai",
-        "chips",
-        "chips"
+        "ai",
+        "ai"
       ],
       "politics": [
-        "us_politics",
         "war_and_conflict",
+        "diplomacy",
         "us_politics"
       ],
       "economy": [
-        "inflation",
-        "interest_rates",
+        "markets",
+        "trade_wars",
         "markets"
       ]
     },
@@ -29,26 +29,59 @@
       {
         "category": "technology",
         "source_name": "TechCrunch",
-        "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-        "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-        "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-        "published": "Fri, 15 May 2026 16:00:00 +0000",
-        "updated": "Fri, 15 May 2026 16:00:00 +0000",
-        "published_at_utc": "2026-05-15T16:00:00+00:00",
-        "id": "https://techcrunch.com/?p=3122997",
+        "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
+        "link": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
+        "summary": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
+        "published": "Sat, 16 May 2026 19:26:14 +0000",
+        "updated": "Sat, 16 May 2026 19:26:14 +0000",
+        "published_at_utc": "2026-05-16T19:26:14+00:00",
+        "id": "https://techcrunch.com/?p=3123174",
         "topic_type": "ai",
-        "relevance_score": 17,
+        "relevance_score": 15,
         "briefing": {
-          "news_focus": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-          "news_focus_zh": "OpenAI推出了新的ChatGPT功能，專注於個人財務管理。用戶可以連接自己的銀行帳戶，從而在一個儀表板上查看其投資組合表現、支出、訂閱服務及即將到期的付款。這一功能旨在幫助用戶更好地管理和監控其財務狀況。",
-          "background": "隨著數位金融服務的興起，越來越多的科技公司開始提供個人財務管理工具。這些工具通常整合了用戶的銀行帳戶、信用卡及其他財務資訊，幫助用戶進行預算編制和支出分析。OpenAI的這一新功能進一步擴展了其在人工智慧領域的應用，並且可能會吸引對個人財務管理有需求的用戶群體，尤其是在當前經濟不確定性增加的背景下。",
+          "news_focus": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
+          "news_focus_zh": "AI驅動的行銷平台Nectar Social於週四宣布完成3000萬美元的A輪融資，該輪融資由Menlo Ventures及其與Anthropic共同創立的Anthology Fund主導。這筆資金將用於擴大其行銷操作系統的功能與市場佔有率。",
+          "background": "隨著數位行銷需求的增加，許多企業開始尋求更高效的行銷解決方案。AI技術的進步使得行銷平台能夠提供更精準的數據分析與自動化功能，從而提升行銷活動的效果。Nectar Social的成立正是基於這一市場需求，旨在幫助企業更好地管理其行銷策略。Menlo Ventures作為知名的風險投資公司，專注於科技領域的創新企業，這次的投資顯示出他們對Nectar Social未來潛力的信心。",
           "stakeholders": [
-            "OpenAI",
-            "用戶",
-            "傳統金融服務提供商",
-            "數據隱私監管機構"
+            "Nectar Social",
+            "Menlo Ventures",
+            "Anthropic",
+            "行銷業者",
+            "投資者"
           ],
-          "analysis": "OpenAI推出此功能的主要目的是進一步擴展其產品的應用範圍，並吸引更多用戶進入其生態系統。這一舉措可能會引發與傳統金融服務提供商的競爭，因為這些公司也在積極開發類似的數位財務管理工具。此外，這項功能的推出可能會引發對用戶數據隱私的擔憂，因為用戶需要連接銀行帳戶，這涉及到敏感的財務資訊。各方可能會對數據安全性和隱私保護提出不同的看法，這將是未來發展中需要關注的重點。"
+          "analysis": "Nectar Social的成功融資不僅顯示出市場對AI行銷解決方案的需求，也反映了投資者對於該領域的信心。Menlo Ventures作為主要投資者，可能會利用其資源和網絡來幫助Nectar Social擴展市場份額，提升產品功能。未來，Nectar Social可能會面臨來自其他競爭對手的挑戰，尤其是在AI行銷平台日益增多的情況下。此外，該平台的發展也可能受到行業規範和數據隱私法規的影響，這些都是其未來發展需考量的重要因素。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "strategic_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "TechCrunch",
+        "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+        "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+        "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+        "published": "Sat, 16 May 2026 18:54:28 +0000",
+        "updated": "Sat, 16 May 2026 18:54:28 +0000",
+        "published_at_utc": "2026-05-16T18:54:28+00:00",
+        "id": "https://techcrunch.com/?p=3123369",
+        "topic_type": "ai",
+        "relevance_score": 15,
+        "briefing": {
+          "news_focus": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+          "news_focus_zh": "ArXiv宣布將對那些讓人工智慧完全負責撰寫科學論文的作者實施一年的禁令，以加強對大型語言模型在科學研究中不當使用的管控。這一措施旨在確保研究的質量與誠信，並防止學術不端行為的擴散。",
+          "background": "ArXiv是一個廣泛使用的預印本平台，主要用於分享科學研究成果。隨著大型語言模型的興起，越來越多的研究者開始依賴這些工具來撰寫或輔助撰寫論文。然而，這也引發了對學術誠信的擔憂，因為過度依賴AI可能導致研究質量下降或抄襲等問題。ArXiv的禁令反映了學術界對於如何正確使用AI工具的日益關注，並試圖建立明確的規範以維護學術研究的完整性。",
+          "stakeholders": [
+            "ArXiv",
+            "研究者",
+            "學術界",
+            "AI開發者"
+          ],
+          "analysis": "ArXiv的禁令可能會引發學術界的廣泛討論，尤其是在如何平衡AI技術的使用與學術誠信之間的矛盾。支持者認為，這一措施能夠有效防止學術不端行為，促使研究者更加謹慎地使用AI工具。然而，反對者可能會認為這樣的禁令過於嚴苛，限制了研究者利用新技術提升研究效率的潛力。未來，ArXiv可能需要進一步明確何種情況下會被視為「讓AI做所有工作」，以避免模糊的界定造成不必要的爭議。"
         },
         "topic_priority_score": 9,
         "event_type": "regulation_action",
@@ -60,63 +93,30 @@
       },
       {
         "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip",
-        "link": "https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/",
-        "summary": "While the summit appeared cordial, China remains a key adversary of the United States, given its advanced intelligence and espionage capabilities.",
-        "published": "Fri, 15 May 2026 15:42:11 +0000",
-        "updated": "Fri, 15 May 2026 15:42:11 +0000",
-        "published_at_utc": "2026-05-15T15:42:11+00:00",
-        "id": "https://techcrunch.com/?p=3123047",
-        "topic_type": "chips",
-        "relevance_score": 17,
+        "source_name": "Wired",
+        "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
+        "link": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
+        "summary": "Plus: Instructure’s Canvas ransomware debacle comes to a close, an alleged dark net market kingpin gets arrested, OpenAI workers fall victim to a supply chain attack, and more.",
+        "published": "Sat, 16 May 2026 10:30:00 +0000",
+        "updated": "Sat, 16 May 2026 10:30:00 +0000",
+        "published_at_utc": "2026-05-16T10:30:00+00:00",
+        "id": "6a072f7784239d1b1a3a669d",
+        "topic_type": "ai",
+        "relevance_score": 15,
         "briefing": {
-          "news_focus": "While the summit appeared cordial, China remains a key adversary of the United States, given its advanced intelligence and espionage capabilities.",
-          "news_focus_zh": "美國在中國行程結束後，要求搭乘空軍一號的旅客必須丟棄禮物、胸針和一次性手機。儘管此次峰會表面上氣氛融洽，但美國依然將中國視為主要對手，特別是在情報和間諜能力方面。",
-          "background": "美國與中國之間的關係近年來持續緊張，尤其在科技、貿易和國際安全等領域。中國的先進情報技術和間諜活動使得美國對其行動保持高度警惕。在此背景下，美國政府對於與中國的高層交流採取了更為謹慎的態度，尤其是在涉及敏感信息和國家安全的情況下。此次要求旅客丟棄物品的措施，反映出美國對於潛在安全風險的重視，並試圖防範任何可能的情報洩露。",
+          "news_focus": "Plus: Instructure’s Canvas ransomware debacle comes to a close, an alleged dark net market kingpin gets arrested, OpenAI workers fall victim to a supply chain attack, and more.",
+          "news_focus_zh": "兩名網路犯罪雙胞胎因忘記關閉Microsoft Teams錄音功能而被捕。這一失誤使得警方能夠獲取他們的犯罪證據，進而逮捕他們。這起事件引發了對於網路安全及數位證據管理的關注。",
+          "background": "隨著數位化的加速，網路犯罪活動日益猖獗，特別是在勒索軟體和黑市交易方面。許多犯罪團夥利用先進的技術進行隱蔽操作，然而，這也使得他們在某些情況下暴露於執法機構的監控之下。Microsoft Teams等通訊工具的普及，雖然提高了工作效率，但也可能成為網路犯罪者的失誤來源，因為這些工具的錄音和記錄功能可能無意中留下證據。",
           "stakeholders": [
-            "美國政府",
-            "中國政府",
-            "國際旅客",
-            "情報機構",
-            "外交官"
+            "執法機構",
+            "網路安全專家",
+            "企業",
+            "網路犯罪者",
+            "科技公司"
           ],
-          "analysis": "此次事件顯示出美國對中國的警惕性，尤其是在高層交流後對安全的重視。美國政府的這一要求，可能是基於對中國情報能力的擔憂，並意在防範任何可能的間諜行為。這一措施也可能引發對於外交交流中安全措施的討論，尤其是在涉及敏感技術或情報的情況下。未來，美國可能會進一步加強對與中國的交流中涉及的安全規範，並在國際場合中強調其對中國行為的警惕性，這將影響兩國未來的互動模式。"
+          "analysis": "這起事件突顯了網路犯罪者在高科技環境中仍然可能犯下基本錯誤，這對於執法機構來說是一個機會。警方能夠利用這些數位證據來追查和打擊網路犯罪，顯示出在數位時代，證據的收集和管理至關重要。隨著網路犯罪的手法不斷演變，執法機構也必須不斷更新其技術和策略，以應對這些挑戰。此外，這一事件可能會促使企業在使用通訊工具時加強安全意識，避免類似的失誤發生。"
         },
-        "topic_priority_score": 10,
-        "event_type": "strategic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "SCMP Business",
-        "title": "Trump, Xi weigh AI ‘guardrails’ as Nvidia chip exports hang in the balance",
-        "link": "https://www.scmp.com/tech/article/3353764/trump-xi-weigh-ai-guardrails-nvidia-chip-exports-hang-balance?utm_source=rss_feed",
-        "summary": "US President Donald Trump and Chinese officials discussed artificial intelligence “guardrails” and Nvidia’s H200 chips during his just-ended state visit to Beijing. Speaking to reporters on Air Force One during his return flight, Trump said the two sides “talked about possibly working together for guardrails” on AI, characterising them as “standard guardrails that we talk about all the time”. Regarding Nvidia’s H200 graphics processing units (GPUs) – shipments of which have yet to be approved by...",
-        "published": "Fri, 15 May 2026 13:45:47 +0000",
-        "updated": "Fri, 15 May 2026 13:45:47 +0000",
-        "published_at_utc": "2026-05-15T13:45:47+00:00",
-        "id": "https://www.scmp.com/tech/article/3353764/trump-xi-weigh-ai-guardrails-nvidia-chip-exports-hang-balance?utm_source=rss_feed",
-        "topic_type": "chips",
-        "relevance_score": 17,
-        "briefing": {
-          "news_focus": "US President Donald Trump and Chinese officials discussed artificial intelligence “guardrails” and Nvidia’s H200 chips during his just-ended state visit to Beijing. Speaking to reporters on Air Force One during his return flight, Trump said the two sides “talked about possibly working together for guardrails” on AI, characterising them as “standard guardrails that we talk about all the time”. Regarding Nvidia’s H200 graphics processing units (GPUs) – shipments of which have yet to be approved by...",
-          "news_focus_zh": "美國總統特朗普與中國官員在其剛結束的北京國事訪問期間，討論了人工智慧的「護欄」及Nvidia的H200晶片出口問題。特朗普在返回的空軍一號上對記者表示，雙方探討了可能合作制定AI的護欄，並將其形容為「我們經常談論的標準護欄」。至於Nvidia的H200圖形處理單元（GPU），其出貨尚未獲得批准。",
-          "background": "在全球科技競爭日益激烈的背景下，人工智慧技術的發展引發了各國對於監管的關注。美國與中國在AI領域的競爭日益加劇，特別是在半導體技術方面。Nvidia作為領先的GPU製造商，其產品在AI訓練和推理中扮演著關鍵角色。特朗普政府對於出口管制的政策使得Nvidia的H200晶片出口成為焦點，這不僅影響到美中雙方的科技合作，也可能影響全球科技供應鏈的穩定性。",
-          "stakeholders": [
-            "美國政府",
-            "中國政府",
-            "Nvidia",
-            "科技產業",
-            "全球市場"
-          ],
-          "analysis": "特朗普與中國官員的會談顯示出雙方在AI監管方面的合作意願，這可能是出於對於AI技術快速發展的共同擔憂。美方希望透過制定標準護欄來減少潛在的風險，而中方則可能希望在一定程度上保護其科技產業的發展。Nvidia的H200晶片出口問題則反映了美中在科技領域的緊張關係，若出口未獲批准，將對Nvidia及其客戶造成影響。未來，雙方是否能在AI監管上達成共識，將對全球科技市場及兩國的經濟關係產生深遠影響。"
-        },
-        "topic_priority_score": 10,
+        "topic_priority_score": 9,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -128,28 +128,76 @@
     "politics": [
       {
         "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "Taiwan says is an ‘independent’ nation, after Trump’s warning",
-        "link": "https://www.thehindu.com/news/international/taiwan-says-is-an-independent-nation-after-trumps-warning/article70986163.ece",
-        "summary": "Taiwan depends heavily on U.S. security backing to deter China from carrying out its threat to annex the island by force",
-        "published": "Sat, 16 May 2026 12:56:17 +0530",
-        "updated": "Sat, 16 May 2026 12:56:17 +0530",
-        "published_at_utc": "2026-05-16T07:26:17+00:00",
-        "id": "article-70986163",
-        "topic_type": "us_politics",
-        "relevance_score": 20,
+        "source_name": "BBC World",
+        "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+        "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+        "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
+        "published": "Sat, 16 May 2026 22:27:44 GMT",
+        "updated": "Sat, 16 May 2026 22:27:44 GMT",
+        "published_at_utc": "2026-05-16T22:27:44+00:00",
+        "id": "https://www.bbc.com/news/articles/cqlpzzl0d67o#1",
+        "topic_type": "war_and_conflict",
+        "relevance_score": 24,
         "briefing": {
-          "news_focus": "Taiwan depends heavily on U.S. security backing to deter China from carrying out its threat to annex the island by force",
-          "news_focus_zh": "台灣在特朗普的警告後重申其為一個‘獨立’的國家，這一表態強調了台灣對美國安全支持的依賴，以抵禦中國對其強制併吞的威脅。此舉可能是對中國日益增強的軍事壓力的直接回應。",
-          "background": "台灣的獨立性問題長期以來一直是中美之間的敏感議題。中國政府視台灣為其領土的一部分，並不斷強調其統一的立場。隨著中國軍事力量的增強，台灣對美國的安全支持變得愈加依賴。美國在此背景下，對台灣的防衛承諾成為其對抗中國影響力的重要策略之一。特朗普的警告可能反映了美國對台灣安全局勢的關注，並試圖在國際上強調台灣的獨立性。",
+          "news_focus": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
+          "news_focus_zh": "黎巴嫩政府報告指出，最近以色列的空襲造成六人死亡，這一事件發生在美國宣布延長停火協議之後。儘管停火協議已經生效，以色列和真主黨之間的交火仍然持續，顯示出局勢的緊張與不穩定。",
+          "background": "在過去的幾個月中，以色列與真主黨之間的衝突加劇，導致多次軍事行動和人員傷亡。美國總統特朗普在上個月宣布了一項停火協議，旨在緩解該地區的緊張局勢。然而，這項協議似乎未能有效阻止雙方的軍事行動，特別是在黎巴嫩南部地區。隨著地緣政治的複雜性增加，伊朗與以色列之間的緊張關係也在加劇，特別是在伊朗與美國之間的和平談判背景下。",
           "stakeholders": [
-            "台灣政府",
-            "美國政府",
-            "中國政府"
+            "以色列",
+            "黎巴嫩",
+            "真主黨",
+            "美國",
+            "伊朗"
           ],
-          "analysis": "台灣重申獨立的立場，顯示出其在面對中國威脅時的堅定態度。這一表態可能會引發中國的強烈反應，進一步加劇兩岸緊張局勢。美國的支持對台灣來說至關重要，尤其是在特朗普的警告背景下，台灣希望藉此強化其國際地位。然而，這也可能使美國面臨更大的外交壓力，因為中國可能會對美國的支持行動作出報復。各方的利益交織，使得台灣問題成為國際政治中的一個複雜議題，未來的發展仍需密切關注。"
+          "analysis": "此次以色列空襲導致的六人死亡事件，顯示出停火協議的脆弱性，並可能引發更大規模的衝突。根據參考報導，儘管停火延長，但以色列仍持續對黎巴嫩進行空襲，這表明以色列對真主黨的威脅評估依然高漲。此外，參考報導中提到的伊朗與美國的和平談判，可能會影響以色列的軍事策略，因為以色列擔心伊朗在該地區的影響力擴大。各方在此事件中的立場差異明顯，以色列強調自衛權，而黎巴嫩則譴責以色列的侵略行為，這使得局勢更加複雜。"
         },
-        "topic_priority_score": 8,
+        "topic_priority_score": 11,
+        "event_type": "diplomatic_move",
+        "is_major_update": true,
+        "supporting_sources": [
+          "Taipei Times",
+          "The Hindu International"
+        ],
+        "supporting_titles": [
+          "Israeli airstrikes hit Lebanon, despite ceasefire extension",
+          "Iran-Israel war LIVE: Israel strikes south Lebanon day after ceasefire extension"
+        ],
+        "supporting_summaries": [
+          "",
+          "Pakistan’s Interior Minister arrived in Tehran on Saturday “to facilitate” Iran-U.S. peace talks"
+        ],
+        "supporting_links": [
+          "https://www.taipeitimes.com/News/front/archives/2026/05/17/2003857469",
+          "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-lebanon-airstrikes-ceasefire-hezbollah-strait-of-hormuz/article70989557.ece"
+        ],
+        "source_count": 3
+      },
+      {
+        "category": "politics",
+        "source_name": "The Hindu International",
+        "title": "BRICS is evolving with new members; differences will take time to resolve: Brazil FM Mauro Vieira",
+        "link": "https://www.thehindu.com/news/international/brics-is-evolving-with-new-members-differences-will-take-time-to-resolve-brazil-fm-mauro-vieira/article70986172.ece",
+        "summary": "UAE-Iran tensions over the war hold up consensus at BRICS FM meet; could spell trouble for BRICS Summit in September",
+        "published": "Sun, 17 May 2026 11:54:54 +0530",
+        "updated": "Sun, 17 May 2026 11:54:54 +0530",
+        "published_at_utc": "2026-05-17T06:24:54+00:00",
+        "id": "article-70986172",
+        "topic_type": "diplomacy",
+        "relevance_score": 19,
+        "briefing": {
+          "news_focus": "UAE-Iran tensions over the war hold up consensus at BRICS FM meet; could spell trouble for BRICS Summit in September",
+          "news_focus_zh": "巴西外交部長毛羅·維埃拉表示，BRICS集團正在隨著新成員的加入而演變，但成員國之間的差異需要時間來解決。在最近的外長會議上，阿聯酋與伊朗之間的緊張局勢影響了會議的一致性，這可能對即將於九月召開的BRICS峰會造成困難。",
+          "background": "BRICS集團由巴西、俄羅斯、印度、中國和南非組成，隨著新成員的加入，該組織的影響力和多樣性持續增強。然而，成員國之間的政治和經濟利益差異，尤其是在地緣政治緊張的背景下，可能會影響集團的統一性。阿聯酋和伊朗之間的緊張關係，尤其是在中東地區的衝突背景下，為BRICS的內部協調帶來挑戰，這要求成員國在多邊合作中找到共同立場。",
+          "stakeholders": [
+            "巴西",
+            "阿聯酋",
+            "伊朗",
+            "中國",
+            "印度"
+          ],
+          "analysis": "毛羅·維埃拉的發言突顯了BRICS集團在面對新挑戰時的脆弱性。阿聯酋與伊朗的緊張關係可能使得成員國在重要議題上難以達成共識，這對即將召開的峰會構成潛在威脅。不同成員國的利益和立場差異，特別是在能源政策和地緣政治方面，將進一步加劇這種挑戰。未來，BRICS需要在多元化的成員中找到平衡，以維持其作為全球重要經濟體的地位。若未能有效解決內部矛盾，BRICS的凝聚力和影響力可能會受到削弱。"
+        },
+        "topic_priority_score": 7,
         "event_type": "security_event",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -159,160 +207,122 @@
       },
       {
         "category": "politics",
-        "source_name": "BBC World",
-        "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
-        "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
-        "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
-        "published": "Fri, 15 May 2026 23:59:07 GMT",
-        "updated": "Fri, 15 May 2026 23:59:07 GMT",
-        "published_at_utc": "2026-05-15T23:59:07+00:00",
-        "id": "https://www.bbc.com/news/articles/cqlpzzl0d67o#0",
-        "topic_type": "war_and_conflict",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
-          "news_focus_zh": "黎巴嫩報導指出，近期以色列的空襲造成六人喪生，這一事件發生在美國宣布延長停火協議的背景下。儘管停火協議自上個月由特朗普總統宣布，但以色列與真主黨之間的衝突仍在持續進行。",
-          "background": "自4月17日以來，以色列與伊朗支持的真主黨之間的衝突雖然名義上已經進入停火狀態，但實際上雙方仍然頻繁交火，造成大量人員傷亡。根據參考報導，儘管停火協議的存在，數百人已在此期間的空襲中喪生，顯示出停火協議的脆弱性與執行困難。美國在此背景下的外交努力，試圖促進持久和平，但目前的局勢顯示出各方在實際行動上的不一致。",
-          "stakeholders": [
-            "以色列",
-            "真主黨",
-            "美國",
-            "黎巴嫩政府",
-            "伊朗"
-          ],
-          "analysis": "以色列與真主黨之間的衝突持續升級，顯示出停火協議的有效性受到質疑。以色列的空襲行動可能是對真主黨持續挑釁的回應，而真主黨則可能藉此增強其在黎巴嫩及地區的影響力。美國的介入意在促進和平，但目前的外交努力似乎未能有效制止雙方的敵對行為。參考報導指出，儘管有停火協議，但實際上雙方的軍事行動並未減少，這可能使得未來的和平談判更加複雜，因為雙方的信任基礎已經受到侵蝕。"
-        },
-        "topic_priority_score": 11,
-        "event_type": "diplomatic_move",
-        "supporting_sources": [
-          "The Hindu International"
-        ],
-        "supporting_titles": [
-          "Israeli strikes wound dozens in Lebanon as talks in U.S. enter second day"
-        ],
-        "supporting_summaries": [
-          "A truce in the war between Israel and Iran-backed Hezbollah has been in place since April 17, but it has not stopped the fighting, with hundreds killed in strikes since then"
-        ],
-        "supporting_links": [
-          "https://www.thehindu.com/news/international/israeli-strikes-wound-dozens-in-lebanon-as-talks-in-us-enter-second-day/article70984675.ece"
-        ],
-        "source_count": 2
-      },
-      {
-        "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "13 men killed by US military boat strikes identified: ‘These were flesh-and-blood people’",
-        "link": "https://www.theguardian.com/us-news/2026/may/15/us-military-airstrikes-caribbean-pacific-victim-identities",
-        "summary": "All victims of US strikes in eastern Pacific and the Caribbean identified so far came from extremely poor communities Sign up for the Breaking News US newsletter email A five-month investigation has named 13 previously unidentified victims of US attacks on boats allegedly carrying narcotics in a campaign that has killed nearly 200 people in the Caribbean and the eastern Pacific. It is unclear if the US has ever identified any of its 194 victims before attacking them, and the names of just three had previously emerged, after their families launched legal cases against the White House. Continue reading...",
-        "published": "Fri, 15 May 2026 10:00:37 GMT",
-        "updated": "2026-05-15T10:00:37Z",
-        "published_at_utc": "2026-05-15T10:00:37+00:00",
-        "id": "https://www.theguardian.com/us-news/2026/may/15/us-military-airstrikes-caribbean-pacific-victim-identities",
+        "source_name": "SCMP World",
+        "title": "Why Trump took US tech leaders to Beijing",
+        "link": "https://www.scmp.com/opinion/china-opinion/article/3353561/why-trump-took-us-tech-leaders-beijing?utm_source=rss_feed",
+        "summary": "US President Donald Trump’s visit to Beijing with a delegation of leading American tech executives should not be read as a throwback to transactional diplomacy. It points to something more consequential. After years of rhetoric about economic separation, the reality is becoming harder to ignore: the United States and China are not decoupling. They are learning how to compete while remaining deeply entangled. For much of the past decade, Washington has framed its China policy around technological...",
+        "published": "Sun, 17 May 2026 08:30:05 +0000",
+        "updated": "Sun, 17 May 2026 08:30:05 +0000",
+        "published_at_utc": "2026-05-17T08:30:05+00:00",
+        "id": "https://www.scmp.com/opinion/china-opinion/article/3353561/why-trump-took-us-tech-leaders-beijing?utm_source=rss_feed",
         "topic_type": "us_politics",
-        "relevance_score": 20,
+        "relevance_score": 18,
         "briefing": {
-          "news_focus": "All victims of US strikes in eastern Pacific and the Caribbean identified so far came from extremely poor communities Sign up for the Breaking News US newsletter email A five-month investigation has named 13 previously unidentified victims of US attacks on boats allegedly carrying narcotics in a campaign that has killed nearly 200 people in the Caribbean and the eastern Pacific. It is unclear if the US has ever identified any of its 194 victims before attacking them, and the names of just three had previously emerged, after their families launched legal cases against the White House. Continue reading...",
-          "news_focus_zh": "美國軍方在東太平洋和加勒比海的攻擊行動中，已確認13名受害者的身份，這些人來自極度貧困的社區。這些攻擊針對被指控運載毒品的船隻，至今已造成近200人死亡。此前，只有三名受害者的身份被公開，且是因其家屬對白宮提起法律訴訟所致，這使得美國在攻擊前是否識別受害者的問題引發關注。",
-          "background": "美國在打擊毒品走私的行動中，經常使用軍事力量，尤其是在加勒比海和東太平洋地區。這些地區的貧困社區往往成為攻擊的重點，因為這些社區與毒品走私活動有著密切的關聯。過去的報導指出，美國的這些攻擊行動造成大量平民傷亡，但受害者的身份往往未被公開，這引發了對美國軍事行動透明度和合法性的質疑。這次事件的調查結果，首次將受害者的身份與其社會背景相連結，突顯出這些攻擊對於貧困社區的影響。",
+          "news_focus": "US President Donald Trump’s visit to Beijing with a delegation of leading American tech executives should not be read as a throwback to transactional diplomacy. It points to something more consequential. After years of rhetoric about economic separation, the reality is becoming harder to ignore: the United States and China are not decoupling. They are learning how to compete while remaining deeply entangled. For much of the past decade, Washington has framed its China policy around technological...",
+          "news_focus_zh": "美國總統唐納德·特朗普帶領一群美國科技領袖訪問北京，這一行動不僅僅是傳統外交的回歸，而是顯示出美中之間的經濟關係越來越緊密。儘管過去幾年美國對中國的政策強調經濟脫鉤，但現實是兩國在競爭中依然保持深度交織，這一點愈發明顯。",
+          "background": "在過去十年中，美國的對華政策主要圍繞科技領域展開，尤其是在貿易和技術競爭方面。隨著中國在科技創新上的快速發展，美國開始意識到，單靠脫鉤無法解決問題，反而需要在競爭中找到合作的空間。特朗普的訪問不僅是商業領袖的交流，也是在尋求如何在保持競爭的同時，維持經濟互動的可能性。",
           "stakeholders": [
-            "美國軍方",
-            "受害者家庭",
+            "美國政府",
+            "中國政府",
+            "美國科技公司",
             "人權組織",
-            "法律機構",
-            "國際社會"
+            "國際市場"
           ],
-          "analysis": "此次確認受害者身份的報導，標誌著美國在其軍事行動中對於受害者透明度的重大進展。過去，對於受害者的身份和背景缺乏詳細的披露，使得外界對美國的行動合法性產生質疑。此次調查揭示了受害者來自極度貧困社區的事實，可能會引發更廣泛的社會反響，並促使人權組織和法律機構進一步關注這些事件。此舉也可能影響美國政府在未來的軍事行動中，對於受害者識別和透明度的政策。隨著更多受害者身份的公開，社會對於這些軍事行動的道德和法律責任的討論將愈加激烈。"
+          "analysis": "特朗普的訪問顯示出美中兩國在科技領域的相互依賴性，這與過去幾年美方強調的脫鉤政策形成鮮明對比。參考報導中提到，特朗普還承諾將在訪問期間向習近平提及被拘留的牧師案件，這表明他在外交上也試圖平衡人權議題與經濟利益的考量。不同報導的重點各異，Fox News強調了人權問題，而SCMP則集中於經濟合作的潛力，顯示出特朗普在外交上可能面臨的多重挑戰與機會。"
         },
         "topic_priority_score": 8,
-        "event_type": "election_move",
-        "is_major_update": true,
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "event_type": "political_signal",
+        "supporting_sources": [
+          "Fox News World",
+          "Taipei Times"
+        ],
+        "supporting_titles": [
+          "Trump pledges to raise detained pastor's case with Xi Jinping during Beijing visit as family pleads for help",
+          "Trump has a plan to monumentalize himself"
+        ],
+        "supporting_summaries": [
+          "Pastor Ezra Jin's daughter speaks about her father's detention in China and Trump's pledge to raise his case with Xi Jinping during Beijing visit.",
+          ""
+        ],
+        "supporting_links": [
+          "https://www.foxnews.com/world/trump-pledges-raise-detained-pastors-case-xi-jinping-beijing-visit-family-pleads-help",
+          "https://www.taipeitimes.com/News/editorials/archives/2026/05/17/2003857462"
+        ],
+        "source_count": 3
       }
     ],
     "economy": [
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Pound heads for worst week in 18 months as Burnham lines up Labour bid",
-        "link": "https://www.theguardian.com/business/2026/may/15/pound-sterling-andy-burnham-labour-bid-uk-borrowing-bond-yield-oil-price-inflation",
-        "summary": "UK government borrowing costs jump amid political uncertainty and oil price rise that fuelled inflation worries Business live – latest updates The pound was heading for its worst week in 18 months on Friday as City traders anticipated that the UK prime minister, Keir Starmer, could face a challenge from the Manchester mayor, Andy Burnham, later this year. After days of uncertainty over Starmer’s future, sterling dropped by about three cents, or 2.2%, during the week to $1.332 on Friday, a five-week low. That would be the largest weekly drop against the US dollar since Donald Trump’s election win in early November 2024. Continue reading...",
-        "published": "Fri, 15 May 2026 16:17:30 GMT",
-        "updated": "2026-05-15T16:17:30Z",
-        "published_at_utc": "2026-05-15T16:17:30+00:00",
-        "id": "https://www.theguardian.com/business/2026/may/15/pound-sterling-andy-burnham-labour-bid-uk-borrowing-bond-yield-oil-price-inflation",
-        "topic_type": "inflation",
-        "relevance_score": 21,
+        "source_name": "Al Jazeera",
+        "title": "Activists troll far-right UK rally with giant pro-immigration clip",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/aje-onl-nf_clip-led-by-donkeys-hijack-far-right-rally-160526?traffic_source=rss",
+        "summary": "Led By Donkeys has snuck a big screen streaming pro-immigration messages into a far-right rally in the UK.",
+        "published": "Sun, 17 May 2026 02:14:28 +0000",
+        "updated": "Sun, 17 May 2026 02:14:28 +0000",
+        "published_at_utc": "2026-05-17T02:14:28+00:00",
+        "id": "https://www.aljazeera.com/?t=1778983102",
+        "topic_type": "markets",
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "UK government borrowing costs jump amid political uncertainty and oil price rise that fuelled inflation worries Business live – latest updates The pound was heading for its worst week in 18 months on Friday as City traders anticipated that the UK prime minister, Keir Starmer, could face a challenge from the Manchester mayor, Andy Burnham, later this year. After days of uncertainty over Starmer’s future, sterling dropped by about three cents, or 2.2%, during the week to $1.332 on Friday, a five-week low. That would be the largest weekly drop against the US dollar since Donald Trump’s election win in early November 2024. Continue reading...",
-          "news_focus_zh": "英鎊在本週面臨18個月以來的最糟表現，主要因為市場對英國首相基爾·斯塔默（Keir Starmer）可能面臨來自曼徹斯特市長安迪·伯納姆（Andy Burnham）的挑戰感到不安。隨著不確定性加劇，英鎊在一週內下跌約3美分，跌幅達2.2%，至1.332美元，創下五週以來的新低。這是自2024年11月唐納德·特朗普當選以來，英鎊對美元的最大周跌幅。",
-          "background": "近期英國的政治局勢不穩定，加上油價上漲，導致市場對通脹的擔憂加劇。英國政府的借貸成本上升，反映出投資者對未來經濟政策的不確定性。安迪·伯納姆的潛在挑戰引發了對未來政府借貸增加的擔憂，這可能會進一步影響英鎊的表現。分析師指出，這些因素共同造成了英鎊的下跌，並加劇了市場的動盪。",
+          "news_focus": "Led By Donkeys has snuck a big screen streaming pro-immigration messages into a far-right rally in the UK.",
+          "news_focus_zh": "在英國的一場極右派集會中，活動組織Led By Donkeys秘密地將一個大型螢幕帶入現場，播放支持移民的訊息，成功地對極右派的立場進行了諷刺和挑釁。這一行動引發了現場參與者的注意，並突顯了移民議題在當前英國社會中的爭議性。",
+          "background": "英國的移民政策近年來受到廣泛關注，特別是在脫歐後，移民問題成為政治辯論的焦點。極右派團體通常主張限制移民，並將其視為社會問題的根源。相對地，支持移民的團體則強調移民對經濟和社會的貢獻，並呼籲更包容的政策。此類活動反映了當前英國社會對於移民的兩極化看法，並顯示出社會運動如何利用創意手段進行抗議。",
           "stakeholders": [
+            "Led By Donkeys",
+            "極右派團體",
+            "支持移民的團體",
             "英國政府",
-            "英國投資者",
-            "英國民眾",
-            "經濟分析師",
-            "金融市場"
+            "社會運動者"
           ],
-          "analysis": "英鎊的貶值反映出市場對英國政治未來的擔憂，尤其是對於可能由伯納姆領導的政府將採取的經濟政策。根據參考報導，分析師認為，若伯納姆上台，可能會增加政府借貸，這進一步影響了市場信心。不同報導的重點在於，主新聞強調了英鎊的具體跌幅，而參考報導則更著重於借貸成本上升的原因。隨著政治局勢的發展，未來幾週內英鎊的走勢將取決於斯塔默與伯納姆之間的權力角逐及其對經濟政策的影響。"
+          "analysis": "Led By Donkeys的行動不僅是對極右派集會的直接挑戰，也反映了當前英國社會中對移民議題的深刻分歧。極右派支持者可能會將此行動視為對其立場的挑釁，進一步激化其反移民情緒。另一方面，支持移民的團體則可能會將此視為提升公眾意識的成功案例，鼓勵更多人參與類似的抗議行動。這種創意抗議手段可能會在未來的社會運動中被廣泛採用，進一步推動對移民政策的討論與辯論。"
         },
-        "topic_priority_score": 9,
-        "event_type": "inflation_data",
-        "supporting_sources": [
-          "BBC Business"
-        ],
-        "supporting_titles": [
-          "UK borrowing costs rise and pound falls as leadership drama continues"
-        ],
-        "supporting_summaries": [
-          "Analysts say the moves have been fuelled by concerns a Burnham-led government would increase government borrowing."
-        ],
-        "supporting_links": [
-          "https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss"
-        ],
-        "source_count": 2
+        "topic_priority_score": 4,
+        "event_type": "market_repricing",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       },
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "The Federal Reserve’s independence is hanging by a thread in the age of Trump",
-        "link": "https://www.theguardian.com/business/2026/may/15/federal-reserve-independence-trump",
-        "summary": "The president’s ultimate goal is to push the Fed – among other independent US institutions – to bend to his will Jerome Powell, who stepped down this week as chair of the Federal Reserve , had his hits and misses. The Fed was late to react as prices started rising when the Covid pandemic abated, but they eventually acted forcefully and achieved the most rare of feats: a “soft landing”, curbing inflation without sparking a recession or damaging employment. Strangely, given the chaotic era of pandemic and tariffs that coincided with Powell’s time as chair, monetary policy may not define his legacy. Powell’s most lasting accomplishment will most likely be his outspoken efforts to defend the independence of the Fed from an assault by the imperial presidency of Donald Trump. Continue reading...",
-        "published": "Fri, 15 May 2026 11:00:38 GMT",
-        "updated": "2026-05-15T11:00:38Z",
-        "published_at_utc": "2026-05-15T11:00:38+00:00",
-        "id": "https://www.theguardian.com/business/2026/may/15/federal-reserve-independence-trump",
-        "topic_type": "interest_rates",
-        "relevance_score": 21,
+        "source_name": "Nikkei Asia",
+        "title": "China says Xi and Trump agreed to spur trade by lowering some tariffs",
+        "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/china-says-xi-and-trump-agreed-to-spur-trade-by-lowering-some-tariffs",
+        "summary": "",
+        "published": "",
+        "updated": "",
+        "published_at_utc": "",
+        "id": "https://asia.nikkei.com/spotlight/trump-xi-summit/china-says-xi-and-trump-agreed-to-spur-trade-by-lowering-some-tariffs",
+        "topic_type": "trade_wars",
+        "relevance_score": 17,
         "briefing": {
-          "news_focus": "The president’s ultimate goal is to push the Fed – among other independent US institutions – to bend to his will Jerome Powell, who stepped down this week as chair of the Federal Reserve , had his hits and misses. The Fed was late to react as prices started rising when the Covid pandemic abated, but they eventually acted forcefully and achieved the most rare of feats: a “soft landing”, curbing inflation without sparking a recession or damaging employment. Strangely, given the chaotic era of pandemic and tariffs that coincided with Powell’s time as chair, monetary policy may not define his legacy. Powell’s most lasting accomplishment will most likely be his outspoken efforts to defend the independence of the Fed from an assault by the imperial presidency of Donald Trump. Continue reading...",
-          "news_focus_zh": "美國聯邦儲備系統（Fed）前主席傑羅姆·鮑威爾本週卸任，面對特朗普政府的壓力，鮑威爾努力維護Fed的獨立性。儘管在疫情後的通脹上，Fed起初反應遲緩，但最終成功實現了經濟的“軟著陸”，在不引發衰退或損害就業的情況下抑制了通脹。鮑威爾的遺產可能不在於貨幣政策的具體成就，而在於他對抗特朗普政府對Fed獨立性威脅的努力。",
-          "background": "特朗普政府對美國聯邦儲備系統的獨立性提出挑戰，試圖將其政策方向與總統的經濟目標相一致。在鮑威爾的任期內，Fed面對疫情後的經濟復甦，通脹壓力加劇，這使得其貨幣政策的制定變得更加複雜。鮑威爾的政策反應雖然起初被批評為遲緩，但最終成功避免了經濟衰退，並在一定程度上穩定了就業市場。這一背景下，鮑威爾的卸任引發了對新任主席的期待，尤其是特朗普提名的凱文·沃爾什的貨幣政策方向。",
+          "news_focus": "China says Xi and Trump agreed to spur trade by lowering some tariffs",
+          "news_focus_zh": "中國表示習近平與特朗普達成共識，將透過降低部分關稅來促進貿易。這一消息顯示出兩國在經濟合作方面的意願，可能為未來的貿易關係帶來積極影響。",
+          "background": "中美貿易關係在過去幾年中經歷了多次波折，特別是在特朗普任內，雙方互相加徵關稅，導致貿易摩擦加劇。隨著全球經濟復甦的需求增加，兩國都面臨著促進經濟增長的壓力。降低關稅被視為一種改善貿易關係的手段，可能有助於減輕消費者和企業的負擔，並促進雙方的貿易往來。",
           "stakeholders": [
-            "美國聯邦儲備系統",
-            "特朗普政府",
-            "市場參與者",
-            "經濟學家",
-            "政策制定者"
+            "中國政府",
+            "美國政府",
+            "美國消費者",
+            "中國出口商",
+            "國際貿易組織"
           ],
-          "analysis": "鮑威爾的卸任標誌著Fed獨立性面臨的挑戰仍然存在，尤其是在特朗普政府的影響下。根據參考報導，沃爾什曾被視為通脹鷹派，但其立場可能會隨著政治環境的變化而改變，這使得市場對未來的貨幣政策走向感到不確定。不同報導強調了鮑威爾在維護Fed獨立性方面的努力，而沃爾什的任命可能會引發對Fed政策的重新評估，尤其是在通脹和經濟增長之間的平衡問題上。各方利益關係複雜，市場參與者、政策制定者及政治領導人之間的互動將影響未來的經濟政策走向。"
+          "analysis": "中美兩國在貿易政策上的調整顯示出各自的利益考量。中國希望通過降低關稅來促進出口，進一步穩定經濟增長；而特朗普則可能希望藉此改善其在國內的經濟表現，以迎合選民的期待。然而，參考報導指出，特朗普對於關稅的立場仍然強硬，可能不會輕易放棄這一政策，這顯示出他在貿易談判中的不確定性。這種矛盾的立場可能會影響未來的貿易協議進程，並使得市場對於中美貿易關係的前景保持謹慎態度。"
         },
-        "topic_priority_score": 10,
-        "event_type": "rate_decision",
+        "topic_priority_score": 9,
+        "event_type": "macro_signal",
         "supporting_sources": [
           "The Economist"
         ],
         "supporting_titles": [
-          "What will Kevin Warsh’s Federal Reserve look like?"
+          "Trump will not let the world move on from tariffs"
         ],
         "supporting_summaries": [
-          "Donald Trump’s nominee was an inflation hawk—until he wasn’t"
+          "Six charts show the damage to America, its trading partners and its consumers"
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2026/01/30/what-will-kevin-warshs-federal-reserve-look-like"
+          "https://www.economist.com/finance-and-economics/2025/08/01/trump-will-not-let-the-world-move-on-from-tariffs"
         ],
         "source_count": 2
       },
@@ -327,19 +337,19 @@
         "published_at_utc": "2026-05-15T05:30:09+00:00",
         "id": "https://www.scmp.com/business/china-business/article/3353661/chinese-margin-traders-raise-wagers-record-high-tech-stock-rally-full-swing?utm_source=rss_feed",
         "topic_type": "markets",
-        "relevance_score": 19,
+        "relevance_score": 16,
         "briefing": {
           "news_focus": "China’s stock investors boosted their leveraged bets to an all-time high, helping fuel a record-setting run on technology stocks amid easing geopolitical tensions and earnings resilience. The outstanding value of margin trading on the mainland’s exchanges reached 2.86 trillion yuan (US$420.8 billion) on Thursday, rising to a record for a seventh straight day, according to the data by China Securities Finance. Leveraged traders poured the borrowed funds mainly into electronics, semiconductor and...",
-          "news_focus_zh": "中國股市投資者的保證金交易額達到歷史新高，這一現象主要受到科技股上漲的推動。根據中國證券金融公司的數據，截至週四，內地交易所的保證金交易未償還金額達到2.86萬億元人民幣（約4208億美元），這已連續第七天創下新高。投資者將借入的資金主要投入電子、半導體等行業，顯示出市場對這些科技領域的強勁信心。",
-          "background": "近期，中國股市因為地緣政治緊張局勢的緩解及企業盈利的韌性而出現回暖，特別是科技股的表現引人注目。隨著市場情緒的改善，投資者對於未來經濟復甦的預期增強，這使得保證金交易的需求上升。保證金交易是一種高風險的投資方式，通常用於放大收益，但同時也增加了潛在的損失風險。隨著中國政府對科技產業的支持政策持續推進，市場對於相關股票的投資熱情也隨之上升。",
+          "news_focus_zh": "中國股市的投資者將其槓桿交易的押注提升至歷史新高，這一舉動助長了科技股的強勁反彈。根據中國證券金融公司的數據，截至週四，內地交易所的槓桿交易未償還金額達到2.86萬億元人民幣（約4208億美元），這是連續第七天創下新高。投資者主要將借入的資金投入電子、半導體等行業。",
+          "background": "近期，中國股市受到地緣政治緊張局勢緩解和企業盈利韌性的影響，吸引了大量資金流入。特別是科技股，因其在全球市場中的重要性和增長潛力，成為投資者的主要關注對象。隨著中國政府對科技產業的支持政策逐步落實，市場對於科技股的前景持樂觀態度，進一步促進了槓桿交易的增長。",
           "stakeholders": [
-            "中國股市投資者",
-            "科技公司",
+            "中國投資者",
             "中國證券金融公司",
-            "金融監管機構",
+            "科技股公司",
+            "市場監管機構",
             "經濟分析師"
           ],
-          "analysis": "此次報導顯示，中國股市的保證金交易額達到新高，反映出投資者對科技股的強烈信心，這與先前的市場狀況相比，顯示出明顯的改善。過去幾個月，由於地緣政治緊張和經濟不確定性，投資者的風險偏好較低，而現在隨著這些因素的緩解，資金流入科技股的趨勢愈加明顯。這一變化可能預示著市場情緒的轉變，並可能促使更多資金進入其他高風險、高回報的投資領域。此外，這也可能引發市場的波動性，因為高槓桿交易在市場下行時會放大損失。投資者需謹慎評估風險與收益之間的平衡。"
+          "analysis": "此次中國股市槓桿交易的增長，顯示出投資者對科技股的信心正在上升，並且反映出市場對於經濟復甦的期待。與先前的狀況相比，這一數據的上升不僅是數字的增長，更是市場情緒的轉變，顯示出投資者對於風險的接受度提高。隨著科技股的持續上漲，未來可能會吸引更多的資金進入市場，進一步推高股價。然而，這樣的槓桿交易也可能帶來市場波動性增加的風險，若市場情況發生逆轉，投資者可能面臨較大的損失。"
         },
         "topic_priority_score": 4,
         "event_type": "corporate_results",
@@ -359,42 +369,7 @@
         "link": "https://www.theguardian.com/sport/2026/may/15/sports-athletes-scams-cybercrimes",
         "source_name": "The Guardian Business",
         "published_at_utc": "2026-05-15T09:00:35+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "India’s VCs are beating Silicon Valley at home",
-        "link": "https://restofworld.org/2026/india-startups-venture-capital/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "source_name": "Rest of World",
-        "published_at_utc": "2026-05-15T13:00:00+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Japan banks eye Anthropic's Mythos in gearing up cybersecurity drive",
-        "link": "https://asia.nikkei.com/business/finance/japan-banks-eye-anthropic-s-mythos-in-gearing-up-cybersecurity-drive",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 17
-      },
-      {
-        "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-        "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-        "source_name": "MIT Technology Review",
-        "published_at_utc": "2026-05-15T23:39:35+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
-        "link": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-05-15T21:51:24+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "ArXiv will ban researchers who upload papers full of AI slop",
-        "link": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-05-15T20:38:19+00:00",
-        "relevance_score": 15
+        "relevance_score": 16
       },
       {
         "title": "Anthropic urges tough chip controls as Nvidia CEO joins Trump in China",
@@ -404,154 +379,161 @@
         "relevance_score": 15
       },
       {
+        "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+        "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-16T15:33:33+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "India’s VCs are beating Silicon Valley at home",
+        "link": "https://restofworld.org/2026/india-startups-venture-capital/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source_name": "Rest of World",
+        "published_at_utc": "2026-05-15T13:00:00+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Gaza Is Rebuilding With Lego-Like Bricks Made From Rubble",
+        "link": "https://www.wired.com/story/gaza-is-rebuilding-with-lego-like-bricks-made-from-rubble/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-05-17T09:00:00+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "Shijiazhuang Shangtai Technology's Shareholder Plans To Unload Stake - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNjIyVHpUTDM0OHJYQkdITG15dlZlZDRlMHA3d094ck9vVVJ6Rmh1NVdnZEk0X0oySUlOTGRMcHhiMkRTWlFKY1FfUGd2U0VfMGYwQlhtR19WSUdURFQyVkh6WURnUGtxMjQwZG01WFlQWUNiWHZzbmhsd3NXWXhNTXBWYzJzVTU2OHY1WjZvX1RBaTNLWUhDSEtjZG9jOU5qU3pfSXdoVEZoVmJrc2loZjBIRHlxQWxCOFVscGRadVNvenV3M01TUGQyalg3UERvcEhyZw?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-17T07:40:54+00:00",
+        "relevance_score": 10
+      },
+      {
+        "title": "Snap, YouTube, and TikTok settle suit over harm to students",
+        "link": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-05-16T18:34:23+00:00",
+        "relevance_score": 10
+      },
+      {
         "title": "Three's a party: US, China, and now Russia are on the prowl in GEO",
         "link": "https://arstechnica.com/space/2026/05/threes-a-party-us-china-and-now-russia-are-on-the-prowl-in-geo/",
         "source_name": "Ars Technica",
         "published_at_utc": "2026-05-15T19:11:48+00:00",
-        "relevance_score": 14
+        "relevance_score": 10
       },
       {
-        "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-05-15T18:21:35+00:00",
-        "relevance_score": 13
+        "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+        "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+        "source_name": "MIT Technology Review",
+        "published_at_utc": "2026-05-15T23:39:35+00:00",
+        "relevance_score": 9
       },
       {
-        "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-        "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-15T18:14:44+00:00",
-        "relevance_score": 13
+        "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+        "link": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-05-15T21:51:24+00:00",
+        "relevance_score": 9
       }
     ],
     "politics": [
       {
-        "title": "How Trump’s China visit may hint the ‘2 eyes of the world’ are learning to live together",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3353808/how-trumps-china-visit-may-hint-2-eyes-world-are-learning-live-together?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-05-16T07:15:22+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Down and then out in Paris and London? Why Starmer isn’t the only one with a popularity problem",
-        "link": "https://www.theguardian.com/world/ng-interactive/2026/may/16/down-and-then-out-in-paris-and-london-why-starmer-isnt-the-only-one-with-a-popularity-problem",
+        "title": "Labour leadership talk ‘froth and nonsense’, says senior minister – UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/may/17/labour-leadership-keir-starmer-andy-burnham-wes-streeting-uk-politics-live",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-16T05:00:02+00:00",
+        "published_at_utc": "2026-05-17T09:06:28+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Stateside with Kai and Carter: Stacey Abrams on why gutting of the US Voting Rights Act is ‘evil’ – podcast",
-        "link": "https://www.theguardian.com/science/audio/2026/may/16/stateside-with-kai-and-carter-stacey-abrams-us-voting-rights-act-podcast",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-16T04:00:02+00:00",
+        "title": "Israeli airstrikes hit Lebanon, despite ceasefire extension",
+        "link": "https://www.taipeitimes.com/News/front/archives/2026/05/17/2003857469",
+        "source_name": "Taipei Times",
+        "published_at_utc": "2026-05-17T00:00:00+00:00",
         "relevance_score": 20
       },
       {
-        "title": "BRICS is evolving with new members; differences will take time to resolve: Brazil FM Mauro Vieira",
-        "link": "https://www.thehindu.com/news/international/brics-is-evolving-with-new-members-differences-will-take-time-to-resolve-brazil-fm-mauro-vieira/article70986172.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-16T08:31:09+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Senior IS leader killed by US and Nigerian forces",
-        "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+        "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+        "link": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC World",
-        "published_at_utc": "2026-05-16T09:08:41+00:00",
+        "published_at_utc": "2026-05-17T07:21:03+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Extra 4,000 officers in London as police brace for far-right and pro-Palestine marches – live",
-        "link": "https://www.theguardian.com/uk-news/live/2026/may/16/far-right-unite-the-kingdom-rally-tommy-robinson-london-nakba-day-march-latest-news-updates",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-16T09:01:49+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Trump says ISIS second-in-command Abu-Bilal al-Minuki ‘eliminated’ in joint U.S.-Nigerian mission",
-        "link": "https://www.thehindu.com/news/international/trump-says-isis-second-in-command-abu-bilal-al-minuki-eliminated/article70986019.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-16T08:39:37+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Russia’s Putin to visit China following Trump’s trip",
-        "link": "https://www.aljazeera.com/news/2026/5/16/russias-putin-to-visit-china-following-trumps-trip?traffic_source=rss",
+        "title": "Iran war day 79: Tehran to unveil Hormuz toll plan; Israel bombs Lebanon",
+        "link": "https://www.aljazeera.com/news/2026/5/17/iran-war-day-79-tehran-to-unveil-hormuz-toll-plan-israel-bombs-lebanon?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-16T08:38:46+00:00",
+        "published_at_utc": "2026-05-17T07:19:53+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Trump warns against Taiwan independence after China visit",
-        "link": "https://www.thehindu.com/news/international/trump-warns-against-taiwan-independence-after-china-visit/article70985882.ece",
+        "title": "Hong Kong’s Paul Chan is heading to Europe. So what’s on the itinerary?",
+        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353864/hong-kongs-paul-chan-heading-europe-so-whats-itinerary?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-17T07:08:08+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Ukraine drone attack kills at least three in Moscow region, Governor says",
+        "link": "https://www.thehindu.com/news/international/ukraine-drone-attack-kills-at-least-three-in-moscow-region-governor-says/article70989743.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-16T08:12:10+00:00",
+        "published_at_utc": "2026-05-17T06:39:19+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
-        "link": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-16T08:02:43+00:00",
+        "title": "Hong Kong draws HK$26 billion from over 310 firms this year, InvestHK head says",
+        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353861/hong-kong-draws-over-310-firms-and-hk26-billion-capital-investhk-head-says?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-17T06:38:23+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Philippines asks top court to allow ICC drug war arrest of senator",
+        "link": "https://www.thehindu.com/news/international/philippines-asks-top-court-to-allow-icc-drug-war-arrest-of-senator/article70989714.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-05-17T06:31:27+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Republican Senator Bill Cassidy pays the price for voting to convict Trump",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3353856/republican-senator-bill-cassidy-pays-price-voting-convict-trump?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-17T04:43:32+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Bulgaria’s Dara wins Eurovision contest, beating out Israel for top spot",
+        "link": "https://www.scmp.com/news/world/europe/article/3353846/bulgarias-dara-wins-eurovision-contest-beating-out-israel-top-spot?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-16T23:46:15+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "The gilt market will hover over any Labour leadership contest | Nils Pratley",
-        "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/may/14/the-gilt-market-will-hover-over-any-labour-leadership-contest",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-14T17:54:01+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up?",
-        "link": "https://www.theguardian.com/business/ng-interactive/2026/may/14/us-stock-market-war-inflation-tariffs-trump",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-14T10:00:24+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Hong Kong market regulator takes on ‘collection agent’ role for wronged investors",
-        "link": "https://www.scmp.com/business/banking-finance/article/3353713/hong-kong-market-regulator-takes-collection-agent-role-wronged-investors?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-16T02:00:11+00:00",
+        "title": "‘They may draw racist maps, but we are the south’: thousands rally in Alabama for Black voting rights",
+        "link": "https://www.theguardian.com/us-news/2026/may/16/alabama-black-voting-rights-protest",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-05-16T23:29:30+00:00",
         "relevance_score": 15
       },
       {
-        "title": "‘The Iran war left my insurance policy void’: how the conflict is affecting travellers",
-        "link": "https://www.theguardian.com/money/2026/may/16/travel-insurance-refund-iran-war-policy-void-uk-travellers",
+        "title": "Fire and ‘sheer volume’: how Britain’s 6m-vape problem is putting recycling under strain",
+        "link": "https://www.theguardian.com/society/2026/may/17/disposable-vapes-suez-uk",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-16T09:04:55+00:00",
+        "published_at_utc": "2026-05-17T08:00:33+00:00",
         "relevance_score": 14
       },
       {
-        "title": "Why are UK prices rising more quickly?",
-        "link": "https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-05-13T10:45:51+00:00",
+        "title": "Passenger banned from Qantas after allegedly biting attendant on flight from Australia to US",
+        "link": "https://www.theguardian.com/business/2026/may/17/qantas-passenger-banned-alleged-biting-flight-attendant-melbourne-tahiti-dallas-ntwnfb",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-17T05:31:28+00:00",
         "relevance_score": 14
       },
       {
-        "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more",
-        "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-15T20:30:20+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "CIA chief visits Cuba as energy crisis worsens",
-        "link": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-05-15T17:47:19+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "India's Adanis agree to pay $18m to settle civil fraud case in the US",
-        "link": "https://www.bbc.com/news/articles/c4g82p5ygp8o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-05-15T06:41:19+00:00",
+        "title": "UAE says OPEC, OPEC+ exit was sovereign strategic decision, not political move",
+        "link": "https://www.thehindu.com/news/international/uae-says-opec-opec-exit-was-sovereign-strategic-decision-not-political-move/article70986565.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-05-16T12:49:40+00:00",
         "relevance_score": 13
       },
       {
@@ -562,11 +544,39 @@
         "relevance_score": 13
       },
       {
-        "title": "UK drivers struggle to get insurance for Chinese EVs such as Jaecoo",
-        "link": "https://www.theguardian.com/money/2026/may/16/uk-insurance-cover-chinese-evs-jaecoo-byd-xpeng",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-16T06:00:02+00:00",
+        "title": "Swatch shuts stores after crowds queue for new watch",
+        "link": "https://www.bbc.com/news/articles/c1d2qldr0yko?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-05-17T08:00:06+00:00",
         "relevance_score": 12
+      },
+      {
+        "title": "How can the PM improve the lives of Londoners?",
+        "link": "https://www.bbc.com/news/articles/cwy2pz95ql1o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-05-17T07:08:41+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "JLR and General Motors eye £900m contract to build new range of military trucks",
+        "link": "https://www.theguardian.com/business/2026/may/17/jaguar-land-rover-general-motors-military-contract-trucks",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-17T06:00:30+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "Every window a solar panel: Australia-China joint venture to set up in Hong Kong",
+        "link": "https://www.scmp.com/business/climate-and-energy/article/3353712/every-window-solar-panel-australia-china-joint-venture-set-hong-kong?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-17T03:30:07+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "Why are UK prices rising more quickly?",
+        "link": "https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-05-13T10:45:51+00:00",
+        "relevance_score": 11
       }
     ]
   },
