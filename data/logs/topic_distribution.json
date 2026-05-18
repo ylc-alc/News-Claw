@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-04-17",
-      "topics": {
-        "technology": [
-          "ai",
-          "space_tech",
-          "chips"
-        ],
-        "politics": [
-          "diplomacy",
-          "uk_politics",
-          "war_and_conflict"
-        ],
-        "economy": [
-          "trade_wars",
-          "markets",
-          "interest_rates"
-        ]
-      }
-    },
-    {
       "date": "2026-04-18",
       "topics": {
         "technology": [
@@ -771,42 +751,62 @@
           "markets"
         ]
       }
+    },
+    {
+      "date": "2026-05-18",
+      "topics": {
+        "technology": [
+          "ai",
+          "chips",
+          "chips"
+        ],
+        "politics": [
+          "diplomacy",
+          "diplomacy",
+          "us_politics"
+        ],
+        "economy": [
+          "energy_markets",
+          "markets",
+          "energy_markets"
+        ]
+      }
     }
   ],
   "rolling_frequency": {
     "technology": {
+      "chips": 33,
       "ai": 41,
-      "space_tech": 7,
-      "chips": 32,
       "cybersecurity": 15,
       "general": 5,
       "social_media": 9,
+      "space_tech": 6,
       "platform_regulation": 4,
       "quantum_computing": 1
     },
     "politics": {
-      "diplomacy": 36,
-      "uk_politics": 12,
-      "war_and_conflict": 17,
+      "uk_politics": 11,
       "social_protests": 3,
-      "us_politics": 40,
+      "us_politics": 41,
+      "war_and_conflict": 16,
       "democracy_autocracy": 2,
+      "diplomacy": 37,
       "eu_policy": 3,
       "us_china_relations": 1
     },
     "economy": {
-      "trade_wars": 12,
-      "markets": 31,
-      "interest_rates": 18,
       "inflation": 14,
-      "energy_markets": 13,
+      "energy_markets": 15,
+      "interest_rates": 17,
       "supply_chain": 3,
+      "markets": 31,
       "corporate_earnings": 4,
+      "trade_wars": 11,
       "sanctions": 14,
       "general": 4,
       "emerging_markets": 1
     }
   },
   "window_days": 30,
-  "last_updated": "2026-05-17"
+  "last_updated": "2026-05-18"
 }
