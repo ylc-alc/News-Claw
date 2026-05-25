@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-04-24",
-      "topics": {
-        "technology": [
-          "chips",
-          "cybersecurity",
-          "ai"
-        ],
-        "politics": [
-          "us_politics",
-          "diplomacy",
-          "war_and_conflict"
-        ],
-        "economy": [
-          "sanctions",
-          "trade_wars",
-          "markets"
-        ]
-      }
-    },
-    {
       "date": "2026-04-25",
       "topics": {
         "technology": [
@@ -771,41 +751,61 @@
           "emerging_markets"
         ]
       }
+    },
+    {
+      "date": "2026-05-25",
+      "topics": {
+        "technology": [
+          "cybersecurity",
+          "platform_regulation",
+          "space_tech"
+        ],
+        "politics": [
+          "us_politics",
+          "us_politics",
+          "us_politics"
+        ],
+        "economy": [
+          "inflation",
+          "trade_wars",
+          "markets"
+        ]
+      }
     }
   ],
   "rolling_frequency": {
     "technology": {
-      "chips": 38,
-      "cybersecurity": 11,
-      "ai": 40,
-      "space_tech": 7,
+      "chips": 37,
+      "ai": 39,
+      "space_tech": 8,
       "general": 4,
       "social_media": 9,
-      "platform_regulation": 4,
+      "platform_regulation": 5,
+      "cybersecurity": 11,
       "quantum_computing": 1
     },
     "politics": {
-      "us_politics": 39,
-      "diplomacy": 45,
-      "war_and_conflict": 17,
+      "diplomacy": 44,
+      "war_and_conflict": 16,
       "eu_policy": 4,
       "uk_politics": 7,
+      "us_politics": 41,
       "democracy_autocracy": 1,
       "us_china_relations": 1
     },
     "economy": {
-      "sanctions": 16,
-      "trade_wars": 8,
+      "sanctions": 15,
+      "inflation": 20,
       "markets": 29,
-      "inflation": 19,
       "interest_rates": 18,
       "supply_chain": 2,
       "general": 4,
       "emerging_markets": 2,
       "energy_markets": 13,
+      "trade_wars": 8,
       "corporate_earnings": 3
     }
   },
   "window_days": 30,
-  "last_updated": "2026-05-24"
+  "last_updated": "2026-05-25"
 }
