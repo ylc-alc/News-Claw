@@ -5,23 +5,11 @@
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US",
     "feed_title": "\"when:24h allinurl:focustaiwan.tw\" - Google News",
     "feed_link": "https://news.google.com/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US",
-    "fetched_at_utc": "2026-05-25T11:42:27.310957+00:00",
-    "entry_count": 1,
+    "fetched_at_utc": "2026-05-27T11:29:13.374189+00:00",
+    "entry_count": 0,
     "bozo": false,
-    "failed": false,
-    "failure_reason": ""
+    "failed": true,
+    "failure_reason": "feed returned zero entries"
   },
-  "items": [
-    {
-      "category": "politics",
-      "source_name": "Focus Taiwan (CNA)",
-      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US",
-      "title": "KMT's Cheng to visit U.S. June 1, with stops in New York, D.C., Boston: Source - Focus Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TbFpINU9GdHpkX1Y3U0xpTnRlR2J1WEVWRkZmSDdIb0JIckFZTmFXdnZCSVk2aFQxU0xxZWtXX29JUWJRYlBSdE5pRGxBOXBaa29OeGV3SQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TbFpINU9GdHpkX1Y3U0xpTnRlR2J1WEVWRkZmSDdIb0JIckFZTmFXdnZCSVk2aFQxU0xxZWtXX29JUWJRYlBSdE5pRGxBOXBaa29OeGV3SQ?oc=5\" target=\"_blank\">KMT's Cheng to visit U.S. June 1, with stops in New York, D.C., Boston: Source</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Focus Taiwan</font>",
-      "published": "Sun, 24 May 2026 12:10:00 GMT",
-      "updated": "Sun, 24 May 2026 12:10:00 GMT",
-      "id": "CBMiV0FVX3lxTE5TbFpINU9GdHpkX1Y3U0xpTnRlR2J1WEVWRkZmSDdIb0JIckFZTmFXdnZCSVk2aFQxU0xxZWtXX29JUWJRYlBSdE5pRGxBOXBaa29OeGV3SQ"
-    }
-  ]
+  "items": []
 }

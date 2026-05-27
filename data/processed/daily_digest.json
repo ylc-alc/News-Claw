@@ -1,57 +1,90 @@
 {
-  "generated_at_utc": "2026-05-25T11:42:43.041838+00:00",
+  "generated_at_utc": "2026-05-27T11:29:28.834364+00:00",
   "summary": {
-    "total_raw_items": 1051,
-    "total_deduped_items": 1034,
+    "total_raw_items": 1103,
+    "total_deduped_items": 1083,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "cybersecurity",
-        "platform_regulation",
-        "space_tech"
+        "chips",
+        "chips",
+        "ai"
       ],
       "politics": [
-        "us_politics",
-        "us_politics",
+        "uk_politics",
+        "diplomacy",
         "us_politics"
       ],
       "economy": [
         "inflation",
-        "trade_wars",
-        "markets"
+        "energy_markets",
+        "sanctions"
       ]
     },
-    "multi_source_selected_count": 2
+    "multi_source_selected_count": 4
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "Wired",
-        "title": "The AI Era Is Creating a Bug Hunting Arms Race",
-        "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
-        "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
-        "published": "Mon, 25 May 2026 10:30:00 +0000",
-        "updated": "Mon, 25 May 2026 10:30:00 +0000",
-        "published_at_utc": "2026-05-25T10:30:00+00:00",
-        "id": "6a0342514988748cf644de02",
-        "topic_type": "cybersecurity",
-        "relevance_score": 19,
+        "source_name": "SCMP World",
+        "title": "Meet He Tingbo: Huawei’s ‘chip queen’ trying to rewrite China’s semiconductor playbook",
+        "link": "https://www.scmp.com/tech/article/3354969/meet-he-tingbo-huaweis-chip-queen-trying-rewrite-chinas-semiconductor-playbook?utm_source=rss_feed",
+        "summary": "When He Tingbo took the stage in Shanghai this week to unveil Huawei Technologies’ Tau (τ) Scaling Law, the message was about more than a new chip development framework. It was also a statement, showing how the most prominent Chinese technology company to have been subjected to US sanctions wants to compete in semiconductors when access to the world’s most advanced chipmaking tools remains restricted, and when the industry’s decades-old reliance on shrinking transistors is becoming more...",
+        "published": "Wed, 27 May 2026 08:00:05 +0000",
+        "updated": "Wed, 27 May 2026 08:00:05 +0000",
+        "published_at_utc": "2026-05-27T08:00:05+00:00",
+        "id": "https://www.scmp.com/tech/article/3354969/meet-he-tingbo-huaweis-chip-queen-trying-rewrite-chinas-semiconductor-playbook?utm_source=rss_feed",
+        "topic_type": "chips",
+        "relevance_score": 23,
         "briefing": {
-          "news_focus": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
-          "news_focus_zh": "隨著攻擊者加速開發人工智慧（AI）利用工具，軟體漏洞的搜尋方式正在迅速變化。這種變化促使了業界在漏洞獵捕方面的競爭加劇，形成了一場新的武器競賽，對於安全專家和攻擊者而言，皆需不斷提升技術以應對日益複雜的威脅。",
-          "background": "在數位化快速發展的背景下，AI技術的進步使得攻擊者能夠更有效地發現和利用軟體中的漏洞。過去，漏洞獵捕主要依賴人工檢測和傳統的安全測試方法，但隨著AI的引入，這一過程變得更加自動化和高效。這不僅改變了攻擊者的策略，也迫使企業和安全專家必須加強防護措施，以應對新型的AI驅動攻擊。",
+          "news_focus": "When He Tingbo took the stage in Shanghai this week to unveil Huawei Technologies’ Tau (τ) Scaling Law, the message was about more than a new chip development framework. It was also a statement, showing how the most prominent Chinese technology company to have been subjected to US sanctions wants to compete in semiconductors when access to the world’s most advanced chipmaking tools remains restricted, and when the industry’s decades-old reliance on shrinking transistors is becoming more...",
+          "news_focus_zh": "華為科技的何婷波在上海發表了Tau (τ) Scaling Law，這不僅是新晶片開發框架的介紹，更是華為在面對美國制裁下，尋求在半導體領域競爭的宣言。此舉顯示出華為希望在全球最先進的晶片製造工具受限的情況下，重新定義中國的半導體策略，並挑戰行業對於縮小晶體管的長期依賴。",
+          "background": "近年來，中美之間的科技競爭加劇，特別是在半導體領域。美國對中國企業的制裁使得華為等公司在獲取先進製造技術方面面臨重大挑戰。半導體產業長期以來依賴於縮小晶體管以提升性能，但隨著技術瓶頸的出現，業界正尋求新的發展路徑。華為作為中國最大的科技公司之一，正試圖在這一背景下，通過創新來突破技術限制，並重塑自身在全球半導體市場的地位。",
           "stakeholders": [
-            "攻擊者",
-            "企業安全專家",
-            "軟體開發公司",
-            "網路安全產業",
-            "政府監管機構"
+            "華為",
+            "美國政府",
+            "中國政府",
+            "半導體產業",
+            "全球科技公司"
           ],
-          "analysis": "隨著AI技術的普及，攻擊者利用AI工具進行漏洞開發的能力顯著提升，這使得漏洞獵捕的競爭變得更加激烈。企業和安全專家必須不斷更新其防禦策略，以應對這種新型的威脅。此外，這一趨勢可能導致安全行業的資源重新分配，更多資金和人力將投入到AI安全技術的開發中。未來，若攻擊者持續優化其AI利用工具，可能會使得漏洞獵捕的難度進一步增加，進而影響整體的網路安全環境。"
+          "analysis": "何婷波的發表標誌著華為在半導體領域的戰略轉型，顯示出其在面對外部壓力下的應對能力。華為的Tau Scaling Law可能會成為未來晶片設計的重要參考，尤其是在美國限制高端技術出口的情況下，這一策略的成功與否將直接影響中國半導體產業的發展。此外，這也可能引發其他中國科技企業的跟進，進一步加劇中美科技競爭的局勢。儘管目前尚未有其他報導提供補充細節，但華為的這一舉動無疑將成為業界關注的焦點，並可能改變全球半導體市場的格局。"
         },
-        "topic_priority_score": 9,
+        "topic_priority_score": 10,
+        "event_type": "product_launch",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "SCMP World",
+        "title": "Japan enacts law centralising intelligence gathering amid privacy fears",
+        "link": "https://www.scmp.com/news/asia/east-asia/article/3355047/japan-enacts-law-centralising-intelligence-gathering-amid-privacy-fears?utm_source=rss_feed",
+        "summary": "Japan’s parliament enacted a law on Wednesday to establish a new National Intelligence Council to centralise information gathering in response to overseas threats, marking a first step in plans to boost capabilities that have raised concerns over civil liberties. Establishing the council is a key aim in the governing agenda of Prime Minister Sanae Takaichi, a security hawk who has pledged to strengthen intelligence and counter-espionage capabilities in response to what her government calls the...",
+        "published": "Wed, 27 May 2026 10:21:53 +0000",
+        "updated": "Wed, 27 May 2026 10:21:53 +0000",
+        "published_at_utc": "2026-05-27T10:21:53+00:00",
+        "id": "https://www.scmp.com/news/asia/east-asia/article/3355047/japan-enacts-law-centralising-intelligence-gathering-amid-privacy-fears?utm_source=rss_feed",
+        "topic_type": "chips",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "Japan’s parliament enacted a law on Wednesday to establish a new National Intelligence Council to centralise information gathering in response to overseas threats, marking a first step in plans to boost capabilities that have raised concerns over civil liberties. Establishing the council is a key aim in the governing agenda of Prime Minister Sanae Takaichi, a security hawk who has pledged to strengthen intelligence and counter-espionage capabilities in response to what her government calls the...",
+          "news_focus_zh": "日本國會於週三通過一項新法，成立國家情報委員會，以集中情報收集，應對海外威脅。這是首相高市早苗政府計劃加強情報及反間諜能力的第一步，但也引發了對公民自由的擔憂。",
+          "background": "日本在面對地緣政治緊張局勢及安全威脅的背景下，政府決定強化國內的情報收集能力。高市早苗作為安全政策的支持者，推動此法案以應對來自外部的潛在威脅，特別是來自鄰近國家的間諜活動。此舉反映了日本在安全政策上的轉變，尤其是在國際局勢變化及國內對安全問題的關注日益增加的情況下。政府的這一行動也引發了對個人隱私及公民自由的擔憂，因為集中情報收集可能會導致監控的擴大。",
+          "stakeholders": [
+            "日本政府",
+            "國會議員",
+            "公民權益團體",
+            "安全專家",
+            "國際社會"
+          ],
+          "analysis": "新成立的國家情報委員會旨在提升日本的情報能力，這一政策受到政府內部安全觀念的推動。然而，這也引發了社會各界的擔憂，特別是在隱私權和公民自由方面。反對者擔心，這樣的集中化可能導致濫用權力，並對普通公民的生活造成影響。支持者則認為，隨著國際安全環境的變化，強化情報能力是必要的。未來，政府如何平衡安全需求與公民自由之間的矛盾將成為關鍵挑戰，並可能影響公眾對政府的信任。"
+        },
+        "topic_priority_score": 10,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -61,61 +94,30 @@
       },
       {
         "category": "technology",
-        "source_name": "SCMP Business",
-        "title": "Hang Seng Index review to boost market capitalisation by 4.5%: Goldman Sachs",
-        "link": "https://www.scmp.com/business/china-business/article/3354732/hang-seng-index-review-boost-market-capitalisation-45-cent-goldman-sachs?utm_source=rss_feed",
-        "summary": "The latest quarterly review of the Hang Seng Index will likely boost the capitalisation of the benchmark of Hong Kong stocks by 4.5 per cent and attract buying of stock including Tencent Holdings and BeOne Medicine, according to Goldman Sachs. The market capitalisation of the Hang Seng Index is expected to rise to US$2.15 trillion after the review result showed on Friday that biotech firm BeOne Medicine, Aluminum Crop of China (Chalco) and parcel delivery firm J&T Global Express would join the...",
-        "published": "Mon, 25 May 2026 08:00:07 +0000",
-        "updated": "Mon, 25 May 2026 08:00:07 +0000",
-        "published_at_utc": "2026-05-25T08:00:07+00:00",
-        "id": "https://www.scmp.com/business/china-business/article/3354732/hang-seng-index-review-boost-market-capitalisation-45-cent-goldman-sachs?utm_source=rss_feed",
-        "topic_type": "platform_regulation",
-        "relevance_score": 18,
+        "source_name": "SCMP World",
+        "title": "AI is massively increasing China’s new weapon development speed: scientists",
+        "link": "https://www.scmp.com/news/china/science/article/3354989/ai-massively-increasing-chinas-new-weapon-development-speed-scientists?utm_source=rss_feed",
+        "summary": "While much of military AI globally focuses on autonomous weapons and large language models, a new study suggests Beijing may also be pursuing a quieter transformation: embedding artificial intelligence (AI) in the deepest layers of industrial manufacturing. A study published last month in the Chinese defence engineering journal Acta Armamentarii described how researchers developed an AI-powered “bearing design agent” – capable of autonomously designing rolling bearings in advanced machinery. The...",
+        "published": "Wed, 27 May 2026 10:00:13 +0000",
+        "updated": "Wed, 27 May 2026 10:00:13 +0000",
+        "published_at_utc": "2026-05-27T10:00:13+00:00",
+        "id": "https://www.scmp.com/news/china/science/article/3354989/ai-massively-increasing-chinas-new-weapon-development-speed-scientists?utm_source=rss_feed",
+        "topic_type": "ai",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "The latest quarterly review of the Hang Seng Index will likely boost the capitalisation of the benchmark of Hong Kong stocks by 4.5 per cent and attract buying of stock including Tencent Holdings and BeOne Medicine, according to Goldman Sachs. The market capitalisation of the Hang Seng Index is expected to rise to US$2.15 trillion after the review result showed on Friday that biotech firm BeOne Medicine, Aluminum Crop of China (Chalco) and parcel delivery firm J&T Global Express would join the...",
-          "news_focus_zh": "根據高盛的報告，香港恒生指數的最新季度檢討將使市場資本化提高4.5%。這一變化預計將吸引對包括騰訊控股和BeOne Medicine在內的股票的購買。檢討結果顯示，生技公司BeOne Medicine、中國鋁業公司（Chalco）以及包裹快遞公司J&T Global Express將加入恒生指數，預計恒生指數的市場資本化將達到2.15萬億美元。",
-          "background": "恒生指數是香港股市的主要指標，反映了香港經濟的健康狀況。每季度的檢討會影響指數成分股的選擇，進而影響市場資本化和投資者的信心。近期，隨著全球經濟逐步復甦，香港市場吸引了更多的外資流入。高盛的預測顯示，這次檢討不僅會提升市場資本化，還可能改變投資者對特定行業的看法，尤其是在生技和科技領域。",
+          "news_focus": "While much of military AI globally focuses on autonomous weapons and large language models, a new study suggests Beijing may also be pursuing a quieter transformation: embedding artificial intelligence (AI) in the deepest layers of industrial manufacturing. A study published last month in the Chinese defence engineering journal Acta Armamentarii described how researchers developed an AI-powered “bearing design agent” – capable of autonomously designing rolling bearings in advanced machinery. The...",
+          "news_focus_zh": "中國科學家發表的一項研究指出，人工智慧（AI）正在顯著加速中國新武器的開發速度。這項研究發表在中國國防工程期刊《武器學報》中，介紹了一種名為“軸承設計代理”的AI技術，該技術能夠自動設計先進機械中的滾動軸承，顯示出AI在工業製造深層次的應用潛力。",
+          "background": "隨著全球對軍事AI的關注日益增加，許多國家專注於自主武器和大型語言模型的開發。然而，中國在這一領域的發展似乎更加多元化，尤其是在工業製造方面。中國政府在過去幾年中大力推進科技創新，尤其是在國防工業，期望通過引入AI技術來提升武器系統的性能和生產效率。這一策略不僅能夠加快武器的研發速度，還可能改變未來戰爭的形態。",
           "stakeholders": [
-            "高盛",
-            "騰訊控股",
-            "BeOne Medicine",
-            "中國鋁業公司",
-            "J&T Global Express"
+            "中國政府",
+            "中國科學家",
+            "國防工業",
+            "其他國家軍事機構",
+            "國際安全專家"
           ],
-          "analysis": "此次恒生指數的檢討將對市場產生顯著影響，尤其是對騰訊控股和BeOne Medicine等公司的股價。高盛的預測暗示，這些公司的加入將吸引更多的資金流入，進一步推動股價上漲。市場參與者可能會密切關注這些公司的表現，以評估其未來增長潛力。此外，這一變化也可能引發其他公司對加入恒生指數的興趣，進一步促進香港股市的活躍度。整體而言，這次檢討不僅是對指數的調整，更是對香港市場未來發展的一次重要信號。"
+          "analysis": "這項研究顯示了中國在軍事AI領域的潛在優勢，尤其是在工業製造的深層應用上。通過自動化設計，可能使得武器系統的開發更為高效，從而提升中國的軍事能力。此舉可能引發其他國家，特別是美國和俄羅斯的關注，因為他們也在積極探索AI在軍事上的應用。不同於傳統的自主武器開發，中國的這一策略可能會使其在未來的軍備競賽中占據先機。此外，這也可能引發對於軍事AI倫理和安全的討論，特別是在自動化系統的可靠性和控制問題上。"
         },
-        "topic_priority_score": 8,
-        "event_type": "commercial_update",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "Wired",
-        "title": "A Probe Took Incredible Pictures of Mars on Its Way to a Far-Off Asteroid",
-        "link": "https://www.wired.com/story/a-probe-took-incredible-pictures-of-mars-on-its-way-to-a-far-off-asteroid/",
-        "summary": "NASA took advantage of the recent close approach of the Psyche probe to Mars to calibrate its observation instruments.",
-        "published": "Mon, 25 May 2026 09:00:00 +0000",
-        "updated": "Mon, 25 May 2026 09:00:00 +0000",
-        "published_at_utc": "2026-05-25T09:00:00+00:00",
-        "id": "6a0e191fc634ff9b79eb041d",
-        "topic_type": "space_tech",
-        "relevance_score": 14,
-        "briefing": {
-          "news_focus": "NASA took advantage of the recent close approach of the Psyche probe to Mars to calibrate its observation instruments.",
-          "news_focus_zh": "NASA利用Psyche探測器最近接近火星的機會，對其觀測儀器進行了校準，並拍攝了火星的驚人照片。這一過程不僅有助於提高探測器的觀測能力，也為未來的任務提供了重要的數據支持。",
-          "background": "Psyche探測器是NASA的一個重要任務，旨在探索位於小行星帶中的Psyche小行星。該小行星被認為是由金屬組成，可能提供有關行星形成的關鍵信息。此次接近火星的過程，不僅是一次技術上的挑戰，也是對探測器性能的實際測試。火星作為太陽系內研究最為深入的行星之一，其環境和地質特徵為其他行星的研究提供了參考。",
-          "stakeholders": [
-            "NASA",
-            "科學界",
-            "太空探索公司"
-          ],
-          "analysis": "此次NASA利用Psyche探測器接近火星的機會進行儀器校準，顯示出該機構在太空探索任務中對技術準確性的重視。這一行動不僅有助於提升Psyche探測器的觀測能力，也可能為未來的科學研究提供更為精確的數據。隨著太空探索技術的進步，其他國家和私營企業也在積極開展類似的任務，這可能會引發更激烈的競爭。NASA的這一行動可能會促使其他國家加快其太空探索計劃，尤其是在小行星和其他行星的研究上。"
-        },
-        "topic_priority_score": 4,
+        "topic_priority_score": 9,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -127,31 +129,31 @@
     "politics": [
       {
         "category": "politics",
-        "source_name": "The Guardian Business",
-        "title": "The language of the American presidency doesn’t apply to Trump | Robert Reich",
-        "link": "https://www.theguardian.com/commentisfree/2026/may/25/american-presidency-trump",
-        "summary": "Trump and his allies have so undermined the US government that we need a new vocabulary to describe them Words matter. When describing a government, they inevitably carry moral weight. Over the past 16 months, Trump and his appointees have so profoundly undermined the United States government that different words should be used to describe them than have been used to describe all previous administrations. Robert Reich, a former US secretary of labor, is a professor of public policy emeritus at the University of California, Berkeley. He is a Guardian US columnist and his newsletter is at robertreich.substack.com . His new book, Coming Up Short: A Memoir of My America, is out now in the US and in the UK Continue reading...",
-        "published": "Mon, 25 May 2026 11:00:24 GMT",
-        "updated": "2026-05-25T11:00:24Z",
-        "published_at_utc": "2026-05-25T11:00:24+00:00",
-        "id": "https://www.theguardian.com/commentisfree/2026/may/25/american-presidency-trump",
-        "topic_type": "us_politics",
-        "relevance_score": 18,
+        "source_name": "The Guardian World",
+        "title": "Labour must put policy first, politics second, Tony Blair says",
+        "link": "https://www.theguardian.com/politics/2026/may/27/labour-policy-first-politics-second-tony-blair",
+        "summary": "Former PM urges party to take a step back and ‘analyse the world’ amid speculation over Keir Starmer’s leadership UK politics live – latest updates Tony Blair has continued his attack on the Labour government, saying it should be about “policy first, politics second”. Hours after he published a scathing essay in which he warned that the party’s “almost infinite capacity for self-delusion” meant it was likely to lose the next election, the former prime minister said it should “take a step back, analyse the world”. Continue reading...",
+        "published": "Wed, 27 May 2026 09:32:15 GMT",
+        "updated": "2026-05-27T09:32:15Z",
+        "published_at_utc": "2026-05-27T09:32:15+00:00",
+        "id": "https://www.theguardian.com/politics/2026/may/27/labour-policy-first-politics-second-tony-blair",
+        "topic_type": "uk_politics",
+        "relevance_score": 22,
         "briefing": {
-          "news_focus": "Trump and his allies have so undermined the US government that we need a new vocabulary to describe them Words matter. When describing a government, they inevitably carry moral weight. Over the past 16 months, Trump and his appointees have so profoundly undermined the United States government that different words should be used to describe them than have been used to describe all previous administrations. Robert Reich, a former US secretary of labor, is a professor of public policy emeritus at the University of California, Berkeley. He is a Guardian US columnist and his newsletter is at robertreich.substack.com . His new book, Coming Up Short: A Memoir of My America, is out now in the US and in the UK Continue reading...",
-          "news_focus_zh": "前美國勞工部長羅伯特·賴希在《衛報》上發表文章，指出特朗普及其盟友對美國政府的破壞程度已達到需要重新定義用語的地步。他認為，描述特朗普政府的語言應與以往任何政府不同，因為這些詞彙承載著道德意義，反映出特朗普政府的獨特性與危險性。",
-          "background": "特朗普政府自2016年上任以來，對美國政治體系的影響引發了廣泛的爭議與討論。許多觀察者認為，特朗普及其支持者的行為不僅挑戰了傳統的政治規範，還對民主制度造成了潛在威脅。賴希的觀點反映了部分學者與政治評論員對特朗普政府的批評，認為其行為已經超越了以往政府的範疇，需用新的語言來描述其影響。",
+          "news_focus": "Former PM urges party to take a step back and ‘analyse the world’ amid speculation over Keir Starmer’s leadership UK politics live – latest updates Tony Blair has continued his attack on the Labour government, saying it should be about “policy first, politics second”. Hours after he published a scathing essay in which he warned that the party’s “almost infinite capacity for self-delusion” meant it was likely to lose the next election, the former prime minister said it should “take a step back, analyse the world”. Continue reading...",
+          "news_focus_zh": "前英國首相托尼·布萊爾呼籲工黨應將政策置於政治之上，並在對基爾·斯塔默領導的猜測中，強調工黨應該退一步分析當前世界。他在一篇尖銳的文章中警告，工黨的自我迷失能力幾乎是無限的，這可能導致他們在即將到來的選舉中失利。",
+          "background": "英國工黨目前面臨內部挑戰，尤其是在領導層的穩定性與政策方向上。基爾·斯塔默自接任以來，致力於重塑工黨形象，試圖擺脫過去的陰影。然而，內部對於政策的共識與選民的期待之間存在著明顯的落差。布萊爾的評論反映出對工黨未來的擔憂，尤其是在即將舉行的選舉中，工黨需重新聚焦於政策制定，以贏得選民的信任。",
           "stakeholders": [
-            "特朗普",
-            "羅伯特·賴希",
-            "美國政府",
-            "特朗普的支持者",
-            "民主黨"
+            "工黨",
+            "基爾·斯塔默",
+            "托尼·布萊爾",
+            "選民",
+            "政治分析家"
           ],
-          "analysis": "賴希的觀點強調了特朗普政府與以往政府之間的根本差異，這在當前美國政治中引發了激烈的辯論。支持特朗普的人士可能會反駁賴希的說法，認為特朗普的政策和風格是對傳統政治的必要挑戰，並且有助於促進經濟增長和國家安全。然而，賴希的論點則指出，這種挑戰可能會破壞民主制度的基礎，並對政府的公信力造成長期影響。隨著美國政治的分裂加劇，未來對於特朗普及其政府的評價將持續成為焦點，並可能影響即將到來的選舉結果。"
+          "analysis": "布萊爾的言論突顯了工黨內部對於政策與政治優先順序的分歧。他的建議反映出對當前領導層的批評，認為工黨過於專注於政治策略，而忽視了實質政策的制定。這種觀點在黨內可能引發不同的反應，支持者可能認為這是必要的自我反省，而反對者則可能視其為對現任領導的挑戰。隨著選舉的臨近，工黨必須在政策與政治之間找到平衡，以避免重蹈覆轍。布萊爾的警告若未被重視，可能使工黨在選舉中面臨更大的困難。"
         },
-        "topic_priority_score": 8,
-        "event_type": "political_signal",
+        "topic_priority_score": 9,
+        "event_type": "election_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -160,95 +162,112 @@
       },
       {
         "category": "politics",
-        "source_name": "SCMP World",
-        "title": "Trump’s overseas application for US green card rule unnerves Asian workers",
-        "link": "https://www.scmp.com/week-asia/economics/article/3354773/trumps-overseas-application-us-green-card-rule-unnerves-asian-workers?utm_source=rss_feed",
-        "summary": "A new US immigration policy could force many green card applicants to leave the country and apply from abroad, disrupting families, careers and long-term settlement plans for Asian workers already facing years-long backlogs for visas. US Citizenship and Immigration Services said on May 22 that it would only grant “adjustment of status” – the process that allows prospective immigrants already in the US to apply for permanent residence without leaving the country – in “extraordinary...",
-        "published": "Mon, 25 May 2026 10:34:53 +0000",
-        "updated": "Mon, 25 May 2026 10:34:53 +0000",
-        "published_at_utc": "2026-05-25T10:34:53+00:00",
-        "id": "https://www.scmp.com/week-asia/economics/article/3354773/trumps-overseas-application-us-green-card-rule-unnerves-asian-workers?utm_source=rss_feed",
-        "topic_type": "us_politics",
-        "relevance_score": 18,
+        "source_name": "The Hindu International",
+        "title": "China supports 'active mediation' by Pakistan between U.S.-Iran, says Foreign Minister Wang Yi",
+        "link": "https://www.thehindu.com/news/international/china-supports-active-mediation-by-pakistan-between-us-iran-says-foreign-minister-wang-yi/article71027879.ece",
+        "summary": "Chinese Foreign Minister Wang Yi’s remarks came as U.S. Senator Lindsey Graham said in a post on X that Pakistan, as a ‘mediator’ between the U.S. and Iran, is more than ‘problematic’",
+        "published": "Wed, 27 May 2026 14:19:26 +0530",
+        "updated": "Wed, 27 May 2026 14:19:26 +0530",
+        "published_at_utc": "2026-05-27T08:49:26+00:00",
+        "id": "article-71027879",
+        "topic_type": "diplomacy",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "A new US immigration policy could force many green card applicants to leave the country and apply from abroad, disrupting families, careers and long-term settlement plans for Asian workers already facing years-long backlogs for visas. US Citizenship and Immigration Services said on May 22 that it would only grant “adjustment of status” – the process that allows prospective immigrants already in the US to apply for permanent residence without leaving the country – in “extraordinary...",
-          "news_focus_zh": "美國公民及移民服務局於5月22日宣布，新的移民政策將迫使許多綠卡申請者必須離開美國，並在國外重新申請，這對於已經面臨多年簽證積壓的亞洲工人而言，將造成家庭、職業及長期定居計劃的重大干擾。此政策僅在「特殊情況」下才會允許在美國境內進行身份調整，這引發了廣泛的擔憂。",
-          "background": "美國的移民政策一直是政治辯論的焦點，尤其是在特朗普政府期間，對移民的限制措施頻繁出現。亞洲工人，特別是來自印度和中國的科技專業人士，通常依賴H-1B簽證和後續的綠卡申請。由於簽證配額的限制，這些工人面臨著長達數年的等待時間。新的政策可能會進一步加劇這一問題，迫使許多家庭面臨分離的風險，並影響他們的職業發展和生活安排。",
+          "news_focus": "Chinese Foreign Minister Wang Yi’s remarks came as U.S. Senator Lindsey Graham said in a post on X that Pakistan, as a ‘mediator’ between the U.S. and Iran, is more than ‘problematic’",
+          "news_focus_zh": "中國外交部長王毅表示，中國支持巴基斯坦在美國與伊朗之間進行'積極調解'的角色。此言論發表之際，美國參議員林賽·格雷厄姆在社交媒體上指出，巴基斯坦作為美伊之間的'調解者'是相當'有問題'的，顯示出對巴基斯坦調解能力的質疑。",
+          "background": "美國與伊朗之間的緊張關係持續升高，尤其是在核協議及地區影響力的問題上。巴基斯坦在此背景下，試圖扮演調解者的角色，這不僅是出於其地緣政治考量，也可能與其與中國的經濟合作有關。中國與巴基斯坦的經濟走廊計劃旨在加強雙邊貿易與投資，並可能使巴基斯坦在國際事務中獲得更大的發言權。",
           "stakeholders": [
-            "美國政府",
-            "亞洲工人",
-            "科技公司",
-            "移民權益團體"
-          ],
-          "analysis": "這項新政策可能會引發亞洲社群的強烈反彈，因為許多工人已經在美國建立了穩固的生活和職業基礎。對於那些在美國工作多年但仍在等待綠卡的工人來說，這一變化可能意味著他們需要重新評估自己的職業路徑和家庭安排。企業也可能受到影響，因為他們依賴這些高技能工人來填補技術空缺。此政策的實施可能會導致人才流失，並使美國在全球科技競爭中處於不利地位。各方可能會對此政策提出法律挑戰，進一步引發政治爭論。"
-        },
-        "topic_priority_score": 8,
-        "event_type": "political_signal",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
-        "source_name": "SCMP World",
-        "title": "Why Trump’s draft peace pact with Iran threatens Netanyahu’s Middle East plans",
-        "link": "https://www.scmp.com/week-asia/politics/article/3354715/why-trumps-draft-peace-pact-iran-threatens-netanyahus-middle-east-plans?utm_source=rss_feed",
-        "summary": "For decades, Israeli Prime Minister Benjamin Netanyahu has preached a mantra of peace and stability in the Middle East through the destruction of Iran’s Islamic Republic. The obliteration of the ayatollahs, he prophesied, would lead to the normalisation of relations between Israel and the wider Arab-Islamic world – with Israel emerging as the Middle East’s dominant power and indispensable security provider. But on Saturday, Netanyahu’s dreams looked set to be dashed, after US President Donald...",
-        "published": "Mon, 25 May 2026 02:57:21 +0000",
-        "updated": "Mon, 25 May 2026 02:57:21 +0000",
-        "published_at_utc": "2026-05-25T02:57:21+00:00",
-        "id": "https://www.scmp.com/week-asia/politics/article/3354715/why-trumps-draft-peace-pact-iran-threatens-netanyahus-middle-east-plans?utm_source=rss_feed",
-        "topic_type": "us_politics",
-        "relevance_score": 18,
-        "briefing": {
-          "news_focus": "For decades, Israeli Prime Minister Benjamin Netanyahu has preached a mantra of peace and stability in the Middle East through the destruction of Iran’s Islamic Republic. The obliteration of the ayatollahs, he prophesied, would lead to the normalisation of relations between Israel and the wider Arab-Islamic world – with Israel emerging as the Middle East’s dominant power and indispensable security provider. But on Saturday, Netanyahu’s dreams looked set to be dashed, after US President Donald...",
-          "news_focus_zh": "美國總統特朗普提出的草案和平協議與伊朗的關係，可能會威脅以色列總理內塔尼亞胡在中東的計畫。內塔尼亞胡長期以來主張通過摧毀伊朗的伊斯蘭共和國來實現中東的和平與穩定，並預測這將促進以色列與阿拉伯-伊斯蘭世界的正常化關係，讓以色列成為中東的主導力量。然而，特朗普的和平提案可能會使內塔尼亞胡的夢想受到衝擊。",
-          "background": "內塔尼亞胡的政策長期以來專注於削弱伊朗的影響力，認為摧毀伊朗政權是實現中東和平的關鍵。他的策略不僅涉及軍事行動，還包括與阿拉伯國家的外交接觸，試圖建立聯盟以對抗伊朗的擴張。隨著特朗普政府提出的和平協議，這一局勢可能會改變，因為該協議可能會促使美國與伊朗之間的關係緩和，這對內塔尼亞胡的計畫構成挑戰。",
-          "stakeholders": [
-            "以色列政府",
-            "美國政府",
-            "伊朗政府",
-            "阿拉伯國家",
+            "中國",
+            "巴基斯坦",
+            "美國",
+            "伊朗",
             "國際社會"
           ],
-          "analysis": "特朗普的和平協議可能會使以色列在中東的地位受到威脅，因為這可能會減少以色列對抗伊朗的正當性。內塔尼亞胡的計畫依賴於持續的地緣政治緊張局勢，以便強化以色列的安全需求和外交關係。然而，若美伊關係改善，可能會使阿拉伯國家對以色列的依賴減少，從而影響以色列的戰略利益。此外，這一協議也可能引發以色列內部的政治爭議，因為反對派可能會利用此機會質疑內塔尼亞胡的外交政策有效性。"
+          "analysis": "王毅的言論顯示出中國對巴基斯坦的支持，可能是希望透過巴基斯坦來影響美伊關係，進而增強自身在該地區的影響力。然而，格雷厄姆的批評反映出美方對巴基斯坦調解能力的懷疑，可能會影響巴基斯坦在國際舞台上的角色。參考報導提到的中巴經濟走廊計劃，可能使巴基斯坦在調解過程中更具主動性，但同時也可能使其面臨更大的國際壓力。未來，巴基斯坦如何平衡中美之間的關係將成為關鍵。"
+        },
+        "topic_priority_score": 7,
+        "event_type": "diplomatic_move",
+        "supporting_sources": [
+          "Taipei Times"
+        ],
+        "supporting_titles": [
+          "China, Pakistan aiming to revamp economic corridor"
+        ],
+        "supporting_summaries": [
+          ""
+        ],
+        "supporting_links": [
+          "https://www.taipeitimes.com/News/front/archives/2026/05/27/2003858042"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "politics",
+        "source_name": "The Guardian World",
+        "title": "Blair says Labour needs debate before selecting new leader as he criticises Burnham speech – UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/may/27/tony-blair-keir-starmer-wes-streeting-andy-burnham-mahmood-labour-leadership-latest-news-updates",
+        "summary": "Ex-PM uses 5,700-word essay to accuse Starmer, Burnham and Streeting of putting Labour’s future at risk Tony Blair tells Starmer and rivals: abandon net zero and move closer to Trump Zack Polanski , the Green party leader, posted this on social media about Tony Blair’s latest intervention this morning. Tony Blair. What the billionaire class have paid for. Spot the difference between “Tony Blair says” and “Nigel Farage says” Continue reading...",
+        "published": "Wed, 27 May 2026 11:10:02 GMT",
+        "updated": "2026-05-27T11:10:02Z",
+        "published_at_utc": "2026-05-27T11:10:02+00:00",
+        "id": "https://www.theguardian.com/politics/live/2026/may/27/tony-blair-keir-starmer-wes-streeting-andy-burnham-mahmood-labour-leadership-latest-news-updates",
+        "topic_type": "us_politics",
+        "relevance_score": 20,
+        "briefing": {
+          "news_focus": "Ex-PM uses 5,700-word essay to accuse Starmer, Burnham and Streeting of putting Labour’s future at risk Tony Blair tells Starmer and rivals: abandon net zero and move closer to Trump Zack Polanski , the Green party leader, posted this on social media about Tony Blair’s latest intervention this morning. Tony Blair. What the billionaire class have paid for. Spot the difference between “Tony Blair says” and “Nigel Farage says” Continue reading...",
+          "news_focus_zh": "前英國首相托尼·布萊爾在一篇5700字的文章中批評工黨領袖基爾·斯塔默及其競爭者安迪·伯納姆和韋斯·斯特丁，指責他們危害工黨的未來。他呼籲工黨放棄淨零排放政策，並向唐納德·特朗普靠攏，警告如果繼續偏離中間路線，工黨將可能在下一次選舉中失利。",
+          "background": "工黨在英國政治中長期扮演重要角色，但近年來面臨內部分歧與選民支持度下降的挑戰。布萊爾的批評反映出對工黨未來方向的擔憂，特別是在氣候政策與經濟政策上。隨著選舉臨近，工黨內部對於如何平衡環保政策與經濟增長的辯論愈發激烈。布萊爾的言論也突顯出他對於當前領導層的失望，並希望能夠引發更深入的討論，以避免重蹈覆轍。",
+          "stakeholders": [
+            "托尼·布萊爾",
+            "基爾·斯塔默",
+            "安迪·伯納姆",
+            "韋斯·斯特丁",
+            "綠黨"
+          ],
+          "analysis": "布萊爾的介入引發了對工黨未來方向的廣泛討論。他的批評指出，工黨若繼續偏離中間路線，將面臨選舉失利的風險。這一觀點與當前工黨領導層的政策形成對比，斯塔默及其支持者可能會堅持其環保承諾，認為這是吸引年輕選民的關鍵。然而，布萊爾的建議，特別是放棄淨零排放政策，可能會引發黨內的激烈反對，尤其是來自綠黨及環保派的壓力。參考報導中提到，布萊爾的批評被認為不具建設性，這反映出他與當前工黨領導層之間的深刻分歧。未來，工黨如何平衡內部意見並制定有效的選舉策略將是關鍵。"
         },
         "topic_priority_score": 8,
-        "event_type": "security_event",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "event_type": "policy_action",
+        "supporting_sources": [
+          "The Guardian Business"
+        ],
+        "supporting_titles": [
+          "Tony Blair tells Starmer and rivals: abandon net zero and move closer to Trump"
+        ],
+        "supporting_summaries": [
+          "In highly unusual intervention, ex-PM says his party’s ‘almost infinite capacity for self-delusion’ makes it likely to lose next election Analysis: Tony Blair’s essay on Labour failings gets full marks for being unhelpful Tony Blair has accused Keir Starmer, Andy Burnham and Wes Streeting of putting Labour’s future at risk by abandoning the centre ground, warning that the party’s “almost infinite capacity for self-delusion” means it is likely to lose the next election. In a scathing 5,700-word attack on the prime minister and his would-be successors published on Tuesday night, Blair argued for the government to crack down on welfare spending, abandon restrictions on oil and gas and smooth relations with Donald Trump. Continue reading..."
+        ],
+        "supporting_links": [
+          "https://www.theguardian.com/politics/2026/may/26/tony-blair-labour-abandon-net-zero-support-donald-trump"
+        ],
+        "source_count": 2
       }
     ],
     "economy": [
       {
         "category": "economy",
         "source_name": "The Guardian Business",
-        "title": "The world is heading toward a financial crisis – the state of US politics has left us ill-prepared",
-        "link": "https://www.theguardian.com/business/2026/may/25/financial-crisis-trump-economics",
-        "summary": "Trump’s second term has revealed that Washington’s policy response to such a crisis will be misguided and full of chaos A bona fide financial crisis has not broken out since the US housing meltdown of 2007. Even the Covid pandemic and subsequent upsurge in inflation didn’t lead to financial upheaval. The jitters produced by the collapse of Silicon Valley Bank in 2023 were soon forgotten. Given this stability, it might take some effort to convince financial markets that another big one is around the corner. But it is. Financial markets and their regulating governments may believe they have acquired immunity, but the world is careening toward a moment of financial upheaval that could well dwarf the damage caused by the last one. Continue reading...",
-        "published": "Mon, 25 May 2026 10:00:23 GMT",
-        "updated": "2026-05-25T10:00:23Z",
-        "published_at_utc": "2026-05-25T10:00:23+00:00",
-        "id": "https://www.theguardian.com/business/2026/may/25/financial-crisis-trump-economics",
+        "title": "The Guardian view on Britain’s economy: to profit politically a recovery must be felt in people’s pockets | Editorial",
+        "link": "https://www.theguardian.com/commentisfree/2026/may/26/the-guardian-view-on-britains-economy-to-profit-politically-a-recovery-must-be-felt-in-peoples-pockets",
+        "summary": "The chancellor can point to growth and lower inflation, but weak job data, flat living standards and uncertain productivity are no reason to cheer In October 1991, the then chancellor Norman Lamont said he thought he saw some “green shoots” of recovery. He was ridiculed, as Britain was in the midst of a deep recession that it would not clamber out of until the following summer. Insouciant in the face of the scorn heaped upon him, Mr Lamont defended himself robustly, even long after the event – not least by writing letters to this newspaper. Despite this valiant defence, “green shootism” became notorious because it suggested a ruling class that was congratulating itself well before ordinary people felt a recovery. This has not stopped politicians since 2010 from claiming that Britain was bouncing back from the series of shocks it has experienced. After austerity had produced economic stagnation, George Osborne, the Tory chancellor in 2013, seized on a few quarters of growth to claim Britain was “turning a corner ”. Just months before the 2024 general election, Rishi Sunak, the Conservative prime minister, said that the country was starting to see the “ green shoots ” of recovery. Voters resoundingly rejected that claim when Labour was elected in a landslide. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here . Continue reading...",
+        "published": "Tue, 26 May 2026 17:19:49 GMT",
+        "updated": "2026-05-26T17:19:49Z",
+        "published_at_utc": "2026-05-26T17:19:49+00:00",
+        "id": "https://www.theguardian.com/commentisfree/2026/may/26/the-guardian-view-on-britains-economy-to-profit-politically-a-recovery-must-be-felt-in-peoples-pockets",
         "topic_type": "inflation",
-        "relevance_score": 25,
+        "relevance_score": 23,
         "briefing": {
-          "news_focus": "Trump’s second term has revealed that Washington’s policy response to such a crisis will be misguided and full of chaos A bona fide financial crisis has not broken out since the US housing meltdown of 2007. Even the Covid pandemic and subsequent upsurge in inflation didn’t lead to financial upheaval. The jitters produced by the collapse of Silicon Valley Bank in 2023 were soon forgotten. Given this stability, it might take some effort to convince financial markets that another big one is around the corner. But it is. Financial markets and their regulating governments may believe they have acquired immunity, but the world is careening toward a moment of financial upheaval that could well dwarf the damage caused by the last one. Continue reading...",
-          "news_focus_zh": "根據《The Guardian Business》的報導，隨著特朗普的第二任期，華盛頓對潛在金融危機的政策反應被認為將是錯誤且混亂的。儘管自2007年美國房地產崩潰以來，尚未發生真正的金融危機，但專家警告，全球正朝向一場可能超過以往危機損害的金融動盪。儘管市場目前看似穩定，專家認為，金融市場和監管機構的自滿可能使其對即將來臨的危機缺乏準備。",
-          "background": "自2007年以來，全球金融體系經歷了多次挑戰，包括新冠疫情和隨之而來的通脹上升，但未導致重大金融崩潰。特別是2023年矽谷銀行的倒閉事件，雖然引發市場波動，但隨後迅速被遺忘。這種穩定感使得市場參與者對未來的風險評估過於樂觀。特朗普政府的政策走向，尤其是在經濟管理上，可能會對未來的金融穩定性造成負面影響，進一步加劇市場的不安。",
+          "news_focus": "The chancellor can point to growth and lower inflation, but weak job data, flat living standards and uncertain productivity are no reason to cheer In October 1991, the then chancellor Norman Lamont said he thought he saw some “green shoots” of recovery. He was ridiculed, as Britain was in the midst of a deep recession that it would not clamber out of until the following summer. Insouciant in the face of the scorn heaped upon him, Mr Lamont defended himself robustly, even long after the event – not least by writing letters to this newspaper. Despite this valiant defence, “green shootism” became notorious because it suggested a ruling class that was congratulating itself well before ordinary people felt a recovery. This has not stopped politicians since 2010 from claiming that Britain was bouncing back from the series of shocks it has experienced. After austerity had produced economic stagnation, George Osborne, the Tory chancellor in 2013, seized on a few quarters of growth to claim Britain was “turning a corner ”. Just months before the 2024 general election, Rishi Sunak, the Conservative prime minister, said that the country was starting to see the “ green shoots ” of recovery. Voters resoundingly rejected that claim when Labour was elected in a landslide. Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here . Continue reading...",
+          "news_focus_zh": "《衛報》社論指出，儘管英國財相宣稱經濟增長和通脹下降，但實際上就業數據疲弱、生活水平平穩及生產力不確定，並無理由慶祝。歷史上，政治人物曾多次在經濟復甦未明顯體現在民眾生活中時，宣稱出現復甦的「綠芽」，這種情況在即將到來的2024年大選前再次出現，當前的保守黨政府面臨著選民的懷疑與拒絕。",
+          "background": "英國經濟在過去幾年遭遇多重衝擊，包括脫歐後的市場不確定性及疫情影響，導致經濟增長緩慢及生活成本上升。儘管政府在某些指標上顯示出增長，但民眾的實際感受卻未能跟上，生活水平的停滯使得選民對政府的經濟政策產生懷疑。面對即將到來的選舉，政黨間的經濟表現競爭愈發激烈，尤其是工黨對保守黨的經濟管理提出質疑，強調民眾的實際利益。",
           "stakeholders": [
-            "特朗普政府",
-            "金融市場",
-            "監管機構",
-            "投資者",
-            "歐洲市場"
+            "英國政府",
+            "工黨",
+            "保守黨",
+            "中央銀行",
+            "選民"
           ],
-          "analysis": "各方對於即將來臨的金融危機的看法存在分歧。《The Guardian》指出，特朗普政府的政策反應將是混亂的，這可能使市場在危機來臨時缺乏有效應對措施。而《The Economist》則強調，歐洲面臨的問題不僅是可負擔性，還包括可用性危機，這與嚴格的監管有關，暗示市場結構性問題可能加劇金融危機的風險。這表明，儘管美國和歐洲的情況不同，但都面臨著政策和市場結構的挑戰，未來的金融穩定性依然岌岌可危。"
+          "analysis": "《衛報》的社論強調了政治與經濟之間的緊張關係，指出即使有經濟增長的數據，若無法轉化為民眾的實際收益，政府的聲明將難以獲得民眾支持。這與《經濟學人》的報導相呼應，後者提到政治因素對中央銀行的影響，暗示公共對高通脹的耐受度可能會影響政策決策。隨著2024年大選的臨近，保守黨若無法有效改善民生，可能面臨選民的強烈反彈，這將影響其未來的政策方向及選舉結果。"
         },
         "topic_priority_score": 9,
         "event_type": "inflation_data",
@@ -256,314 +275,307 @@
           "The Economist"
         ],
         "supporting_titles": [
-          "Forget affordability. Europe has an availability crisis"
+          "It’s not just the Fed. Politics looms over central banks everywhere"
         ],
         "supporting_summaries": [
-          "Tight regulation is largely to blame"
+          "But can the public stomach higher inflation?"
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2025/12/30/forget-affordability-europe-has-an-availability-crisis"
+          "https://www.economist.com/finance-and-economics/2026/01/14/its-not-just-the-fed-politics-looms-over-central-banks-everywhere"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "Energy price cap in Great Britain to rise by 13% from July",
+        "link": "https://www.theguardian.com/money/2026/may/27/energy-price-cap-great-britain-rise-july-gas-electricity-iran-war",
+        "summary": "Average gas and electricity bill to jump to £1,862 a year from July until end of September, in part because of Iran war Business live – latest updates Households will face the steepest summer rise in energy charges in four years after months of soaring market prices caused the government’s energy price cap for Great Britain to climb by 13%. Under the cap the average gas and electricity bill will increase to the equivalent of £1,862 a year from July until the end of September to take account of the rise in global energy market prices caused by the war on Iran, up from £1,641 a year in April to June. Continue reading...",
+        "published": "Wed, 27 May 2026 06:02:34 GMT",
+        "updated": "2026-05-27T06:02:34Z",
+        "published_at_utc": "2026-05-27T06:02:34+00:00",
+        "id": "https://www.theguardian.com/money/2026/may/27/energy-price-cap-great-britain-rise-july-gas-electricity-iran-war",
+        "topic_type": "energy_markets",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "Average gas and electricity bill to jump to £1,862 a year from July until end of September, in part because of Iran war Business live – latest updates Households will face the steepest summer rise in energy charges in four years after months of soaring market prices caused the government’s energy price cap for Great Britain to climb by 13%. Under the cap the average gas and electricity bill will increase to the equivalent of £1,862 a year from July until the end of September to take account of the rise in global energy market prices caused by the war on Iran, up from £1,641 a year in April to June. Continue reading...",
+          "news_focus_zh": "英國的能源價格上限將於七月上調13%，使得家庭的平均燃氣和電力帳單從每年£1,641上升至£1,862，這是四年來夏季能源費用的最大漲幅。此次漲價是因為全球能源市場價格因伊朗戰爭而飆升，預計將持續至九月底。",
+          "background": "英國的能源價格上限制度旨在保護消費者免受市場波動的影響，然而，隨著全球能源需求的增加及地緣政治緊張局勢的升高，特別是伊朗戰爭的影響，市場價格持續上漲。這使得能源監管機構不得不調整價格上限，以反映實際成本。根據最新的市場數據，能源價格的上漲已對家庭經濟造成壓力，尤其是在通脹率高企的背景下，這一變化將進一步影響家庭的支出能力。",
+          "stakeholders": [
+            "英國政府",
+            "能源監管機構",
+            "家庭消費者",
+            "能源供應商",
+            "市場分析師"
+          ],
+          "analysis": "此次能源價格上漲對家庭經濟造成直接影響，根據BBC的報導，使用典型能源的家庭每年需多支付£221。這一情況將使得許多家庭面臨更大的財務壓力，尤其是在通脹和生活成本上升的情況下。政府和能源監管機構的應對措施將成為關鍵，可能需要考慮進一步的補貼或支持措施來緩解家庭的負擔。此外，隨著市場價格的波動，未來幾個月內能源價格的走勢仍然不明朗，可能會影響到消費者信心及經濟增長。各方可能會在如何平衡市場需求與消費者保護之間展開激烈討論。"
+        },
+        "topic_priority_score": 8,
+        "event_type": "energy_supply_move",
+        "supporting_sources": [
+          "BBC Business"
+        ],
+        "supporting_titles": [
+          "Energy bills to rise for millions as impact of Iran war hits"
+        ],
+        "supporting_summaries": [
+          "A household using a typical amount of energy will pay £221 a year more, under the regulator's new price cap."
+        ],
+        "supporting_links": [
+          "https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss"
         ],
         "source_count": 2
       },
       {
         "category": "economy",
         "source_name": "SCMP Business",
-        "title": "As Chinese EV makers expand in Europe, are local automotive suppliers set to benefit?",
-        "link": "https://www.scmp.com/business/china-evs/article/3354764/chinese-ev-makers-expand-europe-are-local-automotive-suppliers-set-benefit?utm_source=rss_feed",
-        "summary": "European automotive suppliers are set to benefit from an influx of Chinese carmakers, thanks to growing demand for electric vehicles (EVs) and persistent local protectionism, according to Vulcan Energy Resources, a lithium and renewable energy producer in Germany. Chinese EV makers – from BYD to Xpeng – are planning to aggressively expand into Europe in search of higher profit margins, even as Brussels advances measures to protect local manufacturing amid a slower pace of electrification. On...",
-        "published": "Mon, 25 May 2026 10:07:33 +0000",
-        "updated": "Mon, 25 May 2026 10:07:33 +0000",
-        "published_at_utc": "2026-05-25T10:07:33+00:00",
-        "id": "https://www.scmp.com/business/china-evs/article/3354764/chinese-ev-makers-expand-europe-are-local-automotive-suppliers-set-benefit?utm_source=rss_feed",
-        "topic_type": "trade_wars",
-        "relevance_score": 23,
+        "title": "Another ‘DeepSeek moment’? Huawei milestone alters China trajectory in chip race: analysts",
+        "link": "https://www.scmp.com/tech/big-tech/article/3354938/another-deepseek-moment-huawei-milestone-alters-china-trajectory-chip-race-analysts?utm_source=rss_feed",
+        "summary": "Huawei Technologies’ unveiling of a chip architectural workaround to bypass US sanctions marks a major step towards China’s semiconductor self-sufficiency, giving Beijing powerful new leverage in its tech tug of war with Washington, analysts say. The Chinese tech giant captured global attention on Monday by introducing the new Tau (τ) Scaling Law, which it said lay the groundwork for Huawei to achieve transistor density equivalent to a 1.4-nanometre process in high-end chips by 2031. If proven,...",
+        "published": "Wed, 27 May 2026 03:00:09 +0000",
+        "updated": "Wed, 27 May 2026 03:00:09 +0000",
+        "published_at_utc": "2026-05-27T03:00:09+00:00",
+        "id": "https://www.scmp.com/tech/big-tech/article/3354938/another-deepseek-moment-huawei-milestone-alters-china-trajectory-chip-race-analysts?utm_source=rss_feed",
+        "topic_type": "sanctions",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "European automotive suppliers are set to benefit from an influx of Chinese carmakers, thanks to growing demand for electric vehicles (EVs) and persistent local protectionism, according to Vulcan Energy Resources, a lithium and renewable energy producer in Germany. Chinese EV makers – from BYD to Xpeng – are planning to aggressively expand into Europe in search of higher profit margins, even as Brussels advances measures to protect local manufacturing amid a slower pace of electrification. On...",
-          "news_focus_zh": "隨著中國電動車製造商如比亞迪和小鵬汽車計劃在歐洲市場積極擴張，歐洲汽車供應商預計將受益於這股潮流。根據德國鋰和可再生能源生產商Vulcan Energy Resources的報導，這一擴張是由於對電動車需求的增長以及當地持續的保護主義措施所驅動。儘管布魯塞爾推進保護本地製造業的措施，但中國企業仍然尋求更高的利潤率。",
-          "background": "在全球電動車市場快速增長的背景下，中國汽車製造商正尋求在歐洲市場獲得更大的份額。歐洲各國政府對於本地製造業的保護主義政策日益加強，這使得當地供應商在面對外來競爭時，能夠獲得一定的市場優勢。此外，歐洲的電動車需求持續上升，促使中國製造商加速進入這一市場，以尋求更高的利潤。這一情況也反映出全球電動車產業鏈的變化，尤其是在原材料和零部件供應方面。",
+          "news_focus": "Huawei Technologies’ unveiling of a chip architectural workaround to bypass US sanctions marks a major step towards China’s semiconductor self-sufficiency, giving Beijing powerful new leverage in its tech tug of war with Washington, analysts say. The Chinese tech giant captured global attention on Monday by introducing the new Tau (τ) Scaling Law, which it said lay the groundwork for Huawei to achieve transistor density equivalent to a 1.4-nanometre process in high-end chips by 2031. If proven,...",
+          "news_focus_zh": "華為技術公司近日推出了一項新的晶片架構解決方案，旨在繞過美國的制裁，這被分析師視為中國在半導體自給自足方面的重要進展。華為在週一引起全球關注，介紹了新的Tau (τ) Scaling Law，該技術預計將使華為在2031年前實現相當於1.4納米工藝的高端晶片的晶體管密度。",
+          "background": "中國的半導體產業長期以來受到美國制裁的影響，這使得中國在高科技領域的發展受到限制。隨著全球對半導體需求的增加，中國政府已將半導體自給自足視為國家戰略的一部分。華為作為中國科技巨頭之一，其在晶片技術上的突破被認為是對抗美國技術壟斷的重要一步。此舉不僅可能改變中國的科技格局，也可能影響全球半導體市場的競爭態勢。",
           "stakeholders": [
-            "中國電動車製造商",
-            "歐洲汽車供應商",
-            "歐洲政府",
-            "消費者",
-            "原材料供應商"
+            "華為",
+            "中國政府",
+            "美國政府",
+            "全球半導體產業",
+            "科技投資者"
           ],
-          "analysis": "中國電動車製造商的擴張對歐洲汽車供應商而言，既是挑戰也是機遇。雖然中國企業可能會帶來更強的競爭壓力，但當地供應商也能因應需求增長而受益。根據Vulcan Energy Resources的觀察，隨著中國品牌進入市場，當地供應商有機會參與到更高價值的供應鏈中。此外，歐洲的保護主義政策可能會進一步促進本地供應商的發展，因為這些政策旨在保護本地產業免受外來競爭的影響。未來，若中國企業能夠有效地融入當地市場，可能會促進技術交流和合作，但也需面對歐洲消費者對於品牌和品質的要求。"
+          "analysis": "華為的這一新技術可能會對中美科技競爭格局產生深遠影響。分析師指出，若華為能夠成功實現其預期的晶片技術，將使中國在半導體領域獲得更大的自主權，並可能減少對外部供應鏈的依賴。這一進展可能引發美國對中國科技公司的進一步制裁或限制，因為美方將視此為對其技術優勢的挑戰。此外，這也可能促使其他國家重新評估與中國的科技合作關係，特別是在半導體領域。整體而言，華為的突破可能會加劇中美之間的技術對抗，並改變全球科技生態系統的競爭格局。"
         },
-        "topic_priority_score": 9,
-        "event_type": "energy_supply_move",
+        "topic_priority_score": 8,
+        "event_type": "macro_signal",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
         "supporting_links": [],
-        "source_count": 1,
-        "cross_section_refs": [
-          "politics"
-        ]
-      },
-      {
-        "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "CSRC’s crackdown on cross-border trading involves US$32b in Hong Kong assets: Citic",
-        "link": "https://www.scmp.com/business/china-business/article/3354776/csrcs-crackdown-cross-border-trading-involves-us32b-hong-kong-assets-citic?utm_source=rss_feed",
-        "summary": "Investors may find out how Hong Kong’s stock market will react to mainland China’s crackdown on illegal cross-border securities trading on Tuesday, as Citic Securities estimates an impact on as much as HK$250 billion (US$31.9 billion) of assets in the city, a negligible amount for the third-largest stock market in Asia. The sweeping campaign may affect between HK$150 billion to HK$180 billion worth of assets owned by mainland Chinese investors with Hong Kong stock accounts at Futu Securities...",
-        "published": "Mon, 25 May 2026 11:00:19 +0000",
-        "updated": "Mon, 25 May 2026 11:00:19 +0000",
-        "published_at_utc": "2026-05-25T11:00:19+00:00",
-        "id": "https://www.scmp.com/business/china-business/article/3354776/csrcs-crackdown-cross-border-trading-involves-us32b-hong-kong-assets-citic?utm_source=rss_feed",
-        "topic_type": "markets",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "Investors may find out how Hong Kong’s stock market will react to mainland China’s crackdown on illegal cross-border securities trading on Tuesday, as Citic Securities estimates an impact on as much as HK$250 billion (US$31.9 billion) of assets in the city, a negligible amount for the third-largest stock market in Asia. The sweeping campaign may affect between HK$150 billion to HK$180 billion worth of assets owned by mainland Chinese investors with Hong Kong stock accounts at Futu Securities...",
-          "news_focus_zh": "中國證券監督管理委員會（CSRC）對跨境交易的打擊行動，可能影響香港市場約2500億港元（約319億美元）的資產。根據中信證券的估計，這一行動將對持有香港股票賬戶的內地投資者造成影響，資產損失預計在1500億至1800億港元之間。市場對此反應將在星期二揭曉，這對於亞洲第三大股市的影響被認為是微不足道的。",
-          "background": "香港作為亞洲主要金融中心，一直以來吸引著大量的內地投資者。隨著中國政府加強對跨境資本流動的監管，特別是在證券交易方面，香港市場的運作面臨新的挑戰。CSRC的打擊行動反映了中國政府對資本外流的擔憂，並試圖透過嚴格的監管來維護金融穩定。這一政策背景下，香港的金融機構和投資者需重新評估其投資策略，以應對可能的資產流動風險。",
-          "stakeholders": [
-            "中國證券監督管理委員會",
-            "中信證券",
-            "香港金融機構",
-            "內地投資者",
-            "國際投資者"
-          ],
-          "analysis": "CSRC的行動對於香港股市的影響雖然被認為是有限的，但仍然引發了市場的關注。中信證券的估計顯示，受影響的資產主要來自內地投資者，這可能會導致資金流出香港市場。此外，參考報導中提到的香港金融活力回升的情況，顯示出儘管面臨監管挑戰，香港仍在吸引更多的交易和投資。不同報導的重點在於，Nikkei Asia強調AI如何改變零售投資者的交易方式，而The Economist則聚焦於香港金融市場的恢復勢頭，這些都可能影響投資者的信心和行為。未來，香港市場可能需要在監管與吸引資本之間找到平衡。"
-        },
-        "topic_priority_score": 4,
-        "event_type": "market_repricing",
-        "supporting_sources": [
-          "Nikkei Asia",
-          "The Economist"
-        ],
-        "supporting_titles": [
-          "How AI is changing stock trades for retail investors",
-          "Hong Kong is getting its financial mojo back"
-        ],
-        "supporting_summaries": [
-          "",
-          "The hub is attracting more deals. And more Beijing-style politics"
-        ],
-        "supporting_links": [
-          "https://asia.nikkei.com/business/markets/trading-asia/how-ai-is-changing-stock-trades-for-retail-investors",
-          "https://www.economist.com/finance-and-economics/2026/02/05/hong-kong-is-getting-its-financial-mojo-back"
-        ],
-        "source_count": 3
+        "source_count": 1
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
-        "title": "Hackers are learning to exploit chatbot ‘personalities’",
-        "link": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-05-24T12:00:00+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "These special phone and app features can help protect you from spyware",
-        "link": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+        "title": "Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover",
+        "link": "https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-23T16:00:00+00:00",
-        "relevance_score": 10
+        "published_at_utc": "2026-05-26T15:26:27+00:00",
+        "relevance_score": 17
       },
       {
-        "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-        "link": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
-        "source_name": "MIT Technology Review",
-        "published_at_utc": "2026-05-22T12:10:00+00:00",
-        "relevance_score": 10
+        "title": "SpaceX's Starship test strengthens IPO case, though hurdles remain - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQVlfNk9rNFdwTmY3SFhxNUtpVlBJWV8tRmhtclJ5VS0yWHc5dm9xMmM3RHNjYTZPOUxjSmp5MnRrRGg1N21YN0FhRzJsODNnZW16ZS03SmRscDNaakhEcTVyQ2xHZ3NSYWFWREVHNFFKd0F2SDkzRUFnMlRuRjlfTUYwNkpUUk9uVXBZcm9PcTBDRU4yYmJMWEVzVWppOFg2QXhQNHQzamFyS1BGaldJT2loRE1lUER2cjc3aU5fTjc2YnFNN2c?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-27T06:03:00+00:00",
+        "relevance_score": 16
       },
       {
-        "title": "These Privacy-Conscious Gay Dating Apps Want to Dethrone Grindr",
-        "link": "https://www.wired.com/story/these-privacy-conscious-gay-dating-apps-want-to-dethrone-grindr/",
+        "title": "Exclusive: Pentagon spars with SpaceX over Starlink price hike during Iran war - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaUljVEJaNEJUaGgyZVVOd3Z5SS13OEltSVFPU1ZEc3UtcFpxNVE0VTZjZzVRV2F5Q0J2UHJtV2xZVmczbTlIYlVfZ2JielRqbGFSVktwZzVyRV9QVm4tTkhoVFdLS3kxeTZSVzBzaTM1b3Q1T1E1dllTSXhOWVQwSXVNUXAydEJySXU1anJackpLUHB0YllPaWtxb0FSZkQybEtnOGhpUjNKNDdnYjR5dDhzWHBOdU8wN09ocDdTeXpZZHppR3R0VnBR?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-26T18:50:54+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "US Supreme Court won't hear Meta's challenge to Vermont social media addiction lawsuit - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbFNicG1mMnVSRnpHOUZzRVNiYjFhcnNZRmpFMzl4VU1meUpVZ0NnaGdTazVoUlpoLTdFLVMzdDRacWlXa0cwdnhrWXhLc2FoNHFrV2xkSVN3cXZaZGV0eFNyV0tIWXBBeFFMT3Roc19UN21McGQxZGdndWh4V2dqR0VON0dVLWpudGJiNmdhNmlUYUljSlM3ZzdCdWJreVlydkViNmJOYmxHdkxVN2sxRUhBYTlvSnhtZHBaV2FlZE9rUFdMT0RMYVczZEg?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-26T14:13:30+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "Ghost hackers: the cybersecurity mystery that nobody has solved",
+        "link": "https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-26T15:27:12+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "7-Eleven data breach affects over 185,000 people’s personal data",
+        "link": "https://techcrunch.com/2026/05/26/7-eleven-data-breach-affects-over-185000-peoples-personal-data/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-26T13:04:56+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
+        "link": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-26T12:00:00+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "NASA Details Its Plan to Build a Lunar Base at the Moon’s South Pole",
+        "link": "https://www.wired.com/story/nasa-details-its-plan-to-build-a-lunar-base-at-the-moons-south-pole/",
         "source_name": "Wired",
-        "published_at_utc": "2026-05-25T11:30:00+00:00",
-        "relevance_score": 8
+        "published_at_utc": "2026-05-27T09:00:00+00:00",
+        "relevance_score": 14
       },
       {
-        "title": "In Defense of My Attachment to This Lululemon Duffel Bag (2026)",
-        "link": "https://www.wired.com/story/i-stopped-tolerating-crossbody-pain-thanks-to-this-lululemon-duffel/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-05-25T11:01:00+00:00",
-        "relevance_score": 8
+        "title": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US",
+        "link": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-05-27T08:00:00+00:00",
+        "relevance_score": 14
       },
       {
-        "title": "SpaceX rocket bursts into flames during Indian Ocean landing – video",
-        "link": "https://www.theguardian.com/science/video/2026/may/23/spacex-rocket-bursts-into-flames-during-indian-ocean-landing-video",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-23T10:20:03+00:00",
-        "relevance_score": 7
-      },
-      {
-        "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
-        "link": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+        "title": "Musk says US military suicide drones used Starlink in violation of SpaceX rules",
+        "link": "https://arstechnica.com/tech-policy/2026/05/musk-says-us-military-suicide-drones-used-starlink-in-violation-of-spacex-rules/",
         "source_name": "Ars Technica",
-        "published_at_utc": "2026-05-22T18:13:05+00:00",
-        "relevance_score": 7
-      },
-      {
-        "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-        "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-        "source_name": "MIT Technology Review",
-        "published_at_utc": "2026-05-21T14:30:45+00:00",
-        "relevance_score": 7
-      },
-      {
-        "title": "Silicon Valley keeps misreading China’s role in tech",
-        "link": "https://restofworld.org/2026/silicon-valley-china-strategy-apple-tesla-nvidia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "source_name": "Rest of World",
-        "published_at_utc": "2026-05-19T10:00:00+00:00",
-        "relevance_score": 7
-      },
-      {
-        "title": "Taiwan’s chips power the global economy. China holds the leverage",
-        "link": "https://restofworld.org/2026/china-taiwan-tsmc-semiconductor-economic-risk/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "source_name": "Rest of World",
-        "published_at_utc": "2026-05-12T10:00:00+00:00",
-        "relevance_score": 7
+        "published_at_utc": "2026-05-26T21:23:56+00:00",
+        "relevance_score": 14
       }
     ],
     "politics": [
       {
-        "title": "As Chinese EV makers expand in Europe, are local automotive suppliers set to benefit?",
-        "link": "https://www.scmp.com/business/china-evs/article/3354764/chinese-ev-makers-expand-europe-are-local-automotive-suppliers-set-benefit?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-05-25T10:07:33+00:00",
+        "title": "Paxton hails Trump’s endorsement as ‘most powerful force in politics’ after Texas runoff win – US politics live",
+        "link": "https://www.theguardian.com/us-news/live/2026/may/27/donald-trump-republicans-texas-primary-midterms-iran-redistricting-latest-news-updates",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-05-27T11:04:23+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Israel-Iran war LIVE: Trump says either 'great and meaningful' deal or 'no deal' with Iran",
-        "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-25-may-2026-trump-peace-deal-pakistan/article71019686.ece",
+        "title": "Human Rights Watch says U.S. deported thousands of Cubans, Venezuelans to danger in Mexico",
+        "link": "https://www.thehindu.com/news/international/human-rights-watch-says-us-deported-thousands-of-cubans-venezuelans-to-danger-in-mexico/article71028573.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-25T11:28:26+00:00",
+        "published_at_utc": "2026-05-27T10:45:46+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Middle East crisis live: Trump insists any Iran deal will be ‘great and meaningful’ amid criticism from fellow Republicans",
-        "link": "https://www.theguardian.com/world/live/2026/may/25/iran-war-news-middle-east-crisis-oil-price-us-tehran-peace-talks-deal-strait-hormuz",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-25T11:17:11+00:00",
+        "title": "Ken Paxton wins Texas primary election: Results and key takeaways",
+        "link": "https://www.aljazeera.com/news/2026/5/27/ken-paxton-wins-texas-primary-election-results-and-key-takeaways?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-05-27T09:03:07+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Pope calls for ‘disarming’ of AI, technology should be ‘human friendly’",
-        "link": "https://www.scmp.com/news/world/europe/article/3354770/pope-calls-disarming-ai-technology-should-be-human-friendly?utm_source=rss_feed",
+        "title": "Xpeng’s driverless cabs; Tesla launches FSD in China; Nio slams price wars: 7 EV reads",
+        "link": "https://www.scmp.com/business/china-evs/article/3354857/xpengs-driverless-cabs-tesla-launches-fsd-china-nio-slams-price-wars-7-ev-reads?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-05-25T10:31:07+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-05-27T07:30:05+00:00",
+        "relevance_score": 20
       },
       {
-        "title": "Lebanese President says Israeli withdrawal is ‘non-negotiable’",
-        "link": "https://www.thehindu.com/news/international/lebanese-president-says-israeli-withdrawal-is-non-negotiable/article71020635.ece",
+        "title": "Israel pounds Lebanon with heaviest bombing in weeks, expands ground operations",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3354986/israel-pounds-lebanon-heaviest-bombing-blitz-weeks-expands-ground-operations?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-05-27T04:49:02+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Middle East crisis: Iran’s foreign ministry says US broke ceasefire with overnight strikes – as it happened",
+        "link": "https://www.theguardian.com/world/live/2026/may/26/iran-war-live-updates-us-attacks-iran-missile-sites-self-defence-during-peace-talks",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-05-26T20:41:51+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Iran-Israel war LIVE: Iran Guards official says ‘low’ possibility of renewed war with U.S.",
+        "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-27-may-2026-trump-peace-deal-pakistan-strait-of-hormuz/article71027588.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-25T10:28:49+00:00",
+        "published_at_utc": "2026-05-27T10:57:55+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Abandoned flotilla boat washes ashore in Egypt with Gaza aid",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/abandoned-flotilla-boat-washes-ashore-in-egypt-with-gaza-aid?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-25T09:14:27+00:00",
+        "title": "Trump’s corruption leaves us cynical – and complacent | Judith Levine",
+        "link": "https://www.theguardian.com/commentisfree/2026/may/27/trump-corruption-autocracy",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-27T10:00:25+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Australian flotilla activists arrive home alleging sexual assault and beatings in Israeli detention",
-        "link": "https://www.theguardian.com/world/2026/may/25/stripped-naked-and-beaten-australian-flotilla-activists-arrive-home-after-alleged-torture-in-israeli-detention-ntwnfb",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-25T09:12:54+00:00",
+        "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+        "link": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-05-27T09:55:11+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Opposition divided: battle among Iranian regime’s opponents plays out on London streets",
-        "link": "https://www.theguardian.com/world/2026/may/25/iran-regime-opponents-london-shah-pahlavi-mek",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-25T08:00:20+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Iran war day 87: Trump says US not in rush to sign deal, dashing optimism",
-        "link": "https://www.aljazeera.com/news/2026/5/25/iran-war-day-87-trump-says-us-not-in-rush-to-sign-deal-dashing-optimism?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-25T07:50:18+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Chinese coal mine accident, Cathay Pacific flight turbulence: 5 weekend reads you missed",
-        "link": "https://www.scmp.com/news/world/article/3354721/chinese-coal-mine-accident-cathay-pacific-flight-turbulence-5-weekend-reads-you-missed?utm_source=rss_feed",
+        "title": "Israel says it killed Hamas’ new armed wing chief in Gaza strike",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3355013/israel-says-it-killed-hamas-new-armed-wing-chief-gaza-strike?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-05-25T05:08:21+00:00",
+        "published_at_utc": "2026-05-27T07:38:49+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "Oil prices fall below $100 a barrel on hopes of Iran peace deal",
-        "link": "https://www.theguardian.com/business/2026/may/25/oil-prices-fall-below-100-dollars-a-barrel-iran",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-25T10:31:00+00:00",
+        "title": "A 30% rally in BOE Tech shows how AI buildout can galvanise Chinese LCD maker",
+        "link": "https://www.scmp.com/business/china-business/article/3355026/30-rally-boe-tech-shows-how-ai-buildout-can-galvanise-chinese-lcd-maker?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-27T08:59:49+00:00",
         "relevance_score": 21
       },
       {
-        "title": "Oil prices slide on hopes of US-Iran peace deal",
-        "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-05-25T10:39:18+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Metro Bank investors urged to reject executive pay report",
-        "link": "https://www.theguardian.com/business/2026/may/25/metro-bank-investors-reject-executive-pay-report-bonus",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-25T09:46:46+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "‘It’s taking all of our money’: truck drivers in Iowa lament gas price surge sparked by Trump’s Iran war",
-        "link": "https://www.theguardian.com/us-news/2026/may/24/iowa-truck-stop-gas-prices",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-24T15:16:44+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Property challenges put Chinese firms’ go-global plans at risk, JLL says",
-        "link": "https://www.scmp.com/business/china-business/article/3354678/property-challenges-put-chinese-firms-go-global-plans-risk-jll-says?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-25T03:00:06+00:00",
-        "relevance_score": 16
-      },
-      {
-        "title": "UK universities warn of cuts for impoverished students if dire funding issues continue",
-        "link": "https://www.theguardian.com/education/2026/may/25/uk-universities-cuts-impoverished-students-funding",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-24T23:01:09+00:00",
-        "relevance_score": 16
-      },
-      {
-        "title": "US-China trade talks back in focus at APEC meeting",
-        "link": "https://asia.nikkei.com/economy/trade-war/us-china-trade-talks-back-in-focus-at-apec-meeting",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 15
-      },
-      {
-        "title": "China's 'Seven Titans' tech stocks slump as deflation overpowers AI boom",
-        "link": "https://asia.nikkei.com/business/china-tech/china-s-seven-titans-tech-stocks-slump-as-deflation-overpowers-ai-boom",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 15
-      },
-      {
-        "title": "A Britain where people cannot afford to raise children? We see that risk, and won’t let it happen | Bridget Phillipson",
-        "link": "https://www.theguardian.com/commentisfree/2026/may/25/britain-children-billions-families-childcare-nurseries",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-25T11:07:11+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "India turns to Latin American, African oil after Hormuz disruption - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlZ2cU1UN0pBUXEwZzdyaG5wTDFiVXdJRUJ4UDBOVHJRRU01b1pCTXV6cHoxM1FUbXgzc0VvRHpMLW9WMjkwY2w2UTAyQllONkVxeEZPWkxyeGVMUHZsaUhrVkRJX1NCaE9jd1pJUW9PRjBNM1lNbXhILUd4N1B3dy1YYWZ5SmpNa2VPXzNhRzlySjNQX1dFanB1NGoyZnVrc0JqRENfNWdoX2FEYndlUVY3NkU?oc=5",
+        "title": "US to keep tariffs on USMCA countries, issues with Canada 'significant', Greer says - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZEJVOXkzN0twSExVQ29ud1ZmckM0Y3VjNmUzOW1ubllsQUNweWFhNkxYYXBlRXhFM1FBLUZoT2xLVFh3MFRtcmxZSXU3NER1UkU5VG5zTnlTYUhHZU5EeWkzdjZ0YUtoMHZ1Z3BZYzZ6Tm5CcWdvT1FqRHgwZEVMY3ZZWEdWYmVlYnpsRG5qWkVjMVVaQk5XRTN3bW5VWVFjTWc?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-05-25T08:13:43+00:00",
-        "relevance_score": 14
+        "published_at_utc": "2026-05-26T23:11:47+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Tony Blair’s essay on Labour failings gets full marks for being unhelpful",
+        "link": "https://www.theguardian.com/politics/2026/may/26/tony-blair-essay-labour-failings-unhelpful",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-26T21:00:08+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Inflation worries weigh on US consumer confidence in May - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUi1Na1U1ZzhDQ3pKc2VxQWFNd0dEVFNEZzhRNVJibExrYVJ0YS14QnJHVXRHckczdTdOaHBJcDdUcFBfYlozRkRVeTNQeHdfaXRpcGN1TkJCNVgyTElEQUU4YUI4X2Rpb0RtTklYQTZXWFktR2NBRmgtWmR6YnZQNWduUzFJYTJMaTdYUEtFTktKdnE1V1pUd1l5ZGxtaDRKNmc?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-26T17:37:32+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Job ad for shepherds goes viral in China, exposing labour market strains - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcTJnWEFXSmt4c1dGSzFReVVZUk1yQXo0dFBxU2JvRFhTcVZQWkNUQlVTYUJ4OVZqZGhQUThubUxkMWRBMUZyVXJQWmlRanAzNHFNVHZkYTlkU2ZoWjlBQjA0VHQ2WlJ1dEFfSERMZk1RWGR1U250THhzbjNBWmplUzZsWHcxbkUtTDJxM3RGekVucVN5MG9kcm1QYW8yNTZVUWFBdDd0U1ktZFNPNG9TNlI1Q0pYTzNRVm92UTRtU3E?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-27T06:02:00+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Oil prices drop as traders look for US-Iran talks progress - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdktTeHl4ZHpzZm0waURXVWVISGZtQzZhMDQxQzEwRkYxVnpzSV9HQzM5ZmVhSkxMSEg3SzdvV0xsMWNMSVBPVG5TbmhDMllLWVM0S2lISzhIZ2ZWU2dST2UwdEtETWZhcGF0VHM3RGxLcXllbG5GN0JtRkpubTRkRzNqbGxqN3pTRTc3ODdqdTFBdnB1WTBYM2MwOHp0VWdBRU16LQ?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-27T03:46:00+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Energy bills to grow by more than £200 a year for millions as Ofgem increases price cap – business live",
+        "link": "https://www.theguardian.com/business/live/2026/may/27/energy-bills-increase-ofgem-price-cap-business-live-news",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-05-27T10:57:54+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Hong Kong home prices reach 30-month high in April, while rents set another record",
+        "link": "https://www.scmp.com/business/article/3354994/hong-kong-home-prices-reach-30-month-high-april-while-rents-set-another-record?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-27T05:58:09+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Inside Huawei's chip comeback: The woman taking on US sanctions",
+        "link": "https://asia.nikkei.com/spotlight/huawei-crackdown/inside-huawei-s-chip-comeback-the-woman-taking-on-us-sanctions",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
+        "relevance_score": 17
+      },
+      {
+        "title": "'Business as usual': Fakes, piracy thrive in Vietnam as US tariff deadline nears - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeGJ0NzlTb0FoTXpSbkN1bnAzeE56U0lXMHRKc19ocWl1WDNmakxPWEF5NXpNczdZT3FoUmdtVnBXZ09ZNHdIMlJtdXJUaTlxSUFNcVY3VEs1UURjbEtVMUg1WnBZWl82YlFXSkdua1Jsajl4V1Q3SXk4T1RpRzBSOEZNckNlYzJYZGZpRElPMG5RVXpVV0I2bkpXNDJDUVpWWUEzOG12eFhncHpOdVdzNWl3YmhIeG1sakVCdA?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-05-27T05:42:00+00:00",
+        "relevance_score": 16
       }
     ]
   },
