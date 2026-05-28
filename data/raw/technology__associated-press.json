@@ -5,23 +5,11 @@
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+technology&ceid=US:en&hl=en-US&gl=US",
     "feed_title": "\"when:24h allinurl:apnews.com technology\" - Google News",
     "feed_link": "https://news.google.com/search?q=when:24h+allinurl:apnews.com+technology&ceid=US:en&hl=en-US&gl=US",
-    "fetched_at_utc": "2026-05-27T11:29:11.332913+00:00",
-    "entry_count": 1,
+    "fetched_at_utc": "2026-05-28T11:29:02.268757+00:00",
+    "entry_count": 0,
     "bozo": false,
-    "failed": false,
-    "failure_reason": ""
+    "failed": true,
+    "failure_reason": "feed returned zero entries"
   },
-  "items": [
-    {
-      "category": "technology",
-      "source_name": "Associated Press",
-      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+technology&ceid=US:en&hl=en-US&gl=US",
-      "title": "America’s tech-filled classrooms are facing a backlash against school-assigned devices - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdHlCSER6bE1lck95RGpEX2VxWUU5c0RsNUd5cFVBV1Rmd1pNZVB3SDduX2FoMkd4Yk5LU1UyMTBhQlJ0dHVFRnZXU1pvQkNVM3FOLUxDYy1CMW1adDA1Zjl4WWZMYkt2SE50UGo2X3NETWpvelFVV3dSUnNYWU5LUUwxWXlrRDRqb18xOE5Ma1dzUTNNUWxMc25hLWs?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdHlCSER6bE1lck95RGpEX2VxWUU5c0RsNUd5cFVBV1Rmd1pNZVB3SDduX2FoMkd4Yk5LU1UyMTBhQlJ0dHVFRnZXU1pvQkNVM3FOLUxDYy1CMW1adDA1Zjl4WWZMYkt2SE50UGo2X3NETWpvelFVV3dSUnNYWU5LUUwxWXlrRDRqb18xOE5Ma1dzUTNNUWxMc25hLWs?oc=5\" target=\"_blank\">America’s tech-filled classrooms are facing a backlash against school-assigned devices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "Tue, 26 May 2026 15:51:00 GMT",
-      "updated": "Tue, 26 May 2026 15:51:00 GMT",
-      "id": "CBMinAFBVV95cUxPdHlCSER6bE1lck95RGpEX2VxWUU5c0RsNUd5cFVBV1Rmd1pNZVB3SDduX2FoMkd4Yk5LU1UyMTBhQlJ0dHVFRnZXU1pvQkNVM3FOLUxDYy1CMW1adDA1Zjl4WWZMYkt2SE50UGo2X3NETWpvelFVV3dSUnNYWU5LUUwxWXlrRDRqb18xOE5Ma1dzUTNNUWxMc25hLWs"
-    }
-  ]
+  "items": []
 }
