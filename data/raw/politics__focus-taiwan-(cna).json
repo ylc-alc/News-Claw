@@ -5,23 +5,11 @@
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US",
     "feed_title": "\"when:24h allinurl:focustaiwan.tw\" - Google News",
     "feed_link": "https://news.google.com/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US",
-    "fetched_at_utc": "2026-05-30T09:50:13.972964+00:00",
-    "entry_count": 1,
+    "fetched_at_utc": "2026-05-31T10:06:50.211379+00:00",
+    "entry_count": 0,
     "bozo": false,
-    "failed": false,
-    "failure_reason": ""
+    "failed": true,
+    "failure_reason": "feed returned zero entries"
   },
-  "items": [
-    {
-      "category": "politics",
-      "source_name": "Focus Taiwan (CNA)",
-      "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:focustaiwan.tw&ceid=US:en&hl=en-US&gl=US",
-      "title": "Taiwan seeking way to coexist with bears as they come closer to humans - Focus Taiwan",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QUS1FWXh5dEtHTmc2YUVxaUZ4WlBVeWhFa0tuMU1oRTVUV2VGNHFOMkJjN3JEY3lOUlY2WVhIdnZvYVVpOHpONldNR2JYdmlub1lwS1p3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QUS1FWXh5dEtHTmc2YUVxaUZ4WlBVeWhFa0tuMU1oRTVUV2VGNHFOMkJjN3JEY3lOUlY2WVhIdnZvYVVpOHpONldNR2JYdmlub1lwS1p3?oc=5\" target=\"_blank\">Taiwan seeking way to coexist with bears as they come closer to humans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Focus Taiwan</font>",
-      "published": "Fri, 29 May 2026 10:10:00 GMT",
-      "updated": "Fri, 29 May 2026 10:10:00 GMT",
-      "id": "CBMiVkFVX3lxTE9QUS1FWXh5dEtHTmc2YUVxaUZ4WlBVeWhFa0tuMU1oRTVUV2VGNHFOMkJjN3JEY3lOUlY2WVhIdnZvYVVpOHpONldNR2JYdmlub1lwS1p3"
-    }
-  ]
+  "items": []
 }
