@@ -1,55 +1,127 @@
 {
-  "generated_at_utc": "2026-05-31T10:07:04.610975+00:00",
+  "generated_at_utc": "2026-06-01T13:27:19.953704+00:00",
   "summary": {
-    "total_raw_items": 1059,
-    "total_deduped_items": 1044,
+    "total_raw_items": 1088,
+    "total_deduped_items": 1064,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
         "chips",
-        "space_tech",
-        "ai"
+        "chips",
+        "chips"
       ],
       "politics": [
-        "eu_policy",
         "us_politics",
-        "war_and_conflict"
+        "war_and_conflict",
+        "social_protests"
       ],
       "economy": [
-        "inflation",
+        "trade_wars",
         "markets",
         "inflation"
       ]
     },
-    "multi_source_selected_count": 5
+    "multi_source_selected_count": 6
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "Reuters",
-        "title": "First Windows PC powered by Nvidia chips to debut next week, Axios reports - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWnVLOHBlWmZIZ3gyME1WZ3ZUY2VkU2VwdFYzR1FzNV9hTEM5bW16SUxrYmx5ZzdWSGxnSTRzeHJBOE5paGRWUnQ3QW1nYVBkYVY5OExaRlZoV0pMV1NVTDJTbGZTMFFjNzc0WWNhbVppaThrZUIzU1FmOVJBU1c4Q2NiSTVxeE1TRXM1VHp6YU15THBJR25KSloxZ3BhMDl6eElCdlc1U2lRM3dIVTdVclRZckhSUQ?oc=5",
-        "summary": "First Windows PC powered by Nvidia chips to debut next week, Axios reports Reuters",
-        "published": "Sat, 30 May 2026 23:53:03 GMT",
-        "updated": "Sat, 30 May 2026 23:53:03 GMT",
-        "published_at_utc": "2026-05-30T23:53:03+00:00",
-        "id": "CBMitgFBVV95cUxQWnVLOHBlWmZIZ3gyME1WZ3ZUY2VkU2VwdFYzR1FzNV9hTEM5bW16SUxrYmx5ZzdWSGxnSTRzeHJBOE5paGRWUnQ3QW1nYVBkYVY5OExaRlZoV0pMV1NVTDJTbGZTMFFjNzc0WWNhbVppaThrZUIzU1FmOVJBU1c4Q2NiSTVxeE1TRXM1VHp6YU15THBJR25KSloxZ3BhMDl6eElCdlc1U2lRM3dIVTdVclRZckhSUQ",
+        "source_name": "The Guardian Business",
+        "title": "Nvidia launches ‘superchip’ putting AI power into laptops and PCs",
+        "link": "https://www.theguardian.com/technology/2026/jun/01/nvidia-launches-chip-ai-laptops-pc-rtx-spark-microsoft-windows",
+        "summary": "Firm says its RTX Spark PC chip for Microsoft Windows will let AI agents replace the mouse and keyboard Business live – latest updates A new front has opened up in the battle for dominance in AI chips, as Nvidia said its latest development could replace the mouse and keyboard in how people use computers. The $5tn (£3.7tn) US semiconductor company has launched a “superchip” that puts AI capabilities into laptops and desktop computers, a move that will pit it against Intel, Apple, Qualcomm and AMD. Continue reading...",
+        "published": "Mon, 01 Jun 2026 11:01:59 GMT",
+        "updated": "2026-06-01T11:01:59Z",
+        "published_at_utc": "2026-06-01T11:01:59+00:00",
+        "id": "https://www.theguardian.com/technology/2026/jun/01/nvidia-launches-chip-ai-laptops-pc-rtx-spark-microsoft-windows",
         "topic_type": "chips",
-        "relevance_score": 17,
+        "relevance_score": 23,
         "briefing": {
-          "news_focus": "First Windows PC powered by Nvidia chips to debut next week, Axios reports Reuters",
-          "news_focus_zh": "根據Reuters報導，首款搭載Nvidia晶片的Windows電腦將於下週正式推出。這一創新標誌著Nvidia在個人電腦市場的進一步擴張，可能會改變市場競爭格局。",
-          "background": "Nvidia作為全球領先的圖形處理單元（GPU）製造商，近年來在人工智慧和高效能計算領域取得顯著進展。隨著AI技術的迅速發展，對於高效能計算的需求日益增加，這使得Nvidia的產品受到廣泛關注。Windows作為主流操作系統，其與Nvidia的合作可能會吸引更多開發者和消費者，進一步推動相關技術的應用與普及。",
+          "news_focus": "Firm says its RTX Spark PC chip for Microsoft Windows will let AI agents replace the mouse and keyboard Business live – latest updates A new front has opened up in the battle for dominance in AI chips, as Nvidia said its latest development could replace the mouse and keyboard in how people use computers. The $5tn (£3.7tn) US semiconductor company has launched a “superchip” that puts AI capabilities into laptops and desktop computers, a move that will pit it against Intel, Apple, Qualcomm and AMD. Continue reading...",
+          "news_focus_zh": "Nvidia推出了一款名為RTX Spark的超級晶片，旨在將人工智慧功能整合進入筆記型電腦和桌上型電腦，並可能取代傳統的滑鼠和鍵盤操作。這一舉措使Nvidia在AI晶片市場中與Intel、Apple、Qualcomm和AMD等競爭對手展開新的競爭。",
+          "background": "隨著人工智慧技術的快速發展，對於能夠支持AI應用的硬體需求日益增加。Nvidia作為全球領先的半導體公司，長期以來專注於圖形處理單元（GPU）的開發，並逐步擴展其在AI領域的影響力。RTX Spark的推出不僅是對消費者市場的進一步開拓，也顯示出Nvidia在AI晶片競爭中的雄心。多家知名硬體製造商，如Microsoft、Asus、HP、MSI、Lenovo和Dell，已經計劃在今年秋季推出搭載RTX Spark的筆記型電腦，顯示出市場對這一新技術的期待。",
           "stakeholders": [
             "Nvidia",
-            "Windows",
-            "消費者",
-            "競爭對手",
-            "開發者"
+            "Intel",
+            "Apple",
+            "Qualcomm",
+            "AMD"
           ],
-          "analysis": "Nvidia推出首款Windows電腦的決策可能會引發市場的多方反應。首先，這將加強Nvidia在個人電腦市場的地位，可能會對競爭對手如AMD和Intel造成壓力。其次，消費者對於搭載Nvidia晶片的電腦的期待也可能促進銷售，尤其是在遊戲和專業應用領域。此外，這一產品的推出也可能吸引開發者針對Nvidia平台進行軟體優化，進一步提升使用者體驗。雖然目前沒有其他報導提供補充細節，但市場普遍對於Nvidia的前景持樂觀態度，預期將引發一波新的技術創新。"
+          "analysis": "Nvidia的RTX Spark晶片可能會徹底改變用戶與電腦互動的方式，這對於傳統的輸入設備市場構成挑戰。各大硬體製造商的合作表明，市場對於AI集成的需求正在上升。然而，這也可能引發其他競爭者的反擊，例如Intel和AMD可能會加速其自身AI晶片的開發，以保持市場份額。此外，Nvidia的進一步擴張可能會引發對於市場壟斷的擔憂，特別是在AI技術日益重要的背景下。參考報導中提到的多家合作夥伴的具體計劃，進一步強調了Nvidia在消費者市場的影響力和潛力。"
+        },
+        "topic_priority_score": 10,
+        "event_type": "product_launch",
+        "supporting_sources": [
+          "The Verge"
+        ],
+        "supporting_titles": [
+          "These are the first Nvidia RTX Spark laptops"
+        ],
+        "supporting_summaries": [
+          "Nvidia has officially entered the world of consumer laptop chips with the RTX Spark, and several device makers already have hardware lined up for it. Microsoft, Asus, HP, MSI, Lenovo, and Dell are expected to launch RTX Spark laptops sometime this fall, and some of those partner companies have shared details about what we can […]"
+        ],
+        "supporting_links": [
+          "https://www.theverge.com/gadgets/940794/first-nvidia-rtx-spark-laptops-roundup-computex-2026"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "technology",
+        "source_name": "SCMP Business",
+        "title": "Nvidia, Unitree and Sharpa unite to design humanoid robot that can perform ‘real work’",
+        "link": "https://www.scmp.com/tech/big-tech/article/3355402/nvidia-unitree-and-sharpa-unite-design-humanoid-robot-can-perform-real-work?utm_source=rss_feed",
+        "summary": "Nvidia has partnered with Chinese robotics champion Unitree Robotics and Singapore robotic hand maker Sharpa to release a new humanoid robot reference design to accelerate innovation in the global humanoid industry, the US chip giant’s CEO, Jensen Huang, announced on Monday. The new design, called H2+ or Isaac GR00T, will support industry-wide humanoid robotics research by streamlining the full development workflow for developers, including data collection, policy training and real-world...",
+        "published": "Mon, 01 Jun 2026 05:30:25 +0000",
+        "updated": "Mon, 01 Jun 2026 05:30:25 +0000",
+        "published_at_utc": "2026-06-01T05:30:25+00:00",
+        "id": "https://www.scmp.com/tech/big-tech/article/3355402/nvidia-unitree-and-sharpa-unite-design-humanoid-robot-can-perform-real-work?utm_source=rss_feed",
+        "topic_type": "chips",
+        "relevance_score": 19,
+        "briefing": {
+          "news_focus": "Nvidia has partnered with Chinese robotics champion Unitree Robotics and Singapore robotic hand maker Sharpa to release a new humanoid robot reference design to accelerate innovation in the global humanoid industry, the US chip giant’s CEO, Jensen Huang, announced on Monday. The new design, called H2+ or Isaac GR00T, will support industry-wide humanoid robotics research by streamlining the full development workflow for developers, including data collection, policy training and real-world...",
+          "news_focus_zh": "Nvidia與中國機器人公司Unitree Robotics及新加坡的Sharpa合作，推出一款名為H2+或Isaac GR00T的人形機器人參考設計。此設計旨在加速全球人形機器人產業的創新，並將支持行業內的研究，簡化開發者的整個開發流程，包括數據收集、政策訓練及實際應用等。",
+          "background": "隨著人工智慧與自動化技術的快速發展，人形機器人逐漸成為科技界的焦點。Nvidia作為全球領先的半導體公司，致力於推動AI技術的應用，並在機器人領域尋求擴展。Unitree Robotics在中國市場上以其創新機器人技術聞名，而Sharpa則專注於機器人手部技術的開發。這三家公司聯手，顯示出對於人形機器人市場的重視，並希望透過合作來加速技術進步和商業化。",
+          "stakeholders": [
+            "Nvidia",
+            "Unitree Robotics",
+            "Sharpa"
+          ],
+          "analysis": "此次合作標誌著Nvidia在機器人技術領域的戰略擴展，可能會引發行業內其他企業的關注與競爭。Nvidia的技術優勢與Unitree的市場經驗結合，將有助於推動人形機器人的商業應用，特別是在工業和服務領域。各方利益關係中，Nvidia希望透過這一合作進一步鞏固其在AI硬體市場的地位，而Unitree則可能借此機會提升其技術能力及市場影響力。未來，若該設計成功商業化，將可能改變人形機器人的開發模式，並促進相關產業的發展。"
+        },
+        "topic_priority_score": 10,
+        "event_type": "partnership_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "SCMP World",
+        "title": "Beyond Nvidia: how US export curbs are forcing China to redesign its AI chip industry",
+        "link": "https://www.scmp.com/tech/tech-trends/article/3355294/beyond-nvidia-how-us-export-curbs-are-forcing-china-redesign-its-ai-chip-industry?utm_source=rss_feed",
+        "summary": "Under the weight of sustained US export controls on advanced semiconductors, China’s AI chipmakers are battling to forge a self-reliant silicon ecosystem capable of breaking Nvidia’s stranglehold on the market. At the centre of this rivalry is a fundamental design debate: Should the country rely on the versatile graphics processing unit (GPU) or pivot to the highly specialised application-specific integrated circuit (ASIC)? The fight is no longer about finding a single Nvidia clone; it is about...",
+        "published": "Mon, 01 Jun 2026 02:00:16 +0000",
+        "updated": "Mon, 01 Jun 2026 02:00:16 +0000",
+        "published_at_utc": "2026-06-01T02:00:16+00:00",
+        "id": "https://www.scmp.com/tech/tech-trends/article/3355294/beyond-nvidia-how-us-export-curbs-are-forcing-china-redesign-its-ai-chip-industry?utm_source=rss_feed",
+        "topic_type": "chips",
+        "relevance_score": 19,
+        "briefing": {
+          "news_focus": "Under the weight of sustained US export controls on advanced semiconductors, China’s AI chipmakers are battling to forge a self-reliant silicon ecosystem capable of breaking Nvidia’s stranglehold on the market. At the centre of this rivalry is a fundamental design debate: Should the country rely on the versatile graphics processing unit (GPU) or pivot to the highly specialised application-specific integrated circuit (ASIC)? The fight is no longer about finding a single Nvidia clone; it is about...",
+          "news_focus_zh": "美國對先進半導體的持續出口管制迫使中國的人工智慧（AI）晶片製造商努力建立自給自足的矽生態系統，以打破Nvidia在市場上的壟斷。這場競爭的核心在於設計理念的根本辯論：中國應該依賴多功能的圖形處理單元（GPU），還是轉向高度專用的應用特定積體電路（ASIC）。",
+          "background": "隨著美國加強對中國高科技產業的出口管制，特別是在半導體領域，中國面臨著迫切的需求來提升其自主研發能力。Nvidia作為全球領先的GPU供應商，對於AI應用的推動起到了關鍵作用，然而美國的政策限制了中國企業獲取這些技術的途徑。這使得中國的AI晶片產業不得不重新思考其發展路徑，尋求建立一個不依賴外部技術的生態系統，以應對未來的市場需求和技術挑戰。",
+          "stakeholders": [
+            "中國AI晶片製造商",
+            "Nvidia",
+            "美國政府",
+            "中國政府",
+            "全球半導體市場"
+          ],
+          "analysis": "中國AI晶片製造商面臨的挑戰不僅是技術上的，更是戰略上的。選擇依賴GPU還是ASIC的辯論，反映了不同的市場需求和技術路線。GPU因其靈活性和多用途性，適合於廣泛的AI應用，而ASIC則能在特定任務上提供更高的效率和性能。這場競爭的結果將影響中國在全球半導體市場的地位及其技術自主性。隨著中國加大對本土技術的投資，未來可能會出現新的競爭者，挑戰Nvidia的市場主導地位，但這也需要時間和資源的積累。"
         },
         "topic_priority_score": 10,
         "event_type": "strategic_move",
@@ -58,323 +130,257 @@
         "supporting_summaries": [],
         "supporting_links": [],
         "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "SCMP World",
-        "title": "For SpaceX, global dominance may not be written in the stars",
-        "link": "https://www.scmp.com/opinion/world-opinion/article/3355072/spacex-global-dominance-may-not-be-written-stars?utm_source=rss_feed",
-        "summary": "The excitement around SpaceX, fuelled by the targeted US$1.8 trillion valuation for its initial public offering and its promising Starship rocket development, has revived a familiar claim: that SpaceX is on course to dominate the space market. Commercially, that view is understandable. SpaceX conducts more space launches than anyone and at very competitive costs, its Starlink satellite internet company provides strong in-house demand, and it has a scale advantage unmatched by any other private...",
-        "published": "Sun, 31 May 2026 08:30:05 +0000",
-        "updated": "Sun, 31 May 2026 08:30:05 +0000",
-        "published_at_utc": "2026-05-31T08:30:05+00:00",
-        "id": "https://www.scmp.com/opinion/world-opinion/article/3355072/spacex-global-dominance-may-not-be-written-stars?utm_source=rss_feed",
-        "topic_type": "space_tech",
-        "relevance_score": 16,
-        "briefing": {
-          "news_focus": "The excitement around SpaceX, fuelled by the targeted US$1.8 trillion valuation for its initial public offering and its promising Starship rocket development, has revived a familiar claim: that SpaceX is on course to dominate the space market. Commercially, that view is understandable. SpaceX conducts more space launches than anyone and at very competitive costs, its Starlink satellite internet company provides strong in-house demand, and it has a scale advantage unmatched by any other private...",
-          "news_focus_zh": "SpaceX的首次公開募股（IPO）估值達到1.8兆美元，並且其Starship火箭的開發進展引發了對該公司在太空市場主導地位的期待。SpaceX目前進行的太空發射數量超過任何其他公司，且成本極具競爭力，其Starlink衛星網路業務也為其提供了穩定的內部需求，顯示出其在私營太空產業中的規模優勢。",
-          "background": "SpaceX成立於2002年，致力於降低太空旅行成本並促進人類探索太空的可能性。隨著商業太空市場的興起，SpaceX在發射服務、衛星通信和載人航天等領域迅速擴展。其Starship火箭的開發被視為實現火星殖民的關鍵，而Starlink則是其商業模式的重要組成部分，提供全球高速互聯網服務。這些因素使得SpaceX在全球太空市場中獲得了重要的競爭優勢。",
-          "stakeholders": [
-            "SpaceX",
-            "投資者",
-            "競爭對手",
-            "政府機構",
-            "消費者"
-          ],
-          "analysis": "儘管SpaceX在太空市場的表現令人矚目，但其全球主導地位並非板上釘釘。市場上仍有其他競爭者，如藍色起源和維珍銀河等，這些公司也在積極開發新技術和服務，可能會對SpaceX的市場份額構成挑戰。此外，SpaceX的高估值和未來的商業模式仍需面對市場波動和政策風險。各方對SpaceX未來的看法存在分歧，有些分析師認為其技術優勢將持續，而另一些則對其長期盈利能力表示懷疑。隨著太空產業的競爭加劇，SpaceX的發展路徑將受到密切關注。"
-        },
-        "topic_priority_score": 4,
-        "event_type": "product_launch",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "SCMP World",
-        "title": "Firms spent heavily on AI. Now rising costs are outpacing its value",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3355439/firms-spent-heavily-ai-now-rising-costs-are-outpacing-its-value?utm_source=rss_feed",
-        "summary": "AI is getting expensive – and companies are starting to rethink their embrace of the disruptive technology. Playing by a well-worn Silicon Valley playbook, artificial intelligence companies charged rock-bottom prices to hook customers after ChatGPT burst onto the scene. Kevin Simback of start-up incubator Delphi Labs calls it the era of “subsidised intelligence” – meaning investors were basically footing the bill so companies could offer AI on the cheap. “But the tides are beginning to turn,”...",
-        "published": "Sun, 31 May 2026 03:11:20 +0000",
-        "updated": "Sun, 31 May 2026 03:11:20 +0000",
-        "published_at_utc": "2026-05-31T03:11:20+00:00",
-        "id": "https://www.scmp.com/news/world/united-states-canada/article/3355439/firms-spent-heavily-ai-now-rising-costs-are-outpacing-its-value?utm_source=rss_feed",
-        "topic_type": "ai",
-        "relevance_score": 15,
-        "briefing": {
-          "news_focus": "AI is getting expensive – and companies are starting to rethink their embrace of the disruptive technology. Playing by a well-worn Silicon Valley playbook, artificial intelligence companies charged rock-bottom prices to hook customers after ChatGPT burst onto the scene. Kevin Simback of start-up incubator Delphi Labs calls it the era of “subsidised intelligence” – meaning investors were basically footing the bill so companies could offer AI on the cheap. “But the tides are beginning to turn,”...",
-          "news_focus_zh": "隨著人工智慧（AI）技術的普及，企業在AI上的支出逐漸增加，但這些成本的上升速度已超過其帶來的價值。許多公司最初以低價吸引客戶，這一策略被稱為「補貼智慧」，即投資者為企業提供資金以降低價格。然而，隨著市場環境的變化，企業開始重新思考對這項顛覆性技術的投入。",
-          "background": "自從ChatGPT的推出以來，AI技術迅速進入商業應用，許多企業紛紛投入資金以開發和整合AI解決方案。這一過程中，許多AI公司採取了低價策略，以吸引客戶和擴大市場份額。這種策略在短期內獲得了成功，但隨著運營成本的上升，企業開始面臨盈利壓力，導致對AI技術的投資回報率出現疑慮。投資者的支持雖然在初期推動了市場的繁榮，但當成本上升時，這種模式的可持續性受到挑戰。",
-          "stakeholders": [
-            "企業",
-            "投資者",
-            "AI技術開發者",
-            "消費者",
-            "市場分析師"
-          ],
-          "analysis": "隨著AI技術的成本上升，企業面臨著重新評估其投資策略的壓力。這一變化可能導致市場上出現更多的競爭與整合，部分企業可能會選擇退出市場或縮減規模，從而影響整體行業的發展。此外，投資者對於AI公司的期望也可能會改變，要求更高的回報和可持續的商業模式。這一趨勢可能會促使企業在AI技術的應用上更加謹慎，並尋求更具成本效益的解決方案。整體而言，這一動態可能會改變AI市場的競爭格局，並影響未來的技術創新。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "strategic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
       }
     ],
     "politics": [
       {
         "category": "politics",
-        "source_name": "Reuters",
-        "title": "US castigates Europe over defence spend as NATO reassures Asia - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeW5Rc1FldFFIVWxqVFhMLW45WGM4TWlvNmhFUTdVdE9DMW1veEdxaUg2cm0zbm4xOEJ0a2pYVWZsOF9ueHB3VndHTVNIb2ZuLV9TaWF3eHREN2w5MDRNV1FSTGN6VzJwdUJVcFlTQnVDOTFiLTR5ODRvWnhvV0dLVnZVSUNzaU9HdnI0SjFjTm4wTXprRlRraGpodEMtdVEtSjl1eGxhR2ttVlZlUU16TEUxMXRDQ1BmY2g0cTNqMA?oc=5",
-        "summary": "US castigates Europe over defence spend as NATO reassures Asia Reuters",
-        "published": "Sun, 31 May 2026 09:31:54 GMT",
-        "updated": "Sun, 31 May 2026 09:31:54 GMT",
-        "published_at_utc": "2026-05-31T09:31:54+00:00",
-        "id": "CBMivwFBVV95cUxQeW5Rc1FldFFIVWxqVFhMLW45WGM4TWlvNmhFUTdVdE9DMW1veEdxaUg2cm0zbm4xOEJ0a2pYVWZsOF9ueHB3VndHTVNIb2ZuLV9TaWF3eHREN2w5MDRNV1FSTGN6VzJwdUJVcFlTQnVDOTFiLTR5ODRvWnhvV0dLVnZVSUNzaU9HdnI0SjFjTm4wTXprRlRraGpodEMtdVEtSjl1eGxhR2ttVlZlUU16TEUxMXRDQ1BmY2g0cTNqMA",
-        "topic_type": "eu_policy",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "US castigates Europe over defence spend as NATO reassures Asia Reuters",
-          "news_focus_zh": "美國對歐洲在國防支出上的不足表示強烈不滿，並批評其未能達到北約的預期標準。與此同時，北約則向亞洲國家表達了保證，強調其在該地區的安全承諾。",
-          "background": "隨著全球安全形勢的變化，特別是俄烏衝突的影響，北約成員國的防務支出問題日益受到關注。美國長期以來一直呼籲歐洲盟友增加國防預算，以應對潛在威脅，並確保集體安全。根據北約的指導方針，成員國應將國防支出提高至GDP的2%。然而，許多歐洲國家仍未達到這一標準，這引發了美國的強烈反應。",
-          "stakeholders": [
-            "美國",
-            "歐洲國家",
-            "北約",
-            "亞洲國家"
-          ],
-          "analysis": "美國對歐洲國防支出的批評反映了其對北約集體防衛的重視，並希望促使歐洲盟友加大投入以增強防務能力。這一立場可能會引發歐洲國家的反彈，特別是在一些國家已經面臨內部財政壓力的情況下。另一方面，北約向亞洲國家發出的安全保證，顯示出其在全球範圍內的戰略擴展，意在加強與亞太地區的合作，應對中國的影響力擴張。各方在防務支出和安全合作上的立場差異，可能會影響未來的外交關係和軍事合作。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "security_event",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
-        "source_name": "BBC World",
-        "title": "Colombia votes in presidential election that could redefine relations with US",
-        "link": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
-        "summary": "The election is held after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
-        "published": "Sun, 31 May 2026 08:47:46 GMT",
-        "updated": "Sun, 31 May 2026 08:47:46 GMT",
-        "published_at_utc": "2026-05-31T08:47:46+00:00",
-        "id": "https://www.bbc.com/news/articles/c2027g423glo#0",
+        "source_name": "The Guardian World",
+        "title": "Colombia’s far-right presidential candidate De la Espriella wins first round of vote ahead of runoff",
+        "link": "https://www.theguardian.com/world/2026/jun/01/colombia-far-right-presidential-candidate-espriella-wins-first-round-of-vote-ahead-of-election-runoff",
+        "summary": "Lawyer and Trump admirer has risen rapidly in the polls and will face Iván Cepeda in election runoff in three weeks The far-right lawyer Abelardo de la Espriella won the first round of Colombia’s presidential election on Sunday and will face senator Iván Cepeda, the candidate backed by leftwing president Gustavo Petro, in the runoff. With 100% of ballots counted, the outsider and Donald Trump admirer De la Espriella secured 43.7% of the vote – just over 10.3m votes – compared with 40.9% (about 9.6m votes) for Cepeda, a philosopher and human rights activist who has served as a senator since 2014. Continue reading...",
+        "published": "Mon, 01 Jun 2026 10:35:40 GMT",
+        "updated": "2026-06-01T10:35:40Z",
+        "published_at_utc": "2026-06-01T10:35:40+00:00",
+        "id": "https://www.theguardian.com/world/2026/jun/01/colombia-far-right-presidential-candidate-espriella-wins-first-round-of-vote-ahead-of-election-runoff",
         "topic_type": "us_politics",
         "relevance_score": 20,
         "briefing": {
-          "news_focus": "The election is held after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
-          "news_focus_zh": "哥倫比亞於近日舉行總統選舉，這場選舉可能會重新定義該國與美國的關係。現任左派總統古斯塔沃·佩特羅與美國總統唐納德·特朗普之間的公開對立，為此次選舉增添了緊張氣氛。",
-          "background": "哥倫比亞的政治環境長期受到武裝衝突的影響，尤其是與革命武裝力量（FARC）及其他武裝團體的衝突。此次選舉的主要競爭在於左派與右派之間的對抗，候選人提出了不同的政策來應對這一持續數十年的衝突。隨著政治暴力的回潮，選民面臨著艱難的選擇，這也反映出社會對於安全與和平的迫切需求。",
+          "news_focus": "Lawyer and Trump admirer has risen rapidly in the polls and will face Iván Cepeda in election runoff in three weeks The far-right lawyer Abelardo de la Espriella won the first round of Colombia’s presidential election on Sunday and will face senator Iván Cepeda, the candidate backed by leftwing president Gustavo Petro, in the runoff. With 100% of ballots counted, the outsider and Donald Trump admirer De la Espriella secured 43.7% of the vote – just over 10.3m votes – compared with 40.9% (about 9.6m votes) for Cepeda, a philosopher and human rights activist who has served as a senator since 2014. Continue reading...",
+          "news_focus_zh": "哥倫比亞極右派總統候選人阿貝拉多·德拉埃斯普里耶拉在首輪投票中獲勝，獲得43.7%的選票，超過1030萬票，將於三週後的決選中對決由左派總統古斯塔沃·佩特羅支持的參議員伊萬·塞佩達，後者獲得40.9%的選票，約960萬票。",
+          "background": "哥倫比亞的政治環境在近年來經歷了顯著變化，左派與右派之間的對立愈發明顯。古斯塔沃·佩特羅於2022年當選總統，成為該國首位左派總統，推動社會改革及人權議題。然而，隨著經濟挑戰及社會不滿的加劇，極右派的聲音開始抬頭，德拉埃斯普里耶拉的崛起正是這一趨勢的體現。此次選舉的結果顯示出哥倫比亞選民在面對政治選擇時的分歧與緊張局勢。",
           "stakeholders": [
-            "哥倫比亞政府",
-            "美國政府",
-            "左派政治團體",
-            "右派政治團體",
-            "選民"
+            "阿貝拉多·德拉埃斯普里耶拉",
+            "伊萬·塞佩達",
+            "古斯塔沃·佩特羅",
+            "選民",
+            "人權組織"
           ],
-          "analysis": "此次選舉的結果將對哥倫比亞的內政及其與美國的外交關係產生深遠影響。左派候選人佩特羅的政策可能會導致與美國的關係緊張，特別是在毒品政策及人權問題上。相對而言，右派候選人則可能會尋求加強與美國的合作，特別是在安全與經濟領域。參考報導中提到的政治暴力回潮，可能會影響選民的投票意向，進一步複雜化選舉結果的預測。各方對於如何解決武裝衝突的看法存在顯著差異，這將是未來政策制定的重要考量。"
+          "analysis": "德拉埃斯普里耶拉的勝利反映了哥倫比亞社會中對於傳統政治的不滿，尤其是在經濟困境及安全問題上。作為特朗普的擁護者，他的政策立場可能會吸引那些希望改變現狀的選民。另一方面，伊萬·塞佩達則代表了左派的持續努力，試圖推動社會正義及人權的議題。根據參考報導，這場選舉的緊張氛圍顯示出兩位候選人之間的競爭將會非常激烈，且可能影響未來的政策走向。隨著決選的臨近，兩位候選人的支持者及各種利益團體將會進一步加強其宣傳與動員，這將對哥倫比亞的政治局勢產生深遠影響。"
         },
         "topic_priority_score": 8,
         "event_type": "election_move",
         "supporting_sources": [
-          "The Guardian World"
+          "Al Jazeera",
+          "BBC World"
         ],
         "supporting_titles": [
-          "Colombia prepares to go to polls in election shadowed by resurgence of political violence"
+          "Tense election night in Colombia as country heads to presidential runoff",
+          "Colombia presidential runoff pits leftist senator against pro-Trump rival"
         ],
         "supporting_summaries": [
-          "Sunday’s presidential vote is contest between left and right – and between contradictory proposals for dealing with the decades-long armed conflict Mateo Pérez Rueda was one internship away from completing a degree in political science. The 24-year-old also worked as a bicycle delivery rider and sold fruit salads and juice to finance his passion: the Colombian independent digital magazine El Confidente . On 4 May he travelled to Briceño, in the western province of Antioquia, to report on the long-running conflict between the army, paramilitaries and dissidents of the Revolutionary Armed Forces of Colombia (Farc). Continue reading..."
+          "Colombia’s election heads to a June 21 runoff after a tight first round between de la Espriella and Cepeda.",
+          "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June."
         ],
         "supporting_links": [
-          "https://www.theguardian.com/world/2026/may/30/colombia-presidential-election-vote-resurgence-political-violence"
+          "https://www.aljazeera.com/video/newsfeed/2026/6/1/aje-onl-nf_sv_colombia-heads-to-presidential-runoff-010626?traffic_source=rss",
+          "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss"
         ],
-        "source_count": 2
+        "source_count": 3
       },
       {
         "category": "politics",
-        "source_name": "Reuters",
-        "title": "Israel troops capture Beaufort Castle in southern Lebanon push against Hezbollah - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ19uYndNRDdIVlVObEJCQjhHUnhNUTRqWTM3NFppenBsU01tWU5ILXU2ZHA3QmVHYllWU0ZQeU1nVzlITlhsUDlFTkJoU19OUXJPUFFyMDBYZ2l2a3EtSVo0YkFRQUF0bTlvOVJ3Vm40dHFGTUoyNm9ZTnlBQWltYXZxak1xLXdOQ29XR05ZNzd3cTF1MWtuZjZRZW14dWZlLWhEcHJfRzVMTlZTMVhhbHdsQ2I0S3hIY2NqdWZMUlZWNjJteVhRd19QVEpJVFBVMjdPd0NtRQ?oc=5",
-        "summary": "Israel troops capture Beaufort Castle in southern Lebanon push against Hezbollah Reuters",
-        "published": "Sun, 31 May 2026 08:05:54 GMT",
-        "updated": "Sun, 31 May 2026 08:05:54 GMT",
-        "published_at_utc": "2026-05-31T08:05:54+00:00",
-        "id": "CBMi1wFBVV95cUxQZ19uYndNRDdIVlVObEJCQjhHUnhNUTRqWTM3NFppenBsU01tWU5ILXU2ZHA3QmVHYllWU0ZQeU1nVzlITlhsUDlFTkJoU19OUXJPUFFyMDBYZ2l2a3EtSVo0YkFRQUF0bTlvOVJ3Vm40dHFGTUoyNm9ZTnlBQWltYXZxak1xLXdOQ29XR05ZNzd3cTF1MWtuZjZRZW14dWZlLWhEcHJfRzVMTlZTMVhhbHdsQ2I0S3hIY2NqdWZMUlZWNjJteVhRd19QVEpJVFBVMjdPd0NtRQ",
+        "source_name": "SCMP World",
+        "title": "Netanyahu orders strikes on Beirut’s southern suburbs, clouding Iran mediation",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3355575/netanyahu-orders-strikes-beiruts-southern-suburbs-clouding-iran-mediation?utm_source=rss_feed",
+        "summary": "Israeli Prime Minister Benjamin Netanyahu ⁠ordered attacks on the Hezbollah-controlled southern suburbs of Beirut on Monday, signalling further escalation of a war that has complicated mediation towards resolving the US-Iran conflict. Iran’s foreign ministry spokesperson, Esmaeil Baghaei, said on Monday that Israeli attacks in Lebanon were among factors causing a delay to the diplomatic process to end the US-Iran war, reiterating that a Lebanon ceasefire was an integral part of any...",
+        "published": "Mon, 01 Jun 2026 09:56:05 +0000",
+        "updated": "Mon, 01 Jun 2026 09:56:05 +0000",
+        "published_at_utc": "2026-06-01T09:56:05+00:00",
+        "id": "https://www.scmp.com/news/world/middle-east/article/3355575/netanyahu-orders-strikes-beiruts-southern-suburbs-clouding-iran-mediation?utm_source=rss_feed",
         "topic_type": "war_and_conflict",
         "relevance_score": 20,
         "briefing": {
-          "news_focus": "Israel troops capture Beaufort Castle in southern Lebanon push against Hezbollah Reuters",
-          "news_focus_zh": "以色列軍隊在對真主黨的攻擊中，成功佔領位於黎巴嫩南部的博福特城堡。這一行動標誌著以色列在過去26年來對黎巴嫩的最深度進攻，並伴隨著激烈的戰鬥和空襲，特別是在附近村莊的衝突中。",
-          "background": "博福特城堡的佔領發生在以色列與真主黨之間的緊張局勢升級之際。以色列國防部長以色列·卡茲（Israel Katz）稱此次佔領為重要的戰術勝利，顯示出以色列在該地區的軍事策略轉變。這一事件發生在以色列對黎巴嫩的軍事行動加劇的背景下，該地區的安全局勢持續惡化，並引發了國際社會的關注。",
+          "news_focus": "Israeli Prime Minister Benjamin Netanyahu ⁠ordered attacks on the Hezbollah-controlled southern suburbs of Beirut on Monday, signalling further escalation of a war that has complicated mediation towards resolving the US-Iran conflict. Iran’s foreign ministry spokesperson, Esmaeil Baghaei, said on Monday that Israeli attacks in Lebanon were among factors causing a delay to the diplomatic process to end the US-Iran war, reiterating that a Lebanon ceasefire was an integral part of any...",
+          "news_focus_zh": "Israeli Prime Minister Benjamin Netanyahu ⁠ordered attacks on the Hezbollah-controlled southern suburbs of Beirut on Monday, signalling further escalation of a war that has complicated mediation towards resolving the US-Iran conflict. Iran’s foreign ministry spokesperson, Esmaeil Baghaei, said on Monday that Israeli attacks in Lebanon were among factors causing a delay to the diplomatic process to end the US-Iran war, reiterating that a Lebanon ceasefire was an integral part of any...",
+          "background": "這則消息反映安全局勢仍是國際政治的主軸之一。這類事件通常不只涉及軍事風險本身，也牽動外交回應、能源價格與盟友協調。",
           "stakeholders": [
-            "以色列政府",
-            "真主黨",
-            "黎巴嫩政府",
-            "國際社會",
-            "地區安全觀察者"
+            "相關政府",
+            "軍事同盟",
+            "國際組織",
+            "市場"
           ],
-          "analysis": "此次以色列軍隊佔領博福特城堡的行動，顯示出以色列對真主黨的強硬立場，並可能導致黎巴嫩境內的進一步軍事行動。根據參考報導，這次行動伴隨著激烈的戰鬥和空襲，顯示出以色列在該地區的軍事壓力加大。以色列國防部長的評價強調了這一行動的戰略意義，可能會激化真主黨的反應，進一步加劇地區緊張局勢。不同報導中，The Hindu International強調了這是以色列在26年來最深的進攻，而Al Jazeera則著重於以色列的驅逐命令，顯示出人道主義危機的潛在風險。"
+          "analysis": "這次角力重點不只是事件本身，而在各方如何控制升高風險、釋放威懾訊號，並避免局勢失控帶來更高政治與經濟成本。"
         },
         "topic_priority_score": 11,
         "event_type": "security_event",
         "supporting_sources": [
-          "The Hindu International",
-          "Al Jazeera"
+          "BBC World",
+          "The Guardian World"
         ],
         "supporting_titles": [
-          "Israeli Army captures strategic castle in Lebanon in deepest incursion into country in 26 years",
-          "Israel issues more displacement orders in Lebanon, seizes strategic castle"
+          "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+          "Netanyahu orders Israeli bombing of southern Beirut"
         ],
         "supporting_summaries": [
-          "The capture of Beaufort Castle near the city of Nabatiyeh came after days of intense fighting and airstrikes in nearby villages, where Israeli troops fought Hezbollah members in the rugged area",
-          "Israeli Defence Minister Israel Katz describes the capture of Beaufort Castle as a significant tactical victory."
+          "Benjamin Netanyahu says the Hezbollah stronghold of Dahieh will be targeted in response to attacks on Israeli civilians.",
+          "Thousands leave homes after Israeli military instructed to strike ‘terrorist targets’ in largest escalation of war since ceasefire • Middle East crisis – live updates Benjamin Netanyahu has instructed the Israeli military to bomb the southern suburbs of Beirut, the most serious escalation of Israel’s war in Lebanon since a supposed ceasefire was announced on 17 April. The Israeli prime minister and his defence minister, Israel Katz, said on Monday they had given instructions to strike “terrorist targets” in the southern suburbs for what they called “repeated and ongoing violations of the ceasefire by Hezbollah”. Continue reading..."
         ],
         "supporting_links": [
-          "https://www.thehindu.com/news/international/israeli-army-captures-strategic-castle-in-lebanon-in-deepest-incursion-into-country-in-26-years/article71043919.ece",
-          "https://www.aljazeera.com/news/2026/5/31/israel-issues-more-displacement-orders-in-lebanon-seizes-strategic-castle?traffic_source=rss"
+          "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
+          "https://www.theguardian.com/world/2026/jun/01/european-leaders-condemn-israel-incursion-into-lebanon"
         ],
         "source_count": 3
+      },
+      {
+        "category": "politics",
+        "source_name": "SCMP World",
+        "title": "Why India is rolling out welcome mat for Myanmar’s Min Aung Hlaing",
+        "link": "https://www.scmp.com/week-asia/politics/article/3355552/india-rolls-out-welcome-mat-myanmars-min-aung-hlaing?utm_source=rss_feed",
+        "summary": "_ Myanmar leader Min Aung Hlaing’s first trip to India since being sworn in as president signals New Delhi’s recognition of the strongman’s political status as it seeks to counter mounting Chinese influence, according to analysts. The five-day visit, which began on Saturday at the personal invitation of Prime Minister Narendra Modi, is aimed at strengthening ties with one of Myanmar’s key regional partners. Despite Western sanctions imposed after the February 2021 coup, India has maintained...",
+        "published": "Mon, 01 Jun 2026 08:55:31 +0000",
+        "updated": "Mon, 01 Jun 2026 08:55:31 +0000",
+        "published_at_utc": "2026-06-01T08:55:31+00:00",
+        "id": "https://www.scmp.com/week-asia/politics/article/3355552/india-rolls-out-welcome-mat-myanmars-min-aung-hlaing?utm_source=rss_feed",
+        "topic_type": "social_protests",
+        "relevance_score": 20,
+        "briefing": {
+          "news_focus": "_ Myanmar leader Min Aung Hlaing’s first trip to India since being sworn in as president signals New Delhi’s recognition of the strongman’s political status as it seeks to counter mounting Chinese influence, according to analysts. The five-day visit, which began on Saturday at the personal invitation of Prime Minister Narendra Modi, is aimed at strengthening ties with one of Myanmar’s key regional partners. Despite Western sanctions imposed after the February 2021 coup, India has maintained...",
+          "news_focus_zh": "緬甸領導人敏昂萊首次訪問印度，標誌著新德里的政治認可，旨在加強與緬甸的關係，以對抗日益增長的中國影響力。此次為期五天的訪問是應印度總理莫迪的個人邀請，重點在於加強雙方的合作。",
+          "background": "自2021年2月政變以來，緬甸的政治局勢持續動盪，西方國家對敏昂萊政府實施了制裁。然而，印度在此背景下選擇與緬甸保持聯繫，這反映出其在地緣政治上的考量。印度希望通過加強與緬甸的合作，來鞏固自身在東南亞的影響力，特別是在中國日益擴張的情況下。這次會議的議題包括貿易、連接性、邊界安全及防務合作，顯示出雙方在多方面的合作潛力。",
+          "stakeholders": [
+            "印度政府",
+            "緬甸政府",
+            "中國",
+            "西方國家",
+            "東南亞國家"
+          ],
+          "analysis": "此次會議中，莫迪與敏昂萊的會談涵蓋了多個重要議題，顯示出印度對緬甸的重視，尤其是在貿易和安全合作方面。參考報導指出，雙方在邊界安全及防務合作上有深入討論，這可能是印度在面對中國影響力擴張時的一種防範措施。不同於西方國家的制裁，印度選擇了更為務實的外交策略，強調經濟和安全合作的重要性。這一策略可能會引發國際社會對印度外交政策的不同解讀，特別是在如何平衡人權與地緣政治利益方面。"
+        },
+        "topic_priority_score": 5,
+        "event_type": "diplomatic_move",
+        "supporting_sources": [
+          "The Hindu International"
+        ],
+        "supporting_titles": [
+          "PM Modi holds talks with Myanmar President Aung Hlaing"
+        ],
+        "supporting_summaries": [
+          "PM Narendra Modi held wide-ranging talks with Myanmar President Min Aung Hlaing, focusing on trade, connectivity, border security and defence cooperation"
+        ],
+        "supporting_links": [
+          "https://www.thehindu.com/news/national/pm-modi-holds-wide-ranging-talks-with-myanmar-president-min-aung-hlaing/article71047780.ece"
+        ],
+        "source_count": 2
       }
     ],
     "economy": [
       {
         "category": "economy",
         "source_name": "The Guardian Business",
-        "title": "Inflation won Trump the presidency, but could cost him the midterms",
-        "link": "https://www.theguardian.com/business/2026/may/30/inflation-trump-presidency-midterm-election",
-        "summary": "Trump’s pursuit of policies that drive up prices, including tariffs and war, might be punished in November’s elections For such an uncannily successful politician, Donald Trump exhibits a perplexing political myopia. His most recent own-goal was endorsing Ken Paxton, a state attorney general, against four-term senator John Cornyn in the Republican primary for Senate in Texas. Trump’s endorsement helped push the ethically compromised Maga firebrand over the top, to run against popular Democrat James Talarico in November, complicating the Republicans’ chances to keep the seat. But what truly screams “I want us to lose the midterms” is what Trump is doing about inflation, which is becoming his most vulnerable issue. According to a New York Times/Siena poll of registered voters earlier in May, Trump’s approval on handling the cost of living is underwater by 42 percentage points, poorer than his rating on handling the economy (minus 31 points) and the unpopular war in Iran (minus 34 points). Continue reading...",
-        "published": "Sat, 30 May 2026 11:00:18 GMT",
-        "updated": "2026-05-30T11:00:18Z",
-        "published_at_utc": "2026-05-30T11:00:18+00:00",
-        "id": "https://www.theguardian.com/business/2026/may/30/inflation-trump-presidency-midterm-election",
-        "topic_type": "inflation",
-        "relevance_score": 23,
+        "title": "‘Where are the jobs?’: as US autoworkers face offshoring, Democrats vie to win votes",
+        "link": "https://www.theguardian.com/us-news/2026/jun/01/us-midwest-autoworkers-offshore-democrats",
+        "summary": "Workers who voted for Trump and Republicans in recent elections are now being hit with offshoring and the impacts of tariffs – but can Democrats sway them? Brenda Davis, a retiree who worked at Ford in Ohio for more than 20 years, was dismayed to learn that a new Buick she bought from General Motors was manufactured entirely in China . Foreign vehicles are strongly discouraged from parking lots at autoworkers’ facilities, as they serve as a reminder of the ongoing threat outsourcing poses to their livelihoods. Morgan Hughes, who currently works at the General Motors assembly plant in Springfield, Ohio, is worried about the impact tariffs have had on her plant’s dwindling workload and its recent sale to a different owner, as concerns over a plant closure have loomed over the factory for years. Continue reading...",
+        "published": "Mon, 01 Jun 2026 11:00:15 GMT",
+        "updated": "2026-06-01T11:00:15Z",
+        "published_at_utc": "2026-06-01T11:00:15+00:00",
+        "id": "https://www.theguardian.com/us-news/2026/jun/01/us-midwest-autoworkers-offshore-democrats",
+        "topic_type": "trade_wars",
+        "relevance_score": 25,
         "briefing": {
-          "news_focus": "Trump’s pursuit of policies that drive up prices, including tariffs and war, might be punished in November’s elections For such an uncannily successful politician, Donald Trump exhibits a perplexing political myopia. His most recent own-goal was endorsing Ken Paxton, a state attorney general, against four-term senator John Cornyn in the Republican primary for Senate in Texas. Trump’s endorsement helped push the ethically compromised Maga firebrand over the top, to run against popular Democrat James Talarico in November, complicating the Republicans’ chances to keep the seat. But what truly screams “I want us to lose the midterms” is what Trump is doing about inflation, which is becoming his most vulnerable issue. According to a New York Times/Siena poll of registered voters earlier in May, Trump’s approval on handling the cost of living is underwater by 42 percentage points, poorer than his rating on handling the economy (minus 31 points) and the unpopular war in Iran (minus 34 points). Continue reading...",
-          "news_focus_zh": "唐納德·特朗普在追求推高物價的政策，包括關稅和戰爭，可能會在即將到來的中期選舉中受到懲罰。根據最新的民調，選民對特朗普在生活成本問題上的處理評價低落，顯示出他在這一議題上的脆弱性。此外，特朗普對德克薩斯州共和黨初選的支持也引發爭議，可能影響共和黨在該州的選舉前景。",
-          "background": "特朗普在任內推行的多項政策，包括對外貿易的關稅措施，已經對美國的物價造成影響。隨著全球能源價格的上漲，生活成本持續上升，這使得選民對特朗普的經濟管理能力產生質疑。根據《紐約時報》的民調，特朗普在處理生活成本方面的支持率大幅下滑，顯示出選民對其政策的不滿。這一情況可能在即將到來的中期選舉中對共和黨造成不利影響。",
+          "news_focus": "Workers who voted for Trump and Republicans in recent elections are now being hit with offshoring and the impacts of tariffs – but can Democrats sway them? Brenda Davis, a retiree who worked at Ford in Ohio for more than 20 years, was dismayed to learn that a new Buick she bought from General Motors was manufactured entirely in China . Foreign vehicles are strongly discouraged from parking lots at autoworkers’ facilities, as they serve as a reminder of the ongoing threat outsourcing poses to their livelihoods. Morgan Hughes, who currently works at the General Motors assembly plant in Springfield, Ohio, is worried about the impact tariffs have had on her plant’s dwindling workload and its recent sale to a different owner, as concerns over a plant closure have loomed over the factory for years. Continue reading...",
+          "news_focus_zh": "美國的汽車工人面臨外包和關稅的影響，這使得曾經支持特朗普及共和黨的工人感到不安。布倫達·戴維斯，一位在福特工作超過20年的退休工人，對她新購的完全在中國製造的別克感到失望。汽車工廠的員工對外國車輛持強烈抵制態度，因為這提醒著他們外包對生計的威脅。摩根·休斯，現任通用汽車裝配廠的工人，擔心關稅對她工廠工作量的影響以及工廠最近被出售的情況，因為工廠關閉的擔憂已存在多年。",
+          "background": "美國汽車產業正面臨外包與關稅的雙重挑戰，這影響了工人的就業安全。隨著全球供應鏈的變化，許多汽車製造商選擇將生產轉移至成本較低的國家，如中國，這使得美國本土的製造業受到威脅。特朗普政府實施的關稅政策旨在保護美國工業，但同時也增加了生產成本，導致一些工廠工作量減少，甚至關閉。這一情況使得曾經支持共和黨的工人對民主黨的吸引力產生了疑問，尤其是在即將到來的選舉中。",
           "stakeholders": [
-            "唐納德·特朗普",
-            "德克薩斯州共和黨",
+            "美國汽車工人",
+            "通用汽車",
             "民主黨",
-            "選民",
-            "經濟學家"
+            "共和黨",
+            "汽車製造商"
           ],
-          "analysis": "特朗普的政策導致的通貨膨脹問題，可能會成為他在中期選舉中的致命傷。根據參考報導，全球能源價格的上漲可能進一步加劇生活成本的壓力，這對特朗普的選情無疑是雪上加霜。特朗普在德克薩斯州的初選支持行為也引發了內部爭議，可能削弱共和黨在該州的競爭力。不同報導的重點在於，主新聞強調了特朗普在處理通脹問題上的失誤，而參考報導則關注全球能源價格對經濟的潛在影響，顯示出特朗普面臨的多重挑戰。"
+          "analysis": "面對外包與關稅的挑戰，民主黨試圖爭取曾經支持特朗普的工人選票，但這並非易事。工人們對於外包的恐懼和對未來工作的不安，使得他們對於政治承諾的懷疑加深。參考報導指出，隨著新關稅政策的實施，企業可能會尋求在中國以外的地區設立生產基地，這可能會改變美國汽車產業的格局。不同報導的重點在於，主新聞強調工人的個人故事與情感，而參考報導則更關注整體產業趨勢及其對企業策略的影響。未來，若民主黨無法有效回應工人的擔憂，可能會失去這部分選民的支持。"
         },
         "topic_priority_score": 9,
-        "event_type": "inflation_data",
+        "event_type": "macro_signal",
         "supporting_sources": [
           "The Economist"
         ],
         "supporting_titles": [
-          "How high could global inflation go?"
+          "Who will win from Trump’s tariffs?"
         ],
         "supporting_summaries": [
-          "With luck, the Iran war won’t cause a recession. But the surge in energy prices will push up the cost of living"
+          "New rates mean new “China plus one” locations"
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2026/03/23/how-high-could-global-inflation-go"
+          "https://www.economist.com/finance-and-economics/2025/08/14/who-will-win-from-trumps-tariffs"
         ],
         "source_count": 2
       },
       {
         "category": "economy",
         "source_name": "SCMP Business",
-        "title": "AI firm MiniMax prepares for mainland China listing after shares surge in Hong Kong",
-        "link": "https://www.scmp.com/business/china-business/article/3355418/ai-firm-minimax-prepares-mainland-china-listing-after-shares-surge-hong-kong?utm_source=rss_feed",
-        "summary": "MiniMax Group, the Chinese artificial intelligence model company, has officially kicked off plans to sell shares in mainland China. This offers onshore investors access to AI players beyond chipmakers and completes a dual-listing status in addition to Hong Kong. The Shanghai-headquartered company signed an agreement with Citic Securities on Friday, hiring the brokerage to help prepare for a sale of yuan-denominated shares. While other details on the listing are scant, it is widely expected that...",
-        "published": "Sun, 31 May 2026 08:15:23 +0000",
-        "updated": "Sun, 31 May 2026 08:15:23 +0000",
-        "published_at_utc": "2026-05-31T08:15:23+00:00",
-        "id": "https://www.scmp.com/business/china-business/article/3355418/ai-firm-minimax-prepares-mainland-china-listing-after-shares-surge-hong-kong?utm_source=rss_feed",
+        "title": "China index reshuffle to entrench tech trades and boost AI rally: brokerages",
+        "link": "https://www.scmp.com/business/china-business/article/3355523/china-index-reshuffle-entrench-tech-trades-and-boost-ai-rally-brokerages?utm_source=rss_feed",
+        "summary": "A semi-annual reshuffle of key gauges tracking China’s yuan-denominated stocks is set to boost the representation of technology companies, a move expected to lure more inflows and further increase the sector’s appeal, according to investment banks. The shake-up was projected to spur US$3.1 billion of inflows into tech hardware and semiconductor makers, according to Goldman Sachs. Domestic brokerages including Guosen Securities said the changes would inject more confidence into tech stocks,...",
+        "published": "Mon, 01 Jun 2026 09:00:06 +0000",
+        "updated": "Mon, 01 Jun 2026 09:00:06 +0000",
+        "published_at_utc": "2026-06-01T09:00:06+00:00",
+        "id": "https://www.scmp.com/business/china-business/article/3355523/china-index-reshuffle-entrench-tech-trades-and-boost-ai-rally-brokerages?utm_source=rss_feed",
         "topic_type": "markets",
-        "relevance_score": 21,
+        "relevance_score": 23,
         "briefing": {
-          "news_focus": "MiniMax Group, the Chinese artificial intelligence model company, has officially kicked off plans to sell shares in mainland China. This offers onshore investors access to AI players beyond chipmakers and completes a dual-listing status in addition to Hong Kong. The Shanghai-headquartered company signed an agreement with Citic Securities on Friday, hiring the brokerage to help prepare for a sale of yuan-denominated shares. While other details on the listing are scant, it is widely expected that...",
-          "news_focus_zh": "MiniMax Group，這家中國人工智慧模型公司，已正式啟動在中國內地上市的計劃，這將使內地投資者能夠投資於除了芯片製造商以外的AI企業。該公司與中信證券簽署了協議，聘請該券商協助準備發行以人民幣計價的股票。此次上市計劃將使MiniMax在香港的雙重上市地位得以完成。",
-          "background": "中國的人工智慧產業正迅速發展，吸引了大量投資者的關注。隨著政府對科技創新的支持，許多AI公司正在尋求擴展其資本市場的機會。MiniMax的上市計劃不僅能夠為其提供更多資金，還能提升其在市場中的知名度與競爭力。這一動作也反映出中國內地對於高科技企業的投資熱情，尤其是在AI領域，這與國際市場對於中國科技公司的興趣相呼應。",
+          "news_focus": "A semi-annual reshuffle of key gauges tracking China’s yuan-denominated stocks is set to boost the representation of technology companies, a move expected to lure more inflows and further increase the sector’s appeal, according to investment banks. The shake-up was projected to spur US$3.1 billion of inflows into tech hardware and semiconductor makers, according to Goldman Sachs. Domestic brokerages including Guosen Securities said the changes would inject more confidence into tech stocks,...",
+          "news_focus_zh": "中國的主要指數將進行半年度重組，這次變動將增加科技公司的代表性，預計將吸引更多資金流入並進一步提升該行業的吸引力。根據高盛的預測，這次調整可能會為科技硬體和半導體製造商帶來31億美元的資金流入。國內券商如國信證券表示，這些變化將增強市場對科技股的信心。",
+          "background": "中國的科技行業近年來經歷了快速增長，特別是在人工智慧（AI）和半導體領域。政府的政策支持和市場需求的上升使得科技公司成為投資者關注的焦點。隨著全球對科技股的興趣增加，中國的指數重組被視為一個重要的市場動態，旨在提高科技公司的市場地位，並吸引國內外資金流入。這次重組的背景也與中國政府推動經濟轉型和創新有關，特別是在面對全球經濟不確定性時。",
           "stakeholders": [
-            "MiniMax Group",
-            "中信證券",
-            "內地投資者",
-            "中國政府",
-            "科技產業"
+            "中國科技公司",
+            "投資銀行",
+            "國內券商",
+            "外部投資者",
+            "政府政策制定者"
           ],
-          "analysis": "MiniMax的上市計劃顯示出中國內地市場對於AI企業的開放程度正在提高，這對於尋求進一步增長的科技公司來說是一個利好消息。根據參考報導，儘管未提供具體細節，但市場普遍預期MiniMax的上市將吸引大量資金流入，進一步促進其業務擴展。不同於其他報導強調的製造業成功，MiniMax的案例突顯了科技創新在中國經濟中的重要性。各方利益相關者，包括投資者、政府及科技企業，將密切關注這一上市進程，因為它可能會影響整個AI產業的資金流向及發展趨勢。"
+          "analysis": "此次指數重組將使科技公司在中國股市中的地位更加鞏固，這對於希望在AI和半導體領域獲得更大市場份額的企業來說是一個利好消息。根據高盛的預測，預計將有31億美元的資金流入這些行業，顯示出市場對科技股的強勁信心。國內券商如國信證券的評論也反映了這一點，認為重組將進一步增強投資者對科技股的信心。隨著資金流入的增加，這可能會促進科技公司的股價上漲，並吸引更多的外部投資者。然而，市場的反應也可能受到全球經濟狀況和政策變化的影響，因此未來的發展仍需密切關注。"
         },
         "topic_priority_score": 4,
-        "event_type": "corporate_results",
-        "supporting_sources": [
-          "Nikkei Asia",
-          "The Economist"
-        ],
-        "supporting_titles": [
-          "Beyblade mania spins nostalgia in Hong Kong",
-          "The other China shock"
-        ],
-        "supporting_summaries": [
-          "",
-          "Does the country’s manufacturing success leave space for anyone else?"
-        ],
-        "supporting_links": [
-          "https://asia.nikkei.com/business/media-entertainment/beyblade-mania-spins-nostalgia-in-hong-kong",
-          "https://www.economist.com/finance-and-economics/2026/05/21/the-other-china-shock"
-        ],
-        "source_count": 3
+        "event_type": "market_repricing",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       },
       {
         "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "Spain’s property market sees boost as Hongkongers, others, depart the UK and Canada",
-        "link": "https://www.scmp.com/business/article/3355359/spains-property-market-sees-boost-hongkongers-others-depart-uk-and-canada?utm_source=rss_feed",
-        "summary": "Hong Kong families in the United Kingdom and Canada are facing deep uncertainty due to shifting immigration policies and the rising cost of living, and some are looking for alternative destinations to settle. Property agents said Spain’s Non-Lucrative Visa (NLV), designed for retirees and anyone who can support themselves without employment, had become one of their top choices. The NLV provides a pathway for citizens outside the European Union and the European Economic Area who have enough...",
-        "published": "Sun, 31 May 2026 01:30:14 +0000",
-        "updated": "Sun, 31 May 2026 01:30:14 +0000",
-        "published_at_utc": "2026-05-31T01:30:14+00:00",
-        "id": "https://www.scmp.com/business/article/3355359/spains-property-market-sees-boost-hongkongers-others-depart-uk-and-canada?utm_source=rss_feed",
+        "source_name": "The Guardian Business",
+        "title": "Oil and gas prices rise as US and Iran trade strikes; UK house prices fall – business live",
+        "link": "https://www.theguardian.com/business/live/2026/jun/01/uk-house-prices-fall-middle-east-interest-rates-manufacturing-softbank-ai-boom-chipmakers-live-updates",
+        "summary": "British house prices fell 0.6% in May, leaving them 1.7% higher than a year earlier, Nationwide reports Eurozone factories were hit by the biggest jump in input costs in four years last month. The Iran war drove up the cost of raw materials and intermediate goods, according to the latest poll of purchasing managers at European manufacturers. Although euro area manufacturers reported an expansion for a fourth successive month in May, the sector is showing signs of struggling under the weight of rising prices and supply disruptions emanating from the war in the Middle East. “A key development in May was yet another surge in energy and raw material prices, causing the largest monthly jump in firms’ costs for four years. The incidence of supply chain delays has meanwhile risen to the highest since the pandemic supply squeeze of 2022, adding further upward pressure to prices. “Global turmoil is taking a toll on the property market. House prices fell between April and May and are up just 1.7% in a year. It’s a valuable reminder that property investments aren’t always safe as houses. “The Nationwide House Price Index only provides a partial picture of the market, but it’s particularly timely, because it looks at prices at the point of mortgage approvals – months ahead of the completion data we get from the Office for National Statistics. Continue reading...",
+        "published": "Mon, 01 Jun 2026 13:05:28 GMT",
+        "updated": "2026-06-01T13:05:28Z",
+        "published_at_utc": "2026-06-01T13:05:28+00:00",
+        "id": "https://www.theguardian.com/business/live/2026/jun/01/uk-house-prices-fall-middle-east-interest-rates-manufacturing-softbank-ai-boom-chipmakers-live-updates",
         "topic_type": "inflation",
-        "relevance_score": 19,
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Hong Kong families in the United Kingdom and Canada are facing deep uncertainty due to shifting immigration policies and the rising cost of living, and some are looking for alternative destinations to settle. Property agents said Spain’s Non-Lucrative Visa (NLV), designed for retirees and anyone who can support themselves without employment, had become one of their top choices. The NLV provides a pathway for citizens outside the European Union and the European Economic Area who have enough...",
-          "news_focus_zh": "由於英國和加拿大的移民政策變化及生活成本上升，許多香港家庭面臨不確定性，開始尋找新的定居地。西班牙的非營利簽證（NLV）成為他們的熱門選擇，該簽證適合退休人士及能自給自足的人士，為非歐盟及歐洲經濟區的國籍提供了入境途徑。",
-          "background": "近年來，英國和加拿大的移民政策經歷了顯著變化，這使得香港家庭在這些國家的生活變得越來越困難。特別是英國，隨著生活成本的上升，許多香港人感到無法承擔日常開支。西班牙的非營利簽證（NLV）則提供了一個相對容易的移民選擇，吸引了希望在歐洲定居的香港家庭。該簽證不要求持有人在西班牙工作，這對於希望保持經濟獨立的移民來說，無疑是一大優勢。",
+          "news_focus": "British house prices fell 0.6% in May, leaving them 1.7% higher than a year earlier, Nationwide reports Eurozone factories were hit by the biggest jump in input costs in four years last month. The Iran war drove up the cost of raw materials and intermediate goods, according to the latest poll of purchasing managers at European manufacturers. Although euro area manufacturers reported an expansion for a fourth successive month in May, the sector is showing signs of struggling under the weight of rising prices and supply disruptions emanating from the war in the Middle East. “A key development in May was yet another surge in energy and raw material prices, causing the largest monthly jump in firms’ costs for four years. The incidence of supply chain delays has meanwhile risen to the highest since the pandemic supply squeeze of 2022, adding further upward pressure to prices. “Global turmoil is taking a toll on the property market. House prices fell between April and May and are up just 1.7% in a year. It’s a valuable reminder that property investments aren’t always safe as houses. “The Nationwide House Price Index only provides a partial picture of the market, but it’s particularly timely, because it looks at prices at the point of mortgage approvals – months ahead of the completion data we get from the Office for National Statistics. Continue reading...",
+          "news_focus_zh": "英國房價在5月份下降了0.6%，儘管與去年相比仍上升1.7%。同時，歐元區工廠面臨四年來最大的原材料成本上漲，主要受到伊朗戰爭影響，導致原材料和中間商品價格上升。儘管歐元區製造業連續第四個月報告增長，但因為價格上漲和供應鏈中斷，該行業顯示出疲軟的跡象。",
+          "background": "近期的伊朗戰爭對全球經濟造成了顯著影響，特別是在能源價格上漲方面。隨著原油和天然氣價格的上升，這不僅影響了生產成本，還對消費者的生活成本造成壓力。英國的房地產市場也受到影響，房價的下滑反映了市場對未來經濟不確定性的擔憂。歐元區的製造業雖然在增長，但面臨的成本壓力和供應鏈問題使得經濟前景變得更加複雜。",
           "stakeholders": [
-            "香港家庭",
-            "西班牙政府",
-            "房地產經紀人",
             "英國政府",
-            "加拿大政府"
+            "歐元區製造商",
+            "消費者",
+            "能源公司",
+            "房地產投資者"
           ],
-          "analysis": "香港家庭的移民潮對西班牙的房地產市場產生了正面影響，因為這些家庭尋求在生活成本較低的國家安家。根據主新聞，西班牙的非營利簽證吸引了大量尋求穩定生活的移民，這可能會推高當地的房地產需求。另一方面，參考報導提到的香港和新加坡在金融行業面臨的AI影響，顯示出這些地區的工作市場正在經歷變化，可能進一步促使專業人士尋求海外機會。雖然參考報導未直接涉及西班牙的情況，但它反映了香港人對於未來職業安全的擔憂，這可能會加速他們的移民決策。"
+          "analysis": "各方利益關係在此事件中顯得尤為重要。首先，能源價格的上漲將直接影響家庭的生活成本，根據BBC的報導，家庭能源價格預計在七月上漲13%。這將使消費者面臨更大的經濟壓力，可能進一步影響消費支出。其次，雖然歐元區製造業報告增長，但面對成本上升和供應鏈延遲，企業可能會減少投資，進而影響經濟增長。根據《經濟學人》的報導，雖然希望伊朗戰爭不會導致經濟衰退，但能源價格的上漲仍將推高生活成本，這可能導致更廣泛的經濟問題。各方在應對這一挑戰時的策略將對未來的經濟走向產生深遠影響。"
         },
         "topic_priority_score": 9,
-        "event_type": "macro_signal",
+        "event_type": "energy_supply_move",
         "supporting_sources": [
-          "Nikkei Asia",
-          "The Economist"
+          "The Economist",
+          "BBC Business"
         ],
         "supporting_titles": [
-          "Hong Kong and Singapore brace for AI chill in finance job market",
-          "China’s property market is (somehow) worsening"
+          "How high could global inflation go?",
+          "How a rise in energy bills will affect you from July"
         ],
         "supporting_summaries": [
-          "",
-          "Government remedies are not up to the job"
+          "With luck, the Iran war won’t cause a recession. But the surge in energy prices will push up the cost of living",
+          "Household energy prices will rise by 13% a year in July, as soaring wholesale costs caused by the US-Israel war with Iran hit bills for the first time."
         ],
         "supporting_links": [
-          "https://asia.nikkei.com/business/finance/hong-kong-and-singapore-brace-for-ai-chill-in-finance-job-market",
-          "https://www.economist.com/finance-and-economics/2025/11/27/chinas-property-market-is-somehow-worsening"
+          "https://www.economist.com/finance-and-economics/2026/03/23/how-high-could-global-inflation-go",
+          "https://www.bbc.com/news/videos/c8xw2g7485zo?at_medium=RSS&at_campaign=rss"
         ],
         "source_count": 3
       }
@@ -383,161 +389,196 @@
   "further_reading": {
     "technology": [
       {
-        "title": "How Turkey Hacked the Hair Transplant Industry",
-        "link": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-05-31T09:00:00+00:00",
+        "title": "These are the first Nvidia RTX Spark laptops",
+        "link": "https://www.theverge.com/gadgets/940794/first-nvidia-rtx-spark-laptops-roundup-computex-2026",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-06-01T11:29:52+00:00",
         "relevance_score": 17
       },
       {
-        "title": "Microsoft is threatening legal action for disclosing exploits",
-        "link": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
+        "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
+        "link": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-06-01T11:00:00+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’",
+        "link": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
         "source_name": "The Verge",
-        "published_at_utc": "2026-05-30T15:19:50+00:00",
+        "published_at_utc": "2026-06-01T04:28:53+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "How to watch Nvidia’s Computex keynote",
+        "link": "https://www.theverge.com/tech/940540/how-to-watch-nvidias-computex-keynote",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-05-31T20:20:35+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark",
+        "link": "https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-06-01T04:36:41+00:00",
         "relevance_score": 15
       },
       {
-        "title": "Taiwan's MediaTek partners with Intel and TSMC for advanced chip packaging",
-        "link": "https://asia.nikkei.com/business/tech/semiconductors/taiwan-s-mediatek-partners-with-intel-and-tsmc-for-advanced-chip-packaging",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
+        "title": "Yuanjie Semiconductor Technology Co Ltd - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oSlRqMW5Kd21DWUozT3MxVUlDS1NFSTQ0ajl1eEtSRDZhcDlROFlpM2Q3VTVrTk1oVDd0bXhxa1lfcmhWTXNuQ3pfUXNUS2JuZnM4MWlYMUdVaGpuekp5UVJhVDZCR1BZQWhVWjBjRjZ4bWlNbDRoNFB1UWQ?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-06-01T01:17:16+00:00",
         "relevance_score": 15
       },
       {
-        "title": "How Nigeria’s ‘algorithmic apothecary’ fuels a surge in risky herbal cures",
-        "link": "https://www.aljazeera.com/news/2026/5/31/how-nigerias-algorithmic-apothecary-fuels-a-surge-in-risky-herbal-cures?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-31T05:23:00+00:00",
+        "title": "Microsoft could be the next Big Tech antitrust target",
+        "link": "https://www.theverge.com/policy/940220/microsoft-ftc-antitrust-investigation-cloud-ai",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-06-01T13:23:39+00:00",
         "relevance_score": 14
       },
       {
-        "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-        "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-30T16:30:00+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-        "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-05-30T15:30:00+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’",
-        "link": "https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai",
+        "title": "Meta whistleblower’s lawyer says he too is prevented from promoting her book",
+        "link": "https://www.theguardian.com/technology/2026/jun/01/meta-whistleblower-lawyer-prevented-promoting-book-sarah-wynn-williams-hay-festival",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-30T13:00:20+00:00",
-        "relevance_score": 13
+        "published_at_utc": "2026-06-01T12:01:54+00:00",
+        "relevance_score": 14
       },
       {
-        "title": "Cybercrime Crew Claims It Hacked Mike Lindell’s MyPillow",
-        "link": "https://www.wired.com/story/security-news-this-week-cybercrime-crew-claims-it-hacked-mike-lindells-mypillow/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-05-30T10:30:00+00:00",
-        "relevance_score": 13
+        "title": "Malaysia enforces ban on social media accounts for children younger than 16",
+        "link": "https://www.thehindu.com/sci-tech/technology/malaysia-enforces-ban-on-social-media-accounts-for-children-younger-than-16/article71046852.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-01T03:31:12+00:00",
+        "relevance_score": 14
       },
       {
-        "title": "6 Best Prepaid Phone Plans (2026): Tello, Boost, Google Fi, More",
-        "link": "https://www.wired.com/gallery/best-prepaid-phone-plans/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-05-31T10:01:00+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "Blue Origin faces months of delays after rocket explosion damages launch pad - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbUYxMHlfcFFBU1p0aUh6b2ZqQ1Z2aC1VTkJXbXZyNWF1aGM5Uk91ZGZOdFpoelEzRHUyV0hVWlpYbm5vMDBIN0dkY3huX2N3eU9aSTNHbGpvQ0xfSXJlSnJXcXBlN1ZfNVUzWGdQRGVNMGx5Tk1Yc1RuRDVvZXhza2p0MXVoaXlvVUQ1U3pDSFlDclFJQ1oyZ2Nsd3lpNmhfNkdGMWl0MkQwYmZWRDJsU213MHJjOXl3S1U3Y3JZdTRpdzFVSjh4OGdOY0pzdTIycGc?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-05-30T11:28:41+00:00",
+        "title": "The Download: China’s brain implant ambitions",
+        "link": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
+        "source_name": "MIT Technology Review",
+        "published_at_utc": "2026-06-01T12:10:00+00:00",
         "relevance_score": 12
       }
     ],
     "politics": [
       {
-        "title": "Middle East crisis live: Israeli army captures strategic castle in Lebanon in deepest incursion into country in 26 years",
-        "link": "https://www.theguardian.com/world/live/2026/may/31/middle-east-crisis-live-israel-lebanon-beaufort-castle-us-iran-nuclear-deal-hormuz-oil-latest-news-updates",
+        "title": "West Asia war LIVE: Currently no talks with U.S. over nuclear issue, says Iran",
+        "link": "https://www.thehindu.com/news/international/iran-usa-war-peace-deal-donald-trump-israel-attacks-lebanon-hezbollah-june-1-2026/article71046810.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-01T11:00:21+00:00",
+        "relevance_score": 22
+      },
+      {
+        "title": "No 10 braced for ‘excruciating’ revelations as Mandelson files published – UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/jun/01/peter-mandelson-documents-published-keir-starmer-labour-latest-news-updates",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-31T09:36:31+00:00",
+        "published_at_utc": "2026-06-01T13:12:24+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Philippines says Beijing main hurdle to South China Sea code of conduct",
-        "link": "https://www.scmp.com/week-asia/politics/article/3355456/philippines-says-beijing-main-hurdle-south-china-sea-code-conduct?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-05-31T08:02:02+00:00",
+        "title": "Ex-US Fed Chair Powell warns against politicisation amid Trump’s attacks",
+        "link": "https://www.aljazeera.com/economy/2026/6/1/ex-us-fed-chair-powell-warns-against-politicisation-amid-trumps-attacks?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-06-01T04:51:06+00:00",
         "relevance_score": 20
       },
       {
-        "title": "U.S. says three killed in ‘narco’ boat strike",
-        "link": "https://www.thehindu.com/news/international/us-says-three-killed-in-narco-boat-strike/article71043911.ece",
+        "title": "U.S. proposes new plan to ease Israel-Lebanon tensions amid fighting",
+        "link": "https://www.thehindu.com/news/international/usa-israel-lebanon-hezbollah-ceasefire/article71046857.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-31T05:39:46+00:00",
+        "published_at_utc": "2026-06-01T03:48:24+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Japanese defence minister rejects ‘new militarism’ label from China in Shangri-La speech",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3355447/japanese-defence-minister-rejects-new-militarism-label-china-shangri-la-speech?utm_source=rss_feed",
+        "title": "Trump ‘personally called for China’s help’ to end Ukraine war in summit with Xi",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3355551/trump-personally-called-chinas-help-end-ukraine-war-summit-xi?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-05-31T05:35:50+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "U.S. War Secretary Hegseth backs Trump’s India-Pak ceasefire claim; outlines Indo-Pacific strategy",
-        "link": "https://www.thehindu.com/news/international/us-war-secretary-hegseth-backs-trumps-india-pak-ceasefire-claim-outlines-indo-pacific-strategy/article71040745.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-30T10:10:56+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "From nuclear submarines to trade, South Korea and US remain deadlocked ahead of talks",
-        "link": "https://www.scmp.com/week-asia/politics/article/3355362/nuclear-submarines-trade-south-korea-and-us-remain-deadlocked-ahead-talks?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-05-31T01:30:19+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "New Aukus drone tech to protect critical undersea cables as Marles warns: ‘seabed is a battlefield’",
-        "link": "https://www.theguardian.com/australia-news/2026/may/31/richard-marles-defence-summit-singapore-china-transparency-pete-hegseth",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-05-30T22:10:04+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Israel-Iran war LIVE: Trump says Iran has agreed to no nuclear weapons",
-        "link": "https://www.thehindu.com/news/international/iran-israel-live-strait-of-hormuz-updates-trump-us-iran-deal-may-31-2026/article71043697.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-05-31T09:19:09+00:00",
+        "published_at_utc": "2026-06-01T13:00:04+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Trump tightens terms on Iran war deal, US media say",
-        "link": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-31T09:15:00+00:00",
+        "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+        "link": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-06-01T12:32:07+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Iran war day 93: Trump won’t ‘rush’ deal; Israel expands Lebanon invasion",
-        "link": "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-05-31T08:29:45+00:00",
+        "title": "Trump has buried liberal world order but what comes next could be better",
+        "link": "https://www.scmp.com/opinion/china-opinion/article/3355458/trump-has-buried-liberal-world-order-what-comes-next-could-be-better?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-01T12:30:05+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "‘Seasoned China hand’ set to lead National Committee on US-China Relations: sources",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3355543/seasoned-china-hand-set-lead-national-committee-us-china-relations-sources?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-01T12:00:08+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "‘What happened to the testicles?’: mockery in Milan over bull mosaic’s restoration",
+        "link": "https://www.theguardian.com/world/2026/jun/01/milan-mockery-rampant-bull-mosaic-restoration-refurbishment-testicles-castrated",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-01T11:48:37+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Young Kenyans protest Ebola quarantine centre for US citizens",
+        "link": "https://www.scmp.com/news/world/africa/article/3355580/young-kenyans-protest-ebola-quarantine-centre-us-citizens?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-01T11:05:11+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "Inflation fight again putting central bank independence under strain, policymakers say - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeHVUcWJXRE96eVctbklHcGsyazVlZWtZM0daWWVBeW1pSGRkY1pKU3RCbWJ1aVBESG9BbF9ZVUZLVWlSdzBYSXUzRk1YTVQ5TWh0Rkd1ZmZkZE56RWdQNFZnQWE5OUdCLWJ1S2pPSTBFWDdMQlNNTGZQRml1UkF1UDI2WTIzSlcyQmMxdWVIYnd3WnNJVXh3eEpIQkxRcC1wMi03YV96OU1EdFBPX0NvTHY2cC1GeloxMG0xRVVn?oc=5",
+        "title": "Oil prices rally on Hormuz talks but will Asia’s energy woes ease?",
+        "link": "https://www.scmp.com/week-asia/economics/article/3355584/oil-prices-rally-hormuz-talks-will-asias-energy-woes-ease?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-01T11:46:24+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "UK house prices fall for first time this year amid rising interest rates",
+        "link": "https://www.theguardian.com/money/2026/jun/01/uk-house-prices-fall-interest-rates-nationwide-savills-iran-war",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-01T07:00:40+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Impact of Middle East war on Hong Kong’s inflation limited, finance chief says",
+        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3355520/impact-middle-east-war-hong-kongs-inflation-limited-says-finance-chief?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-01T06:10:55+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Gold falls as renewed Middle East tensions fuel inflation fears - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQmkybDRsSTE5dExGbEF3WFo1bnk0d21mT2x2dzZ5QllRVklGUnpmWkNvVXpKTnhzNWs1OUstZnRYRHFUU1ZpOEJBZjdrZ29RZlFoUGU1c3N3b2x2ejBIOWp4X3lqamtIR09wanRjd1FRSThnMXpjSHE3WC1xR2xsalpqUEREbkczYlNRRDZlcXl1UW5ndGtBR0pBQ3hUNDJ1NDhhMC1BVDlxbTItRGJ2eDVn?oc=5",
         "source_name": "Reuters",
-        "published_at_utc": "2026-05-30T12:52:06+00:00",
+        "published_at_utc": "2026-06-01T02:01:00+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Reeves examines using private sector funds to speed building of new towns",
+        "link": "https://www.theguardian.com/society/2026/jun/01/rachel-reeves-private-sector-deals-new-towns-ppp",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-01T12:47:40+00:00",
         "relevance_score": 19
       },
       {
-        "title": "ECB must act on inflation sooner rather than later, policymaker Pereira says - Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWWQ2STRLT0wwdGRwZDNuMkVKYnU2eTRRTEozUUloS2pETG44MkpzLWpFaTBVdDY2WlJaa25fZGpsZFBWREs4NlA1TzV6TkZHdkl4Y3l1V2d0UkY4UVppeWlDaUlKTmZ6dDUwallHdUxhb0ZyVklmdkNQZ1lsRXNjbmo2bFZwZklRTHJtMU45ZHRES1JoTHJSdmUwX3BPVnhEUlpHVDRXdjgxV3BoUDRRbUs4N0IyTjZF?oc=5",
-        "source_name": "Reuters",
-        "published_at_utc": "2026-05-30T22:05:44+00:00",
+        "title": "AI firm MiniMax prepares for mainland China listing after shares surge in Hong Kong",
+        "link": "https://www.scmp.com/business/china-business/article/3355418/ai-firm-minimax-prepares-mainland-china-listing-after-shares-surge-hong-kong?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-31T08:15:23+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Spain’s property market sees boost as Hongkongers, others, depart the UK and Canada",
+        "link": "https://www.scmp.com/business/article/3355359/spains-property-market-sees-boost-hongkongers-others-depart-uk-and-canada?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-05-31T01:30:14+00:00",
         "relevance_score": 17
       },
       {
@@ -548,60 +589,25 @@
         "relevance_score": 17
       },
       {
-        "title": "When will the EU punch its weight in a perilous world? That’s the question countries eager to join should be asking | Simon Tisdall",
-        "link": "https://www.theguardian.com/commentisfree/2026/may/31/eu-perilous-world-countries-join",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-31T05:00:39+00:00",
+        "title": "FedEx Freight set for market debut as it completes spinoff - Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONDZCODJDc3BvZWFWWUxIUW9id2pTVzhBZnIzNG5MTXc3aTEzYmtzb3VOMlZBNFFJb3JZWFpSNnU0SkpoV2RTNzY3U0NaN09va1RBZUtjUWRkTkVkZjVFUnBLQ1FLRGxnX2pjcGJuRWo4dXFiZld6OHNySlozcDZDVFNqd2NZVmlCWm9rdnBiYXpLdGdGckhtOUxfMEQtTkxwRmc?oc=5",
+        "source_name": "Reuters",
+        "published_at_utc": "2026-06-01T10:49:02+00:00",
         "relevance_score": 16
       },
       {
-        "title": "Hong Kong property recovery tested as bigger student housing deals gain traction",
-        "link": "https://www.scmp.com/business/banking-finance/article/3355371/hong-kong-property-recovery-tested-bigger-student-housing-deals-gain-traction?utm_source=rss_feed",
+        "title": "Businesses face huge spike in shipping costs as Hormuz fuel crisis deepens",
+        "link": "https://www.scmp.com/economy/china-economy/article/3355536/businesses-face-huge-spike-shipping-costs-hormuz-fuel-crisis-deepens?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-31T03:30:08+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "‘The potential is huge’: Plymouth hopes defence money will have it sailing again",
-        "link": "https://www.theguardian.com/uk-news/2026/may/31/defence-money-plymouth-regeneration-plans",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-31T05:00:39+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "‘One day I thought, that’s enough’: the people fighting back against pothole-riddled roads",
-        "link": "https://www.theguardian.com/world/2026/may/31/one-day-i-thought-thats-enough-the-people-fighting-back-against-pothole-riddled-roads",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-31T05:00:39+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "Gold continues decline as inflation fears outweigh hope of end to Iran war",
-        "link": "https://www.scmp.com/business/china-business/article/3355136/gold-continues-decline-inflation-fears-outweigh-hopes-end-iran-war?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-05-28T06:23:47+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "US rate hike on the table as inflation persists: Chicago Fed chief",
-        "link": "https://asia.nikkei.com/editor-s-picks/interview/us-rate-hike-on-the-table-as-inflation-persists-chicago-fed-chief",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 13
-      },
-      {
-        "title": "Editor's Choice: When sanctions drive innovation, Huawei's 'Her's Law' challenge",
-        "link": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-when-sanctions-drive-innovation-huawei-s-her-s-law-challenge",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 13
+        "published_at_utc": "2026-06-01T08:30:06+00:00",
+        "relevance_score": 16
       }
     ]
   },
   "enrichment_summary": {
     "model": "gpt-4o-mini",
-    "enriched": 9,
-    "failed": 0,
+    "enriched": 8,
+    "failed": 1,
     "total": 9
   }
 }
