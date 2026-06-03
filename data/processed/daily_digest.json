@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-06-02T11:57:01.734559+00:00",
+  "generated_at_utc": "2026-06-03T12:29:47.669324+00:00",
   "summary": {
-    "total_raw_items": 1059,
-    "total_deduped_items": 1042,
+    "total_raw_items": 1055,
+    "total_deduped_items": 1039,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
@@ -12,47 +12,47 @@
         "ai"
       ],
       "politics": [
-        "diplomacy",
         "us_politics",
-        "us_politics"
+        "us_politics",
+        "uk_politics"
       ],
       "economy": [
-        "interest_rates",
-        "interest_rates",
-        "sanctions"
+        "trade_wars",
+        "energy_markets",
+        "inflation"
       ]
     },
-    "multi_source_selected_count": 5
+    "multi_source_selected_count": 6
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "SCMP World",
-        "title": "‘Terrified!’: Chinese man spends US$28 to look like Jensen Huang, garners large following",
-        "link": "https://www.scmp.com/news/people-culture/china-personalities/article/3355681/terrified-chinese-man-spends-us28-look-jensen-huang-garners-large-following?utm_source=rss_feed",
-        "summary": "A young man in rural China has gained tens of thousands of online followers in two weeks by impersonating Nvidia CEO Jensen Huang. Yang Yang, 28, who lives in a village in Dandong in northeastern Liaoning province, has gone viral on social media for his videos showing him imitating the artificial intelligence (AI) titan. He released the clips using an account called @huangyinxun, which is how Huang’s Chinese name is pronounced in the northeastern China dialect. Yang has shared over 20 clips...",
-        "published": "Tue, 02 Jun 2026 10:00:21 +0000",
-        "updated": "Tue, 02 Jun 2026 10:00:21 +0000",
-        "published_at_utc": "2026-06-02T10:00:21+00:00",
-        "id": "https://www.scmp.com/news/people-culture/china-personalities/article/3355681/terrified-chinese-man-spends-us28-look-jensen-huang-garners-large-following?utm_source=rss_feed",
+        "source_name": "Wired",
+        "title": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
+        "link": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
+        "summary": "The company’s RTX Spark chips might finally turn the “AI PC” into reality.",
+        "published": "Wed, 03 Jun 2026 11:00:00 +0000",
+        "updated": "Wed, 03 Jun 2026 11:00:00 +0000",
+        "published_at_utc": "2026-06-03T11:00:00+00:00",
+        "id": "6a1db5dde5ba39b48fc5a263",
         "topic_type": "chips",
-        "relevance_score": 21,
+        "relevance_score": 17,
         "briefing": {
-          "news_focus": "A young man in rural China has gained tens of thousands of online followers in two weeks by impersonating Nvidia CEO Jensen Huang. Yang Yang, 28, who lives in a village in Dandong in northeastern Liaoning province, has gone viral on social media for his videos showing him imitating the artificial intelligence (AI) titan. He released the clips using an account called @huangyinxun, which is how Huang’s Chinese name is pronounced in the northeastern China dialect. Yang has shared over 20 clips...",
-          "news_focus_zh": "一名來自中國遼寧省丹東的28歲男子楊楊，花費28美元模仿Nvidia首席執行官黃仁勳，並在短短兩週內在社交媒體上獲得了數萬名追隨者。他透過一個名為@huangyinxun的帳號發布了超過20段模仿黃仁勳的影片，這個名稱是黃仁勳中文名字在東北方言中的發音，因而吸引了大量關注。",
-          "background": "隨著人工智慧技術的迅速發展，Nvidia作為該領域的領導者，其首席執行官黃仁勳的形象也日益受到關注。特別是在中國，AI技術的推廣與應用引發了廣泛的社會興趣，許多年輕人對於科技領袖的模仿與崇拜現象層出不窮。此外，社交媒體的普及使得這類模仿行為能迅速獲得關注，形成一種新的網絡文化現象。",
+          "news_focus": "The company’s RTX Spark chips might finally turn the “AI PC” into reality.",
+          "news_focus_zh": "Nvidia推出的RTX Spark晶片可能將AI個人電腦的概念變為現實，這標誌著公司在科技領域的一次重大創新。這些新晶片的設計旨在顛覆市場，並為使用者提供更強大的計算能力，以支持各種AI應用。",
+          "background": "隨著人工智慧技術的迅速發展，市場對於能夠支持AI運算的硬體需求日益增加。Nvidia作為圖形處理單元（GPU）市場的領導者，長期以來專注於開發高效能的計算解決方案。RTX Spark晶片的推出，正是Nvidia試圖在AI運算領域進一步擴展其影響力的舉措。這些晶片不僅能提升個人電腦的運算效能，還可能改變使用者對於電腦的使用方式，進一步推動AI技術的普及。",
           "stakeholders": [
-            "楊楊",
             "Nvidia",
-            "黃仁勳",
-            "社交媒體平台",
-            "中國年輕人"
+            "硬體製造商",
+            "軟體開發者",
+            "最終使用者",
+            "科技市場分析師"
           ],
-          "analysis": "楊楊的行為反映了中國年輕一代對於科技與創新領袖的崇拜，並且借助社交媒體平台的力量，迅速聚集了大量粉絲。這種模仿行為不僅是對黃仁勳個人魅力的認可，也顯示出當代年輕人對於AI技術的熱情與追求。隨著社交媒體的影響力不斷增強，類似的模仿現象可能會在其他科技領袖中出現，進一步促進科技文化的傳播與交流。此事件也可能引發對於科技領袖形象的討論，尤其是在中國這樣一個科技快速發展的國家。"
+          "analysis": "Nvidia的RTX Spark晶片可能會引發市場的重大變革，尤其是在個人電腦領域。這些晶片的推出，對於硬體製造商、軟體開發者和最終使用者都具有重要意義。硬體製造商可能需要調整其產品線以適應新技術，而軟體開發者則需考慮如何最佳利用這些新晶片的能力。最終使用者將受益於更強大的計算能力，能夠更流暢地運行各種AI應用。隨著市場競爭的加劇，其他科技公司也可能會加速其AI硬體的研發，以保持競爭力。"
         },
         "topic_priority_score": 10,
-        "event_type": "product_launch",
+        "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -61,299 +61,281 @@
       },
       {
         "category": "technology",
-        "source_name": "The Verge",
-        "title": "Anthropic has officially filed to go public",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
-        "summary": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission. The filing sets the stage for what's sure to be a massive IPO. As of its fundraise last […]",
-        "published": "2026-06-01T12:40:38-04:00",
-        "updated": "2026-06-01T13:45:28-04:00",
-        "published_at_utc": "2026-06-01T16:40:38+00:00",
-        "id": "https://www.theverge.com/?p=941016",
+        "source_name": "The Guardian Business",
+        "title": "As the tech mega-IPO race heats up, has OpenAI missed its moment?",
+        "link": "https://www.theguardian.com/technology/2026/jun/03/as-the-tech-mega-ipo-race-hots-up-has-openai-missed-its-moment",
+        "summary": "With rivals racing to market to raise ‘eye-popping sums’, the spotlight is now on the AI sector’s one-time ‘poster child’ A year is a long time in AI. Just 12 months ago, Sam Altman was predicting his company OpenAI would build a super intelligence and fundamentally remake society. Now the boss of the ChatGPT developer is walking back those ideas after failing to make money from ads and erotic chatbots. Meanwhile, rivals are storming ahead with plans to expand and go public on the stock market, in what is widely expected to be a season of record-setting initial public offerings (IPOs). Continue reading...",
+        "published": "Wed, 03 Jun 2026 10:38:09 GMT",
+        "updated": "2026-06-03T10:38:09Z",
+        "published_at_utc": "2026-06-03T10:38:09+00:00",
+        "id": "https://www.theguardian.com/technology/2026/jun/03/as-the-tech-mega-ipo-race-hots-up-has-openai-missed-its-moment",
         "topic_type": "ai",
         "relevance_score": 17,
         "briefing": {
-          "news_focus": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities and Exchange Commission. The filing sets the stage for what's sure to be a massive IPO. As of its fundraise last […]",
-          "news_focus_zh": "Anthropic於週一正式向美國證券交易委員會提交了公開上市的申請，這標誌著其IPO進程的重要里程碑。此舉結束了關於Anthropic與OpenAI誰將率先上市的猜測，並為即將到來的IPO鋪平了道路。",
-          "background": "Anthropic是一家專注於大型語言模型的人工智慧公司，近年來迅速崛起，並吸引了多家頂級企業客戶的關注。儘管在AI領域中曾被視為弱者，但其技術的進步和市場需求的增長使其成為一個強大的競爭者。隨著AI技術的普及，許多公司都在尋求進一步的資金來擴展業務，公開上市成為一個重要的資金來源選擇。",
+          "news_focus": "With rivals racing to market to raise ‘eye-popping sums’, the spotlight is now on the AI sector’s one-time ‘poster child’ A year is a long time in AI. Just 12 months ago, Sam Altman was predicting his company OpenAI would build a super intelligence and fundamentally remake society. Now the boss of the ChatGPT developer is walking back those ideas after failing to make money from ads and erotic chatbots. Meanwhile, rivals are storming ahead with plans to expand and go public on the stock market, in what is widely expected to be a season of record-setting initial public offerings (IPOs). Continue reading...",
+          "news_focus_zh": "隨著科技業首次公開募股（IPO）競賽加劇，OpenAI似乎錯過了最佳時機。過去一年，OpenAI的CEO山姆·阿特曼曾預測公司將開發超級智能並徹底改變社會，但目前他已經開始收回這些言論，因為公司未能從廣告和成人聊天機器人中獲利。與此同時，競爭對手們正迅速推進擴張計劃，並準備在股市上市，預計將迎來創紀錄的IPO季。",
+          "background": "過去一年，人工智慧（AI）領域的競爭日益激烈，許多公司積極尋求上市以籌集資金。OpenAI曾被視為AI的代表性公司，但隨著市場環境的變化，其他競爭者如谷歌和微軟等也在加速推出新技術和產品。這些公司不僅在技術上有所突破，還在商業模式上尋求創新，這使得OpenAI面臨更大的壓力。特別是，廣告收入和成人聊天機器人的失利使得OpenAI的商業模式受到質疑，進一步影響其市場地位。",
           "stakeholders": [
-            "Anthropic",
             "OpenAI",
-            "美國證券交易委員會",
+            "競爭對手",
             "投資者",
-            "企業客戶"
+            "消費者",
+            "技術開發者"
           ],
-          "analysis": "Anthropic的IPO申請顯示出其在AI市場中的強勁增長和潛力，這對於投資者來說是一個吸引人的機會。與此同時，OpenAI也在考慮上市，這使得兩者之間的競爭更加激烈。根據參考報導，Anthropic的成功吸引了多家企業客戶，這可能會進一步提升其市場地位。未來，若IPO順利，Anthropic將能夠獲得更多資金來加速其技術開發和市場擴展，進一步挑戰OpenAI的領導地位。各方利益相關者，包括投資者、企業客戶及競爭對手，都將密切關注此次IPO的進展。"
+          "analysis": "OpenAI目前面臨的挑戰主要來自於市場競爭的加劇，尤其是其他AI公司的迅速擴張和即將上市的計劃。參考報導中提到的Majorana 2芯片的推出，顯示出競爭對手在技術創新方面的積極進取，這可能會進一步削弱OpenAI的市場優勢。此外，阿特曼的言論回撤可能會影響投資者對OpenAI的信心，尤其是在IPO熱潮來臨之際。各方利益關係中，投資者希望看到穩定的收益和增長，而OpenAI若無法迅速調整其商業策略，可能會在未來的競爭中處於不利地位。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
         "supporting_sources": [
-          "TechCrunch"
+          "BBC Technology"
         ],
         "supporting_titles": [
-          "Anthropic files to go public"
+          "Tech Life"
         ],
         "supporting_summaries": [
-          "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models."
+          "The tech company announces its new Majorana 2 chip."
         ],
         "supporting_links": [
-          "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/"
+          "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss"
         ],
         "source_count": 2
       },
       {
         "category": "technology",
-        "source_name": "BBC Business",
-        "title": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
-        "link": "https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss",
-        "summary": "Nine banks have been offered access to GPT 5.5 Cyber, as fierce rival Anthropic has blocked previews of its tool.",
-        "published": "Mon, 01 Jun 2026 17:07:20 GMT",
-        "updated": "Mon, 01 Jun 2026 17:07:20 GMT",
-        "published_at_utc": "2026-06-01T17:07:20+00:00",
-        "id": "https://www.bbc.com/news/articles/cm2p3j6lvn7o#1",
+        "source_name": "Wired",
+        "title": "What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
+        "link": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/",
+        "summary": "Several real estate listings in the San Francisco Bay Area are offering to exchange a home for a piece of the AI startup.",
+        "published": "Wed, 03 Jun 2026 10:00:00 +0000",
+        "updated": "Wed, 03 Jun 2026 10:00:00 +0000",
+        "published_at_utc": "2026-06-03T10:00:00+00:00",
+        "id": "6a1dfdc0b1e3e8efb4c52195",
         "topic_type": "ai",
-        "relevance_score": 15,
+        "relevance_score": 17,
         "briefing": {
-          "news_focus": "Nine banks have been offered access to GPT 5.5 Cyber, as fierce rival Anthropic has blocked previews of its tool.",
-          "news_focus_zh": "九家英國銀行因為競爭對手Anthropic的阻擋，無法使用其網絡安全AI工具Mythos，隨後獲得了OpenAI的GPT 5.5 Cyber的使用權。這一事件突顯了科技公司之間的激烈競爭，特別是在金融科技領域。",
-          "background": "在當前數位化迅速發展的背景下，金融機構越來越依賴先進的人工智慧技術來強化其網絡安全防護。Anthropic作為AI領域的重要參與者，其推出的Mythos工具被視為提升銀行安全性的重要資源。然而，該工具的預覽被阻擋，可能是出於商業競爭考量，導致這些銀行尋求其他解決方案。OpenAI則透過提供其最新的GPT 5.5 Cyber，進一步擴大其在金融科技市場的影響力。",
+          "news_focus": "Several real estate listings in the San Francisco Bay Area are offering to exchange a home for a piece of the AI startup.",
+          "news_focus_zh": "在舊金山灣區，數個房地產上市廣告提出以人工智慧初創公司Anthropic的股票作為交換條件來購買房屋。這一現象顯示出科技產業，特別是AI領域的迅速增長，對當地房地產市場的影響。",
+          "background": "舊金山灣區長期以來是科技創新的中心，尤其是人工智慧和科技初創企業的聚集地。隨著AI技術的快速發展，許多初創公司如Anthropic吸引了大量投資，並在市場上獲得了高估值。這使得科技公司股票的價值在某些情況下超過了現金，進而影響了當地的房地產交易模式。房地產市場的供需關係也因科技產業的繁榮而變得更加複雜，許多業主開始考慮以股票作為交易的替代方案。",
           "stakeholders": [
-            "英國銀行",
-            "OpenAI",
-            "Anthropic",
-            "金融科技公司",
-            "網絡安全專家"
+            "房地產業主",
+            "科技初創公司",
+            "投資者",
+            "房地產經紀人",
+            "地方政府"
           ],
-          "analysis": "此次事件顯示出AI技術在金融行業的重要性以及各大科技公司之間的競爭態勢。Anthropic的阻擋行為可能反映出其對市場份額的保護意圖，而OpenAI則藉此機會吸引更多銀行客戶，增強其市場地位。這一動態可能促使其他科技公司重新評估其產品策略，並加速開發更具競爭力的AI工具。此外，銀行在選擇合作夥伴時，將更加謹慎考量技術的可用性及其背後的商業策略，未來可能出現更多類似的競爭與合作模式。"
+          "analysis": "這一現象反映了舊金山灣區房地產市場的獨特性，尤其是在科技行業的影響下，傳統的現金交易方式正在被創新模式取代。對於房屋擁有者來說，接受股票作為支付方式可能是一種降低現金流出、同時參與科技成長的策略。然而，這也可能帶來風險，因為股票價值的波動可能影響其實際購買力。不同於傳統的房地產交易，這種新模式可能會吸引更多的科技人才和投資者進入市場，進一步推高房價。參考報導未提供與此事件直接相關的補充細節，但強調了科技企業在市場中的獨立運作，顯示出即使在收購情況下，企業仍然能保持其市場地位。"
         },
         "topic_priority_score": 9,
-        "event_type": "regulation_action",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "event_type": "strategic_move",
+        "supporting_sources": [
+          "The Verge"
+        ],
+        "supporting_titles": [
+          "SwitchBot’s acquisition of Nanoleaf is about more than lighting"
+        ],
+        "supporting_summaries": [
+          "Smart lighting company Nanoleaf has been acquired by OneRobotics, the parent company of SwitchBot. In an exclusive interview with The Verge, Nanoleaf CEO Gimmy Chu says the company will remain independent and that he and his cofounder and COO, Christian Yan, will continue to run it. \"Nothing is changing operationally,\" says Chu, adding that there […]"
+        ],
+        "supporting_links": [
+          "https://www.theverge.com/tech/942328/nanoleaf-switchbot-onerobotics-sale-ai-robotics"
+        ],
+        "source_count": 2
       }
     ],
     "politics": [
       {
         "category": "politics",
         "source_name": "The Guardian World",
-        "title": "Ben Roberts-Smith won’t see full brief of war crime allegations for months – as it happened",
-        "link": "https://www.theguardian.com/australia-news/live/2026/jun/02/australia-politics-live-one-nation-minimum-wage-case-labor-coalition-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb",
-        "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast The foreign minister, Penny Wong , has announced new sanctions by the commonwealth over three Israeli individuals and four entities in response to “escalating settler violence against Palestinians in the West Bank”. The entities will receive targeted financial sanctions while the individuals will receive travel bans to Australia. For the first time, designated entities now include farming outposts that serve as hubs for settler violence. Settler violence is used to displace Palestinians and perpetuate the settlement enterprise, through destruction of property, displacement of families, beatings, sexual assault, and torture, resulting in serious injuries and deaths. This is another beat up. It’s not unusual in tax legislation for the definitions to be settled in what’s called legislative instruments. Continue reading...",
-        "published": "Tue, 02 Jun 2026 07:41:38 GMT",
-        "updated": "2026-06-02T07:41:38Z",
-        "published_at_utc": "2026-06-02T07:41:38+00:00",
-        "id": "https://www.theguardian.com/australia-news/live/2026/jun/02/australia-politics-live-one-nation-minimum-wage-case-labor-coalition-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb",
-        "topic_type": "diplomacy",
-        "relevance_score": 23,
+        "title": "US primary voters choose midterm candidates as Democrats look to flip key seats",
+        "link": "https://www.theguardian.com/us-news/2026/jun/03/primary-elections-midterms-november",
+        "summary": "Democrats seek to oust Republicans in New Jersey and Iowa, while other major races remain up in the air The key race for California governor remained deadlocked as vote counting continued across the US on Wednesday morning following primary elections to decide who would run in several critical districts in the US House and Senate in November, in a midterm year expected to favor Democrats. In California, it was the Republican Steve Hilton, a former UK political operative and Fox News host, who had the most votes, with roughly half of the ballots counted for governor. For the Democrats it was Xavier Becerra, the former health secretary, who led the field after a tumultuous campaign. The California system is such that the two candidates who receive the most votes then face off in the general election, no matter which party they are from. Continue reading...",
+        "published": "Wed, 03 Jun 2026 10:38:20 GMT",
+        "updated": "2026-06-03T10:38:20Z",
+        "published_at_utc": "2026-06-03T10:38:20+00:00",
+        "id": "https://www.theguardian.com/us-news/2026/jun/03/primary-elections-midterms-november",
+        "topic_type": "us_politics",
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "This blog is now closed Get our breaking news email , free app or daily news podcast The foreign minister, Penny Wong , has announced new sanctions by the commonwealth over three Israeli individuals and four entities in response to “escalating settler violence against Palestinians in the West Bank”. The entities will receive targeted financial sanctions while the individuals will receive travel bans to Australia. For the first time, designated entities now include farming outposts that serve as hubs for settler violence. Settler violence is used to displace Palestinians and perpetuate the settlement enterprise, through destruction of property, displacement of families, beatings, sexual assault, and torture, resulting in serious injuries and deaths. This is another beat up. It’s not unusual in tax legislation for the definitions to be settled in what’s called legislative instruments. Continue reading...",
-          "news_focus_zh": "澳洲外交部長彭妮·黃宣布對三名以色列個人及四個實體實施新制裁，以回應約旦河西岸日益嚴重的定居者暴力行為。這些制裁包括針對實體的財務制裁和對個人的旅行禁令。此次制裁首次將農業前哨納入制裁範圍，這些前哨被指控成為定居者暴力的中心，並用以驅逐巴勒斯坦人，造成財產損失、家庭流離失所及人身傷害等嚴重後果。",
-          "background": "近年來，以色列在約旦河西岸的定居活動持續擴大，導致巴勒斯坦社區面臨日益嚴重的暴力與侵害。國際社會對以色列的定居政策表達了強烈關切，並多次呼籲停止這些行為。澳洲政府在此背景下，選擇對相關個人及實體採取制裁措施，顯示其對人權問題的重視及對巴勒斯坦人權益的支持。這些制裁措施反映了澳洲在國際政治中對以色列政策的立場，並試圖透過經濟手段來促進地區和平。",
+          "news_focus": "Democrats seek to oust Republicans in New Jersey and Iowa, while other major races remain up in the air The key race for California governor remained deadlocked as vote counting continued across the US on Wednesday morning following primary elections to decide who would run in several critical districts in the US House and Senate in November, in a midterm year expected to favor Democrats. In California, it was the Republican Steve Hilton, a former UK political operative and Fox News host, who had the most votes, with roughly half of the ballots counted for governor. For the Democrats it was Xavier Becerra, the former health secretary, who led the field after a tumultuous campaign. The California system is such that the two candidates who receive the most votes then face off in the general election, no matter which party they are from. Continue reading...",
+          "news_focus_zh": "美國的初選選民在周三早上選擇了中期選舉的候選人，民主黨希望在新澤西州和愛荷華州推翻共和黨的控制。加州州長的關鍵選舉仍在進行中，投票計算持續進行中。共和黨的史蒂夫·希爾頓目前在投票中領先，而民主黨的哈維爾·貝塞拉則在經歷了一場動盪的競選後，成為民主黨的領先候選人。根據加州的選舉制度，獲得最多票數的兩位候選人將在總選舉中對決，無論其政黨身份。",
+          "background": "此次初選涉及加州、愛荷華州、新澤西州、新墨西哥州、蒙大拿州和南達科他州等多個州的關鍵選舉。隨著中期選舉的臨近，民主黨希望在多個重要地區翻轉席次，尤其是在過去由共和黨控制的地區。加州的選舉制度特別之處在於，無論候選人來自哪個政黨，最終將有兩位得票最高的候選人進入總選舉，這使得競爭格外激烈。民主黨在此次選舉中面臨的挑戰包括如何有效整合資源，並在關鍵州爭取選民支持。",
           "stakeholders": [
-            "澳洲政府",
-            "以色列政府",
-            "巴勒斯坦人權組織",
-            "國際社會",
-            "定居者社群"
+            "民主黨",
+            "共和黨",
+            "加州選民",
+            "選舉監察機構",
+            "媒體"
           ],
-          "analysis": "此次制裁措施的推出，顯示了澳洲政府對於以色列定居者暴力行為的零容忍態度，並試圖透過制裁來施加壓力，促使以色列政府改變其政策。然而，這一舉措可能會引發以色列政府的強烈反對，並可能影響澳洲與以色列的外交關係。支持巴勒斯坦的國際社會可能會對此表示讚賞，但也可能引發對於澳洲在中東政策的更廣泛討論。未來幾個月內，澳洲政府如何應對來自以色列及其支持者的反應，將成為觀察的重點。"
+          "analysis": "在此次初選中，民主黨與共和黨之間的競爭愈發激烈，尤其是在加州的州長選舉中，史蒂夫·希爾頓和哈維爾·貝塞拉各自獲得約26%的選票，顯示出兩位候選人之間的競爭非常接近。參考報導指出，當晚約42%的選票已經部分計算，這可能影響最終結果的走向。民主黨的策略將集中於如何在新澤西和愛荷華等州爭取更多的選票，以便在即將到來的中期選舉中獲得優勢。隨著選舉日的臨近，各方的競選活動將進一步加劇，選民的投票意向將成為關鍵因素。"
         },
-        "topic_priority_score": 7,
-        "event_type": "security_event",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "topic_priority_score": 8,
+        "event_type": "election_move",
+        "supporting_sources": [
+          "Al Jazeera",
+          "The Hindu International"
+        ],
+        "supporting_titles": [
+          "Hilton, Becerra lead California governor race: Key primary election results",
+          "Hilton, Becerra take early lead in California Governor primary race"
+        ],
+        "supporting_summaries": [
+          "California, Iowa, New Jersey, New Mexico, Montana and South Dakota held key primaries on Tuesday.",
+          "They each had about 26% ⁠of the vote with 42% of election night precincts partially reporting about an hour after polls closed, according to official ‌results"
+        ],
+        "supporting_links": [
+          "https://www.aljazeera.com/news/2026/6/3/hilton-becerra-lead-california-governor-race-key-primary-election-results?traffic_source=rss",
+          "https://www.thehindu.com/news/international/california-gubernatorial-governor-primary-race-results-updates/article71055537.ece"
+        ],
+        "source_count": 3
       },
       {
         "category": "politics",
-        "source_name": "Al Jazeera",
-        "title": "Israel kills five in attacks on Lebanon after Trump announces de-escalation",
-        "link": "https://www.aljazeera.com/news/2026/6/2/israel-kills-five-in-attacks-on-lebanon-after-trump-announces-de-escalation?traffic_source=rss",
-        "summary": "The deadly attacks raise concerns about the reported agreement on the cessation of hostilities.",
-        "published": "Tue, 02 Jun 2026 11:25:22 +0000",
-        "updated": "Tue, 02 Jun 2026 11:25:22 +0000",
-        "published_at_utc": "2026-06-02T11:25:22+00:00",
-        "id": "https://www.aljazeera.com/?t=1780391345",
+        "source_name": "The Guardian World",
+        "title": "Trump could slap Australia with 12.5% tariff for allegedly importing goods made by slave labour",
+        "link": "https://www.theguardian.com/us-news/2026/jun/03/trump-could-slap-australia-with-125-tariff-for-allegedly-importing-goods-made-by-slave-labour",
+        "summary": "Trade minister says Australia has ‘robust, comprehensive and world-leading legislation addressing forced labour and modern slavery’ Get our breaking news email , free app or daily news podcast Australia is among dozens of countries facing a 12.5% trade tariff from the Trump administration for allegedly failing to prevent imports of goods made by slave labour. The US trade representative, Jamieson Greer, listed Australia among 54 economies that “failed to impose and effectively enforce a prohibition on the importation of goods produced with forced labor” following an investigation into their practices. Continue reading...",
+        "published": "Wed, 03 Jun 2026 09:29:50 GMT",
+        "updated": "2026-06-03T09:29:50Z",
+        "published_at_utc": "2026-06-03T09:29:50+00:00",
+        "id": "https://www.theguardian.com/us-news/2026/jun/03/trump-could-slap-australia-with-125-tariff-for-allegedly-importing-goods-made-by-slave-labour",
         "topic_type": "us_politics",
-        "relevance_score": 22,
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "The deadly attacks raise concerns about the reported agreement on the cessation of hostilities.",
-          "news_focus_zh": "以色列在黎巴嫩發動攻擊，造成五人死亡，此舉引發對於特朗普宣布的降級協議的擔憂。這一事件發生在緊張局勢加劇的背景下，顯示出地區衝突的持續性與複雜性。",
-          "background": "以色列與黎巴嫩之間的緊張關係由來已久，尤其是與真主黨的衝突。近期，隨著特朗普政府試圖促進中東和平進程，對於停火協議的期待有所增加。然而，地區內的武裝衝突並未因此減少，反而可能因為各方的軍事行動而加劇。以色列軍方在此背景下對黎巴嫩的攻擊，顯示出其對潛在威脅的高度警覺，並且可能反映出對於停火協議的懷疑。",
+          "news_focus": "Trade minister says Australia has ‘robust, comprehensive and world-leading legislation addressing forced labour and modern slavery’ Get our breaking news email , free app or daily news podcast Australia is among dozens of countries facing a 12.5% trade tariff from the Trump administration for allegedly failing to prevent imports of goods made by slave labour. The US trade representative, Jamieson Greer, listed Australia among 54 economies that “failed to impose and effectively enforce a prohibition on the importation of goods produced with forced labor” following an investigation into their practices. Continue reading...",
+          "news_focus_zh": "美國貿易代表Jamieson Greer表示，澳洲因未能有效防止進口使用強迫勞動製造的商品，可能面臨12.5%的貿易關稅。此舉是針對54個國家的調查結果，指出這些國家未能實施和執行禁止進口強迫勞動產品的法規。澳洲貿易部長則回應，表示該國擁有健全且領先的立法來應對強迫勞動和現代奴隸制問題。",
+          "background": "美國對於強迫勞動的關注日益增加，並已針對全球60個國家展開調查，以評估其在禁止進口強迫勞動產品方面的執行力。澳洲在這一背景下被列為未能有效執行相關法規的國家之一。儘管澳洲政府強調其在此議題上的立法努力，但美方的調查結果顯示，仍有改進空間。這一貿易政策的潛在實施可能對澳洲的出口產業造成影響，特別是在農業和礦產等領域。",
           "stakeholders": [
-            "以色列政府",
-            "黎巴嫩政府",
-            "特朗普政府",
-            "真主黨",
-            "國際社會"
+            "美國政府",
+            "澳洲政府",
+            "貿易代表Jamieson Greer",
+            "國際貿易組織",
+            "人權組織"
           ],
-          "analysis": "以色列的攻擊行動可能是對黎巴嫩境內發射的疑似火箭彈的直接回應，這一點在參考報導中有補充說明，指出以色列軍方攔截了來自黎巴嫩的飛行物。此舉不僅顯示出以色列對於國土安全的重視，也可能是對於特朗普政府降級呼籲的挑戰。各方在此事件中的立場可能存在分歧，以色列強調自衛權，而黎巴嫩則可能指責以色列的行動為侵略。未來局勢可能因為持續的軍事衝突而變得更加不穩定，特別是在停火協議的執行上。"
+          "analysis": "澳洲政府對美國的指控表示強烈反對，強調其在打擊強迫勞動方面的立法措施。然而，這一貿易關稅的威脅可能會影響澳洲的貿易關係，尤其是在與美國的經濟往來上。根據參考報導，印度等其他國家也面臨類似的貿易制裁，顯示出美國在全球貿易中對人權問題的重視。不同於澳洲的強烈反對，印度政府則表示將繼續與美方保持溝通，這反映出各國在應對美國貿易政策時的不同策略。未來，若美國持續推動此類政策，可能會引發國際貿易的廣泛反響，並促使更多國家檢視自身的進口政策。"
         },
         "topic_priority_score": 8,
-        "event_type": "security_event",
+        "event_type": "diplomatic_move",
         "supporting_sources": [
           "The Hindu International"
         ],
         "supporting_titles": [
-          "Israel military says intercepted projectiles from Lebanon"
+          "U.S. proposes 12.5% tariff on India and other countries, Indian govt says it ‘remains engaged’ with U.S."
         ],
         "supporting_summaries": [
-          "Israel military said it identified a “suspicious aerial target” that later fell in Israeli territory near the Lebanese border"
+          "The action follows investigations launched against 60 countries over what the USTR described as their failure to impose and effectively enforce bans on imports made with forced labour"
         ],
         "supporting_links": [
-          "https://www.thehindu.com/news/international/israel-military-says-intercepted-projectiles-from-lebanon/article71050915.ece"
+          "https://www.thehindu.com/news/international/ustr-proposes-125-additional-duties-on-india-53-other-countries-over-forced-labour-import-violations/article71055423.ece"
         ],
         "source_count": 2
       },
       {
         "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "First Thing: Defense department bars reporters from Pentagon press room",
-        "link": "https://www.theguardian.com/us-news/2026/jun/02/first-thing-defense-department-bars-reporters-pentagon-press-room",
-        "summary": "Spokesperson claims Trump administration has ‘the most transparent war department in history’ despite ban on journalists using Pentagon facility. Also, more than 1,000 Marilyn Monroes descend on Palm Springs Don’t already get First Thing in your inbox? Sign up here Good morning. In another apparent affront to press freedom from the Trump administration, journalists may no longer enter the Pentagon’s press office , which has been designated as a classified space. How ha ve the media reacted? After the defense department announced sweeping restrictions in October, many longtime reporters refused to agree and began turning over their press passes. The department then announced a “next generation of the Pentagon press corps” featuring 60 journalists from far-right outlets. The New York Times sued the Pentagon over those policies, which designated journalists as “security risks”, and a federal judge found in the Times’s favor in March. What is making the fund controversial? The terms of the fund do not require the disclosure of how much is paid to whom. Chuck Schumer, the US Senate minority leader, said: “Trump’s nearly $2bn Maga slush fund is his most brazen act of self-dealing yet and one of the most corrupt schemes ever launched by a president.” Continue reading...",
-        "published": "Tue, 02 Jun 2026 10:47:45 GMT",
-        "updated": "2026-06-02T10:47:45Z",
-        "published_at_utc": "2026-06-02T10:47:45+00:00",
-        "id": "https://www.theguardian.com/us-news/2026/jun/02/first-thing-defense-department-bars-reporters-pentagon-press-room",
-        "topic_type": "us_politics",
-        "relevance_score": 22,
+        "source_name": "SCMP World",
+        "title": "Chip prodigy returns to China, coal waste used for critical minerals: 7 science highlights",
+        "link": "https://www.scmp.com/news/china/science/article/3355784/chip-prodigy-returns-china-coal-waste-used-critical-minerals-7-science-highlights?utm_source=rss_feed",
+        "summary": "We have put together stories from our coverage on science from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. Chinese archaeologist who discovered 5,000-year-old city pleads guilty to corruption Liu Bin, a Chinese archaeologist credited with discovering a vast 5,000-year-old prehistoric city that rewrote the history of Chinese civilisation, has pleaded guilty to taking bribes and embezzlement. 2. Chip prodigy Da Bo...",
+        "published": "Wed, 03 Jun 2026 07:30:05 +0000",
+        "updated": "Wed, 03 Jun 2026 07:30:05 +0000",
+        "published_at_utc": "2026-06-03T07:30:05+00:00",
+        "id": "https://www.scmp.com/news/china/science/article/3355784/chip-prodigy-returns-china-coal-waste-used-critical-minerals-7-science-highlights?utm_source=rss_feed",
+        "topic_type": "uk_politics",
+        "relevance_score": 18,
         "briefing": {
-          "news_focus": "Spokesperson claims Trump administration has ‘the most transparent war department in history’ despite ban on journalists using Pentagon facility. Also, more than 1,000 Marilyn Monroes descend on Palm Springs Don’t already get First Thing in your inbox? Sign up here Good morning. In another apparent affront to press freedom from the Trump administration, journalists may no longer enter the Pentagon’s press office , which has been designated as a classified space. How ha ve the media reacted? After the defense department announced sweeping restrictions in October, many longtime reporters refused to agree and began turning over their press passes. The department then announced a “next generation of the Pentagon press corps” featuring 60 journalists from far-right outlets. The New York Times sued the Pentagon over those policies, which designated journalists as “security risks”, and a federal judge found in the Times’s favor in March. What is making the fund controversial? The terms of the fund do not require the disclosure of how much is paid to whom. Chuck Schumer, the US Senate minority leader, said: “Trump’s nearly $2bn Maga slush fund is his most brazen act of self-dealing yet and one of the most corrupt schemes ever launched by a president.” Continue reading...",
-          "news_focus_zh": "美國國防部宣布禁止記者進入五角大樓的新聞辦公室，該辦公室現在被指定為機密空間。儘管國防部發言人聲稱特朗普政府是歷史上最透明的戰爭部門，但此舉被視為對新聞自由的又一次挑戰。隨著限制措施的實施，許多記者拒絕接受新規定並交回記者證，導致國防部推出一個新的記者團隊，該團隊主要由極右派媒體的記者組成。",
-          "background": "五角大樓的新聞辦公室長期以來是記者與國防部之間的重要聯繫點。然而，隨著特朗普政府的上任，對媒體的限制逐漸增加。國防部在十月宣布的限制措施引發了廣泛的反彈，許多資深記者選擇交回記者證以示抗議。此舉被認為是對新聞自由的直接威脅，並引發了《紐約時報》的訴訟，該報在三月獲得了有利判決，認為國防部的政策不當地將記者標記為“安全風險”。",
+          "news_focus": "We have put together stories from our coverage on science from the past two weeks to help you stay informed. If you would like to see more of our reporting, please consider subscribing. 1. Chinese archaeologist who discovered 5,000-year-old city pleads guilty to corruption Liu Bin, a Chinese archaeologist credited with discovering a vast 5,000-year-old prehistoric city that rewrote the history of Chinese civilisation, has pleaded guilty to taking bribes and embezzlement. 2. Chip prodigy Da Bo...",
+          "news_focus_zh": "中國考古學家劉彬因貪污和挪用公款認罪，他因發現一座5000年前的史前城市而聞名，這一發現重寫了中國文明的歷史。此外，報導中提到的其他科學亮點包括中國芯片天才回國及煤炭廢料用於提取關鍵礦物等議題。",
+          "background": "劉彬的貪污案引發了對中國考古界的關注，尤其是在國家對文化遺產保護和研究的重視日益增加的背景下。中國在近年來積極推動科技創新，特別是在半導體和關鍵礦物的開發上，這些都是其經濟轉型和自給自足政策的一部分。煤炭廢料的再利用也反映了中國在環境保護和資源循環利用方面的努力，這與全球對可持續發展的重視相呼應。",
           "stakeholders": [
-            "美國國防部",
-            "特朗普政府",
-            "《紐約時報》",
-            "記者團體",
-            "極右派媒體"
+            "中國政府",
+            "考古學界",
+            "科技產業",
+            "環保團體",
+            "公眾"
           ],
-          "analysis": "國防部的這一決定引發了多方反應。支持政府的媒體可能會迎合這一政策，認為這是保護國家安全的必要措施，而反對派則將其視為對新聞自由的侵犯。參考報導指出，國防部發言人強調此舉並不具爭議性，因為該空間現在由使用機密資料的文案撰寫者佔用。這一點與《紐約時報》的訴訟形成對比，後者強調了記者在民主社會中的重要性。隨著對媒體的限制加劇，未來可能會出現更多的法律挑戰和社會反響，進一步影響政府與媒體之間的關係。"
+          "analysis": "劉彬的案件揭示了中國在文化資產管理中的腐敗問題，這可能影響公眾對考古研究的信任度。另一方面，芯片天才的回國可能是中國政府在推動科技自主化方面的策略，顯示出對高科技人才的重視。煤炭廢料用於提取關鍵礦物的做法，可能會引起環保團體的關注，因為這涉及到煤炭產業的環境影響。這些事件反映了中國在科技、環保和文化領域的多重挑戰與機遇，各方利益關係交織，未來可能出現更多政策調整。"
         },
-        "topic_priority_score": 8,
-        "event_type": "security_event",
-        "supporting_sources": [
-          "The Hindu International",
-          "Taipei Times"
-        ],
-        "supporting_titles": [
-          "Pentagon bars journalists from its press office, saying it has become a ’classified space’",
-          "EDITORIAL: Do not ignore AI boom risks"
-        ],
-        "supporting_summaries": [
-          "Acting Pentagon press secretary Joel Valdez confirmed the move, saying there was “nothing controversial” about it and that it came because speechwriters, who use classified material, were now occupying the space",
-          ""
-        ],
-        "supporting_links": [
-          "https://www.thehindu.com/news/international/pentagon-bars-journalists-from-its-press-office-saying-it-has-become-a-classified-space/article71050962.ece",
-          "https://www.taipeitimes.com/News/editorials/archives/2026/06/02/2003858370"
-        ],
-        "source_count": 3
+        "topic_priority_score": 9,
+        "event_type": "political_signal",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       }
     ],
     "economy": [
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Ex-Federal Reserve chair Jerome Powell sounds alarm over political interference",
-        "link": "https://www.theguardian.com/business/2026/jun/01/federal-reserve-jerome-powell-kennedy-award",
-        "summary": "Powell says central bank has been facing ‘stress test’ under Trump, as supreme court weighs decision on Fed governor that president tried to fire Sign up for the Breaking News US newsletter email Jerome Powell , the former chair of the Federal Reserve , has warned that a single act of political interference in monetary policy could permanently destroy public trust in the central bank. As Donald Trump’s administration continues to test the Fed’s longstanding independence, Powell said in a speech on Sunday night that the institution was in the midst of a “stress test”. Continue reading...",
-        "published": "Mon, 01 Jun 2026 15:03:41 GMT",
-        "updated": "2026-06-01T15:03:41Z",
-        "published_at_utc": "2026-06-01T15:03:41+00:00",
-        "id": "https://www.theguardian.com/business/2026/jun/01/federal-reserve-jerome-powell-kennedy-award",
-        "topic_type": "interest_rates",
-        "relevance_score": 19,
+        "source_name": "BBC Business",
+        "title": "US announces new tariffs over forced labour concerns",
+        "link": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
+        "summary": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
+        "published": "Wed, 03 Jun 2026 10:31:12 GMT",
+        "updated": "Wed, 03 Jun 2026 10:31:12 GMT",
+        "published_at_utc": "2026-06-03T10:31:12+00:00",
+        "id": "https://www.bbc.com/news/articles/cq6pe7nvldmo#0",
+        "topic_type": "trade_wars",
+        "relevance_score": 25,
         "briefing": {
-          "news_focus": "Powell says central bank has been facing ‘stress test’ under Trump, as supreme court weighs decision on Fed governor that president tried to fire Sign up for the Breaking News US newsletter email Jerome Powell , the former chair of the Federal Reserve , has warned that a single act of political interference in monetary policy could permanently destroy public trust in the central bank. As Donald Trump’s administration continues to test the Fed’s longstanding independence, Powell said in a speech on Sunday night that the institution was in the midst of a “stress test”. Continue reading...",
-          "news_focus_zh": "前美國聯邦儲備委員會主席鮑威爾警告，政治干預可能會永久摧毀公眾對中央銀行的信任。他指出，在特朗普政府的影響下，聯儲正面臨一場「壓力測試」。這一言論是在特朗普試圖解雇聯儲官員的背景下發表的，最高法院目前正在考慮相關的法律問題。",
-          "background": "美國聯邦儲備系統作為中央銀行，長期以來被視為獨立於政治的機構，旨在制定貨幣政策以促進經濟穩定。然而，特朗普政府的政策和行為對聯儲的獨立性提出了挑戰，特別是在任命和解雇官員方面。這種干預可能導致市場對聯儲的信任下降，進而影響其政策有效性和經濟穩定性。鮑威爾的警告反映了對這一情況的擔憂，尤其是在通脹和經濟增長的背景下。",
+          "news_focus": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
+          "news_focus_zh": "美國宣布針對強迫勞動問題的新關稅，這一決定是在美國最高法院於二月推翻了多項特朗普政府先前的關稅後作出的。此舉顯示美國政府對於強迫勞動的關注，並試圖透過貿易手段施加壓力。",
+          "background": "美國對強迫勞動的關注已經持續多年，並且在特朗普任內曾經實施過多項關稅政策。隨著最高法院的裁決，特朗普的許多關稅被推翻，這使得拜登政府面臨重新評估貿易政策的壓力。根據參考報導，特朗普曾威脅對包括英國、歐盟和澳大利亞在內的60個貿易夥伴徵收10%至12.5%的關稅，這一提案旨在繞過法院的限制，並重振其貿易政策。",
           "stakeholders": [
-            "美國聯邦儲備委員會",
-            "特朗普政府",
-            "市場投資者",
-            "經濟學家",
-            "公眾"
+            "美國政府",
+            "歐盟",
+            "英國",
+            "澳大利亞",
+            "中國"
           ],
-          "analysis": "鮑威爾的警告突顯了政治干預對中央銀行獨立性的重要性，這一觀點在經濟學界廣泛認同。特朗普政府的行為可能會引發市場的不安，投資者對未來的貨幣政策走向感到不確定。參考報導中提到的特朗普提名的官員凱文·沃什，曾被視為通脹鷹派，但其立場似乎隨著政治環境的變化而改變，這進一步顯示了政治影響對聯儲政策的潛在影響。各方對於聯儲獨立性的看法存在分歧，支持者認為應保持其獨立性以確保經濟穩定，而反對者則可能認為政治干預有助於更好地反映民意。"
+          "analysis": "美國新關稅的宣布可能會引發多方反應。首先，特朗普的提案顯示出他仍在試圖影響貿易政策，並且可能會對美國的貿易夥伴造成壓力。根據參考報導，歐盟已經對此表示不滿，認為這違反了去年達成的關稅協議精神。這表明，歐盟可能會考慮採取報復措施，進一步加劇貿易緊張局勢。此外，參考報導指出，這些新關稅可能會影響包括中國在內的多個經濟體，未來的貿易談判將面臨更大的挑戰。"
         },
-        "topic_priority_score": 10,
-        "event_type": "rate_decision",
+        "topic_priority_score": 9,
+        "event_type": "macro_signal",
         "supporting_sources": [
-          "The Economist"
+          "The Guardian Business",
+          "Nikkei Asia"
         ],
         "supporting_titles": [
-          "What will Kevin Warsh’s Federal Reserve look like?"
+          "Trump threatens tariffs on 60 trading partners including UK and Canada over ‘forced labour’",
+          "US floats new tariffs on 60 economies over forced labor, including China"
         ],
         "supporting_summaries": [
-          "Donald Trump’s nominee was an inflation hawk—until he wasn’t"
+          "Proposal for 10-12.5% levies, to also include EU, Taiwan and Australia, would allow US president to skirt court-imposed limits Donald Trump has threatened tariffs of between 10% and 12.5% on 60 trading partners including the UK, the EU and Australia over alleged forced labour failures, in the latest attempt to revive his signature trade policy. The EU immediately hit back, saying it expected the US to respect the tariff deal it entered into last July and arguing that stealth tariffs breached the spirit of that agreement. Continue reading...",
+          ""
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2026/01/30/what-will-kevin-warshs-federal-reserve-look-like"
+          "https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour",
+          "https://asia.nikkei.com/economy/trade-war/trump-tariffs/us-floats-new-tariffs-on-60-economies-over-forced-labor-including-china"
         ],
-        "source_count": 2
+        "source_count": 3,
+        "cross_section_refs": [
+          "politics"
+        ]
       },
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "UK house prices fall for first time this year amid rising mortgage rates",
-        "link": "https://www.theguardian.com/money/2026/jun/01/uk-house-prices-fall-interest-rates-nationwide-savills-iran-war",
-        "summary": "Nationwide finds typical price was £278,024 in May, as Savills says Iran war has ‘fundamentally changed’ outlook Business live – latest updates House prices fell in the UK for the first time this year in May, as rising interest rates triggered by the war in Iran hurt homebuyer demand. The price of the average UK home dropped 0.6% in May compared with the month before, according to the lender Nationwide. Continue reading...",
-        "published": "Mon, 01 Jun 2026 13:49:16 GMT",
-        "updated": "2026-06-01T13:49:16Z",
-        "published_at_utc": "2026-06-01T13:49:16+00:00",
-        "id": "https://www.theguardian.com/money/2026/jun/01/uk-house-prices-fall-interest-rates-nationwide-savills-iran-war",
-        "topic_type": "interest_rates",
-        "relevance_score": 19,
+        "source_name": "SCMP Business",
+        "title": "Global oil stockpiles could fall to ‘critical levels’ by summer, IEA warns",
+        "link": "https://www.scmp.com/economy/china-economy/article/3355796/global-oil-stockpiles-could-fall-critical-levels-summer-iea-warns?utm_source=rss_feed",
+        "summary": "Global oil inventories risk declining to “critical levels” before the peak summer season – and the energy crisis could drag on for months even if a deal is agreed to end the US-Israel war on Iran, according to the International Energy Agency (IEA). While China’s crude reserves remain relatively resilient, its onshore volumes have also begun to fall, analysts said. “We’re seeing stock draws continuing into the summer, and with the possibility or the likelihood that we reach critical levels or...",
+        "published": "Wed, 03 Jun 2026 07:14:29 +0000",
+        "updated": "Wed, 03 Jun 2026 07:14:29 +0000",
+        "published_at_utc": "2026-06-03T07:14:29+00:00",
+        "id": "https://www.scmp.com/economy/china-economy/article/3355796/global-oil-stockpiles-could-fall-critical-levels-summer-iea-warns?utm_source=rss_feed",
+        "topic_type": "energy_markets",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Nationwide finds typical price was £278,024 in May, as Savills says Iran war has ‘fundamentally changed’ outlook Business live – latest updates House prices fell in the UK for the first time this year in May, as rising interest rates triggered by the war in Iran hurt homebuyer demand. The price of the average UK home dropped 0.6% in May compared with the month before, according to the lender Nationwide. Continue reading...",
-          "news_focus_zh": "英國房價在今年五月首次出現下跌，根據Nationwide的數據，平均房價為278,024英鎊，較前一個月下降了0.6%。這一下跌主要是受到伊朗戰爭引發的利率上升影響，進而削弱了購房者的需求。",
-          "background": "近期英國的經濟環境受到多重因素影響，特別是全球地緣政治的變化。伊朗戰爭的爆發導致市場對未來經濟的不確定性增加，進而推高了利率。隨著利率上升，貸款成本也隨之增加，這使得潛在購房者的購買力受到壓制。此外，英國的通脹壓力也在影響消費者的信心，進一步抑制了房地產市場的活躍度。",
+          "news_focus": "Global oil inventories risk declining to “critical levels” before the peak summer season – and the energy crisis could drag on for months even if a deal is agreed to end the US-Israel war on Iran, according to the International Energy Agency (IEA). While China’s crude reserves remain relatively resilient, its onshore volumes have also begun to fall, analysts said. “We’re seeing stock draws continuing into the summer, and with the possibility or the likelihood that we reach critical levels or...",
+          "news_focus_zh": "國際能源署（IEA）警告，全球石油庫存可能在夏季高峰前降至“關鍵水平”，即使美國與以色列結束對伊朗的戰爭達成協議，能源危機仍可能持續數月。分析師指出，中國的原油儲備雖然相對穩定，但其內陸儲量也開始下降，顯示出全球石油供應的緊張局勢。",
+          "background": "隨著全球經濟復甦，對石油的需求持續上升，而地緣政治因素，特別是中東地區的衝突，則進一步加劇了市場的不確定性。IEA的報告強調，若庫存持續下降，將對全球油價產生重大影響，尤其是在夏季駕駛季節來臨之際。中國作為全球最大的原油進口國，其儲備狀況對市場影響深遠，儘管目前仍然相對穩定，但內陸儲量的減少可能預示著未來的供應挑戰。",
           "stakeholders": [
-            "購房者",
-            "房地產開發商",
-            "貸款機構",
-            "政府",
-            "經濟學家"
+            "國際能源署（IEA）",
+            "中國",
+            "石油生產國",
+            "消費國",
+            "市場分析師"
           ],
-          "analysis": "英國房價的下跌反映了市場對未來經濟形勢的擔憂。購房者面對更高的貸款利率，購房需求自然減少，這可能導致房地產市場進一步放緩。房地產開發商和投資者將密切關注市場動態，以調整其策略以應對不斷變化的環境。此外，若利率持續上升，可能會引發更大範圍的經濟影響，包括消費支出減少和經濟增長放緩。這一情況也可能促使政府考慮採取相應的政策措施來穩定市場。"
-        },
-        "topic_priority_score": 10,
-        "event_type": "rate_decision",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "French navy boards Russia-linked oil tanker in Atlantic – video",
-        "link": "https://www.theguardian.com/world/video/2026/jun/01/french-navy-boards-russia-linked-oil-tanker-in-atlantic-video",
-        "summary": "France has released footage that appears to show French naval commandos boarding a ship suspected of being part of Russia's 'shadow fleet' and subject to international sanctions. The French president, Emmanuel Macron, said the operation took place on the tanker, named the Tagor, with support of the UK and in strict compliance with the law of the sea. The French navy confirmed the interception occurred on Sunday Macron says French navy has boarded Russia-linked oil tanker in Atlantic Continue reading...",
-        "published": "Mon, 01 Jun 2026 12:57:53 GMT",
-        "updated": "2026-06-01T12:57:53Z",
-        "published_at_utc": "2026-06-01T12:57:53+00:00",
-        "id": "https://www.theguardian.com/world/video/2026/jun/01/french-navy-boards-russia-linked-oil-tanker-in-atlantic-video",
-        "topic_type": "sanctions",
-        "relevance_score": 19,
-        "briefing": {
-          "news_focus": "France has released footage that appears to show French naval commandos boarding a ship suspected of being part of Russia's 'shadow fleet' and subject to international sanctions. The French president, Emmanuel Macron, said the operation took place on the tanker, named the Tagor, with support of the UK and in strict compliance with the law of the sea. The French navy confirmed the interception occurred on Sunday Macron says French navy has boarded Russia-linked oil tanker in Atlantic Continue reading...",
-          "news_focus_zh": "法國海軍於大西洋攔截了一艘疑似與俄羅斯有關的油輪，該油輪名為Tagor，並受到國際制裁。法國總統馬克宏表示，此次行動在英國的支持下進行，並嚴格遵循海洋法。法國海軍確認此次攔截發生在上週日，並釋放了相關的視頻畫面。",
-          "background": "隨著俄烏衝突的持續，西方國家對俄羅斯實施了一系列經濟制裁，旨在削弱其能源收入。俄羅斯的“影子艦隊”是指那些試圖繞過制裁，繼續運輸石油的船隻。這些行動不僅影響了全球能源市場，也對俄羅斯的經濟造成了壓力。法國的此次行動顯示出其在國際制裁執行中的主動性，並強調了與英國的合作關係。",
-          "stakeholders": [
-            "法國政府",
-            "英國政府",
-            "俄羅斯政府",
-            "國際海事組織",
-            "全球能源市場"
-          ],
-          "analysis": "法國此次攔截行動反映出其在國際制裁執行中的積極角色，並可能引發俄羅斯的強烈反應。根據參考報導，西方國家正試圖削弱俄羅斯的石油收入，這一行動可能有助於進一步打擊俄羅斯的經濟基礎。不同報導的重點在於，The Economist強調了西方國家對俄羅斯影子艦隊的打擊行動及其對油收的影響，而The Guardian則更專注於具體的軍事行動和法律依據。未來，隨著制裁的加強，可能會出現更多類似的攔截行動，並引發國際間的緊張局勢。"
+          "analysis": "IEA的報告指出，全球石油庫存的下降可能導致價格上漲，這與《經濟學人》報導的觀點一致，後者認為伊朗的戰爭可能引發多年的石油衝擊，並推高油價。各方利益關係複雜，生產國希望維持高油價以支持經濟，而消費國則擔心能源成本上升對經濟復甦的影響。若庫存降至關鍵水平，可能會引發市場恐慌，進一步推高價格。未來幾個月，市場將密切關注中東局勢及中國的需求變化，這將對全球油市的穩定性產生深遠影響。"
         },
         "topic_priority_score": 8,
         "event_type": "energy_supply_move",
@@ -361,233 +343,266 @@
           "The Economist"
         ],
         "supporting_titles": [
-          "The West and Ukraine are capsizing Russia’s shadow fleet"
+          "War in Iran could cause the biggest oil shock in years"
         ],
         "supporting_summaries": [
-          "And sinking its oil revenues in the process"
+          "Prices have surged—and may stay high for a while"
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2026/01/27/the-west-and-ukraine-are-capsizing-russias-shadow-fleet"
+          "https://www.economist.com/finance-and-economics/2026/03/01/war-in-iran-could-cause-the-biggest-oil-shock-in-years"
         ],
         "source_count": 2
+      },
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "Cost of living and high street among top priorities for Makerfield voters, poll shows",
+        "link": "https://www.theguardian.com/politics/2026/jun/03/cost-of-living-and-high-streets-among-top-priorities-for-makerfield-voters-poll-shows",
+        "summary": "Exclusive: Research showing Andy Burnham holding slim lead finds honesty in politicians and immigration also rank as important Voters in Makerfield rank the cost of living, declining high streets and public services as among the most important issues locally, with many also disillusioned by the political system and distrustful of politicians, according to new research. The findings come from a focus group, shared exclusively with the Guardian, which was commissioned by 38 Degrees and carried out by JL Partners. The fieldwork took place roughly two weeks ahead of the byelection on 18 June, when the Greater Manchester mayor, Andy Burnham, is hoping to see off a challenge from Reform UK. Continue reading...",
+        "published": "Wed, 03 Jun 2026 10:45:05 GMT",
+        "updated": "2026-06-03T10:45:05Z",
+        "published_at_utc": "2026-06-03T10:45:05+00:00",
+        "id": "https://www.theguardian.com/politics/2026/jun/03/cost-of-living-and-high-streets-among-top-priorities-for-makerfield-voters-poll-shows",
+        "topic_type": "inflation",
+        "relevance_score": 19,
+        "briefing": {
+          "news_focus": "Exclusive: Research showing Andy Burnham holding slim lead finds honesty in politicians and immigration also rank as important Voters in Makerfield rank the cost of living, declining high streets and public services as among the most important issues locally, with many also disillusioned by the political system and distrustful of politicians, according to new research. The findings come from a focus group, shared exclusively with the Guardian, which was commissioned by 38 Degrees and carried out by JL Partners. The fieldwork took place roughly two weeks ahead of the byelection on 18 June, when the Greater Manchester mayor, Andy Burnham, is hoping to see off a challenge from Reform UK. Continue reading...",
+          "news_focus_zh": "根據《衛報》報導，Makerfield的選民在即將舉行的補選中，將生活成本、衰退的商業街和公共服務視為最重要的議題。這項調查顯示，選民對政治體系感到失望，對政客的誠信和移民問題也表達了關注。調查由38 Degrees委託JL Partners進行，結果顯示大曼徹斯特市長安迪·伯納姆在選舉中保持微弱領先。",
+          "background": "Makerfield地區正面臨多重挑戰，包括生活成本上升和商業街的衰退，這些問題對當地經濟和社區生活造成了影響。隨著即將舉行的補選，選民對於公共服務的質量和可及性表達了強烈關切。安迪·伯納姆作為現任市長，面臨來自改革英國黨的挑戰，這使得選民的意見和需求變得更加重要。調查結果反映了選民對政治誠信的渴望，顯示出對現行政治體系的不滿情緒。",
+          "stakeholders": [
+            "Makerfield選民",
+            "安迪·伯納姆",
+            "改革英國黨",
+            "38 Degrees",
+            "JL Partners"
+          ],
+          "analysis": "此次調查結果顯示，Makerfield的選民對生活成本和公共服務的關注程度高於其他議題，這可能會影響補選的結果。安迪·伯納姆若希望在選舉中保持優勢，必須針對這些問題提出具體的解決方案。調查中提到的對政治誠信的需求，可能反映出選民對於政客的信任危機，這對於任何參選者都是一個挑戰。此外，選民對移民問題的關注也可能影響選舉動向，特別是在當前政治環境中，這些議題的敏感性不容忽視。整體而言，Makerfield的選民對於未來的期待和對現有政治體系的不滿，將成為補選的重要變數。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "macro_signal",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
-        "title": "How small businesses can leverage AI",
-        "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-        "source_name": "MIT Technology Review",
-        "published_at_utc": "2026-06-02T09:00:00+00:00",
+        "title": "Palantir Contracts Have Become ‘An Unacceptable Point of Weakness,’ UK Politicians Warn",
+        "link": "https://www.wired.com/story/uk-government-palantir-warning-report/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-02T23:05:00+00:00",
         "relevance_score": 17
       },
       {
-        "title": "How social media is turning African life into content at a cost",
-        "link": "https://www.aljazeera.com/features/2026/6/2/how-social-media-is-turning-african-life-into-content-at-a-cost?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-02T11:19:10+00:00",
+        "title": "OpenAI launches new Codex tools for white-collar work",
+        "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-06-02T16:00:00+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Why VivaTech 2026 is the place to see Europe’s AI strategy take shape",
+        "link": "https://techcrunch.com/2026/06/02/why-vivatech-2026-is-the-place-to-see-europes-ai-strategy-take-shape/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-06-02T15:05:00+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+        "link": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-06-02T22:50:56+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts",
+        "link": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-06-02T18:00:00+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Meta workers can opt out of being tracked at work - but only for half an hour at a time",
+        "link": "https://www.bbc.com/news/articles/c93x0k194yno?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Technology",
+        "published_at_utc": "2026-06-03T10:46:30+00:00",
         "relevance_score": 14
       },
       {
-        "title": "AI costs how much? GitHub Copilot users react to new usage-based pricing system.",
-        "link": "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
+        "title": "How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.",
+        "link": "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
         "source_name": "Ars Technica",
-        "published_at_utc": "2026-06-01T22:18:09+00:00",
-        "relevance_score": 13
+        "published_at_utc": "2026-06-03T10:00:07+00:00",
+        "relevance_score": 14
       },
       {
-        "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
-        "link": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-01T21:40:35+00:00",
-        "relevance_score": 13
+        "title": "Monica Lewinsky Has Always Hated Notifications",
+        "link": "https://www.wired.com/story/monica-lewinsky-user-behavior/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-03T10:00:00+00:00",
+        "relevance_score": 14
       },
       {
-        "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-        "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-01T21:35:00+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-        "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-01T20:03:40+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
-        "link": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-06-01T20:02:31+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Gemini’s new AI agent is about as good as Google’s demo",
-        "link": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-06-01T20:00:00+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
-        "link": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-06-01T18:58:26+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
-        "link": "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
+        "title": "In a surprise launch, China debuts another big rocket designed for reusability",
+        "link": "https://arstechnica.com/space/2026/06/another-falcon-9-lookalike-joins-chinas-growing-roster-of-rockets/",
         "source_name": "Ars Technica",
-        "published_at_utc": "2026-06-01T18:52:19+00:00",
+        "published_at_utc": "2026-06-02T16:05:48+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "Intel CEO says TSMC a ‘partner’ in chip production",
+        "link": "https://www.taipeitimes.com/News/biz/archives/2026/06/03/2003858420",
+        "source_name": "Taipei Times",
+        "published_at_utc": "2026-06-03T00:00:00+00:00",
         "relevance_score": 13
       }
     ],
     "politics": [
       {
-        "title": "Lebanon's U.S. Embassy says Hezbollah accepted U.S. proposal on 'mutual cessation of attacks'",
-        "link": "https://www.thehindu.com/news/international/lebanons-us-embassy-says-hezbollah-accepted-us-proposal-on-mutual-cessation-of-attacks/article71050096.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-02T09:27:46+00:00",
+        "title": "Trump threatens tariffs on 60 trading partners including UK and Canada over ‘forced labour’",
+        "link": "https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-03T10:41:03+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Middle East crisis live: Trump claims Iranian supreme leader is involved in US negotiations",
+        "link": "https://www.theguardian.com/world/live/2026/jun/03/us-israel-iran-war-lebanon-trump-khamenei-netanyahu-hormuz-latest-news-updates",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-03T12:09:24+00:00",
         "relevance_score": 22
       },
       {
-        "title": "West Asia war LIVE: Iran has not yet sent its response to the U.S. in talks, says report",
-        "link": "https://www.thehindu.com/news/international/iran-israel-usa-war-peace-deal-attack-on-hezbollah-lebanon-strait-of-hormuz-june-2-2026/article71050939.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-02T11:06:58+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Aipac affiliate has funded lavish trips to Israel for dozens of Congress members since 7 October, filings reveal",
-        "link": "https://www.theguardian.com/us-news/2026/jun/02/aipac-aief-congress-israel-travel",
+        "title": "Trump says Vance-Rubio ticket for 2028 presidential election would be ‘unbeatable’ – US politics live",
+        "link": "https://www.theguardian.com/us-news/live/2026/jun/03/us-midterm-primaries-politics-donald-trump-california-governor-latest-news-updates",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-02T11:00:03+00:00",
+        "published_at_utc": "2026-06-03T11:50:03+00:00",
         "relevance_score": 20
       },
       {
-        "title": "‘Not the deal promised’: Labor’s Ed Husic questions Aukus pact that will deliver secondhand subs",
-        "link": "https://www.theguardian.com/world/2026/jun/02/aukus-submarines-subs-secondhand-labor-ed-husic-response",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-02T09:29:01+00:00",
+        "title": "How Japan and the Philippines are building a maritime security front against China",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3355849/how-japan-and-philippines-are-building-maritime-security-front-against-china?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-03T11:11:49+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Trump administration proposes 25% tariff to punish Brazil over trade practices",
-        "link": "https://www.thehindu.com/news/international/trump-administration-proposes-25-tariff-to-punish-brazil-over-trade-practices/article71051493.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-02T08:49:54+00:00",
+        "title": "Hezbollah video shows attack on Israeli troops at Lebanon’s Beaufort Castle",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/hezbollah-video-shows-attack-on-israeli-troops-at-lebanons-beaufort-castle?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-06-03T09:22:45+00:00",
         "relevance_score": 20
       },
       {
-        "title": "UK government has failed Palestinian people, says senior Labour MP",
-        "link": "https://www.theguardian.com/politics/2026/jun/02/uk-government-failed-palestinian-people-emily-thornberry",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-02T08:27:29+00:00",
-        "relevance_score": 20
+        "title": "EU and China set for Paris talks this week amid mounting trade war fears",
+        "link": "https://www.scmp.com/news/article/3355859/eu-and-china-set-paris-talks-week-amid-mounting-trade-war-fears?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-03T12:20:43+00:00",
+        "relevance_score": 18
       },
       {
-        "title": "Federal government paid $3.8m in personal protection for then CFMEU administrator",
-        "link": "https://www.theguardian.com/australia-news/2026/jun/02/federal-government-paid-38m-in-personal-protection-for-former-cfmeu-administrator-ntwnfb",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-02T07:36:15+00:00",
-        "relevance_score": 20
+        "title": "South Korea’s ruling party set for local election gains, exit poll shows",
+        "link": "https://www.scmp.com/news/asia/east-asia/article/3355846/south-koreas-ruling-party-set-local-election-gains-exit-poll-shows?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-03T10:38:15+00:00",
+        "relevance_score": 18
       },
       {
-        "title": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
-        "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC World",
-        "published_at_utc": "2026-06-02T07:31:10+00:00",
-        "relevance_score": 20
+        "title": "Federal workers experiencing ‘PTSD-like symptoms’ after unlawful firings by Trump administration",
+        "link": "https://www.theguardian.com/business/2026/jun/03/federal-workers-ptsd-like-symptoms-trump-firings",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-03T10:00:19+00:00",
+        "relevance_score": 18
       },
       {
-        "title": "Israel launches strikes on Lebanon’s Beirut after Hezbollah fires missiles to enter West Asia conflict",
-        "link": "https://www.thehindu.com/news/international/israel-hezbollah-strike-significant-escalation/article70693650.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-02T06:17:21+00:00",
-        "relevance_score": 20
+        "title": "Americans should be reassured by high prices, apparently. Does Trump's team really think we're that stupid | Arwa Mahdawi",
+        "link": "https://www.theguardian.com/commentisfree/2026/jun/03/kevin-hassett-americans-reassured-high-prices-trump-team",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-03T10:00:19+00:00",
+        "relevance_score": 18
       },
       {
-        "title": "Benjamin Netanyahu calls off Lebanon raid after ‘heated’ call with Donald Trump",
-        "link": "https://www.thehindu.com/news/international/benjamin-netanyahu-calls-off-lebanon-raid-after-heated-call-with-donald-trump/article71051047.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-02T03:38:09+00:00",
-        "relevance_score": 20
+        "title": "Israeli official says EU sanctions reveal antisemitism hiding behind 'socially acceptable mask'",
+        "link": "https://www.foxnews.com/world/israeli-official-says-eu-sanctions-reveal-antisemitism-hiding-behind-socially-acceptable-mask",
+        "source_name": "Fox News World",
+        "published_at_utc": "2026-06-03T10:00:12+00:00",
+        "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "AI to drive up UK youth unemployment, as Alphabet raises $80bn for spending splurge – business live",
-        "link": "https://www.theguardian.com/business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates",
+        "title": "Trump threatens tariffs on 60 trading partners including UK and Canada over ‘forced labour’",
+        "link": "https://www.theguardian.com/business/2026/jun/03/trump-threatens-tariffs-60-countries-forced-labour",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-02T11:48:41+00:00",
-        "relevance_score": 25
+        "published_at_utc": "2026-06-03T10:41:03+00:00",
+        "relevance_score": 23
       },
       {
-        "title": "Why Hong Kong is now the launch pad for mainland China’s AI champions",
-        "link": "https://www.scmp.com/business/china-business/article/3355676/why-hong-kong-now-launch-pad-mainland-chinas-ai-champions?utm_source=rss_feed",
+        "title": "GenScript rally underscores China’s rise in cancer drug innovation",
+        "link": "https://www.scmp.com/business/china-business/article/3355777/chinese-biotech-genscript-surges-it-rebuffs-us-lawmakers-allegations?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-02T10:00:15+00:00",
-        "relevance_score": 21
+        "published_at_utc": "2026-06-03T04:14:09+00:00",
+        "relevance_score": 19
       },
       {
-        "title": "How foreign investors should view China’s ‘little giants’ scheme",
-        "link": "https://www.scmp.com/opinion/china-opinion/article/3355376/how-foreign-investors-should-view-chinas-little-giants-scheme?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-02T08:30:05+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Despite what the UK right will tell you, appeasing bond markets has actually led to instability | Andy Beckett",
-        "link": "https://www.theguardian.com/commentisfree/2026/jun/02/uk-right-bond-markets-instability-austerity-populism",
+        "title": "Chip, chip ... boom? South Korea tech makers join the trillion-dollar club but some fear a short-circuit looms",
+        "link": "https://www.theguardian.com/world/2026/jun/03/south-korea-ai-boom-tech-companies-trillion-dollar-club-kospi-",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-02T05:00:38+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-06-03T02:43:43+00:00",
+        "relevance_score": 19
       },
       {
-        "title": "AI, biotech and new energy likely targets of HKIC yuan fund",
-        "link": "https://www.scmp.com/business/article/3355713/ai-biotech-and-new-energy-likely-targets-hkic-yuan-fund?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-02T10:30:09+00:00",
+        "title": "French navy boards Russia-linked oil tanker in Atlantic – video",
+        "link": "https://www.theguardian.com/world/video/2026/jun/01/french-navy-boards-russia-linked-oil-tanker-in-atlantic-video",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-01T12:57:53+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Iran’s inflation hits World War II levels, deepening economic pain",
+        "link": "https://www.thehindu.com/news/international/iran-economic-crisis-inflation-rial-collapse-2026/article71052646.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-02T13:31:53+00:00",
         "relevance_score": 17
       },
       {
-        "title": "Orbán’s oligarchs on edge as Hungary poised to launch wealth tax",
-        "link": "https://www.theguardian.com/world/2026/jun/02/orban-oligarchs-on-edge-hungary-wealth-tax-peter-magyar",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-02T05:00:39+00:00",
+        "title": "US floats new tariffs on 60 economies over forced labor, including China",
+        "link": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/us-floats-new-tariffs-on-60-economies-over-forced-labor-including-china",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
         "relevance_score": 17
       },
       {
         "title": "Third of people say uni degree not worth it, as student loan inquiry begins",
         "link": "https://www.bbc.com/news/articles/c2e29gk73rjo?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC Business",
-        "published_at_utc": "2026-06-01T23:09:45+00:00",
+        "published_at_utc": "2026-06-02T12:38:59+00:00",
         "relevance_score": 15
       },
       {
-        "title": "Reeves examines using private sector funds to speed building of new towns",
-        "link": "https://www.theguardian.com/society/2026/jun/01/rachel-reeves-private-sector-deals-new-towns-ppp",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-01T12:47:40+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "‘It’s never enough’: young Americans struggle to build financial independence as cost of living spikes",
-        "link": "https://www.theguardian.com/us-news/2026/may/31/young-adults-financial-independence-affordability-crisis",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-05-31T12:00:47+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "American IP probe against Vietnam seen as much about trade deficit as fakes",
-        "link": "https://asia.nikkei.com/economy/trade-war/american-ip-probe-against-vietnam-seen-as-much-about-trade-deficit-as-fakes",
+        "title": "Retail forex investors flock to Aussie over US dollar trades against yen",
+        "link": "https://asia.nikkei.com/business/markets/currencies/retail-forex-investors-flock-to-aussie-over-us-dollar-trades-against-yen",
         "source_name": "Nikkei Asia",
         "published_at_utc": "",
         "relevance_score": 15
+      },
+      {
+        "title": "Japan's local banks flee China for Singapore, India as supply chains shift",
+        "link": "https://asia.nikkei.com/business/finance/japan-s-local-banks-flee-china-for-singapore-india-as-supply-chains-shift",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
+        "relevance_score": 14
+      },
+      {
+        "title": "Why Hong Kong is now the launch pad for mainland China’s AI champions",
+        "link": "https://www.scmp.com/business/china-business/article/3355676/why-hong-kong-now-launch-pad-mainland-chinas-ai-champions?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-02T10:00:15+00:00",
+        "relevance_score": 13
       }
     ]
   },
