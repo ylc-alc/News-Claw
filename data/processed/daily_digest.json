@@ -1,25 +1,25 @@
 {
-  "generated_at_utc": "2026-06-04T10:54:06.949864+00:00",
+  "generated_at_utc": "2026-06-05T11:17:39.717859+00:00",
   "summary": {
-    "total_raw_items": 1058,
-    "total_deduped_items": 1039,
+    "total_raw_items": 1069,
+    "total_deduped_items": 1052,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
+        "social_media",
         "chips",
-        "chips",
-        "chips"
+        "ai"
       ],
       "politics": [
-        "war_and_conflict",
         "diplomacy",
-        "diplomacy"
+        "diplomacy",
+        "us_politics"
       ],
       "economy": [
         "sanctions",
-        "trade_wars",
-        "supply_chain"
+        "markets",
+        "markets"
       ]
     },
     "multi_source_selected_count": 6
@@ -28,124 +28,108 @@
     "technology": [
       {
         "category": "technology",
-        "source_name": "SCMP Business",
-        "title": "More US firms turn to China’s DeepSeek over pricey Silicon Valley AI",
-        "link": "https://www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai?utm_source=rss_feed",
-        "summary": "Chinese artificial intelligence start-up DeepSeek took the top spot on a major US business spending index in June, as more companies swap out expensive American options like OpenAI and Anthropic in favour of more affordable alternatives. According to a “trending software vendors” list from New York-based corporate spending platform Ramp – which tracks when businesses buy from a software vendor for the first time – DeepSeek’s rise placed it ahead of event-management platform PheedLoop and...",
-        "published": "Thu, 04 Jun 2026 07:00:10 +0000",
-        "updated": "Thu, 04 Jun 2026 07:00:10 +0000",
-        "published_at_utc": "2026-06-04T07:00:10+00:00",
-        "id": "https://www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai?utm_source=rss_feed",
-        "topic_type": "chips",
-        "relevance_score": 21,
+        "source_name": "MIT Technology Review",
+        "title": "The Meta hack shows there’s more to AI security than Mythos",
+        "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+        "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran…",
+        "published": "Fri, 05 Jun 2026 09:00:00 +0000",
+        "updated": "Fri, 05 Jun 2026 09:00:00 +0000",
+        "published_at_utc": "2026-06-05T09:00:00+00:00",
+        "id": "https://www.technologyreview.com/?p=1138437",
+        "topic_type": "social_media",
+        "relevance_score": 22,
         "briefing": {
-          "news_focus": "Chinese artificial intelligence start-up DeepSeek took the top spot on a major US business spending index in June, as more companies swap out expensive American options like OpenAI and Anthropic in favour of more affordable alternatives. According to a “trending software vendors” list from New York-based corporate spending platform Ramp – which tracks when businesses buy from a software vendor for the first time – DeepSeek’s rise placed it ahead of event-management platform PheedLoop and...",
-          "news_focus_zh": "中國人工智慧初創公司DeepSeek在美國商業支出指數中名列前茅，顯示越來越多美國企業選擇其相對便宜的產品，取代昂貴的美國選項如OpenAI和Anthropic。根據美國企業支出平台Ramp的數據，DeepSeek的崛起使其超越了其他平台，成為當前最受歡迎的軟體供應商之一。",
-          "background": "隨著人工智慧技術的快速發展，許多企業面臨著高昂的技術成本，尤其是來自矽谷的解決方案。這促使企業尋求更具成本效益的替代品，尤其是在全球市場中，許多新興的AI基礎設施正在形成。根據參考報導，印度、巴西、阿聯酋及非洲等地的本地技術堆疊正是為了應對計算資源的稀缺而設計，這顯示出全球AI創新正在向外擴展，挑戰傳統的矽谷主導地位。",
+          "news_focus": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran…",
+          "news_focus_zh": "根據404 Media的報導，Meta的AI客戶支持代理被攻擊者利用，進行Instagram帳戶盜竊。攻擊者透過簡單的方式，要求代理將帳戶連結到他們控制的電子郵件地址，代理則照做。此事件中，一名攻擊者甚至成功入侵了休眠中的奧巴馬白宮帳戶，並發佈親伊朗的內容。",
+          "background": "隨著人工智慧技術在各行各業的應用日益普及，AI安全問題逐漸成為焦點。Meta作為一家全球領先的科技公司，致力於利用AI技術提升客戶服務，但這也使其面臨新的安全挑戰。AI客戶支持代理的設計初衷是為了提高用戶體驗，然而若未能妥善防範，則可能成為攻擊者的工具，導致用戶資料洩露及帳戶被盜。這一事件突顯了AI系統在安全性上的潛在漏洞，並引發業界對AI安全性及其應用範圍的廣泛討論。",
           "stakeholders": [
-            "DeepSeek",
-            "美國企業",
-            "OpenAI",
-            "Anthropic",
-            "Ramp"
+            "Meta",
+            "攻擊者",
+            "Instagram用戶",
+            "AI安全專家",
+            "政策制定者"
           ],
-          "analysis": "DeepSeek的成功反映了美國企業對成本效益的重視，尤其是在當前經濟環境下，企業更傾向於尋找價格合理的解決方案。這一趨勢可能會促使更多中國及其他國家的AI公司進一步擴展其市場份額，挑戰美國科技公司的主導地位。參考報導指出，全球多地的AI創新正在興起，這表明市場競爭正在加劇，並可能導致技術的多元化發展。各方利益關係中，美國企業希望降低成本，而中國及新興市場的企業則希望擴大影響力，這將改變未來的科技格局。"
+          "analysis": "此次事件揭示了AI技術在安全性方面的重大挑戰。攻擊者利用Meta的AI系統進行帳戶盜竊，顯示出AI在客戶支持中的應用可能被惡意利用。Meta需要重新評估其AI系統的安全性，並加強相關防護措施，以防止類似事件再次發生。此外，這也引發了對AI倫理及責任的討論，特別是在如何平衡技術創新與用戶安全之間的矛盾。業界專家可能會呼籲制定更嚴格的規範，以確保AI技術的安全使用，並防止未來的安全漏洞。"
         },
-        "topic_priority_score": 10,
+        "topic_priority_score": 6,
         "event_type": "strategic_move",
-        "supporting_sources": [
-          "Rest of World"
-        ],
-        "supporting_titles": [
-          "Scarcity is driving AI innovation outside Silicon Valley"
-        ],
-        "supporting_summaries": [
-          "New AI infrastructure is emerging in India, Brazil, the UAE, and Africa, where local stacks are designed to get around compute scarcity."
-        ],
-        "supporting_links": [
-          "https://restofworld.org/2026/scarcity-is-driving-ai-innovation-outside-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-        ],
-        "source_count": 2
-      },
-      {
-        "category": "technology",
-        "source_name": "Rest of World",
-        "title": "Scarcity is driving AI innovation outside Silicon Valley",
-        "link": "https://restofworld.org/2026/scarcity-is-driving-ai-innovation-outside-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "summary": "New AI infrastructure is emerging in India, Brazil, the UAE, and Africa, where local stacks are designed to get around compute scarcity.",
-        "published": "Thu, 04 Jun 2026 10:00:00 +0000",
-        "updated": "Thu, 04 Jun 2026 10:00:00 +0000",
-        "published_at_utc": "2026-06-04T10:00:00+00:00",
-        "id": "https://restofworld.org/2026/scarcity-is-driving-ai-innovation-outside-silicon-valley/",
-        "topic_type": "chips",
-        "relevance_score": 19,
-        "briefing": {
-          "news_focus": "New AI infrastructure is emerging in India, Brazil, the UAE, and Africa, where local stacks are designed to get around compute scarcity.",
-          "news_focus_zh": "隨著計算資源的稀缺性影響，印度、巴西、阿聯酋及非洲等地正在興起新的人工智慧基礎設施，這些地方的本地技術堆疊旨在繞過計算資源的限制，推動當地的AI創新。",
-          "background": "在全球科技競爭中，計算資源的稀缺性已成為一個重要挑戰，尤其是在發展中國家。這些國家面臨著高昂的雲計算成本，促使他們尋求本地化的解決方案。印度、巴西、阿聯酋及非洲等地的企業和初創公司正努力建立本地的AI基礎設施，以滿足日益增長的需求，並減少對外部供應商的依賴。這一趨勢不僅有助於降低成本，還能促進當地技術的發展和創新。",
-          "stakeholders": [
-            "印度企業",
-            "巴西企業",
-            "阿聯酋企業",
-            "非洲企業",
-            "中國DeepSeek"
-          ],
-          "analysis": "各國在AI基礎設施的發展上展現出不同的利益動態。印度和巴西等國的企業正試圖利用本地資源來克服計算資源的不足，這可能會導致他們在全球市場中獲得更大的競爭優勢。參考報導中提到的中國初創公司DeepSeek的崛起，顯示出美國企業正在轉向更具成本效益的選擇，這可能會影響美國科技公司的市場份額。這兩者之間的動態顯示出全球AI市場正在發生變化，企業在選擇供應商時越來越重視成本效益，而非僅僅依賴於傳統的美國科技公司。"
-        },
-        "topic_priority_score": 10,
-        "event_type": "strategic_move",
-        "supporting_sources": [
-          "SCMP Business"
-        ],
-        "supporting_titles": [
-          "More US firms turn to China’s DeepSeek over pricey Silicon Valley AI"
-        ],
-        "supporting_summaries": [
-          "Chinese artificial intelligence start-up DeepSeek took the top spot on a major US business spending index in June, as more companies swap out expensive American options like OpenAI and Anthropic in favour of more affordable alternatives. According to a “trending software vendors” list from New York-based corporate spending platform Ramp – which tracks when businesses buy from a software vendor for the first time – DeepSeek’s rise placed it ahead of event-management platform PheedLoop and..."
-        ],
-        "supporting_links": [
-          "https://www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai?utm_source=rss_feed"
-        ],
-        "source_count": 2
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       },
       {
         "category": "technology",
         "source_name": "SCMP World",
-        "title": "A Chinese robotics start-up beat Nvidia on a global AI ranking. Is a new tech war brewing?",
-        "link": "https://www.scmp.com/tech/article/3355838/chinese-robotics-start-beat-nvidia-global-ai-ranking-new-tech-war-brewing?utm_source=rss_feed",
-        "summary": "As artificial intelligence steps out of the digital realm and into the real world, the race to build the embodied “brains” powering next-generation robots has become the newest battleground in tech competition between China and the United States. Two days after US chip giant Nvidia launched its Cosmos 3 model – designed to help physical AI “think before it acts” – a Chinese start-up stole the spotlight. On Wednesday, Hangzhou, Zhejiang province-based Spirit AI said its foundation model for...",
-        "published": "Thu, 04 Jun 2026 01:00:08 +0000",
-        "updated": "Thu, 04 Jun 2026 01:00:08 +0000",
-        "published_at_utc": "2026-06-04T01:00:08+00:00",
-        "id": "https://www.scmp.com/tech/article/3355838/chinese-robotics-start-beat-nvidia-global-ai-ranking-new-tech-war-brewing?utm_source=rss_feed",
+        "title": "Chinese satellite company releases images of Nvidia, Apple HQs",
+        "link": "https://www.scmp.com/news/china/science/article/3355930/chinese-satellite-company-releases-images-nvidia-apple-hqs?utm_source=rss_feed",
+        "summary": "After it was sanctioned by the US government for allegedly helping Iran, a Chinese satellite company has released high-definition images of the Nvidia and Apple headquarters in California’s Silicon Valley. They were among photos posted on social media on Monday by Changguang Satellite based in Changchun, in northeast China. The satellite images – captured by the company’s Jilin-1 constellation – offer a detailed bird’s-eye view of the region. They include the futuristic Endeavour and Voyager...",
+        "published": "Thu, 04 Jun 2026 22:00:06 +0000",
+        "updated": "Thu, 04 Jun 2026 22:00:06 +0000",
+        "published_at_utc": "2026-06-04T22:00:06+00:00",
+        "id": "https://www.scmp.com/news/china/science/article/3355930/chinese-satellite-company-releases-images-nvidia-apple-hqs?utm_source=rss_feed",
         "topic_type": "chips",
         "relevance_score": 19,
         "briefing": {
-          "news_focus": "As artificial intelligence steps out of the digital realm and into the real world, the race to build the embodied “brains” powering next-generation robots has become the newest battleground in tech competition between China and the United States. Two days after US chip giant Nvidia launched its Cosmos 3 model – designed to help physical AI “think before it acts” – a Chinese start-up stole the spotlight. On Wednesday, Hangzhou, Zhejiang province-based Spirit AI said its foundation model for...",
-          "news_focus_zh": "中國杭州的機器人初創公司Spirit AI在全球人工智慧排名中超越了美國芯片巨頭Nvidia，成為焦點。此事件發生在Nvidia推出其新款Cosmos 3模型的兩天後，該模型旨在幫助實體AI在行動前進行思考。Spirit AI的基礎模型被認為是推動下一代機器人技術的重要突破，顯示出中美之間在科技競爭中的新動態。",
-          "background": "隨著人工智慧技術的迅速發展，特別是在機器人領域，全球科技競爭愈發激烈。美國在AI硬體和軟體方面長期佔據領先地位，Nvidia作為主要的AI芯片供應商，推出的Cosmos 3模型被視為其在市場上的一大創新。然而，中國在這一領域的投資和技術進步也不容小覷，尤其是在機器人和自動化技術方面。Spirit AI的崛起顯示出中國企業在AI技術上的迅速進步，可能會改變全球科技格局。",
+          "news_focus": "After it was sanctioned by the US government for allegedly helping Iran, a Chinese satellite company has released high-definition images of the Nvidia and Apple headquarters in California’s Silicon Valley. They were among photos posted on social media on Monday by Changguang Satellite based in Changchun, in northeast China. The satellite images – captured by the company’s Jilin-1 constellation – offer a detailed bird’s-eye view of the region. They include the futuristic Endeavour and Voyager...",
+          "news_focus_zh": "中國衛星公司長光衛星在美國政府對其因涉嫌協助伊朗而實施制裁後，發布了高解析度的Nvidia和Apple總部影像。這些影像是由該公司位於中國東北的吉林一號衛星星座拍攝，並於週一在社交媒體上發布，提供了該地區的詳細鳥瞰圖。",
+          "background": "長光衛星是中國的一家衛星影像公司，專注於高解析度地球觀測技術。該公司近期因被指控協助伊朗而受到美國的制裁，這使得其在國際市場上的運作受到影響。美國對中國科技企業的監管日益嚴格，尤其是在涉及國家安全和技術轉移的問題上。此次發布的衛星影像，可能是該公司在面對制裁後的一種反制措施，旨在展示其技術能力和市場影響力。",
           "stakeholders": [
-            "Spirit AI",
+            "長光衛星",
             "Nvidia",
-            "中國政府",
+            "Apple",
             "美國政府",
-            "全球科技企業"
+            "中國科技企業"
           ],
-          "analysis": "Spirit AI的成功標誌著中國在AI技術上的快速進步，這可能引發中美之間新一輪的科技競爭。Nvidia的Cosmos 3模型專注於提升AI的決策能力，而Spirit AI的基礎模型則可能在實體機器人應用上有更大的突破。這一競爭不僅涉及技術創新，還可能影響到全球供應鏈和市場格局。參考報導提到的Majorana 2芯片，雖然未直接與Spirit AI的模型比較，但顯示出Nvidia在持續推出新技術以維持其市場地位。各方的技術進步可能會導致更激烈的市場競爭，並引發政策和經濟上的反應。"
+          "analysis": "長光衛星發布Nvidia和Apple總部的影像，可能意在強調其技術實力，並在制裁背景下尋求國際關注。這一行為可能會引發美國科技公司的警覺，因為這些影像的發布可能被視為對其商業運作的監視與挑戰。此外，這也可能加劇中美之間在科技領域的緊張關係，特別是在衛星影像和數據收集技術的應用上。各方可能會對此事件的意圖和後果有不同解讀，特別是美國政府和中國企業之間的利益衝突將持續影響未來的科技合作與競爭。"
         },
         "topic_priority_score": 10,
         "event_type": "product_launch",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "Wired",
+        "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
+        "link": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
+        "summary": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”",
+        "published": "Fri, 05 Jun 2026 10:30:00 +0000",
+        "updated": "Fri, 05 Jun 2026 10:30:00 +0000",
+        "published_at_utc": "2026-06-05T10:30:00+00:00",
+        "id": "6a1f0c2a17089511ccc0b20c",
+        "topic_type": "ai",
+        "relevance_score": 17,
+        "briefing": {
+          "news_focus": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”",
+          "news_focus_zh": "OpenAI與Anthropic雖然是競爭對手，但投資者並不偏向於選擇一方。風險投資家指出，投資這兩家公司就像同時投資可口可樂和百事可樂，顯示出市場對於人工智慧領域的多元化投資策略。",
+          "background": "隨著人工智慧技術的迅速發展，OpenAI與Anthropic成為該領域的主要競爭者。OpenAI以其強大的GPT系列模型而聞名，而Anthropic則專注於安全和可控的AI系統。投資者對這些公司的興趣日益增加，尤其是在市場對AI應用的需求持續增長的背景下。這種情況使得投資者不再僅僅依賴於單一公司的成功，而是選擇同時支持多家競爭者，以分散風險並捕捉潛在的市場機會。",
+          "stakeholders": [
+            "OpenAI",
+            "Anthropic",
+            "風險投資家",
+            "股市投資者",
+            "人工智慧產業"
+          ],
+          "analysis": "投資者的策略反映了對人工智慧市場的信心，並認識到該領域的多樣性與潛力。雖然OpenAI和Anthropic在技術路線上存在競爭，但他們的不同專注點可能使得市場能夠容納這兩家公司。參考報導中提到的股市消化能力問題，暗示著市場可能面臨過度擴張的風險，這可能影響投資者的長期回報。不同報導的重點在於，主新聞強調了投資者的多元化策略，而參考報導則關注於市場的整體健康與可持續性，這顯示出對於未來市場動態的不同關注點。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "strategic_move",
         "supporting_sources": [
-          "BBC Technology"
+          "The Economist"
         ],
         "supporting_titles": [
-          "Tech Life"
+          "Can the stockmarket swallow SpaceX, Anthropic and OpenAI?"
         ],
         "supporting_summaries": [
-          "The tech company announces its new Majorana 2 chip."
+          "Watch out for indigestion"
         ],
         "supporting_links": [
-          "https://www.bbc.co.uk/sounds/play/w3ct8jxy?at_medium=RSS&at_campaign=rss"
+          "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-spacex-anthropic-and-openai"
         ],
         "source_count": 2
       }
@@ -153,120 +137,116 @@
     "politics": [
       {
         "category": "politics",
-        "source_name": "BBC World",
-        "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
-        "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-        "summary": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says.",
-        "published": "Thu, 04 Jun 2026 07:49:33 GMT",
-        "updated": "Thu, 04 Jun 2026 07:49:33 GMT",
-        "published_at_utc": "2026-06-04T07:49:33+00:00",
-        "id": "https://www.bbc.com/news/articles/c5y01pdqvkgo#0",
-        "topic_type": "war_and_conflict",
-        "relevance_score": 22,
+        "source_name": "SCMP World",
+        "title": "‘Another empty promise’: Quad’s proposed Fiji port project raises doubts",
+        "link": "https://www.scmp.com/week-asia/politics/article/3356101/another-empty-promise-quads-proposed-fiji-port-project-raises-doubts?utm_source=rss_feed",
+        "summary": "A proposal by the Quad to build a port in Fiji, seen by analysts as a move to counter China’s rising economic clout in the Pacific region, has fuelled doubts about whether the four-member security bloc is committed to completing the project amid differing policy priorities. At a meeting of the Quadrilateral Security Dialogue, or Quad, in New Delhi last week, the foreign ministers of Australia, India, Japan and the United States – Penny Wong, S. Jaishankar, Toshimitsu Motegi and US Secretary of...",
+        "published": "Fri, 05 Jun 2026 08:58:33 +0000",
+        "updated": "Fri, 05 Jun 2026 08:58:33 +0000",
+        "published_at_utc": "2026-06-05T08:58:33+00:00",
+        "id": "https://www.scmp.com/week-asia/politics/article/3356101/another-empty-promise-quads-proposed-fiji-port-project-raises-doubts?utm_source=rss_feed",
+        "topic_type": "diplomacy",
+        "relevance_score": 25,
         "briefing": {
-          "news_focus": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says.",
-          "news_focus_zh": "以色列和黎巴嫩在美國的主導下達成了停火框架，條件是真主黨必須停止對以色列的攻擊。美方強調，任何國家或非國家行為者都不應該將黎巴嫩的未來作為人質，這表明了對黎巴嫩主權的支持。",
-          "background": "以色列和黎巴嫩之間的緊張關係由來已久，特別是由於真主黨的武裝活動。近期，隨著衝突升級，雙方的軍事行動加劇，導致民眾恐慌和人道危機。美國在此背景下介入，試圖促成停火，以防止局勢進一步惡化。美方的立場強調了對黎巴嫩主權的尊重，並希望透過外交手段解決衝突。",
+          "news_focus": "A proposal by the Quad to build a port in Fiji, seen by analysts as a move to counter China’s rising economic clout in the Pacific region, has fuelled doubts about whether the four-member security bloc is committed to completing the project amid differing policy priorities. At a meeting of the Quadrilateral Security Dialogue, or Quad, in New Delhi last week, the foreign ministers of Australia, India, Japan and the United States – Penny Wong, S. Jaishankar, Toshimitsu Motegi and US Secretary of...",
+          "news_focus_zh": "四國安全對話（Quad）在新德里會議上提出在斐濟建設港口的計畫，旨在對抗中國在太平洋地區的經濟影響力。然而，分析師對該計畫的實現表示懷疑，認為四國成員在政策優先事項上存在差異，可能影響項目的推進。這使得該提案被視為又一空洞的承諾。",
+          "background": "四國安全對話（Quad）由美國、澳大利亞、日本和印度組成，旨在加強成員國之間的安全合作，並應對中國在亞太地區日益增長的影響力。隨著中國在太平洋地區的經濟活動增加，Quad成員國試圖透過基礎設施投資來增強其在該地區的存在。斐濟作為太平洋島國，對於這一戰略尤為重要，因為它可以作為反制中國影響力的前哨。然而，成員國在資金來源、技術支持及政策協調上存在不同的優先考量，這使得該港口計畫的具體實施充滿不確定性。",
           "stakeholders": [
-            "以色列",
-            "黎巴嫩",
-            "真主黨",
             "美國",
-            "國際社會"
+            "澳大利亞",
+            "日本",
+            "印度",
+            "斐濟"
           ],
-          "analysis": "此次停火框架的達成，雖然是美國外交努力的結果，但真主黨的缺席使得執行的可行性受到質疑。真主黨是否會遵守停火協議仍然是個未知數，這可能會影響以色列和黎巴嫩的安全局勢。此外，根據參考報導，最近以色列對黎巴嫩南部的攻擊造成了多名死傷，這使得停火的前景更加複雜。各方在此問題上的立場存在差異，以色列希望通過強硬手段迫使真主黨退讓，而黎巴嫩則希望能夠維護國內穩定，避免進一步的軍事衝突。"
+          "analysis": "Quad成員國在斐濟港口建設計畫上的分歧反映出各國對於如何應對中國影響力的不同策略。美國和澳大利亞可能更傾向於加強軍事和經濟合作，而日本和印度則可能更關注於自身的經濟利益和外交政策的獨立性。參考報導提到日本正逐步成為亞洲的新權力中介，這可能影響其在Quad中的角色及對斐濟計畫的支持程度。若Quad無法在政策上達成共識，將可能導致該計畫的流產，進一步削弱其在太平洋地區的影響力。"
         },
-        "topic_priority_score": 11,
+        "topic_priority_score": 7,
         "event_type": "security_event",
         "supporting_sources": [
-          "Al Jazeera",
-          "The Hindu International"
+          "Taipei Times"
         ],
         "supporting_titles": [
-          "Israel and Lebanon agree on ceasefire framework in US-led talks",
-          "Israel kills 8 in southern Lebanon, a day after Trump said Israel and Hezbollah to de-escalate"
+          "Japan is stepping up as Asia’s new powerbroker"
         ],
         "supporting_summaries": [
-          "The US announced an Israel-Lebanon ceasefire framework, but Hezbollah's absence leaves questions over enforcement.",
-          "Israel threatened on June 1 to strike Beirut's southern suburbs, causing panic in the Lebanese capital as thousands fled to safer areas and Hezbollah fired rockets at northern Israel"
+          ""
         ],
         "supporting_links": [
-          "https://www.aljazeera.com/video/newsfeed/2026/6/4/israel-and-lebanon-agree-on-ceasefire-framework-in-us-led-talks?traffic_source=rss",
-          "https://www.thehindu.com/news/international/israel-kills-8-in-southern-lebanon-a-day-after-trump-said-israel-and-hezbollah-to-de-escalate/article71054347.ece"
+          "https://www.taipeitimes.com/News/editorials/archives/2026/06/05/2003858551"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "politics",
+        "source_name": "SCMP World",
+        "title": "Xi heads to North Korea, tech transfer clampdown, inflation pickup",
+        "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3356076/xi-heads-north-korea-tech-transfer-clampdown-inflation-pickup?utm_source=rss_feed",
+        "summary": "Chinese President Xi Jinping will make a state visit to North Korea next week, his first overseas trip this year and his first to the hermit nation since 2019. The trip will take place on Monday and Tuesday, Xinhua said without elaboration. Xi’s last official overseas excursion was to South Korea in October, when he met US President Donald Trump and attended a regional summit. Xi’s visit underscores a rebound in relations with China’s only formal ally following relative isolation during the...",
+        "published": "Fri, 05 Jun 2026 09:00:06 +0000",
+        "updated": "Fri, 05 Jun 2026 09:00:06 +0000",
+        "published_at_utc": "2026-06-05T09:00:06+00:00",
+        "id": "https://www.scmp.com/plus/news/china/diplomacy/article/3356076/xi-heads-north-korea-tech-transfer-clampdown-inflation-pickup?utm_source=rss_feed",
+        "topic_type": "diplomacy",
+        "relevance_score": 23,
+        "briefing": {
+          "news_focus": "Chinese President Xi Jinping will make a state visit to North Korea next week, his first overseas trip this year and his first to the hermit nation since 2019. The trip will take place on Monday and Tuesday, Xinhua said without elaboration. Xi’s last official overseas excursion was to South Korea in October, when he met US President Donald Trump and attended a regional summit. Xi’s visit underscores a rebound in relations with China’s only formal ally following relative isolation during the...",
+          "news_focus_zh": "中國國家主席習近平將於下週一和二對北韓進行國事訪問，這是他自2019年以來首次造訪該國，也是他今年的首次海外行程。此次訪問強調了中北兩國在經歷相對孤立後的關係回暖。習近平上一次的官方海外行程是在去年十月，當時他前往南韓與美國總統特朗普會晤並參加區域峰會。",
+          "background": "習近平的訪問背景涉及中北兩國的外交關係。北韓近年來因核武發展受到國際社會的制裁，與中國的關係變得尤為重要。中國是北韓唯一的正式盟友，兩國在經濟和安全上有著密切的合作。此次訪問的時間點也特別引人注目，因為北韓最近揭示了一個新的核燃料生產設施，顯示出其在核武器發展上的進一步行動，這可能會影響地區安全局勢。",
+          "stakeholders": [
+            "中國",
+            "北韓",
+            "美國",
+            "俄羅斯",
+            "南韓"
+          ],
+          "analysis": "習近平的訪問可能旨在鞏固中北關係，特別是在北韓加強與俄羅斯的聯繫之際。參考報導指出，北韓新揭示的核燃料設施可能使中國在國際社會中面臨更大的壓力，尤其是來自美國及其盟友的關注。不同報導強調了習近平訪問的不同側面，《The Hindu International》提到北韓的新核設施，而《Al Jazeera》則強調了中北關係的鞏固。這表明，習近平的訪問不僅是外交上的回暖，也可能是對北韓核政策的一種默許或支持，未來可能引發國際社會的反應。"
+        },
+        "topic_priority_score": 7,
+        "event_type": "diplomatic_move",
+        "supporting_sources": [
+          "The Hindu International",
+          "Al Jazeera"
+        ],
+        "supporting_titles": [
+          "Chinese leader Xi Jinping will travel to North Korea next week in first visit in years",
+          "China’s Xi headed to North Korea in bid to shore up ties"
+        ],
+        "supporting_summaries": [
+          "The announcement came a day after North Korea unveiled a new facility to produce nuclear bomb fuels",
+          "The Chinese leader's visit on June 8-9, his first in seven years, comes as Pyongyang strengthens relations with Russia."
+        ],
+        "supporting_links": [
+          "https://www.thehindu.com/news/international/chinese-leader-xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-in-years/article71063856.ece",
+          "https://www.aljazeera.com/news/2026/6/5/chinas-xi-headed-to-north-korea-in-bid-to-shore-up-ties?traffic_source=rss"
         ],
         "source_count": 3
       },
       {
         "category": "politics",
         "source_name": "The Hindu International",
-        "title": "Portugal, Austria among five nations elected to UN Security Council; Germany suffers setback",
-        "link": "https://www.thehindu.com/news/international/portugal-austria-among-five-nations-elected-to-un-security-council-germany-suffers-setback/article71059897.ece",
-        "summary": "The five new non-permanent UNSC members were elected by secret ballot for the two-year term beginning from January 1, 2027, and ending on December 31, 2028",
-        "published": "Thu, 04 Jun 2026 14:54:51 +0530",
-        "updated": "Thu, 04 Jun 2026 14:54:51 +0530",
-        "published_at_utc": "2026-06-04T09:24:51+00:00",
-        "id": "article-71059897",
-        "topic_type": "diplomacy",
-        "relevance_score": 21,
+        "title": "Watch: Is the Israel–U.S. alliance straining over Iran?",
+        "link": "https://www.thehindu.com/videos/watch-is-the-israelus-alliance-straining-over-iran/article71064931.ece",
+        "summary": "Tensions appear to be emerging within the Israel–U.S. alliance as differences grow over how to deal with Iran. While Washington seems increasingly open to diplomatic engagement and a potential agreement, Israel continues to advocate a tougher, security-first approach amid escalating regional tensions.In this video, we examine the latest developments in Lebanon, President Trump’s dilemma, the UAE’s role in regional diplomacy, and more.",
+        "published": "Fri, 05 Jun 2026 15:27:20 +0530",
+        "updated": "Fri, 05 Jun 2026 15:27:20 +0530",
+        "published_at_utc": "2026-06-05T09:57:20+00:00",
+        "id": "article-71064931",
+        "topic_type": "us_politics",
+        "relevance_score": 22,
         "briefing": {
-          "news_focus": "The five new non-permanent UNSC members were elected by secret ballot for the two-year term beginning from January 1, 2027, and ending on December 31, 2028",
-          "news_focus_zh": "葡萄牙和奧地利在激烈競爭中成功當選為聯合國安理會的五個新非永久成員，這一任期將從2027年1月1日開始，至2028年12月31日結束。德國在此次選舉中遭遇挫敗，未能獲得席位。",
-          "background": "聯合國安理會由15個成員國組成，其中五個為永久成員，擁有否決權。每年，安理會會選舉五個非永久成員，任期為兩年，這些席位通常會根據地區分配。此次選舉中，葡萄牙和奧地利的當選反映了國際政治中各國間的競爭與合作，特別是在面對全球性議題時，各國的外交策略和影響力變得尤為重要。",
+          "news_focus": "Tensions appear to be emerging within the Israel–U.S. alliance as differences grow over how to deal with Iran. While Washington seems increasingly open to diplomatic engagement and a potential agreement, Israel continues to advocate a tougher, security-first approach amid escalating regional tensions.In this video, we examine the latest developments in Lebanon, President Trump’s dilemma, the UAE’s role in regional diplomacy, and more.",
+          "news_focus_zh": "以色列與美國之間的聯盟出現緊張局勢，主要因為雙方在如何應對伊朗的問題上存在分歧。美方似乎越來越傾向於外交接觸和潛在協議，而以色列則持續主張採取更強硬的安全優先策略，尤其是在地區緊張局勢升高的背景下。",
+          "background": "以色列與美國的聯盟歷史悠久，兩國在安全與軍事合作上有著密切的關係。然而，隨著伊朗在中東地區影響力的擴大，這種關係面臨新的挑戰。美國政府在應對伊朗的策略上出現了內部分歧，部分官員主張透過外交手段尋求解決方案，而以色列則擔心這樣的做法可能削弱其安全保障。這種分歧在地區局勢不斷變化的情況下，顯得尤為突出。",
           "stakeholders": [
-            "葡萄牙",
-            "奧地利",
-            "德國",
-            "聯合國安理會",
-            "俄羅斯"
+            "以色列政府",
+            "美國政府",
+            "伊朗政府",
+            "阿聯酋",
+            "地區安全專家"
           ],
-          "analysis": "此次選舉中，德國的失利引發了各方關注。根據BBC的報導，德國官員Johann Wadephul指出，德國對烏克蘭的支持使得俄羅斯在國際上對德國的形象產生了負面影響，這可能是德國未能當選的原因之一。與此同時，SCMP的報導強調了葡萄牙和奧地利在激烈競爭中的成功，顯示出這兩國在外交上的積極努力。這次結果不僅影響德國的國際地位，也可能改變安理會內部的權力動態，特別是在處理與俄羅斯相關的議題時。"
+          "analysis": "以色列與美國之間的緊張關係反映出兩國在中東政策上的根本差異。美國的外交接觸可能被視為對伊朗的妥協，而以色列則擔心這會使其在地區安全上處於劣勢。這種分歧可能導致以色列在未來採取更激進的軍事行動，以維護其國家安全。此外，其他地區國家如阿聯酋在調解過程中的角色也可能影響雙方的互動。若美國與伊朗達成協議，可能會使以色列感到孤立，進一步加劇雙方的緊張關係。"
         },
-        "topic_priority_score": 7,
-        "event_type": "security_event",
-        "supporting_sources": [
-          "SCMP World",
-          "BBC World"
-        ],
-        "supporting_titles": [
-          "Portugal and Austria defeat Germany for seats on UN Security Council",
-          "Germany blames Russia for 'bitter defeat' in UN Security Council bid"
-        ],
-        "supporting_summaries": [
-          "Portugal and Austria defeated Germany for seats on the powerful but deeply divided UN Security Council on Wednesday in a hotly contested race after intense campaigning. The 10 rotating seats on the 15-member Security Council are earmarked for different regions of the world. The assembly elects five countries by secret ballot every year to serve two-year terms alongside the council’s five permanent veto-wielding members — the United States, Russia, China, Britain and France. In the other...",
-          "Johann Wadephul said it was \"no secret\" Russia had stirred up sentiment against Germany over its support for Ukraine."
-        ],
-        "supporting_links": [
-          "https://www.scmp.com/news/world/europe/article/3355881/portugal-and-austria-defeat-germany-seats-un-security-council?utm_source=rss_feed",
-          "https://www.bbc.com/news/articles/cgmp3pg71edo?at_medium=RSS&at_campaign=rss"
-        ],
-        "source_count": 3
-      },
-      {
-        "category": "politics",
-        "source_name": "Al Jazeera",
-        "title": "Germany admits failure to secure UNSC seat likely due to support for Israel",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/germany-admits-failure-to-secure-unsc-seat-likely-due-to-support-for-israel?traffic_source=rss",
-        "summary": "For the first time, Germany has failed to win a non-permanent seat on the UN Security Council.",
-        "published": "Thu, 04 Jun 2026 05:17:14 +0000",
-        "updated": "Thu, 04 Jun 2026 05:17:14 +0000",
-        "published_at_utc": "2026-06-04T05:17:14+00:00",
-        "id": "https://www.aljazeera.com/?t=1780549694",
-        "topic_type": "diplomacy",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "For the first time, Germany has failed to win a non-permanent seat on the UN Security Council.",
-          "news_focus_zh": "德國首次未能獲得聯合國安全理事會的非永久席位，這一結果被認為與其對以色列的支持有關。德國政府承認，這一失敗反映出其在國際政治中的影響力不足，特別是在中東問題上的立場引發了其他國家的反感。",
-          "background": "德國長期以來在國際事務中扮演重要角色，尤其是在歐洲政治中。然而，隨著全球政治格局的變化，德國在聯合國的影響力受到挑戰。特別是在以色列與巴勒斯坦的衝突中，德國的支持立場使其在某些國家中失去支持，這可能影響其在國際組織中的地位。聯合國安全理事會的非永久席位競爭激烈，其他國家如印度和巴西等也在積極爭取這一位置，德國的失利可能反映出其外交政策需要調整以贏得更多國際支持。",
-          "stakeholders": [
-            "德國政府",
-            "聯合國",
-            "以色列",
-            "阿拉伯國家",
-            "其他競爭國家"
-          ],
-          "analysis": "德國未能獲得聯合國安全理事會的非永久席位，顯示出其在國際政治中的某些局限性。支持以色列的立場可能使德國在一些國家中失去信任，尤其是在阿拉伯國家和其他支持巴勒斯坦的國家中。這一結果可能促使德國重新評估其外交政策，以增強其在國際舞台上的影響力。此外，這也可能影響德國在歐洲內部的外交策略，特別是在與其他歐盟國家的合作上。未來，德國可能需要尋求更廣泛的國際支持，以提高其在聯合國的地位。"
-        },
-        "topic_priority_score": 7,
+        "topic_priority_score": 8,
         "event_type": "security_event",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -278,332 +258,344 @@
     "economy": [
       {
         "category": "economy",
-        "source_name": "The Hindu International",
-        "title": "U.S. sanctions alleged rebel commanders in DR Congo",
-        "link": "https://www.thehindu.com/news/international/us-sanctions-alleged-rebel-commanders-in-dr-congo/article71058523.ece",
-        "summary": "The sanctions target Gustave Kubwayo, alleged to be the commander of FDLR, and John Imani Nzenze, alleged to be the March 23 (M23) commander and chief of intelligence, says the U.S. Treasury in a statement",
-        "published": "Wed, 03 Jun 2026 23:56:20 +0530",
-        "updated": "Wed, 03 Jun 2026 23:56:20 +0530",
-        "published_at_utc": "2026-06-03T18:26:20+00:00",
-        "id": "article-71058523",
+        "source_name": "The Guardian World",
+        "title": "US imposes new sanctions on Cuban president and Castro family members",
+        "link": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
+        "summary": "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’ The United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family, alongside members of the Castro family, in Washington’s latest ramping up of pressure on its communist-led neighbour. Among those targeted were the son and a grandson of former president Raúl Castro, who no longer holds an official position but remains a key figure on decisions about the future of the island. Continue reading...",
+        "published": "Fri, 05 Jun 2026 01:07:15 GMT",
+        "updated": "2026-06-05T01:07:15Z",
+        "published_at_utc": "2026-06-05T01:07:15+00:00",
+        "id": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
         "topic_type": "sanctions",
-        "relevance_score": 19,
+        "relevance_score": 23,
         "briefing": {
-          "news_focus": "The sanctions target Gustave Kubwayo, alleged to be the commander of FDLR, and John Imani Nzenze, alleged to be the March 23 (M23) commander and chief of intelligence, says the U.S. Treasury in a statement",
-          "news_focus_zh": "美國財政部針對剛果民主共和國的兩名叛軍指揮官實施制裁，分別是被指控為FDLR指揮官的古斯塔夫·庫布瓦約（Gustave Kubwayo）和被指控為3月23日運動（M23）指揮官及情報首席的約翰·伊馬尼·恩岑澤（John Imani Nzenze）。此舉旨在打擊這些叛軍的活動及其對當地穩定的威脅。",
-          "background": "剛果民主共和國長期受到內戰及叛軍活動的困擾，FDLR和M23是主要的武裝團體。FDLR成立於1994年，主要由盧旺達大屠殺的倖存者組成，而M23則是2012年成立的叛軍，因其對政府的挑戰而受到國際關注。美國的制裁措施通常是為了削弱這些武裝團體的資金來源，並促進地區的和平與穩定。這些制裁也反映了國際社會對剛果民主共和國局勢的持續關注。",
+          "news_focus": "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’ The United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family, alongside members of the Castro family, in Washington’s latest ramping up of pressure on its communist-led neighbour. Among those targeted were the son and a grandson of former president Raúl Castro, who no longer holds an official position but remains a key figure on decisions about the future of the island. Continue reading...",
+          "news_focus_zh": "美國宣布對古巴總統及其家族成員實施新一輪經濟制裁，這是美方對其共產主義鄰國施加壓力的最新舉措。此次制裁的對象包括前總統勞爾·卡斯特羅的兒子及孫子，儘管勞爾·卡斯特羅不再擔任官方職位，但他仍在古巴未來的決策中扮演重要角色。",
+          "background": "美國與古巴的關係長期緊張，特別是在古巴政府的共產主義政策下。近年來，美國政府多次對古巴實施經濟制裁，旨在迫使古巴政府進行政治與經濟改革。此次制裁正值美國政府加強對古巴施壓的背景下，尤其是在古巴面臨經濟困境及社會動盪的情況下。美國官員表示，這些制裁是為了促進古巴成為一個「良好治理的國家」。",
           "stakeholders": [
             "美國政府",
-            "剛果民主共和國政府",
-            "FDLR",
-            "M23",
+            "古巴政府",
+            "卡斯特羅家族",
+            "古巴民眾",
             "國際社會"
           ],
-          "analysis": "美國對這兩名叛軍指揮官的制裁，顯示出其對剛果民主共和國持續衝突的強烈關切，並試圖透過經濟制裁來減少叛軍的影響力。這些制裁可能會影響到叛軍的資金流動及其軍事行動能力，進而對當地的安全局勢產生影響。然而，這也可能引發叛軍的反應，進一步加劇地區的不穩定。此外，制裁的有效性在於國際社會的支持，若其他國家不跟隨美國的制裁措施，則可能削弱其影響力。各方對於如何解決剛果的衝突存在不同看法，部分國家可能更傾向於透過外交途徑解決問題，而非單純依賴制裁。"
+          "analysis": "美國的制裁措施顯示出其對古巴政策的強硬立場，特別是針對卡斯特羅家族的制裁，意在削弱其在古巴政治中的影響力。根據參考報導，特朗普總統的言論強調了美國希望古巴改善治理的意圖，這與制裁措施相輔相成。然而，這些制裁可能會加劇古巴的經濟困境，並引發國內對政府的不滿情緒。不同報導中，The Guardian更強調了制裁對卡斯特羅家族的直接影響，而The Hindu則提及特朗普對古巴未來的期望，顯示出美國對古巴政策的複雜性及其多重目標。"
         },
         "topic_priority_score": 8,
         "event_type": "macro_signal",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "economy",
-        "source_name": "SCMP World",
-        "title": "Lula thanks China for beef win and tells US after tariffs: ‘I will sell to someone else’",
-        "link": "https://www.scmp.com/news/us/article/3355879/lula-thanks-china-beef-win-and-tells-us-after-tariffs-i-will-sell-someone-else?utm_source=rss_feed",
-        "summary": "Brazilian President Luiz Inacio Lula da Silva thanked China for clearing the country’s beef of foot-and-mouth disease and fired a barb at US President Donald Trump, saying “I will sell to someone else”, after Washington announced new tariffs on Brazilian goods. Lula made the remarks on Tuesday, hours after Beijing announced wider access for Brazilian beef to the world’s biggest market for the product. “As God writes straight with crooked lines, nothing comes free for a Christian man like me....",
-        "published": "Wed, 03 Jun 2026 17:52:14 +0000",
-        "updated": "Wed, 03 Jun 2026 17:52:14 +0000",
-        "published_at_utc": "2026-06-03T17:52:14+00:00",
-        "id": "https://www.scmp.com/news/us/article/3355879/lula-thanks-china-beef-win-and-tells-us-after-tariffs-i-will-sell-someone-else?utm_source=rss_feed",
-        "topic_type": "trade_wars",
-        "relevance_score": 19,
-        "briefing": {
-          "news_focus": "Brazilian President Luiz Inacio Lula da Silva thanked China for clearing the country’s beef of foot-and-mouth disease and fired a barb at US President Donald Trump, saying “I will sell to someone else”, after Washington announced new tariffs on Brazilian goods. Lula made the remarks on Tuesday, hours after Beijing announced wider access for Brazilian beef to the world’s biggest market for the product. “As God writes straight with crooked lines, nothing comes free for a Christian man like me....",
-          "news_focus_zh": "巴西總統盧拉感謝中國解除巴西牛肉的口蹄疫禁令，並在美國宣布對巴西商品加徵新關稅後，對美國總統特朗普表示「我會賣給別人」。此番言論是在中國宣布擴大巴西牛肉進入市場的幾小時後發表的，顯示出巴西在面對美國貿易政策時的靈活應對。",
-          "background": "巴西是全球主要的牛肉生產國之一，對中國市場的依賴程度逐漸增加。中國是全球最大的牛肉消費國，對巴西牛肉的需求穩定。近期，美國對巴西商品加徵新關稅，這使得巴西在貿易上面臨挑戰。美國的貿易政策，尤其是針對農產品的關稅，可能會促使巴西尋求其他市場，特別是中國，以減少對美國市場的依賴。",
-          "stakeholders": [
-            "巴西政府",
-            "中國政府",
-            "美國政府",
-            "巴西農業部門",
-            "全球牛肉市場"
-          ],
-          "analysis": "盧拉的言論反映了巴西在面對美國貿易壓力時的策略調整，強調了中國市場的重要性。參考報導指出，美國的關稅政策可能促使企業尋求「中國加一」的策略，即在中國以外的地區尋找替代供應鏈。這意味著巴西可能會加強與中國的經濟合作，並在其他市場尋找機會。不同報導的重點在於，The Economist強調了新關稅對全球供應鏈的影響，而Nikkei Asia則提及美國對多國的強硬立場，顯示出美國在全球貿易中的主導地位可能受到挑戰。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "macro_signal",
         "supporting_sources": [
-          "The Economist",
-          "Nikkei Asia"
+          "The Hindu International"
         ],
         "supporting_titles": [
-          "Who will win from Trump’s tariffs?",
-          "US floats new tariffs on 60 economies over forced labor, including China"
+          "U.S. imposes sanctions on Cuban President, Treasury website shows"
         ],
         "supporting_summaries": [
-          "New rates mean new “China plus one” locations",
-          ""
+          "The sanctions were announced as U.S. President ‌Donald Trump told reporters that the U.S. wanted Cuba “to be a nicely run country.”"
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2025/08/14/who-will-win-from-trumps-tariffs",
-          "https://asia.nikkei.com/economy/trade-war/trump-tariffs/us-floats-new-tariffs-on-60-economies-over-forced-labor-including-china"
+          "https://www.thehindu.com/news/international/us-imposes-sanctions-on-cuban-president-treasury-website-shows/article71062807.ece"
         ],
-        "source_count": 3
+        "source_count": 2
       },
       {
         "category": "economy",
         "source_name": "SCMP Business",
-        "title": "IPOs, expansion plans give China’s US$16 billion pet food sector paws for thought",
-        "link": "https://www.scmp.com/business/article/3355902/ipos-and-expansion-plans-give-chinas-us16-billion-pet-food-sector-paws-thought?utm_source=rss_feed",
-        "summary": "Home-grown and foreign pet business operators are bullish on China’s booming pet market this year, eyeing initial public offerings and localising supply chains, fuelled by young consumers’ growing interest in their animals’ health and wellness. Fubei, a major domestic pet food maker based in Shanghai, filed its IPO application with the Hong Kong stock exchange on Monday. The company has built a diversified product portfolio centred on cat and dog food, according to its prospectus. The number of...",
-        "published": "Thu, 04 Jun 2026 04:05:36 +0000",
-        "updated": "Thu, 04 Jun 2026 04:05:36 +0000",
-        "published_at_utc": "2026-06-04T04:05:36+00:00",
-        "id": "https://www.scmp.com/business/article/3355902/ipos-and-expansion-plans-give-chinas-us16-billion-pet-food-sector-paws-thought?utm_source=rss_feed",
-        "topic_type": "supply_chain",
-        "relevance_score": 16,
+        "title": "China sees revival of foreign investors through IPOs, convertibles: UBS",
+        "link": "https://www.scmp.com/business/china-business/article/3356097/china-sees-revival-foreign-investors-through-ipos-convertibles-ubs?utm_source=rss_feed",
+        "summary": "Foreign investors are returning to Chinese assets through convertible bonds and IPOs, helping fuel a fundraising rebound in Hong Kong as global investors seek exposure to the country’s artificial intelligence (AI), semiconductor and advanced manufacturing sectors. According to estimates by UBS, Chinese companies raised about US$43 billion through equity capital market transactions in Hong Kong in the first five months of 2026, up from US$28 billion a year earlier. Convertible bonds have emerged...",
+        "published": "Fri, 05 Jun 2026 10:00:16 +0000",
+        "updated": "Fri, 05 Jun 2026 10:00:16 +0000",
+        "published_at_utc": "2026-06-05T10:00:16+00:00",
+        "id": "https://www.scmp.com/business/china-business/article/3356097/china-sees-revival-foreign-investors-through-ipos-convertibles-ubs?utm_source=rss_feed",
+        "topic_type": "markets",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Home-grown and foreign pet business operators are bullish on China’s booming pet market this year, eyeing initial public offerings and localising supply chains, fuelled by young consumers’ growing interest in their animals’ health and wellness. Fubei, a major domestic pet food maker based in Shanghai, filed its IPO application with the Hong Kong stock exchange on Monday. The company has built a diversified product portfolio centred on cat and dog food, according to its prospectus. The number of...",
-          "news_focus_zh": "中國的寵物食品市場在2023年持續蓬勃發展，吸引本地及外國企業的關注。上海的主要寵物食品製造商Fubei於本週一向香港交易所提交了首次公開募股（IPO）申請，計劃擴大其業務。該公司專注於貓狗食品，並在其招股說明書中展示了多樣化的產品組合。年輕消費者對寵物健康與福祉的日益重視，成為市場增長的重要推動力。",
-          "background": "中國的寵物食品市場在過去幾年中迅速增長，市場規模已達到160億美元。這一增長主要受到年輕消費者對寵物健康和生活品質的重視所驅動。隨著消費者對高品質、健康產品的需求增加，許多企業開始本地化供應鏈，以降低成本並提高產品的市場競爭力。此外，IPO成為企業擴展資本和業務的重要途徑，許多公司正計劃在香港等地上市，以吸引投資者的關注。",
+          "news_focus": "Foreign investors are returning to Chinese assets through convertible bonds and IPOs, helping fuel a fundraising rebound in Hong Kong as global investors seek exposure to the country’s artificial intelligence (AI), semiconductor and advanced manufacturing sectors. According to estimates by UBS, Chinese companies raised about US$43 billion through equity capital market transactions in Hong Kong in the first five months of 2026, up from US$28 billion a year earlier. Convertible bonds have emerged...",
+          "news_focus_zh": "根據瑞銀的報告，外國投資者正透過可轉換債券和首次公開募股（IPO）重新回流至中國資產，這一趨勢促進了香港的資金募集回升。全球投資者尋求在中國的人工智慧、半導體和先進製造業等領域的投資機會。瑞銀估計，2026年前五個月，中國企業在香港透過股權資本市場交易籌集了約430億美元，較去年同期的280億美元顯著增長。",
+          "background": "隨著全球市場的不確定性，投資者對中國市場的興趣逐漸回升，尤其是在科技和製造業領域。中國政府近年來推動高科技產業的發展，並在政策上提供支持，吸引外資進入。香港作為中國的金融中心，對於外國投資者來說仍然具有吸引力，特別是在經濟復甦的背景下，資本市場的活躍程度也隨之提升。可轉換債券作為一種靈活的融資工具，正受到越來越多企業的青睞。",
           "stakeholders": [
-            "Fubei",
-            "本地寵物食品製造商",
-            "外國寵物食品企業",
-            "年輕消費者",
-            "投資者"
+            "外國投資者",
+            "中國企業",
+            "香港金融市場",
+            "瑞銀",
+            "政府政策制定者"
           ],
-          "analysis": "中國的寵物食品市場吸引了眾多企業的目光，Fubei的IPO申請顯示出市場的活力及未來的增長潛力。隨著消費者對寵物健康的重視，企業必須不斷創新和提升產品質量，以滿足市場需求。Fubei的多樣化產品組合可能會吸引更多投資者的青睞，進一步推動其市場擴張。然而，市場競爭也日益激烈，其他本地及外國品牌可能會加大對市場的投入，形成新的競爭格局。未來，企業在擴展的同時，如何平衡成本與品質將成為關鍵挑戰。"
+          "analysis": "外國投資者的回流顯示出市場對中國經濟復甦的信心，尤其是在高科技領域的潛力。根據瑞銀的報告，這一趨勢不僅有助於香港的資本市場復甦，也可能促進中國企業在全球市場的競爭力。然而，市場仍面臨不確定性，包括地緣政治風險和全球經濟變化。參考報導提到的2025年市場發展回顧，雖然未具體提及中國，但反映出全球投資者對市場波動的敏感性，這可能影響未來的投資決策。各方利益關係的角力將持續影響資本流動的方向。"
         },
-        "topic_priority_score": 6,
-        "event_type": "macro_signal",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "topic_priority_score": 4,
+        "event_type": "market_repricing",
+        "supporting_sources": [
+          "The Economist"
+        ],
+        "supporting_titles": [
+          "The five biggest market developments of 2025"
+        ],
+        "supporting_summaries": [
+          "Looking back on a rollercoaster year for investors"
+        ],
+        "supporting_links": [
+          "https://www.economist.com/finance-and-economics/2025/12/21/the-five-biggest-market-developments-of-2025"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "economy",
+        "source_name": "SCMP Business",
+        "title": "Mainland China’s investors face new hurdles as Hong Kong brokers tighten rules",
+        "link": "https://www.scmp.com/business/china-business/article/3356095/mainland-chinas-investors-face-new-hurdles-hong-kong-brokers-tighten-rules?utm_source=rss_feed",
+        "summary": "Shenzhen-based AI engineer Sihan Wang recently decided to liquidate all holdings in his Futu Securities account, which he opened a year ago, citing concerns that escalating regulatory oversight could restrict his ability to manage overseas investments. “I would rather step back now than risk having my funds caught up in future restrictions,” Wang said. He is now considering shifting capital into mainland-listed gold products and mutual funds. Wang’s move reflects a broader squeeze on mainland...",
+        "published": "Fri, 05 Jun 2026 08:47:54 +0000",
+        "updated": "Fri, 05 Jun 2026 08:47:54 +0000",
+        "published_at_utc": "2026-06-05T08:47:54+00:00",
+        "id": "https://www.scmp.com/business/china-business/article/3356095/mainland-chinas-investors-face-new-hurdles-hong-kong-brokers-tighten-rules?utm_source=rss_feed",
+        "topic_type": "markets",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "Shenzhen-based AI engineer Sihan Wang recently decided to liquidate all holdings in his Futu Securities account, which he opened a year ago, citing concerns that escalating regulatory oversight could restrict his ability to manage overseas investments. “I would rather step back now than risk having my funds caught up in future restrictions,” Wang said. He is now considering shifting capital into mainland-listed gold products and mutual funds. Wang’s move reflects a broader squeeze on mainland...",
+          "news_focus_zh": "深圳的AI工程師王思涵近期決定清算在富途證券的所有持股，原因是擔心日益嚴格的監管措施可能會限制他管理海外投資的能力。他表示，寧願現在撤退，也不希望未來資金受到限制。王的行動反映了大陸投資者面臨的更大壓力，許多人開始考慮將資金轉向內地上市的黃金產品和共同基金。",
+          "background": "隨著中國政府對金融市場的監管加強，特別是在海外投資方面，許多大陸投資者感受到前所未有的壓力。香港作為國際金融中心，曾吸引大量來自中國大陸的資金，但近期的政策變化使得投資者對未來的資金流動感到不安。根據報導，香港的券商也開始收緊規則，這進一步加劇了投資者的焦慮。這一情況可能會影響香港的金融活力，並改變資金流向。",
+          "stakeholders": [
+            "大陸投資者",
+            "富途證券",
+            "香港券商",
+            "中國政府",
+            "金融市場分析師"
+          ],
+          "analysis": "王思涵的決定反映了大陸投資者對香港金融市場的信心下降，這可能會導致資金流出香港，轉向內地的投資產品。根據參考報導，香港正試圖重振其金融活力，但面對北京風格的政治影響，這一努力可能會受到挑戰。不同報導的重點在於，主新聞強調了投資者的個人行動及其背後的擔憂，而參考報導則更關注香港整體的金融環境及其吸引力。未來，若監管政策持續收緊，可能會進一步影響香港作為金融中心的地位，並促使更多投資者尋求其他市場的機會。"
+        },
+        "topic_priority_score": 4,
+        "event_type": "market_repricing",
+        "supporting_sources": [
+          "The Economist"
+        ],
+        "supporting_titles": [
+          "Hong Kong is getting its financial mojo back"
+        ],
+        "supporting_summaries": [
+          "The hub is attracting more deals. And more Beijing-style politics"
+        ],
+        "supporting_links": [
+          "https://www.economist.com/finance-and-economics/2026/02/05/hong-kong-is-getting-its-financial-mojo-back"
+        ],
+        "source_count": 2
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
-        "title": "‘BeiDou Goddess’: key figure in China GPS-equivalent satellite system, earns PhD by 26",
-        "link": "https://www.scmp.com/news/people-culture/china-personalities/article/3355903/beidou-goddess-key-figure-china-gps-equivalent-satellite-system-earns-phd-26?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-04T06:00:12+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Defense tech is flooded with money, but who’s built to last?",
-        "link": "https://techcrunch.com/video/defense-tech-is-flooded-with-money-but-whos-built-to-last/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-03T20:51:41+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer",
-        "link": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-06-03T20:03:50+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
-        "link": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-06-03T18:00:00+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
-        "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-06-04T01:01:00+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Nvidia ships TSMC-backed CPO switches to tackle AI data center bottlenecks",
-        "link": "https://www.taipeitimes.com/News/biz/archives/2026/06/04/2003858481",
-        "source_name": "Taipei Times",
-        "published_at_utc": "2026-06-04T00:00:00+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-        "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-03T22:56:51+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "The worst hacks and breaches of 2026 (so far)",
-        "link": "https://techcrunch.com/2026/06/03/the-worst-hacks-and-breaches-of-2026-so-far/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-03T14:02:45+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain’s ‘Core Algorithm’",
-        "link": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-06-04T10:30:00+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "Who is Elon Musk and what is his net worth?",
-        "link": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
+        "title": "We need to stop AI developing without humans, says Anthropic co-founder",
+        "link": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC Technology",
-        "published_at_utc": "2026-06-04T10:25:06+00:00",
+        "published_at_utc": "2026-06-05T07:17:39+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "TSMC struggles to keep up with AI demand: ‘We can only support so much’",
+        "link": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-06-04T14:15:44+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "The TikTok Ban Was Never About TikTok",
+        "link": "https://www.wired.com/story/made-in-china-tiktok-never-dies/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-04T17:06:21+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "Artificial intelligence companies warn of bottlenecks",
+        "link": "https://www.taipeitimes.com/News/biz/archives/2026/06/05/2003858539",
+        "source_name": "Taipei Times",
+        "published_at_utc": "2026-06-05T00:00:00+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "These LLMs are the best at resisting Russian propaganda",
+        "link": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-06-04T20:44:31+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Scarcity is driving AI innovation outside Silicon Valley",
+        "link": "https://restofworld.org/2026/scarcity-is-driving-ai-innovation-outside-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source_name": "Rest of World",
+        "published_at_utc": "2026-06-04T10:00:00+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Google is letting social media stars customize their search result page",
+        "link": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-06-04T18:32:23+00:00",
         "relevance_score": 14
+      },
+      {
+        "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+        "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-06-04T22:43:26+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+        "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-06-04T22:29:50+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+        "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-06-04T21:30:00+00:00",
+        "relevance_score": 13
       }
     ],
     "politics": [
       {
-        "title": "Iran's Foreign Minister warns any attack on Beirut will trigger 'full-scale resumption of war'",
-        "link": "https://www.thehindu.com/news/international/irans-foreign-minister-warns-any-attack-on-beirut-will-trigger-full-scale-resumption-of-war/article71058592.ece",
+        "title": "Watch: U.S.- Iran war: Peace talks stall after Hezbollah rejects truce",
+        "link": "https://www.thehindu.com/videos/watch-us-iran-war-peace-talks-stall-after-hezbollah-rejects-truce/article71064511.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-04T01:39:09+00:00",
+        "published_at_utc": "2026-06-05T09:14:57+00:00",
+        "relevance_score": 22
+      },
+      {
+        "title": "Friday briefing: How Gaza, Lebanon and Iran have found themselves caught in an escalation without end",
+        "link": "https://www.theguardian.com/world/2026/jun/05/friday-briefing-how-gaza-lebanon-and-iran-have-found-themselves-caught-in-an-escalation-without-end",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-05T05:48:40+00:00",
+        "relevance_score": 22
+      },
+      {
+        "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+        "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-06-05T01:44:16+00:00",
+        "relevance_score": 22
+      },
+      {
+        "title": "China ready to work with Myanmar to maintain border stability: Wang Yi",
+        "link": "https://www.thehindu.com/news/international/china-ready-to-work-with-myanmar-to-maintain-border-stability-wang-yi/article71064645.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-05T09:13:09+00:00",
         "relevance_score": 21
       },
       {
-        "title": "Middle East crisis live: Israel to continue ground operation in southern Lebanon despite agreed ceasefire",
-        "link": "https://www.theguardian.com/world/live/2026/jun/04/middle-east-crisis-israel-lebanon-hezbolllah-us-ceasefire-southern-military-attacks-continue-latest-news-updates",
+        "title": "EU summit with western Balkan leaders to reaffirm membership prospects",
+        "link": "https://www.theguardian.com/world/2026/jun/05/eu-summit-montenegro-western-balkan-countries-membership-enlargement",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-04T10:31:16+00:00",
+        "published_at_utc": "2026-06-05T04:00:27+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "UK intelligence suggests there could be Russian attack on Nato ‘as soon as 2030’, says Starmer - UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/jun/05/keir-starmer-andy-burnham-labour-leadership-rivals-makerfield-byelection-latest-news-updates",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-05T10:58:18+00:00",
         "relevance_score": 20
       },
       {
-        "title": "West Asia war LIVE: Lebanon reports Israeli strikes after conditional ceasefire announcement",
-        "link": "https://www.thehindu.com/news/international/usa-iran-war-updates-israel-lebanon-ceasefire-hezbollah-june-4-2026/article71059457.ece",
+        "title": "Israel-Iran war LIVE: Seven killed as Israel strikes in south Lebanon’s Tyre",
+        "link": "https://www.thehindu.com/news/international/israel-iran-war-live-updates-june-5-2026-hezbollah-lebanon-news-strait-of-hormuz/article71063774.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-04T10:19:43+00:00",
+        "published_at_utc": "2026-06-05T09:56:42+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Israel and Lebanon agree new ceasefire as Trump scrambles to end Iran war",
-        "link": "https://www.theguardian.com/world/2026/jun/04/israel-lebanon-renew-ceasefire-hezbollah-trump-iran-deal-middle-east-us",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-04T10:08:42+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Starmer accuses Elon Musk of trying to ‘whip up division’ in UK over murder of Henry Nowak – UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/jun/04/henry-nowak-death-policing-justice-farage-jenrick-reform-badenoch-burnham-latest-news-updates",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-04T10:08:12+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Israel and Lebanon agree on ceasefire framework in US-led talks",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/israel-and-lebanon-agree-on-ceasefire-framework-in-us-led-talks?traffic_source=rss",
+        "title": "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues",
+        "link": "https://www.aljazeera.com/news/2026/6/5/iran-war-day-98-tehran-raises-doubts-on-deal-as-lebanon-fighting-continues?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-04T09:50:17+00:00",
+        "published_at_utc": "2026-06-05T06:01:07+00:00",
         "relevance_score": 20
       },
       {
-        "title": "US House votes to end Trump’s Iran war: Does it matter?",
-        "link": "https://www.aljazeera.com/news/2026/6/4/us-house-votes-to-end-trumps-iran-war-does-it-matter?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-04T09:49:24+00:00",
+        "title": "Is US wielding new tariff threat to secure big bargain in India trade talks?",
+        "link": "https://www.scmp.com/week-asia/politics/article/3356049/us-wielding-new-tariff-threat-secure-big-bargain-india-trade-talks?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-05T05:27:02+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Leftwing US commentator calls decision to ban him from UK ‘Kafkaesque’",
-        "link": "https://www.theguardian.com/world/2026/jun/04/leftwing-us-commentator-cenk-uygur-ban-uk-kafkaesque",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-04T09:35:10+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Trump has made our K-shaped economy even worse | Steven Greenhouse",
-        "link": "https://www.theguardian.com/commentisfree/2026/jun/04/trump-k-shaped-economy",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-04T09:00:50+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "UK to challenge EU over ‘devastating’ plans to almost halve tariff-free steel import quotas",
-        "link": "https://www.theguardian.com/business/2026/jun/04/uk-challenge-eu--new-tariff-free-steel-import-quotas",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-04T08:27:42+00:00",
-        "relevance_score": 20
+        "title": "Chinese leader Xi Jinping visit to North Korea confirmed for next week",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3356021/chinese-leader-xi-jinping-visit-north-korea-confirmed-next-week?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-05T02:09:38+00:00",
+        "relevance_score": 19
       }
     ],
     "economy": [
       {
-        "title": "SpaceX ‘significantly overvalued’ as huge IPO looms; UK construction output slumps – business live",
-        "link": "https://www.theguardian.com/business/live/2026/jun/04/spacex-ipo-elon-musk-fears-significantly-overvalued-stock-markets-cars-jobs-live-news-updates",
+        "title": "No jet fuel shortage in Europe, transport chief says; eurozone on brink of technical recession – business live",
+        "link": "https://www.theguardian.com/business/live/2026/jun/05/jet-fuel-europe-transport-chief-us-jobs-report-uk-house-prices-stock-markets-oil-live-news-updates",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-04T10:15:52+00:00",
-        "relevance_score": 23
+        "published_at_utc": "2026-06-05T10:34:03+00:00",
+        "relevance_score": 21
       },
       {
-        "title": "French navy boards Russia-linked oil tanker in Atlantic – video",
-        "link": "https://www.theguardian.com/world/video/2026/jun/01/french-navy-boards-russia-linked-oil-tanker-in-atlantic-video",
+        "title": "AI hyperscaler effect vaults China’s Zhongji Innolight to top of CSI 300 benchmark",
+        "link": "https://www.scmp.com/business/china-business/article/3356074/ai-hyperscaler-effect-vaults-chinas-zhongji-innolight-top-csi-300-benchmark?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-05T07:30:11+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Scramble for biofuel as oil prices rise ‘could push world closer to food crisis’",
+        "link": "https://www.theguardian.com/environment/2026/jun/05/biofuel-alternatives-oil-price-rises-world-food-crisis",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-01T12:57:53+00:00",
+        "published_at_utc": "2026-06-05T04:00:26+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "U.S. imposes sanctions on Cuban President, Treasury website shows",
+        "link": "https://www.thehindu.com/news/international/us-imposes-sanctions-on-cuban-president-treasury-website-shows/article71062807.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-04T21:07:05+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Hong Kong taps banks, lawyers and crypto firms to help rewrite rules for tokenised bonds",
+        "link": "https://www.scmp.com/business/cryptocurrency/article/3356125/hong-kong-taps-banks-lawyers-and-crypto-firms-help-rewrite-rules-tokenised-bonds?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-05T10:45:05+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Indian central bank holds firm on key rate but raises inflation forecast",
+        "link": "https://asia.nikkei.com/business/markets/currencies/indian-central-bank-holds-firm-on-key-rate-but-raises-inflation-forecast",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
+        "relevance_score": 19
+      },
+      {
+        "title": "Who can buy shares in Elon Musk's SpaceX?",
+        "link": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-06-05T09:51:36+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Hong Kong stocks struggle as mainland China markets ride AI wave",
+        "link": "https://www.scmp.com/business/china-business/article/3355963/hong-kong-stocks-struggle-mainland-china-markets-ride-ai-wave?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-04T23:00:09+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Financier Lex Greensill banned from running UK companies for nine years",
+        "link": "https://www.theguardian.com/business/2026/jun/04/lex-greensill-banned-uk-companies-nine-years",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-04T12:42:33+00:00",
         "relevance_score": 16
       },
       {
-        "title": "EBRD Dials Down Kyrgyz GDP Forecast Over Sanctions Worries",
-        "link": "https://thediplomat.com/2026/06/ebrd-dials-down-kyrgyz-gdp-forecast-over-sanctions-worries/",
-        "source_name": "The Diplomat",
-        "published_at_utc": "2026-06-03T13:50:00+00:00",
+        "title": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story",
+        "link": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-06-04T15:08:34+00:00",
         "relevance_score": 15
-      },
-      {
-        "title": "UK to challenge EU over ‘devastating’ plans to almost halve tariff-free steel import quotas",
-        "link": "https://www.theguardian.com/business/2026/jun/04/uk-challenge-eu--new-tariff-free-steel-import-quotas",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-04T08:27:42+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "GenScript rally underscores China’s rise in cancer drug innovation",
-        "link": "https://www.scmp.com/business/china-business/article/3355777/chinese-biotech-genscript-surges-it-rebuffs-us-lawmakers-allegations?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-03T04:14:09+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Google owner Alphabet to sell $80bn in stock to fund AI spending spree",
-        "link": "https://www.theguardian.com/technology/2026/jun/02/google-alphabet-sell-stock-ai-share-sale-berkshire-hathaway",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-02T12:33:23+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Vietnam inflation rises to 2020 high; trade deficit widens on fuel costs",
-        "link": "https://asia.nikkei.com/economy/inflation/vietnam-inflation-rises-to-2020-high-trade-deficit-widens-on-fuel-costs",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 13
-      },
-      {
-        "title": "Japan railroad stocks attract activist investors eyeing property holdings",
-        "link": "https://asia.nikkei.com/business/markets/equities/japan-railroad-stocks-attract-activist-investors-eyeing-property-holdings",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 13
-      },
-      {
-        "title": "European electricity markets have too much power",
-        "link": "https://www.economist.com/finance-and-economics/2026/06/04/european-electricity-markets-have-too-much-power",
-        "source_name": "The Economist",
-        "published_at_utc": "2026-06-04T09:37:28+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "London hit by second day of Tube strike disruption this week",
-        "link": "https://www.theguardian.com/uk-news/2026/jun/03/london-braces-second-day-rmt-tube-strike-disruption",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-04T06:24:44+00:00",
-        "relevance_score": 12
       }
     ]
   },
