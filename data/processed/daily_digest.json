@@ -1,58 +1,58 @@
 {
-  "generated_at_utc": "2026-06-05T11:17:39.717859+00:00",
+  "generated_at_utc": "2026-06-06T09:53:34.744416+00:00",
   "summary": {
-    "total_raw_items": 1069,
-    "total_deduped_items": 1052,
+    "total_raw_items": 1070,
+    "total_deduped_items": 1049,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "social_media",
-        "chips",
-        "ai"
+        "ai",
+        "ai",
+        "social_media"
       ],
       "politics": [
         "diplomacy",
-        "diplomacy",
-        "us_politics"
+        "us_politics",
+        "diplomacy"
       ],
       "economy": [
+        "inflation",
         "sanctions",
-        "markets",
-        "markets"
+        "supply_chain"
       ]
     },
-    "multi_source_selected_count": 6
+    "multi_source_selected_count": 3
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "MIT Technology Review",
-        "title": "The Meta hack shows there’s more to AI security than Mythos",
-        "link": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-        "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran…",
-        "published": "Fri, 05 Jun 2026 09:00:00 +0000",
-        "updated": "Fri, 05 Jun 2026 09:00:00 +0000",
-        "published_at_utc": "2026-06-05T09:00:00+00:00",
-        "id": "https://www.technologyreview.com/?p=1138437",
-        "topic_type": "social_media",
-        "relevance_score": 22,
+        "source_name": "TechCrunch",
+        "title": "NSA said to be readying Anthropic’s Mythos for use in cyber operations",
+        "link": "https://techcrunch.com/2026/06/05/nsa-said-to-be-readying-anthropics-mythos-for-use-in-cyber-operations/",
+        "summary": "The U.S. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker.",
+        "published": "Fri, 05 Jun 2026 14:32:57 +0000",
+        "updated": "Fri, 05 Jun 2026 14:32:57 +0000",
+        "published_at_utc": "2026-06-05T14:32:57+00:00",
+        "id": "https://techcrunch.com/?p=3129906",
+        "topic_type": "ai",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran…",
-          "news_focus_zh": "根據404 Media的報導，Meta的AI客戶支持代理被攻擊者利用，進行Instagram帳戶盜竊。攻擊者透過簡單的方式，要求代理將帳戶連結到他們控制的電子郵件地址，代理則照做。此事件中，一名攻擊者甚至成功入侵了休眠中的奧巴馬白宮帳戶，並發佈親伊朗的內容。",
-          "background": "隨著人工智慧技術在各行各業的應用日益普及，AI安全問題逐漸成為焦點。Meta作為一家全球領先的科技公司，致力於利用AI技術提升客戶服務，但這也使其面臨新的安全挑戰。AI客戶支持代理的設計初衷是為了提高用戶體驗，然而若未能妥善防範，則可能成為攻擊者的工具，導致用戶資料洩露及帳戶被盜。這一事件突顯了AI系統在安全性上的潛在漏洞，並引發業界對AI安全性及其應用範圍的廣泛討論。",
+          "news_focus": "The U.S. eavesdropping agency is reportedly preparing Anthropic's Mythos for use in cyberattacks, despite a federal ban on using the AI model maker.",
+          "news_focus_zh": "美國國家安全局（NSA）據報導正在準備將Anthropic公司的AI模型Mythos用於網絡攻擊，儘管聯邦政府已禁止使用該AI模型製造商的技術。這一行動引發了對於政府機構在遵循法律與利用先進技術之間的道德與法律爭議。",
+          "background": "Anthropic是一家專注於人工智慧的公司，其開發的Mythos模型在AI領域中具有先進的技術能力。美國政府對於AI技術的使用有著嚴格的規範，尤其是在國家安全和網絡作戰的背景下，這些規範旨在防止技術被不當使用或導致潛在的安全風險。NSA作為美國的主要情報機構，負責監控和保護國家安全，其對AI技術的興趣反映出當前科技在國防和情報工作中的重要性。",
           "stakeholders": [
-            "Meta",
-            "攻擊者",
-            "Instagram用戶",
-            "AI安全專家",
-            "政策制定者"
+            "美國國家安全局（NSA）",
+            "Anthropic",
+            "美國政府",
+            "網絡安全專家",
+            "法律監管機構"
           ],
-          "analysis": "此次事件揭示了AI技術在安全性方面的重大挑戰。攻擊者利用Meta的AI系統進行帳戶盜竊，顯示出AI在客戶支持中的應用可能被惡意利用。Meta需要重新評估其AI系統的安全性，並加強相關防護措施，以防止類似事件再次發生。此外，這也引發了對AI倫理及責任的討論，特別是在如何平衡技術創新與用戶安全之間的矛盾。業界專家可能會呼籲制定更嚴格的規範，以確保AI技術的安全使用，並防止未來的安全漏洞。"
+          "analysis": "NSA準備使用Anthropic的Mythos進行網絡攻擊，顯示出政府在追求技術優勢與遵循法律之間的矛盾。儘管存在聯邦禁令，NSA的行動可能引發對於技術使用合法性和道德性的廣泛討論。支持這一行動的人士可能認為，利用先進的AI技術能夠提升國家安全能力，而反對者則可能指出這樣的行為違反了法律，並可能對公眾信任造成損害。未來，這一事件可能促使對AI技術使用的政策進行重新評估，並引發關於政府機構在科技發展中的角色的討論。"
         },
-        "topic_priority_score": 6,
-        "event_type": "strategic_move",
+        "topic_priority_score": 9,
+        "event_type": "regulation_action",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -61,30 +61,30 @@
       },
       {
         "category": "technology",
-        "source_name": "SCMP World",
-        "title": "Chinese satellite company releases images of Nvidia, Apple HQs",
-        "link": "https://www.scmp.com/news/china/science/article/3355930/chinese-satellite-company-releases-images-nvidia-apple-hqs?utm_source=rss_feed",
-        "summary": "After it was sanctioned by the US government for allegedly helping Iran, a Chinese satellite company has released high-definition images of the Nvidia and Apple headquarters in California’s Silicon Valley. They were among photos posted on social media on Monday by Changguang Satellite based in Changchun, in northeast China. The satellite images – captured by the company’s Jilin-1 constellation – offer a detailed bird’s-eye view of the region. They include the futuristic Endeavour and Voyager...",
-        "published": "Thu, 04 Jun 2026 22:00:06 +0000",
-        "updated": "Thu, 04 Jun 2026 22:00:06 +0000",
-        "published_at_utc": "2026-06-04T22:00:06+00:00",
-        "id": "https://www.scmp.com/news/china/science/article/3355930/chinese-satellite-company-releases-images-nvidia-apple-hqs?utm_source=rss_feed",
-        "topic_type": "chips",
-        "relevance_score": 19,
+        "source_name": "The Guardian Business",
+        "title": "Anthropic says the world should have option to ‘pause’ on AI",
+        "link": "https://www.theguardian.com/technology/2026/jun/05/anthropic-urges-temporary-pause-on-ai-development-to-discuss-risks",
+        "summary": "US firm says it will convene policymakers for discussion of dangers, in post detailing progress of its Claude model Anthropic has floated the idea of a worldwide “temporary pause” on AI development – and said it was going to convene “policymakers” to discuss the dangers of advanced AI – in its latest release touting the capabilities of its products. In a long post on Thursday, Anthropic detailed the progress of its AI model, Claude, towards “recursive self-improvement” – that is, being able to make better and more powerful versions of itself. Recursive self-improvement is a bugbear of AI safety researchers, viewed as the key step for AI to become superintelligent and therefore unleash widespread consequences on humanity. Continue reading...",
+        "published": "Fri, 05 Jun 2026 15:35:24 GMT",
+        "updated": "2026-06-05T15:35:24Z",
+        "published_at_utc": "2026-06-05T15:35:24+00:00",
+        "id": "https://www.theguardian.com/technology/2026/jun/05/anthropic-urges-temporary-pause-on-ai-development-to-discuss-risks",
+        "topic_type": "ai",
+        "relevance_score": 17,
         "briefing": {
-          "news_focus": "After it was sanctioned by the US government for allegedly helping Iran, a Chinese satellite company has released high-definition images of the Nvidia and Apple headquarters in California’s Silicon Valley. They were among photos posted on social media on Monday by Changguang Satellite based in Changchun, in northeast China. The satellite images – captured by the company’s Jilin-1 constellation – offer a detailed bird’s-eye view of the region. They include the futuristic Endeavour and Voyager...",
-          "news_focus_zh": "中國衛星公司長光衛星在美國政府對其因涉嫌協助伊朗而實施制裁後，發布了高解析度的Nvidia和Apple總部影像。這些影像是由該公司位於中國東北的吉林一號衛星星座拍攝，並於週一在社交媒體上發布，提供了該地區的詳細鳥瞰圖。",
-          "background": "長光衛星是中國的一家衛星影像公司，專注於高解析度地球觀測技術。該公司近期因被指控協助伊朗而受到美國的制裁，這使得其在國際市場上的運作受到影響。美國對中國科技企業的監管日益嚴格，尤其是在涉及國家安全和技術轉移的問題上。此次發布的衛星影像，可能是該公司在面對制裁後的一種反制措施，旨在展示其技術能力和市場影響力。",
+          "news_focus": "US firm says it will convene policymakers for discussion of dangers, in post detailing progress of its Claude model Anthropic has floated the idea of a worldwide “temporary pause” on AI development – and said it was going to convene “policymakers” to discuss the dangers of advanced AI – in its latest release touting the capabilities of its products. In a long post on Thursday, Anthropic detailed the progress of its AI model, Claude, towards “recursive self-improvement” – that is, being able to make better and more powerful versions of itself. Recursive self-improvement is a bugbear of AI safety researchers, viewed as the key step for AI to become superintelligent and therefore unleash widespread consequences on humanity. Continue reading...",
+          "news_focus_zh": "美國公司Anthropic提出全球暫停人工智慧（AI）發展的建議，並計劃召集政策制定者討論先進AI的潛在危險。該公司在最新發布中介紹了其AI模型Claude的進展，特別是其具備「遞歸自我改善」的能力，這被視為AI可能達到超智能的關鍵步驟，並可能對人類產生深遠影響。",
+          "background": "隨著AI技術的迅速發展，許多專家和研究者對其潛在風險表示擔憂。遞歸自我改善指的是AI系統能夠自我優化，進而創造出更強大的版本，這一過程可能導致難以控制的後果。各國政府和科技公司正在積極討論如何制定相關政策以確保AI的安全性與可控性。Anthropic的提議反映了業界對於AI發展速度與安全性之間的緊張關係，並可能引發更廣泛的政策討論。",
           "stakeholders": [
-            "長光衛星",
-            "Nvidia",
-            "Apple",
-            "美國政府",
-            "中國科技企業"
+            "Anthropic",
+            "科技公司",
+            "政策制定者",
+            "AI安全研究者",
+            "消費者"
           ],
-          "analysis": "長光衛星發布Nvidia和Apple總部的影像，可能意在強調其技術實力，並在制裁背景下尋求國際關注。這一行為可能會引發美國科技公司的警覺，因為這些影像的發布可能被視為對其商業運作的監視與挑戰。此外，這也可能加劇中美之間在科技領域的緊張關係，特別是在衛星影像和數據收集技術的應用上。各方可能會對此事件的意圖和後果有不同解讀，特別是美國政府和中國企業之間的利益衝突將持續影響未來的科技合作與競爭。"
+          "analysis": "Anthropic的提議可能會引起不同利益方的反應。一方面，科技公司可能會支持暫停發展，以便有更多時間來解決安全問題；另一方面，某些企業可能會反對此提議，因為這可能影響其競爭力與創新能力。政策制定者也可能在此議題上存在分歧，有些可能認同需要更嚴格的監管，而另一些則可能擔心過度干預會抑制技術進步。Anthropic的行動可能促使其他公司和政府重新評估其AI策略，並引發全球範圍內的討論與合作。"
         },
-        "topic_priority_score": 10,
+        "topic_priority_score": 9,
         "event_type": "product_launch",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -94,132 +94,71 @@
       },
       {
         "category": "technology",
-        "source_name": "Wired",
-        "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
-        "link": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
-        "summary": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”",
-        "published": "Fri, 05 Jun 2026 10:30:00 +0000",
-        "updated": "Fri, 05 Jun 2026 10:30:00 +0000",
-        "published_at_utc": "2026-06-05T10:30:00+00:00",
-        "id": "6a1f0c2a17089511ccc0b20c",
-        "topic_type": "ai",
-        "relevance_score": 17,
+        "source_name": "SCMP World",
+        "title": "Singapore orders social media platforms to block foreign posts targeting Indian community",
+        "link": "https://www.scmp.com/news/asia/southeast-asia/article/3356202/singapore-orders-social-media-platforms-block-foreign-posts-targeting-indian-community?utm_source=rss_feed",
+        "summary": "Three social media platforms have been ordered to block access to 14 posts which “target the Indian community and undermine Singapore’s model of multiculturalism”, the Ministry of Home Affairs (MHA) said on Saturday. The police have issued disabling directions under the Online Criminal Harms Act to block access to the posts on YouTube, Facebook and X, MHA said in a statement. The direction required the platforms to “take all reasonable steps to disable access by Singapore users to these posts”,...",
+        "published": "Sat, 06 Jun 2026 08:15:23 +0000",
+        "updated": "Sat, 06 Jun 2026 08:15:23 +0000",
+        "published_at_utc": "2026-06-06T08:15:23+00:00",
+        "id": "https://www.scmp.com/news/asia/southeast-asia/article/3356202/singapore-orders-social-media-platforms-block-foreign-posts-targeting-indian-community?utm_source=rss_feed",
+        "topic_type": "social_media",
+        "relevance_score": 16,
         "briefing": {
-          "news_focus": "“Why wouldn’t you want to be in both Pepsi and Coke?” says one venture capitalist. “It’s the same here.”",
-          "news_focus_zh": "OpenAI與Anthropic雖然是競爭對手，但投資者並不偏向於選擇一方。風險投資家指出，投資這兩家公司就像同時投資可口可樂和百事可樂，顯示出市場對於人工智慧領域的多元化投資策略。",
-          "background": "隨著人工智慧技術的迅速發展，OpenAI與Anthropic成為該領域的主要競爭者。OpenAI以其強大的GPT系列模型而聞名，而Anthropic則專注於安全和可控的AI系統。投資者對這些公司的興趣日益增加，尤其是在市場對AI應用的需求持續增長的背景下。這種情況使得投資者不再僅僅依賴於單一公司的成功，而是選擇同時支持多家競爭者，以分散風險並捕捉潛在的市場機會。",
+          "news_focus": "Three social media platforms have been ordered to block access to 14 posts which “target the Indian community and undermine Singapore’s model of multiculturalism”, the Ministry of Home Affairs (MHA) said on Saturday. The police have issued disabling directions under the Online Criminal Harms Act to block access to the posts on YouTube, Facebook and X, MHA said in a statement. The direction required the platforms to “take all reasonable steps to disable access by Singapore users to these posts”,...",
+          "news_focus_zh": "新加坡內政部於週六宣布，已指示三個社交媒體平台封鎖14則針對印度社群的帖子，這些帖子被認為損害了新加坡的多元文化主義模式。根據《網上犯罪危害法》，警方發出禁用指令，要求YouTube、Facebook和X等平台採取所有合理步驟，禁止新加坡用戶訪問這些帖子。",
+          "background": "新加坡是一個以多元文化為基礎的社會，政府對於任何可能破壞社會和諧的言論持有高度警覺。隨著社交媒體的普及，外部信息對於社會的影響日益增強，特別是針對特定族群的言論可能引發社會緊張。因此，新加坡政府在《網上犯罪危害法》的框架下，積極監控和管理社交媒體內容，以維護社會穩定和公共安全。這項措施反映了政府對於保持社會和諧的重視，特別是在面對外部挑戰時。",
           "stakeholders": [
-            "OpenAI",
-            "Anthropic",
-            "風險投資家",
-            "股市投資者",
-            "人工智慧產業"
+            "新加坡政府",
+            "社交媒體平台",
+            "印度社群",
+            "社會運動者",
+            "公共安全機構"
           ],
-          "analysis": "投資者的策略反映了對人工智慧市場的信心，並認識到該領域的多樣性與潛力。雖然OpenAI和Anthropic在技術路線上存在競爭，但他們的不同專注點可能使得市場能夠容納這兩家公司。參考報導中提到的股市消化能力問題，暗示著市場可能面臨過度擴張的風險，這可能影響投資者的長期回報。不同報導的重點在於，主新聞強調了投資者的多元化策略，而參考報導則關注於市場的整體健康與可持續性，這顯示出對於未來市場動態的不同關注點。"
+          "analysis": "此次新加坡政府針對社交媒體平台的行動，顯示出其對於外部信息影響的高度警覺。封鎖針對印度社群的帖子，可能是因為這些內容被認為會引發社會分裂或矛盾。此舉不僅是對特定言論的直接反應，也反映了新加坡在維護社會和諧方面的政策取向。各社交媒體平台在執行這些禁令時，將面臨如何平衡言論自由與社會穩定的挑戰。未來，若類似事件頻繁發生，可能會引發更廣泛的討論，關於政府在數位時代中對言論的管控與監督的合理性。"
         },
-        "topic_priority_score": 9,
+        "topic_priority_score": 6,
         "event_type": "strategic_move",
-        "supporting_sources": [
-          "The Economist"
-        ],
-        "supporting_titles": [
-          "Can the stockmarket swallow SpaceX, Anthropic and OpenAI?"
-        ],
-        "supporting_summaries": [
-          "Watch out for indigestion"
-        ],
-        "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-spacex-anthropic-and-openai"
-        ],
-        "source_count": 2
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       }
     ],
     "politics": [
       {
         "category": "politics",
         "source_name": "SCMP World",
-        "title": "‘Another empty promise’: Quad’s proposed Fiji port project raises doubts",
-        "link": "https://www.scmp.com/week-asia/politics/article/3356101/another-empty-promise-quads-proposed-fiji-port-project-raises-doubts?utm_source=rss_feed",
-        "summary": "A proposal by the Quad to build a port in Fiji, seen by analysts as a move to counter China’s rising economic clout in the Pacific region, has fuelled doubts about whether the four-member security bloc is committed to completing the project amid differing policy priorities. At a meeting of the Quadrilateral Security Dialogue, or Quad, in New Delhi last week, the foreign ministers of Australia, India, Japan and the United States – Penny Wong, S. Jaishankar, Toshimitsu Motegi and US Secretary of...",
-        "published": "Fri, 05 Jun 2026 08:58:33 +0000",
-        "updated": "Fri, 05 Jun 2026 08:58:33 +0000",
-        "published_at_utc": "2026-06-05T08:58:33+00:00",
-        "id": "https://www.scmp.com/week-asia/politics/article/3356101/another-empty-promise-quads-proposed-fiji-port-project-raises-doubts?utm_source=rss_feed",
-        "topic_type": "diplomacy",
-        "relevance_score": 25,
-        "briefing": {
-          "news_focus": "A proposal by the Quad to build a port in Fiji, seen by analysts as a move to counter China’s rising economic clout in the Pacific region, has fuelled doubts about whether the four-member security bloc is committed to completing the project amid differing policy priorities. At a meeting of the Quadrilateral Security Dialogue, or Quad, in New Delhi last week, the foreign ministers of Australia, India, Japan and the United States – Penny Wong, S. Jaishankar, Toshimitsu Motegi and US Secretary of...",
-          "news_focus_zh": "四國安全對話（Quad）在新德里會議上提出在斐濟建設港口的計畫，旨在對抗中國在太平洋地區的經濟影響力。然而，分析師對該計畫的實現表示懷疑，認為四國成員在政策優先事項上存在差異，可能影響項目的推進。這使得該提案被視為又一空洞的承諾。",
-          "background": "四國安全對話（Quad）由美國、澳大利亞、日本和印度組成，旨在加強成員國之間的安全合作，並應對中國在亞太地區日益增長的影響力。隨著中國在太平洋地區的經濟活動增加，Quad成員國試圖透過基礎設施投資來增強其在該地區的存在。斐濟作為太平洋島國，對於這一戰略尤為重要，因為它可以作為反制中國影響力的前哨。然而，成員國在資金來源、技術支持及政策協調上存在不同的優先考量，這使得該港口計畫的具體實施充滿不確定性。",
-          "stakeholders": [
-            "美國",
-            "澳大利亞",
-            "日本",
-            "印度",
-            "斐濟"
-          ],
-          "analysis": "Quad成員國在斐濟港口建設計畫上的分歧反映出各國對於如何應對中國影響力的不同策略。美國和澳大利亞可能更傾向於加強軍事和經濟合作，而日本和印度則可能更關注於自身的經濟利益和外交政策的獨立性。參考報導提到日本正逐步成為亞洲的新權力中介，這可能影響其在Quad中的角色及對斐濟計畫的支持程度。若Quad無法在政策上達成共識，將可能導致該計畫的流產，進一步削弱其在太平洋地區的影響力。"
-        },
-        "topic_priority_score": 7,
-        "event_type": "security_event",
-        "supporting_sources": [
-          "Taipei Times"
-        ],
-        "supporting_titles": [
-          "Japan is stepping up as Asia’s new powerbroker"
-        ],
-        "supporting_summaries": [
-          ""
-        ],
-        "supporting_links": [
-          "https://www.taipeitimes.com/News/editorials/archives/2026/06/05/2003858551"
-        ],
-        "source_count": 2
-      },
-      {
-        "category": "politics",
-        "source_name": "SCMP World",
-        "title": "Xi heads to North Korea, tech transfer clampdown, inflation pickup",
-        "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3356076/xi-heads-north-korea-tech-transfer-clampdown-inflation-pickup?utm_source=rss_feed",
-        "summary": "Chinese President Xi Jinping will make a state visit to North Korea next week, his first overseas trip this year and his first to the hermit nation since 2019. The trip will take place on Monday and Tuesday, Xinhua said without elaboration. Xi’s last official overseas excursion was to South Korea in October, when he met US President Donald Trump and attended a regional summit. Xi’s visit underscores a rebound in relations with China’s only formal ally following relative isolation during the...",
-        "published": "Fri, 05 Jun 2026 09:00:06 +0000",
-        "updated": "Fri, 05 Jun 2026 09:00:06 +0000",
-        "published_at_utc": "2026-06-05T09:00:06+00:00",
-        "id": "https://www.scmp.com/plus/news/china/diplomacy/article/3356076/xi-heads-north-korea-tech-transfer-clampdown-inflation-pickup?utm_source=rss_feed",
+        "title": "Past failures haunt Quad’s US$20 billion critical minerals push",
+        "link": "https://www.scmp.com/week-asia/economics/article/3356128/past-failures-haunt-quads-us20-billion-critical-minerals-push?utm_source=rss_feed",
+        "summary": "The Quad’s newly announced US$20 billion critical minerals framework aims to loosen China’s near-monopoly on the materials that power modern defence, technology and clean energy industries. But analysts say its success will depend on the ability of Australia, the United States, India and Japan – the Quadrilateral Security Dialogue’s four members – to move beyond policy declarations and deliver measurable outcomes. The initiative, announced after a meeting of Quad foreign ministers on May 27, has...",
+        "published": "Sat, 06 Jun 2026 05:00:08 +0000",
+        "updated": "Sat, 06 Jun 2026 05:00:08 +0000",
+        "published_at_utc": "2026-06-06T05:00:08+00:00",
+        "id": "https://www.scmp.com/week-asia/economics/article/3356128/past-failures-haunt-quads-us20-billion-critical-minerals-push?utm_source=rss_feed",
         "topic_type": "diplomacy",
         "relevance_score": 23,
         "briefing": {
-          "news_focus": "Chinese President Xi Jinping will make a state visit to North Korea next week, his first overseas trip this year and his first to the hermit nation since 2019. The trip will take place on Monday and Tuesday, Xinhua said without elaboration. Xi’s last official overseas excursion was to South Korea in October, when he met US President Donald Trump and attended a regional summit. Xi’s visit underscores a rebound in relations with China’s only formal ally following relative isolation during the...",
-          "news_focus_zh": "中國國家主席習近平將於下週一和二對北韓進行國事訪問，這是他自2019年以來首次造訪該國，也是他今年的首次海外行程。此次訪問強調了中北兩國在經歷相對孤立後的關係回暖。習近平上一次的官方海外行程是在去年十月，當時他前往南韓與美國總統特朗普會晤並參加區域峰會。",
-          "background": "習近平的訪問背景涉及中北兩國的外交關係。北韓近年來因核武發展受到國際社會的制裁，與中國的關係變得尤為重要。中國是北韓唯一的正式盟友，兩國在經濟和安全上有著密切的合作。此次訪問的時間點也特別引人注目，因為北韓最近揭示了一個新的核燃料生產設施，顯示出其在核武器發展上的進一步行動，這可能會影響地區安全局勢。",
+          "news_focus": "The Quad’s newly announced US$20 billion critical minerals framework aims to loosen China’s near-monopoly on the materials that power modern defence, technology and clean energy industries. But analysts say its success will depend on the ability of Australia, the United States, India and Japan – the Quadrilateral Security Dialogue’s four members – to move beyond policy declarations and deliver measurable outcomes. The initiative, announced after a meeting of Quad foreign ministers on May 27, has...",
+          "news_focus_zh": "Quad國家（澳大利亞、美國、印度和日本）於5月27日的外長會議後，宣布了一項價值200億美元的關鍵礦產框架，旨在減少中國在現代防務、科技及清潔能源產業中的近乎壟斷地位。分析師指出，該計畫的成功取決於四國能否超越政策宣言，實現可衡量的成果。",
+          "background": "Quad（四方安全對話）是由澳大利亞、美國、印度和日本組成的戰略聯盟，旨在促進地區安全與經濟合作。隨著全球對關鍵礦產需求的增加，特別是在科技和清潔能源領域，Quad國家意識到必須減少對中國的依賴。中國在鋰、鈷、稀土等關鍵礦產的供應鏈中佔據主導地位，這使得其他國家在面對地緣政治緊張時，感受到供應安全的威脅。因此，Quad的這一新框架被視為一個重要的戰略舉措，旨在加強成員國之間的合作，並推動本地開採及加工能力的提升。",
           "stakeholders": [
-            "中國",
-            "北韓",
+            "澳大利亞",
             "美國",
-            "俄羅斯",
-            "南韓"
+            "印度",
+            "日本",
+            "中國"
           ],
-          "analysis": "習近平的訪問可能旨在鞏固中北關係，特別是在北韓加強與俄羅斯的聯繫之際。參考報導指出，北韓新揭示的核燃料設施可能使中國在國際社會中面臨更大的壓力，尤其是來自美國及其盟友的關注。不同報導強調了習近平訪問的不同側面，《The Hindu International》提到北韓的新核設施，而《Al Jazeera》則強調了中北關係的鞏固。這表明，習近平的訪問不僅是外交上的回暖，也可能是對北韓核政策的一種默許或支持，未來可能引發國際社會的反應。"
+          "analysis": "Quad的200億美元關鍵礦產框架面臨的挑戰在於如何從政策宣言轉化為實際成果。四國在資金分配、技術共享及市場開放等方面的合作將是成功的關鍵。然而，過去的失敗經驗使得外界對該計畫的可行性表示懷疑。各國在政策目標上可能存在差異，例如，澳大利亞和美國可能更注重於安全與防務，而印度和日本則可能更關心經濟利益及環境影響。這些潛在的利益衝突可能會影響四國的合作效率，並對該框架的實施造成阻礙。"
         },
         "topic_priority_score": 7,
-        "event_type": "diplomatic_move",
-        "supporting_sources": [
-          "The Hindu International",
-          "Al Jazeera"
-        ],
-        "supporting_titles": [
-          "Chinese leader Xi Jinping will travel to North Korea next week in first visit in years",
-          "China’s Xi headed to North Korea in bid to shore up ties"
-        ],
-        "supporting_summaries": [
-          "The announcement came a day after North Korea unveiled a new facility to produce nuclear bomb fuels",
-          "The Chinese leader's visit on June 8-9, his first in seven years, comes as Pyongyang strengthens relations with Russia."
-        ],
-        "supporting_links": [
-          "https://www.thehindu.com/news/international/chinese-leader-xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-in-years/article71063856.ece",
-          "https://www.aljazeera.com/news/2026/6/5/chinas-xi-headed-to-north-korea-in-bid-to-shore-up-ties?traffic_source=rss"
-        ],
-        "source_count": 3
+        "event_type": "security_event",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       },
       {
         "category": "politics",
@@ -235,27 +174,110 @@
         "relevance_score": 22,
         "briefing": {
           "news_focus": "Tensions appear to be emerging within the Israel–U.S. alliance as differences grow over how to deal with Iran. While Washington seems increasingly open to diplomatic engagement and a potential agreement, Israel continues to advocate a tougher, security-first approach amid escalating regional tensions.In this video, we examine the latest developments in Lebanon, President Trump’s dilemma, the UAE’s role in regional diplomacy, and more.",
-          "news_focus_zh": "以色列與美國之間的聯盟出現緊張局勢，主要因為雙方在如何應對伊朗的問題上存在分歧。美方似乎越來越傾向於外交接觸和潛在協議，而以色列則持續主張採取更強硬的安全優先策略，尤其是在地區緊張局勢升高的背景下。",
-          "background": "以色列與美國的聯盟歷史悠久，兩國在安全與軍事合作上有著密切的關係。然而，隨著伊朗在中東地區影響力的擴大，這種關係面臨新的挑戰。美國政府在應對伊朗的策略上出現了內部分歧，部分官員主張透過外交手段尋求解決方案，而以色列則擔心這樣的做法可能削弱其安全保障。這種分歧在地區局勢不斷變化的情況下，顯得尤為突出。",
+          "news_focus_zh": "以色列與美國之間的聯盟出現緊張，主要因雙方在如何應對伊朗問題上意見不合。美方似乎越來越傾向於外交接觸及潛在協議，而以色列則堅持採取更為強硬的安全優先策略，特別是在地區緊張局勢加劇的背景下。這一變化引發了對兩國關係未來走向的關注。",
+          "background": "以色列與美國的聯盟歷來以安全合作為基礎，尤其在面對伊朗的核計畫及其在中東地區的影響力時。美國在過去的幾年中，特別是在特朗普政府期間，對伊朗採取了強硬立場，並退出了伊朗核協議。然而，隨著拜登政府上任後，對於與伊朗的外交接觸重新開放，這使得以色列對美國的政策感到擔憂，尤其是在伊朗核問題及其地區影響力日益增強的情況下。",
           "stakeholders": [
             "以色列政府",
             "美國政府",
             "伊朗政府",
-            "阿聯酋",
+            "阿聯酋政府",
             "地區安全專家"
           ],
-          "analysis": "以色列與美國之間的緊張關係反映出兩國在中東政策上的根本差異。美國的外交接觸可能被視為對伊朗的妥協，而以色列則擔心這會使其在地區安全上處於劣勢。這種分歧可能導致以色列在未來採取更激進的軍事行動，以維護其國家安全。此外，其他地區國家如阿聯酋在調解過程中的角色也可能影響雙方的互動。若美國與伊朗達成協議，可能會使以色列感到孤立，進一步加劇雙方的緊張關係。"
+          "analysis": "此次報導突顯了以色列與美國之間的政策分歧，特別是在應對伊朗的策略上。美國的外交接觸意圖可能使以色列感到其安全利益受到威脅，因為以色列長期以來一直主張對伊朗採取強硬措施。這種分歧可能導致兩國在未來的地區政策上出現更多摩擦，並影響到其他地區國家的外交策略，例如阿聯酋在中東外交中的角色。隨著地區局勢的變化，這種緊張關係可能進一步升級，特別是在面對伊朗的挑戰時。"
         },
         "topic_priority_score": 8,
         "event_type": "security_event",
+        "is_major_update": true,
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
         "supporting_links": [],
         "source_count": 1
+      },
+      {
+        "category": "politics",
+        "source_name": "The Guardian Business",
+        "title": "Aviation industry looks skywards as leaders fly in for Rio summit",
+        "link": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
+        "summary": "Oil tankers may be stuck behind strait of Hormuz, but holding the Iata AGM in Brazil defies warnings of impending shortages Nothing says jet fuel crisis, as one prospective attender put it, like flying everyone to Rio de Janeiro. Aviation leaders will converge in Brazil this weekend for the Iata AGM, the annual global airline summit, with the industry still, for the most part, looking resolutely skyward. The oil tankers may still be stuck behind the strait of Hormuz as the conflict between the US, Israel and Iran flickers on, but for now, airlines continue to defy dire warnings of impending shortages which had stoked fears of a summer of chaos for European holidaymakers. Continue reading...",
+        "published": "Sat, 06 Jun 2026 09:00:05 GMT",
+        "updated": "2026-06-06T09:00:05Z",
+        "published_at_utc": "2026-06-06T09:00:05+00:00",
+        "id": "https://www.theguardian.com/business/2026/jun/06/aviation-industry-looks-skywards-as-leaders-fly-in-for-rio-summit",
+        "topic_type": "diplomacy",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "Oil tankers may be stuck behind strait of Hormuz, but holding the Iata AGM in Brazil defies warnings of impending shortages Nothing says jet fuel crisis, as one prospective attender put it, like flying everyone to Rio de Janeiro. Aviation leaders will converge in Brazil this weekend for the Iata AGM, the annual global airline summit, with the industry still, for the most part, looking resolutely skyward. The oil tankers may still be stuck behind the strait of Hormuz as the conflict between the US, Israel and Iran flickers on, but for now, airlines continue to defy dire warnings of impending shortages which had stoked fears of a summer of chaos for European holidaymakers. Continue reading...",
+          "news_focus_zh": "國際航空運輸協會（IATA）年會於本週末在巴西里約熱內盧召開，全球航空業領袖將聚集一堂。儘管霍爾木茲海峽的油輪受阻，且美國、以色列與伊朗之間的衝突仍在持續，航空公司仍然對即將到來的燃料短缺警告不以為然，繼續展望未來。",
+          "background": "當前全球航空業正面臨多重挑戰，包括因伊朗戰爭導致的燃料成本上升及空域受限，這對於航空公司的復甦造成壓力。IATA年會的召開正值這一關鍵時刻，航空公司需在提高票價與限制運力的情況下，應對燃料價格的波動。此外，航空業也面臨新機型短缺的問題，這使得航空公司在擴展運力方面受到限制，進一步影響市場競爭力。",
+          "stakeholders": [
+            "國際航空運輸協會（IATA）",
+            "航空公司",
+            "乘客",
+            "燃料供應商",
+            "航空製造商"
+          ],
+          "analysis": "此次IATA年會的召開，反映出航空業在面對燃料危機及市場不確定性時的韌性。儘管有報導指出，伊朗戰爭可能會進一步推高燃料價格，並影響航空運營，但航空公司仍選擇在此時聚集，顯示出他們對未來的信心。參考報導中提到，航空公司可能會透過提高票價和調整運力來應對這些挑戰，這可能會影響消費者的出行選擇。此外，對於新機型的短缺問題，航空公司需要長期規劃以滿足未來需求。各方利益關係的角力將在會議中進一步展現，尤其是如何在成本上升的環境中維持競爭力。"
+        },
+        "topic_priority_score": 7,
+        "event_type": "security_event",
+        "supporting_sources": [
+          "SCMP World"
+        ],
+        "supporting_titles": [
+          "Aviation leaders face Iran war fuel shock, rising fare prices at Rio summit"
+        ],
+        "supporting_summaries": [
+          "Global ⁠airline chiefs open their annual summit in Rio de Janeiro on Saturday facing a sharper test of the industry’s post-pandemic recovery, as the Iran war drives up fuel costs and disrupts airspace while carriers try to cushion the blow with higher fares and tighter capacity. The annual meeting of the International Air Transport Association (IATA) from Saturday to Monday ‌comes as that fuel shock collides with another problem airlines cannot quickly fix: a shortage of new aircraft. Boeing and..."
+        ],
+        "supporting_links": [
+          "https://www.scmp.com/news/world/americas/article/3356207/aviation-leaders-face-iran-war-fuel-shock-rising-fare-prices-rio-summit?utm_source=rss_feed"
+        ],
+        "source_count": 2
       }
     ],
     "economy": [
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "Blackouts, hyperinflation, dissent: Iran considers perilous prospect of peace",
+        "link": "https://www.theguardian.com/world/2026/jun/06/blackouts-hyperinflation-dissent-iran-considers-perilous-prospect-of-peace",
+        "summary": "Conditions that led to bloody prewar protests have been made worse, commentators say Iran is already preparing for the perilous transition from wartime unity to a fractious peace marked by hyperinflation, a 10% contraction in the economy, power cuts and calls for a triumphalist government to end its unprecedented hunting down of dissent. With peace not yet secured, the debates within the regime about Iran’s future are only just starting to emerge but its rulers are clearly thinking about how after surviving the war, they can survive the peace. Continue reading...",
+        "published": "Sat, 06 Jun 2026 08:00:04 GMT",
+        "updated": "2026-06-06T08:00:04Z",
+        "published_at_utc": "2026-06-06T08:00:04+00:00",
+        "id": "https://www.theguardian.com/world/2026/jun/06/blackouts-hyperinflation-dissent-iran-considers-perilous-prospect-of-peace",
+        "topic_type": "inflation",
+        "relevance_score": 23,
+        "briefing": {
+          "news_focus": "Conditions that led to bloody prewar protests have been made worse, commentators say Iran is already preparing for the perilous transition from wartime unity to a fractious peace marked by hyperinflation, a 10% contraction in the economy, power cuts and calls for a triumphalist government to end its unprecedented hunting down of dissent. With peace not yet secured, the debates within the regime about Iran’s future are only just starting to emerge but its rulers are clearly thinking about how after surviving the war, they can survive the peace. Continue reading...",
+          "news_focus_zh": "伊朗正面臨從戰時團結轉向分裂和平的危機，這一過程伴隨著超通脹、經濟收縮10%、停電以及對政府的強烈不滿。評論人士指出，戰爭未結束，政府內部對未來的辯論已經開始，當局正在思考如何在戰後生存，特別是在面對不斷上升的社會不滿與經濟困境的情況下。",
+          "background": "伊朗的經濟在過去幾年中受到多重挑戰，包括國際制裁、內部政策失誤及地緣政治緊張局勢。這些因素導致了高通脹和經濟萎縮，民眾生活困苦，社會不滿情緒高漲。隨著戰爭的持續，政府在維持內部穩定與應對外部壓力之間面臨困難。現在，隨著和平的可能性出現，政府需要重新評估其政策以應對即將到來的挑戰。",
+          "stakeholders": [
+            "伊朗政府",
+            "民眾",
+            "經濟學家",
+            "國際社會",
+            "反對派"
+          ],
+          "analysis": "伊朗政府在戰後的過渡期面臨著多重挑戰，特別是如何應對經濟困境與社會不滿。政府內部的辯論顯示出不同派系對未來路徑的看法可能存在分歧，部分官員可能主張強硬鎮壓異議，而另一些則可能呼籲改革以緩解民生困境。參考報導未直接涉及伊朗的經濟情況，但提及美元的貶值問題，可能暗示伊朗面臨的國際經濟環境也在影響其內部政策選擇。未來，若無法有效應對經濟問題，可能導致更大的社會動盪與政治不穩定。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "inflation_data",
+        "supporting_sources": [
+          "The Economist"
+        ],
+        "supporting_titles": [
+          "Just how debased is the dollar?"
+        ],
+        "supporting_summaries": [
+          "Not nearly as much as it could be"
+        ],
+        "supporting_links": [
+          "https://www.economist.com/finance-and-economics/2026/01/28/just-how-debased-is-the-dollar"
+        ],
+        "source_count": 2
+      },
       {
         "category": "economy",
         "source_name": "The Guardian World",
@@ -267,22 +289,23 @@
         "published_at_utc": "2026-06-05T01:07:15+00:00",
         "id": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
         "topic_type": "sanctions",
-        "relevance_score": 23,
+        "relevance_score": 21,
         "briefing": {
           "news_focus": "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’ The United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family, alongside members of the Castro family, in Washington’s latest ramping up of pressure on its communist-led neighbour. Among those targeted were the son and a grandson of former president Raúl Castro, who no longer holds an official position but remains a key figure on decisions about the future of the island. Continue reading...",
-          "news_focus_zh": "美國宣布對古巴總統及其家族成員實施新一輪經濟制裁，這是美方對其共產主義鄰國施加壓力的最新舉措。此次制裁的對象包括前總統勞爾·卡斯特羅的兒子及孫子，儘管勞爾·卡斯特羅不再擔任官方職位，但他仍在古巴未來的決策中扮演重要角色。",
-          "background": "美國與古巴的關係長期緊張，特別是在古巴政府的共產主義政策下。近年來，美國政府多次對古巴實施經濟制裁，旨在迫使古巴政府進行政治與經濟改革。此次制裁正值美國政府加強對古巴施壓的背景下，尤其是在古巴面臨經濟困境及社會動盪的情況下。美國官員表示，這些制裁是為了促進古巴成為一個「良好治理的國家」。",
+          "news_focus_zh": "美國宣布對古巴總統及卡斯特羅家族成員實施新經濟制裁。美國國務卿馬可·魯比奧表示，任何向被列名實體提供服務的人都可能面臨制裁。此次制裁的對象包括前總統勞爾·卡斯特羅的兒子及孫子，儘管勞爾已不再擔任官方職位，但仍對古巴未來的決策有重要影響。",
+          "background": "美國與古巴的關係長期緊張，尤其是在古巴共產主義政權下。自2015年以來，兩國在奧巴馬政府時期曾有過接觸，但隨著特朗普政府的上任，對古巴的制裁政策再次強化。美國政府希望通過經濟制裁迫使古巴政府進行政治改革，並改善人權狀況。此次制裁的對象包括卡斯特羅家族成員，顯示出美國對古巴內部權力結構的直接關注。",
           "stakeholders": [
             "美國政府",
             "古巴政府",
             "卡斯特羅家族",
-            "古巴民眾",
-            "國際社會"
+            "古巴人民",
+            "國際人權組織"
           ],
-          "analysis": "美國的制裁措施顯示出其對古巴政策的強硬立場，特別是針對卡斯特羅家族的制裁，意在削弱其在古巴政治中的影響力。根據參考報導，特朗普總統的言論強調了美國希望古巴改善治理的意圖，這與制裁措施相輔相成。然而，這些制裁可能會加劇古巴的經濟困境，並引發國內對政府的不滿情緒。不同報導中，The Guardian更強調了制裁對卡斯特羅家族的直接影響，而The Hindu則提及特朗普對古巴未來的期望，顯示出美國對古巴政策的複雜性及其多重目標。"
+          "analysis": "此次制裁的具體新增內容包括針對古巴總統及卡斯特羅家族成員的直接經濟制裁，這是美國對古巴施壓的最新舉措。根據參考報導，特朗普總統強調美國希望古巴成為一個「良好管理的國家」，這表明美國對古巴內部治理的期望。這些制裁可能會進一步加劇古巴的經濟困境，並可能引發古巴政府的強烈反應。美國的制裁政策在國內外均存在爭議，支持者認為這是促進變革的必要手段，而反對者則認為這會加深古巴人民的困苦，無助於改善人權狀況。"
         },
         "topic_priority_score": 8,
         "event_type": "macro_signal",
+        "is_major_update": true,
         "supporting_sources": [
           "The Hindu International"
         ],
@@ -299,123 +322,60 @@
       },
       {
         "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "China sees revival of foreign investors through IPOs, convertibles: UBS",
-        "link": "https://www.scmp.com/business/china-business/article/3356097/china-sees-revival-foreign-investors-through-ipos-convertibles-ubs?utm_source=rss_feed",
-        "summary": "Foreign investors are returning to Chinese assets through convertible bonds and IPOs, helping fuel a fundraising rebound in Hong Kong as global investors seek exposure to the country’s artificial intelligence (AI), semiconductor and advanced manufacturing sectors. According to estimates by UBS, Chinese companies raised about US$43 billion through equity capital market transactions in Hong Kong in the first five months of 2026, up from US$28 billion a year earlier. Convertible bonds have emerged...",
-        "published": "Fri, 05 Jun 2026 10:00:16 +0000",
-        "updated": "Fri, 05 Jun 2026 10:00:16 +0000",
-        "published_at_utc": "2026-06-05T10:00:16+00:00",
-        "id": "https://www.scmp.com/business/china-business/article/3356097/china-sees-revival-foreign-investors-through-ipos-convertibles-ubs?utm_source=rss_feed",
-        "topic_type": "markets",
-        "relevance_score": 21,
+        "source_name": "SCMP World",
+        "title": "The problem with Japan’s bid to strengthen energy security, supply chains",
+        "link": "https://www.scmp.com/opinion/asia-opinion/article/3355995/problem-japans-bid-strengthen-energy-security-supply-chains?utm_source=rss_feed",
+        "summary": "What is in effect Japan’s version of the Belt and Road Initiative is being rolled out at an accelerating pace. But unlike China’s global infrastructure initiative, which mainly takes the form of highways, railways and sea lanes, Japan’s project is all about energy networks and supply chains. It poses a further challenge to America’s waning economic and strategic influence in Asia, the world’s most populous, resource-rich and potentially powerful region. What is more, it is a cooperative venture...",
+        "published": "Sat, 06 Jun 2026 08:30:05 +0000",
+        "updated": "Sat, 06 Jun 2026 08:30:05 +0000",
+        "published_at_utc": "2026-06-06T08:30:05+00:00",
+        "id": "https://www.scmp.com/opinion/asia-opinion/article/3355995/problem-japans-bid-strengthen-energy-security-supply-chains?utm_source=rss_feed",
+        "topic_type": "supply_chain",
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "Foreign investors are returning to Chinese assets through convertible bonds and IPOs, helping fuel a fundraising rebound in Hong Kong as global investors seek exposure to the country’s artificial intelligence (AI), semiconductor and advanced manufacturing sectors. According to estimates by UBS, Chinese companies raised about US$43 billion through equity capital market transactions in Hong Kong in the first five months of 2026, up from US$28 billion a year earlier. Convertible bonds have emerged...",
-          "news_focus_zh": "根據瑞銀的報告，外國投資者正透過可轉換債券和首次公開募股（IPO）重新回流至中國資產，這一趨勢促進了香港的資金募集回升。全球投資者尋求在中國的人工智慧、半導體和先進製造業等領域的投資機會。瑞銀估計，2026年前五個月，中國企業在香港透過股權資本市場交易籌集了約430億美元，較去年同期的280億美元顯著增長。",
-          "background": "隨著全球市場的不確定性，投資者對中國市場的興趣逐漸回升，尤其是在科技和製造業領域。中國政府近年來推動高科技產業的發展，並在政策上提供支持，吸引外資進入。香港作為中國的金融中心，對於外國投資者來說仍然具有吸引力，特別是在經濟復甦的背景下，資本市場的活躍程度也隨之提升。可轉換債券作為一種靈活的融資工具，正受到越來越多企業的青睞。",
+          "news_focus": "What is in effect Japan’s version of the Belt and Road Initiative is being rolled out at an accelerating pace. But unlike China’s global infrastructure initiative, which mainly takes the form of highways, railways and sea lanes, Japan’s project is all about energy networks and supply chains. It poses a further challenge to America’s waning economic and strategic influence in Asia, the world’s most populous, resource-rich and potentially powerful region. What is more, it is a cooperative venture...",
+          "news_focus_zh": "日本正在推動一項類似於中國「一帶一路」的計畫，旨在加強其能源安全與供應鏈。這項計畫的推進速度加快，主要集中在建立能源網絡和供應鏈，與中國的基礎設施建設有所不同。這一舉措對美國在亞洲的經濟和戰略影響力構成了進一步挑戰，因為亞洲是全球人口最多、資源最豐富且潛力巨大的地區。",
+          "background": "日本的能源安全問題日益受到重視，特別是在全球能源市場波動及地緣政治緊張的背景下。隨著對可再生能源的需求增加以及對外依賴的減少，日本政府正積極尋求多元化的能源供應來源。這一背景促使日本推動類似於中國「一帶一路」的計畫，專注於能源網絡和供應鏈的建設，以確保其能源安全和經濟穩定。",
           "stakeholders": [
-            "外國投資者",
-            "中國企業",
-            "香港金融市場",
-            "瑞銀",
-            "政府政策制定者"
+            "日本政府",
+            "美國",
+            "中國",
+            "亞洲鄰國",
+            "能源企業"
           ],
-          "analysis": "外國投資者的回流顯示出市場對中國經濟復甦的信心，尤其是在高科技領域的潛力。根據瑞銀的報告，這一趨勢不僅有助於香港的資本市場復甦，也可能促進中國企業在全球市場的競爭力。然而，市場仍面臨不確定性，包括地緣政治風險和全球經濟變化。參考報導提到的2025年市場發展回顧，雖然未具體提及中國，但反映出全球投資者對市場波動的敏感性，這可能影響未來的投資決策。各方利益關係的角力將持續影響資本流動的方向。"
+          "analysis": "日本的這一計畫可能會改變亞洲的能源格局，並對美國的影響力造成挑戰。日本希望通過加強與其他國家的合作，來提升自身在全球能源市場中的地位。這一舉措也可能引發地區內其他國家的關注和反應，特別是那些依賴中國投資的國家。儘管目前沒有其他報導提供進一步的細節，但可以預見，這一計畫將在未來引發各方的競爭與合作動態，尤其是在資源分配和市場開放方面。"
         },
-        "topic_priority_score": 4,
-        "event_type": "market_repricing",
-        "supporting_sources": [
-          "The Economist"
-        ],
-        "supporting_titles": [
-          "The five biggest market developments of 2025"
-        ],
-        "supporting_summaries": [
-          "Looking back on a rollercoaster year for investors"
-        ],
-        "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2025/12/21/the-five-biggest-market-developments-of-2025"
-        ],
-        "source_count": 2
-      },
-      {
-        "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "Mainland China’s investors face new hurdles as Hong Kong brokers tighten rules",
-        "link": "https://www.scmp.com/business/china-business/article/3356095/mainland-chinas-investors-face-new-hurdles-hong-kong-brokers-tighten-rules?utm_source=rss_feed",
-        "summary": "Shenzhen-based AI engineer Sihan Wang recently decided to liquidate all holdings in his Futu Securities account, which he opened a year ago, citing concerns that escalating regulatory oversight could restrict his ability to manage overseas investments. “I would rather step back now than risk having my funds caught up in future restrictions,” Wang said. He is now considering shifting capital into mainland-listed gold products and mutual funds. Wang’s move reflects a broader squeeze on mainland...",
-        "published": "Fri, 05 Jun 2026 08:47:54 +0000",
-        "updated": "Fri, 05 Jun 2026 08:47:54 +0000",
-        "published_at_utc": "2026-06-05T08:47:54+00:00",
-        "id": "https://www.scmp.com/business/china-business/article/3356095/mainland-chinas-investors-face-new-hurdles-hong-kong-brokers-tighten-rules?utm_source=rss_feed",
-        "topic_type": "markets",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "Shenzhen-based AI engineer Sihan Wang recently decided to liquidate all holdings in his Futu Securities account, which he opened a year ago, citing concerns that escalating regulatory oversight could restrict his ability to manage overseas investments. “I would rather step back now than risk having my funds caught up in future restrictions,” Wang said. He is now considering shifting capital into mainland-listed gold products and mutual funds. Wang’s move reflects a broader squeeze on mainland...",
-          "news_focus_zh": "深圳的AI工程師王思涵近期決定清算在富途證券的所有持股，原因是擔心日益嚴格的監管措施可能會限制他管理海外投資的能力。他表示，寧願現在撤退，也不希望未來資金受到限制。王的行動反映了大陸投資者面臨的更大壓力，許多人開始考慮將資金轉向內地上市的黃金產品和共同基金。",
-          "background": "隨著中國政府對金融市場的監管加強，特別是在海外投資方面，許多大陸投資者感受到前所未有的壓力。香港作為國際金融中心，曾吸引大量來自中國大陸的資金，但近期的政策變化使得投資者對未來的資金流動感到不安。根據報導，香港的券商也開始收緊規則，這進一步加劇了投資者的焦慮。這一情況可能會影響香港的金融活力，並改變資金流向。",
-          "stakeholders": [
-            "大陸投資者",
-            "富途證券",
-            "香港券商",
-            "中國政府",
-            "金融市場分析師"
-          ],
-          "analysis": "王思涵的決定反映了大陸投資者對香港金融市場的信心下降，這可能會導致資金流出香港，轉向內地的投資產品。根據參考報導，香港正試圖重振其金融活力，但面對北京風格的政治影響，這一努力可能會受到挑戰。不同報導的重點在於，主新聞強調了投資者的個人行動及其背後的擔憂，而參考報導則更關注香港整體的金融環境及其吸引力。未來，若監管政策持續收緊，可能會進一步影響香港作為金融中心的地位，並促使更多投資者尋求其他市場的機會。"
-        },
-        "topic_priority_score": 4,
-        "event_type": "market_repricing",
-        "supporting_sources": [
-          "The Economist"
-        ],
-        "supporting_titles": [
-          "Hong Kong is getting its financial mojo back"
-        ],
-        "supporting_summaries": [
-          "The hub is attracting more deals. And more Beijing-style politics"
-        ],
-        "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2026/02/05/hong-kong-is-getting-its-financial-mojo-back"
-        ],
-        "source_count": 2
+        "topic_priority_score": 6,
+        "event_type": "energy_supply_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
-        "title": "We need to stop AI developing without humans, says Anthropic co-founder",
-        "link": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Technology",
-        "published_at_utc": "2026-06-05T07:17:39+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "TSMC struggles to keep up with AI demand: ‘We can only support so much’",
-        "link": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-06-04T14:15:44+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "The TikTok Ban Was Never About TikTok",
-        "link": "https://www.wired.com/story/made-in-china-tiktok-never-dies/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-06-04T17:06:21+00:00",
+        "title": "China launches space computing hub as SpaceX gears up for historic IPO",
+        "link": "https://www.scmp.com/tech/big-tech/article/3356102/china-launches-space-computing-hub-spacex-gears-historic-ipo?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-05T14:00:07+00:00",
         "relevance_score": 16
       },
       {
-        "title": "Artificial intelligence companies warn of bottlenecks",
-        "link": "https://www.taipeitimes.com/News/biz/archives/2026/06/05/2003858539",
-        "source_name": "Taipei Times",
-        "published_at_utc": "2026-06-05T00:00:00+00:00",
+        "title": "Former cyber executive turned whistleblower accuses IBM of covering up several data breaches",
+        "link": "https://techcrunch.com/2026/06/05/former-cyber-executive-turned-whistleblower-accuses-ibm-of-covering-up-several-data-breaches/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-06-05T20:31:04+00:00",
         "relevance_score": 15
       },
       {
-        "title": "These LLMs are the best at resisting Russian propaganda",
-        "link": "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-06-04T20:44:31+00:00",
+        "title": "Silicon Valley’s lure is fading for India’s tech talent",
+        "link": "https://restofworld.org/2026/silicon-valley-status/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source_name": "Rest of World",
+        "published_at_utc": "2026-06-05T13:00:00+00:00",
         "relevance_score": 15
       },
       {
@@ -426,140 +386,140 @@
         "relevance_score": 15
       },
       {
-        "title": "Google is letting social media stars customize their search result page",
-        "link": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-06-04T18:32:23+00:00",
+        "title": "Did Meta’s own AI help hack into Instagram users’ accounts? | Explained",
+        "link": "https://www.thehindu.com/sci-tech/technology/did-metas-own-ai-help-hack-into-instagram-users-accounts-explained/article71068359.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-06T05:34:11+00:00",
         "relevance_score": 14
       },
       {
-        "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-        "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-04T22:43:26+00:00",
+        "title": "Astronauts take shelter as air leaks worsen on International Space Station",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3356173/astronauts-take-shelter-air-leaks-worsen-international-space-station?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-05T16:57:45+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+        "link": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+        "source_name": "MIT Technology Review",
+        "published_at_utc": "2026-06-05T12:10:00+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "How a USB-connected speaker can infect a PC without ever being touched",
+        "link": "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-06-05T21:00:29+00:00",
         "relevance_score": 13
       },
       {
-        "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-        "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-04T22:29:50+00:00",
+        "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+        "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-06-05T18:45:20+00:00",
         "relevance_score": 13
       },
       {
-        "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-        "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-04T21:30:00+00:00",
+        "title": "This is your laptop… on AI",
+        "link": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-06-05T16:39:07+00:00",
         "relevance_score": 13
       }
     ],
     "politics": [
       {
-        "title": "Watch: U.S.- Iran war: Peace talks stall after Hezbollah rejects truce",
-        "link": "https://www.thehindu.com/videos/watch-us-iran-war-peace-talks-stall-after-hezbollah-rejects-truce/article71064511.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-05T09:14:57+00:00",
-        "relevance_score": 22
-      },
-      {
-        "title": "Friday briefing: How Gaza, Lebanon and Iran have found themselves caught in an escalation without end",
-        "link": "https://www.theguardian.com/world/2026/jun/05/friday-briefing-how-gaza-lebanon-and-iran-have-found-themselves-caught-in-an-escalation-without-end",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-05T05:48:40+00:00",
-        "relevance_score": 22
-      },
-      {
-        "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-        "link": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC World",
-        "published_at_utc": "2026-06-05T01:44:16+00:00",
-        "relevance_score": 22
-      },
-      {
-        "title": "China ready to work with Myanmar to maintain border stability: Wang Yi",
-        "link": "https://www.thehindu.com/news/international/china-ready-to-work-with-myanmar-to-maintain-border-stability-wang-yi/article71064645.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-05T09:13:09+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "EU summit with western Balkan leaders to reaffirm membership prospects",
-        "link": "https://www.theguardian.com/world/2026/jun/05/eu-summit-montenegro-western-balkan-countries-membership-enlargement",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-05T04:00:27+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "UK intelligence suggests there could be Russian attack on Nato ‘as soon as 2030’, says Starmer - UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/jun/05/keir-starmer-andy-burnham-labour-leadership-rivals-makerfield-byelection-latest-news-updates",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-05T10:58:18+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Israel-Iran war LIVE: Seven killed as Israel strikes in south Lebanon’s Tyre",
-        "link": "https://www.thehindu.com/news/international/israel-iran-war-live-updates-june-5-2026-hezbollah-lebanon-news-strait-of-hormuz/article71063774.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-05T09:56:42+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues",
-        "link": "https://www.aljazeera.com/news/2026/6/5/iran-war-day-98-tehran-raises-doubts-on-deal-as-lebanon-fighting-continues?traffic_source=rss",
+        "title": "Is the latest US ceasefire deal for Lebanon meaningless?",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/6/5/is-the-latest-us-ceasefire-deal-for-lebanon-meaningless?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-05T06:01:07+00:00",
+        "published_at_utc": "2026-06-05T18:45:16+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Is US wielding new tariff threat to secure big bargain in India trade talks?",
-        "link": "https://www.scmp.com/week-asia/politics/article/3356049/us-wielding-new-tariff-threat-secure-big-bargain-india-trade-talks?utm_source=rss_feed",
+        "title": "Aviation leaders face Iran war fuel shock, rising fare prices at Rio summit",
+        "link": "https://www.scmp.com/news/world/americas/article/3356207/aviation-leaders-face-iran-war-fuel-shock-rising-fare-prices-rio-summit?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-06-05T05:27:02+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Chinese leader Xi Jinping visit to North Korea confirmed for next week",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3356021/chinese-leader-xi-jinping-visit-north-korea-confirmed-next-week?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-05T02:09:38+00:00",
+        "published_at_utc": "2026-06-06T09:30:31+00:00",
         "relevance_score": 19
+      },
+      {
+        "title": "Trump has squeezed China in Cuba, Panama and Venezuela. Is Nicaragua next?",
+        "link": "https://www.scmp.com/economy/china-economy/article/3356132/trump-has-squeezed-china-cuba-panama-and-venezuela-nicaragua-next?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-06T09:00:07+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "‘It’s Not a Joke’: A ‘Simpsons’ Writer Holds His First Presidential Campaign Rally",
+        "link": "https://www.wired.com/story/simpsons-writer-dan-greaney-holds-his-first-presidential-campaign-rally/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-06T09:00:00+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Iran dismisses idea of Trump meeting Supreme Leader",
+        "link": "https://www.thehindu.com/news/international/iran-dismisses-idea-of-trump-meeting-supreme-leader/article71068906.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-06T08:02:05+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "PLA says it will stay on ‘high alert’ after Dutch warship crosses Taiwan Strait",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3356200/pla-says-it-will-stay-high-alert-after-dutch-warship-crosses-taiwan-strait?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-06T08:00:10+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Lebanon considers largest amnesty in 35 years amid protests",
+        "link": "https://www.thehindu.com/news/international/lebanon-considers-largest-amnesty-in-35-years-amid-protests/article71068759.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-06T07:26:12+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Federal judge strikes down Trump administration immigration policy affecting 39 countries",
+        "link": "https://www.thehindu.com/news/international/federal-judge-strikes-down-trump-administration-immigration-policy-affecting-39-countries/article71068341.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-06T05:13:00+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "U.S. military says it shot down Iranian missiles, drones launched toward Gulf allies, Strait of Hormuz",
+        "link": "https://www.thehindu.com/news/international/us-military-says-it-shot-down-iranian-drones-launched-toward-strait-of-hormuz/article71067819.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-06T04:38:42+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Does Pete Hegseth’s volte-face on China reflect an America in decline?",
+        "link": "https://www.scmp.com/opinion/world-opinion/article/3355862/does-pete-hegseths-volte-face-china-reflect-america-decline?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-06T01:30:05+00:00",
+        "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "No jet fuel shortage in Europe, transport chief says; eurozone on brink of technical recession – business live",
-        "link": "https://www.theguardian.com/business/live/2026/jun/05/jet-fuel-europe-transport-chief-us-jobs-report-uk-house-prices-stock-markets-oil-live-news-updates",
+        "title": "What does Washington’s latest AI chip guidance mean for Chinese tech firms?",
+        "link": "https://www.scmp.com/tech/policy/article/3356167/what-does-washingtons-latest-ai-chip-guidance-mean-chinese-tech-firms?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-06T07:00:07+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "US added 172,000 jobs in May as labor market shows signs of resilience",
+        "link": "https://www.theguardian.com/business/2026/jun/05/us-jobs-market-unemployment",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-05T10:34:03+00:00",
-        "relevance_score": 21
+        "published_at_utc": "2026-06-05T20:10:11+00:00",
+        "relevance_score": 19
       },
       {
-        "title": "AI hyperscaler effect vaults China’s Zhongji Innolight to top of CSI 300 benchmark",
-        "link": "https://www.scmp.com/business/china-business/article/3356074/ai-hyperscaler-effect-vaults-chinas-zhongji-innolight-top-csi-300-benchmark?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-05T07:30:11+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Scramble for biofuel as oil prices rise ‘could push world closer to food crisis’",
-        "link": "https://www.theguardian.com/environment/2026/jun/05/biofuel-alternatives-oil-price-rises-world-food-crisis",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-05T04:00:26+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "U.S. imposes sanctions on Cuban President, Treasury website shows",
-        "link": "https://www.thehindu.com/news/international/us-imposes-sanctions-on-cuban-president-treasury-website-shows/article71062807.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-04T21:07:05+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Hong Kong taps banks, lawyers and crypto firms to help rewrite rules for tokenised bonds",
-        "link": "https://www.scmp.com/business/cryptocurrency/article/3356125/hong-kong-taps-banks-lawyers-and-crypto-firms-help-rewrite-rules-tokenised-bonds?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-05T10:45:05+00:00",
+        "title": "Is there an AI stock market bubble, and is it ready to burst?",
+        "link": "https://www.bbc.com/news/videos/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-06-05T12:46:00+00:00",
         "relevance_score": 19
       },
       {
@@ -570,32 +530,46 @@
         "relevance_score": 19
       },
       {
-        "title": "Who can buy shares in Elon Musk's SpaceX?",
-        "link": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss",
+        "title": "Advice service demand rises amid housing crisis",
+        "link": "https://www.bbc.com/news/articles/cj3pkkjl4x4o?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC Business",
-        "published_at_utc": "2026-06-05T09:51:36+00:00",
+        "published_at_utc": "2026-06-06T06:25:22+00:00",
         "relevance_score": 17
       },
       {
-        "title": "Hong Kong stocks struggle as mainland China markets ride AI wave",
-        "link": "https://www.scmp.com/business/china-business/article/3355963/hong-kong-stocks-struggle-mainland-china-markets-ride-ai-wave?utm_source=rss_feed",
+        "title": "Mainland China’s investors face new hurdles as Hong Kong brokers tighten rules",
+        "link": "https://www.scmp.com/business/china-business/article/3356095/mainland-chinas-investors-face-new-hurdles-hong-kong-brokers-tighten-rules?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-04T23:00:09+00:00",
+        "published_at_utc": "2026-06-05T08:47:54+00:00",
         "relevance_score": 17
       },
       {
-        "title": "Financier Lex Greensill banned from running UK companies for nine years",
-        "link": "https://www.theguardian.com/business/2026/jun/04/lex-greensill-banned-uk-companies-nine-years",
+        "title": "More than a quarter of UK musicians lost all EU work since 2021, report finds",
+        "link": "https://www.theguardian.com/music/2026/jun/05/quarter-of-uk-musicians-have-lost-all-eu-work-since-2021-report-finds",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-04T12:42:33+00:00",
+        "published_at_utc": "2026-06-05T13:52:33+00:00",
         "relevance_score": 16
       },
       {
-        "title": "Ramp raises $750M at $44B valuation as investors hunger for fintechs with an AI story",
-        "link": "https://techcrunch.com/2026/06/04/ramp-raises-750m-at-44b-valuation-as-investors-hunger-for-fintechs-with-an-ai-story/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-04T15:08:34+00:00",
+        "title": "Hong Kong taps banks, lawyers and crypto firms to help rewrite rules for tokenised bonds",
+        "link": "https://www.scmp.com/business/cryptocurrency/article/3356125/hong-kong-taps-banks-lawyers-and-crypto-firms-help-rewrite-rules-tokenised-bonds?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-05T10:45:05+00:00",
         "relevance_score": 15
+      },
+      {
+        "title": "Why are US consumers so angry? It’s not just high prices",
+        "link": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-04T11:00:05+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Mainlanders can still open bank accounts in Hong Kong despite new rules: HKMA",
+        "link": "https://www.scmp.com/business/banking-finance/article/3356201/mainlanders-can-still-open-bank-accounts-hong-kong-despite-new-rules-hkma?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-06T07:24:07+00:00",
+        "relevance_score": 14
       }
     ]
   },
