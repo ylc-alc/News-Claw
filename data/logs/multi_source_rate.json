@@ -1,12 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-05-07",
-      "total_selected": 9,
-      "multi_source_count": 4,
-      "rate": 0.444
-    },
-    {
       "date": "2026-05-08",
       "total_selected": 9,
       "multi_source_count": 4,
@@ -179,9 +173,15 @@
       "total_selected": 9,
       "multi_source_count": 3,
       "rate": 0.333
+    },
+    {
+      "date": "2026-06-07",
+      "total_selected": 9,
+      "multi_source_count": 1,
+      "rate": 0.111
     }
   ],
-  "rolling_avg_rate": 0.493,
+  "rolling_avg_rate": 0.481,
   "window_days": 30,
-  "last_updated": "2026-06-06"
+  "last_updated": "2026-06-07"
 }
