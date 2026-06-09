@@ -1,55 +1,55 @@
 {
-  "generated_at_utc": "2026-06-08T12:21:13.117828+00:00",
+  "generated_at_utc": "2026-06-09T10:51:19.161857+00:00",
   "summary": {
-    "total_raw_items": 1058,
-    "total_deduped_items": 1045,
+    "total_raw_items": 1068,
+    "total_deduped_items": 1050,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "cybersecurity",
         "ai",
-        "ai"
+        "ai",
+        "space_tech"
       ],
       "politics": [
-        "us_politics",
         "diplomacy",
-        "diplomacy"
+        "war_and_conflict",
+        "us_politics"
       ],
       "economy": [
+        "trade_wars",
         "markets",
-        "sanctions",
-        "energy_markets"
+        "markets"
       ]
     },
-    "multi_source_selected_count": 3
+    "multi_source_selected_count": 5
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "SCMP World",
-        "title": "Mindanao quake exposes Philippines’ vulnerability to ‘Big One’ tremor in Metro Manila",
-        "link": "https://www.scmp.com/week-asia/health-environment/article/3356387/mindanao-quake-exposes-philippines-vulnerability-big-one-tremor-metro-manila?utm_source=rss_feed",
-        "summary": "A powerful magnitude 7.8 earthquake that struck southern Mindanao on Monday morning served as a stark reminder of the Philippines’ vulnerability to a major quake in Metro Manila, disaster experts said. The tremor, which triggered tsunami warnings along the southern coast, left collapsed buildings, damaged homes and debris-strewn streets in its wake. At least 19 people were killed and more than 130 injured, with scores still missing, local disaster authorities said. For disaster planners, the...",
-        "published": "Mon, 08 Jun 2026 11:05:52 +0000",
-        "updated": "Mon, 08 Jun 2026 11:05:52 +0000",
-        "published_at_utc": "2026-06-08T11:05:52+00:00",
-        "id": "https://www.scmp.com/week-asia/health-environment/article/3356387/mindanao-quake-exposes-philippines-vulnerability-big-one-tremor-metro-manila?utm_source=rss_feed",
-        "topic_type": "cybersecurity",
+        "source_name": "BBC Business",
+        "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
+        "link": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+        "summary": "The company behind ChatGPT files its plans one week after Anthropic did the same.",
+        "published": "Tue, 09 Jun 2026 08:02:43 GMT",
+        "updated": "Tue, 09 Jun 2026 08:02:43 GMT",
+        "published_at_utc": "2026-06-09T08:02:43+00:00",
+        "id": "https://www.bbc.com/news/articles/cd958eqg1n5o#0",
+        "topic_type": "ai",
         "relevance_score": 17,
         "briefing": {
-          "news_focus": "A powerful magnitude 7.8 earthquake that struck southern Mindanao on Monday morning served as a stark reminder of the Philippines’ vulnerability to a major quake in Metro Manila, disaster experts said. The tremor, which triggered tsunami warnings along the southern coast, left collapsed buildings, damaged homes and debris-strewn streets in its wake. At least 19 people were killed and more than 130 injured, with scores still missing, local disaster authorities said. For disaster planners, the...",
-          "news_focus_zh": "菲律賓南部的明達那奧地區於週一早上發生了強烈的7.8級地震，造成至少19人死亡、130多人受傷，並有許多人失蹤。這次地震引發了南部沿海的海嘯警報，並導致建築物倒塌、房屋受損及街道滿是碎片。災難專家指出，這次地震凸顯了菲律賓在馬尼拉地區面對重大地震的脆弱性。",
-          "background": "菲律賓位於環太平洋地震帶，地震活動頻繁，歷史上曾經發生過多次重大地震。馬尼拉作為國家的首都，擁有高密度的人口和基礎設施，然而，許多建築物的抗震設計不足，增加了地震發生時的風險。當前，菲律賓政府正致力於改善災害應對能力，並加強基礎設施的抗震能力，以減少未來可能發生的災害損失。",
+          "news_focus": "The company behind ChatGPT files its plans one week after Anthropic did the same.",
+          "news_focus_zh": "ChatGPT的母公司近期提交了上市計畫，這一動作發生在另一家AI公司Anthropic也同樣提出上市計畫的一週之後。這顯示出AI產業內部資金募集的競爭正在加劇，尤其是在大型科技公司尋求擴大其市場份額的背景下。",
+          "background": "隨著人工智慧技術的迅速發展，許多科技公司正積極尋求資金以支持其研發和擴張計畫。AI市場的潛力吸引了大量投資者的關注，尤其是在ChatGPT等產品成功引起廣泛關注後。上市不僅能夠為這些公司提供所需的資金，也能提升其市場形象和競爭力。Anthropic的上市計畫顯示出市場對AI技術的信心，並可能促使其他相關企業跟進，以便在這一快速變化的領域中保持競爭優勢。",
           "stakeholders": [
-            "菲律賓政府",
-            "災難管理機構",
-            "當地居民",
-            "建築業者",
-            "國際救援組織"
+            "ChatGPT母公司",
+            "Anthropic",
+            "投資者",
+            "科技產業",
+            "市場分析師"
           ],
-          "analysis": "這次明達那奧地震的發生，讓菲律賓政府和災害管理機構再次面臨挑戰。專家指出，馬尼拉地區的地震風險不容小覷，若發生類似的強震，可能會造成更嚴重的後果。各方利益關係中，政府需要加強基礎設施建設和災害應對計劃，以保護民眾安全；而民眾則希望能夠獲得更好的防災教育和資源。隨著地震頻率的增加，社會對於災難準備的關注度也將提升，可能促使政府加快相關政策的實施。"
+          "analysis": "ChatGPT母公司的上市計畫與Anthropic的計畫同時出現，顯示出AI領域內資金競爭的加劇。這兩家公司都在尋求透過公開市場獲取資金，以支持其技術研發和市場擴展。投資者對AI技術的興趣日益增加，這可能會促使更多AI相關企業考慮上市。不同於傳統科技公司的資金募集模式，AI公司面臨的挑戰在於如何持續創新並保持市場領導地位。未來，這一競爭可能會驅動更多的技術創新和市場整合，並影響整個科技產業的發展方向。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
@@ -58,66 +58,78 @@
         "supporting_summaries": [],
         "supporting_links": [],
         "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "The Verge",
+        "title": "OpenAI files for IPO, following Anthropic",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+        "summary": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st. […]",
+        "published": "2026-06-08T17:38:29-04:00",
+        "updated": "2026-06-08T17:38:29-04:00",
+        "published_at_utc": "2026-06-08T21:38:29+00:00",
+        "id": "https://www.theverge.com/?p=946335",
+        "topic_type": "ai",
+        "relevance_score": 17,
+        "briefing": {
+          "news_focus": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted a Form S-1 with the US Securities and Exchange Commission, following Anthropic's decision to do the same on June 1st. […]",
+          "news_focus_zh": "OpenAI於週一向美國證券交易委員會提交了保密的S-1表格，標誌著其首次公開募股（IPO）進程的初步步驟。這一動作緊隨競爭對手Anthropic於6月1日提交相同文件，顯示出兩家公司在IPO競賽中的激烈競爭。",
+          "background": "OpenAI和Anthropic都是人工智慧領域的重要參與者，隨著市場對AI技術需求的增加，這兩家公司都希望透過IPO來籌集資金以支持其發展。OpenAI以其ChatGPT等產品聞名，吸引了大量投資者的關注。而Anthropic則專注於開發安全和可控的AI技術。隨著這些公司進入IPO階段，市場對於它們的估值和未來發展潛力的討論也愈加熱烈。",
+          "stakeholders": [
+            "OpenAI",
+            "Anthropic",
+            "美國證券交易委員會",
+            "投資者",
+            "科技行業"
+          ],
+          "analysis": "OpenAI和Anthropic的IPO申請顯示出科技行業對於AI技術的信心和未來的投資潛力。OpenAI的IPO可能會吸引大量的資本流入，進一步推動其產品和技術的發展。然而，根據TechCrunch的報導，OpenAI的CEO山姆·奧特曼的另一家公司Tools for Humanity正在進行裁員，顯示出他在其他業務上的挑戰。這可能會影響市場對奧特曼整體商業能力的評價。此外，市場對於這兩家公司的競爭格局也將持續關注，特別是在資金流入和技術創新方面的差異。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "strategic_move",
+        "supporting_sources": [
+          "Wired",
+          "TechCrunch"
+        ],
+        "supporting_titles": [
+          "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+          "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says"
+        ],
+        "supporting_summaries": [
+          "The ChatGPT-maker announced it has filed paperwork to go public, just a week after rival Anthropic took the same step.",
+          "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff."
+        ],
+        "supporting_links": [
+          "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
+          "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/"
+        ],
+        "source_count": 3
       },
       {
         "category": "technology",
         "source_name": "Ars Technica",
-        "title": "The weather and climate science AI revolution isn’t revolutionary",
-        "link": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
-        "summary": "Machine learning has its limits—how is it being used?",
-        "published": "Mon, 08 Jun 2026 11:00:58 +0000",
-        "updated": "Mon, 08 Jun 2026 11:00:58 +0000",
-        "published_at_utc": "2026-06-08T11:00:58+00:00",
-        "id": "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
-        "topic_type": "ai",
-        "relevance_score": 17,
+        "title": "Tests suggest Russian satellites can jam GPS on a continental scale",
+        "link": "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/",
+        "summary": "Mystery of GPS interference across Europe raises questions about Russian motives.",
+        "published": "Mon, 08 Jun 2026 21:56:28 +0000",
+        "updated": "Mon, 08 Jun 2026 21:56:28 +0000",
+        "published_at_utc": "2026-06-08T21:56:28+00:00",
+        "id": "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/",
+        "topic_type": "space_tech",
+        "relevance_score": 16,
         "briefing": {
-          "news_focus": "Machine learning has its limits—how is it being used?",
-          "news_focus_zh": "本則新聞探討了機器學習在氣象與氣候科學中的應用，指出雖然這項技術被視為革命性的進步，但實際上其效用存在限制。報導質疑了機器學習在氣候預測中的真實影響，並強調需要更深入的理解與評估。",
-          "background": "隨著科技的進步，機器學習在各個領域的應用逐漸增多，尤其是在氣象與氣候科學中。許多研究者和機構開始依賴這項技術來分析氣候數據、預測天氣模式。然而，機器學習的有效性受到質疑，因為其模型的準確性和可解釋性仍然存在問題。氣候變遷的複雜性使得單一技術難以全面解決相關問題，這也引發了對於如何正確使用機器學習的討論。",
+          "news_focus": "Mystery of GPS interference across Europe raises questions about Russian motives.",
+          "news_focus_zh": "近期的測試顯示，俄羅斯衛星可能具備在大陸範圍內干擾全球定位系統（GPS）的能力，這一現象引發了對俄羅斯動機的質疑。這種干擾在歐洲地區特別明顯，可能影響到航空、交通及其他依賴GPS的行業。",
+          "background": "全球定位系統（GPS）是現代科技中不可或缺的一部分，廣泛應用於交通、通訊及軍事等領域。隨著地緣政治緊張局勢的升高，衛星干擾的問題日益受到關注。俄羅斯在過去幾年中加強了其衛星技術的發展，並且在某些地區進行了軍事演習，這使得外界對其可能的干擾行為產生擔憂。尤其是在烏克蘭衝突背景下，俄羅斯的行為被視為對西方國家的挑釁，進一步加劇了對其衛星能力的關注。",
           "stakeholders": [
-            "氣象學者",
-            "氣候科學家",
-            "科技公司",
-            "政策制定者",
-            "環保組織"
+            "俄羅斯",
+            "歐洲國家",
+            "美國",
+            "航空業",
+            "衛星技術公司"
           ],
-          "analysis": "報導指出，雖然機器學習在氣象學的應用被廣泛推崇，但其實際效果可能未達預期，這引發了學術界與業界的不同看法。一方面，一些研究者認為機器學習能夠提供新的見解，幫助改善氣候模型；另一方面，也有專家強調其局限性，並呼籲應該結合傳統氣象學方法進行綜合分析。未來，隨著技術的進一步發展，如何平衡機器學習與傳統方法的使用將成為關鍵議題。"
+          "analysis": "此次俄羅斯衛星可能干擾GPS的消息，引發了對其軍事意圖的廣泛猜測。各方利益關係中，歐洲國家對此表示高度關注，因為GPS的干擾可能對其民用及軍事運作造成重大影響。另一方面，俄羅斯可能希望藉此展示其技術能力，並在地緣政治上施加壓力。此事件也可能促使歐洲國家加強自身的衛星導航系統，以減少對美國GPS的依賴。未來，若干擾行為持續，可能會引發國際社會對俄羅斯的制裁或其他反制措施，進一步加劇地緣政治緊張局勢。"
         },
-        "topic_priority_score": 9,
-        "event_type": "strategic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "Wired",
-        "title": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men",
-        "link": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/",
-        "summary": "Moms are outsourcing tedious household tasks to ChatGPT and selling courses teaching others to do the same. Where are all the dads?",
-        "published": "Mon, 08 Jun 2026 10:30:00 +0000",
-        "updated": "Mon, 08 Jun 2026 10:30:00 +0000",
-        "published_at_utc": "2026-06-08T10:30:00+00:00",
-        "id": "6a15ba2dd0481b1ab74b0a2a",
-        "topic_type": "ai",
-        "relevance_score": 17,
-        "briefing": {
-          "news_focus": "Moms are outsourcing tedious household tasks to ChatGPT and selling courses teaching others to do the same. Where are all the dads?",
-          "news_focus_zh": "近期，許多母親（momfluencers）開始將繁瑣的家務工作外包給人工智慧（AI），特別是ChatGPT，並且透過開設課程來教導其他人如何利用這項技術。這一現象引發了對父親角色的質疑，並引發了對於家庭分工的討論。",
-          "background": "隨著科技的進步，AI在家庭生活中的應用逐漸普及，特別是在家務管理和育兒方面。許多母親利用AI來減輕日常生活中的負擔，這不僅提高了效率，也讓她們能夠專注於其他重要的事務。此外，社交媒體的興起使得這些momfluencers能夠分享經驗，並吸引其他家庭的注意，形成了一種新的生活方式和商業模式。",
-          "stakeholders": [
-            "母親",
-            "父親",
-            "科技公司",
-            "家庭",
-            "社交媒體平台"
-          ],
-          "analysis": "這一現象反映了當前家庭角色的變化，尤其是母親在家庭管理中的主導地位。母親們將AI視為一種更有效的合作夥伴，這可能會引發對於父親角色的重新評估。部分人可能會質疑這種外包是否會削弱父親在家庭中的參與感和責任感。另一方面，這也可能促使父親們重新思考如何在家庭中貢獻，並利用科技來改善家庭生活。未來，隨著AI技術的進一步發展，這種趨勢可能會持續增長，並影響家庭結構和性別角色的演變。"
-        },
-        "topic_priority_score": 9,
+        "topic_priority_score": 4,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -130,75 +142,75 @@
       {
         "category": "politics",
         "source_name": "Al Jazeera",
-        "title": "Secret Service-level security for NBA Finals with Trump attending Game 3",
-        "link": "https://www.aljazeera.com/sports/2026/6/8/secret-service-level-security-for-nba-finals-with-trump-attending-game-3?traffic_source=rss",
-        "summary": "Watch party bans, road closures and bag bans in place as US President Trump plans to attend Game 3 with Knicks in lead.",
-        "published": "Mon, 08 Jun 2026 07:38:16 +0000",
-        "updated": "Mon, 08 Jun 2026 07:38:16 +0000",
-        "published_at_utc": "2026-06-08T07:38:16+00:00",
-        "id": "https://www.aljazeera.com/?t=1780898902",
-        "topic_type": "us_politics",
-        "relevance_score": 22,
+        "title": "China’s Xi, North Korea’s Kim pledge to boost ties at rare Pyongyang summit",
+        "link": "https://www.aljazeera.com/economy/2026/6/9/xi-kim-pledge-to-boost-ties-at-rare-pyongyang-summit?traffic_source=rss",
+        "summary": "President Xi Jinping is on a rare visit to North Korea, where he commits to deeper cooperation with Kim Jong Un.",
+        "published": "Tue, 09 Jun 2026 07:29:06 +0000",
+        "updated": "Tue, 09 Jun 2026 07:29:06 +0000",
+        "published_at_utc": "2026-06-09T07:29:06+00:00",
+        "id": "https://www.aljazeera.com/?t=1780972770",
+        "topic_type": "diplomacy",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Watch party bans, road closures and bag bans in place as US President Trump plans to attend Game 3 with Knicks in lead.",
-          "news_focus_zh": "美國總統特朗普計劃出席NBA總決賽第三場比賽，這場比賽將在紐約的麥迪遜廣場花園舉行，並且尼克隊目前在系列賽中領先。為了應對特朗普的出席，當地實施了嚴格的安全措施，包括禁止攜帶包包和道路封閉，並進行類似機場的安檢程序。",
-          "background": "尼克隊在NBA總決賽中的表現引起了紐約市的廣泛關注和興奮，這支球隊的成功使得城市的籃球氛圍達到高潮。特朗普的出席不僅是體育事件，還涉及到他在政治上的影響力，尤其是在他面臨多項法律挑戰的背景下。近期，特朗普在社交媒體上重申了對加州選舉的質疑，這進一步引發了對他政治立場的討論。",
+          "news_focus": "President Xi Jinping is on a rare visit to North Korea, where he commits to deeper cooperation with Kim Jong Un.",
+          "news_focus_zh": "中國國家主席習近平在平壤進行罕見的國事訪問，並與北韓領導人金正恩會面，雙方承諾加強合作，重申傳統盟友關係。此次會議標誌著兩國在面對外部壓力時的團結意圖。",
+          "background": "中國與北韓的關係歷史悠久，兩國在冷戰期間建立了緊密的盟友關係。然而，隨著國際局勢的變化，特別是美國對北韓的制裁及其核武計畫的影響，兩國的關係曾經出現波動。近年來，隨著美中關係的緊張，北韓也在尋求加強與中國的合作，以對抗外部壓力。習近平此次訪問正值此背景下，意在重申兩國的戰略合作及相互支持。",
           "stakeholders": [
-            "特朗普",
-            "NBA",
-            "紐約市政府",
-            "尼克隊",
-            "球迷"
+            "中國",
+            "北韓",
+            "美國",
+            "國際社會",
+            "地區鄰國"
           ],
-          "analysis": "特朗普出席NBA比賽的安全措施顯示出他在當前政治環境中的敏感性，特別是在最近發生的暴力事件後，這些事件使得安全成為優先考量。參考報導指出，特朗普在出席比賽前還計劃參加新澤西的競選集會，這表明他在利用體育活動來增強其政治影響力。不同報導的重點在於，BBC強調了尼克隊的成功如何激勵了城市，而《衛報》則聚焦於特朗普的政治言論及其對選舉的質疑，顯示出他在體育與政治之間的交織。"
+          "analysis": "習近平與金正恩的會晤顯示出中朝兩國在面對美國及其盟友的壓力時，正試圖重建傳統的盟友關係。根據參考報導，習近平的訪問不僅是政治上的象徵，也反映了兩國在經濟及安全領域的潛在合作。美方可能會對此表示擔憂，認為這樣的合作可能會加劇地區緊張局勢。此外，習近平的住宿選擇在平壤的高級接待所，顯示出此次訪問的重視程度。不同報導中，Fox News強調了中朝兩國在面對美國時的聯合立場，而SCMP則著重於習近平的接待儀式及其象徵意義，顯示出兩者的報導重點有所不同。"
         },
-        "topic_priority_score": 8,
-        "event_type": "security_event",
+        "topic_priority_score": 7,
+        "event_type": "diplomatic_move",
         "supporting_sources": [
-          "BBC World",
-          "The Guardian World"
+          "Fox News World",
+          "SCMP World"
         ],
         "supporting_titles": [
-          "Knicks' long-awaited NBA run electrifies NYC, with Trump set to attend key game",
-          "Trump repeats claim that California election was rigged – US politics live"
+          "US adversaries China, North Korea strengthening ties as Xi, Kim set to begin talks",
+          "China’s Xi stays at exclusive Pyongyang guest house near shrines to former supreme leaders"
         ],
         "supporting_summaries": [
-          "The Knicks' stunning winning streak has energised the city as the New York basketball team prepares for the third game of the finals series at its home arena.",
-          "President posts screenshot on Truth Social attacking Californian election, after walking out of NBC interview after refusing to substantiate his claims of election rigging Sign up for the Breaking News US email Welcome to our coverage of US politics. Donald Trump has repeated a claim made during an NBC interview on Sunday that he walked out of claiming that the California gubernatorial race is rigged. Later today Trump is expected to attend a campaign rally in New Jersey, before attending the Knicks game in New York’s Madison Square Garden. Trump’s appearance at the game means that there will be heightened security, a strict no-bag policy and airport-style screening for attenders of the game. This comes after a stabbing occurred in Penn Station directly below the arena, injuring 6 people. The suspect is in custody. The president also claimed that Iran’s military has been “virtually decapitated” as the war between the Middle Eastern country and the US reaches its 100th day. Earlier today, Trump urged Iran and Israel to “stop shooting” in a social media post. You can follow our Middle East liveblog coverage here: Continue reading..."
+          "Chinese President Xi Jinping arrived in Pyongyang for a rare state visit, set to meet with North Korea's Kim Jong Un as both nations seek to restore their traditional alliance.",
+          "Chinese President Xi Jinping has returned to Pyongyang’s Kumsusan State Guest House, the highly secluded counterpart to Beijing’s Diaoyutai State Guest House. Xi began a two-day state visit to North Korea on Monday. He was welcomed at the airport by North Korean leader Kim Jong-un, before attending a welcoming ceremony at Pyongyang’s Kim Il-sung Square and then heading on to the guest house. The guest house, completed in 2019, was first publicly used during Xi’s visit to North Korea that..."
         ],
         "supporting_links": [
-          "https://www.bbc.com/news/articles/ceqd5jgded8o?at_medium=RSS&at_campaign=rss",
-          "https://www.theguardian.com/us-news/live/2026/jun/08/us-politics-latest-news-updates-trump-california-governor-midterm-elections"
+          "https://www.foxnews.com/world/xi-jinping-north-korea-kim-jong-un-talks",
+          "https://www.scmp.com/news/china/diplomacy/article/3356350/chinas-xi-stays-exclusive-pyongyang-guest-house-near-shrines-former-supreme-leaders?utm_source=rss_feed"
         ],
         "source_count": 3
       },
       {
         "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "Nepal Foreign Minister Shishir Khanal to visit China in mid-June",
-        "link": "https://www.thehindu.com/news/international/nepal-foreign-minister-shishir-khanal-to-visit-china-in-mid-june/article71076314.ece",
-        "summary": "Nepal FM Shishir Khanal is expected to meet the Chief of the International Department of the Communist Party of China Liu Haixing, besides holding bilateral meetings with his Chinese counterpart Wang Yi",
-        "published": "Mon, 08 Jun 2026 16:56:55 +0530",
-        "updated": "Mon, 08 Jun 2026 16:56:55 +0530",
-        "published_at_utc": "2026-06-08T11:26:55+00:00",
-        "id": "article-71076314",
-        "topic_type": "diplomacy",
-        "relevance_score": 21,
+        "source_name": "Al Jazeera",
+        "title": "Russian attacks kill 5 in Ukraine as Zelenskyy hails talks with US envoys",
+        "link": "https://www.aljazeera.com/news/2026/6/9/russian-attacks-kill-5-in-ukraine-as-zelenskyy-hails-talks-with-us-envoys?traffic_source=rss",
+        "summary": "Ukraine's president hopes to reinvigorate diplomacy after 'very positive' talks with US envoys and European leaders.",
+        "published": "Tue, 09 Jun 2026 10:18:17 +0000",
+        "updated": "Tue, 09 Jun 2026 10:18:17 +0000",
+        "published_at_utc": "2026-06-09T10:18:17+00:00",
+        "id": "https://www.aljazeera.com/?t=1780990834",
+        "topic_type": "war_and_conflict",
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "Nepal FM Shishir Khanal is expected to meet the Chief of the International Department of the Communist Party of China Liu Haixing, besides holding bilateral meetings with his Chinese counterpart Wang Yi",
-          "news_focus_zh": "尼泊爾外交部長希希爾·卡納爾計劃於六月中旬訪問中國，期間將與中國外交部長王毅舉行雙邊會談，並會見中國共產黨國際部部長劉海星。此行旨在加強尼中兩國之間的外交關係。",
-          "background": "尼泊爾與中國之間的關係在過去幾年中逐漸加深，尤其是在經濟合作和基礎設施建設方面。中國透過「一帶一路」倡議在尼泊爾投資，促進了雙邊貿易和投資流動。尼泊爾政府在尋求多元化外交政策的同時，也希望在與印度的傳統關係中找到平衡。此次外交部長的訪問，反映出尼泊爾在地緣政治中日益增強的自主性和與中國的合作意願。",
+          "news_focus": "Ukraine's president hopes to reinvigorate diplomacy after 'very positive' talks with US envoys and European leaders.",
+          "news_focus_zh": "烏克蘭總統澤倫斯基表示，與美國特使及歐洲領導人的會談非常積極，期望能重新激活外交進程。然而，俄羅斯的攻擊仍在持續，造成五人喪生，顯示出當前局勢的緊張與不穩定。",
+          "background": "自2022年俄烏戰爭爆發以來，烏克蘭面臨持續的軍事攻擊，尤其是來自俄羅斯的空襲和地面攻擊。這場衝突不僅影響了兩國的安全局勢，也對全球能源市場和國際政治格局產生深遠影響。烏克蘭政府在尋求國際支持的同時，也在努力加強與西方國家的外交聯繫，以獲得更多的軍事和經濟援助。澤倫斯基的外交努力顯示出他對於國際合作的重視，尤其是在面對持續的威脅時。",
           "stakeholders": [
-            "尼泊爾政府",
-            "中國政府",
-            "中國共產黨",
-            "尼泊爾民眾",
-            "印度政府"
+            "烏克蘭政府",
+            "俄羅斯政府",
+            "美國政府",
+            "歐洲聯盟",
+            "國際社會"
           ],
-          "analysis": "此次訪問可能會進一步鞏固尼泊爾與中國的外交關係，尤其是在經濟合作和基礎設施建設方面。尼泊爾希望通過與中國的合作來促進國內經濟發展，並減少對印度的依賴。中國則可能希望藉此機會加強在南亞的影響力，並推進其「一帶一路」倡議。各方利益關係的交織可能使得未來的合作面臨挑戰，尤其是在尼泊爾內部政治環境和與印度的關係影響下。此次會談的具體成果尚待觀察，但可預見的是，雙方將在經濟和政治層面上尋求更緊密的合作。"
+          "analysis": "此次俄羅斯的攻擊事件再次凸顯了烏克蘭面臨的安全挑戰，儘管澤倫斯基與美國及歐洲領導人的會談被視為積極進展，但實際的軍事行動卻顯示出局勢的複雜性。各方利益關係中，烏克蘭希望透過外交手段獲得更多支持，而俄羅斯則可能藉此行動施加壓力以阻礙烏克蘭的外交努力。未來，烏克蘭是否能夠在外交上取得實質進展，將取決於國際社會的反應及俄方的軍事策略調整。"
         },
-        "topic_priority_score": 7,
-        "event_type": "diplomatic_move",
+        "topic_priority_score": 11,
+        "event_type": "security_event",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -207,368 +219,334 @@
       },
       {
         "category": "politics",
-        "source_name": "Al Jazeera",
-        "title": "China’s Xi Jinping arrives in North Korea on rare state visit",
-        "link": "https://www.aljazeera.com/news/2026/6/8/chinas-xi-jinping-arrives-in-north-korea-on-rare-state-visit?traffic_source=rss",
-        "summary": "A cheering crowd dressed in festive attire welcomes the Chinese leader at Pyongyang's main square.",
-        "published": "Mon, 08 Jun 2026 09:55:59 +0000",
-        "updated": "Mon, 08 Jun 2026 09:55:59 +0000",
-        "published_at_utc": "2026-06-08T09:55:59+00:00",
-        "id": "https://www.aljazeera.com/?t=1780904884",
-        "topic_type": "diplomacy",
-        "relevance_score": 21,
+        "source_name": "The Guardian World",
+        "title": "Experts warn Trump ‘inventing fraud’ in California as president ramps up baseless claims",
+        "link": "https://www.theguardian.com/us-news/2026/jun/09/trump-election-california-fraud-claims",
+        "summary": "Critics say president using well-worn playbook – with loyalists in key positions ready to amplify his message Donald Trump is “inventing fraud” in California’s primary elections, and likely to ramp up unfounded allegations when more races go against him, pro-democracy experts have warned. While the US president has used this playbook for years – from his loss at the Emmys as a reality TV star to his defeat in the 2020 presidential election – election integrity campaigners fear this time could be different. Continue reading...",
+        "published": "Tue, 09 Jun 2026 10:00:48 GMT",
+        "updated": "2026-06-09T10:00:48Z",
+        "published_at_utc": "2026-06-09T10:00:48+00:00",
+        "id": "https://www.theguardian.com/us-news/2026/jun/09/trump-election-california-fraud-claims",
+        "topic_type": "us_politics",
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "A cheering crowd dressed in festive attire welcomes the Chinese leader at Pyongyang's main square.",
-          "news_focus_zh": "中國國家主席習近平於平壤展開為期兩天的國事訪問，這是他近七年來首次造訪北韓。習近平在平壤的主要廣場受到熱烈歡迎，當地民眾身著節日服裝，表達對他的歡迎。",
-          "background": "習近平的訪問正值中朝關係因北韓與俄羅斯的接近而受到影響之際。此行的主要目的是重振中朝之間的聯繫，尤其是在經濟和安全方面。隨著全球地緣政治的變化，中國希望加強與北韓的合作，以應對美國及其盟友的壓力。北韓則希望借助中國的支持來穩定其政權，並獲得經濟援助。",
+          "news_focus": "Critics say president using well-worn playbook – with loyalists in key positions ready to amplify his message Donald Trump is “inventing fraud” in California’s primary elections, and likely to ramp up unfounded allegations when more races go against him, pro-democracy experts have warned. While the US president has used this playbook for years – from his loss at the Emmys as a reality TV star to his defeat in the 2020 presidential election – election integrity campaigners fear this time could be different. Continue reading...",
+          "news_focus_zh": "美國總統唐納德·特朗普在加州初選中被指控「發明詐欺」，專家警告他可能會在更多選舉結果不利時，進一步加大無根據的指控。批評者指出，特朗普在關鍵職位上安插了忠實支持者，準備放大他的訊息，這一策略在他過去的政治生涯中屢見不鮮，從他在艾美獎的失利到2020年總統選舉的敗北，均可見其影響。",
+          "background": "特朗普在美國政治中以質疑選舉結果而聞名，尤其是在2020年總統選舉後，他的支持者對選舉完整性提出了許多無根據的指控。隨著2024年總統選舉的臨近，特朗普在加州的初選中再次採取類似策略，這引起了選舉完整性倡導者的擔憂。他們認為，這種行為可能會對選舉的公正性造成更大的威脅，特別是在他面對不利結果時，可能會激化這種情況。",
           "stakeholders": [
-            "中國",
-            "北韓",
-            "俄羅斯",
-            "美國",
-            "南韓"
+            "唐納德·特朗普",
+            "選舉完整性倡導者",
+            "民主支持者",
+            "美國選民",
+            "媒體"
           ],
-          "analysis": "習近平的訪問顯示出中朝兩國在面對外部壓力時的合作意願。根據《衛報》的報導，習近平此行的重點在於重建因北韓與俄羅斯關係加深而受到影響的雙邊關係。另一方面，《南華早報》則強調了習近平在平壤受到的隆重歡迎，這反映了北韓對中國的重視。未來，隨著中朝關係的改善，兩國可能在經濟合作和安全議題上進一步加強聯繫，這將對區域穩定產生重要影響。"
+          "analysis": "特朗普的行為反映了他在政治舞台上的一貫策略，即利用選舉爭議來鞏固支持者的忠誠度。專家指出，這種情況可能會導致選民對選舉過程的信任下降，進一步加劇社會的分裂。與此同時，選舉完整性倡導者和民主支持者則擔心，特朗普的這種言論可能會鼓勵其他政治人物採取類似行為，從而對美國的民主制度造成長期影響。雖然目前尚無其他報導提供補充細節，但專家們的警告已經引起了廣泛關注。"
         },
-        "topic_priority_score": 7,
-        "event_type": "political_signal",
-        "supporting_sources": [
-          "The Guardian World",
-          "SCMP World"
-        ],
-        "supporting_titles": [
-          "Xi Jinping arrives in Pyongyang on trip to revitalise China-North Korea ties",
-          "Pyongyang rolls out the red carpet as Xi Jinping is welcomed with pomp and ceremony"
-        ],
-        "supporting_summaries": [
-          "Kim Jong-un welcomes Chinese leader on visit to renew relations strained amid Pyongyang’s closeness with Russia Xi Jinping has arrived in North Korea for a two-day trip, his first in nearly seven years, as China’s leader looks to revitalise ties with his junior ally. Footage published by China’s Xinhua state news agency showed an Air China plane carrying Xi and his wife, Peng Liyuan, touching down at Pyongyang’s Sunan international airport. Continue reading...",
-          "China’s President Xi Jinping received a colourful welcome in Pyongyang as he began his two-day state visit to North Korea, his first in seven years. After landing at the airport, where Xi and first lady Peng Liyuan were welcomed by North Korean leader Kim Jong-un and his wife Ri Sol-ju with a handshake, the Chinese leader was escorted through the streets of Pyongyang by a nine-column motorcade to Kim Il-sung Square, the capital’s primary venue for parades and political events. There, at a formal..."
-        ],
-        "supporting_links": [
-          "https://www.theguardian.com/world/2026/jun/08/xi-jinping-kim-jong-un-meeting-north-korea",
-          "https://www.scmp.com/news/china/diplomacy/article/3356361/pyongyang-rolls-out-red-carpet-xi-jinping-welcomed-pomp-and-ceremony?utm_source=rss_feed"
-        ],
-        "source_count": 3
+        "topic_priority_score": 8,
+        "event_type": "election_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       }
     ],
     "economy": [
       {
         "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "Hong Kong-listed Tencent eyes global note issuance amid AI investment surge",
-        "link": "https://www.scmp.com/business/banking-finance/article/3356385/hong-kong-listed-tencent-eyes-global-note-issuance-amid-ai-investment-surge?utm_source=rss_feed",
-        "summary": "Chinese tech giant Tencent Holdings plans to issue new notes to international investors in the coming year, joining the fundraising wave by Hong Kong-listed AI companies looking to fund expansion in the rapidly growing sector. The Shenzhen-based firm updated its global medium-term note programme with a maximum limit of US$30 billion, proposing an international offering to certain professional investors in the coming 12 months, according to exchange filings on Monday. The net proceeds would be...",
-        "published": "Mon, 08 Jun 2026 11:00:21 +0000",
-        "updated": "Mon, 08 Jun 2026 11:00:21 +0000",
-        "published_at_utc": "2026-06-08T11:00:21+00:00",
-        "id": "https://www.scmp.com/business/banking-finance/article/3356385/hong-kong-listed-tencent-eyes-global-note-issuance-amid-ai-investment-surge?utm_source=rss_feed",
-        "topic_type": "markets",
+        "source_name": "The Guardian Business",
+        "title": "BYD and Alibaba among big names aiding China’s military, Pentagon says",
+        "link": "https://www.theguardian.com/world/2026/jun/09/china-military-tech-companies-byd-alibaba-baidu-pentagon-claims",
+        "summary": "Updated Pentagon list includes swathe of China’s top technology firms in move that could inflame tensions between the countries The US added Chinese e-commerce company Alibaba, internet search provider Baidu and carmaker BYD to a list of companies it believes are aiding Beijing’s military, in a move that could inflame tensions between the countries. The long-awaited update released on Monday supersedes a list from early 2025, and comes less than a month after Donald Trump met China’s Xi Jinping on a visit to Beijing, where the two leaders maintained a delicate trade war truce. Continue reading...",
+        "published": "Tue, 09 Jun 2026 10:06:58 GMT",
+        "updated": "2026-06-09T10:06:58Z",
+        "published_at_utc": "2026-06-09T10:06:58+00:00",
+        "id": "https://www.theguardian.com/world/2026/jun/09/china-military-tech-companies-byd-alibaba-baidu-pentagon-claims",
+        "topic_type": "trade_wars",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "Chinese tech giant Tencent Holdings plans to issue new notes to international investors in the coming year, joining the fundraising wave by Hong Kong-listed AI companies looking to fund expansion in the rapidly growing sector. The Shenzhen-based firm updated its global medium-term note programme with a maximum limit of US$30 billion, proposing an international offering to certain professional investors in the coming 12 months, according to exchange filings on Monday. The net proceeds would be...",
-          "news_focus_zh": "中國科技巨頭騰訊控股計劃在未來一年內向國際投資者發行新票據，這一舉措是為了跟上香港上市的人工智慧公司籌資潮，支持其在快速增長的市場中的擴張。根據交易所的公告，騰訊更新了其全球中期票據計劃，最高限額為300億美元，並計劃在接下來的12個月內向特定專業投資者進行國際發行。",
-          "background": "隨著人工智慧技術的迅速發展，許多香港上市公司正積極尋求資金以擴展其業務。騰訊作為中國最大的科技公司之一，面對全球AI市場的競爭，必須加大投資以保持其市場地位。香港的金融市場對於科技公司的融資活動持開放態度，這使得騰訊能夠利用其全球中期票據計劃來籌集資金，支持其在AI領域的擴張計劃。",
+          "news_focus": "Updated Pentagon list includes swathe of China’s top technology firms in move that could inflame tensions between the countries The US added Chinese e-commerce company Alibaba, internet search provider Baidu and carmaker BYD to a list of companies it believes are aiding Beijing’s military, in a move that could inflame tensions between the countries. The long-awaited update released on Monday supersedes a list from early 2025, and comes less than a month after Donald Trump met China’s Xi Jinping on a visit to Beijing, where the two leaders maintained a delicate trade war truce. Continue reading...",
+          "news_focus_zh": "美國國防部更新名單，將中國的電商巨頭阿里巴巴、搜尋引擎百度及汽車製造商比亞迪列入疑似協助中國軍方的企業名單。此舉可能加劇中美之間的緊張關係，並是在特朗普與習近平會晤後不久的決定，當時兩位領導人維持著微妙的貿易戰休戰狀態。",
+          "background": "美中兩國在科技與經濟領域的競爭日益激烈，特別是在軍事與國家安全的議題上。美國政府對中國企業的監管日趨嚴格，尤其是那些被認為可能與中國軍方有關聯的公司。此次更新的名單是對早前2025年的名單的補充，顯示出美國對中國科技企業的警惕性。這些企業的軍事聯繫被視為對美國國家安全的潛在威脅，並可能影響美國企業與這些中國公司的合作。",
           "stakeholders": [
-            "騰訊控股",
-            "國際投資者",
-            "香港上市公司",
-            "AI產業",
-            "金融市場"
+            "美國國防部",
+            "阿里巴巴",
+            "百度",
+            "比亞迪",
+            "美國企業"
           ],
-          "analysis": "騰訊的這一行動顯示出其對於AI市場潛力的重視，並且希望通過國際市場的資金支持來加速其業務增長。此舉可能會吸引更多國際投資者的關注，尤其是在AI技術日益受到重視的背景下。此外，這也可能引發其他香港上市科技公司的跟進，形成一個更為活躍的資本市場環境。然而，市場競爭激烈，騰訊需要在資金運用上展現出色的策略，以確保其投資能夠帶來預期的回報。"
+          "analysis": "美國將阿里巴巴、百度和比亞迪列入名單，顯示出對中國企業軍事聯繫的高度關注，可能會影響這些公司的國際業務及其與美國企業的合作。根據參考報導，這份名單也提醒美國企業在與這些中國公司合作時需謹慎，因為可能面臨法律及商業風險。此外，儘管特朗普與習近平的會晤旨在維持貿易關係的穩定，但美國的這一行動顯然與此相悖，可能導致雙方關係的再度緊張。不同報導中，BBC強調了美國企業的風險，而《經濟學人》則提到中國科技公司在其他市場的復甦，顯示出不同的焦點與解讀。"
         },
-        "topic_priority_score": 4,
-        "event_type": "market_repricing",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "topic_priority_score": 9,
+        "event_type": "macro_signal",
+        "supporting_sources": [
+          "BBC Business",
+          "The Economist"
+        ],
+        "supporting_titles": [
+          "US adds BYD to list of firms with alleged Chinese military ties",
+          "DeepSeek and Alibaba rescue China’s office landlords"
+        ],
+        "supporting_summaries": [
+          "The Pentagon list warns US firms of risks linked to working with flagged Chinese companies.",
+          "Technology firms are reviving (a few) Chinese commercial-property markets"
+        ],
+        "supporting_links": [
+          "https://www.bbc.com/news/articles/c75y6e5p9reo?at_medium=RSS&at_campaign=rss",
+          "https://www.economist.com/finance-and-economics/2026/05/07/deepseek-and-alibaba-rescue-chinas-office-landlords"
+        ],
+        "source_count": 3
       },
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Bernie Sanders’ AI sovereign wealth fund plan is good. But we think this is better | Nathan E Sanders and Bruce Schneier",
-        "link": "https://www.theguardian.com/commentisfree/2026/jun/08/bernie-sanders-ai-sovereign-wealth-fund-plan",
-        "summary": "While we do not outright oppose the taking of AI company stock, or of a US a sovereign wealth fund, there are better ways to achieve the senator’s goals Let no one accuse Bernie Sanders of ducking the big questions. Writing in the New York Times last week, the senator asked : “Will the future of humanity be determined by a handful of billionaires who have promoted and developed AI, with virtually no democratic input, who stand to become even richer and more powerful than they are today?” We agree entirely that this is one of the most potent questions facing global democracy today. Our book, Rewiring Democracy , surveys the emerging uses for and impacts of AI in democracy around the world and reaches the same conclusion: that the most urgent risk posed by AI is the concentration of power, wealth and control among tech oligarchs. Continue reading...",
-        "published": "Mon, 08 Jun 2026 10:00:22 GMT",
-        "updated": "2026-06-08T10:00:22Z",
-        "published_at_utc": "2026-06-08T10:00:22+00:00",
-        "id": "https://www.theguardian.com/commentisfree/2026/jun/08/bernie-sanders-ai-sovereign-wealth-fund-plan",
-        "topic_type": "sanctions",
-        "relevance_score": 21,
+        "source_name": "SCMP Business",
+        "title": "Hong Kong must be ready for Chinese firms’ ‘great repatriation’ of wealth",
+        "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3355765/hong-kong-must-be-ready-chinese-firms-great-repatriation-wealth?utm_source=rss_feed",
+        "summary": "In my travels around the world, I’m often asked if the best days of Hong Kong are behind us. My answer is always an emphatic “no” – and this is not merely a pep talk. When you step back and take a broad macroeconomic view, it becomes clear that, structurally speaking, our greatest opportunities lie just ahead. While many commentators scramble to draw parallels between Japan’s “lost decades” and China’s economic headwinds, they miss a far more apt and profound comparison: the phenomenon known as...",
+        "published": "Tue, 09 Jun 2026 01:00:07 +0000",
+        "updated": "Tue, 09 Jun 2026 01:00:07 +0000",
+        "published_at_utc": "2026-06-09T01:00:07+00:00",
+        "id": "https://www.scmp.com/opinion/hong-kong-opinion/article/3355765/hong-kong-must-be-ready-chinese-firms-great-repatriation-wealth?utm_source=rss_feed",
+        "topic_type": "markets",
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "While we do not outright oppose the taking of AI company stock, or of a US a sovereign wealth fund, there are better ways to achieve the senator’s goals Let no one accuse Bernie Sanders of ducking the big questions. Writing in the New York Times last week, the senator asked : “Will the future of humanity be determined by a handful of billionaires who have promoted and developed AI, with virtually no democratic input, who stand to become even richer and more powerful than they are today?” We agree entirely that this is one of the most potent questions facing global democracy today. Our book, Rewiring Democracy , surveys the emerging uses for and impacts of AI in democracy around the world and reaches the same conclusion: that the most urgent risk posed by AI is the concentration of power, wealth and control among tech oligarchs. Continue reading...",
-          "news_focus_zh": "美國參議員伯尼·桑德斯提出的人工智慧主權財富基金計畫引發討論，該計畫旨在解決少數科技富豪在人工智慧領域的權力集中問題。桑德斯質疑，未來人類是否將由少數億萬富翁主導，並強調民主參與的重要性。報導指出，雖然不反對桑德斯的計畫，但作者認為還有更好的方法來達成其目標。",
-          "background": "在當前的科技與經濟環境中，人工智慧的快速發展引發了對權力與財富集中問題的廣泛關注。許多專家擔心，少數科技公司和富豪可能會在未來的經濟與社會中扮演過於主導的角色，影響民主制度的運作。桑德斯的提案旨在透過建立主權財富基金來促進更公平的資源分配，然而，這一計畫的可行性及其對現有經濟體系的影響仍需進一步探討。",
+          "news_focus": "In my travels around the world, I’m often asked if the best days of Hong Kong are behind us. My answer is always an emphatic “no” – and this is not merely a pep talk. When you step back and take a broad macroeconomic view, it becomes clear that, structurally speaking, our greatest opportunities lie just ahead. While many commentators scramble to draw parallels between Japan’s “lost decades” and China’s economic headwinds, they miss a far more apt and profound comparison: the phenomenon known as...",
+          "news_focus_zh": "香港正面臨中國企業資金回流的趨勢，這被稱為「大規模資金回流」。雖然外界對香港的未來持懷疑態度，但有觀點認為，從宏觀經濟的角度來看，香港的結構性機會仍然存在，未來的發展潛力值得期待。",
+          "background": "近年來，中國經濟面臨多重挑戰，包括疫情影響和國內外政策的不確定性，這使得許多企業考慮將資金回流至香港。香港作為國際金融中心，擁有成熟的金融體系和法律環境，吸引企業重新評估其資本配置。此外，隨著中國政府對經濟政策的調整，香港的金融市場可能會迎來新的機會，尤其是在吸引外資和促進資本流動方面。",
           "stakeholders": [
-            "伯尼·桑德斯",
-            "科技公司",
-            "民主制度支持者",
-            "經濟學家",
+            "中國企業",
+            "香港政府",
+            "國際投資者",
+            "金融機構",
             "政策制定者"
           ],
-          "analysis": "桑德斯的計畫引發了對科技公司影響力的深刻反思，尤其是在民主制度面臨挑戰的背景下。支持者認為，主權財富基金能夠有效地將科技收益回饋社會，減少貧富差距。然而，參考報導《經濟學人》則對徵稅及財富再分配的有效性提出質疑，認為這樣的措施可能無法解決根本問題。各方立場的差異顯示出在如何應對科技影響力與財富集中問題上，存在著不同的策略與觀點，未來的政策制定將需要平衡這些意見。"
+          "analysis": "各方對香港未來的看法存在分歧。主新聞強調香港的潛在機會，認為即使面臨挑戰，未來仍可期待繁榮。而參考報導則指出，香港正在重新吸引交易，顯示出其金融活力的回升，並提到北京風格的政治影響可能會加強這一趨勢。這表明，儘管存在政治因素的干擾，香港的經濟動能仍在增強。未來，若中國企業持續回流資金，香港的金融市場將可能迎來新的發展機會，但同時也需警惕政治環境對市場的潛在影響。"
         },
-        "topic_priority_score": 8,
-        "event_type": "macro_signal",
+        "topic_priority_score": 4,
+        "event_type": "market_repricing",
         "supporting_sources": [
           "The Economist"
         ],
         "supporting_titles": [
-          "Don’t tax wealth"
+          "Hong Kong is getting its financial mojo back"
         ],
         "supporting_summaries": [
-          "Even the most sophisticated arguments in favour of doing so make no sense"
+          "The hub is attracting more deals. And more Beijing-style politics"
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2025/10/02/dont-tax-wealth"
+          "https://www.economist.com/finance-and-economics/2026/02/05/hong-kong-is-getting-its-financial-mojo-back"
         ],
         "source_count": 2
       },
       {
         "category": "economy",
-        "source_name": "The Hindu International",
-        "title": "Oil prices rise more than $2 on Israel strikes on Lebanon",
-        "link": "https://www.thehindu.com/news/international/oil-prices-rise-more-than-2-on-israel-strikes-on-lebanon/article71074954.ece",
-        "summary": "U.S. crude ‌futures were up $2.10, or 2.32%, at $92.64 per barrel as of 0013 ‌GMT, ⁠while Brent crude futures rose $2.33, or 2.5%, to $95.42 ⁠a barrel",
-        "published": "Mon, 08 Jun 2026 06:57:46 +0530",
-        "updated": "Mon, 08 Jun 2026 06:57:46 +0530",
-        "published_at_utc": "2026-06-08T01:27:46+00:00",
-        "id": "article-71074954",
-        "topic_type": "energy_markets",
-        "relevance_score": 21,
+        "source_name": "SCMP Business",
+        "title": "MiniMax once led Zhipu in Hong Kong’s AI stock race. How the tables have turned",
+        "link": "https://www.scmp.com/tech/big-tech/article/3356390/minimax-once-led-zhipu-hong-kongs-ai-stock-race-how-tables-have-turned?utm_source=rss_feed",
+        "summary": "When Chinese artificial intelligence developers Zhipu AI and MiniMax made their debuts on the Hong Kong stock exchange in January, investors initially saw one as a better bet than the other. Beijing-based Zhipu closed its first trading day on January 8 with a market capitalisation of HK$57.9 billion (US$7.4 billion). A day later, Shanghai-based MiniMax listed at HK$106.7 billion, almost twice as large. Five months on, however, Zhipu – traded as Knowledge Atlas Technology – has surged ahead. At...",
+        "published": "Tue, 09 Jun 2026 00:30:07 +0000",
+        "updated": "Tue, 09 Jun 2026 00:30:07 +0000",
+        "published_at_utc": "2026-06-09T00:30:07+00:00",
+        "id": "https://www.scmp.com/tech/big-tech/article/3356390/minimax-once-led-zhipu-hong-kongs-ai-stock-race-how-tables-have-turned?utm_source=rss_feed",
+        "topic_type": "markets",
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "U.S. crude ‌futures were up $2.10, or 2.32%, at $92.64 per barrel as of 0013 ‌GMT, ⁠while Brent crude futures rose $2.33, or 2.5%, to $95.42 ⁠a barrel",
-          "news_focus_zh": "因以色列對黎巴嫩的空襲，國際油價上漲超過2美元。根據報導，美國原油期貨價格上漲2.10美元，漲幅為2.32%，達到每桶92.64美元；而布倫特原油期貨則上漲2.33美元，漲幅為2.5%，報價為每桶95.42美元。",
-          "background": "近期中東地區的緊張局勢加劇，尤其是以色列與黎巴嫩之間的衝突，對全球能源市場造成影響。油價的波動通常與地緣政治事件密切相關，尤其是在主要產油國或地區發生衝突時。以色列的軍事行動可能導致供應鏈的不穩定，進一步推高油價。此外，全球對能源的需求持續增長，尤其是在經濟復甦的背景下，這也可能加劇油價的上漲壓力。",
+          "news_focus": "When Chinese artificial intelligence developers Zhipu AI and MiniMax made their debuts on the Hong Kong stock exchange in January, investors initially saw one as a better bet than the other. Beijing-based Zhipu closed its first trading day on January 8 with a market capitalisation of HK$57.9 billion (US$7.4 billion). A day later, Shanghai-based MiniMax listed at HK$106.7 billion, almost twice as large. Five months on, however, Zhipu – traded as Knowledge Atlas Technology – has surged ahead. At...",
+          "news_focus_zh": "在香港股市中，中國人工智慧開發商Zhipu AI與MiniMax於1月首次上市時，市場對兩者的評價截然不同。Zhipu在1月8日的首日交易中市值達到579億港元，而MiniMax在1月9日上市時市值則為1067億港元，幾乎是前者的兩倍。然而，五個月後，Zhipu的表現顯著提升，市值已經超越MiniMax，顯示出市場對其未來潛力的信心。",
+          "background": "Zhipu AI與MiniMax的上市反映了中國在人工智慧領域的競爭加劇。Zhipu AI專注於知識圖譜技術，並受到政府政策的支持，這使其在市場上獲得了較高的認可度。相對而言，MiniMax雖然初期市值較高，但其商業模式及技術路線可能未能持續吸引投資者的關注。隨著人工智慧技術的快速發展，市場對於這些企業的評價也在不斷變化，影響其股價表現。",
           "stakeholders": [
-            "以色列",
-            "黎巴嫩",
-            "美國",
-            "沙烏地阿拉伯",
-            "俄羅斯"
+            "Zhipu AI",
+            "MiniMax",
+            "香港股市投資者",
+            "中國政府",
+            "人工智慧產業"
           ],
-          "analysis": "此次油價上漲反映了市場對中東地區局勢的敏感反應。投資者通常會在地緣政治不穩定時選擇避險，這可能導致油價短期內持續上升。各方利益關係中，主要產油國如沙烏地阿拉伯和俄羅斯可能會從中受益，因為高油價將增加其收入。然而，消費國如美國和歐洲國家則可能面臨更高的能源成本，進而影響經濟增長和通脹壓力。未來幾周，市場將密切關注以色列與黎巴嫩的局勢發展，及其對全球油市的長期影響。"
+          "analysis": "Zhipu AI的成功反映了市場對其技術的信任，尤其是在知識圖譜的應用上，這可能使其在未來的商業競爭中佔據優勢。相對而言，MiniMax的股價下滑可能與其商業模式及市場策略的調整有關。根據參考報導，人工智慧的發展不僅依賴技術本身，還需要人力資源的支持，這可能暗示著Zhipu在人才招募與管理上做得更為出色。未來，兩家公司在技術創新及市場策略上的競爭將持續影響其股價走勢。"
         },
-        "topic_priority_score": 8,
-        "event_type": "energy_supply_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "topic_priority_score": 4,
+        "event_type": "market_repricing",
+        "supporting_sources": [
+          "The Economist"
+        ],
+        "supporting_titles": [
+          "How to spot a genius"
+        ],
+        "supporting_summaries": [
+          "In an age of artificial intelligence, the human kind is increasingly important"
+        ],
+        "supporting_links": [
+          "https://www.economist.com/finance-and-economics/2025/09/23/how-to-spot-a-genius"
+        ],
+        "source_count": 2
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
-        "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far",
-        "link": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-07T14:00:00+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "NASA orders astronauts to take shelter after new leak aboard the International Space Station",
-        "link": "https://www.thehindu.com/sci-tech/science/iss-astronauts-in-evacuation-mode-as-russia-attempts-to-fix-widening-air-leak/article71066499.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-08T10:33:35+00:00",
+        "title": "Threats Against Politicians Skyrocketed After Meta Changed Its Speech Rules",
+        "link": "https://www.wired.com/story/threats-against-politicians-skyrocketed-after-meta-changed-its-speech-rules/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-09T10:00:00+00:00",
         "relevance_score": 14
       },
       {
-        "title": "As the world embraces EVs, the U.S. hits the brakes",
-        "link": "https://restofworld.org/2026/us-ev-sales-drop-global-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "source_name": "Rest of World",
-        "published_at_utc": "2026-06-08T10:00:00+00:00",
+        "title": "FCC lifts looming deadline for Amazon Leo satellite broadband constellation",
+        "link": "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-06-09T00:59:40+00:00",
         "relevance_score": 14
       },
       {
-        "title": "Notion restores access to Anthropic after service disruption",
-        "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+        "title": "As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says",
+        "link": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-07T17:56:22+00:00",
+        "published_at_utc": "2026-06-08T22:41:45+00:00",
         "relevance_score": 13
       },
       {
-        "title": "OpenAI is still working on that ‘super app’",
-        "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-07T16:23:22+00:00",
+        "title": "OpenAI Confidentially Files for IPO on the Heels of SpaceX and Anthropic",
+        "link": "https://www.wired.com/story/openai-confidentially-files-for-ipo/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-08T21:31:58+00:00",
         "relevance_score": 13
       },
       {
-        "title": "Uber tells London to get ready for robotaxis",
-        "link": "https://www.theverge.com/transportation/945614/uber-wayve-robotaxi-interest-list-launch-london",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-06-08T11:26:42+00:00",
-        "relevance_score": 12
-      },
-      {
-        "title": "Uber, Wayve and Waymo are headed towards a robotaxi showdown in London",
-        "link": "https://techcrunch.com/2026/06/08/uber-wayve-and-waymo-are-headed-towards-a-robotaxi-showdown-in-london/",
+        "title": "OpenAI files confidentially for IPO, following Anthropic",
+        "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-08T11:00:00+00:00",
-        "relevance_score": 12
+        "published_at_utc": "2026-06-08T21:29:57+00:00",
+        "relevance_score": 13
       },
       {
-        "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-        "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-06T20:32:24+00:00",
-        "relevance_score": 11
+        "title": "macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era",
+        "link": "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-06-08T21:03:56+00:00",
+        "relevance_score": 13
       },
       {
-        "title": "Starmer tells Apple and Google to ban nude images on children's phones",
-        "link": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Technology",
-        "published_at_utc": "2026-06-08T11:00:21+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "NASA will wear high-tech Prada long johns to the Moon",
-        "link": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
+        "title": "44 things coming to your Apple devices that you might have missed",
+        "link": "https://www.theverge.com/tech/946260/apple-wwdc-2026-ios-ipados-macos-watchos-visionos-27-features-missed",
         "source_name": "The Verge",
-        "published_at_utc": "2026-06-07T22:16:41+00:00",
-        "relevance_score": 10
+        "published_at_utc": "2026-06-08T20:26:52+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Microsoft’s open source tools were hacked to steal passwords of AI developers",
+        "link": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-06-08T20:03:44+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+        "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-06-08T19:41:32+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Gemini 3.5 and Antigravity come to Google NotebookLM",
+        "link": "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-06-08T19:00:30+00:00",
+        "relevance_score": 13
       }
     ],
     "politics": [
       {
-        "title": "Trump repeats claim that California election was rigged – US politics live",
-        "link": "https://www.theguardian.com/us-news/live/2026/jun/08/us-politics-latest-news-updates-trump-california-governor-midterm-elections",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-08T11:53:31+00:00",
-        "relevance_score": 24
-      },
-      {
-        "title": "Middle East crisis live: Iran announces end of attacks against Israel as Trump claims both sides want ‘immediate ceasefire’",
-        "link": "https://www.theguardian.com/world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-08T11:52:52+00:00",
-        "relevance_score": 22
-      },
-      {
-        "title": "Pyongyang rolls out the red carpet as Xi Jinping is welcomed with pomp and ceremony",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3356361/pyongyang-rolls-out-red-carpet-xi-jinping-welcomed-pomp-and-ceremony?utm_source=rss_feed",
+        "title": "Is Trump calling the shots on Israel, or just pretending to?",
+        "link": "https://www.scmp.com/week-asia/politics/article/3356466/trump-calling-shots-israel-or-just-pretending?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-06-08T09:18:15+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "US adversaries China, North Korea strengthening ties as Xi, Kim set to begin talks",
-        "link": "https://www.foxnews.com/world/xi-jinping-north-korea-kim-jong-un-talks",
-        "source_name": "Fox News World",
-        "published_at_utc": "2026-06-08T06:55:32+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Trump walks out of interview with NBC’s Meet the Press after clash over election claims",
-        "link": "https://www.theguardian.com/us-news/2026/jun/07/trump-walks-out-meet-the-press-nbc-interview",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-08T11:27:02+00:00",
+        "published_at_utc": "2026-06-09T10:00:08+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Starmer gives tech firms ultimatum to block explicit images on children’s phones",
-        "link": "https://www.theguardian.com/technology/2026/jun/08/starmer-tech-firms-ultimatum-block-explicit-images-children-phones",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-08T08:48:21+00:00",
+        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+        "link": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-06-09T08:46:05+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Israel and Iran exchange attacks as ceasefire falters",
-        "link": "https://www.aljazeera.com/news/2026/6/8/israel-and-iran-exchange-attacks-as-ceasefire-falters?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-08T07:55:46+00:00",
+        "title": "Trump’s forced-labour tariffs put Southeast Asia in the firing line",
+        "link": "https://www.scmp.com/week-asia/economics/article/3356496/trumps-forced-labour-tariffs-put-southeast-asia-firing-line?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-09T08:27:42+00:00",
         "relevance_score": 20
       },
       {
-        "title": "West Asia war LIVE: Iran, Israel looking to do an 'immediate' ceasefire, says Trump",
-        "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-beirut-strikes-strait-of-hormuz-live-updates-june-8-2026/article71074947.ece",
+        "title": "Who’s calling the shots? Netanyahu and Trump at odds over their war",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3356472/whos-calling-shots-netanyahu-and-trump-odds-over-their-war?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-09T06:50:35+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Trump looms large over Brazil's presidential election",
+        "link": "https://www.thehindu.com/news/international/trump-looms-large-over-brazils-presidential-election/article71079348.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-08T11:28:36+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-06-09T05:52:19+00:00",
+        "relevance_score": 20
       },
       {
-        "title": "Israel kills 14 people in attacks across Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/israel-kills-14-people-in-attacks-across-gaza?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-08T10:23:27+00:00",
-        "relevance_score": 18
+        "title": "‘They are isolated … they are alone’: Zelenskyy on Russia, Putin’s lies – and fighting back",
+        "link": "https://www.theguardian.com/world/ng-interactive/2026/jun/09/volodymyr-zelenskyy-interview-russia-putin-drone-warfare-ukraine",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-09T05:00:46+00:00",
+        "relevance_score": 20
       },
       {
-        "title": "China’s Xi Jinping arrives in a North Korea armed with advanced warships and AI drones",
-        "link": "https://www.scmp.com/news/china/military/article/3356368/chinas-xi-jinping-arrives-north-korea-armed-advanced-warships-and-ai-drones?utm_source=rss_feed",
+        "title": "As Putin courts Southeast Asia, does ‘Russia need Asean more’?",
+        "link": "https://www.scmp.com/week-asia/politics/article/3356460/putin-courts-southeast-asia-does-russia-need-asean-more?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-06-08T09:59:18+00:00",
+        "published_at_utc": "2026-06-09T09:00:06+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "China’s Xi stays at exclusive Pyongyang guest house near shrines to former supreme leaders",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3356350/chinas-xi-stays-exclusive-pyongyang-guest-house-near-shrines-former-supreme-leaders?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-09T01:00:19+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Alex Vindman Survived Trump’s Retaliation Machine. Now He’s Running for Senate",
+        "link": "https://www.wired.com/story/the-big-interview-podcast-alex-vindman/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-09T10:30:00+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "UN report exposes brutal reality for Palestinians in Gaza, West Bank",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3356517/un-report-exposes-brutal-reality-palestinians-gaza-west-bank?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-09T10:20:31+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "Oil price falls back and markets recovering after Iran announces ‘end of military operations’ against Israel – business live",
-        "link": "https://www.theguardian.com/business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates",
+        "title": "Chip stocks bounce back as AI rally resumes; CMA launches inquiry into Paramount-Warner Bros deal – business live",
+        "link": "https://www.theguardian.com/business/live/2026/jun/09/chip-stocks-bounce-back-kospi-openai-wall-street-float-stock-markets-oil-live-news-updates",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-08T11:49:14+00:00",
-        "relevance_score": 23
+        "published_at_utc": "2026-06-09T10:29:04+00:00",
+        "relevance_score": 27
       },
       {
-        "title": "UK readies sanctions against Israel to deter proposed illegal West Bank settlement",
-        "link": "https://www.theguardian.com/world/2026/jun/07/uk-sanctions-israel-deter-proposed-west-bank-settlement-palestine",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-07T16:43:49+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Unions attack ‘year-long delay’ for Tata Steel furnace’s grid connection in south Wales",
-        "link": "https://www.theguardian.com/business/2026/jun/08/unions-attack-delay-tata-steel-furnaces-grid-connection-south-wales",
+        "title": "City watchdog sues Neil Woodford for allegedly offering unauthorised investment advice",
+        "link": "https://www.theguardian.com/business/2026/jun/08/fca-sues-neil-woodford-investment-equity-fund",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-08T11:45:35+00:00",
+        "published_at_utc": "2026-06-08T15:00:17+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Hong Kong stocks pare losses as AI rallies in Asia unwind on US rate-increase anxiety",
-        "link": "https://www.scmp.com/business/china-business/article/3356289/hong-kong-stocks-slumped-ai-rallies-asia-unwind-us-rate-increase-anxiety?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-08T01:45:26+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Asia’s stock markets dive amid Iran-Israel conflict, Wall Street jitters",
-        "link": "https://www.aljazeera.com/economy/2026/6/8/asias-stock-markets-dive-amid-iran-israel-conflict-wall-street-jitters?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-08T08:49:41+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Blackouts, hyperinflation, dissent: Iran considers perilous prospect of peace",
-        "link": "https://www.theguardian.com/world/2026/jun/06/blackouts-hyperinflation-dissent-iran-considers-perilous-prospect-of-peace",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-06T08:00:04+00:00",
-        "relevance_score": 16
-      },
-      {
-        "title": "Credit cards aren’t evil – if you know how to use them the right way | Gene Marks",
-        "link": "https://www.theguardian.com/business/2026/jun/07/credit-cards-arent-evil-use-them-right-way",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-07T14:00:35+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "‘Free of the shackles’: Michael Grade’s GB News defence raises concerns over relaxing of Ofcom rules",
-        "link": "https://www.theguardian.com/media/2026/jun/06/michael-grade-ofcom-watchdog-impartiality-rules-gb-news",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-06T14:00:05+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "US imposes new sanctions on Cuban president and Castro family members",
-        "link": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-05T01:07:15+00:00",
-        "relevance_score": 15
+        "title": "Bank of Japan set to hike key interest rate to 1%",
+        "link": "https://asia.nikkei.com/economy/bank-of-japan/bank-of-japan-set-to-hike-key-interest-rate-to-1",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
+        "relevance_score": 17
       },
       {
         "title": "Xi in North Korea, FIFA World Cup, India inflation data",
@@ -576,6 +554,48 @@
         "source_name": "Nikkei Asia",
         "published_at_utc": "",
         "relevance_score": 15
+      },
+      {
+        "title": "UK defends China engagement, seeks to unblock India trade deal",
+        "link": "https://asia.nikkei.com/politics/international-relations/uk-defends-china-engagement-seeks-to-unblock-india-trade-deal",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
+        "relevance_score": 15
+      },
+      {
+        "title": "South Korean stocks end 8% lower as US rate fears hit high-flying Asia",
+        "link": "https://asia.nikkei.com/business/markets/south-korean-stocks-end-8-lower-as-us-rate-fears-hit-high-flying-asia",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
+        "relevance_score": 15
+      },
+      {
+        "title": "GSK to buy US cancer treatment firm Nuvalent for $10.6bn",
+        "link": "https://www.theguardian.com/business/2026/jun/09/gsk-buy-us-cancer-treatment-firm-nuvalent-luke-miels",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-09T08:59:47+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "Hong Kong stocks pare losses as AI rallies in Asia unwind on US rate-increase anxiety",
+        "link": "https://www.scmp.com/business/china-business/article/3356289/hong-kong-stocks-slumped-ai-rallies-asia-unwind-us-rate-increase-anxiety?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-08T01:45:26+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Rachel Reeves may be unpopular, but she is quietly rebalancing UK plc | Heather Stewart",
+        "link": "https://www.theguardian.com/politics/2026/jun/07/rachel-reeves-unpopular-quietly-rebalancing-uk-plc",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-07T11:13:20+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Blackouts, hyperinflation, dissent: Iran considers perilous prospect of peace",
+        "link": "https://www.theguardian.com/world/2026/jun/06/blackouts-hyperinflation-dissent-iran-considers-perilous-prospect-of-peace",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-06T08:00:04+00:00",
+        "relevance_score": 13
       }
     ]
   },
