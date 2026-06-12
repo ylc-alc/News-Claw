@@ -1,257 +1,132 @@
 {
-  "generated_at_utc": "2026-06-11T12:02:56.485405+00:00",
+  "generated_at_utc": "2026-06-12T11:34:35.306617+00:00",
   "summary": {
-    "total_raw_items": 1085,
-    "total_deduped_items": 1059,
+    "total_raw_items": 1078,
+    "total_deduped_items": 1047,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "cybersecurity",
-        "space_tech",
+        "chips",
+        "social_media",
         "space_tech"
       ],
       "politics": [
         "us_politics",
         "us_politics",
-        "diplomacy"
+        "us_politics"
       ],
       "economy": [
-        "inflation",
-        "markets",
+        "interest_rates",
+        "energy_markets",
         "markets"
       ]
     },
-    "multi_source_selected_count": 6
+    "multi_source_selected_count": 5
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "Wired",
-        "title": "CISA Tells US Agencies to Fix Security Bugs in as Little as 3 Days Thanks to AI Threats",
-        "link": "https://www.wired.com/story/cisa-ai-vulnerability-directive/",
-        "summary": "“Defenders cannot afford to take weeks to patch,” one Cybersecurity and Infrastructure Security Agency official warned on Wednesday.",
-        "published": "Wed, 10 Jun 2026 20:55:40 +0000",
-        "updated": "Wed, 10 Jun 2026 20:55:40 +0000",
-        "published_at_utc": "2026-06-10T20:55:40+00:00",
-        "id": "6a29a1ae04bb3915003f58f6",
-        "topic_type": "cybersecurity",
-        "relevance_score": 19,
+        "source_name": "SCMP World",
+        "title": "Hong Kong can be more than New York and Silicon Valley combined: Paul Chan",
+        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3356871/hong-kong-can-be-more-new-york-and-silicon-valley-combined-paul-chan?utm_source=rss_feed",
+        "summary": "Hong Kong can be “more than New York and Silicon Valley combined” by positioning itself as a hub that integrates global financial depth with technological innovation and manufacturing capacity, the city’s finance chief has said. Financial Secretary Paul Chan Mo-po said on Friday that Hong Kong had a unique edge over New York and Silicon Valley, thanks to advanced manufacturing capabilities that its American rivals lacked, which were the result of integration with the Greater Bay Area. Speaking...",
+        "published": "Fri, 12 Jun 2026 06:57:04 +0000",
+        "updated": "Fri, 12 Jun 2026 06:57:04 +0000",
+        "published_at_utc": "2026-06-12T06:57:04+00:00",
+        "id": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3356871/hong-kong-can-be-more-new-york-and-silicon-valley-combined-paul-chan?utm_source=rss_feed",
+        "topic_type": "chips",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "“Defenders cannot afford to take weeks to patch,” one Cybersecurity and Infrastructure Security Agency official warned on Wednesday.",
-          "news_focus_zh": "美國網絡安全與基礎設施安全局（CISA）近日發出警告，要求各政府機構在面對人工智慧（AI）帶來的安全威脅時，必須在最短三天內修補安全漏洞。CISA官員強調，防禦者無法再容忍數週的修補時間，因為AI技術的快速發展使得安全漏洞的利用風險大幅增加。",
-          "background": "隨著人工智慧技術的迅速發展，網絡安全的威脅也日益增加。CISA作為美國政府的網絡安全監管機構，負責保護國家基礎設施免受網絡攻擊。近期的報告指出，AI技術不僅能被用來加強防禦，還可能被攻擊者利用來自動化攻擊過程，這使得修補漏洞的速度變得至關重要。CISA的警告反映了政府對於快速應對新興威脅的迫切需求，尤其是在數位基礎設施日益依賴於技術的背景下。",
+          "news_focus": "Hong Kong can be “more than New York and Silicon Valley combined” by positioning itself as a hub that integrates global financial depth with technological innovation and manufacturing capacity, the city’s finance chief has said. Financial Secretary Paul Chan Mo-po said on Friday that Hong Kong had a unique edge over New York and Silicon Valley, thanks to advanced manufacturing capabilities that its American rivals lacked, which were the result of integration with the Greater Bay Area. Speaking...",
+          "news_focus_zh": "香港財政司司長陳茂波表示，香港有潛力成為一個超越紐約和矽谷的全球金融與科技創新中心。他指出，香港擁有先進的製造能力，這是其美國競爭對手所缺乏的，並且這種優勢源於與大灣區的整合。陳茂波在發表演講時強調了香港的獨特競爭力，並呼籲加強科技與金融的結合。",
+          "background": "香港作為全球金融中心，面臨來自其他城市的競爭，尤其是紐約和矽谷。這些城市在科技創新方面具有深厚的歷史和資源優勢。然而，香港的地理位置及其與大灣區的聯繫，使其在製造能力上具備獨特優勢。隨著中國政府推動科技創新和經濟轉型，香港希望利用這一機會，吸引更多科技企業和投資者，進一步提升其在全球市場中的地位。",
           "stakeholders": [
-            "CISA",
-            "美國政府機構",
-            "網絡安全企業",
-            "AI技術開發者",
-            "公眾"
+            "香港政府",
+            "科技企業",
+            "投資者",
+            "大灣區企業",
+            "國際市場"
           ],
-          "analysis": "CISA的要求顯示出對於網絡安全的高度重視，尤其是在AI技術日益普及的情況下。各政府機構面臨的挑戰在於如何在有限的時間內有效修補漏洞，這可能需要更多的資源和人力投入。此舉也可能促使企業和機構重新評估其安全策略，強化內部的漏洞管理流程。不同機構間的反應可能會有所不同，部分機構可能會因為資源不足而難以達到CISA的要求，這可能導致安全防護的差異化。此外，這項政策的實施效果將取決於各機構的合作程度及其對於新技術的適應能力。"
+          "analysis": "陳茂波的言論反映了香港政府希望重新定位城市形象的努力，強調其在金融與科技領域的潛力。與此同時，參考報導提到的其他國家如印度、巴西、阿聯酋和非洲，則顯示出全球範圍內對科技基礎設施的需求正在增加，這些地區正因應計算資源的稀缺而推動AI創新。這意味著，香港若能有效整合其金融與製造優勢，可能會吸引來自這些新興市場的企業與投資者，形成競爭優勢。然而，香港也需面對內部與外部的挑戰，包括政策環境、人才流失及國際關係的變化，這些都可能影響其未來發展。"
         },
-        "topic_priority_score": 9,
-        "event_type": "strategic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "SCMP Business",
-        "title": "Who pays when rockets explode? China insures SpaceX’s rivals in orbital race against US",
-        "link": "https://www.scmp.com/tech/article/3356718/who-pays-when-rockets-explode-china-insures-spacexs-rivals-orbital-race-against-us?utm_source=rss_feed",
-        "summary": "This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion-dollar rocket gamble. In 2016, a SpaceX rocket carrying a satellite blew up during a test, destroying on-board equipment and surrounding facilities worth millions of US dollars. Fortunately, the satellite operator, Israel’s Space Communications, had an insurance policy worth almost...",
-        "published": "Thu, 11 Jun 2026 11:30:07 +0000",
-        "updated": "Thu, 11 Jun 2026 11:30:07 +0000",
-        "published_at_utc": "2026-06-11T11:30:07+00:00",
-        "id": "https://www.scmp.com/tech/article/3356718/who-pays-when-rockets-explode-china-insures-spacexs-rivals-orbital-race-against-us?utm_source=rss_feed",
-        "topic_type": "space_tech",
-        "relevance_score": 18,
-        "briefing": {
-          "news_focus": "This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion-dollar rocket gamble. In 2016, a SpaceX rocket carrying a satellite blew up during a test, destroying on-board equipment and surrounding facilities worth millions of US dollars. Fortunately, the satellite operator, Israel’s Space Communications, had an insurance policy worth almost...",
-          "news_focus_zh": "中國正在為SpaceX的競爭對手提供保險，以應對火箭發射過程中可能發生的爆炸事件。這一舉措反映了中國投資者在面對SpaceX的IPO影響下，如何調整其策略。報導提到，2016年SpaceX的一次火箭測試中發生爆炸，造成數百萬美元的損失，但衛星運營商以色列的Space Communications因擁有保險而得以彌補損失。",
-          "background": "SpaceX的IPO被視為一個重要的市場事件，可能會改變整個航天產業的格局。隨著SpaceX在商業航天領域的領先地位，其他國家和公司也在加緊發展自己的太空計畫。中國的投資者在這一背景下，開始為競爭對手提供保險，顯示出他們在全球航天競爭中的日益活躍。這種保險策略不僅能降低風險，還可能促進更多的資本流入航天產業，進一步推動技術創新和市場競爭。",
-          "stakeholders": [
-            "SpaceX",
-            "中國投資者",
-            "競爭對手",
-            "衛星運營商",
-            "全球航天市場"
-          ],
-          "analysis": "中國為SpaceX競爭對手提供保險的舉措，顯示出其在全球航天市場中的戰略布局。這一行動可能會促使其他國家或公司考慮類似的保險安排，以減少發射失敗帶來的經濟損失。參考報導提到SpaceX的IPO可能會改變市場格局，這意味著未來的競爭將更加激烈，尤其是在資金和技術的投入上。各方利益關係複雜，SpaceX的成功可能會吸引更多資本流向其競爭對手，導致市場的重新洗牌。中國的保險策略或許能在這場競爭中為其企業帶來優勢，但也可能引發其他國家的警覺和反制措施。"
-        },
-        "topic_priority_score": 4,
+        "topic_priority_score": 10,
         "event_type": "strategic_move",
         "supporting_sources": [
-          "BBC Business"
+          "Rest of World"
         ],
         "supporting_titles": [
-          "SpaceX's stock market blast-off could be Musk's biggest gamble yet"
+          "Scarcity is driving AI innovation outside Silicon Valley"
         ],
         "supporting_summaries": [
-          "SpaceX is preparing for a stock market debut that could transform the company, the wider market and Elon Musk's fortune."
+          "New AI infrastructure is emerging in India, Brazil, the UAE, and Africa, where local stacks are designed to get around compute scarcity."
         ],
         "supporting_links": [
-          "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss"
+          "https://restofworld.org/2026/scarcity-is-driving-ai-innovation-outside-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
         ],
         "source_count": 2
       },
       {
         "category": "technology",
-        "source_name": "Rest of World",
-        "title": "China builds a rival satellite constellation as SpaceX goes public",
-        "link": "https://restofworld.org/2026/spacesail-spacex-starlink-competition-ipo/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "summary": "A Chinese state-backed satellite company is signing the partners and governments Starlink has pushed aside, days before SpaceX’s record listing.",
-        "published": "Thu, 11 Jun 2026 10:00:00 +0000",
-        "updated": "Thu, 11 Jun 2026 10:00:00 +0000",
-        "published_at_utc": "2026-06-11T10:00:00+00:00",
-        "id": "https://restofworld.org/2026/spacesail-spacex-starlink-competition-ipo/",
-        "topic_type": "space_tech",
+        "source_name": "Wired",
+        "title": "The US Is Requiring Foreign Influencers to Get Work Visas for the 2026 World Cup",
+        "link": "https://www.wired.com/story/2026-world-cup-us-influencers-visa/",
+        "summary": "FIFA announced agreements with platforms such as TikTok and YouTube that include the participation of dozens of international influencers to generate content in the three host countries.",
+        "published": "Fri, 12 Jun 2026 10:00:00 +0000",
+        "updated": "Fri, 12 Jun 2026 10:00:00 +0000",
+        "published_at_utc": "2026-06-12T10:00:00+00:00",
+        "id": "6a29c85642f2ed990de29c76",
+        "topic_type": "social_media",
         "relevance_score": 18,
         "briefing": {
-          "news_focus": "A Chinese state-backed satellite company is signing the partners and governments Starlink has pushed aside, days before SpaceX’s record listing.",
-          "news_focus_zh": "中國一家國有支持的衛星公司正在簽署與那些被SpaceX的Starlink排除在外的合作夥伴和政府的協議。這一舉動發生在SpaceX即將進行創紀錄的上市之際，顯示出中國在衛星互聯網領域的積極布局，意圖挑戰SpaceX的市場地位。",
-          "background": "隨著全球對衛星互聯網需求的增加，SpaceX的Starlink已經在市場上取得了顯著的成功，並吸引了多個國家的合作。然而，中國在此領域的發展也不容小覷，政府對科技產業的支持使得中國企業能夠迅速擴展其衛星網絡。中國的衛星計畫不僅旨在提供商業服務，還有助於提升國家在全球科技競爭中的地位，並增強其在國際市場上的影響力。",
+          "news_focus": "FIFA announced agreements with platforms such as TikTok and YouTube that include the participation of dozens of international influencers to generate content in the three host countries.",
+          "news_focus_zh": "美國政府要求參加2026年世界盃的外國網紅必須獲得工作簽證。這一政策是FIFA與TikTok及YouTube等平台達成的協議的一部分，旨在促進這三個主辦國的內容創作，並吸引國際網紅參與活動。",
+          "background": "2026年世界盃將在美國、加拿大和墨西哥舉行，這是首次由三個國家共同主辦的世界盃賽事。隨著社交媒體的興起，網紅在大型活動中的影響力日益增強，FIFA希望透過與這些平台的合作，提升賽事的曝光率和參與度。美國政府的簽證政策反映了對外國網紅進入國內市場的管理需求，特別是在大型國際活動期間，這可能影響到網紅的參與方式和內容創作。",
           "stakeholders": [
-            "中國國有衛星公司",
-            "SpaceX",
-            "合作國家政府",
-            "全球衛星互聯網市場",
-            "投資者"
+            "美國政府",
+            "FIFA",
+            "TikTok",
+            "YouTube",
+            "國際網紅"
           ],
-          "analysis": "中國衛星公司的這一舉動可能會對SpaceX的市場份額造成威脅，特別是在那些對SpaceX的服務不滿意或未能達成合作的國家。這也反映出中國在高科技領域的競爭策略，試圖通過與其他國家和企業建立合作關係來擴大其影響力。SpaceX的上市將使其資金流入加速，進一步強化其市場地位，但中國的競爭可能迫使其調整策略以應對新的挑戰。各方利益的角力將可能影響未來衛星互聯網市場的格局，特別是在亞洲和其他發展中國家。"
+          "analysis": "美國政府的簽證要求可能會對外國網紅的參與造成障礙，尤其是那些未能及時獲得簽證的創作者。這一政策的實施可能會引發對美國移民政策的討論，並影響到其他國際活動的參與模式。另一方面，這也可能促使更多的本地創作者參與，因為他們不受簽證限制。FIFA與社交媒體平台的合作，則顯示出體育賽事與數位媒體之間日益緊密的聯繫，未來可能會有更多類似的合作模式出現。"
         },
-        "topic_priority_score": 4,
+        "topic_priority_score": 6,
         "event_type": "partnership_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
         "supporting_links": [],
         "source_count": 1
-      }
-    ],
-    "politics": [
-      {
-        "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "US and Iran trade fire after Trump threatens Tehran over stalled talks | First Thing",
-        "link": "https://www.theguardian.com/us-news/2026/jun/11/first-thing-us-iran-trade-strikes-trump-threatens-tehran-stalled-talks",
-        "summary": "Iran says US attacks make ceasefire ‘practically meaningless’. Plus, Trump says ‘I love the inflation’ when asked about jump to 4.2% Don’t already get First Thing in your inbox? Sign up here Good morning. Has the ceasefire collapsed yet? What is the status of negotiations? Talks to turn the ceasefire into a durable peace deal have stalled for weeks, with periodic flare-ups as both sides continued to launch limited strikes and trade blame for violating the truce. What do the two sides want? Iran seeks the lifting of international sanctions, the unfreezing of billions of dollars in assets, and control over the strait of Hormuz. Trump has said any future peace deal must prevent Iran from developing a nuclear weapon, which Tehran denies it is seeking to do. This is a developing story. Follow our live coverage here . What did Gates say? “I support the release of all the Epstein files and sincerely hope that, through your efforts and those of others advocating on their behalf, the survivors of Epstein’s crimes can get the justice that they deserve.” Continue reading...",
-        "published": "Thu, 11 Jun 2026 10:49:01 GMT",
-        "updated": "2026-06-11T10:49:01Z",
-        "published_at_utc": "2026-06-11T10:49:01+00:00",
-        "id": "https://www.theguardian.com/us-news/2026/jun/11/first-thing-us-iran-trade-strikes-trump-threatens-tehran-stalled-talks",
-        "topic_type": "us_politics",
-        "relevance_score": 24,
-        "briefing": {
-          "news_focus": "Iran says US attacks make ceasefire ‘practically meaningless’. Plus, Trump says ‘I love the inflation’ when asked about jump to 4.2% Don’t already get First Thing in your inbox? Sign up here Good morning. Has the ceasefire collapsed yet? What is the status of negotiations? Talks to turn the ceasefire into a durable peace deal have stalled for weeks, with periodic flare-ups as both sides continued to launch limited strikes and trade blame for violating the truce. What do the two sides want? Iran seeks the lifting of international sanctions, the unfreezing of billions of dollars in assets, and control over the strait of Hormuz. Trump has said any future peace deal must prevent Iran from developing a nuclear weapon, which Tehran denies it is seeking to do. This is a developing story. Follow our live coverage here . What did Gates say? “I support the release of all the Epstein files and sincerely hope that, through your efforts and those of others advocating on their behalf, the survivors of Epstein’s crimes can get the justice that they deserve.” Continue reading...",
-          "news_focus_zh": "美國與伊朗之間的緊張局勢再度升級，雙方在停火談判陷入僵局後，互相發動攻擊。伊朗表示，美國的攻擊使得停火協議幾乎失去意義。特朗普則強調，任何未來的和平協議必須阻止伊朗發展核武器，儘管伊朗否認有此意圖。此事件顯示出雙方在持續的軍事衝突中互相指責，並未達成實質進展。",
-          "background": "美國與伊朗的關係長期緊張，尤其是在特朗普政府期間，對伊朗實施了嚴厲的經濟制裁，並要求其放棄核武計劃。近期的停火談判旨在將臨時停火轉化為持久和平協議，但由於雙方在制裁解除及核問題上的根本分歧，談判進展緩慢。伊朗希望解除國際制裁並獲得資產解凍，而美方則強調必須確保伊朗不會發展核武器。這種情況下，雙方的軍事行動不斷升級，使得和平前景更加渺茫。",
-          "stakeholders": [
-            "美國政府",
-            "伊朗政府",
-            "國際社會",
-            "中東地區國家",
-            "全球市場"
-          ],
-          "analysis": "美國與伊朗之間的軍事衝突加劇，特別是特朗普對伊朗的強硬言辭，顯示出他在面對國內外壓力時的強硬立場。特朗普在參考報導中提到將加大對伊朗的攻擊，這可能是對伊朗持續挑釁行為的直接回應。另一方面，伊朗則強調美國的攻擊行為使得停火協議失去意義，這顯示出雙方在軍事行動上的互動將進一步影響和平談判的前景。若雙方無法達成共識，未來可能會導致更大規模的衝突，並影響地區穩定。"
-        },
-        "topic_priority_score": 8,
-        "event_type": "security_event",
-        "supporting_sources": [
-          "The Hindu International",
-          "The Diplomat"
-        ],
-        "supporting_titles": [
-          "Tehran will ‘pay the price’, says Trump after U.S., Iran exchange strikes",
-          "Fixing AI in Conflict"
-        ],
-        "supporting_summaries": [
-          "“We are gonna be attacking them, attacking them very hard,” Mr. Trump told reporters on Wednesday. “We hit them hard yesterday, and we are going to hit them again hard today”",
-          "We already have the tools."
-        ],
-        "supporting_links": [
-          "https://www.thehindu.com/news/international/trump-says-iran-has-taken-too-long-to-negotiate-will-pay-the-price/article71084910.ece",
-          "https://thediplomat.com/2026/06/fixing-ai-in-conflict/"
-        ],
-        "source_count": 3
       },
       {
-        "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "West Asia war updates: Iran announces closure of Strait of Hormuz after U.S. attacks",
-        "link": "https://www.thehindu.com/news/international/iran-us-israel-war-live-updates-donald-trump-benjamin-netanyahu-mojtaba-khamenei-ceasefire-strait-of-hormuz-oil-prices-june-10-2026/article71083282.ece",
-        "summary": "Two 'violating ships' attempting passage through Hormuz hit, Iranian media says; Iran's UN ambassador Amir Saeid Iravani rejected Trump's threat, saying \"no sustainable deal can be reached through threats, intimidation, or the use of force.\"",
-        "published": "Thu, 11 Jun 2026 13:45:22 +0530",
-        "updated": "Thu, 11 Jun 2026 13:45:22 +0530",
-        "published_at_utc": "2026-06-11T08:15:22+00:00",
-        "id": "article-71083282",
-        "topic_type": "us_politics",
-        "relevance_score": 22,
+        "category": "technology",
+        "source_name": "The Guardian Business",
+        "title": "After SpaceX’s huge IPO, Americans’ financial future will be bound to AI",
+        "link": "https://www.theguardian.com/business/2026/jun/12/ai-ipos-stock-market",
+        "summary": "They’re about to get more AI rammed down their throats, stuck into their pension plans and investment portfolios Americans are growing worried about what artificial intelligence portends for their futures. Eight in 10 Americans report concern over AI, compared with a third who report being excited, according to a recent Quinnipiac poll. More than half think it will do more harm than good in their daily lives. Seven out of 10 think it will reduce the number of available jobs. Skeptical though they may be, they are about to get more AI rammed down their throats and stuck into their pension plans and their investment portfolios, whether they want it or not – binding their futures ever more tightly to the frenzied, risky, multibillion-dollar dash by technology moguls to develop machines capable of mimicking human thought processes to take over cognitive tasks. Continue reading...",
+        "published": "Fri, 12 Jun 2026 09:00:41 GMT",
+        "updated": "2026-06-12T09:00:41Z",
+        "published_at_utc": "2026-06-12T09:00:41+00:00",
+        "id": "https://www.theguardian.com/business/2026/jun/12/ai-ipos-stock-market",
+        "topic_type": "space_tech",
+        "relevance_score": 18,
         "briefing": {
-          "news_focus": "Two 'violating ships' attempting passage through Hormuz hit, Iranian media says; Iran's UN ambassador Amir Saeid Iravani rejected Trump's threat, saying \"no sustainable deal can be reached through threats, intimidation, or the use of force.\"",
-          "news_focus_zh": "伊朗宣布關閉霍爾木茲海峽，因為兩艘被指控違規的船隻在通過該海峽時遭到攻擊。伊朗駐聯合國大使阿米爾·薩伊德·伊拉瓦尼對特朗普的威脅表示拒絕，強調「透過威脅、恐嚇或武力無法達成可持續的協議」。",
-          "background": "霍爾木茲海峽是全球最重要的石油運輸通道之一，伊朗與美國之間的緊張關係持續升級。自從今年四月雙方達成脆弱的停火協議以來，雙方之間的衝突時有發生。美國近期的空襲行動被視為對伊朗的重大挑釁，尤其是在美國直升機在霍爾木茲海峽被擊落後，這一系列攻擊被認為是對停火協議的嚴重破壞。",
+          "news_focus": "They’re about to get more AI rammed down their throats, stuck into their pension plans and investment portfolios Americans are growing worried about what artificial intelligence portends for their futures. Eight in 10 Americans report concern over AI, compared with a third who report being excited, according to a recent Quinnipiac poll. More than half think it will do more harm than good in their daily lives. Seven out of 10 think it will reduce the number of available jobs. Skeptical though they may be, they are about to get more AI rammed down their throats and stuck into their pension plans and their investment portfolios, whether they want it or not – binding their futures ever more tightly to the frenzied, risky, multibillion-dollar dash by technology moguls to develop machines capable of mimicking human thought processes to take over cognitive tasks. Continue reading...",
+          "news_focus_zh": "隨著SpaceX的巨大IPO，美國民眾的財務未來將越來越依賴人工智慧（AI）。根據最近的Quinnipiac民調，八成美國人對AI感到擔憂，只有三分之一的人表示興奮。超過一半的受訪者認為AI對日常生活的影響將多於好處，七成認為AI將減少可用的工作機會。儘管民眾持懷疑態度，AI將被強行納入他們的退休計畫和投資組合，進一步將他們的未來與科技巨頭們的風險投資緊密相連。",
+          "background": "在當前的科技環境中，人工智慧的迅速發展引發了廣泛的關注與討論。隨著企業如SpaceX等進行IPO，資金流入AI技術的研發，這不僅影響了市場動態，也改變了投資者的策略。美國的退休計畫和投資組合越來越多地納入AI相關資產，這使得普通投資者的財務未來與AI的發展風險緊密相連。這種情況引發了民眾對於AI可能帶來的工作流失和生活質量下降的擔憂，尤其是在經濟不穩定的背景下。",
           "stakeholders": [
-            "伊朗政府",
-            "美國政府",
-            "伊朗革命衛隊",
-            "中東地區國家",
-            "國際社會"
+            "美國民眾",
+            "科技公司",
+            "投資者",
+            "政策制定者",
+            "退休基金管理機構"
           ],
-          "analysis": "此次事件顯示出美伊之間的緊張局勢再度升級。根據參考報導，伊朗革命衛隊聲稱已對美國在科威特、巴林和約旦的18個目標發動攻擊，這表明伊朗對美國的軍事行動做出了強烈反擊。另一方面，美國國防部長表示如果需要，將會進行強有力的回應，顯示出美方對於進一步軍事行動的決心。這種情勢可能導致雙方進一步的軍事對抗，並使得原本脆弱的停火協議岌岌可危。各方的立場差異在於美國希望透過軍事壓力迫使伊朗回到談判桌，而伊朗則堅持其主權與防衛權，拒絕在威脅下進行談判。"
+          "analysis": "美國民眾對AI的擔憂反映了對未來工作的焦慮，尤其是AI技術可能取代傳統職位的風險。儘管有三分之一的人對AI持正面看法，但大多數人仍然擔心其潛在的負面影響。這種情況可能導致政策制定者和企業在推廣AI技術時需要更加謹慎，以平衡技術創新與社會穩定之間的矛盾。此外，隨著AI技術的普及，投資者可能需要重新評估其投資組合，以應對未來市場的變化。這場技術革命的進程將如何影響不同社會階層的經濟狀況，仍需持續觀察。"
         },
-        "topic_priority_score": 8,
-        "event_type": "security_event",
-        "supporting_sources": [
-          "Al Jazeera",
-          "The Guardian World"
-        ],
-        "supporting_titles": [
-          "Iran says 18 targets hit across US bases, Strait of Hormuz closed",
-          "Is the Iran ceasefire over? What the latest US attacks tell us"
-        ],
-        "supporting_summaries": [
-          "Iran’s Revolutionary Guard Corps says it hit 18 targets at US bases in Kuwait, Bahrain and Jordan.",
-          "A wave of US strikes represents the gravest test yet of the fragile truce. Here’s what happened, what officials are saying and whether the deal can survive Middle East crisis – live updates The US has launched a wave of strikes across southern Iran for a second consecutive day. Although there have been several breaches since a ceasefire was agreed between the two sides in April, the attacks this week – launched after the downing of a US helicopter over the strait of Hormuz – represent the most serious and extensive breakdown of the truce to date. The US president, Donald Trump, has raised the prospect of further attacks, while his defence secretary, Pete Hegseth, has told reporters if strikes “have to happen [Friday] night, they will be strong and they will be clear”. Continue reading..."
-        ],
-        "supporting_links": [
-          "https://www.aljazeera.com/video/newsfeed/2026/6/11/iran-says-18-targets-hit-across-us-bases-strait-of-hormuz-closed?traffic_source=rss",
-          "https://www.theguardian.com/world/2026/jun/11/iran-ceasefire-us-attacks-strikes-deal"
-        ],
-        "source_count": 3
-      },
-      {
-        "category": "politics",
-        "source_name": "SCMP World",
-        "title": "Has Beijing given up on a nuclear weapon-free Korean peninsula?",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3356753/has-beijing-given-nuclear-weapon-free-korean-peninsula?utm_source=rss_feed",
-        "summary": "China might be downplaying nuclear weapons by not mentioning the issue after Xi Jinping’s visit to North Korea but that does not mean it has accepted its neighbour’s growing arsenal, according to analysts. Neither Beijing nor Pyongyang mentioned nuclear weapons or denuclearisation in their statements on the Chinese president’s two-day state visit to Pyongyang this week. Since Xi’s summit with US President Donald Trump in May, observers have been speculating that Beijing’s stance on Pyongyang’s...",
-        "published": "Thu, 11 Jun 2026 10:10:06 +0000",
-        "updated": "Thu, 11 Jun 2026 10:10:06 +0000",
-        "published_at_utc": "2026-06-11T10:10:06+00:00",
-        "id": "https://www.scmp.com/news/china/diplomacy/article/3356753/has-beijing-given-nuclear-weapon-free-korean-peninsula?utm_source=rss_feed",
-        "topic_type": "diplomacy",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "China might be downplaying nuclear weapons by not mentioning the issue after Xi Jinping’s visit to North Korea but that does not mean it has accepted its neighbour’s growing arsenal, according to analysts. Neither Beijing nor Pyongyang mentioned nuclear weapons or denuclearisation in their statements on the Chinese president’s two-day state visit to Pyongyang this week. Since Xi’s summit with US President Donald Trump in May, observers have been speculating that Beijing’s stance on Pyongyang’s...",
-          "news_focus_zh": "中國國家主席習近平近期對北韓進行為期兩天的國事訪問，但在雙方的聲明中，並未提及核武器或無核化議題。分析人士指出，這並不意味著北京已經接受北韓日益增長的核武庫，反而可能是在淡化此議題的表現。習近平與美國總統特朗普在五月的峰會後，觀察者對北京在平壤的立場產生了新的猜測。",
-          "background": "中國與北韓的關係一直以來都受到核武問題的影響。北韓的核武發展引起了國際社會的廣泛關注，尤其是美國及其盟友的強烈反對。過去，北京一直主張無核化，並在多次國際會議中呼籲北韓停止核武計劃。然而，隨著北韓核武能力的增強，中國的立場似乎出現了微妙變化。習近平的訪問可能反映出中國在面對北韓核問題時的策略調整，尤其是在美中關係緊張的背景下。",
-          "stakeholders": [
-            "中國",
-            "北韓",
-            "美國",
-            "國際社會",
-            "地區鄰國"
-          ],
-          "analysis": "此次習近平訪問北韓卻未提及核武問題，可能顯示出中國在對待北韓核武問題上的策略轉變。分析人士認為，中國可能在尋求維持與北韓的穩定關係的同時，避免直接對抗美國的立場。這種策略可能是基於對地區安全局勢的考量，尤其是在美國對北韓的制裁政策仍然存在的情況下。另一方面，北韓可能會解讀為中國對其核武發展的默許，這可能會加劇地區的緊張局勢。未來，中國如何平衡與北韓的關係及其在國際社會中的角色，將成為觀察的重點。"
-        },
-        "topic_priority_score": 7,
-        "event_type": "diplomatic_move",
+        "topic_priority_score": 4,
+        "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -259,347 +134,468 @@
         "source_count": 1
       }
     ],
+    "politics": [
+      {
+        "category": "politics",
+        "source_name": "The Guardian World",
+        "title": "China arrests US academic at conference for ‘espionage activities’",
+        "link": "https://www.theguardian.com/world/2026/jun/12/china-arrests-us-academic-min-zin-espionage",
+        "summary": "Arrest of Min Zin, who writes about Myanmar and Chinese foreign policy, comes just month after Trump visit to Beijing China has arrested a US scholar who writes about Myanmar and Chinese foreign policy on suspicion of spying. Min Zin was suspected of “engaging in espionage activities that endanger China’s national security,” China’s ministry of foreign affairs spokesperson, Lin Jian, said on Friday. Continue reading...",
+        "published": "Fri, 12 Jun 2026 10:27:08 GMT",
+        "updated": "2026-06-12T10:27:08Z",
+        "published_at_utc": "2026-06-12T10:27:08+00:00",
+        "id": "https://www.theguardian.com/world/2026/jun/12/china-arrests-us-academic-min-zin-espionage",
+        "topic_type": "us_politics",
+        "relevance_score": 20,
+        "briefing": {
+          "news_focus": "Arrest of Min Zin, who writes about Myanmar and Chinese foreign policy, comes just month after Trump visit to Beijing China has arrested a US scholar who writes about Myanmar and Chinese foreign policy on suspicion of spying. Min Zin was suspected of “engaging in espionage activities that endanger China’s national security,” China’s ministry of foreign affairs spokesperson, Lin Jian, said on Friday. Continue reading...",
+          "news_focus_zh": "中國在一場會議上逮捕了美國學者Min Zin，理由是涉嫌從事危害中國國家安全的間諜活動。Min Zin專注於緬甸及中國外交政策的研究。中國外交部發言人林劍於週五確認了此事件，並指出此舉是在特朗普訪問北京後的一個月內發生的。",
+          "background": "此次逮捕發生在中美兩國關係緊張的背景下。隨著中國在全球影響力的擴大，對外國學者的監控和限制也日益加強。Min Zin的研究主題涉及緬甸的政治局勢，這在當前的地緣政治環境中尤為敏感。中國政府對於任何可能影響其國家安全的活動持有高度警覺，尤其是在外國學者的研究可能涉及敏感議題時。",
+          "stakeholders": [
+            "中國政府",
+            "美國學術界",
+            "Min Zin",
+            "國際人權組織",
+            "中美外交關係"
+          ],
+          "analysis": "此次事件反映了中美之間日益加劇的緊張關係，特別是在學術交流和情報安全方面的摩擦。中國政府可能認為Min Zin的研究可能對其國家安全構成威脅，這與美國學術界對中國的批評形成鮮明對比。參考報導中提到的中國外交部確認逮捕的消息，強調了中國在此事件中的立場，即堅決打擊間諜活動。未來可能出現的後續發展包括美方對此事件的強烈反應，可能會影響兩國在學術和外交領域的互動。"
+        },
+        "topic_priority_score": 8,
+        "event_type": "security_event",
+        "supporting_sources": [
+          "Al Jazeera"
+        ],
+        "supporting_titles": [
+          "China arrests US researcher it says is suspected of ‘spying’"
+        ],
+        "supporting_summaries": [
+          "Beijing's Foreign Ministry confirms US reports about detention of scholar focusing on politics of neighbouring Myanmar."
+        ],
+        "supporting_links": [
+          "https://www.aljazeera.com/news/2026/6/12/china-arrests-us-researcher-it-says-is-suspected-of-spying?traffic_source=rss"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "politics",
+        "source_name": "The Hindu International",
+        "title": "White House correspondents’ dinner shooting: A look at previous assassination attempts on President Donald Trump",
+        "link": "https://www.thehindu.com/news/international/white-house-correspondents-dinner-shooting-previous-assassination-attempts-on-president-donald-trump/article70907924.ece",
+        "summary": "The White House correspondents’ dinner shooting was not the first time that the U.S. President Donald Trump found himself at the centre of a security scare",
+        "published": "Fri, 12 Jun 2026 13:47:21 +0530",
+        "updated": "Fri, 12 Jun 2026 13:47:21 +0530",
+        "published_at_utc": "2026-06-12T08:17:21+00:00",
+        "id": "article-70907924",
+        "topic_type": "us_politics",
+        "relevance_score": 20,
+        "briefing": {
+          "news_focus": "The White House correspondents’ dinner shooting was not the first time that the U.S. President Donald Trump found himself at the centre of a security scare",
+          "news_focus_zh": "在白宮記者晚宴上發生了一起槍擊事件，這使得美國總統唐納德·特朗普再次成為安全風險的焦點。此次事件並非特朗普首次面臨此類安全威脅，歷史上曾有多次針對他的暗殺企圖。",
+          "background": "特朗普在任內曾多次遭遇安全威脅，這些事件反映出美國政治環境的高度緊張與分裂。隨著社會對政治人物的情緒反應加劇，特別是在社交媒體的影響下，對總統的安全保護需求也隨之上升。白宮記者晚宴作為一個重要的社交活動，通常會吸引大量媒體和公眾的關注，這也使得任何安全事件都會引發廣泛的討論和關注。",
+          "stakeholders": [
+            "美國政府",
+            "白宮安全部門",
+            "媒體",
+            "特朗普支持者",
+            "反對特朗普的政治團體"
+          ],
+          "analysis": "此次槍擊事件可能會引發對特朗普安全措施的重新評估，並促使政府加強對高層官員的保護措施。各方對此事件的反應可能會有所不同，支持特朗普的群體可能會將其視為政治迫害的證據，而反對者則可能會利用此事件來強調政治暴力的風險。未來，這類事件可能會影響特朗普的公眾形象及其政治活動的方式，尤其是在選舉期間，安全問題將成為重要議題。"
+        },
+        "topic_priority_score": 8,
+        "event_type": "security_event",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "politics",
+        "source_name": "Al Jazeera",
+        "title": "Iran war day 105: Trump halts attacks after Kharg Island threat",
+        "link": "https://www.aljazeera.com/news/2026/6/12/iran-war-day-105-trump-halts-attacks-after-kharg-island-threat?traffic_source=rss",
+        "summary": "Trump cancels planned Iran attacks, saying talks are close to a result as Tehran reviews a proposed US deal.",
+        "published": "Fri, 12 Jun 2026 06:32:38 +0000",
+        "updated": "Fri, 12 Jun 2026 06:32:38 +0000",
+        "published_at_utc": "2026-06-12T06:32:38+00:00",
+        "id": "https://www.aljazeera.com/?t=1781237527",
+        "topic_type": "us_politics",
+        "relevance_score": 20,
+        "briefing": {
+          "news_focus": "Trump cancels planned Iran attacks, saying talks are close to a result as Tehran reviews a proposed US deal.",
+          "news_focus_zh": "美國總統特朗普宣布取消對伊朗的攻擊計劃，並表示與德黑蘭的談判即將達成結果。此舉發生在伊朗對美國的提議進行審查之際，特別是在霍爾木茲海峽的緊張局勢仍然存在。",
+          "background": "自從伊朗與美國之間的緊張關係加劇以來，雙方一直在尋求解決方案。特朗普的最新聲明顯示出美方對於達成協議的期待，尤其是在伊朗外長發言人表示協議的主要部分已經敲定的背景下。然而，伊朗強調不會在其核心利益上妥協，這使得談判的前景變得複雜。此外，霍爾木茲海峽作為全球重要的石油運輸通道，其安全性對於國際市場至關重要。",
+          "stakeholders": [
+            "美國政府",
+            "伊朗政府",
+            "國際市場",
+            "中東地區國家",
+            "全球能源供應商"
+          ],
+          "analysis": "特朗普的決定反映出美方希望透過外交手段解決與伊朗的衝突，但伊朗方面對於協議的具體內容持謹慎態度。根據參考報導，伊朗方面對於特朗普的聲明表示懷疑，稱有關協議的報導為「推測性」。這顯示出雙方在談判中的信任缺失，可能會影響未來的進展。若伊朗堅持其紅線，則協議的達成可能會面臨挑戰。此外，霍爾木茲海峽的緊張局勢仍需關注，因為這可能成為雙方談判的關鍵因素。"
+        },
+        "topic_priority_score": 8,
+        "event_type": "security_event",
+        "supporting_sources": [
+          "The Hindu International",
+          "BBC World"
+        ],
+        "supporting_titles": [
+          "Donald Trump says Iran war deal close as Strait of Hormuz tensions linger",
+          "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near"
+        ],
+        "supporting_summaries": [
+          "Iranian media reported Foreign Ministry spokesperson Esmaeil Baghaei as saying large parts of the agreement have been finalized, but Iran would not compromise on its red lines",
+          "Iran says reports of a deal are \"speculative\" after the US president says a \"great settlement\" to end the conflict has been reached."
+        ],
+        "supporting_links": [
+          "https://www.thehindu.com/news/international/donald-trump-says-iran-war-deal-close-as-strait-of-hormuz-tensions-linger/article71092371.ece",
+          "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss"
+        ],
+        "source_count": 3
+      }
+    ],
     "economy": [
       {
         "category": "economy",
-        "source_name": "BBC Business",
-        "title": "Trump says 'I love the inflation' as US prices rise at fastest rate in three years",
-        "link": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
-        "summary": "The US president later said he had meant that he actually loved that inflation was not higher.",
-        "published": "Thu, 11 Jun 2026 09:14:13 GMT",
-        "updated": "Thu, 11 Jun 2026 09:14:13 GMT",
-        "published_at_utc": "2026-06-11T09:14:13+00:00",
-        "id": "https://www.bbc.com/news/articles/c0myzxjkw99o#0",
-        "topic_type": "inflation",
-        "relevance_score": 23,
+        "source_name": "The Guardian Business",
+        "title": "ECB raises eurozone interest rates as Iran war stokes inflation",
+        "link": "https://www.theguardian.com/business/2026/jun/11/ecb-eurozone-interest-rates-iran-war-inflation",
+        "summary": "European Central Bank increases main deposit rate to 2.25%, with two further rises expected by next spring Business live – latest updates The European Central Bank has raised interest rates for the first time since 2023 in response to higher inflation caused by the war in Iran. The ECB raised its main deposit rate from 2% to 2.25% in a move that financial markets expect to be the first of three rises by next spring. Continue reading...",
+        "published": "Thu, 11 Jun 2026 12:18:30 GMT",
+        "updated": "2026-06-11T12:18:30Z",
+        "published_at_utc": "2026-06-11T12:18:30+00:00",
+        "id": "https://www.theguardian.com/business/2026/jun/11/ecb-eurozone-interest-rates-iran-war-inflation",
+        "topic_type": "interest_rates",
+        "relevance_score": 25,
         "briefing": {
-          "news_focus": "The US president later said he had meant that he actually loved that inflation was not higher.",
-          "news_focus_zh": "美國總統特朗普在白宮發言時表示他「喜愛通脹」，這是在最新數據顯示美國通脹率達到三年來的最高點4.2%之後的評論。特朗普隨後澄清，他的意思是通脹並沒有更高，顯示出對當前經濟狀況的某種樂觀態度。",
-          "background": "在伊朗戰爭的影響下，美國的通脹率從2.4%上升至4.2%，這是自該衝突開始以來的第三個月連續上升。霍爾木茲海峽的封閉對能源價格造成了影響，進一步推高了通脹。這一經濟現象引發了對美國經濟穩定性的關注，尤其是在全球市場不確定性增加的背景下。",
+          "news_focus": "European Central Bank increases main deposit rate to 2.25%, with two further rises expected by next spring Business live – latest updates The European Central Bank has raised interest rates for the first time since 2023 in response to higher inflation caused by the war in Iran. The ECB raised its main deposit rate from 2% to 2.25% in a move that financial markets expect to be the first of three rises by next spring. Continue reading...",
+          "news_focus_zh": "歐洲中央銀行（ECB）首次自2023年以來提高歐元區利率，將主要存款利率從2%上調至2.25%。此舉是因應因伊朗戰爭引發的通脹壓力，市場預期未來還將有兩次加息，預計在明年春季之前完成。",
+          "background": "伊朗戰爭的爆發對全球經濟造成了顯著影響，特別是能源價格的上漲進一步推高了通脹率。歐洲中央銀行在面對持續的通脹壓力時，選擇提高利率以抑制物價上漲，這是其貨幣政策的一部分。此政策調整反映了ECB對經濟穩定的重視，尤其是在面對外部衝擊的情況下。此外，市場對於未來利率走勢的預期也影響了投資者的信心和行為。",
           "stakeholders": [
-            "美國政府",
-            "消費者",
-            "能源市場",
-            "經濟學家",
-            "投資者"
-          ],
-          "analysis": "特朗普的言論引發了市場的廣泛關注，尤其是在通脹上升的背景下。不同於以往對通脹的擔憂，特朗普似乎在試圖傳達一種對經濟復甦的信心，這與一些經濟學家的看法形成對比，他們認為高通脹可能會對消費者信心和經濟增長造成壓力。此外，參考報導指出，通脹的上升與伊朗戰爭的影響密切相關，這使得能源價格上漲，進一步加劇了市場的不穩定性。未來，若通脹持續上升，可能會影響美國的貨幣政策及選民對政府經濟管理的信任。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "inflation_data",
-        "supporting_sources": [
-          "The Guardian Business"
-        ],
-        "supporting_titles": [
-          "Trump says ‘I love the inflation’ as rate rises to 4.2% amid Iran war pressure"
-        ],
-        "supporting_summaries": [
-          "Before the conflict began, inflation was at 2.4%, but the closure of the strait of Hormuz has affected energy prices Donald Trump said “I love the inflation” after new data showed that inflation jumped to an annual rate of 4.2% in May, the third consecutive monthly increase since the start of the Iran war and a three-year high. Speaking from the White House on Wednesday, the US president said that he was not concerned about inflation because of recent developments in the conflict. Continue reading..."
-        ],
-        "supporting_links": [
-          "https://www.theguardian.com/business/2026/jun/10/inflation-report-rate"
-        ],
-        "source_count": 2
-      },
-      {
-        "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "China, Hong Kong stocks fall as AI bubble fears build up",
-        "link": "https://www.scmp.com/plus/business/markets/article/3356755/china-hong-kong-stocks-fall-ai-bubble-fears-build?utm_source=rss_feed",
-        "summary": "Asia-Pacific shares fell to a three-week low as fresh US strikes on Iran and concerns about an artificial intelligence (AI) bubble rattled markets around the world. The MSCI All Country Asia-Pacific Index dropped about 0.4 per cent on Thursday. Hong Kong’s Hang Seng Index fell 0.7 per cent, while the mainland CSI 300 Index dropped 0.6 per cent. The Kospi in South Korea rose 0.4 per cent. Brent crude, the global benchmark, climbed above US$95 a barrel before easing as renewed fighting in the...",
-        "published": "Thu, 11 Jun 2026 09:14:42 +0000",
-        "updated": "Thu, 11 Jun 2026 09:14:42 +0000",
-        "published_at_utc": "2026-06-11T09:14:42+00:00",
-        "id": "https://www.scmp.com/plus/business/markets/article/3356755/china-hong-kong-stocks-fall-ai-bubble-fears-build?utm_source=rss_feed",
-        "topic_type": "markets",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "Asia-Pacific shares fell to a three-week low as fresh US strikes on Iran and concerns about an artificial intelligence (AI) bubble rattled markets around the world. The MSCI All Country Asia-Pacific Index dropped about 0.4 per cent on Thursday. Hong Kong’s Hang Seng Index fell 0.7 per cent, while the mainland CSI 300 Index dropped 0.6 per cent. The Kospi in South Korea rose 0.4 per cent. Brent crude, the global benchmark, climbed above US$95 a barrel before easing as renewed fighting in the...",
-          "news_focus_zh": "亞洲太平洋股市因對人工智慧（AI）泡沫的擔憂及美國對伊朗的新一波攻擊而下跌，跌至三週低點。周四，MSCI亞洲太平洋指數下滑約0.4%，香港恒生指數下跌0.7%，而中國內地的CSI 300指數則下降0.6%。與此同時，南韓的Kospi指數上漲0.4%。布倫特原油價格在重新升高至每桶95美元以上後有所回落，顯示出市場的不穩定性。",
-          "background": "近期，全球市場因地緣政治緊張局勢和經濟前景不明而受到影響。美國對伊朗的軍事行動引發了市場的不安，進一步加劇了投資者對市場的擔憂。此外，人工智慧技術的迅速發展引發了對其可持續性及潛在泡沫的質疑，尤其是在中國及其周邊國家的科技產業中，這種擔憂尤為明顯。參考報導指出，AI的興起可能掩蓋了中國經濟的結構性問題，這使得日本、南韓和台灣等國面臨產業衰退的風險。",
-          "stakeholders": [
+            "歐洲中央銀行",
             "投資者",
-            "科技公司",
-            "政府",
-            "經濟學家",
-            "市場分析師"
+            "消費者",
+            "保險業者",
+            "經濟學家"
           ],
-          "analysis": "市場對AI泡沫的擔憂主要源於對其長期可持續性的質疑，尤其是在中國經濟面臨挑戰的背景下。參考報導提到，AI的發展可能掩蓋了中國經濟的結構性問題，這使得周邊國家如日本和南韓的產業也受到影響。這些國家可能因為過度依賴中國市場而面臨更大的經濟風險。隨著市場情緒的波動，投資者可能會重新評估科技股的價值，進一步影響股市走勢。此外，地緣政治的緊張局勢也可能加劇市場的不穩定性，未來幾周將是觀察市場反應的重要時期。"
+          "analysis": "此次ECB加息的決策主要是為了應對因伊朗戰爭引發的通脹壓力，各方對此反應不一。支持加息的觀點認為，這是控制通脹的必要措施，能夠穩定經濟。然而，反對者則擔心加息可能會抑制經濟增長，特別是在全球經濟不確定性增加的背景下。此外，參考報導《經濟學人》提到，與伊朗戰爭相關的保險業務受到重大影響，這可能進一步加劇市場的不穩定性，並影響ECB的未來政策走向。整體而言，ECB的加息策略將在短期內引發市場波動，長期效果則需視通脹走勢及全球經濟狀況而定。"
         },
-        "topic_priority_score": 4,
-        "event_type": "energy_supply_move",
+        "topic_priority_score": 10,
+        "event_type": "rate_decision",
         "supporting_sources": [
+          "BBC Business",
           "The Economist"
         ],
         "supporting_titles": [
-          "Japan, South Korea and Taiwan are suffering industrial rot"
+          "Will UK interest rates go up?",
+          "The insurers on the hook for war in Iran"
         ],
         "supporting_summaries": [
-          "Artificial intelligence is concealing a China shock"
+          "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+          "Some have been hammered; even those who haven’t might be soon"
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2026/05/27/japan-south-korea-and-taiwan-are-suffering-industrial-rot"
+          "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+          "https://www.economist.com/finance-and-economics/2026/05/21/the-insurers-on-the-hook-for-war-in-iran"
         ],
-        "source_count": 2
+        "source_count": 3
+      },
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "Oil prices plummet as Trump claims he is close to US-Iran deal",
+        "link": "https://www.theguardian.com/business/2026/jun/12/global-oil-prices-trump-us-iran-deal-brent-crude-strait-of-hormuz",
+        "summary": "Brent crude falls as optimism rises strait of Hormuz could reopen over the weekend Business live – latest updates Global oil prices fell on Friday to lows not seen since the first week of the Iran crisis after Donald Trump claimed he was close to reaching a peace deal with Tehran. The price of Brent crude began to tumble from about $93 a barrel in overnight trade after the US president called off further military strikes against Iran which were scheduled for the evening. Continue reading...",
+        "published": "Fri, 12 Jun 2026 11:07:33 GMT",
+        "updated": "2026-06-12T11:07:33Z",
+        "published_at_utc": "2026-06-12T11:07:33+00:00",
+        "id": "https://www.theguardian.com/business/2026/jun/12/global-oil-prices-trump-us-iran-deal-brent-crude-strait-of-hormuz",
+        "topic_type": "energy_markets",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "Brent crude falls as optimism rises strait of Hormuz could reopen over the weekend Business live – latest updates Global oil prices fell on Friday to lows not seen since the first week of the Iran crisis after Donald Trump claimed he was close to reaching a peace deal with Tehran. The price of Brent crude began to tumble from about $93 a barrel in overnight trade after the US president called off further military strikes against Iran which were scheduled for the evening. Continue reading...",
+          "news_focus_zh": "全球油價因特朗普宣稱接近與伊朗達成和平協議而大幅下跌，布倫特原油價格從每桶約93美元開始急劇下滑，創下自伊朗危機以來的最低點。特朗普的聲明包括取消原定於當晚對伊朗的軍事打擊，這使得市場對霍爾木茲海峽重新開放的樂觀情緒上升。",
+          "background": "近期，伊朗與美國之間的緊張局勢持續升級，導致全球油價波動。霍爾木茲海峽是全球重要的石油運輸通道，任何軍事衝突都可能影響石油供應，進而推高油價。特朗普政府的外交政策一直以強硬對伊朗為主，但隨著局勢的發展，特朗普的最新聲明顯示出希望透過外交手段解決衝突，這對市場情緒產生了直接影響。",
+          "stakeholders": [
+            "特朗普政府",
+            "伊朗政府",
+            "全球石油市場",
+            "投資者",
+            "地緣政治分析師"
+          ],
+          "analysis": "特朗普的聲明引發市場對油價的劇烈反應，顯示出投資者對地緣政治風險的敏感性。油價的下跌反映了市場對和平協議的期待，然而，這種樂觀情緒是否能持續仍然存在不確定性。若協議未能如預期達成，油價可能會再次上升，影響全球經濟。此外，特朗普的外交策略也可能受到國內外政治壓力的影響，未來幾天內的發展將是關鍵。"
+        },
+        "topic_priority_score": 8,
+        "event_type": "energy_supply_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       },
       {
         "category": "economy",
         "source_name": "SCMP Business",
-        "title": "J&T faces risk of tougher penalties, higher costs as China opens formal safety probe",
-        "link": "https://www.scmp.com/business/china-business/article/3356716/china-initiates-probe-jt-express-over-safety-management-failures?utm_source=rss_feed",
-        "summary": "China’s postal regulator has opened an investigation into J&T Express over failures in safety management, escalating scrutiny of the courier operator and raising investors’ concerns about the impact of heavier penalties, higher compliance costs and safety oversight on its international operations. The State Post Bureau said on Thursday it had formally launched a case against J&T Express Co after multiple work process safety accidents occurred this year at enterprises using the J&T brand,...",
-        "published": "Thu, 11 Jun 2026 06:09:41 +0000",
-        "updated": "Thu, 11 Jun 2026 06:09:41 +0000",
-        "published_at_utc": "2026-06-11T06:09:41+00:00",
-        "id": "https://www.scmp.com/business/china-business/article/3356716/china-initiates-probe-jt-express-over-safety-management-failures?utm_source=rss_feed",
+        "title": "The SpaceX factor: Hong Kong stocks face liquidity test from mega IPO",
+        "link": "https://www.scmp.com/business/china-business/article/3356899/spacex-factor-hong-kong-stocks-face-liquidity-test-mega-ipo?utm_source=rss_feed",
+        "summary": "This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble. While the world witnesses a new fundraising record in the coming listing of SpaceX – and the emergence of its CEO Elon Musk as the first-ever trillionaire – Hong Kong stocks face a critical liquidity test, as market enthusiasm reshapes fund flows and recalibrates...",
+        "published": "Fri, 12 Jun 2026 11:00:07 +0000",
+        "updated": "Fri, 12 Jun 2026 11:00:07 +0000",
+        "published_at_utc": "2026-06-12T11:00:07+00:00",
+        "id": "https://www.scmp.com/business/china-business/article/3356899/spacex-factor-hong-kong-stocks-face-liquidity-test-mega-ipo?utm_source=rss_feed",
         "topic_type": "markets",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "China’s postal regulator has opened an investigation into J&T Express over failures in safety management, escalating scrutiny of the courier operator and raising investors’ concerns about the impact of heavier penalties, higher compliance costs and safety oversight on its international operations. The State Post Bureau said on Thursday it had formally launched a case against J&T Express Co after multiple work process safety accidents occurred this year at enterprises using the J&T brand,...",
-          "news_focus_zh": "中國郵政監管機構已對J&T Express展開正式調查，原因是該快遞公司在安全管理上存在失誤，這使得市場對於可能面臨的更嚴厲處罰和合規成本上升感到擔憂。國家郵政局於週四宣布，因為多起使用J&T品牌的企業發生工作過程中的安全事故，已對該公司啟動案件調查。",
-          "background": "J&T Express是一家在東南亞及中國運營的快遞公司，近年來隨著電子商務的蓬勃發展，其業務迅速擴張。然而，隨著市場競爭加劇及監管環境的變化，快遞行業面臨的安全管理要求也日益嚴格。中國政府對於快遞行業的監管力度加強，特別是在安全和合規性方面，這使得J&T Express的經營面臨更大的挑戰。此次調查的啟動，可能會影響其在中國市場的運營及國際擴展計劃。",
+          "news_focus": "This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble. While the world witnesses a new fundraising record in the coming listing of SpaceX – and the emergence of its CEO Elon Musk as the first-ever trillionaire – Hong Kong stocks face a critical liquidity test, as market enthusiasm reshapes fund flows and recalibrates...",
+          "news_focus_zh": "SpaceX即將進行的IPO將創下全球募資紀錄，這一事件對香港股市的流動性造成了重大影響。隨著市場熱情的高漲，資金流向和投資策略正在重新調整，特別是來自中國大陸的投資者。這一變化可能會影響香港市場的資金流動性，進一步考驗其金融穩定性。",
+          "background": "SpaceX的IPO標誌著一個新的募資高峰，這不僅是對太空產業的重大推動，也可能改變全球資本流動的格局。香港作為亞洲金融中心，長期以來吸引著大量外資，然而，近年來因地緣政治及政策變化，香港市場的流動性面臨挑戰。隨著SpaceX的上市，香港市場的資金流動可能會受到重新評估，尤其是來自中國大陸的資金流入與流出。",
           "stakeholders": [
-            "J&T Express",
-            "中國國家郵政局",
-            "投資者",
-            "消費者",
-            "競爭對手"
+            "SpaceX",
+            "香港股市",
+            "中國大陸投資者",
+            "日本投資者",
+            "金融監管機構"
           ],
-          "analysis": "J&T Express面臨的調查可能會導致更高的合規成本和潛在的罰款，這對其財務狀況及未來的國際業務拓展構成威脅。投資者對此表示擔憂，因為這可能會影響公司的盈利能力及市場競爭力。參考報導中提到的特斯拉在中國的召回事件，雖然主題不同，但同樣反映出中國市場對於企業安全管理的高度重視，這可能會促使其他企業在安全合規方面加強自我檢查。不同於J&T的情況，特斯拉的問題主要是技術性，且已計劃進行修復，這顯示出各行業在面對安全問題時的不同應對策略。"
+          "analysis": "SpaceX的IPO可能會吸引大量資金，這對香港股市的流動性構成挑戰。參考報導中提到，日本的SpaceX股票基金已經停止接受新資金流入，顯示出投資者對於市場動態的謹慎態度。這可能反映出投資者對於香港市場未來流動性的擔憂，尤其是在中國大陸投資者的策略可能會受到影響的情況下。此外，《經濟學人》的報導指出，香港正逐漸恢復其金融活力，這可能與SpaceX的IPO有關，但也需注意北京的政策影響，這可能會對市場的長期穩定性產生影響。"
         },
         "topic_priority_score": 4,
-        "event_type": "market_repricing",
+        "event_type": "rate_decision",
         "supporting_sources": [
-          "Wall Street Journal"
+          "Nikkei Asia",
+          "The Economist"
         ],
         "supporting_titles": [
-          "Tesla to Recall Cars in China on Safety Concerns"
+          "SpaceX stock fund in Japan halts new inflows after investors pile in",
+          "Hong Kong is getting its financial mojo back"
         ],
         "supporting_summaries": [
-          "Tesla China plans to fix 1.2 million China-made and imported vehicles with software issues."
+          "",
+          "The hub is attracting more deals. And more Beijing-style politics"
         ],
         "supporting_links": [
-          "https://www.wsj.com/articles/tesla-to-recall-1-2-million-cars-in-china-on-safety-concerns-06ff757a?mod=pls_whats_news_us_business_f"
+          "https://asia.nikkei.com/business/markets/equities/spacex-stock-fund-in-japan-halts-new-inflows-after-investors-pile-in",
+          "https://www.economist.com/finance-and-economics/2026/02/05/hong-kong-is-getting-its-financial-mojo-back"
         ],
-        "source_count": 2
+        "source_count": 3
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
-        "title": "From Almaty to orbit: Kazakhstan woos Hong Kong travellers with rocket launches",
-        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3356765/almaty-orbit-kazakhstan-woos-hong-kong-travellers-rocket-launches?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-11T09:30:49+00:00",
+        "title": "Elon Musk on track to become world’s first trillionaire today as SpaceX lists on US stock market – business live",
+        "link": "https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-12T11:04:42+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Anthropic taps TCS to scale its enterprise AI deployments",
-        "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-11T11:48:55+00:00",
-        "relevance_score": 17
+        "title": "As Musk secures first trillionaire status with SpaceX IPO, will the next come from China?",
+        "link": "https://www.scmp.com/business/money/money-news/article/3356873/musk-secures-1st-trillionaire-status-spacex-ipo-will-chinese-tech-see-next-one?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-12T08:00:07+00:00",
+        "relevance_score": 18
       },
       {
-        "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+        "title": "Siri won’t be your AI girlfriend",
+        "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
         "source_name": "The Verge",
-        "published_at_utc": "2026-06-11T11:40:43+00:00",
+        "published_at_utc": "2026-06-12T07:00:31+00:00",
         "relevance_score": 17
       },
       {
-        "title": "Trump Risks Key Surveillance Authority Over ‘Unqualified’ Spy-Chief Pick",
-        "link": "https://www.wired.com/story/trump-risks-key-surveillance-authority-over-unqualified-spy-chief-pick/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-06-10T20:28:58+00:00",
+        "title": "How Nvidia’s South Korean AI deals could fuel ‘the next industrial revolution’",
+        "link": "https://www.scmp.com/week-asia/economics/article/3356685/how-nvidias-south-korean-ai-deals-could-fuel-next-industrial-revolution?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-12T00:00:13+00:00",
         "relevance_score": 17
       },
       {
-        "title": "Why enterprise AI will be a major focus at VivaTech 2026",
-        "link": "https://techcrunch.com/2026/06/10/why-enterprise-ai-will-be-a-major-focus-at-vivatech-2026/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-10T15:16:00+00:00",
+        "title": "‘Hands Off Our NHS’: Anti-Palantir Protests Break Out in UK Over Deal With National Health Service",
+        "link": "https://www.wired.com/story/palantir-protests-nhs-conference-uk/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-11T21:33:31+00:00",
         "relevance_score": 17
       },
       {
-        "title": "Anthropic’s Dario Amodei has just one direct report",
-        "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+        "title": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
+        "link": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-11T19:41:01+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Canadian mother sues OpenAI, alleging ChatGPT led her daughter to kill herself",
+        "link": "https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-11T19:14:46+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "A warrantless wiretap law is about to expire — but surveillance networks aren’t actually ‘going dark’",
+        "link": "https://www.theverge.com/tech/948451/fisa-702-reauthorization-vote-fails-congress-wiretapping-lapse",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-06-11T16:03:38+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
+        "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-11T03:53:06+00:00",
+        "published_at_utc": "2026-06-11T20:27:25+00:00",
         "relevance_score": 15
       },
       {
-        "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
-        "link": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-06-11T03:11:22+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-        "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+        "title": "South Korea hits Coupang with $400M+ fine for data breach that affected millions",
+        "link": "https://techcrunch.com/2026/06/11/south-korea-hits-coupang-with-400m-fine-for-data-breach-that-affected-millions/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-10T15:41:22+00:00",
+        "published_at_utc": "2026-06-11T13:18:51+00:00",
         "relevance_score": 15
-      },
-      {
-        "title": "YouTube Appears to Be Making Money Off of Sanctioned Iranians’ Accounts",
-        "link": "https://www.wired.com/story/youtube-appears-to-be-making-money-off-of-sanctioned-iranian-accounts/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-06-11T11:00:00+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "Americans Are Trading Billions of Dollars on Polymarket’s Banned Offshore Platform",
-        "link": "https://www.wired.com/story/polymarket-study-illegal-trades-offshore-billions/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-06-11T11:00:00+00:00",
-        "relevance_score": 14
       }
     ],
     "politics": [
       {
-        "title": "Democrats prepare for potential election interference in midterms – US politics live",
+        "title": "Why US and China are watching Philippines’ Marcos Jnr at Russia-Asean talks",
+        "link": "https://www.scmp.com/week-asia/politics/article/3356898/why-us-and-china-are-watching-philippines-marcos-russia-asean-talks?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-12T08:50:37+00:00",
+        "relevance_score": 23
+      },
+      {
+        "title": "Pro-Palestine activists believe ‘sea change’ coming in Labour’s approach to Middle East",
+        "link": "https://www.theguardian.com/politics/2026/jun/12/pro-palestine-activists-believe-sea-change-labour-approach-middle-east-israel",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-12T05:00:35+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Oil prices fall after Trump says he is cancelling strikes – as it happened",
+        "link": "https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-12T04:12:08+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Democrats demand Trump ‘guarantee’ Bill Pulte will not serve as acting intelligence director after Clayton nomination – as it happened",
         "link": "https://www.theguardian.com/us-news/live/2026/jun/11/democrats-republicans-midterms-tech-laws-scotus-latest-news-updates",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-11T11:37:15+00:00",
+        "published_at_utc": "2026-06-12T02:00:10+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Do not let US-China ties spiral out of control, ex-Treasury chief Paulson warns",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3356720/do-not-let-us-china-ties-spiral-out-control-ex-treasury-chief-paulson-warns?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-11T11:00:05+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Trump says 'I love the inflation' as US prices rise at fastest rate in three years",
-        "link": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC World",
-        "published_at_utc": "2026-06-11T09:14:13+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Is the Iran ceasefire over? What the latest US attacks tell us",
-        "link": "https://www.theguardian.com/world/2026/jun/11/iran-ceasefire-us-attacks-strikes-deal",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-11T08:09:41+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "John Healey resigns as defence secretary in disagreement with Starmer over spending – UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/jun/11/belfast-riots-hilary-benn-anti-immigrant-injured-police-latest-news-updates",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-11T11:48:30+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "​John Healey resigns as defence secretary over military spending",
-        "link": "https://www.theguardian.com/politics/2026/jun/11/john-healey-resigns-defence-secretary-military-spending",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-11T11:41:44+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "China’s biotech industry sees global expansion as unstoppable, despite US pressure",
-        "link": "https://www.scmp.com/business/china-business/article/3356778/chinas-biotech-industry-sees-global-expansion-unstoppable-despite-us-pressure?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-11T11:30:15+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Solar generates more energy in US than coal for first time",
-        "link": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-11T10:00:20+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Have trade tensions scuppered EU-China talks ahead of tough Brussels decisions?",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3356749/have-trade-tensions-scuppered-eu-china-talks-ahead-tough-brussels-decisions?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-11T08:58:21+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Two Indian seafarers dead, one missing after U.S. attack on ship off Oman, says sailors’ union",
-        "link": "https://www.thehindu.com/news/national/west-asia-war-indians-missing-in-missile-attack-on-ship-off-oman-coast/article71085950.ece",
+        "title": "West Asia war updates: Iran says hasn't reached a final decision on deal with U.S.",
+        "link": "https://www.thehindu.com/news/international/west-asia-conflict-israel-us-iran-war-strait-of-hormuz-mojtaba-khamenei-donald-trump-benjamin-netanyahu-june-11-2026/article71087443.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-11T05:10:38+00:00",
+        "published_at_utc": "2026-06-12T00:46:41+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Middle East crisis live: Iran says no final peace agreement reached, after Trump claims deal could be signed soon",
+        "link": "https://www.theguardian.com/world/live/2026/jun/12/middle-east-crisis-live-us-iran-israel-lebanon-trump-hormuz-oil-peace-deal-doubt-latest-news-updates",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-12T11:13:28+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Oil prices plummet as Trump claims he is close to US-Iran deal",
+        "link": "https://www.theguardian.com/business/2026/jun/12/global-oil-prices-trump-us-iran-deal-brent-crude-strait-of-hormuz",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-12T11:07:33+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Fisa spy powers almost certain to expire after Congress fails to act – US politics live",
+        "link": "https://www.theguardian.com/us-news/live/2026/jun/12/donald-trump-fisa-kennedy-center-iran-ufc-white-house-latest-news-updates",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-12T11:06:47+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "A powerful US surveillance law is set to expire – what happens now?",
+        "link": "https://www.theguardian.com/us-news/2026/jun/12/fisa-law-surveillance",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-12T10:00:42+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Europe is blaming China’s economic rise for its own failures, think tank says",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3356859/europe-blaming-chinas-economic-rise-its-own-failures-think-tank-says?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-12T10:00:07+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "Eurozone braces for first interest rate rise since 2023 as ECB battles inflation – business live",
-        "link": "https://www.theguardian.com/business/live/2026/jun/11/ryanair-investigation-seating-children-eurozone-interest-rates-middle-east-oil-uk-housing-live-news-updates",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-11T11:18:33+00:00",
-        "relevance_score": 27
+        "title": "China’s chip design software firms back Huawei’s new scaling law. But can they catch US rivals?",
+        "link": "https://www.scmp.com/tech/big-tech/article/3356853/chinas-chip-software-firms-back-huaweis-new-scaling-law-can-they-catch-us-rivals?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-12T10:54:32+00:00",
+        "relevance_score": 21
       },
       {
-        "title": "Young, ambitious and out of work: ‘I’ve gone from Oxford to zero jobs. It’s a bit of a fall’",
-        "link": "https://www.theguardian.com/society/2026/jun/11/young-ambitious-out-of-work-unemployment",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-11T04:00:06+00:00",
-        "relevance_score": 19
+        "title": "‘Not a crackdown’: China regulators signal more neutral enforcement in shift from 2021",
+        "link": "https://www.scmp.com/economy/china-economy/article/3356909/not-crackdown-china-regulators-signal-more-neutral-enforcement-shift-2021?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-12T09:14:31+00:00",
+        "relevance_score": 21
       },
       {
-        "title": "Into the HyperVerse: inside a crypto scheme that cost investors millions of dollars – documentary",
-        "link": "https://www.theguardian.com/technology/video/2026/jun/11/hyperverse-documentary-crypto-scheme-ntwnfb",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-11T02:02:06+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Trump says ‘I love the inflation’ as rate rises to 4.2% amid Iran war pressure",
-        "link": "https://www.theguardian.com/business/2026/jun/10/inflation-report-rate",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-10T17:37:06+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Trump: 'I love the inflation'",
-        "link": "https://www.bbc.com/news/videos/c0rygjggl7zo?at_medium=RSS&at_campaign=rss",
+        "title": "Will UK interest rates go up?",
+        "link": "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC Business",
-        "published_at_utc": "2026-06-10T17:05:20+00:00",
+        "published_at_utc": "2026-06-11T13:07:09+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "EVs capture two-thirds of China’s car market in record-breaking week",
+        "link": "https://www.scmp.com/business/china-evs/article/3356789/evs-capture-two-thirds-chinas-car-market-record-breaking-week?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-12T00:00:20+00:00",
         "relevance_score": 19
+      },
+      {
+        "title": "Innovation and integration are evolving the GBA from a safe harbour to a global contender",
+        "link": "https://www.scmp.com/presented/business/topics/greater-bay-area-ceo-forum/article/3356449/innovation-and-integration-are-evolving-gba-safe-harbour-global-contender?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-11T16:00:09+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "China’s ports are by far the most efficient in the world: World Bank study",
+        "link": "https://www.scmp.com/economy/china-economy/article/3356750/chinas-ports-are-far-most-efficient-world-world-bank-study?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-12T00:00:16+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Paddy Power owner Flutter to scrap listing on London Stock Exchange",
+        "link": "https://www.theguardian.com/business/2026/jun/12/paddy-power-flutter-entertainment-delist-london-stock-exchange",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-12T07:25:51+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Why tech titans’ IPOs matter as much in China as in the US",
+        "link": "https://www.scmp.com/opinion/china-opinion/article/3356374/why-tech-titans-ipos-matter-much-china-us?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-11T12:30:06+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "J&T faces risk of tougher penalties, higher costs as China opens formal safety probe",
+        "link": "https://www.scmp.com/business/china-business/article/3356716/china-initiates-probe-jt-express-over-safety-management-failures?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-11T06:09:41+00:00",
+        "relevance_score": 17
       },
       {
         "title": "UK poised to ease steel tariffs as manufacturers warn of costs",
         "link": "https://www.theguardian.com/business/2026/jun/10/uk-ease-steel-tariffs-manufacturers-warn-costs",
         "source_name": "The Guardian Business",
         "published_at_utc": "2026-06-10T13:11:57+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "China’s biotech industry sees global expansion as unstoppable, despite US pressure",
-        "link": "https://www.scmp.com/business/china-business/article/3356778/chinas-biotech-industry-sees-global-expansion-unstoppable-despite-us-pressure?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-11T11:30:15+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "BYD powers past Geely as oil shock charges up global EV demand",
-        "link": "https://www.scmp.com/business/china-business/article/3356667/byd-powers-past-geely-oil-shock-charges-global-ev-demand?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-11T00:00:20+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Global AI trade flashing signals reminiscent of the dotcom bust, analysts warn",
-        "link": "https://www.scmp.com/business/china-business/article/3356617/global-ai-trade-flashing-signals-reminiscent-dotcom-bust-analysts-warn?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-10T23:00:06+00:00",
         "relevance_score": 15
-      },
-      {
-        "title": "Mainland China set to raise US$2.2b in Hong Kong bond sale amid demand for yuan assets",
-        "link": "https://www.scmp.com/business/article/3356610/mainland-china-set-raise-us22b-hong-kong-bond-sale-amid-demand-yuan-assets?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-10T08:00:07+00:00",
-        "relevance_score": 13
       }
     ]
   },
