@@ -1,25 +1,25 @@
 {
-  "generated_at_utc": "2026-06-12T11:34:35.306617+00:00",
+  "generated_at_utc": "2026-06-13T10:21:10.761838+00:00",
   "summary": {
-    "total_raw_items": 1078,
-    "total_deduped_items": 1047,
+    "total_raw_items": 1062,
+    "total_deduped_items": 1034,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "chips",
-        "social_media",
-        "space_tech"
+        "ai",
+        "ai",
+        "ai"
       ],
       "politics": [
-        "us_politics",
-        "us_politics",
-        "us_politics"
+        "diplomacy",
+        "diplomacy",
+        "social_protests"
       ],
       "economy": [
-        "interest_rates",
-        "energy_markets",
-        "markets"
+        "markets",
+        "markets",
+        "sanctions"
       ]
     },
     "multi_source_selected_count": 5
@@ -28,306 +28,277 @@
     "technology": [
       {
         "category": "technology",
-        "source_name": "SCMP World",
-        "title": "Hong Kong can be more than New York and Silicon Valley combined: Paul Chan",
-        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3356871/hong-kong-can-be-more-new-york-and-silicon-valley-combined-paul-chan?utm_source=rss_feed",
-        "summary": "Hong Kong can be “more than New York and Silicon Valley combined” by positioning itself as a hub that integrates global financial depth with technological innovation and manufacturing capacity, the city’s finance chief has said. Financial Secretary Paul Chan Mo-po said on Friday that Hong Kong had a unique edge over New York and Silicon Valley, thanks to advanced manufacturing capabilities that its American rivals lacked, which were the result of integration with the Greater Bay Area. Speaking...",
-        "published": "Fri, 12 Jun 2026 06:57:04 +0000",
-        "updated": "Fri, 12 Jun 2026 06:57:04 +0000",
-        "published_at_utc": "2026-06-12T06:57:04+00:00",
-        "id": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3356871/hong-kong-can-be-more-new-york-and-silicon-valley-combined-paul-chan?utm_source=rss_feed",
-        "topic_type": "chips",
+        "source_name": "The Hindu International",
+        "title": "Anthropic cuts access to AI models over U.S. ‘national security’ order",
+        "link": "https://www.thehindu.com/sci-tech/technology/anthropic-cuts-access-to-ai-models-over-us-national-security-order/article71096476.ece",
+        "summary": "Just three days after publicly launching Fable 5, the company said in a blog post that it received a government directive banning all foreign nationals, even ones who work at Anthropic, from accessing Fable 5 and Mythos 5 over national security concerns",
+        "published": "Sat, 13 Jun 2026 12:37:38 +0530",
+        "updated": "Sat, 13 Jun 2026 12:37:38 +0530",
+        "published_at_utc": "2026-06-13T07:07:38+00:00",
+        "id": "article-71096476",
+        "topic_type": "ai",
+        "relevance_score": 27,
+        "briefing": {
+          "news_focus": "Just three days after publicly launching Fable 5, the company said in a blog post that it received a government directive banning all foreign nationals, even ones who work at Anthropic, from accessing Fable 5 and Mythos 5 over national security concerns",
+          "news_focus_zh": "Anthropic在公開推出其最新的AI模型Fable 5僅三天後，因應美國政府的指令，宣布禁止所有外國國籍人士，包括其員工，訪問Fable 5和Mythos 5，理由是出於國家安全考量。這一措施凸顯了美國對於前沿人工智慧的監管日益嚴格。",
+          "background": "Anthropic是一家位於矽谷的AI公司，近期在美國的AI產業中扮演著重要角色。隨著AI技術的快速發展，國家安全問題日益受到重視，尤其是涉及外國國籍人士的技術訪問。美國政府的這一出口控制措施是首度針對特定AI模型，顯示出其對於AI技術潛在風險的高度警覺。此舉也反映了美國在全球科技競爭中對於保護本國技術的策略。",
+          "stakeholders": [
+            "Anthropic",
+            "美國政府",
+            "外國國籍AI專家",
+            "科技產業",
+            "國家安全機構"
+          ],
+          "analysis": "此次事件中，Anthropic的行動顯示出美國政府對於AI技術的監管力度加大，尤其是在國家安全的背景下。根據參考報導，商務部擔心Fable 5可能存在的安全漏洞，這一擔憂促使政府採取了前所未有的措施來限制外國訪問。不同報導中，SCMP強調了這一措施的前所未有性，而Ars Technica則具體提到Fable 5的“越獄”風險可能成為國家安全威脅，這顯示出各方對於AI技術潛在風險的不同解讀。未來，這一政策可能會影響AI公司的國際合作與技術交流，並引發業界對於安全與創新之間平衡的討論。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "regulation_action",
+        "supporting_sources": [
+          "SCMP Business",
+          "Ars Technica"
+        ],
+        "supporting_titles": [
+          "US blocks foreign access to Anthropic’s newest AI models over security risks",
+          "Anthropic shuts down Fable, Mythos models following Trump admin directive"
+        ],
+        "supporting_summaries": [
+          "Washington has ordered Anthropic – a leading entity in America’s AI sector – to block all foreign nationals from accessing its latest models, Fable 5 and Mythos 5, citing national security concerns, according to the Silicon Valley-based firm. The unprecedented export-control measure – the first to target specific AI models – came just days after Anthropic released the models, underscoring Washington’s increasingly hands-on approach to regulating frontier artificial intelligence...",
+          "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat."
+        ],
+        "supporting_links": [
+          "https://www.scmp.com/tech/article/3356990/us-blocks-foreign-access-anthropics-newest-ai-models-over-security-risks?utm_source=rss_feed",
+          "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/"
+        ],
+        "source_count": 3
+      },
+      {
+        "category": "technology",
+        "source_name": "The Hindu International",
+        "title": "AI sovereignty hawks see red as U.S. moves to block Anthropic’s Mythos and Fable models",
+        "link": "https://www.thehindu.com/sci-tech/technology/ai-sovereignty-hawks-see-red-as-us-moves-to-block-mythos-fable-models/article71096641.ece",
+        "summary": "While training Large Language Models is a prohibitively expensive undertaking, national security commentators have long warned of over-reliance on foreign technology in critical fields like AI",
+        "published": "Sat, 13 Jun 2026 12:29:35 +0530",
+        "updated": "Sat, 13 Jun 2026 12:29:35 +0530",
+        "published_at_utc": "2026-06-13T06:59:35+00:00",
+        "id": "article-71096641",
+        "topic_type": "ai",
+        "relevance_score": 23,
+        "briefing": {
+          "news_focus": "While training Large Language Models is a prohibitively expensive undertaking, national security commentators have long warned of over-reliance on foreign technology in critical fields like AI",
+          "news_focus_zh": "美國政府近期決定阻止Anthropic公司推出的AI模型Mythos和Fable，這一舉措引發了對AI主權的強烈反應。專家指出，對外國技術的過度依賴可能對國家安全構成風險，尤其是在關鍵領域如人工智慧。",
+          "background": "隨著人工智慧技術的迅速發展，許多國家開始重視AI主權，擔心外國技術可能帶來的安全隱患。特別是在美國，對於依賴外國技術的擔憂已經成為政策討論的焦點。Anthropic的Fable和Mythos模型被認為具有潛在的安全風險，尤其是Fable 5模型可能存在的“越獄”問題，這使得美國商務部決定介入並要求停止相關模型的運行。",
+          "stakeholders": [
+            "美國政府",
+            "Anthropic公司",
+            "國家安全專家",
+            "AI技術開發者",
+            "企業用戶"
+          ],
+          "analysis": "此次美國政府的干預反映了對AI技術安全性的高度重視，尤其是在國家安全專家警告過度依賴外國技術的背景下。根據參考報導，Anthropic因應特朗普政府的指令關閉了Fable和Mythos模型，顯示出政府對於AI技術的監管力度正在加強。這一舉措可能會影響到AI產業的發展，尤其是對於依賴這些模型的企業和開發者而言，未來的技術創新可能受到限制。各方對於AI主權的看法存在差異，部分專家認為過度的監管可能會抑制創新，而另一些則強調安全的重要性，這一爭論可能會在未來的政策制定中持續存在。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "strategic_move",
+        "supporting_sources": [
+          "Ars Technica"
+        ],
+        "supporting_titles": [
+          "Anthropic shuts down Fable, Mythos models following Trump admin directive"
+        ],
+        "supporting_summaries": [
+          "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat."
+        ],
+        "supporting_links": [
+          "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "technology",
+        "source_name": "SCMP Business",
+        "title": "US blocks foreign access to Anthropic’s newest AI models over security risks",
+        "link": "https://www.scmp.com/tech/article/3356990/us-blocks-foreign-access-anthropics-newest-ai-models-over-security-risks?utm_source=rss_feed",
+        "summary": "Washington has ordered Anthropic – a leading entity in America’s AI sector – to block all foreign nationals from accessing its latest models, Fable 5 and Mythos 5, citing national security concerns, according to the Silicon Valley-based firm. The unprecedented export-control measure – the first to target specific AI models – came just days after Anthropic released the models, underscoring Washington’s increasingly hands-on approach to regulating frontier artificial intelligence...",
+        "published": "Sat, 13 Jun 2026 05:06:27 +0000",
+        "updated": "Sat, 13 Jun 2026 05:06:27 +0000",
+        "published_at_utc": "2026-06-13T05:06:27+00:00",
+        "id": "https://www.scmp.com/tech/article/3356990/us-blocks-foreign-access-anthropics-newest-ai-models-over-security-risks?utm_source=rss_feed",
+        "topic_type": "ai",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "Hong Kong can be “more than New York and Silicon Valley combined” by positioning itself as a hub that integrates global financial depth with technological innovation and manufacturing capacity, the city’s finance chief has said. Financial Secretary Paul Chan Mo-po said on Friday that Hong Kong had a unique edge over New York and Silicon Valley, thanks to advanced manufacturing capabilities that its American rivals lacked, which were the result of integration with the Greater Bay Area. Speaking...",
-          "news_focus_zh": "香港財政司司長陳茂波表示，香港有潛力成為一個超越紐約和矽谷的全球金融與科技創新中心。他指出，香港擁有先進的製造能力，這是其美國競爭對手所缺乏的，並且這種優勢源於與大灣區的整合。陳茂波在發表演講時強調了香港的獨特競爭力，並呼籲加強科技與金融的結合。",
-          "background": "香港作為全球金融中心，面臨來自其他城市的競爭，尤其是紐約和矽谷。這些城市在科技創新方面具有深厚的歷史和資源優勢。然而，香港的地理位置及其與大灣區的聯繫，使其在製造能力上具備獨特優勢。隨著中國政府推動科技創新和經濟轉型，香港希望利用這一機會，吸引更多科技企業和投資者，進一步提升其在全球市場中的地位。",
+          "news_focus": "Washington has ordered Anthropic – a leading entity in America’s AI sector – to block all foreign nationals from accessing its latest models, Fable 5 and Mythos 5, citing national security concerns, according to the Silicon Valley-based firm. The unprecedented export-control measure – the first to target specific AI models – came just days after Anthropic released the models, underscoring Washington’s increasingly hands-on approach to regulating frontier artificial intelligence...",
+          "news_focus_zh": "美國政府已指示人工智慧公司Anthropic封鎖所有外國國籍人士對其最新模型Fable 5和Mythos 5的訪問，理由是出於國家安全考量。這一前所未有的出口管制措施是在Anthropic發布這些模型僅幾天後實施的，顯示出華盛頓對於前沿人工智慧的監管越來越積極。",
+          "background": "在全球人工智慧技術迅速發展的背景下，國家安全問題日益受到重視。美國政府對於涉及敏感技術的外國訪問者的監管愈加嚴格，特別是在人工智慧領域。Anthropic作為美國AI產業的領導者之一，其最新模型的發布引發了政府的高度關注。這一措施不僅影響了Anthropic的業務模式，也可能對整個AI產業的國際合作造成影響。",
           "stakeholders": [
-            "香港政府",
-            "科技企業",
-            "投資者",
-            "大灣區企業",
-            "國際市場"
-          ],
-          "analysis": "陳茂波的言論反映了香港政府希望重新定位城市形象的努力，強調其在金融與科技領域的潛力。與此同時，參考報導提到的其他國家如印度、巴西、阿聯酋和非洲，則顯示出全球範圍內對科技基礎設施的需求正在增加，這些地區正因應計算資源的稀缺而推動AI創新。這意味著，香港若能有效整合其金融與製造優勢，可能會吸引來自這些新興市場的企業與投資者，形成競爭優勢。然而，香港也需面對內部與外部的挑戰，包括政策環境、人才流失及國際關係的變化，這些都可能影響其未來發展。"
-        },
-        "topic_priority_score": 10,
-        "event_type": "strategic_move",
-        "supporting_sources": [
-          "Rest of World"
-        ],
-        "supporting_titles": [
-          "Scarcity is driving AI innovation outside Silicon Valley"
-        ],
-        "supporting_summaries": [
-          "New AI infrastructure is emerging in India, Brazil, the UAE, and Africa, where local stacks are designed to get around compute scarcity."
-        ],
-        "supporting_links": [
-          "https://restofworld.org/2026/scarcity-is-driving-ai-innovation-outside-silicon-valley/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-        ],
-        "source_count": 2
-      },
-      {
-        "category": "technology",
-        "source_name": "Wired",
-        "title": "The US Is Requiring Foreign Influencers to Get Work Visas for the 2026 World Cup",
-        "link": "https://www.wired.com/story/2026-world-cup-us-influencers-visa/",
-        "summary": "FIFA announced agreements with platforms such as TikTok and YouTube that include the participation of dozens of international influencers to generate content in the three host countries.",
-        "published": "Fri, 12 Jun 2026 10:00:00 +0000",
-        "updated": "Fri, 12 Jun 2026 10:00:00 +0000",
-        "published_at_utc": "2026-06-12T10:00:00+00:00",
-        "id": "6a29c85642f2ed990de29c76",
-        "topic_type": "social_media",
-        "relevance_score": 18,
-        "briefing": {
-          "news_focus": "FIFA announced agreements with platforms such as TikTok and YouTube that include the participation of dozens of international influencers to generate content in the three host countries.",
-          "news_focus_zh": "美國政府要求參加2026年世界盃的外國網紅必須獲得工作簽證。這一政策是FIFA與TikTok及YouTube等平台達成的協議的一部分，旨在促進這三個主辦國的內容創作，並吸引國際網紅參與活動。",
-          "background": "2026年世界盃將在美國、加拿大和墨西哥舉行，這是首次由三個國家共同主辦的世界盃賽事。隨著社交媒體的興起，網紅在大型活動中的影響力日益增強，FIFA希望透過與這些平台的合作，提升賽事的曝光率和參與度。美國政府的簽證政策反映了對外國網紅進入國內市場的管理需求，特別是在大型國際活動期間，這可能影響到網紅的參與方式和內容創作。",
-          "stakeholders": [
+            "Anthropic",
             "美國政府",
-            "FIFA",
-            "TikTok",
-            "YouTube",
-            "國際網紅"
+            "外國國籍AI專業人士",
+            "AI產業",
+            "網絡安全專家"
           ],
-          "analysis": "美國政府的簽證要求可能會對外國網紅的參與造成障礙，尤其是那些未能及時獲得簽證的創作者。這一政策的實施可能會引發對美國移民政策的討論，並影響到其他國際活動的參與模式。另一方面，這也可能促使更多的本地創作者參與，因為他們不受簽證限制。FIFA與社交媒體平台的合作，則顯示出體育賽事與數位媒體之間日益緊密的聯繫，未來可能會有更多類似的合作模式出現。"
+          "analysis": "這一出口管制措施反映了美國政府對於AI技術潛在風險的擔憂，尤其是關於網絡安全和黑客攻擊的問題。參考報導指出，Anthropic在發布Fable 5後不久即收到政府指令，禁止所有外國國籍人士，包括公司內部員工，訪問這些模型。這一決策可能會影響Anthropic的國際業務，並引發其他AI公司對於政府政策的擔憂。不同報導強調了安全性問題的不同面向，BBC提到的網絡安全和黑客攻擊的擔憂，可能是促使政府採取行動的直接因素。未來，隨著AI技術的進一步發展，類似的監管措施可能會成為常態，進一步影響全球AI市場的競爭格局。"
         },
-        "topic_priority_score": 6,
-        "event_type": "partnership_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "The Guardian Business",
-        "title": "After SpaceX’s huge IPO, Americans’ financial future will be bound to AI",
-        "link": "https://www.theguardian.com/business/2026/jun/12/ai-ipos-stock-market",
-        "summary": "They’re about to get more AI rammed down their throats, stuck into their pension plans and investment portfolios Americans are growing worried about what artificial intelligence portends for their futures. Eight in 10 Americans report concern over AI, compared with a third who report being excited, according to a recent Quinnipiac poll. More than half think it will do more harm than good in their daily lives. Seven out of 10 think it will reduce the number of available jobs. Skeptical though they may be, they are about to get more AI rammed down their throats and stuck into their pension plans and their investment portfolios, whether they want it or not – binding their futures ever more tightly to the frenzied, risky, multibillion-dollar dash by technology moguls to develop machines capable of mimicking human thought processes to take over cognitive tasks. Continue reading...",
-        "published": "Fri, 12 Jun 2026 09:00:41 GMT",
-        "updated": "2026-06-12T09:00:41Z",
-        "published_at_utc": "2026-06-12T09:00:41+00:00",
-        "id": "https://www.theguardian.com/business/2026/jun/12/ai-ipos-stock-market",
-        "topic_type": "space_tech",
-        "relevance_score": 18,
-        "briefing": {
-          "news_focus": "They’re about to get more AI rammed down their throats, stuck into their pension plans and investment portfolios Americans are growing worried about what artificial intelligence portends for their futures. Eight in 10 Americans report concern over AI, compared with a third who report being excited, according to a recent Quinnipiac poll. More than half think it will do more harm than good in their daily lives. Seven out of 10 think it will reduce the number of available jobs. Skeptical though they may be, they are about to get more AI rammed down their throats and stuck into their pension plans and their investment portfolios, whether they want it or not – binding their futures ever more tightly to the frenzied, risky, multibillion-dollar dash by technology moguls to develop machines capable of mimicking human thought processes to take over cognitive tasks. Continue reading...",
-          "news_focus_zh": "隨著SpaceX的巨大IPO，美國民眾的財務未來將越來越依賴人工智慧（AI）。根據最近的Quinnipiac民調，八成美國人對AI感到擔憂，只有三分之一的人表示興奮。超過一半的受訪者認為AI對日常生活的影響將多於好處，七成認為AI將減少可用的工作機會。儘管民眾持懷疑態度，AI將被強行納入他們的退休計畫和投資組合，進一步將他們的未來與科技巨頭們的風險投資緊密相連。",
-          "background": "在當前的科技環境中，人工智慧的迅速發展引發了廣泛的關注與討論。隨著企業如SpaceX等進行IPO，資金流入AI技術的研發，這不僅影響了市場動態，也改變了投資者的策略。美國的退休計畫和投資組合越來越多地納入AI相關資產，這使得普通投資者的財務未來與AI的發展風險緊密相連。這種情況引發了民眾對於AI可能帶來的工作流失和生活質量下降的擔憂，尤其是在經濟不穩定的背景下。",
-          "stakeholders": [
-            "美國民眾",
-            "科技公司",
-            "投資者",
-            "政策制定者",
-            "退休基金管理機構"
-          ],
-          "analysis": "美國民眾對AI的擔憂反映了對未來工作的焦慮，尤其是AI技術可能取代傳統職位的風險。儘管有三分之一的人對AI持正面看法，但大多數人仍然擔心其潛在的負面影響。這種情況可能導致政策制定者和企業在推廣AI技術時需要更加謹慎，以平衡技術創新與社會穩定之間的矛盾。此外，隨著AI技術的普及，投資者可能需要重新評估其投資組合，以應對未來市場的變化。這場技術革命的進程將如何影響不同社會階層的經濟狀況，仍需持續觀察。"
-        },
-        "topic_priority_score": 4,
-        "event_type": "strategic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      }
-    ],
-    "politics": [
-      {
-        "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "China arrests US academic at conference for ‘espionage activities’",
-        "link": "https://www.theguardian.com/world/2026/jun/12/china-arrests-us-academic-min-zin-espionage",
-        "summary": "Arrest of Min Zin, who writes about Myanmar and Chinese foreign policy, comes just month after Trump visit to Beijing China has arrested a US scholar who writes about Myanmar and Chinese foreign policy on suspicion of spying. Min Zin was suspected of “engaging in espionage activities that endanger China’s national security,” China’s ministry of foreign affairs spokesperson, Lin Jian, said on Friday. Continue reading...",
-        "published": "Fri, 12 Jun 2026 10:27:08 GMT",
-        "updated": "2026-06-12T10:27:08Z",
-        "published_at_utc": "2026-06-12T10:27:08+00:00",
-        "id": "https://www.theguardian.com/world/2026/jun/12/china-arrests-us-academic-min-zin-espionage",
-        "topic_type": "us_politics",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "Arrest of Min Zin, who writes about Myanmar and Chinese foreign policy, comes just month after Trump visit to Beijing China has arrested a US scholar who writes about Myanmar and Chinese foreign policy on suspicion of spying. Min Zin was suspected of “engaging in espionage activities that endanger China’s national security,” China’s ministry of foreign affairs spokesperson, Lin Jian, said on Friday. Continue reading...",
-          "news_focus_zh": "中國在一場會議上逮捕了美國學者Min Zin，理由是涉嫌從事危害中國國家安全的間諜活動。Min Zin專注於緬甸及中國外交政策的研究。中國外交部發言人林劍於週五確認了此事件，並指出此舉是在特朗普訪問北京後的一個月內發生的。",
-          "background": "此次逮捕發生在中美兩國關係緊張的背景下。隨著中國在全球影響力的擴大，對外國學者的監控和限制也日益加強。Min Zin的研究主題涉及緬甸的政治局勢，這在當前的地緣政治環境中尤為敏感。中國政府對於任何可能影響其國家安全的活動持有高度警覺，尤其是在外國學者的研究可能涉及敏感議題時。",
-          "stakeholders": [
-            "中國政府",
-            "美國學術界",
-            "Min Zin",
-            "國際人權組織",
-            "中美外交關係"
-          ],
-          "analysis": "此次事件反映了中美之間日益加劇的緊張關係，特別是在學術交流和情報安全方面的摩擦。中國政府可能認為Min Zin的研究可能對其國家安全構成威脅，這與美國學術界對中國的批評形成鮮明對比。參考報導中提到的中國外交部確認逮捕的消息，強調了中國在此事件中的立場，即堅決打擊間諜活動。未來可能出現的後續發展包括美方對此事件的強烈反應，可能會影響兩國在學術和外交領域的互動。"
-        },
-        "topic_priority_score": 8,
-        "event_type": "security_event",
-        "supporting_sources": [
-          "Al Jazeera"
-        ],
-        "supporting_titles": [
-          "China arrests US researcher it says is suspected of ‘spying’"
-        ],
-        "supporting_summaries": [
-          "Beijing's Foreign Ministry confirms US reports about detention of scholar focusing on politics of neighbouring Myanmar."
-        ],
-        "supporting_links": [
-          "https://www.aljazeera.com/news/2026/6/12/china-arrests-us-researcher-it-says-is-suspected-of-spying?traffic_source=rss"
-        ],
-        "source_count": 2
-      },
-      {
-        "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "White House correspondents’ dinner shooting: A look at previous assassination attempts on President Donald Trump",
-        "link": "https://www.thehindu.com/news/international/white-house-correspondents-dinner-shooting-previous-assassination-attempts-on-president-donald-trump/article70907924.ece",
-        "summary": "The White House correspondents’ dinner shooting was not the first time that the U.S. President Donald Trump found himself at the centre of a security scare",
-        "published": "Fri, 12 Jun 2026 13:47:21 +0530",
-        "updated": "Fri, 12 Jun 2026 13:47:21 +0530",
-        "published_at_utc": "2026-06-12T08:17:21+00:00",
-        "id": "article-70907924",
-        "topic_type": "us_politics",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "The White House correspondents’ dinner shooting was not the first time that the U.S. President Donald Trump found himself at the centre of a security scare",
-          "news_focus_zh": "在白宮記者晚宴上發生了一起槍擊事件，這使得美國總統唐納德·特朗普再次成為安全風險的焦點。此次事件並非特朗普首次面臨此類安全威脅，歷史上曾有多次針對他的暗殺企圖。",
-          "background": "特朗普在任內曾多次遭遇安全威脅，這些事件反映出美國政治環境的高度緊張與分裂。隨著社會對政治人物的情緒反應加劇，特別是在社交媒體的影響下，對總統的安全保護需求也隨之上升。白宮記者晚宴作為一個重要的社交活動，通常會吸引大量媒體和公眾的關注，這也使得任何安全事件都會引發廣泛的討論和關注。",
-          "stakeholders": [
-            "美國政府",
-            "白宮安全部門",
-            "媒體",
-            "特朗普支持者",
-            "反對特朗普的政治團體"
-          ],
-          "analysis": "此次槍擊事件可能會引發對特朗普安全措施的重新評估，並促使政府加強對高層官員的保護措施。各方對此事件的反應可能會有所不同，支持特朗普的群體可能會將其視為政治迫害的證據，而反對者則可能會利用此事件來強調政治暴力的風險。未來，這類事件可能會影響特朗普的公眾形象及其政治活動的方式，尤其是在選舉期間，安全問題將成為重要議題。"
-        },
-        "topic_priority_score": 8,
-        "event_type": "security_event",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
-        "source_name": "Al Jazeera",
-        "title": "Iran war day 105: Trump halts attacks after Kharg Island threat",
-        "link": "https://www.aljazeera.com/news/2026/6/12/iran-war-day-105-trump-halts-attacks-after-kharg-island-threat?traffic_source=rss",
-        "summary": "Trump cancels planned Iran attacks, saying talks are close to a result as Tehran reviews a proposed US deal.",
-        "published": "Fri, 12 Jun 2026 06:32:38 +0000",
-        "updated": "Fri, 12 Jun 2026 06:32:38 +0000",
-        "published_at_utc": "2026-06-12T06:32:38+00:00",
-        "id": "https://www.aljazeera.com/?t=1781237527",
-        "topic_type": "us_politics",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "Trump cancels planned Iran attacks, saying talks are close to a result as Tehran reviews a proposed US deal.",
-          "news_focus_zh": "美國總統特朗普宣布取消對伊朗的攻擊計劃，並表示與德黑蘭的談判即將達成結果。此舉發生在伊朗對美國的提議進行審查之際，特別是在霍爾木茲海峽的緊張局勢仍然存在。",
-          "background": "自從伊朗與美國之間的緊張關係加劇以來，雙方一直在尋求解決方案。特朗普的最新聲明顯示出美方對於達成協議的期待，尤其是在伊朗外長發言人表示協議的主要部分已經敲定的背景下。然而，伊朗強調不會在其核心利益上妥協，這使得談判的前景變得複雜。此外，霍爾木茲海峽作為全球重要的石油運輸通道，其安全性對於國際市場至關重要。",
-          "stakeholders": [
-            "美國政府",
-            "伊朗政府",
-            "國際市場",
-            "中東地區國家",
-            "全球能源供應商"
-          ],
-          "analysis": "特朗普的決定反映出美方希望透過外交手段解決與伊朗的衝突，但伊朗方面對於協議的具體內容持謹慎態度。根據參考報導，伊朗方面對於特朗普的聲明表示懷疑，稱有關協議的報導為「推測性」。這顯示出雙方在談判中的信任缺失，可能會影響未來的進展。若伊朗堅持其紅線，則協議的達成可能會面臨挑戰。此外，霍爾木茲海峽的緊張局勢仍需關注，因為這可能成為雙方談判的關鍵因素。"
-        },
-        "topic_priority_score": 8,
-        "event_type": "security_event",
+        "topic_priority_score": 9,
+        "event_type": "regulation_action",
         "supporting_sources": [
           "The Hindu International",
           "BBC World"
         ],
         "supporting_titles": [
-          "Donald Trump says Iran war deal close as Strait of Hormuz tensions linger",
-          "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near"
+          "Anthropic cuts access to AI models over U.S. ‘national security’ order",
+          "Anthropic suspends new AI tools over US government security concerns"
         ],
         "supporting_summaries": [
-          "Iranian media reported Foreign Ministry spokesperson Esmaeil Baghaei as saying large parts of the agreement have been finalized, but Iran would not compromise on its red lines",
-          "Iran says reports of a deal are \"speculative\" after the US president says a \"great settlement\" to end the conflict has been reached."
+          "Just three days after publicly launching Fable 5, the company said in a blog post that it received a government directive banning all foreign nationals, even ones who work at Anthropic, from accessing Fable 5 and Mythos 5 over national security concerns",
+          "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking."
         ],
         "supporting_links": [
-          "https://www.thehindu.com/news/international/donald-trump-says-iran-war-deal-close-as-strait-of-hormuz-tensions-linger/article71092371.ece",
-          "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss"
+          "https://www.thehindu.com/sci-tech/technology/anthropic-cuts-access-to-ai-models-over-us-national-security-order/article71096476.ece",
+          "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss"
         ],
         "source_count": 3
+      }
+    ],
+    "politics": [
+      {
+        "category": "politics",
+        "source_name": "SCMP World",
+        "title": "G7 summit offers Trump, Modi chance to reset ties after US strikes kill Indian sailors",
+        "link": "https://www.scmp.com/news/asia/south-asia/article/3356984/g7-summit-offers-trump-modi-chance-reset-ties-after-us-strikes-kill-indian-sailors?utm_source=rss_feed",
+        "summary": "A possible meeting next week between Indian Prime Minister Narendra Modi and US President Donald Trump offers a chance to reset ties following a year of strained relations over tariffs, Pakistan, and now, the Iran war. US forces this week attacked three Indian-crewed vessels in the Gulf of Oman region, killing at least three sailors and prompting protests from New Delhi. Modi and Trump would likely want to contain the latest tensions and avoid derailing efforts to get relations back on track...",
+        "published": "Sat, 13 Jun 2026 02:49:31 +0000",
+        "updated": "Sat, 13 Jun 2026 02:49:31 +0000",
+        "published_at_utc": "2026-06-13T02:49:31+00:00",
+        "id": "https://www.scmp.com/news/asia/south-asia/article/3356984/g7-summit-offers-trump-modi-chance-reset-ties-after-us-strikes-kill-indian-sailors?utm_source=rss_feed",
+        "topic_type": "diplomacy",
+        "relevance_score": 23,
+        "briefing": {
+          "news_focus": "A possible meeting next week between Indian Prime Minister Narendra Modi and US President Donald Trump offers a chance to reset ties following a year of strained relations over tariffs, Pakistan, and now, the Iran war. US forces this week attacked three Indian-crewed vessels in the Gulf of Oman region, killing at least three sailors and prompting protests from New Delhi. Modi and Trump would likely want to contain the latest tensions and avoid derailing efforts to get relations back on track...",
+          "news_focus_zh": "印度總理莫迪與美國總統特朗普可能在下週的G7峰會上會面，這是雙方在過去一年因關稅、巴基斯坦及伊朗戰爭等問題而緊張關係後的一次重啟機會。近期，美國軍方在阿曼灣地區攻擊了三艘印度籍船隻，造成至少三名水手喪生，並引發新德里的抗議。雙方領導人希望能夠控制最新的緊張局勢，避免影響改善雙邊關係的努力。",
+          "background": "近年來，印度與美國的關係因貿易政策、地緣政治及安全問題而變得複雜。特別是在面對中國的崛起及巴基斯坦的影響力時，兩國的合作顯得尤為重要。然而，雙方在貿易關稅及對伊朗政策上的分歧，尤其是美國對伊朗的軍事行動，對雙邊關係造成了壓力。此次美國的軍事行動導致印度水手的死亡，無疑加劇了雙方的緊張情勢，迫使兩國領導人必須尋求對話以緩解局勢。",
+          "stakeholders": [
+            "印度政府",
+            "美國政府",
+            "G7成員國",
+            "印度水手家屬",
+            "國際貿易組織"
+          ],
+          "analysis": "此次G7峰會上，莫迪與特朗普的會面將是雙方重建信任的重要機會。特朗普政府在中東的軍事行動對印度造成直接影響，可能使印度對美國的外交政策產生疑慮。印度政府的抗議行動顯示出其對國民安全的重視，並可能要求美方在未來的軍事行動中考慮印度的利益。此外，若雙方能在會議中達成共識，將有助於改善貿易關係及加強在安全領域的合作。然而，若無法妥善處理此次事件，可能會使雙邊關係進一步惡化，影響未來的合作機會。"
+        },
+        "topic_priority_score": 7,
+        "event_type": "security_event",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "politics",
+        "source_name": "The Hindu International",
+        "title": "A deal with U.S. ‘has never been closer’, says Iran",
+        "link": "https://www.thehindu.com/news/international/deal-with-the-us-has-never-been-closer-says-iran/article71094747.ece",
+        "summary": "Foreign Minister Abbas Araghchi’s comments came after Iran’s Mehr news agency, citing a source close to the country’s negotiating team, claimed that the deal would see “the release of $24 billion of Iran’s blocked funds during the 60-day final negotiation period”",
+        "published": "Sat, 13 Jun 2026 10:41:56 +0530",
+        "updated": "Sat, 13 Jun 2026 10:41:56 +0530",
+        "published_at_utc": "2026-06-13T05:11:56+00:00",
+        "id": "article-71094747",
+        "topic_type": "diplomacy",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "Foreign Minister Abbas Araghchi’s comments came after Iran’s Mehr news agency, citing a source close to the country’s negotiating team, claimed that the deal would see “the release of $24 billion of Iran’s blocked funds during the 60-day final negotiation period”",
+          "news_focus_zh": "伊朗外長阿巴斯·阿拉赫奇表示，與美國達成協議的可能性從未如此接近。根據伊朗梅赫爾新聞社的報導，消息來源稱該協議將在60天的最終談判期間釋放240億美元的伊朗被凍結資金。",
+          "background": "近年來，伊朗與美國之間的關係因核問題和地區衝突而緊張。美國對伊朗實施了一系列制裁，導致其經濟受到重創。此時，伊朗正面臨內部壓力，急需解除制裁以恢復經濟。此次談判的背景是雙方在結束衝突的意願上達成共識，並希望通過協議促進地區穩定，尤其是在霍爾木茲海的航運安全方面。",
+          "stakeholders": [
+            "伊朗政府",
+            "美國政府",
+            "中介國家（如巴基斯坦）",
+            "國際能源市場",
+            "地區盟友"
+          ],
+          "analysis": "伊朗與美國的協議若成功，將有助於緩解地區緊張局勢，並可能促進霍爾木茲海的重新開放，這對全球能源市場至關重要。根據參考報導，雖然雙方已達成最終文本，但仍有關鍵步驟待完成，顯示出協議的脆弱性。不同報導強調了協議的不同面向，Al Jazeera提到的戰爭結束的可能性與BBC對霍爾木茲海重新開放的關注，顯示出各方對協議影響的不同解讀。各方利益關係錯綜複雜，未來的發展仍需密切關注。"
+        },
+        "topic_priority_score": 7,
+        "event_type": "diplomatic_move",
+        "supporting_sources": [
+          "Al Jazeera",
+          "BBC World"
+        ],
+        "supporting_titles": [
+          "Iran war day 106: US and Iran say deal close but Lebanon fighting continues",
+          "Deal to end fighting would lead to Hormuz reopening, Iran says"
+        ],
+        "supporting_summaries": [
+          "US and Iran say a deal to end the war is close, with a final text agreed but key steps still pending.",
+          "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say."
+        ],
+        "supporting_links": [
+          "https://www.aljazeera.com/news/2026/6/13/iran-war-day-106-us-and-iran-say-deal-close-but-lebanon-fighting-continues?traffic_source=rss",
+          "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss"
+        ],
+        "source_count": 3
+      },
+      {
+        "category": "politics",
+        "source_name": "Al Jazeera",
+        "title": "‘Right to protest genocide’ denied: Scotland’s Palestine Action supporters",
+        "link": "https://www.aljazeera.com/news/2026/6/13/right-to-protest-genocide-denied-scotlands-palestine-action-supporters?traffic_source=rss",
+        "summary": "As the banned group fights its proscription in London, similar battles are playing out in Edinburgh.",
+        "published": "Sat, 13 Jun 2026 09:13:29 +0000",
+        "updated": "Sat, 13 Jun 2026 09:13:29 +0000",
+        "published_at_utc": "2026-06-13T09:13:29+00:00",
+        "id": "https://www.aljazeera.com/?t=1781259325",
+        "topic_type": "social_protests",
+        "relevance_score": 20,
+        "briefing": {
+          "news_focus": "As the banned group fights its proscription in London, similar battles are playing out in Edinburgh.",
+          "news_focus_zh": "蘇格蘭的巴勒斯坦行動支持者在倫敦面臨禁令的同時，亦在愛丁堡展開類似的法律鬥爭，試圖挑戰對其組織的禁令。他們主張抗議種族滅絕的權利，並希望能夠合法地進行示威活動。",
+          "background": "巴勒斯坦行動是一個在英國活動的團體，專注於支持巴勒斯坦人民的權利，並對以色列的行為進行抗議。該組織近期在倫敦被禁止，這引發了對言論自由和抗議權利的廣泛討論。蘇格蘭的支持者則試圖在當地法律框架內挑戰這一禁令，這反映出在英國不同地區對於抗議活動的法律適用可能存在差異。",
+          "stakeholders": [
+            "巴勒斯坦行動支持者",
+            "英國政府",
+            "蘇格蘭地方政府",
+            "人權組織",
+            "社會運動者"
+          ],
+          "analysis": "巴勒斯坦行動的支持者在蘇格蘭的法律鬥爭顯示出當地對於抗議權利的重視，與倫敦的禁令形成對比。這場鬥爭不僅涉及法律層面，還觸及了社會運動與政府政策之間的張力。支持者認為，抗議種族滅絕的權利應受到保護，而政府則可能基於安全考量來維持禁令。這樣的情況可能會引發更廣泛的社會運動，並促使政府重新評估對抗議活動的法律規範。"
+        },
+        "topic_priority_score": 5,
+        "event_type": "policy_action",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       }
     ],
     "economy": [
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "ECB raises eurozone interest rates as Iran war stokes inflation",
-        "link": "https://www.theguardian.com/business/2026/jun/11/ecb-eurozone-interest-rates-iran-war-inflation",
-        "summary": "European Central Bank increases main deposit rate to 2.25%, with two further rises expected by next spring Business live – latest updates The European Central Bank has raised interest rates for the first time since 2023 in response to higher inflation caused by the war in Iran. The ECB raised its main deposit rate from 2% to 2.25% in a move that financial markets expect to be the first of three rises by next spring. Continue reading...",
-        "published": "Thu, 11 Jun 2026 12:18:30 GMT",
-        "updated": "2026-06-11T12:18:30Z",
-        "published_at_utc": "2026-06-11T12:18:30+00:00",
-        "id": "https://www.theguardian.com/business/2026/jun/11/ecb-eurozone-interest-rates-iran-war-inflation",
-        "topic_type": "interest_rates",
-        "relevance_score": 25,
-        "briefing": {
-          "news_focus": "European Central Bank increases main deposit rate to 2.25%, with two further rises expected by next spring Business live – latest updates The European Central Bank has raised interest rates for the first time since 2023 in response to higher inflation caused by the war in Iran. The ECB raised its main deposit rate from 2% to 2.25% in a move that financial markets expect to be the first of three rises by next spring. Continue reading...",
-          "news_focus_zh": "歐洲中央銀行（ECB）首次自2023年以來提高歐元區利率，將主要存款利率從2%上調至2.25%。此舉是因應因伊朗戰爭引發的通脹壓力，市場預期未來還將有兩次加息，預計在明年春季之前完成。",
-          "background": "伊朗戰爭的爆發對全球經濟造成了顯著影響，特別是能源價格的上漲進一步推高了通脹率。歐洲中央銀行在面對持續的通脹壓力時，選擇提高利率以抑制物價上漲，這是其貨幣政策的一部分。此政策調整反映了ECB對經濟穩定的重視，尤其是在面對外部衝擊的情況下。此外，市場對於未來利率走勢的預期也影響了投資者的信心和行為。",
-          "stakeholders": [
-            "歐洲中央銀行",
-            "投資者",
-            "消費者",
-            "保險業者",
-            "經濟學家"
-          ],
-          "analysis": "此次ECB加息的決策主要是為了應對因伊朗戰爭引發的通脹壓力，各方對此反應不一。支持加息的觀點認為，這是控制通脹的必要措施，能夠穩定經濟。然而，反對者則擔心加息可能會抑制經濟增長，特別是在全球經濟不確定性增加的背景下。此外，參考報導《經濟學人》提到，與伊朗戰爭相關的保險業務受到重大影響，這可能進一步加劇市場的不穩定性，並影響ECB的未來政策走向。整體而言，ECB的加息策略將在短期內引發市場波動，長期效果則需視通脹走勢及全球經濟狀況而定。"
-        },
-        "topic_priority_score": 10,
-        "event_type": "rate_decision",
-        "supporting_sources": [
-          "BBC Business",
-          "The Economist"
-        ],
-        "supporting_titles": [
-          "Will UK interest rates go up?",
-          "The insurers on the hook for war in Iran"
-        ],
-        "supporting_summaries": [
-          "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
-          "Some have been hammered; even those who haven’t might be soon"
-        ],
-        "supporting_links": [
-          "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
-          "https://www.economist.com/finance-and-economics/2026/05/21/the-insurers-on-the-hook-for-war-in-iran"
-        ],
-        "source_count": 3
-      },
-      {
-        "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Oil prices plummet as Trump claims he is close to US-Iran deal",
-        "link": "https://www.theguardian.com/business/2026/jun/12/global-oil-prices-trump-us-iran-deal-brent-crude-strait-of-hormuz",
-        "summary": "Brent crude falls as optimism rises strait of Hormuz could reopen over the weekend Business live – latest updates Global oil prices fell on Friday to lows not seen since the first week of the Iran crisis after Donald Trump claimed he was close to reaching a peace deal with Tehran. The price of Brent crude began to tumble from about $93 a barrel in overnight trade after the US president called off further military strikes against Iran which were scheduled for the evening. Continue reading...",
-        "published": "Fri, 12 Jun 2026 11:07:33 GMT",
-        "updated": "2026-06-12T11:07:33Z",
-        "published_at_utc": "2026-06-12T11:07:33+00:00",
-        "id": "https://www.theguardian.com/business/2026/jun/12/global-oil-prices-trump-us-iran-deal-brent-crude-strait-of-hormuz",
-        "topic_type": "energy_markets",
+        "source_name": "SCMP World",
+        "title": "Indonesia’s nickel rule changes are spooking Chinese investors",
+        "link": "https://www.scmp.com/week-asia/opinion/article/3356938/indonesias-nickel-rule-changes-are-spooking-chinese-investors?utm_source=rss_feed",
+        "summary": "Chinese investors in Indonesia’s nickel industry recently sent a formal protest letter to President Prabowo Subianto. The message reflects their concerns over Indonesia’s political and economic direction, and the long-term trajectory of Chinese investment and Indonesia’s industrialisation programme will hinge on how Indonesia resolves them. The letter, submitted by the China Chamber of Commerce in Indonesia (CCCI), complained about a series of government policies, including proposed royalty...",
+        "published": "Sat, 13 Jun 2026 07:00:10 +0000",
+        "updated": "Sat, 13 Jun 2026 07:00:10 +0000",
+        "published_at_utc": "2026-06-13T07:00:10+00:00",
+        "id": "https://www.scmp.com/week-asia/opinion/article/3356938/indonesias-nickel-rule-changes-are-spooking-chinese-investors?utm_source=rss_feed",
+        "topic_type": "markets",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "Brent crude falls as optimism rises strait of Hormuz could reopen over the weekend Business live – latest updates Global oil prices fell on Friday to lows not seen since the first week of the Iran crisis after Donald Trump claimed he was close to reaching a peace deal with Tehran. The price of Brent crude began to tumble from about $93 a barrel in overnight trade after the US president called off further military strikes against Iran which were scheduled for the evening. Continue reading...",
-          "news_focus_zh": "全球油價因特朗普宣稱接近與伊朗達成和平協議而大幅下跌，布倫特原油價格從每桶約93美元開始急劇下滑，創下自伊朗危機以來的最低點。特朗普的聲明包括取消原定於當晚對伊朗的軍事打擊，這使得市場對霍爾木茲海峽重新開放的樂觀情緒上升。",
-          "background": "近期，伊朗與美國之間的緊張局勢持續升級，導致全球油價波動。霍爾木茲海峽是全球重要的石油運輸通道，任何軍事衝突都可能影響石油供應，進而推高油價。特朗普政府的外交政策一直以強硬對伊朗為主，但隨著局勢的發展，特朗普的最新聲明顯示出希望透過外交手段解決衝突，這對市場情緒產生了直接影響。",
+          "news_focus": "Chinese investors in Indonesia’s nickel industry recently sent a formal protest letter to President Prabowo Subianto. The message reflects their concerns over Indonesia’s political and economic direction, and the long-term trajectory of Chinese investment and Indonesia’s industrialisation programme will hinge on how Indonesia resolves them. The letter, submitted by the China Chamber of Commerce in Indonesia (CCCI), complained about a series of government policies, including proposed royalty...",
+          "news_focus_zh": "中國投資者近期向印尼總統普拉博沃·蘇比安托提交了一封正式抗議信，表達對印尼鎳業政策變動的擔憂。這封信由中國駐印尼商會（CCCI）發出，指出政府的一系列政策，包括提議的版稅，可能影響中國在印尼的投資及該國的工業化進程。投資者對印尼的政治與經濟走向感到不安，並希望能獲得更明確的政策指引。",
+          "background": "印尼是全球最大的鎳生產國之一，鎳資源對於電池和不鏽鋼等產業至關重要。隨著全球對電動車和可再生能源需求的增加，印尼的鎳產業吸引了大量外國投資，特別是來自中國的資金。然而，印尼政府近期對鎳產業的政策調整，包括提高稅率和版稅，可能會影響投資者的信心，並對該國的工業化計劃造成影響。中國投資者的抗議信反映出他們對政策不穩定性的擔憂，並希望印尼政府能夠提供更穩定的投資環境。",
           "stakeholders": [
-            "特朗普政府",
-            "伊朗政府",
-            "全球石油市場",
-            "投資者",
-            "地緣政治分析師"
+            "中國投資者",
+            "印尼政府",
+            "中國駐印尼商會",
+            "印尼工業部",
+            "全球鎳市場"
           ],
-          "analysis": "特朗普的聲明引發市場對油價的劇烈反應，顯示出投資者對地緣政治風險的敏感性。油價的下跌反映了市場對和平協議的期待，然而，這種樂觀情緒是否能持續仍然存在不確定性。若協議未能如預期達成，油價可能會再次上升，影響全球經濟。此外，特朗普的外交策略也可能受到國內外政治壓力的影響，未來幾天內的發展將是關鍵。"
+          "analysis": "中國投資者的抗議信顯示出對印尼政策變化的高度關注，這可能會影響雙方的經濟合作。印尼政府若能夠平衡國內政策需求與外資吸引之間的矛盾，將有助於維持投資者信心。另一方面，若政策持續不穩，可能導致中國資金撤出，進而影響印尼的工業化進程及經濟增長。此外，這一事件也反映出中國在印尼的投資策略面臨的挑戰，未來雙方如何協商解決這些問題，將成為關鍵。各方的立場差異在於，印尼政府可能希望透過提高稅收來增強國內產業，而中國投資者則希望維持穩定的投資環境以保障其長期利益。"
         },
-        "topic_priority_score": 8,
-        "event_type": "energy_supply_move",
+        "topic_priority_score": 4,
+        "event_type": "market_repricing",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -348,19 +319,20 @@
         "relevance_score": 21,
         "briefing": {
           "news_focus": "This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble. While the world witnesses a new fundraising record in the coming listing of SpaceX – and the emergence of its CEO Elon Musk as the first-ever trillionaire – Hong Kong stocks face a critical liquidity test, as market enthusiasm reshapes fund flows and recalibrates...",
-          "news_focus_zh": "SpaceX即將進行的IPO將創下全球募資紀錄，這一事件對香港股市的流動性造成了重大影響。隨著市場熱情的高漲，資金流向和投資策略正在重新調整，特別是來自中國大陸的投資者。這一變化可能會影響香港市場的資金流動性，進一步考驗其金融穩定性。",
-          "background": "SpaceX的IPO標誌著一個新的募資高峰，這不僅是對太空產業的重大推動，也可能改變全球資本流動的格局。香港作為亞洲金融中心，長期以來吸引著大量外資，然而，近年來因地緣政治及政策變化，香港市場的流動性面臨挑戰。隨著SpaceX的上市，香港市場的資金流動可能會受到重新評估，尤其是來自中國大陸的資金流入與流出。",
+          "news_focus_zh": "隨著SpaceX即將進行歷史性的IPO，香港股市面臨流動性考驗。這一事件不僅可能改變中國大陸投資者的策略，還可能影響香港市場及更廣泛的資本流動。Elon Musk的這一千億美元的火箭賭注，將使他成為首位千萬富翁，並創造新的募資紀錄，進一步重塑市場熱情和資金流向。",
+          "background": "SpaceX的IPO被視為全球資本市場的一個重要里程碑，尤其是在香港這個金融中心。香港市場在過去幾年因政治因素和經濟挑戰而受到影響，但隨著更多交易的吸引，市場似乎正在恢復活力。此外，隨著中國大陸投資者對國際市場的興趣增加，香港作為資本流動的樞紐，其角色變得愈發重要。這一背景下，SpaceX的IPO不僅是資金募集的機會，也可能引發資金流向的重大變化。",
           "stakeholders": [
             "SpaceX",
             "香港股市",
             "中國大陸投資者",
             "日本投資者",
-            "金融監管機構"
+            "金融機構"
           ],
-          "analysis": "SpaceX的IPO可能會吸引大量資金，這對香港股市的流動性構成挑戰。參考報導中提到，日本的SpaceX股票基金已經停止接受新資金流入，顯示出投資者對於市場動態的謹慎態度。這可能反映出投資者對於香港市場未來流動性的擔憂，尤其是在中國大陸投資者的策略可能會受到影響的情況下。此外，《經濟學人》的報導指出，香港正逐漸恢復其金融活力，這可能與SpaceX的IPO有關，但也需注意北京的政策影響，這可能會對市場的長期穩定性產生影響。"
+          "analysis": "此次SpaceX的IPO對香港股市的流動性影響深遠，市場的熱情可能會重新調整資金流向。根據參考報導，隨著日本的SpaceX股票基金停止新資金流入，顯示出投資者對於此類高風險投資的反應可能會有所不同。此外，The Economist報導指出，香港正在吸引更多交易，顯示出其金融活力的回升，這與SpaceX的IPO形成了鮮明的對比。各方利益關係中，投資者希望從SpaceX的成功中獲益，而香港市場則需應對流動性壓力和資金流動的變化。整體而言，這一事件可能會促使香港市場在全球資本流動中重新獲得重要地位。"
         },
         "topic_priority_score": 4,
         "event_type": "rate_decision",
+        "is_major_update": true,
         "supporting_sources": [
           "Nikkei Asia",
           "The Economist"
@@ -378,224 +350,257 @@
           "https://www.economist.com/finance-and-economics/2026/02/05/hong-kong-is-getting-its-financial-mojo-back"
         ],
         "source_count": 3
+      },
+      {
+        "category": "economy",
+        "source_name": "BBC Business",
+        "title": "UK vows to phase out Russian diesel and jet fuel imports by new year",
+        "link": "https://www.bbc.com/news/articles/ceqdl8xre7qo?at_medium=RSS&at_campaign=rss",
+        "summary": "The ban forms part of the government's package of sanctions on Moscow due to the ongoing war with Ukraine.",
+        "published": "Fri, 12 Jun 2026 19:57:16 GMT",
+        "updated": "Fri, 12 Jun 2026 19:57:16 GMT",
+        "published_at_utc": "2026-06-12T19:57:16+00:00",
+        "id": "https://www.bbc.com/news/articles/ceqdl8xre7qo#0",
+        "topic_type": "sanctions",
+        "relevance_score": 19,
+        "briefing": {
+          "news_focus": "The ban forms part of the government's package of sanctions on Moscow due to the ongoing war with Ukraine.",
+          "news_focus_zh": "英國政府宣布計劃在新年前逐步停止自俄羅斯進口柴油和航空燃料。這項禁令是針對莫斯科的制裁措施之一，旨在回應持續的烏克蘭戰爭，顯示英國在能源政策上對俄羅斯的強硬立場。",
+          "background": "自2022年俄烏戰爭爆發以來，西方國家對俄羅斯實施了一系列經濟制裁，以削弱其戰爭能力。英國作為主要參與國之一，已經在能源領域採取了多項措施，包括限制俄羅斯能源進口。柴油和航空燃料是英國能源需求的重要組成部分，因此禁止這些進口將對俄羅斯的經濟造成進一步打擊，同時也促使英國尋找替代能源來源，以減少對俄羅斯的依賴。",
+          "stakeholders": [
+            "英國政府",
+            "俄羅斯政府",
+            "烏克蘭政府",
+            "能源供應商",
+            "國際市場"
+          ],
+          "analysis": "英國政府的這項禁令反映了其對俄羅斯行為的強烈譴責，並試圖通過經濟手段來施壓。然而，這也可能對英國自身的能源供應造成影響，特別是在冬季需求上升的情況下。英國需要加速尋找其他供應來源，這可能會導致短期內能源價格上漲。此外，這項禁令可能會促使其他國家跟進，進一步孤立俄羅斯經濟。各方對此禁令的反應可能會影響未來的外交關係和能源市場動態，特別是在全球能源供應鏈日益緊張的背景下。"
+        },
+        "topic_priority_score": 8,
+        "event_type": "macro_signal",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
-        "title": "Elon Musk on track to become world’s first trillionaire today as SpaceX lists on US stock market – business live",
-        "link": "https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-12T11:04:42+00:00",
-        "relevance_score": 18
+        "title": "Anthropic suspends new AI tools over US government security concerns",
+        "link": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-06-13T03:54:01+00:00",
+        "relevance_score": 21
       },
       {
-        "title": "As Musk secures first trillionaire status with SpaceX IPO, will the next come from China?",
-        "link": "https://www.scmp.com/business/money/money-news/article/3356873/musk-secures-1st-trillionaire-status-spacex-ipo-will-chinese-tech-see-next-one?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-12T08:00:07+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Siri won’t be your AI girlfriend",
-        "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-06-12T07:00:31+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "How Nvidia’s South Korean AI deals could fuel ‘the next industrial revolution’",
-        "link": "https://www.scmp.com/week-asia/economics/article/3356685/how-nvidias-south-korean-ai-deals-could-fuel-next-industrial-revolution?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-12T00:00:13+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "‘Hands Off Our NHS’: Anti-Palantir Protests Break Out in UK Over Deal With National Health Service",
-        "link": "https://www.wired.com/story/palantir-protests-nhs-conference-uk/",
+        "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
+        "link": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
         "source_name": "Wired",
-        "published_at_utc": "2026-06-11T21:33:31+00:00",
-        "relevance_score": 17
+        "published_at_utc": "2026-06-13T02:26:10+00:00",
+        "relevance_score": 19
       },
       {
-        "title": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
-        "link": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-06-11T19:41:01+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Canadian mother sues OpenAI, alleging ChatGPT led her daughter to kill herself",
-        "link": "https://www.theguardian.com/technology/2026/jun/11/canada-mother-chatgpt-daughter-suicide-lawsuit",
+        "title": "Palantir loses legal challenge to force Swiss magazine to publish responses",
+        "link": "https://www.theguardian.com/technology/2026/jun/13/palantir-loses-legal-challenge-to-force-swiss-magazine-to-publish-rejoinders",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-11T19:14:46+00:00",
+        "published_at_utc": "2026-06-12T23:12:45+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+        "link": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-06-13T03:00:34+00:00",
         "relevance_score": 17
       },
       {
-        "title": "A warrantless wiretap law is about to expire — but surveillance networks aren’t actually ‘going dark’",
-        "link": "https://www.theverge.com/tech/948451/fisa-702-reauthorization-vote-fails-congress-wiretapping-lapse",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-06-11T16:03:38+00:00",
+        "title": "China Didn’t Make Americans Hate Data Centers",
+        "link": "https://www.wired.com/story/china-us-data-center-opposition/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-12T17:17:10+00:00",
         "relevance_score": 17
       },
       {
-        "title": "Oracle warns of security bug that hackers abused to breach 100+ companies",
-        "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
+        "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
+        "link": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-06-12T16:34:36+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+        "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-11T20:27:25+00:00",
+        "published_at_utc": "2026-06-13T02:26:30+00:00",
         "relevance_score": 15
       },
       {
-        "title": "South Korea hits Coupang with $400M+ fine for data breach that affected millions",
-        "link": "https://techcrunch.com/2026/06/11/south-korea-hits-coupang-with-400m-fine-for-data-breach-that-affected-millions/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-11T13:18:51+00:00",
+        "title": "Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines",
+        "link": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-06-12T15:03:52+00:00",
         "relevance_score": 15
+      },
+      {
+        "title": "SpaceX to list on US stock market at historic $1.77tn valuation",
+        "link": "https://www.theguardian.com/science/2026/jun/12/spacex-stock-price-ipo-spcx",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-12T20:36:41+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "Who pays when rockets explode? China insures SpaceX’s rivals in orbital race against US",
+        "link": "https://www.scmp.com/tech/article/3356718/who-pays-when-rockets-explode-china-insures-spacexs-rivals-orbital-race-against-us?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-11T11:30:07+00:00",
+        "relevance_score": 14
       }
     ],
     "politics": [
       {
-        "title": "Why US and China are watching Philippines’ Marcos Jnr at Russia-Asean talks",
-        "link": "https://www.scmp.com/week-asia/politics/article/3356898/why-us-and-china-are-watching-philippines-marcos-russia-asean-talks?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-12T08:50:37+00:00",
-        "relevance_score": 23
-      },
-      {
-        "title": "Pro-Palestine activists believe ‘sea change’ coming in Labour’s approach to Middle East",
-        "link": "https://www.theguardian.com/politics/2026/jun/12/pro-palestine-activists-believe-sea-change-labour-approach-middle-east-israel",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-12T05:00:35+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Oil prices fall after Trump says he is cancelling strikes – as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-12T04:12:08+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Democrats demand Trump ‘guarantee’ Bill Pulte will not serve as acting intelligence director after Clayton nomination – as it happened",
-        "link": "https://www.theguardian.com/us-news/live/2026/jun/11/democrats-republicans-midterms-tech-laws-scotus-latest-news-updates",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-12T02:00:10+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "West Asia war updates: Iran says hasn't reached a final decision on deal with U.S.",
-        "link": "https://www.thehindu.com/news/international/west-asia-conflict-israel-us-iran-war-strait-of-hormuz-mojtaba-khamenei-donald-trump-benjamin-netanyahu-june-11-2026/article71087443.ece",
+        "title": "West Asia war LIVE: Lebanon reports Israeli strikes in south after evacuation warning",
+        "link": "https://www.thehindu.com/news/international/west-asia-war-donald-trump-usa-iran-ceasefire-israel-lebanon-attacks-strait-of-hormuz-june-13-2026/article71096410.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-12T00:46:41+00:00",
+        "published_at_utc": "2026-06-13T09:31:13+00:00",
+        "relevance_score": 22
+      },
+      {
+        "title": "Indians grieve and demand action after US strike kills sailors",
+        "link": "https://www.scmp.com/news/asia/south-asia/article/3356980/indians-grieve-and-demand-action-after-us-strike-kills-sailors?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-12T23:38:57+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Middle East crisis live: Iran says no final peace agreement reached, after Trump claims deal could be signed soon",
-        "link": "https://www.theguardian.com/world/live/2026/jun/12/middle-east-crisis-live-us-iran-israel-lebanon-trump-hormuz-oil-peace-deal-doubt-latest-news-updates",
+        "title": "China arrests US academic at conference for ‘espionage activities’",
+        "link": "https://www.theguardian.com/world/2026/jun/12/china-arrests-us-academic-min-zin-espionage",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-12T11:13:28+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-06-12T10:27:08+00:00",
+        "relevance_score": 20
       },
       {
-        "title": "Oil prices plummet as Trump claims he is close to US-Iran deal",
-        "link": "https://www.theguardian.com/business/2026/jun/12/global-oil-prices-trump-us-iran-deal-brent-crude-strait-of-hormuz",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-12T11:07:33+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Fisa spy powers almost certain to expire after Congress fails to act – US politics live",
-        "link": "https://www.theguardian.com/us-news/live/2026/jun/12/donald-trump-fisa-kennedy-center-iran-ufc-white-house-latest-news-updates",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-12T11:06:47+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "A powerful US surveillance law is set to expire – what happens now?",
-        "link": "https://www.theguardian.com/us-news/2026/jun/12/fisa-law-surveillance",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-12T10:00:42+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Europe is blaming China’s economic rise for its own failures, think tank says",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3356859/europe-blaming-chinas-economic-rise-its-own-failures-think-tank-says?utm_source=rss_feed",
+        "title": "Why Japan’s Russia outreach could fuel G7 concern over unity: ‘bad signal’",
+        "link": "https://www.scmp.com/week-asia/politics/article/3356929/why-japans-russia-outreach-could-fuel-g7-concern-over-unity-bad-signal?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-06-12T10:00:07+00:00",
+        "published_at_utc": "2026-06-13T01:30:13+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Why a tiny river on Russia’s border tests China’s ties with Kim Jong-un",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3356890/why-tiny-river-russias-border-tests-chinas-ties-kim-jong-un?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-12T15:00:06+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "The US border runs straight through the World Cup",
+        "link": "https://www.aljazeera.com/opinions/2026/6/13/the-us-border-runs-straight-through-the-world-cup?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-06-13T09:56:42+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Lebanon reports Israeli strikes in south after evacuation warning",
+        "link": "https://www.thehindu.com/news/international/lebanon-reports-israeli-strikes-in-south-after-evacuation-warning/article71097122.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-13T09:38:51+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Topuria shoves Gaethje by Lincoln Memorial ahead of White House UFC event",
+        "link": "https://www.aljazeera.com/sports/2026/6/13/topuria-shoves-gaethje-by-lincoln-memorial-ahead-of-white-house-ufc-event?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-06-13T08:14:40+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Separated by the Gaza war, a Palestinian yearns to see his family again",
+        "link": "https://www.aljazeera.com/features/longform/2026/6/13/separated-by-the-gaza-war-a-palestinian-yearns-to-see-his-family-again?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-06-13T08:04:03+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "EU agrees to launch membership talks with Ukraine next week even as war with Russia drags on",
+        "link": "https://www.thehindu.com/news/international/eu-agrees-to-launch-membership-talks-with-ukraine-next-week-even-as-war-with-russia-drags-on/article71096646.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-13T07:44:18+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
+        "title": "Why gold may rebound 13% this year – and what could hold it back",
+        "link": "https://www.scmp.com/business/china-business/article/3356885/why-gold-may-rebound-13-year-and-what-could-hold-it-back?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-13T01:30:09+00:00",
+        "relevance_score": 23
+      },
+      {
+        "title": "US consumer sentiment improves in June due to easing gas prices",
+        "link": "https://www.theguardian.com/business/2026/jun/12/consumer-sentiment-june-data-gas-prices",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-12T16:23:00+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Liberals are scaring first home buyers with warnings of negative equity – but experts believe there’s little to worry about",
+        "link": "https://www.theguardian.com/australia-news/2026/jun/13/liberals-are-scaring-first-home-buyers-with-warnings-of-negative-equity-but-experts-believe-theres-little-to-worry-about",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-12T15:00:51+00:00",
+        "relevance_score": 19
+      },
+      {
         "title": "China’s chip design software firms back Huawei’s new scaling law. But can they catch US rivals?",
         "link": "https://www.scmp.com/tech/big-tech/article/3356853/chinas-chip-software-firms-back-huaweis-new-scaling-law-can-they-catch-us-rivals?utm_source=rss_feed",
         "source_name": "SCMP Business",
         "published_at_utc": "2026-06-12T10:54:32+00:00",
-        "relevance_score": 21
+        "relevance_score": 17
       },
       {
-        "title": "‘Not a crackdown’: China regulators signal more neutral enforcement in shift from 2021",
-        "link": "https://www.scmp.com/economy/china-economy/article/3356909/not-crackdown-china-regulators-signal-more-neutral-enforcement-shift-2021?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-12T09:14:31+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Will UK interest rates go up?",
-        "link": "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-06-11T13:07:09+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "EVs capture two-thirds of China’s car market in record-breaking week",
-        "link": "https://www.scmp.com/business/china-evs/article/3356789/evs-capture-two-thirds-chinas-car-market-record-breaking-week?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-12T00:00:20+00:00",
-        "relevance_score": 19
+        "title": "Philippine Defense Secretary Vows to Defend Nation’s Interests After China Sanctions",
+        "link": "https://thediplomat.com/2026/06/philippine-defense-secretary-vows-to-defend-nations-interests-after-china-sanctions/",
+        "source_name": "The Diplomat",
+        "published_at_utc": "2026-06-12T04:52:00+00:00",
+        "relevance_score": 15
       },
       {
         "title": "Innovation and integration are evolving the GBA from a safe harbour to a global contender",
         "link": "https://www.scmp.com/presented/business/topics/greater-bay-area-ceo-forum/article/3356449/innovation-and-integration-are-evolving-gba-safe-harbour-global-contender?utm_source=rss_feed",
         "source_name": "SCMP Business",
         "published_at_utc": "2026-06-11T16:00:09+00:00",
-        "relevance_score": 19
+        "relevance_score": 15
       },
       {
-        "title": "China’s ports are by far the most efficient in the world: World Bank study",
-        "link": "https://www.scmp.com/economy/china-economy/article/3356750/chinas-ports-are-far-most-efficient-world-world-bank-study?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-12T00:00:16+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Paddy Power owner Flutter to scrap listing on London Stock Exchange",
-        "link": "https://www.theguardian.com/business/2026/jun/12/paddy-power-flutter-entertainment-delist-london-stock-exchange",
+        "title": "How doing a wash while you watch the World Cup at 2am could cut energy bills",
+        "link": "https://www.theguardian.com/money/2026/jun/13/how-doing-a-wash-while-you-watch-the-world-cup-at-2am-could-cut-energy-bills",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-12T07:25:51+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Why tech titans’ IPOs matter as much in China as in the US",
-        "link": "https://www.scmp.com/opinion/china-opinion/article/3356374/why-tech-titans-ipos-matter-much-china-us?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-11T12:30:06+00:00",
-        "relevance_score": 17
+        "published_at_utc": "2026-06-13T06:00:07+00:00",
+        "relevance_score": 14
       },
       {
         "title": "J&T faces risk of tougher penalties, higher costs as China opens formal safety probe",
         "link": "https://www.scmp.com/business/china-business/article/3356716/china-initiates-probe-jt-express-over-safety-management-failures?utm_source=rss_feed",
         "source_name": "SCMP Business",
         "published_at_utc": "2026-06-11T06:09:41+00:00",
-        "relevance_score": 17
+        "relevance_score": 14
       },
       {
-        "title": "UK poised to ease steel tariffs as manufacturers warn of costs",
-        "link": "https://www.theguardian.com/business/2026/jun/10/uk-ease-steel-tariffs-manufacturers-warn-costs",
+        "title": "‘Not a crackdown’: China regulators signal more neutral enforcement in shift from 2021",
+        "link": "https://www.scmp.com/economy/china-economy/article/3356909/not-crackdown-china-regulators-signal-more-neutral-enforcement-shift-2021?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-12T09:14:31+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Has the US really carried out a secret mission to get oil through Hormuz?",
+        "link": "https://www.theguardian.com/world/2026/jun/12/us-secret-mission-oil-hormuz-trump-iran-blockade",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-10T13:11:57+00:00",
-        "relevance_score": 15
+        "published_at_utc": "2026-06-12T07:00:39+00:00",
+        "relevance_score": 13
       }
     ]
   },
