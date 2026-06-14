@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-06-13T10:21:10.761838+00:00",
+  "generated_at_utc": "2026-06-14T10:43:46.977591+00:00",
   "summary": {
-    "total_raw_items": 1062,
-    "total_deduped_items": 1034,
+    "total_raw_items": 1055,
+    "total_deduped_items": 1027,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
@@ -13,146 +13,146 @@
       ],
       "politics": [
         "diplomacy",
-        "diplomacy",
-        "social_protests"
+        "us_politics",
+        "diplomacy"
       ],
       "economy": [
+        "trade_wars",
         "markets",
-        "markets",
-        "sanctions"
+        "markets"
       ]
     },
-    "multi_source_selected_count": 5
+    "multi_source_selected_count": 6
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "The Hindu International",
-        "title": "Anthropic cuts access to AI models over U.S. ‘national security’ order",
-        "link": "https://www.thehindu.com/sci-tech/technology/anthropic-cuts-access-to-ai-models-over-us-national-security-order/article71096476.ece",
-        "summary": "Just three days after publicly launching Fable 5, the company said in a blog post that it received a government directive banning all foreign nationals, even ones who work at Anthropic, from accessing Fable 5 and Mythos 5 over national security concerns",
-        "published": "Sat, 13 Jun 2026 12:37:38 +0530",
-        "updated": "Sat, 13 Jun 2026 12:37:38 +0530",
-        "published_at_utc": "2026-06-13T07:07:38+00:00",
-        "id": "article-71096476",
+        "source_name": "The Verge",
+        "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+        "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series […]",
+        "published": "2026-06-13T17:39:26-04:00",
+        "updated": "2026-06-13T17:39:26-04:00",
+        "published_at_utc": "2026-06-13T21:39:26+00:00",
+        "id": "https://www.theverge.com/?p=949601",
         "topic_type": "ai",
-        "relevance_score": 27,
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Just three days after publicly launching Fable 5, the company said in a blog post that it received a government directive banning all foreign nationals, even ones who work at Anthropic, from accessing Fable 5 and Mythos 5 over national security concerns",
-          "news_focus_zh": "Anthropic在公開推出其最新的AI模型Fable 5僅三天後，因應美國政府的指令，宣布禁止所有外國國籍人士，包括其員工，訪問Fable 5和Mythos 5，理由是出於國家安全考量。這一措施凸顯了美國對於前沿人工智慧的監管日益嚴格。",
-          "background": "Anthropic是一家位於矽谷的AI公司，近期在美國的AI產業中扮演著重要角色。隨著AI技術的快速發展，國家安全問題日益受到重視，尤其是涉及外國國籍人士的技術訪問。美國政府的這一出口控制措施是首度針對特定AI模型，顯示出其對於AI技術潛在風險的高度警覺。此舉也反映了美國在全球科技競爭中對於保護本國技術的策略。",
+          "news_focus": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon claims that, through a series […]",
+          "news_focus_zh": "根據《華爾街日報》的報導，亞馬遜的安全研究促使白宮發出出口管制指令，導致Anthropic停止對Fable 5和Mythos 5的全球訪問。報導指出，亞馬遜CEO安迪·賈西與白宮的對話也在此事件中扮演了關鍵角色。",
+          "background": "在當前科技快速發展的背景下，人工智慧模型的安全性成為各國政府關注的焦點。特別是隨著AI技術的普及，潛在的安全風險和數據洩露問題引發了政策制定者的擔憂。Anthropic作為一家專注於AI安全的公司，其產品Fable和Mythos在市場上受到廣泛關注。亞馬遜作為科技巨頭，對AI技術的發展和應用有著重要影響，並且其安全研究結果可能對政府的政策決策產生直接影響。",
           "stakeholders": [
+            "亞馬遜",
             "Anthropic",
             "美國政府",
-            "外國國籍AI專家",
             "科技產業",
-            "國家安全機構"
+            "消費者"
           ],
-          "analysis": "此次事件中，Anthropic的行動顯示出美國政府對於AI技術的監管力度加大，尤其是在國家安全的背景下。根據參考報導，商務部擔心Fable 5可能存在的安全漏洞，這一擔憂促使政府採取了前所未有的措施來限制外國訪問。不同報導中，SCMP強調了這一措施的前所未有性，而Ars Technica則具體提到Fable 5的“越獄”風險可能成為國家安全威脅，這顯示出各方對於AI技術潛在風險的不同解讀。未來，這一政策可能會影響AI公司的國際合作與技術交流，並引發業界對於安全與創新之間平衡的討論。"
+          "analysis": "此次事件顯示出亞馬遜與美國政府之間在AI安全問題上的密切互動。亞馬遜的安全研究報告可能揭示了Anthropic模型的潛在風險，促使政府採取行動以保護國家安全。參考報導指出，賈西可能是引發這些安全擔憂的關鍵人物，這進一步強調了企業在政策制定中的影響力。未來，隨著AI技術的進一步發展，類似的出口管制措施可能會成為常態，尤其是涉及到安全性和倫理問題的模型。各方利益關係的角力將持續影響AI技術的發展方向與市場策略。"
         },
         "topic_priority_score": 9,
         "event_type": "regulation_action",
         "supporting_sources": [
-          "SCMP Business",
-          "Ars Technica"
+          "TechCrunch"
         ],
         "supporting_titles": [
-          "US blocks foreign access to Anthropic’s newest AI models over security risks",
-          "Anthropic shuts down Fable, Mythos models following Trump admin directive"
+          "Amazon CEO reportedly raised Anthropic model concerns before government crackdown"
         ],
         "supporting_summaries": [
-          "Washington has ordered Anthropic – a leading entity in America’s AI sector – to block all foreign nationals from accessing its latest models, Fable 5 and Mythos 5, citing national security concerns, according to the Silicon Valley-based firm. The unprecedented export-control measure – the first to target specific AI models – came just days after Anthropic released the models, underscoring Washington’s increasingly hands-on approach to regulating frontier artificial intelligence...",
-          "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat."
+          "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
         ],
         "supporting_links": [
-          "https://www.scmp.com/tech/article/3356990/us-blocks-foreign-access-anthropics-newest-ai-models-over-security-risks?utm_source=rss_feed",
-          "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/"
-        ],
-        "source_count": 3
-      },
-      {
-        "category": "technology",
-        "source_name": "The Hindu International",
-        "title": "AI sovereignty hawks see red as U.S. moves to block Anthropic’s Mythos and Fable models",
-        "link": "https://www.thehindu.com/sci-tech/technology/ai-sovereignty-hawks-see-red-as-us-moves-to-block-mythos-fable-models/article71096641.ece",
-        "summary": "While training Large Language Models is a prohibitively expensive undertaking, national security commentators have long warned of over-reliance on foreign technology in critical fields like AI",
-        "published": "Sat, 13 Jun 2026 12:29:35 +0530",
-        "updated": "Sat, 13 Jun 2026 12:29:35 +0530",
-        "published_at_utc": "2026-06-13T06:59:35+00:00",
-        "id": "article-71096641",
-        "topic_type": "ai",
-        "relevance_score": 23,
-        "briefing": {
-          "news_focus": "While training Large Language Models is a prohibitively expensive undertaking, national security commentators have long warned of over-reliance on foreign technology in critical fields like AI",
-          "news_focus_zh": "美國政府近期決定阻止Anthropic公司推出的AI模型Mythos和Fable，這一舉措引發了對AI主權的強烈反應。專家指出，對外國技術的過度依賴可能對國家安全構成風險，尤其是在關鍵領域如人工智慧。",
-          "background": "隨著人工智慧技術的迅速發展，許多國家開始重視AI主權，擔心外國技術可能帶來的安全隱患。特別是在美國，對於依賴外國技術的擔憂已經成為政策討論的焦點。Anthropic的Fable和Mythos模型被認為具有潛在的安全風險，尤其是Fable 5模型可能存在的“越獄”問題，這使得美國商務部決定介入並要求停止相關模型的運行。",
-          "stakeholders": [
-            "美國政府",
-            "Anthropic公司",
-            "國家安全專家",
-            "AI技術開發者",
-            "企業用戶"
-          ],
-          "analysis": "此次美國政府的干預反映了對AI技術安全性的高度重視，尤其是在國家安全專家警告過度依賴外國技術的背景下。根據參考報導，Anthropic因應特朗普政府的指令關閉了Fable和Mythos模型，顯示出政府對於AI技術的監管力度正在加強。這一舉措可能會影響到AI產業的發展，尤其是對於依賴這些模型的企業和開發者而言，未來的技術創新可能受到限制。各方對於AI主權的看法存在差異，部分專家認為過度的監管可能會抑制創新，而另一些則強調安全的重要性，這一爭論可能會在未來的政策制定中持續存在。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "strategic_move",
-        "supporting_sources": [
-          "Ars Technica"
-        ],
-        "supporting_titles": [
-          "Anthropic shuts down Fable, Mythos models following Trump admin directive"
-        ],
-        "supporting_summaries": [
-          "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat."
-        ],
-        "supporting_links": [
-          "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/"
+          "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/"
         ],
         "source_count": 2
       },
       {
         "category": "technology",
-        "source_name": "SCMP Business",
-        "title": "US blocks foreign access to Anthropic’s newest AI models over security risks",
-        "link": "https://www.scmp.com/tech/article/3356990/us-blocks-foreign-access-anthropics-newest-ai-models-over-security-risks?utm_source=rss_feed",
-        "summary": "Washington has ordered Anthropic – a leading entity in America’s AI sector – to block all foreign nationals from accessing its latest models, Fable 5 and Mythos 5, citing national security concerns, according to the Silicon Valley-based firm. The unprecedented export-control measure – the first to target specific AI models – came just days after Anthropic released the models, underscoring Washington’s increasingly hands-on approach to regulating frontier artificial intelligence...",
-        "published": "Sat, 13 Jun 2026 05:06:27 +0000",
-        "updated": "Sat, 13 Jun 2026 05:06:27 +0000",
-        "published_at_utc": "2026-06-13T05:06:27+00:00",
-        "id": "https://www.scmp.com/tech/article/3356990/us-blocks-foreign-access-anthropics-newest-ai-models-over-security-risks?utm_source=rss_feed",
+        "source_name": "BBC Business",
+        "title": "Anthropic suspends new AI tools over US government security concerns",
+        "link": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+        "summary": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
+        "published": "Sat, 13 Jun 2026 16:28:38 GMT",
+        "updated": "Sat, 13 Jun 2026 16:28:38 GMT",
+        "published_at_utc": "2026-06-13T16:28:38+00:00",
+        "id": "https://www.bbc.com/news/articles/c932g3v3e13o#0",
         "topic_type": "ai",
-        "relevance_score": 21,
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "Washington has ordered Anthropic – a leading entity in America’s AI sector – to block all foreign nationals from accessing its latest models, Fable 5 and Mythos 5, citing national security concerns, according to the Silicon Valley-based firm. The unprecedented export-control measure – the first to target specific AI models – came just days after Anthropic released the models, underscoring Washington’s increasingly hands-on approach to regulating frontier artificial intelligence...",
-          "news_focus_zh": "美國政府已指示人工智慧公司Anthropic封鎖所有外國國籍人士對其最新模型Fable 5和Mythos 5的訪問，理由是出於國家安全考量。這一前所未有的出口管制措施是在Anthropic發布這些模型僅幾天後實施的，顯示出華盛頓對於前沿人工智慧的監管越來越積極。",
-          "background": "在全球人工智慧技術迅速發展的背景下，國家安全問題日益受到重視。美國政府對於涉及敏感技術的外國訪問者的監管愈加嚴格，特別是在人工智慧領域。Anthropic作為美國AI產業的領導者之一，其最新模型的發布引發了政府的高度關注。這一措施不僅影響了Anthropic的業務模式，也可能對整個AI產業的國際合作造成影響。",
+          "news_focus": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
+          "news_focus_zh": "Anthropic公司在本週公開推出其最新的AI工具Claude Fable 5後，因美國政府對國家安全的擔憂，決定暫停這些新工具的使用。該公司在其部落格中表示，根據政府指令，禁止所有外國國籍人士，包括Anthropic內部員工，訪問Fable 5及其另一款產品Mythos 5。",
+          "background": "隨著人工智慧技術的快速發展，各國政府對於AI的監管逐漸加強。美國在此領域的政策特別強調國家安全，尤其是對於可能被外國勢力利用的技術。Anthropic作為美國AI產業的領頭羊之一，其新產品的推出本應促進市場競爭，但卻因安全考量而受到限制，顯示出政府對於技術出口的嚴格管控。這一事件也反映了美國在全球科技競爭中對於保護自身技術的重視。",
           "stakeholders": [
             "Anthropic",
             "美國政府",
-            "外國國籍AI專業人士",
-            "AI產業",
-            "網絡安全專家"
+            "外國AI開發者",
+            "科技產業",
+            "國際市場"
           ],
-          "analysis": "這一出口管制措施反映了美國政府對於AI技術潛在風險的擔憂，尤其是關於網絡安全和黑客攻擊的問題。參考報導指出，Anthropic在發布Fable 5後不久即收到政府指令，禁止所有外國國籍人士，包括公司內部員工，訪問這些模型。這一決策可能會影響Anthropic的國際業務，並引發其他AI公司對於政府政策的擔憂。不同報導強調了安全性問題的不同面向，BBC提到的網絡安全和黑客攻擊的擔憂，可能是促使政府採取行動的直接因素。未來，隨著AI技術的進一步發展，類似的監管措施可能會成為常態，進一步影響全球AI市場的競爭格局。"
+          "analysis": "此次事件中，Anthropic面臨的主要挑戰是如何在遵循政府指令的同時，維持其市場競爭力。美國政府的這項前所未有的出口控制措施，專門針對特定AI模型，顯示出其對於AI技術潛在風險的高度警覺。參考報導指出，這一措施不僅影響了外國國籍人士的訪問權限，也可能對Anthropic的國際合作與市場擴展造成長期影響。不同報導強調了政府對於AI模型的具體限制，並指出這是美國政府對AI技術監管日益嚴格的體現，未來可能會有更多類似的政策出台，進一步影響整個行業的發展方向。"
         },
         "topic_priority_score": 9,
-        "event_type": "regulation_action",
+        "event_type": "product_launch",
         "supporting_sources": [
           "The Hindu International",
-          "BBC World"
+          "SCMP Business"
         ],
         "supporting_titles": [
           "Anthropic cuts access to AI models over U.S. ‘national security’ order",
-          "Anthropic suspends new AI tools over US government security concerns"
+          "US blocks foreign access to Anthropic’s newest AI models over security risks"
         ],
         "supporting_summaries": [
           "Just three days after publicly launching Fable 5, the company said in a blog post that it received a government directive banning all foreign nationals, even ones who work at Anthropic, from accessing Fable 5 and Mythos 5 over national security concerns",
-          "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking."
+          "Washington has ordered Anthropic – a leading entity in America’s AI sector – to block all foreign nationals from accessing its latest models, Fable 5 and Mythos 5, citing national security concerns, according to the Silicon Valley-based firm. The unprecedented export-control measure – the first to target specific AI models – came just days after Anthropic released the models, underscoring Washington’s increasingly hands-on approach to regulating frontier artificial intelligence..."
         ],
         "supporting_links": [
           "https://www.thehindu.com/sci-tech/technology/anthropic-cuts-access-to-ai-models-over-us-national-security-order/article71096476.ece",
+          "https://www.scmp.com/tech/article/3356990/us-blocks-foreign-access-anthropics-newest-ai-models-over-security-risks?utm_source=rss_feed"
+        ],
+        "source_count": 3
+      },
+      {
+        "category": "technology",
+        "source_name": "TechCrunch",
+        "title": "As Anthropic suspends access to new models, India debates its AI future",
+        "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+        "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+        "published": "Sun, 14 Jun 2026 03:00:00 +0000",
+        "updated": "Sun, 14 Jun 2026 03:00:00 +0000",
+        "published_at_utc": "2026-06-14T03:00:00+00:00",
+        "id": "https://techcrunch.com/?p=3132702",
+        "topic_type": "ai",
+        "relevance_score": 17,
+        "briefing": {
+          "news_focus": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+          "news_focus_zh": "Anthropic宣布因美國政府的命令，暫停對外國用戶的最新AI模型訪問，這一決定引發印度科技領袖對該國AI未來的討論。此事件被視為印度在AI領域雄心的警示，促使業界重新評估其發展策略。",
+          "background": "隨著AI技術的快速發展，各國對於AI的監管與安全問題日益重視。美國政府近期對Anthropic下達出口管制命令，要求其暫停對外國用戶的高級AI模型訪問，主要是基於國家安全考量。這一事件對於印度的AI發展構成挑戰，因為印度正積極推動AI技術的應用與創新，並希望在全球AI競爭中佔有一席之地。印度的科技產業面臨著如何在保障安全的同時，推動技術進步的雙重壓力。",
+          "stakeholders": [
+            "Anthropic",
+            "美國政府",
+            "印度科技企業",
+            "AI研究機構",
+            "國際監管機構"
+          ],
+          "analysis": "Anthropic的決定使得印度科技界開始反思自身的AI發展策略。根據《The Guardian》的報導，Anthropic在未提供具體的國家安全擔憂細節的情況下，被迫暫停對外國用戶的訪問，這可能會影響到印度企業的技術獲取與創新能力。印度的科技領袖們擔心，若無法有效應對類似的國際政策，將會影響其在全球AI市場中的競爭力。此外，根據BBC的報導，Anthropic的最新模型引發了對網絡安全和黑客攻擊的擔憂，這也可能促使印度在AI安全方面加強監管與政策制定。因此，該事件不僅是對Anthropic的影響，更是對印度AI未來發展的深遠警示。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "strategic_move",
+        "supporting_sources": [
+          "The Guardian Business",
+          "BBC Business"
+        ],
+        "supporting_titles": [
+          "Anthropic to disable its most advanced AI models after US order limiting foreign access",
+          "Anthropic suspends new AI tools over US government security concerns"
+        ],
+        "supporting_summaries": [
+          "Company said US government believes safeguards can be bypassed and product used to identify software vulnerabilities Anthropic said it will “abruptly disable” its most advanced AI models for all users after the US government ordered it to suspend access to the models for foreign nationals, citing national security concerns. The company received the export control directive to suspend access to Fable 5 and Mythos 5 for all foreign nationals, without being given specific details of the national security concern, Anthropic said in a statement. Continue reading...",
+          "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking."
+        ],
+        "supporting_links": [
+          "https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order",
           "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss"
         ],
         "source_count": 3
@@ -161,28 +161,28 @@
     "politics": [
       {
         "category": "politics",
-        "source_name": "SCMP World",
-        "title": "G7 summit offers Trump, Modi chance to reset ties after US strikes kill Indian sailors",
-        "link": "https://www.scmp.com/news/asia/south-asia/article/3356984/g7-summit-offers-trump-modi-chance-reset-ties-after-us-strikes-kill-indian-sailors?utm_source=rss_feed",
-        "summary": "A possible meeting next week between Indian Prime Minister Narendra Modi and US President Donald Trump offers a chance to reset ties following a year of strained relations over tariffs, Pakistan, and now, the Iran war. US forces this week attacked three Indian-crewed vessels in the Gulf of Oman region, killing at least three sailors and prompting protests from New Delhi. Modi and Trump would likely want to contain the latest tensions and avoid derailing efforts to get relations back on track...",
-        "published": "Sat, 13 Jun 2026 02:49:31 +0000",
-        "updated": "Sat, 13 Jun 2026 02:49:31 +0000",
-        "published_at_utc": "2026-06-13T02:49:31+00:00",
-        "id": "https://www.scmp.com/news/asia/south-asia/article/3356984/g7-summit-offers-trump-modi-chance-reset-ties-after-us-strikes-kill-indian-sailors?utm_source=rss_feed",
+        "source_name": "The Hindu International",
+        "title": "Downtown Geneva boards up as drastic security tightens ahead of anti-G7 protests",
+        "link": "https://www.thehindu.com/news/international/downtown-geneva-boards-up-as-drastic-security-tightens-ahead-of-anti-g7-protests/article71100500.ece",
+        "summary": "French and Swiss authorities have imposed extensive security measures as U.S. President Donald Trump and other leaders attend a G7 summit of leading industrialised nations",
+        "published": "Sun, 14 Jun 2026 13:10:01 +0530",
+        "updated": "Sun, 14 Jun 2026 13:10:01 +0530",
+        "published_at_utc": "2026-06-14T07:40:01+00:00",
+        "id": "article-71100500",
         "topic_type": "diplomacy",
         "relevance_score": 23,
         "briefing": {
-          "news_focus": "A possible meeting next week between Indian Prime Minister Narendra Modi and US President Donald Trump offers a chance to reset ties following a year of strained relations over tariffs, Pakistan, and now, the Iran war. US forces this week attacked three Indian-crewed vessels in the Gulf of Oman region, killing at least three sailors and prompting protests from New Delhi. Modi and Trump would likely want to contain the latest tensions and avoid derailing efforts to get relations back on track...",
-          "news_focus_zh": "印度總理莫迪與美國總統特朗普可能在下週的G7峰會上會面，這是雙方在過去一年因關稅、巴基斯坦及伊朗戰爭等問題而緊張關係後的一次重啟機會。近期，美國軍方在阿曼灣地區攻擊了三艘印度籍船隻，造成至少三名水手喪生，並引發新德里的抗議。雙方領導人希望能夠控制最新的緊張局勢，避免影響改善雙邊關係的努力。",
-          "background": "近年來，印度與美國的關係因貿易政策、地緣政治及安全問題而變得複雜。特別是在面對中國的崛起及巴基斯坦的影響力時，兩國的合作顯得尤為重要。然而，雙方在貿易關稅及對伊朗政策上的分歧，尤其是美國對伊朗的軍事行動，對雙邊關係造成了壓力。此次美國的軍事行動導致印度水手的死亡，無疑加劇了雙方的緊張情勢，迫使兩國領導人必須尋求對話以緩解局勢。",
+          "news_focus": "French and Swiss authorities have imposed extensive security measures as U.S. President Donald Trump and other leaders attend a G7 summit of leading industrialised nations",
+          "news_focus_zh": "隨著美國總統唐納德·特朗普及其他領導人參加七國集團（G7）峰會，法國和瑞士當局在日內瓦實施了嚴格的安全措施。當地商店和建築物已經加固，以應對預期中的反G7抗議活動，顯示出當局對潛在衝突的高度警覺。",
+          "background": "G7峰會是由七個主要工業化國家組成的國際會議，通常涉及全球經濟、環境和安全等議題。隨著全球政治氣候的緊張，尤其是涉及貿易、氣候變化和國際安全的問題，抗議活動在此類峰會期間時有發生。日內瓦作為國際城市，經常舉辦重要會議，當地政府對於可能的抗議活動通常會提前做好準備，以確保會議的順利進行。",
           "stakeholders": [
-            "印度政府",
-            "美國政府",
+            "法國政府",
+            "瑞士政府",
             "G7成員國",
-            "印度水手家屬",
-            "國際貿易組織"
+            "抗議者",
+            "當地商業機構"
           ],
-          "analysis": "此次G7峰會上，莫迪與特朗普的會面將是雙方重建信任的重要機會。特朗普政府在中東的軍事行動對印度造成直接影響，可能使印度對美國的外交政策產生疑慮。印度政府的抗議行動顯示出其對國民安全的重視，並可能要求美方在未來的軍事行動中考慮印度的利益。此外，若雙方能在會議中達成共識，將有助於改善貿易關係及加強在安全領域的合作。然而，若無法妥善處理此次事件，可能會使雙邊關係進一步惡化，影響未來的合作機會。"
+          "analysis": "此次安全措施的加強反映了當局對抗議活動的高度重視，尤其是在特朗普政府的政策引發廣泛爭議的背景下。抗議者可能會針對G7國家在氣候變化、貿易政策及社會不平等方面的立場表達不滿。當局的預防性行動可能會引發更強烈的抗議反應，形成一種對立局面。此外，這也可能影響到與會國家的形象，特別是在全球關注社會運動的當下，如何平衡安全與言論自由將成為一大挑戰。"
         },
         "topic_priority_score": 7,
         "event_type": "security_event",
@@ -194,340 +194,341 @@
       },
       {
         "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "A deal with U.S. ‘has never been closer’, says Iran",
-        "link": "https://www.thehindu.com/news/international/deal-with-the-us-has-never-been-closer-says-iran/article71094747.ece",
-        "summary": "Foreign Minister Abbas Araghchi’s comments came after Iran’s Mehr news agency, citing a source close to the country’s negotiating team, claimed that the deal would see “the release of $24 billion of Iran’s blocked funds during the 60-day final negotiation period”",
-        "published": "Sat, 13 Jun 2026 10:41:56 +0530",
-        "updated": "Sat, 13 Jun 2026 10:41:56 +0530",
-        "published_at_utc": "2026-06-13T05:11:56+00:00",
-        "id": "article-71094747",
-        "topic_type": "diplomacy",
-        "relevance_score": 21,
+        "source_name": "The Guardian World",
+        "title": "NSW lifts drone ban over Sydney beach after shark attack – as it happened",
+        "link": "https://www.theguardian.com/australia-news/live/2026/jun/14/australia-news-live-jonathon-duniam-senator-retire-liberal-national-coalition-labor-albanese-taylor-one-nation-sydney-nsw-victoria-high-court-ntwnfb",
+        "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast The Senate will deliver its report from the NDIS inquiry on Tuesday. Butler doesn’t directly answer a question about whether or not he is willing to make any significant changes to the legislation the government has put forward. He says: Look, the direction of travel I think is an important one for us to follow through. This largely reflects reviews and insights that we’ve gathered over the last three years since the independent review was done of the NDIS in 2023 and endorsed by all governments at national Cabinet later that year. I’m utterly convinced this is the right plan for the NDIS… I’m not saying there won’t be any change. We heard ideas from the crossbench in the debate in the House of Representatives. I’ve very much heard that people want greater reassurance about what won’t change because of the reforms we’re putting in place. We have to constrain that growth. Without reforms it would grow to $20 billion by the end of the decade and that’s simply not a sustainable position. It’s also allowed us, as I said, to protect the core supports people rely upon for that safety that was part of your introduction. Continue reading...",
+        "published": "Sun, 14 Jun 2026 05:48:55 GMT",
+        "updated": "2026-06-14T05:48:55Z",
+        "published_at_utc": "2026-06-14T05:48:55+00:00",
+        "id": "https://www.theguardian.com/australia-news/live/2026/jun/14/australia-news-live-jonathon-duniam-senator-retire-liberal-national-coalition-labor-albanese-taylor-one-nation-sydney-nsw-victoria-high-court-ntwnfb",
+        "topic_type": "us_politics",
+        "relevance_score": 22,
         "briefing": {
-          "news_focus": "Foreign Minister Abbas Araghchi’s comments came after Iran’s Mehr news agency, citing a source close to the country’s negotiating team, claimed that the deal would see “the release of $24 billion of Iran’s blocked funds during the 60-day final negotiation period”",
-          "news_focus_zh": "伊朗外長阿巴斯·阿拉赫奇表示，與美國達成協議的可能性從未如此接近。根據伊朗梅赫爾新聞社的報導，消息來源稱該協議將在60天的最終談判期間釋放240億美元的伊朗被凍結資金。",
-          "background": "近年來，伊朗與美國之間的關係因核問題和地區衝突而緊張。美國對伊朗實施了一系列制裁，導致其經濟受到重創。此時，伊朗正面臨內部壓力，急需解除制裁以恢復經濟。此次談判的背景是雙方在結束衝突的意願上達成共識，並希望通過協議促進地區穩定，尤其是在霍爾木茲海的航運安全方面。",
+          "news_focus": "This blog is now closed Get our breaking news email , free app or daily news podcast The Senate will deliver its report from the NDIS inquiry on Tuesday. Butler doesn’t directly answer a question about whether or not he is willing to make any significant changes to the legislation the government has put forward. He says: Look, the direction of travel I think is an important one for us to follow through. This largely reflects reviews and insights that we’ve gathered over the last three years since the independent review was done of the NDIS in 2023 and endorsed by all governments at national Cabinet later that year. I’m utterly convinced this is the right plan for the NDIS… I’m not saying there won’t be any change. We heard ideas from the crossbench in the debate in the House of Representatives. I’ve very much heard that people want greater reassurance about what won’t change because of the reforms we’re putting in place. We have to constrain that growth. Without reforms it would grow to $20 billion by the end of the decade and that’s simply not a sustainable position. It’s also allowed us, as I said, to protect the core supports people rely upon for that safety that was part of your introduction. Continue reading...",
+          "news_focus_zh": "澳大利亞新南威爾士州（NSW）在悉尼海灘解除無人機禁令，這一決定是在最近一起鯊魚攻擊事件後作出的。事件中，一名30歲女性在庫吉海灘遭到鯊魚攻擊，造成手臂和腿部重傷，並被緊急空運至醫院。這一禁令的解除旨在加強對海灘安全的監控。",
+          "background": "悉尼的海灘因其美麗的風景和水上活動而受到遊客的喜愛，但鯊魚攻擊事件卻時有發生。根據澳大利亞鯊魚事件數據庫，自2000年以來，澳大利亞每年平均發生兩至三起致命的鯊魚攻擊。這類事件引發了當地政府對海灘安全的重視，並促使其考慮使用無人機進行監控，以提高公眾的安全感。",
           "stakeholders": [
-            "伊朗政府",
-            "美國政府",
-            "中介國家（如巴基斯坦）",
-            "國際能源市場",
-            "地區盟友"
+            "新南威爾士州政府",
+            "當地居民",
+            "遊客",
+            "海洋生態保護組織",
+            "醫療機構"
           ],
-          "analysis": "伊朗與美國的協議若成功，將有助於緩解地區緊張局勢，並可能促進霍爾木茲海的重新開放，這對全球能源市場至關重要。根據參考報導，雖然雙方已達成最終文本，但仍有關鍵步驟待完成，顯示出協議的脆弱性。不同報導強調了協議的不同面向，Al Jazeera提到的戰爭結束的可能性與BBC對霍爾木茲海重新開放的關注，顯示出各方對協議影響的不同解讀。各方利益關係錯綜複雜，未來的發展仍需密切關注。"
+          "analysis": "解除無人機禁令的決策反映了政府對於提升海灘安全的重視，尤其是在近期鯊魚攻擊事件後。根據參考報導，這名受害女性的傷勢相當嚴重，這可能會引發公眾對海洋安全的更大關注。不同報導強調了事件的嚴重性，Fox News特別提到受害者的具體傷情，而The Hindu則提供了更廣泛的背景資訊，指出澳大利亞鯊魚攻擊的歷史數據。未來，政府可能會考慮進一步的安全措施，以防止類似事件的再次發生，並提升民眾對海灘安全的信心。"
         },
-        "topic_priority_score": 7,
-        "event_type": "diplomatic_move",
+        "topic_priority_score": 8,
+        "event_type": "security_event",
         "supporting_sources": [
-          "Al Jazeera",
-          "BBC World"
+          "The Hindu International",
+          "Fox News World"
         ],
         "supporting_titles": [
-          "Iran war day 106: US and Iran say deal close but Lebanon fighting continues",
-          "Deal to end fighting would lead to Hormuz reopening, Iran says"
+          "Woman critically injured in shark attack off Sydney’s Coogee Beach",
+          "Woman airlifted to hospital with serious injuries after shark attack at popular Sydney beach"
         ],
         "supporting_summaries": [
-          "US and Iran say a deal to end the war is close, with a final text agreed but key steps still pending.",
-          "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say."
+          "Australia has averaged between two and three fatal shark attacks a year since 2000, according to the Australian Shark Incident Database",
+          "A 30-year-old woman suffered serious injuries to her arm and leg after a shark attack at Sydney's Coogee Beach, the latest in a string of incidents."
         ],
         "supporting_links": [
-          "https://www.aljazeera.com/news/2026/6/13/iran-war-day-106-us-and-iran-say-deal-close-but-lebanon-fighting-continues?traffic_source=rss",
-          "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss"
+          "https://www.thehindu.com/news/international/woman-critically-injured-in-shark-attack-off-sydneys-coogee-beach/article71096816.ece",
+          "https://www.foxnews.com/world/woman-airlifted-hospital-serious-injuries-shark-attack-popular-sydney-beach"
         ],
         "source_count": 3
       },
       {
         "category": "politics",
-        "source_name": "Al Jazeera",
-        "title": "‘Right to protest genocide’ denied: Scotland’s Palestine Action supporters",
-        "link": "https://www.aljazeera.com/news/2026/6/13/right-to-protest-genocide-denied-scotlands-palestine-action-supporters?traffic_source=rss",
-        "summary": "As the banned group fights its proscription in London, similar battles are playing out in Edinburgh.",
-        "published": "Sat, 13 Jun 2026 09:13:29 +0000",
-        "updated": "Sat, 13 Jun 2026 09:13:29 +0000",
-        "published_at_utc": "2026-06-13T09:13:29+00:00",
-        "id": "https://www.aljazeera.com/?t=1781259325",
-        "topic_type": "social_protests",
-        "relevance_score": 20,
+        "source_name": "SCMP World",
+        "title": "China will be a neighbour Mongolia can rely on, Foreign Minister Wang Yi pledges",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3357043/china-will-be-neighbour-mongolia-can-rely-foreign-minister-wang-yi-pledges?utm_source=rss_feed",
+        "summary": "Chinese Foreign Minister Wang Yi pushed for stronger cross-border transport and trade ties during a visit to Mongolia over the weekend as Beijing sought to anchor the country’s newly formed government within its economic orbit. “China’s policy towards Mongolia maintains stability and continuity, and has always placed the development of bilateral relations in an important position in its neighbourhood diplomacy,” Wang said during a meeting with President Ukhnaagiin Khurelsukh on Saturday. “China...",
+        "published": "Sun, 14 Jun 2026 05:59:44 +0000",
+        "updated": "Sun, 14 Jun 2026 05:59:44 +0000",
+        "published_at_utc": "2026-06-14T05:59:44+00:00",
+        "id": "https://www.scmp.com/news/china/diplomacy/article/3357043/china-will-be-neighbour-mongolia-can-rely-foreign-minister-wang-yi-pledges?utm_source=rss_feed",
+        "topic_type": "diplomacy",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "As the banned group fights its proscription in London, similar battles are playing out in Edinburgh.",
-          "news_focus_zh": "蘇格蘭的巴勒斯坦行動支持者在倫敦面臨禁令的同時，亦在愛丁堡展開類似的法律鬥爭，試圖挑戰對其組織的禁令。他們主張抗議種族滅絕的權利，並希望能夠合法地進行示威活動。",
-          "background": "巴勒斯坦行動是一個在英國活動的團體，專注於支持巴勒斯坦人民的權利，並對以色列的行為進行抗議。該組織近期在倫敦被禁止，這引發了對言論自由和抗議權利的廣泛討論。蘇格蘭的支持者則試圖在當地法律框架內挑戰這一禁令，這反映出在英國不同地區對於抗議活動的法律適用可能存在差異。",
+          "news_focus": "Chinese Foreign Minister Wang Yi pushed for stronger cross-border transport and trade ties during a visit to Mongolia over the weekend as Beijing sought to anchor the country’s newly formed government within its economic orbit. “China’s policy towards Mongolia maintains stability and continuity, and has always placed the development of bilateral relations in an important position in its neighbourhood diplomacy,” Wang said during a meeting with President Ukhnaagiin Khurelsukh on Saturday. “China...",
+          "news_focus_zh": "中國外交部長王毅在週末訪問蒙古時，強調加強兩國之間的跨境交通和貿易聯繫，並表示中國將成為蒙古可以依賴的鄰國。王毅在與蒙古總統庫雷爾蘇赫的會議中指出，中國對蒙古的政策保持穩定性與連續性，並將雙邊關係的發展視為鄰國外交的重要部分。",
+          "background": "蒙古在地緣政治上位於中國與俄羅斯之間，兩國對蒙古的影響力歷來不容小覷。隨著蒙古新政府的成立，中國希望透過加強經濟合作來鞏固其在該國的影響力。中國與蒙古之間的貿易關係在過去幾年中逐漸增強，特別是在資源開發和基礎設施建設方面。王毅的訪問正值蒙古尋求經濟多元化之際，中國的支持對於蒙古的經濟發展至關重要。",
           "stakeholders": [
-            "巴勒斯坦行動支持者",
-            "英國政府",
-            "蘇格蘭地方政府",
-            "人權組織",
-            "社會運動者"
+            "中國政府",
+            "蒙古政府",
+            "蒙古企業",
+            "國際貿易夥伴",
+            "俄羅斯政府"
           ],
-          "analysis": "巴勒斯坦行動的支持者在蘇格蘭的法律鬥爭顯示出當地對於抗議權利的重視，與倫敦的禁令形成對比。這場鬥爭不僅涉及法律層面，還觸及了社會運動與政府政策之間的張力。支持者認為，抗議種族滅絕的權利應受到保護，而政府則可能基於安全考量來維持禁令。這樣的情況可能會引發更廣泛的社會運動，並促使政府重新評估對抗議活動的法律規範。"
+          "analysis": "王毅的訪問顯示出中國希望在蒙古新政府中建立更深的經濟聯繫，這對於兩國的貿易和投資都具有重要意義。中國的政策強調穩定與連續性，這可能會使蒙古在面對外部壓力時，能夠更依賴中國的支持。然而，蒙古在尋求經濟多元化的同時，也可能會面臨來自俄羅斯及其他國家的競爭壓力。參考報導未提供與本則新聞直接相關的補充細節，但強調了政策語言的改善可能對未來外交關係的影響，這在一定程度上反映了蒙古在外交政策上的靈活性與調整需求。"
         },
-        "topic_priority_score": 5,
-        "event_type": "policy_action",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "topic_priority_score": 7,
+        "event_type": "security_event",
+        "supporting_sources": [
+          "Taipei Times"
+        ],
+        "supporting_titles": [
+          "Can AI help us improve policy language?"
+        ],
+        "supporting_summaries": [
+          ""
+        ],
+        "supporting_links": [
+          "https://www.taipeitimes.com/News/editorials/archives/2026/06/14/2003859058"
+        ],
+        "source_count": 2
       }
     ],
     "economy": [
       {
         "category": "economy",
         "source_name": "SCMP World",
-        "title": "Indonesia’s nickel rule changes are spooking Chinese investors",
-        "link": "https://www.scmp.com/week-asia/opinion/article/3356938/indonesias-nickel-rule-changes-are-spooking-chinese-investors?utm_source=rss_feed",
-        "summary": "Chinese investors in Indonesia’s nickel industry recently sent a formal protest letter to President Prabowo Subianto. The message reflects their concerns over Indonesia’s political and economic direction, and the long-term trajectory of Chinese investment and Indonesia’s industrialisation programme will hinge on how Indonesia resolves them. The letter, submitted by the China Chamber of Commerce in Indonesia (CCCI), complained about a series of government policies, including proposed royalty...",
-        "published": "Sat, 13 Jun 2026 07:00:10 +0000",
-        "updated": "Sat, 13 Jun 2026 07:00:10 +0000",
-        "published_at_utc": "2026-06-13T07:00:10+00:00",
-        "id": "https://www.scmp.com/week-asia/opinion/article/3356938/indonesias-nickel-rule-changes-are-spooking-chinese-investors?utm_source=rss_feed",
-        "topic_type": "markets",
+        "title": "Chinese son kowtows to adoptive mum, thanking her for funding medical bills by driving cabs",
+        "link": "https://www.scmp.com/news/people-culture/trending-china/article/3356942/chinese-son-kowtows-adoptive-mum-thanking-her-funding-medical-bills-driving-cabs?utm_source=rss_feed",
+        "summary": "An 18-year-old boy in central China knelt and kowtowed to his adoptive mother after completing the gaokao, thanking her for years of devotion that helped fund his medical treatment. From June 7 to 9, more than 12.9 million candidates sat China’s fiercely competitive national college entrance examination, or gaokao. Among them was Lele, from Xiangyang in Hubei province. Outside the exam venue, his adoptive mother, Ye Huanzhi, waited in a red qipao dress, holding sunflowers and his favourite...",
+        "published": "Sun, 14 Jun 2026 08:00:10 +0000",
+        "updated": "Sun, 14 Jun 2026 08:00:10 +0000",
+        "published_at_utc": "2026-06-14T08:00:10+00:00",
+        "id": "https://www.scmp.com/news/people-culture/trending-china/article/3356942/chinese-son-kowtows-adoptive-mum-thanking-her-funding-medical-bills-driving-cabs?utm_source=rss_feed",
+        "topic_type": "trade_wars",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "Chinese investors in Indonesia’s nickel industry recently sent a formal protest letter to President Prabowo Subianto. The message reflects their concerns over Indonesia’s political and economic direction, and the long-term trajectory of Chinese investment and Indonesia’s industrialisation programme will hinge on how Indonesia resolves them. The letter, submitted by the China Chamber of Commerce in Indonesia (CCCI), complained about a series of government policies, including proposed royalty...",
-          "news_focus_zh": "中國投資者近期向印尼總統普拉博沃·蘇比安托提交了一封正式抗議信，表達對印尼鎳業政策變動的擔憂。這封信由中國駐印尼商會（CCCI）發出，指出政府的一系列政策，包括提議的版稅，可能影響中國在印尼的投資及該國的工業化進程。投資者對印尼的政治與經濟走向感到不安，並希望能獲得更明確的政策指引。",
-          "background": "印尼是全球最大的鎳生產國之一，鎳資源對於電池和不鏽鋼等產業至關重要。隨著全球對電動車和可再生能源需求的增加，印尼的鎳產業吸引了大量外國投資，特別是來自中國的資金。然而，印尼政府近期對鎳產業的政策調整，包括提高稅率和版稅，可能會影響投資者的信心，並對該國的工業化計劃造成影響。中國投資者的抗議信反映出他們對政策不穩定性的擔憂，並希望印尼政府能夠提供更穩定的投資環境。",
+          "news_focus": "An 18-year-old boy in central China knelt and kowtowed to his adoptive mother after completing the gaokao, thanking her for years of devotion that helped fund his medical treatment. From June 7 to 9, more than 12.9 million candidates sat China’s fiercely competitive national college entrance examination, or gaokao. Among them was Lele, from Xiangyang in Hubei province. Outside the exam venue, his adoptive mother, Ye Huanzhi, waited in a red qipao dress, holding sunflowers and his favourite...",
+          "news_focus_zh": "在中國中部的湖北省，18歲的男孩樂樂在完成高考後，向他的養母葉環之跪拜，感謝她多年來的奉獻，幫助他支付醫療費用。高考於6月7日至9日舉行，超過1290萬考生參加。樂樂的養母在考場外身穿紅色旗袍，手持向日葵和他的最愛，等待他的考試結束。",
+          "background": "中國的高考是全國最具競爭力的升學考試之一，對於學生的未來發展至關重要。每年有數百萬考生參加，這不僅是學術能力的考驗，也是家庭經濟狀況的反映。樂樂的故事突顯了養母在他生活中的重要角色，特別是在面對醫療困難時，養母的支持成為他成功的關鍵因素。這一事件也反映了中國社會對於家庭和教育的重視，尤其是在經濟壓力日益增加的背景下。",
           "stakeholders": [
-            "中國投資者",
-            "印尼政府",
-            "中國駐印尼商會",
-            "印尼工業部",
-            "全球鎳市場"
+            "樂樂",
+            "葉環之",
+            "高考考生",
+            "家庭",
+            "社會福利機構"
           ],
-          "analysis": "中國投資者的抗議信顯示出對印尼政策變化的高度關注，這可能會影響雙方的經濟合作。印尼政府若能夠平衡國內政策需求與外資吸引之間的矛盾，將有助於維持投資者信心。另一方面，若政策持續不穩，可能導致中國資金撤出，進而影響印尼的工業化進程及經濟增長。此外，這一事件也反映出中國在印尼的投資策略面臨的挑戰，未來雙方如何協商解決這些問題，將成為關鍵。各方的立場差異在於，印尼政府可能希望透過提高稅收來增強國內產業，而中國投資者則希望維持穩定的投資環境以保障其長期利益。"
+          "analysis": "樂樂的故事不僅是個人感人的經歷，也反映了中國社會中對於教育和家庭支持的價值觀。養母葉環之的角色顯示出在經濟困難中，家庭成員之間的支持與奉獻是多麼重要。隨著中國經濟的變化，越來越多的家庭面臨著教育和醫療費用的雙重壓力，這使得類似的故事更加普遍。這一事件可能引發對於社會福利政策的討論，特別是在如何支持低收入家庭的教育和醫療需求方面。樂樂的成功也可能激勵更多家庭重視教育，並尋求更多的社會支持。"
         },
-        "topic_priority_score": 4,
-        "event_type": "market_repricing",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "The SpaceX factor: Hong Kong stocks face liquidity test from mega IPO",
-        "link": "https://www.scmp.com/business/china-business/article/3356899/spacex-factor-hong-kong-stocks-face-liquidity-test-mega-ipo?utm_source=rss_feed",
-        "summary": "This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble. While the world witnesses a new fundraising record in the coming listing of SpaceX – and the emergence of its CEO Elon Musk as the first-ever trillionaire – Hong Kong stocks face a critical liquidity test, as market enthusiasm reshapes fund flows and recalibrates...",
-        "published": "Fri, 12 Jun 2026 11:00:07 +0000",
-        "updated": "Fri, 12 Jun 2026 11:00:07 +0000",
-        "published_at_utc": "2026-06-12T11:00:07+00:00",
-        "id": "https://www.scmp.com/business/china-business/article/3356899/spacex-factor-hong-kong-stocks-face-liquidity-test-mega-ipo?utm_source=rss_feed",
-        "topic_type": "markets",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble. While the world witnesses a new fundraising record in the coming listing of SpaceX – and the emergence of its CEO Elon Musk as the first-ever trillionaire – Hong Kong stocks face a critical liquidity test, as market enthusiasm reshapes fund flows and recalibrates...",
-          "news_focus_zh": "隨著SpaceX即將進行歷史性的IPO，香港股市面臨流動性考驗。這一事件不僅可能改變中國大陸投資者的策略，還可能影響香港市場及更廣泛的資本流動。Elon Musk的這一千億美元的火箭賭注，將使他成為首位千萬富翁，並創造新的募資紀錄，進一步重塑市場熱情和資金流向。",
-          "background": "SpaceX的IPO被視為全球資本市場的一個重要里程碑，尤其是在香港這個金融中心。香港市場在過去幾年因政治因素和經濟挑戰而受到影響，但隨著更多交易的吸引，市場似乎正在恢復活力。此外，隨著中國大陸投資者對國際市場的興趣增加，香港作為資本流動的樞紐，其角色變得愈發重要。這一背景下，SpaceX的IPO不僅是資金募集的機會，也可能引發資金流向的重大變化。",
-          "stakeholders": [
-            "SpaceX",
-            "香港股市",
-            "中國大陸投資者",
-            "日本投資者",
-            "金融機構"
-          ],
-          "analysis": "此次SpaceX的IPO對香港股市的流動性影響深遠，市場的熱情可能會重新調整資金流向。根據參考報導，隨著日本的SpaceX股票基金停止新資金流入，顯示出投資者對於此類高風險投資的反應可能會有所不同。此外，The Economist報導指出，香港正在吸引更多交易，顯示出其金融活力的回升，這與SpaceX的IPO形成了鮮明的對比。各方利益關係中，投資者希望從SpaceX的成功中獲益，而香港市場則需應對流動性壓力和資金流動的變化。整體而言，這一事件可能會促使香港市場在全球資本流動中重新獲得重要地位。"
-        },
-        "topic_priority_score": 4,
-        "event_type": "rate_decision",
-        "is_major_update": true,
-        "supporting_sources": [
-          "Nikkei Asia",
-          "The Economist"
-        ],
-        "supporting_titles": [
-          "SpaceX stock fund in Japan halts new inflows after investors pile in",
-          "Hong Kong is getting its financial mojo back"
-        ],
-        "supporting_summaries": [
-          "",
-          "The hub is attracting more deals. And more Beijing-style politics"
-        ],
-        "supporting_links": [
-          "https://asia.nikkei.com/business/markets/equities/spacex-stock-fund-in-japan-halts-new-inflows-after-investors-pile-in",
-          "https://www.economist.com/finance-and-economics/2026/02/05/hong-kong-is-getting-its-financial-mojo-back"
-        ],
-        "source_count": 3
-      },
-      {
-        "category": "economy",
-        "source_name": "BBC Business",
-        "title": "UK vows to phase out Russian diesel and jet fuel imports by new year",
-        "link": "https://www.bbc.com/news/articles/ceqdl8xre7qo?at_medium=RSS&at_campaign=rss",
-        "summary": "The ban forms part of the government's package of sanctions on Moscow due to the ongoing war with Ukraine.",
-        "published": "Fri, 12 Jun 2026 19:57:16 GMT",
-        "updated": "Fri, 12 Jun 2026 19:57:16 GMT",
-        "published_at_utc": "2026-06-12T19:57:16+00:00",
-        "id": "https://www.bbc.com/news/articles/ceqdl8xre7qo#0",
-        "topic_type": "sanctions",
-        "relevance_score": 19,
-        "briefing": {
-          "news_focus": "The ban forms part of the government's package of sanctions on Moscow due to the ongoing war with Ukraine.",
-          "news_focus_zh": "英國政府宣布計劃在新年前逐步停止自俄羅斯進口柴油和航空燃料。這項禁令是針對莫斯科的制裁措施之一，旨在回應持續的烏克蘭戰爭，顯示英國在能源政策上對俄羅斯的強硬立場。",
-          "background": "自2022年俄烏戰爭爆發以來，西方國家對俄羅斯實施了一系列經濟制裁，以削弱其戰爭能力。英國作為主要參與國之一，已經在能源領域採取了多項措施，包括限制俄羅斯能源進口。柴油和航空燃料是英國能源需求的重要組成部分，因此禁止這些進口將對俄羅斯的經濟造成進一步打擊，同時也促使英國尋找替代能源來源，以減少對俄羅斯的依賴。",
-          "stakeholders": [
-            "英國政府",
-            "俄羅斯政府",
-            "烏克蘭政府",
-            "能源供應商",
-            "國際市場"
-          ],
-          "analysis": "英國政府的這項禁令反映了其對俄羅斯行為的強烈譴責，並試圖通過經濟手段來施壓。然而，這也可能對英國自身的能源供應造成影響，特別是在冬季需求上升的情況下。英國需要加速尋找其他供應來源，這可能會導致短期內能源價格上漲。此外，這項禁令可能會促使其他國家跟進，進一步孤立俄羅斯經濟。各方對此禁令的反應可能會影響未來的外交關係和能源市場動態，特別是在全球能源供應鏈日益緊張的背景下。"
-        },
-        "topic_priority_score": 8,
+        "topic_priority_score": 9,
         "event_type": "macro_signal",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
         "supporting_links": [],
         "source_count": 1
+      },
+      {
+        "category": "economy",
+        "source_name": "SCMP Business",
+        "title": "China’s AI ‘hundred model’ war shifts to enterprise value, JPMorgan says",
+        "link": "https://www.scmp.com/tech/big-tech/article/3357008/chinas-ai-hundred-model-war-shifts-enterprise-value-jpmorgan-says?utm_source=rss_feed",
+        "summary": "The drive for AI monetisation among Chinese tech companies has become a battle over “delivering measurable business value” rather than raw technical performance, according to Alex Yao, head of China equity research at JPMorgan. China’s AI landscape was rapidly consolidating from a fragmented “hundred-model” battle down to a smaller group of globally competitive leading players, particularly those that could transform consumer-facing features into reliable enterprise-grade infrastructure, Yao...",
+        "published": "Sun, 14 Jun 2026 04:00:17 +0000",
+        "updated": "Sun, 14 Jun 2026 04:00:17 +0000",
+        "published_at_utc": "2026-06-14T04:00:17+00:00",
+        "id": "https://www.scmp.com/tech/big-tech/article/3357008/chinas-ai-hundred-model-war-shifts-enterprise-value-jpmorgan-says?utm_source=rss_feed",
+        "topic_type": "markets",
+        "relevance_score": 19,
+        "briefing": {
+          "news_focus": "The drive for AI monetisation among Chinese tech companies has become a battle over “delivering measurable business value” rather than raw technical performance, according to Alex Yao, head of China equity research at JPMorgan. China’s AI landscape was rapidly consolidating from a fragmented “hundred-model” battle down to a smaller group of globally competitive leading players, particularly those that could transform consumer-facing features into reliable enterprise-grade infrastructure, Yao...",
+          "news_focus_zh": "根據JPMorgan的中國股權研究負責人Alex Yao的說法，中國科技公司在人工智慧（AI）商業化的競爭中，已經從單純的技術性能轉向提供可衡量的商業價值。這一變化標誌著中國的AI市場正從一個分散的「百模戰爭」逐漸整合，形成一小部分具全球競爭力的領導者，特別是那些能將面向消費者的功能轉化為可靠的企業級基礎設施的公司。",
+          "background": "中國的AI產業在過去幾年經歷了快速發展，許多初創公司和大型科技企業紛紛投入資源開發各種AI應用。然而，隨著市場競爭的加劇，僅僅依賴技術創新已無法滿足企業需求。企業用戶越來越重視AI技術的實際商業價值，這促使科技公司必須重新評估其產品和服務的定位。JPMorgan的觀察反映了這一趨勢，指出未來的競爭將集中在能夠提供穩定、可擴展的企業解決方案的公司上。",
+          "stakeholders": [
+            "大型科技公司",
+            "初創企業",
+            "投資者",
+            "企業用戶"
+          ],
+          "analysis": "在這一轉變中，主要利益相關者包括大型科技公司、初創企業、投資者及企業用戶。大型科技公司如阿里巴巴和騰訊，因其資源和技術優勢，可能在這場競爭中佔據主導地位。而初創企業則需要尋找獨特的市場定位，以便在整合過程中生存下來。投資者則會更青睞那些能夠展示實際商業價值的公司，這可能會影響資金的流向。此外，企業用戶的需求也將驅動技術的發展方向，促使科技公司不斷創新以滿足市場需求。整體而言，這一變化不僅影響中國的AI市場，也可能對全球科技生態系統產生深遠影響。"
+        },
+        "topic_priority_score": 4,
+        "event_type": "macro_signal",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "Bran flakes could be classed as junk food under new healthy eating guidelines",
+        "link": "https://www.theguardian.com/business/2026/jun/13/bran-flakes-classed-junk-food-uk-guidelines-to-promote-healthy-eating",
+        "summary": "UK government wants to update rules to include naturally occurring ‘free sugars’ when determining what is unhealthy Bran flakes may be classed as junk food under new government reforms designed to promote healthy eating. Britain has for decades been one of the world’s largest consumers of puffed, flaked and sugared breakfast cereals, despite warnings over the years that they might not be nutritious. Continue reading...",
+        "published": "Sat, 13 Jun 2026 22:55:18 GMT",
+        "updated": "2026-06-13T22:55:18Z",
+        "published_at_utc": "2026-06-13T22:55:18+00:00",
+        "id": "https://www.theguardian.com/business/2026/jun/13/bran-flakes-classed-junk-food-uk-guidelines-to-promote-healthy-eating",
+        "topic_type": "markets",
+        "relevance_score": 19,
+        "briefing": {
+          "news_focus": "UK government wants to update rules to include naturally occurring ‘free sugars’ when determining what is unhealthy Bran flakes may be classed as junk food under new government reforms designed to promote healthy eating. Britain has for decades been one of the world’s largest consumers of puffed, flaked and sugared breakfast cereals, despite warnings over the years that they might not be nutritious. Continue reading...",
+          "news_focus_zh": "英國政府計劃更新健康飲食指導方針，將自然存在的‘自由糖’納入不健康食品的判定標準。這可能導致玉米片被歸類為垃圾食品，儘管英國長期以來是膨化、片狀及含糖早餐穀物的主要消費國，卻也面臨營養價值不足的警告。",
+          "background": "英國的早餐穀物市場歷史悠久，消費者對於膨化及含糖產品的需求持續增長，這也引發了健康專家的擔憂。隨著肥胖率上升和健康意識提高，政府開始重新評估食品標準，以促進更健康的飲食選擇。新的指導方針旨在減少高糖食品的消費，特別是針對兒童的營養政策，這可能會影響市場上許多知名品牌的產品定位。",
+          "stakeholders": [
+            "英國政府",
+            "消費者",
+            "早餐穀物製造商",
+            "健康專家"
+          ],
+          "analysis": "英國政府的這一改革可能會引發多方利益的角力。首先，消費者健康意識的提升使得政府有必要採取行動，但這也可能影響到早餐穀物製造商的銷售和品牌形象。若玉米片被標記為垃圾食品，可能會促使消費者轉向其他更健康的選擇，進一步影響市場結構。此外，製造商可能會面臨重新調整產品配方以符合新標準的壓力。參考報導未提供與此事件直接相關的細節，因此無法進一步補充分析。"
+        },
+        "topic_priority_score": 4,
+        "event_type": "market_repricing",
+        "supporting_sources": [
+          "The Economist"
+        ],
+        "supporting_titles": [
+          "The new economics of babymaking"
+        ],
+        "supporting_summaries": [
+          "A postcard from one of America’s youngest towns"
+        ],
+        "supporting_links": [
+          "https://www.economist.com/finance-and-economics/2025/10/16/the-new-economics-of-babymaking"
+        ],
+        "source_count": 2
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
-        "title": "Anthropic suspends new AI tools over US government security concerns",
-        "link": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC World",
-        "published_at_utc": "2026-06-13T03:54:01+00:00",
-        "relevance_score": 21
+        "title": "US blocks foreign access to Anthropic’s newest AI models over security risks",
+        "link": "https://www.scmp.com/tech/article/3356990/us-blocks-foreign-access-anthropics-newest-ai-models-over-security-risks?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-13T05:06:27+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+        "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-06-14T00:03:49+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+        "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-06-13T19:11:41+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
+        "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-06-13T11:00:00+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Why SpaceX may not be a model for Chinese companies to copy",
+        "link": "https://www.scmp.com/news/china/science/article/3357013/why-spacex-may-not-be-model-chinese-companies-copy?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-13T12:11:19+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "Chinese team flags life-threatening ‘glaring weakness’ in Nasa’s Artemis programme",
+        "link": "https://www.scmp.com/news/china/science/article/3356839/chinese-team-flags-life-threatening-glaring-weakness-nasas-artemis-programme?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-13T12:00:07+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "OpenAI faces investigation from state attorneys general",
+        "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-06-13T16:47:18+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "My first 24 hours with Siri AI on the Mac",
+        "link": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-06-13T15:00:00+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "My yard is dying, so I made an app for that",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-06-13T13:00:00+00:00",
+        "relevance_score": 13
       },
       {
         "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
         "link": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
         "source_name": "Wired",
         "published_at_utc": "2026-06-13T02:26:10+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Palantir loses legal challenge to force Swiss magazine to publish responses",
-        "link": "https://www.theguardian.com/technology/2026/jun/13/palantir-loses-legal-challenge-to-force-swiss-magazine-to-publish-rejoinders",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-12T23:12:45+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
-        "link": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-06-13T03:00:34+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "China Didn’t Make Americans Hate Data Centers",
-        "link": "https://www.wired.com/story/china-us-data-center-opposition/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-06-12T17:17:10+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
-        "link": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-06-12T16:34:36+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-        "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-13T02:26:30+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines",
-        "link": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-06-12T15:03:52+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "SpaceX to list on US stock market at historic $1.77tn valuation",
-        "link": "https://www.theguardian.com/science/2026/jun/12/spacex-stock-price-ipo-spcx",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-12T20:36:41+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "Who pays when rockets explode? China insures SpaceX’s rivals in orbital race against US",
-        "link": "https://www.scmp.com/tech/article/3356718/who-pays-when-rockets-explode-china-insures-spacexs-rivals-orbital-race-against-us?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-11T11:30:07+00:00",
-        "relevance_score": 14
+        "relevance_score": 13
       }
     ],
     "politics": [
       {
-        "title": "West Asia war LIVE: Lebanon reports Israeli strikes in south after evacuation warning",
-        "link": "https://www.thehindu.com/news/international/west-asia-war-donald-trump-usa-iran-ceasefire-israel-lebanon-attacks-strait-of-hormuz-june-13-2026/article71096410.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-13T09:31:13+00:00",
-        "relevance_score": 22
+        "title": "China builds Southeast Asia expertise as US lets it wither",
+        "link": "https://www.scmp.com/week-asia/opinion/article/3356939/china-builds-southeast-asia-expertise-us-lets-it-wither?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-14T05:30:05+00:00",
+        "relevance_score": 21
       },
       {
-        "title": "Indians grieve and demand action after US strike kills sailors",
-        "link": "https://www.scmp.com/news/asia/south-asia/article/3356980/indians-grieve-and-demand-action-after-us-strike-kills-sailors?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-12T23:38:57+00:00",
+        "title": "Trump to meet Modi on the sidelines of the G-7 summit, U.S. officials say",
+        "link": "https://www.thehindu.com/news/international/trump-to-meet-modi-onthe-sidelines-of-the-g-7-summit-us-officials-say/article71098389.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-14T03:41:07+00:00",
         "relevance_score": 20
       },
       {
-        "title": "China arrests US academic at conference for ‘espionage activities’",
-        "link": "https://www.theguardian.com/world/2026/jun/12/china-arrests-us-academic-min-zin-espionage",
+        "title": "Zelenskyy thanks UK for intercepting Russian shadow fleet oil tanker after armed forces board vessel in English Channel - UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/jun/14/russian-shadow-fleet-oil-tanker-channel-army-marines-keir-starmer-dan-jarvis-makerfield-labour-uk-politics-latest-news-updates",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-12T10:27:08+00:00",
-        "relevance_score": 20
+        "published_at_utc": "2026-06-14T10:26:17+00:00",
+        "relevance_score": 18
       },
       {
-        "title": "Why Japan’s Russia outreach could fuel G7 concern over unity: ‘bad signal’",
-        "link": "https://www.scmp.com/week-asia/politics/article/3356929/why-japans-russia-outreach-could-fuel-g7-concern-over-unity-bad-signal?utm_source=rss_feed",
+        "title": "British armed forces intercept Russian shadow fleet oil tanker in Channel",
+        "link": "https://www.theguardian.com/uk-news/2026/jun/14/british-forces-intercept-russian-shadow-fleet-vessel-english-channel",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-14T10:23:34+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Middle East crisis live: Trump says Iran deal will be signed today but sources tell media Tehran ‘not yet’ taken final decision",
+        "link": "https://www.theguardian.com/world/live/2026/jun/14/iran-us-middle-east-crisis-donald-trump-peace-deal-strait-hormuz-open-pakistan-latest-news-updates",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-14T10:21:04+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Germany pledges to build Europe's strongest army as NATO allies answer Trump pressure",
+        "link": "https://www.foxnews.com/world/germany-pledges-build-europes-strongest-army-nato-allies-answer-trump-pressure",
+        "source_name": "Fox News World",
+        "published_at_utc": "2026-06-14T10:00:23+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Ukraine and Moldova to enter first phase of EU membership negotiations",
+        "link": "https://www.theguardian.com/world/2026/jun/14/ukraine-and-moldova-start-first-phase-of-eu-membership-negotiations",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-14T09:33:32+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Could India’s viral Cockroach Janta Party spark South Asia’s next youth uprising?",
+        "link": "https://www.scmp.com/week-asia/politics/article/3356962/could-indias-viral-cockroach-janta-party-spark-south-asias-next-youth-uprising?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-06-13T01:30:13+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Why a tiny river on Russia’s border tests China’s ties with Kim Jong-un",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3356890/why-tiny-river-russias-border-tests-chinas-ties-kim-jong-un?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-12T15:00:06+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "The US border runs straight through the World Cup",
-        "link": "https://www.aljazeera.com/opinions/2026/6/13/the-us-border-runs-straight-through-the-world-cup?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-13T09:56:42+00:00",
+        "published_at_utc": "2026-06-14T08:00:16+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Lebanon reports Israeli strikes in south after evacuation warning",
-        "link": "https://www.thehindu.com/news/international/lebanon-reports-israeli-strikes-in-south-after-evacuation-warning/article71097122.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-13T09:38:51+00:00",
+        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+        "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-06-14T07:55:16+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Topuria shoves Gaethje by Lincoln Memorial ahead of White House UFC event",
-        "link": "https://www.aljazeera.com/sports/2026/6/13/topuria-shoves-gaethje-by-lincoln-memorial-ahead-of-white-house-ufc-event?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-13T08:14:40+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Separated by the Gaza war, a Palestinian yearns to see his family again",
-        "link": "https://www.aljazeera.com/features/longform/2026/6/13/separated-by-the-gaza-war-a-palestinian-yearns-to-see-his-family-again?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-13T08:04:03+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "EU agrees to launch membership talks with Ukraine next week even as war with Russia drags on",
-        "link": "https://www.thehindu.com/news/international/eu-agrees-to-launch-membership-talks-with-ukraine-next-week-even-as-war-with-russia-drags-on/article71096646.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-13T07:44:18+00:00",
+        "title": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
+        "link": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-06-14T06:39:29+00:00",
         "relevance_score": 18
       }
     ],
@@ -537,70 +538,70 @@
         "link": "https://www.scmp.com/business/china-business/article/3356885/why-gold-may-rebound-13-year-and-what-could-hold-it-back?utm_source=rss_feed",
         "source_name": "SCMP Business",
         "published_at_utc": "2026-06-13T01:30:09+00:00",
-        "relevance_score": 23
+        "relevance_score": 17
       },
       {
-        "title": "US consumer sentiment improves in June due to easing gas prices",
-        "link": "https://www.theguardian.com/business/2026/jun/12/consumer-sentiment-june-data-gas-prices",
+        "title": "The SpaceX factor: Hong Kong stocks face liquidity test from mega IPO",
+        "link": "https://www.scmp.com/business/china-business/article/3356899/spacex-factor-hong-kong-stocks-face-liquidity-test-mega-ipo?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-12T11:00:07+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "London startup to trial drug to prevent cancer therapy side-effect ‘cytokine storm’",
+        "link": "https://www.theguardian.com/business/2026/jun/14/london-trial-drug-prevent-cancer-cytokine-storm-poolbeg-pharma",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-12T16:23:00+00:00",
-        "relevance_score": 19
+        "published_at_utc": "2026-06-14T10:00:41+00:00",
+        "relevance_score": 14
       },
       {
-        "title": "Liberals are scaring first home buyers with warnings of negative equity – but experts believe there’s little to worry about",
-        "link": "https://www.theguardian.com/australia-news/2026/jun/13/liberals-are-scaring-first-home-buyers-with-warnings-of-negative-equity-but-experts-believe-theres-little-to-worry-about",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-12T15:00:51+00:00",
-        "relevance_score": 19
+        "title": "‘I should know better’: tech expert lost £70,000 in one simple phone call",
+        "link": "https://www.theguardian.com/money/2026/jun/14/i-should-know-better-tech-expert-lost-70000-in-one-simple-phone-call",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-14T06:00:36+00:00",
+        "relevance_score": 14
       },
       {
         "title": "China’s chip design software firms back Huawei’s new scaling law. But can they catch US rivals?",
         "link": "https://www.scmp.com/tech/big-tech/article/3356853/chinas-chip-software-firms-back-huaweis-new-scaling-law-can-they-catch-us-rivals?utm_source=rss_feed",
         "source_name": "SCMP Business",
         "published_at_utc": "2026-06-12T10:54:32+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Philippine Defense Secretary Vows to Defend Nation’s Interests After China Sanctions",
-        "link": "https://thediplomat.com/2026/06/philippine-defense-secretary-vows-to-defend-nations-interests-after-china-sanctions/",
-        "source_name": "The Diplomat",
-        "published_at_utc": "2026-06-12T04:52:00+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Innovation and integration are evolving the GBA from a safe harbour to a global contender",
-        "link": "https://www.scmp.com/presented/business/topics/greater-bay-area-ceo-forum/article/3356449/innovation-and-integration-are-evolving-gba-safe-harbour-global-contender?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-11T16:00:09+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "How doing a wash while you watch the World Cup at 2am could cut energy bills",
-        "link": "https://www.theguardian.com/money/2026/jun/13/how-doing-a-wash-while-you-watch-the-world-cup-at-2am-could-cut-energy-bills",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-13T06:00:07+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "J&T faces risk of tougher penalties, higher costs as China opens formal safety probe",
-        "link": "https://www.scmp.com/business/china-business/article/3356716/china-initiates-probe-jt-express-over-safety-management-failures?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-11T06:09:41+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "‘Not a crackdown’: China regulators signal more neutral enforcement in shift from 2021",
-        "link": "https://www.scmp.com/economy/china-economy/article/3356909/not-crackdown-china-regulators-signal-more-neutral-enforcement-shift-2021?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-12T09:14:31+00:00",
         "relevance_score": 13
       },
       {
-        "title": "Has the US really carried out a secret mission to get oil through Hormuz?",
-        "link": "https://www.theguardian.com/world/2026/jun/12/us-secret-mission-oil-hormuz-trump-iran-blockade",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-12T07:00:39+00:00",
+        "title": "SpaceX stock fund in Japan halts new inflows after investors pile in",
+        "link": "https://asia.nikkei.com/business/markets/equities/spacex-stock-fund-in-japan-halts-new-inflows-after-investors-pile-in",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
         "relevance_score": 13
+      },
+      {
+        "title": "South Korean stocks close up 4.6% as hopes rise for US-Iran deal",
+        "link": "https://asia.nikkei.com/business/markets/south-korean-stocks-close-up-4.6-as-hopes-rise-for-us-iran-deal",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
+        "relevance_score": 13
+      },
+      {
+        "title": "Indian investors lose faith in growth story as market returns stall",
+        "link": "https://asia.nikkei.com/business/markets/indian-investors-lose-faith-in-growth-story-as-market-returns-stall",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
+        "relevance_score": 13
+      },
+      {
+        "title": "British armed forces intercept Russian shadow fleet oil tanker in Channel",
+        "link": "https://www.theguardian.com/uk-news/2026/jun/14/british-forces-intercept-russian-shadow-fleet-vessel-english-channel",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-14T10:23:34+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "From stadium seats to hotel suites, World Cup fever sweeps Chinese travellers",
+        "link": "https://www.scmp.com/business/article/3357038/stadium-seats-hotel-suites-world-cup-fever-sweeps-chinese-travellers?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-14T08:00:20+00:00",
+        "relevance_score": 12
       }
     ]
   },
