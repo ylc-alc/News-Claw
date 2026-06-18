@@ -1,58 +1,58 @@
 {
-  "generated_at_utc": "2026-06-17T12:09:45.324146+00:00",
+  "generated_at_utc": "2026-06-18T11:44:30.049362+00:00",
   "summary": {
-    "total_raw_items": 1064,
-    "total_deduped_items": 1047,
+    "total_raw_items": 1071,
+    "total_deduped_items": 1055,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "cybersecurity",
         "ai",
+        "chips",
         "cybersecurity"
       ],
       "politics": [
-        "social_protests",
         "diplomacy",
-        "us_politics"
+        "eu_policy",
+        "diplomacy"
       ],
       "economy": [
-        "inflation",
-        "sanctions",
-        "inflation"
+        "interest_rates",
+        "interest_rates",
+        "sanctions"
       ]
     },
-    "multi_source_selected_count": 2
+    "multi_source_selected_count": 3
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "SCMP World",
-        "title": "Data leak fears after ransomware attack hits Hong Kong’s Kee Wah Bakery",
-        "link": "https://www.scmp.com/news/hong-kong/society/article/3357366/data-leak-fears-after-ransomware-attack-hits-hong-kongs-kee-wah-bakery?utm_source=rss_feed",
-        "summary": "A major bakery chain has been hit by a ransomware attack on its internal network, prompting Hong Kong’s privacy watchdog to seek details to assess the risk of a potential data leak. Kee Wah Bakery, known for its local and Chinese pastries, revealed the incident on Tuesday, after its internal network malfunctioned on Friday last week. A preliminary investigation found that a ransomware attack had targeted its system, which contains employees’ personal data as well as information related to...",
-        "published": "Wed, 17 Jun 2026 03:01:09 +0000",
-        "updated": "Wed, 17 Jun 2026 03:01:09 +0000",
-        "published_at_utc": "2026-06-17T03:01:09+00:00",
-        "id": "https://www.scmp.com/news/hong-kong/society/article/3357366/data-leak-fears-after-ransomware-attack-hits-hong-kongs-kee-wah-bakery?utm_source=rss_feed",
-        "topic_type": "cybersecurity",
+        "source_name": "The Hindu International",
+        "title": "Elon Musk's AI tool Grok was used in strikes against Iran, says U.S. government",
+        "link": "https://www.thehindu.com/sci-tech/technology/elon-musks-ai-tool-grok-was-used-in-strikes-against-iran-says-us-government/article71111925.ece",
+        "summary": "At the end of February, the U.S. government terminated its contracts with Anthropic after it refused to allow its tools to be used for fully automated strikes or the mass surveillance of Americans",
+        "published": "Thu, 18 Jun 2026 16:46:39 +0530",
+        "updated": "Thu, 18 Jun 2026 16:46:39 +0530",
+        "published_at_utc": "2026-06-18T11:16:39+00:00",
+        "id": "article-71111925",
+        "topic_type": "ai",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "A major bakery chain has been hit by a ransomware attack on its internal network, prompting Hong Kong’s privacy watchdog to seek details to assess the risk of a potential data leak. Kee Wah Bakery, known for its local and Chinese pastries, revealed the incident on Tuesday, after its internal network malfunctioned on Friday last week. A preliminary investigation found that a ransomware attack had targeted its system, which contains employees’ personal data as well as information related to...",
-          "news_focus_zh": "香港知名的奇華餅家遭遇了一次勒索病毒攻擊，導致其內部網絡出現故障。該事件於上週五發生，並在本週二被公開。奇華餅家表示，初步調查顯示攻擊者針對其系統進行了入侵，該系統中儲存了員工的個人資料及其他相關信息。隨著事件的發展，香港的隱私監察機構已要求該公司提供詳細信息，以評估潛在的數據洩露風險。",
-          "background": "奇華餅家是香港著名的糕點連鎖品牌，以其本地及中式糕點聞名。隨著數位化進程的加快，企業內部網絡的安全性日益受到關注。勒索病毒攻擊在全球範圍內愈發頻繁，尤其是針對中小型企業，因為這些企業往往在資安防護上相對薄弱。香港的隱私監察機構在此背景下，對企業的數據保護措施進行了更為嚴格的監管，尤其是在數據洩露事件發生後，對企業的責任與透明度提出了更高要求。",
+          "news_focus": "At the end of February, the U.S. government terminated its contracts with Anthropic after it refused to allow its tools to be used for fully automated strikes or the mass surveillance of Americans",
+          "news_focus_zh": "美國政府指出，Elon Musk的AI工具Grok在對伊朗的攻擊行動中被使用。這一消息引發了對AI技術在軍事應用中倫理性的討論。美國政府在二月底終止了與Anthropic的合約，因為該公司拒絕允許其工具用於完全自動化的攻擊或對美國人的大規模監控。",
+          "background": "在當前的國際安全環境中，AI技術的應用越來越受到重視，特別是在軍事領域。美國政府對於AI在軍事行動中的使用持謹慎態度，尤其是在涉及自動化武器系統的情況下。Anthropic作為一家專注於AI安全的公司，其拒絕讓其工具用於自動化攻擊，反映了業界對於AI倫理的高度關注。這一事件也顯示出政府與科技公司之間在技術應用上的緊張關係，特別是在涉及國家安全的議題上。",
           "stakeholders": [
-            "奇華餅家",
-            "香港隱私監察機構",
-            "員工",
-            "顧客",
-            "資安專家"
+            "美國政府",
+            "Elon Musk",
+            "Anthropic",
+            "軍事承包商",
+            "AI倫理倡導者"
           ],
-          "analysis": "此次勒索病毒攻擊對奇華餅家而言，不僅是技術上的挑戰，還可能影響其品牌形象及顧客信任。香港的隱私監察機構介入調查，顯示出對數據保護的重視，並可能對奇華餅家施加更嚴格的監管措施。若數據洩露情況屬實，將對公司造成法律及財務上的後果。此外，這一事件也可能引發其他企業對於自身網絡安全的重新評估，促使更多企業加強資安防護。隨著事件的進一步發展，市場對於奇華餅家的反應及其後續應對措施將成為關注焦點。"
+          "analysis": "此次事件揭示了美國政府與科技公司之間的複雜互動。美國政府希望利用AI技術提升軍事效率，但同時也必須考量倫理與法律的界限。Grok的使用引發了對於AI在軍事行動中角色的質疑，尤其是在自動化攻擊的可接受性方面。Anthropic的拒絕顯示出科技公司對於其技術可能帶來的後果的擔憂，並可能影響未來政府與私營部門在AI應用上的合作模式。隨著AI技術的快速發展，未來可能會出現更多類似的爭議，特別是在軍事與監控的交集處。"
         },
         "topic_priority_score": 9,
-        "event_type": "regulation_action",
+        "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -61,30 +61,30 @@
       },
       {
         "category": "technology",
-        "source_name": "Nikkei Asia",
-        "title": "SoftBank launches OpenAI cybersecurity in Japan as US restricts rival model",
-        "link": "https://asia.nikkei.com/spotlight/cybersecurity/softbank-launches-openai-cybersecurity-in-japan-as-us-restricts-rival-model",
-        "summary": "",
-        "published": "",
-        "updated": "",
-        "published_at_utc": "",
-        "id": "https://asia.nikkei.com/spotlight/cybersecurity/softbank-launches-openai-cybersecurity-in-japan-as-us-restricts-rival-model",
-        "topic_type": "ai",
+        "source_name": "SCMP World",
+        "title": "As ByteDance spends billions on AI, which Chinese chip start-ups stand to gain?",
+        "link": "https://www.scmp.com/tech/article/3357545/bytedance-spends-billions-ai-which-chinese-chip-start-ups-stand-gain?utm_source=rss_feed",
+        "summary": "As Chinese technology giant ByteDance accelerates its shift towards domestic chips for artificial intelligence workloads, a few smaller domestic suppliers stand to benefit – if they can deliver at scale amid a void left by Nvidia due to regulatory hurdles. The Beijing-based owner of TikTok is considering turning to a handful of so-called tier-two chipmakers in China – smaller rivals to Huawei Technologies and Cambricon Technologies – for its cloud infrastructure, according to sources and...",
+        "published": "Thu, 18 Jun 2026 08:11:42 +0000",
+        "updated": "Thu, 18 Jun 2026 08:11:42 +0000",
+        "published_at_utc": "2026-06-18T08:11:42+00:00",
+        "id": "https://www.scmp.com/tech/article/3357545/bytedance-spends-billions-ai-which-chinese-chip-start-ups-stand-gain?utm_source=rss_feed",
+        "topic_type": "chips",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "SoftBank launches OpenAI cybersecurity in Japan as US restricts rival model",
-          "news_focus_zh": "日本軟銀集團（SoftBank）推出了基於OpenAI技術的網絡安全解決方案，這一舉措正值美國對競爭對手的模型實施限制之際。此舉顯示出軟銀在全球科技競爭中的積極布局，尤其是在網絡安全領域的發展。",
-          "background": "隨著數位化進程加速，網絡安全成為各國政府和企業的重中之重。日本在這方面的需求日益增加，尤其是在面對日益增長的網絡攻擊威脅時。OpenAI作為人工智能領域的領頭羊，其技術被廣泛應用於各種行業，包括網絡安全。美國近期對某些競爭對手的限制措施，可能促使其他國家和企業加速採用OpenAI的技術，以維持其在全球市場的競爭力。",
+          "news_focus": "As Chinese technology giant ByteDance accelerates its shift towards domestic chips for artificial intelligence workloads, a few smaller domestic suppliers stand to benefit – if they can deliver at scale amid a void left by Nvidia due to regulatory hurdles. The Beijing-based owner of TikTok is considering turning to a handful of so-called tier-two chipmakers in China – smaller rivals to Huawei Technologies and Cambricon Technologies – for its cloud infrastructure, according to sources and...",
+          "news_focus_zh": "中國科技巨頭字節跳動（ByteDance）正在加速向國產芯片轉型，以滿足其人工智慧（AI）工作負載的需求。由於英偉達（Nvidia）面臨監管障礙，字節跳動考慮向一些較小的中國二級芯片製造商尋求支持，這些製造商是華為技術（Huawei Technologies）和寒武紀科技（Cambricon Technologies）的競爭對手，可能會從中受益。",
+          "background": "隨著中國政府推動科技自主化，特別是在半導體產業方面，字節跳動的轉型反映了更廣泛的市場趨勢。中國對外部技術依賴的減少，尤其是在AI和雲計算領域，促使企業尋求本土解決方案。字節跳動作為一家領先的科技公司，其對國產芯片的需求增加，將可能促進中國芯片初創企業的發展，尤其是在面對外部供應商如英偉達的挑戰時。",
           "stakeholders": [
-            "SoftBank",
-            "OpenAI",
-            "日本企業",
-            "美國政府",
-            "網絡安全專家"
+            "字節跳動",
+            "二級芯片製造商",
+            "英偉達",
+            "華為技術",
+            "寒武紀科技"
           ],
-          "analysis": "軟銀推出基於OpenAI的網絡安全解決方案，顯示其在日本市場的策略調整，旨在利用OpenAI的先進技術提升網絡安全防護能力。此舉可能吸引更多企業和政府機構的關注，尤其是在美國限制競爭對手的背景下，軟銀的行動可能被視為一種市場機會。然而，這也可能引發對於數據安全和隱私的擔憂，因為OpenAI的技術在某些情況下可能涉及敏感數據的處理。未來，隨著市場需求的變化，軟銀可能需要調整其產品策略，以應對不斷變化的網絡安全威脅和政策環境。"
+          "analysis": "字節跳動的策略轉變可能會對中國的半導體生態系統產生深遠影響。由於英偉達的監管障礙，市場上出現了對國產芯片的需求空缺，這為中國的二級芯片製造商提供了機會。然而，這些小型供應商需要克服規模生產的挑戰，以滿足字節跳動的需求。各方利益關係中，字節跳動希望降低對外部供應商的依賴，而二級芯片製造商則希望借此機會擴大市場份額。若這些小型企業能成功交付，將有助於提升中國在全球半導體市場的競爭力。"
         },
-        "topic_priority_score": 9,
+        "topic_priority_score": 10,
         "event_type": "regulation_action",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -95,28 +95,30 @@
       {
         "category": "technology",
         "source_name": "The Guardian Business",
-        "title": "‘Tax break tart’: hospitality tipped to exploit summer VAT cut on children’s meals",
-        "link": "https://www.theguardian.com/business/2026/jun/17/hospitality-exploits-summer-vat-cut-kids-meals",
-        "summary": "As bosses ridicule the chancellor’s scheme, one venue is offering a £25 ‘kids’ menu of snails and anchovy butter toast Restaurants and pubs are expected to devise “enterprising” schemes to exploit a tax break on meals for under-18s, after one venue launched a menu for “kids” featuring wild burgundy snail salad and anchovy butter toast. Rachel Reeves last month announced a temporary cut in VAT on children’s meals from 20% to 5% between 25 June and 1 September, part of a “Great British summer savings scheme ” to support struggling venues and ease pressure on families. Continue reading...",
-        "published": "Wed, 17 Jun 2026 06:00:24 GMT",
-        "updated": "2026-06-17T06:00:24Z",
-        "published_at_utc": "2026-06-17T06:00:24+00:00",
-        "id": "https://www.theguardian.com/business/2026/jun/17/hospitality-exploits-summer-vat-cut-kids-meals",
+        "title": "Gig workers are endlessly exploited. AI could make more of us share their fate",
+        "link": "https://www.theguardian.com/technology/2026/jun/18/ai-threatens-gig-work-rise",
+        "summary": "As companies integrate AI and hire fewer employees, a shift toward a ‘gig economy’ will commence In 2024, the buy-now-pay-later company Klarna announced that it would cut hundreds of customer service roles and begin using an artificial intelligence chatbot instead. The move was expected to save the company millions. But a year later, after customers complained about the degraded quality of customer service, Klarna began to quietly recruit human customer service agents back. At first glance, the reversal appeared to be a victory for human workers in the age of AI. The reality was more complex. Instead of bringing on full-time customer service agents, who Klarna contracts through an outside agency, it instead brought on workers in what Klarna CEO Sebastian Siemiatkowski has described as “an Uber type of set-up”. Now, an AI chatbot continues to handle most of customers’ basic queries, while a growing number of gig workers handle the more advanced ones. “Just like somebody can go and drive an Uber for a while, they can actually jump on and work for Klarna’s customer service,” Siemiatkowski said on a podcast in February. Continue reading...",
+        "published": "Thu, 18 Jun 2026 08:00:00 GMT",
+        "updated": "2026-06-18T08:00:00Z",
+        "published_at_utc": "2026-06-18T08:00:00+00:00",
+        "id": "https://www.theguardian.com/technology/2026/jun/18/ai-threatens-gig-work-rise",
         "topic_type": "cybersecurity",
-        "relevance_score": 19,
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "As bosses ridicule the chancellor’s scheme, one venue is offering a £25 ‘kids’ menu of snails and anchovy butter toast Restaurants and pubs are expected to devise “enterprising” schemes to exploit a tax break on meals for under-18s, after one venue launched a menu for “kids” featuring wild burgundy snail salad and anchovy butter toast. Rachel Reeves last month announced a temporary cut in VAT on children’s meals from 20% to 5% between 25 June and 1 September, part of a “Great British summer savings scheme ” to support struggling venues and ease pressure on families. Continue reading...",
-          "news_focus_zh": "英國財相宣布自6月25日至9月1日，針對18歲以下兒童的餐飲VAT將從20%降至5%，以支持餐飲業並減輕家庭負擔。隨著這項政策的推出，餐廳和酒吧預計將推出創新菜單以利用這項稅收優惠，其中一間餐廳已推出包含野生勃艮第蝸牛沙拉和鯷魚奶油吐司的25英鎊兒童菜單，受到業界的嘲諷。",
-          "background": "此次VAT減免是英國政府為應對經濟困境而推出的臨時措施，旨在刺激餐飲業的復甦並減輕家庭的經濟壓力。隨著疫情後的經濟恢復，許多餐廳面臨營運困難，因此政府希望透過這種方式吸引更多家庭外出就餐。同時，這也反映出政府在促進消費和支持小型企業方面的政策取向，尤其是在夏季旅遊高峰期。",
+          "news_focus": "As companies integrate AI and hire fewer employees, a shift toward a ‘gig economy’ will commence In 2024, the buy-now-pay-later company Klarna announced that it would cut hundreds of customer service roles and begin using an artificial intelligence chatbot instead. The move was expected to save the company millions. But a year later, after customers complained about the degraded quality of customer service, Klarna began to quietly recruit human customer service agents back. At first glance, the reversal appeared to be a victory for human workers in the age of AI. The reality was more complex. Instead of bringing on full-time customer service agents, who Klarna contracts through an outside agency, it instead brought on workers in what Klarna CEO Sebastian Siemiatkowski has described as “an Uber type of set-up”. Now, an AI chatbot continues to handle most of customers’ basic queries, while a growing number of gig workers handle the more advanced ones. “Just like somebody can go and drive an Uber for a while, they can actually jump on and work for Klarna’s customer service,” Siemiatkowski said on a podcast in February. Continue reading...",
+          "news_focus_zh": "Klarna宣布將裁減數百名客戶服務人員，並以人工智慧聊天機器人取而代之，預計可為公司節省數百萬美元。然而，隨著顧客對服務品質的抱怨增加，Klarna開始悄悄地重新招募人力，但並非全職員工，而是以類似Uber的方式聘用臨時工，這使得更多人可能面臨類似於零工經濟的命運。",
+          "background": "隨著人工智慧技術的快速發展，越來越多的企業選擇自動化其客戶服務流程，這一趨勢在疫情後更為明顯。Klarna作為一家買後付款的金融科技公司，面臨著成本控制的壓力，因此選擇使用AI來取代傳統的客服人員。這一決策反映了當前市場對於靈活用工模式的需求增加，尤其是在科技驅動的業務環境中，企業希望通過降低固定成本來提高競爭力。",
           "stakeholders": [
-            "英國政府",
-            "餐飲業者",
-            "家庭消費者"
+            "Klarna",
+            "客戶",
+            "零工工作者",
+            "消費者權益組織",
+            "科技公司"
           ],
-          "analysis": "此次VAT減免政策引發了餐飲業的廣泛關注，許多業者可能會利用這一機會推出創新菜單以吸引家庭顧客。然而，部分業者對此政策持批評態度，認為這樣的措施可能無法根本解決餐飲業的長期困境。從新聞中可見，某些餐廳的創意菜單甚至引發了業界的嘲諷，顯示出對這項政策的不同看法。未來，若此政策能有效提升消費，則可能促進餐飲業的復甦；反之，若無法吸引足夠顧客，則可能導致業者對政府政策的不滿與反彈。"
+          "analysis": "Klarna的這一決策引發了對於零工經濟未來的擔憂。雖然重新招募人力似乎是一種對顧客反饋的回應，但實際上，這些新聘用的工人並非全職，而是以靈活的方式工作，這意味著他們的工作保障和福利將大幅降低。這種模式可能會導致更多的勞動者面臨不穩定的工作狀況，並加劇社會對於勞動權益的討論。Klarna的CEO提到的“Uber型設置”顯示出企業在追求成本效益的同時，可能會忽視員工的長期福祉，這在未來可能引發更大的社會反彈。"
         },
         "topic_priority_score": 9,
-        "event_type": "product_launch",
+        "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -128,60 +130,25 @@
       {
         "category": "politics",
         "source_name": "SCMP World",
-        "title": "Hong Kong’s top court rejects challenge to law banning calls for election boycotts",
-        "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357403/hong-kongs-top-court-rejects-challenge-law-banning-calls-election-boycotts?utm_source=rss_feed",
-        "summary": "Hong Kong’s top court has dismissed a legal challenge against a law barring calls to boycott the city’s “patriots-only” elections, ruling that the prohibition is necessary to counter “organised campaigns” seeking to undermine the establishment following the enactment of the national security law. In a judgment delivered on Wednesday, five Court of Final Appeal judges unanimously found that criminalising incitement to undermine elections was essential to further Beijing’s objective of ensuring...",
-        "published": "Wed, 17 Jun 2026 07:25:14 +0000",
-        "updated": "Wed, 17 Jun 2026 07:25:14 +0000",
-        "published_at_utc": "2026-06-17T07:25:14+00:00",
-        "id": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3357403/hong-kongs-top-court-rejects-challenge-law-banning-calls-election-boycotts?utm_source=rss_feed",
-        "topic_type": "social_protests",
-        "relevance_score": 24,
-        "briefing": {
-          "news_focus": "Hong Kong’s top court has dismissed a legal challenge against a law barring calls to boycott the city’s “patriots-only” elections, ruling that the prohibition is necessary to counter “organised campaigns” seeking to undermine the establishment following the enactment of the national security law. In a judgment delivered on Wednesday, five Court of Final Appeal judges unanimously found that criminalising incitement to undermine elections was essential to further Beijing’s objective of ensuring...",
-          "news_focus_zh": "香港最高法院駁回了一項法律挑戰，該挑戰針對禁止呼籲抵制該市“愛國者專屬”選舉的法律。法院裁定，這項禁令是為了對抗有組織的運動，旨在削弱政府，並強調這一措施對於推進北京確保國家安全法後的目標至關重要。五位終審法院法官一致認為，將煽動破壞選舉的行為定為犯罪是必要的。",
-          "background": "香港的選舉制度在過去幾年經歷了重大變化，特別是在國家安全法實施後，政府加強了對政治活動的監管。該法律要求參選者必須是“愛國者”，並禁止任何形式的選舉抵制行為。這一政策的背景是北京希望確保香港的政治環境穩定，防止任何可能挑戰中央政府權威的行為。這一法律的通過引發了廣泛的爭議，許多批評者認為這是對民主自由的侵蝕。",
-          "stakeholders": [
-            "香港政府",
-            "中國中央政府",
-            "香港選民",
-            "人權組織",
-            "法律界"
-          ],
-          "analysis": "此次裁決反映了香港司法系統在國家安全法框架下的運作，並顯示出法院對於維護政府政策的支持。支持者認為，這是維護社會穩定和國家安全的必要措施，而反對者則擔心這進一步削弱了民主參與和言論自由。未來，隨著選舉的臨近，政府可能會加強對政治活動的監控，這可能導致更多的法律挑戰和社會反彈。此外，這一裁決可能會影響國際社會對香港的觀感，特別是在人權和民主問題上。"
-        },
-        "topic_priority_score": 5,
-        "event_type": "election_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
-        "source_name": "Al Jazeera",
-        "title": "G7 leaders to boost Ukraine air defences, tighten sanctions on Russia",
-        "link": "https://www.aljazeera.com/news/2026/6/17/g7-leaders-to-boost-ukraine-air-defences-tighten-sanctions-on-russia?traffic_source=rss",
-        "summary": "A statement from the G7 summit in France says leaders are united in their 'unwavering support for Ukraine'.",
-        "published": "Wed, 17 Jun 2026 08:50:31 +0000",
-        "updated": "Wed, 17 Jun 2026 08:50:31 +0000",
-        "published_at_utc": "2026-06-17T08:50:31+00:00",
-        "id": "https://www.aljazeera.com/?t=1781677628",
+        "title": "Israel’s foreign minister cuts ties with top EU diplomat over ‘apartheid’ remark",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3357596/israels-foreign-minister-cuts-ties-top-eu-diplomat-over-apartheid-remark?utm_source=rss_feed",
+        "summary": "Israel’s foreign minister said on Thursday that he was severing all contact with the European Union’s top diplomat Kaja Kallas over reported remarks in which she allegedly compared Israel to the apartheid regime that once ruled South Africa. Diplomatic relations between Israel and the EU have come under heavy strain since the Gaza war erupted in October 2023, as well as over violence by Israeli settlers towards Palestinians in the occupied West Bank. On Thursday, Gideon Saar accused EU foreign...",
+        "published": "Thu, 18 Jun 2026 11:40:35 +0000",
+        "updated": "Thu, 18 Jun 2026 11:40:35 +0000",
+        "published_at_utc": "2026-06-18T11:40:35+00:00",
+        "id": "https://www.scmp.com/news/world/middle-east/article/3357596/israels-foreign-minister-cuts-ties-top-eu-diplomat-over-apartheid-remark?utm_source=rss_feed",
         "topic_type": "diplomacy",
-        "relevance_score": 23,
+        "relevance_score": 25,
         "briefing": {
-          "news_focus": "A statement from the G7 summit in France says leaders are united in their 'unwavering support for Ukraine'.",
-          "news_focus_zh": "G7峰會在法國召開，領導人一致表達對烏克蘭的堅定支持，決定加強對烏克蘭的空中防禦能力，同時對俄羅斯施加更嚴格的制裁。這一決定顯示出G7國家在烏克蘭問題上的團結立場。",
-          "background": "自2022年俄烏衝突以來，G7國家一直在支持烏克蘭，提供軍事和經濟援助。隨著衝突的持續，烏克蘭對空中防禦系統的需求日益增加，特別是在俄羅斯對其基礎設施的攻擊加劇的背景下。G7國家的制裁措施旨在削弱俄羅斯的經濟能力，限制其軍事行動的資金來源。",
+          "news_focus": "Israel’s foreign minister said on Thursday that he was severing all contact with the European Union’s top diplomat Kaja Kallas over reported remarks in which she allegedly compared Israel to the apartheid regime that once ruled South Africa. Diplomatic relations between Israel and the EU have come under heavy strain since the Gaza war erupted in October 2023, as well as over violence by Israeli settlers towards Palestinians in the occupied West Bank. On Thursday, Gideon Saar accused EU foreign...",
+          "news_focus_zh": "以色列外交部長基多恩·薩爾宣布與歐盟外交事務首席代表卡佳·卡拉斯斷絕所有聯繫，原因是卡拉斯被報導比較以色列與曾經統治南非的種族隔離政權。自2023年10月加薩戰爭爆發以來，以色列與歐盟的外交關係受到嚴重壓力，尤其是以色列定居者對巴勒斯坦人暴力事件的影響。",
+          "background": "自2023年加薩戰爭爆發以來，以色列與歐盟之間的關係急劇惡化。歐盟對以色列在加薩地區的軍事行動及其對巴勒斯坦人權利的侵犯表示關切，並對以色列定居者在約旦河西岸的暴力行為表示譴責。這些事件使得雙方的外交互動變得緊張，尤其是在歐盟對以色列政策的批評聲音日益增強的背景下。卡拉斯的言論被視為對以色列政策的直接挑戰，進一步加劇了雙方的對立。",
           "stakeholders": [
-            "G7國家",
-            "烏克蘭",
-            "俄羅斯",
-            "美國",
-            "伊朗"
+            "以色列政府",
+            "歐盟",
+            "巴勒斯坦人權組織"
           ],
-          "analysis": "G7國家在此次峰會上強調了對烏克蘭的支持，這不僅是出於對烏克蘭主權的尊重，也是為了維護國際秩序與安全。參考報導提到，G7領導人還對美國與伊朗之間的初步和平協議表示歡迎，這表明他們希望在中東地區也能促進穩定。不同報導的重點在於，Al Jazeera專注於烏克蘭的軍事支援，而The Hindu則提到G7對伊朗協議的支持，顯示出G7在多個地緣政治議題上的關注與行動。未來，G7的制裁措施可能會進一步加強，並可能影響俄羅斯的經濟與軍事能力。"
+          "analysis": "以色列外交部長基多恩·薩爾的決定反映了以色列對外界批評的敏感性，特別是在與歐盟的關係上。以色列政府可能視卡拉斯的言論為對其國家形象的攻擊，並可能加強其對外政策的強硬立場。另一方面，歐盟則可能會繼續對以色列的行為施加壓力，尤其是在巴勒斯坦人權問題上。參考報導未提供與此事件直接相關的細節，但顯示出其他國家在外交關係上的動態，顯示出國際政治中各方利益的複雜性。此事件可能導致以色列與歐盟之間的進一步隔閡，並影響未來的外交談判。"
         },
         "topic_priority_score": 7,
         "event_type": "security_event",
@@ -189,43 +156,76 @@
           "The Hindu International"
         ],
         "supporting_titles": [
-          "G7 leaders back Ukraine, plan greater pressure on Russia"
+          "Nepal Govt wants stronger ties with India, China: Nepal Foreign Minister Khanal"
         ],
         "supporting_summaries": [
-          "The G7 leaders also welcomed the preliminary peace deal between ‌the ⁠United States and Iran, which Mr. Trump signed on the eve of the summit, and said they ⁠are ready to contribute to its implementation"
+          "Mr. Khanal's visit to Beijing followed closely on his trip to India during which he said his government would accord “highest priority” to relations with New Delhi"
         ],
         "supporting_links": [
-          "https://www.thehindu.com/news/international/g7-leaders-back-ukraine-plan-greater-pressure-on-russia/article71112849.ece"
+          "https://www.thehindu.com/news/international/nepal-govt-wants-stronger-ties-with-india-china-nepal-foreign-minister-khanal/article71113778.ece"
         ],
         "source_count": 2
       },
       {
         "category": "politics",
         "source_name": "The Guardian World",
-        "title": "Trump abruptly halts confirmation process for Jay Clayton as US intelligence chief",
-        "link": "https://www.theguardian.com/us-news/2026/jun/17/trump-halts-jay-clayton-dni-nomination",
-        "summary": "Move will allow Trump’s controversial pick, Bill Pulte, to assume role and remain in place for at least several weeks Sign up for the Breaking News US newsletter email Donald Trump abruptly halted the confirmation process for Jay Clayton as the US’s top intelligence chief early Wednesday, in a move that will allow Trump’s controversial selection for acting director of national security, Bill Pulte, to assume the role and remain in place for at least several weeks until Clayton is confirmed. Trump pushed the Senate to confirm Clayton after his appointment of Pulte as acting director sparked bipartisan pushback and stalled his administration’s push for renewal of the controversial Foreign Intelligence Surveillance Act (Fisa). Continue reading...",
-        "published": "Wed, 17 Jun 2026 11:33:40 GMT",
-        "updated": "2026-06-17T11:33:40Z",
-        "published_at_utc": "2026-06-17T11:33:40+00:00",
-        "id": "https://www.theguardian.com/us-news/2026/jun/17/trump-halts-jay-clayton-dni-nomination",
-        "topic_type": "us_politics",
+        "title": "Media union blasts Pauline Hanson’s ‘bitter, unprofessional’ attack on Guardian journalist",
+        "link": "https://www.theguardian.com/australia-news/2026/jun/18/pauline-hanson-attack-on-guardian-journalist-national-press-club-speech-ntwnfb",
+        "summary": "Union calls for journalists to stand with colleagues when they are targeted by politicians as Anthony Albanese says media organisations play ‘vital roles in our democracy’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The media union has condemned One Nation leader Pauline Hanson’s attack on Guardian Australia senior correspondent Sarah Martin, as Anthony Albanese called on journalists to defend public broadcasters SBS and the ABC. After her landmark address to the National Press Club in Canberra on Wednesday, Hanson called Martin “trashy” for asking about her daughter Lee Hanson’s employment by a NSW One Nation senator, despite living and working in Tasmania. Continue reading...",
+        "published": "Thu, 18 Jun 2026 06:40:59 GMT",
+        "updated": "2026-06-18T06:40:59Z",
+        "published_at_utc": "2026-06-18T06:40:59+00:00",
+        "id": "https://www.theguardian.com/australia-news/2026/jun/18/pauline-hanson-attack-on-guardian-journalist-national-press-club-speech-ntwnfb",
+        "topic_type": "eu_policy",
         "relevance_score": 22,
         "briefing": {
-          "news_focus": "Move will allow Trump’s controversial pick, Bill Pulte, to assume role and remain in place for at least several weeks Sign up for the Breaking News US newsletter email Donald Trump abruptly halted the confirmation process for Jay Clayton as the US’s top intelligence chief early Wednesday, in a move that will allow Trump’s controversial selection for acting director of national security, Bill Pulte, to assume the role and remain in place for at least several weeks until Clayton is confirmed. Trump pushed the Senate to confirm Clayton after his appointment of Pulte as acting director sparked bipartisan pushback and stalled his administration’s push for renewal of the controversial Foreign Intelligence Surveillance Act (Fisa). Continue reading...",
-          "news_focus_zh": "美國總統特朗普於週三突然停止了對杰伊·克萊頓擔任美國情報總監的確認程序，這一舉動使得特朗普的爭議性選擇比爾·普爾特能夠擔任該職位，並至少在幾週內保持在位。特朗普曾推動參議院確認克萊頓，但普爾特的任命引發了兩黨的反對，並阻礙了其政府對於爭議性外國情報監視法（FISA）續期的推進。",
-          "background": "特朗普政府在情報領域的任命一直受到爭議，尤其是在國家安全和情報監控法案的背景下。外國情報監視法案（FISA）是美國政府用於監控外國間諜活動的重要法律，然而其續期問題常常引發政治爭論。克萊頓的提名原本旨在穩定情報機構的領導，但隨著普爾特的任命引發的反彈，特朗普的策略顯示出其在國內政治中面臨的挑戰。",
+          "news_focus": "Union calls for journalists to stand with colleagues when they are targeted by politicians as Anthony Albanese says media organisations play ‘vital roles in our democracy’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The media union has condemned One Nation leader Pauline Hanson’s attack on Guardian Australia senior correspondent Sarah Martin, as Anthony Albanese called on journalists to defend public broadcasters SBS and the ABC. After her landmark address to the National Press Club in Canberra on Wednesday, Hanson called Martin “trashy” for asking about her daughter Lee Hanson’s employment by a NSW One Nation senator, despite living and working in Tasmania. Continue reading...",
+          "news_focus_zh": "澳洲媒體工會譴責一國黨領袖保琳·漢森（Pauline Hanson）對《衛報》記者莎拉·馬丁（Sarah Martin）的攻擊，稱其為「苦澀且不專業」。漢森在堪培拉國家新聞俱樂部的演講中，因馬丁詢問其女兒李·漢森（Lee Hanson）在新南威爾士州一國黨參議員的就業問題而指責馬丁「低俗」。澳洲總理安東尼·阿爾巴尼斯（Anthony Albanese）呼籲記者們應該支持公共廣播機構，如SBS和ABC，並強調媒體在民主中的重要角色。",
+          "background": "在澳洲，媒體自由和記者的職業安全一直是重要的政治議題。隨著社交媒體的興起，政治人物與媒體之間的緊張關係愈發明顯。保琳·漢森作為一國黨的領袖，經常發表爭議性言論，這次針對《衛報》記者的攻擊再次引發了對媒體獨立性和記者職業道德的討論。阿爾巴尼斯的呼籲反映了政府對於維護媒體自由的重視，尤其是在面對政治人物的攻擊時，媒體的角色顯得尤為重要。",
           "stakeholders": [
-            "特朗普政府",
-            "美國參議院",
-            "情報機構",
-            "兩黨議員",
-            "公眾"
+            "保琳·漢森",
+            "莎拉·馬丁",
+            "安東尼·阿爾巴尼斯",
+            "澳洲媒體工會",
+            "公共廣播機構"
           ],
-          "analysis": "特朗普的決定反映了其在國會中面臨的兩黨壓力，尤其是對普爾特的任命的強烈反對。這一舉動可能會延長普爾特的任期，並使特朗普有更多時間來推動克萊頓的確認。然而，這也可能進一步激化國會對特朗普政府的監督，特別是在情報和國家安全問題上。各方對於普爾特的質疑可能會影響未來的政策推動，尤其是在FISA法案的續期上，這將是特朗普政府的一大挑戰。"
+          "analysis": "此次事件突顯了政治人物與媒體之間的緊張關係，尤其是當媒體報導涉及政治人物的家庭或私人生活時。保琳·漢森的攻擊被媒體工會視為對新聞自由的威脅，並可能激勵其他記者在面對類似情況時團結起來，捍衛自身權益。阿爾巴尼斯的支持則可能增強媒體界的士氣，促使更多記者勇於追問政治人物的行為和決策。未來，若此類攻擊持續發生，可能會引發更廣泛的社會討論，並影響公眾對政治人物及其言論的信任程度。"
         },
-        "topic_priority_score": 8,
-        "event_type": "election_move",
+        "topic_priority_score": 9,
+        "event_type": "security_event",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "politics",
+        "source_name": "Al Jazeera",
+        "title": "Is the G7 hearing the Global South?",
+        "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/18/is-the-g7-hearing-the-global-south?traffic_source=rss",
+        "summary": "The G7, BRICS and emerging powers are competing for influence in a changing global order.",
+        "published": "Thu, 18 Jun 2026 08:14:38 +0000",
+        "updated": "Thu, 18 Jun 2026 08:14:38 +0000",
+        "published_at_utc": "2026-06-18T08:14:38+00:00",
+        "id": "https://www.aljazeera.com/?t=1781719031",
+        "topic_type": "diplomacy",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "The G7, BRICS and emerging powers are competing for influence in a changing global order.",
+          "news_focus_zh": "G7國家正面臨來自全球南方國家的挑戰，這些國家在新興力量的崛起中尋求更大的影響力。隨著全球秩序的變化，G7與金磚國家及其他新興力量之間的競爭愈加激烈，這引發了對G7是否能夠有效聆聽並回應全球南方需求的質疑。",
+          "background": "G7由七個主要工業國組成，長期以來在全球經濟和政治事務中佔據主導地位。然而，隨著金磚國家（巴西、俄羅斯、印度、中國和南非）及其他新興經濟體的崛起，全球南方國家的聲音日益增強，對G7的影響力構成挑戰。這些新興力量不僅在經濟上逐漸崛起，還在國際政治中尋求更大的發言權，尤其是在氣候變化、貧困和發展援助等議題上。G7是否能夠適應這一變化，並有效地與全球南方國家進行對話，成為當前國際政治的重要議題。",
+          "stakeholders": [
+            "G7國家",
+            "BRICS國家",
+            "全球南方國家",
+            "國際組織",
+            "非政府組織"
+          ],
+          "analysis": "G7面臨的挑戰主要來自於全球南方國家對其政策和決策過程的質疑。這些國家希望在全球治理中獲得更多的代表性和發言權，並對G7的傳統主導地位提出挑戰。隨著BRICS等新興力量的崛起，這種競爭將可能導致國際合作的重新評估。G7若無法有效回應全球南方的需求，可能會進一步削弱其在國際事務中的影響力。此外，全球南方國家之間的團結與合作也可能成為未來影響G7政策的重要因素，這一點在未來的國際會議中將更為明顯。"
+        },
+        "topic_priority_score": 7,
+        "event_type": "political_signal",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -236,76 +236,76 @@
     "economy": [
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Surprisingly benign UK inflation data signals a softer Iran war hit than feared",
-        "link": "https://www.theguardian.com/business/2026/jun/17/uk-inflation-rate-softer-iran-war-hit-than-expected",
-        "summary": "War’s impact on UK cost of living more muted than first forecast suggesting fuel price rises have failed to spill out more widely across UK plc UK inflation stays at 2.8% as slowing food prices offset transport costs Business live – latest updates As soon as Iran choked off oil supplies through the strait of Hormuz at the start of March, there were dire warnings about rocketing UK inflation and the drastic action the Bank of England might take to rein it in. At one point, investors were expecting as many as three quarter-point rises in interest rates before the end of the year – a sharp turnaround from earlier forecasts of rate cuts. Continue reading...",
-        "published": "Wed, 17 Jun 2026 09:27:33 GMT",
-        "updated": "2026-06-17T09:27:33Z",
-        "published_at_utc": "2026-06-17T09:27:33+00:00",
-        "id": "https://www.theguardian.com/business/2026/jun/17/uk-inflation-rate-softer-iran-war-hit-than-expected",
-        "topic_type": "inflation",
-        "relevance_score": 29,
+        "source_name": "The Guardian World",
+        "title": "Bank of England keeps interest rates at 3.75% as Iran conflict weighs on economy",
+        "link": "https://www.theguardian.com/business/2026/jun/18/interest-rates-bank-of-england-hold-keep-iran",
+        "summary": "Higher energy costs due to the closure of strait of Hormuz are expected to boost inflation and slow UK growth Business live – latest updates Bank of England policymakers have left interest rates on hold at 3.75%, as they continue to weigh the impact of the Iran conflict on the economy. The decision had been widely expected, even before Wednesday’s inflation figure undershot forecasts to remain at 2.8% in May. Continue reading...",
+        "published": "Thu, 18 Jun 2026 11:00:53 GMT",
+        "updated": "2026-06-18T11:00:53Z",
+        "published_at_utc": "2026-06-18T11:00:53+00:00",
+        "id": "https://www.theguardian.com/business/2026/jun/18/interest-rates-bank-of-england-hold-keep-iran",
+        "topic_type": "interest_rates",
+        "relevance_score": 27,
         "briefing": {
-          "news_focus": "War’s impact on UK cost of living more muted than first forecast suggesting fuel price rises have failed to spill out more widely across UK plc UK inflation stays at 2.8% as slowing food prices offset transport costs Business live – latest updates As soon as Iran choked off oil supplies through the strait of Hormuz at the start of March, there were dire warnings about rocketing UK inflation and the drastic action the Bank of England might take to rein it in. At one point, investors were expecting as many as three quarter-point rises in interest rates before the end of the year – a sharp turnaround from earlier forecasts of rate cuts. Continue reading...",
-          "news_focus_zh": "英國最新的通脹數據顯示，通脹率維持在2.8%，這一數字低於市場預期，顯示出伊朗戰爭對英國生活成本的影響並不如最初預測的那麼嚴重。儘管在伊朗封鎖霍爾木茲海峽後，市場曾預測通脹將急劇上升，並可能導致英格蘭銀行在年底前進行多次加息，但目前的數據顯示，食品價格的放緩抵消了交通成本的上漲。",
-          "background": "自3月伊朗封鎖霍爾木茲海峽以來，市場對英國通脹的預測變得悲觀，許多分析師擔心能源價格的上漲將導致生活成本大幅上升，並迫使英格蘭銀行採取更嚴厲的貨幣政策。然而，近期的數據顯示，儘管能源價格上漲，食品價格的減少使得整體通脹保持穩定，這與早期的預測形成鮮明對比。",
+          "news_focus": "Higher energy costs due to the closure of strait of Hormuz are expected to boost inflation and slow UK growth Business live – latest updates Bank of England policymakers have left interest rates on hold at 3.75%, as they continue to weigh the impact of the Iran conflict on the economy. The decision had been widely expected, even before Wednesday’s inflation figure undershot forecasts to remain at 2.8% in May. Continue reading...",
+          "news_focus_zh": "英國銀行決定將利率維持在3.75%，這一決策主要受到伊朗衝突影響的考量。由於霍爾木茲海峽的關閉導致能源成本上升，預計將進一步推高通脹並減緩英國經濟增長。這一決策在周三的通脹數據公布之前已經被廣泛預期，該數據顯示5月通脹率保持在2.8%，低於預期。",
+          "background": "英國銀行在12月最後一次降息後，面對中東局勢的不穩定，未來的降息計劃已經受到阻礙。霍爾木茲海峽的關閉不僅影響了能源供應，還可能導致整體經濟活動的減緩。根據最新報告，英國最大的零售商Tesco的銷售增長大幅放緩，顯示出家庭面臨的不確定性加劇，這進一步反映出中東局勢對英國經濟的潛在影響。",
           "stakeholders": [
-            "英格蘭銀行",
-            "消費者",
-            "企業",
-            "投資者",
-            "能源供應商"
+            "英國銀行",
+            "Tesco",
+            "英國消費者",
+            "能源供應商",
+            "經濟分析師"
           ],
-          "analysis": "英國的通脹數據顯示出一種意外的韌性，這對於消費者和企業來說都是一個積極的信號。參考報導指出，BBC預測伊朗戰爭將推高英國通脹超過英格蘭銀行的2%目標，而《經濟學人》則強調能源價格的上漲可能會影響生活成本，並可能導致經濟放緩。這些不同的觀點反映了市場對未來經濟走勢的不同預期，尤其是在能源價格的影響上。隨著通脹數據的穩定，市場對於英格蘭銀行的利率政策可能會重新評估，從而影響投資者的信心和消費者的支出行為。"
+          "analysis": "英國銀行的決策反映了對當前經濟形勢的謹慎態度，尤其是在中東局勢不穩定的背景下。根據BBC的報導，自去年12月以來，英國銀行尚未進行任何降息，顯示出對未來經濟增長的擔憂。Tesco的銷售數據顯示，家庭消費者對經濟前景的信心下降，這可能進一步影響英國的經濟增長。不同報導中，BBC強調了中東動盪對利率政策的直接影響，而《衛報》則更著重於通脹預測的調整，這反映出各方對當前經濟挑戰的不同側重點。未來，若中東局勢持續緊張，英國的經濟增長可能會面臨更大挑戰。"
         },
-        "topic_priority_score": 9,
+        "topic_priority_score": 10,
         "event_type": "rate_decision",
         "supporting_sources": [
           "BBC Business",
-          "The Economist"
+          "The Guardian Business"
         ],
         "supporting_titles": [
-          "What is happening to UK prices?",
-          "How high could global inflation go?"
+          "Interest rates kept on hold at 3.75%",
+          "Bank of England leaves interest rates on hold and lowers inflation forecast amid Middle East ‘uncertainty’ – business live"
         ],
         "supporting_summaries": [
-          "The war in Iran is expected to push UK Inflation further above the Bank of England's 2% target.",
-          "With luck, the Iran war won’t cause a recession. But the surge in energy prices will push up the cost of living"
+          "The Bank last cut interest rates in December but upheaval in the Middle East has stalled any further reductions.",
+          "Rolling coverage of the latest economic and financial news, including the latest UK jobs report and the Bank of England’s interest rate decision Tesco’s UK sales growth has more than halved as it said the conflict in the Middle East had created “ongoing uncertainty for many households”, knocking its shares in early trading. The UK’s biggest retailer said comparable sales rose 1.8% to £13.4bn in the three months to the end of May, below both the 4.2% reported in the previous quarter and the 2.3% growth City analysts had expected. Continue reading..."
         ],
         "supporting_links": [
-          "https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-          "https://www.economist.com/finance-and-economics/2026/03/23/how-high-could-global-inflation-go"
+          "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
+          "https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates"
         ],
         "source_count": 3
       },
       {
         "category": "economy",
-        "source_name": "The Hindu International",
-        "title": "Iran pledges no bomb; U.S. promises sanctions relief, $300 billion financing; agreement’s leaked text shows",
-        "link": "https://www.thehindu.com/news/international/iran-pledges-no-bomb-us-promises-sanctions-relief-300-billion-financing-leaked-mou/article71112403.ece",
-        "summary": "The draft, published by Saudi Arabia’s Al Arabiya network, states that Iran has pledged never to produce nuclear weapons, while U.S. would lift sanctions on the sale of Iranian crude oil, petrochemical products and other services, including banking, during the negotiation period, and commits itself to lifting all sanctions as part of a final agreement",
-        "published": "Wed, 17 Jun 2026 16:27:39 +0530",
-        "updated": "Wed, 17 Jun 2026 16:27:39 +0530",
-        "published_at_utc": "2026-06-17T10:57:39+00:00",
-        "id": "article-71112403",
-        "topic_type": "sanctions",
+        "source_name": "BBC Business",
+        "title": "What's happening to UK interest rates and what does it mean?",
+        "link": "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+        "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+        "published": "Thu, 18 Jun 2026 11:42:43 GMT",
+        "updated": "Thu, 18 Jun 2026 11:42:43 GMT",
+        "published_at_utc": "2026-06-18T11:42:43+00:00",
+        "id": "https://www.bbc.com/news/articles/c3dky111m40o#3",
+        "topic_type": "interest_rates",
         "relevance_score": 25,
         "briefing": {
-          "news_focus": "The draft, published by Saudi Arabia’s Al Arabiya network, states that Iran has pledged never to produce nuclear weapons, while U.S. would lift sanctions on the sale of Iranian crude oil, petrochemical products and other services, including banking, during the negotiation period, and commits itself to lifting all sanctions as part of a final agreement",
-          "news_focus_zh": "伊朗承諾不會生產核武器，而美國則承諾在談判期間解除對伊朗原油、石化產品及其他服務的制裁，包括銀行業務。根據沙烏地阿拉伯的阿拉比亞網路發布的草案，這一協議的最終版本將包括美國全面解除所有制裁的承諾。",
-          "background": "伊朗的核計畫一直是國際社會關注的焦點，尤其是在美國於2018年單方面退出伊朗核協議後，雙方關係惡化。隨著地緣政治緊張局勢的加劇，伊朗的核能力被視為潛在威脅。美國對伊朗的制裁旨在限制其核發展及其他軍事活動，然而這些制裁也對伊朗經濟造成了重大影響。近期，隨著國際社會對伊朗核問題的重新評估，雙方似乎在尋求透過談判來解決分歧，並促進地區穩定。",
+          "news_focus": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+          "news_focus_zh": "英國央行的利率變動對數百萬人的抵押貸款、貸款和儲蓄利率產生影響。這一政策決策將直接影響家庭的財務狀況，並可能引發更廣泛的經濟反應。",
+          "background": "英國央行的利率政策是影響國內經濟的重要工具。隨著通脹壓力的上升，央行可能會考慮調整利率以控制物價上漲。利率的變動不僅影響個人借貸成本，還會影響企業的融資條件，進而影響整體經濟增長。近年來，英國經濟面臨多重挑戰，包括脫歐後的貿易變化和全球供應鏈問題，這些因素都可能促使央行重新評估其利率政策。",
           "stakeholders": [
-            "伊朗政府",
-            "美國政府",
-            "沙烏地阿拉伯",
-            "國際原子能機構",
-            "全球石油市場"
+            "英國央行",
+            "家庭借款者",
+            "儲蓄者",
+            "企業",
+            "市場分析師"
           ],
-          "analysis": "此次協議的達成顯示出美國與伊朗在核問題上的某種妥協意願。伊朗承諾不生產核武器，可能是為了獲得經濟上的支持，特別是在制裁解除的背景下，這將有助於其經濟復甦。美國則希望通過解除制裁來促進與伊朗的對話，並減少地區緊張局勢。然而，這一協議仍面臨挑戰，特別是在美國國內政治及其盟友的反對聲音中，部分國家可能會對美國的讓步表示擔憂。此外，協議的具體執行及監督機制仍需進一步明確，以確保各方遵守承諾。"
+          "analysis": "英國央行的利率決策將在家庭和企業之間引發不同的反應。對於依賴貸款的家庭來說，利率上升將增加其財務負擔，可能導致消費支出減少，進而影響經濟增長。另一方面，對於儲蓄者來說，利率上升可能帶來更高的回報，從而鼓勵儲蓄行為。市場分析師將密切關注央行的每次會議，因為這些決策將影響未來的經濟走向。此外，央行的利率政策也可能受到政治因素的影響，特別是在選舉年，政府可能會施壓以促進經濟增長。"
         },
-        "topic_priority_score": 8,
-        "event_type": "energy_supply_move",
+        "topic_priority_score": 10,
+        "event_type": "rate_decision",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -314,254 +314,262 @@
       },
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Electrical retailer AO shifts UK call centre roles to South Africa",
-        "link": "https://www.theguardian.com/business/2026/jun/17/ao-world-oursource-uk-call-centre-roles-south-africa-bolton",
-        "summary": "About 150 jobs have already been lost in Bolton as company reports 145% rise in profits and hands £20m to shareholders Business live – latest updates The online electrical goods seller AO World has revealed it is outsourcing up to 200 UK call centre roles to South Africa blaming rising labour costs, as it handed £20m to shareholders. As the retailer reported a jump in profits, it said it was shifting the majority of call centre jobs overseas “in response to ongoing inflationary cost pressures, and particularly rising employment costs”. It expects to save about £4m a year as a result of the change. Continue reading...",
-        "published": "Wed, 17 Jun 2026 10:51:46 GMT",
-        "updated": "2026-06-17T10:51:46Z",
-        "published_at_utc": "2026-06-17T10:51:46+00:00",
-        "id": "https://www.theguardian.com/business/2026/jun/17/ao-world-oursource-uk-call-centre-roles-south-africa-bolton",
-        "topic_type": "inflation",
+        "source_name": "SCMP Business",
+        "title": "China touts new finance tools to fend off sanctions",
+        "link": "https://www.scmp.com/plus/economy/china-economy/article/3357561/china-touts-new-finance-tools-fend-sanctions?utm_source=rss_feed",
+        "summary": "Chinese officials outlined plans for new anti-sanctions measures and unveiled initiatives to boost international use of the yuan to policymakers and bankers gathered for the nation’s most important financial conference of the year. Vice-Premier He Lifeng highlighted a draft financial law he said would help fight “groundless suppression” of Chinese organisations and individuals through new blocking provisions and countermeasures. Authorities would add similar tools to other legislation to expand...",
+        "published": "Thu, 18 Jun 2026 09:00:34 +0000",
+        "updated": "Thu, 18 Jun 2026 09:00:34 +0000",
+        "published_at_utc": "2026-06-18T09:00:34+00:00",
+        "id": "https://www.scmp.com/plus/economy/china-economy/article/3357561/china-touts-new-finance-tools-fend-sanctions?utm_source=rss_feed",
+        "topic_type": "sanctions",
         "relevance_score": 25,
         "briefing": {
-          "news_focus": "About 150 jobs have already been lost in Bolton as company reports 145% rise in profits and hands £20m to shareholders Business live – latest updates The online electrical goods seller AO World has revealed it is outsourcing up to 200 UK call centre roles to South Africa blaming rising labour costs, as it handed £20m to shareholders. As the retailer reported a jump in profits, it said it was shifting the majority of call centre jobs overseas “in response to ongoing inflationary cost pressures, and particularly rising employment costs”. It expects to save about £4m a year as a result of the change. Continue reading...",
-          "news_focus_zh": "英國電器零售商AO World宣布將約200個呼叫中心職位外包至南非，並已在博爾頓失去約150個工作崗位。該公司表示，這一決定是因為持續的通脹壓力和上升的勞動成本。儘管如此，AO World報告其利潤上升145%，並向股東分配2000萬英鎊，預計此舉每年可節省約400萬英鎊。",
-          "background": "AO World是一家專注於線上電器銷售的公司，最近因為全球通脹和勞動成本上升而面臨經營壓力。隨著消費者對價格敏感度的提高，許多企業選擇透過外包來降低成本。英國的勞動市場在疫情後復甦，但工資上漲和生活成本增加使得企業經營壓力加大。AO World的這一決策反映了當前零售業面臨的挑戰，尤其是在保持盈利能力與控制成本之間的平衡。",
+          "news_focus": "Chinese officials outlined plans for new anti-sanctions measures and unveiled initiatives to boost international use of the yuan to policymakers and bankers gathered for the nation’s most important financial conference of the year. Vice-Premier He Lifeng highlighted a draft financial law he said would help fight “groundless suppression” of Chinese organisations and individuals through new blocking provisions and countermeasures. Authorities would add similar tools to other legislation to expand...",
+          "news_focus_zh": "中國官員在年度重要金融會議上提出新反制裁措施，並計劃推動人民幣的國際使用。副總理何立峰強調了一項草擬的金融法，旨在對抗對中國組織和個人的「無端打壓」，並引入新的阻止條款和反制措施。當局還計劃將類似工具納入其他立法，以擴大應對能力。",
+          "background": "隨著國際局勢的變化，中國面臨來自美國及其盟友的經濟制裁與貿易限制，這促使中國政府尋求新的金融工具來保護其國內經濟與企業。人民幣的國際化是中國政府的一項重要政策，旨在提升人民幣在全球貿易中的地位，減少對美元的依賴。此次會議的舉行正值全球經濟不確定性加劇之際，中國希望通過這些新措施來增強其金融體系的韌性。",
           "stakeholders": [
-            "AO World",
-            "南非呼叫中心",
-            "博爾頓當地社區",
-            "股東",
-            "英國政府"
+            "中國政府",
+            "國際銀行",
+            "中國企業",
+            "外國投資者",
+            "全球貿易夥伴"
           ],
-          "analysis": "AO World的外包決策顯示出企業在面對成本壓力時的應對策略，特別是在利潤上升的情況下選擇減少本地就業。這一舉措可能引發社會對於企業責任的討論，尤其是在當地失業率上升的背景下。儘管公司能夠節省開支，但失去的工作崗位將對當地社區造成影響。股東獲得分紅的同時，員工卻面臨失業，這可能引發對企業道德的質疑。未來，若其他企業跟隨AO World的腳步，可能會加劇英國的就業市場壓力，並引發更廣泛的社會反響。"
+          "analysis": "中國政府的這些新措施顯示出對外部壓力的反應，尤其是針對美國的制裁行動。副總理何立峰的發言強調了中國在面對國際挑戰時的堅定立場，並試圖通過立法手段來增強國內企業的保護。參考報導未直接提及此次會議，但提到中國的製造業成功可能會影響其他國家的市場空間，暗示中國在全球經濟中的競爭力。這表明，中國不僅在應對制裁上採取行動，也在積極尋求擴大其經濟影響力，這可能會引發其他國家的關注與反應。"
         },
-        "topic_priority_score": 9,
-        "event_type": "inflation_data",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "topic_priority_score": 8,
+        "event_type": "macro_signal",
+        "supporting_sources": [
+          "The Economist"
+        ],
+        "supporting_titles": [
+          "The other China shock"
+        ],
+        "supporting_summaries": [
+          "Does the country’s manufacturing success leave space for anyone else?"
+        ],
+        "supporting_links": [
+          "https://www.economist.com/finance-and-economics/2026/05/21/the-other-china-shock"
+        ],
+        "source_count": 2
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
-        "title": "China says it will take countermeasures to new Taiwan intelligence gathering site",
-        "link": "https://www.thehindu.com/news/international/china-says-it-will-take-countermeasures-to-new-taiwan-intelligence-gathering-site/article71112046.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-17T05:36:00+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Elon Musk's AI tool Grok was used in strikes against Iran, says U.S. government",
-        "link": "https://www.thehindu.com/sci-tech/technology/elon-musks-ai-tool-grok-was-used-in-strikes-against-iran-says-us-government/article71111925.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-17T05:27:51+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Could AI algorithms hold China’s solution for global narrative on Tibet?",
-        "link": "https://www.scmp.com/news/china/politics/article/3357395/could-ai-algorithms-hold-chinas-solution-global-narrative-tibet?utm_source=rss_feed",
+        "title": "Shanghai charts IPO path for cash-hungry AI labs racing against US",
+        "link": "https://www.scmp.com/tech/article/3357495/shanghai-bourse-opens-doors-unprofitable-ai-tech-start-ups-relaxed-ipo-rules?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-06-17T07:57:08+00:00",
+        "published_at_utc": "2026-06-18T03:34:20+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "China mulls space-based control system for high-speed rail. Can it be hacked?",
+        "link": "https://www.scmp.com/news/china/science/article/3356721/china-mulls-space-based-control-system-high-speed-rail-can-it-be-hacked?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-18T01:00:05+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
+        "link": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-17T17:00:00+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "How DeepSeek’s landmark funding secures Liang Wenfeng’s grip as China’s AI rivalry heats up",
+        "link": "https://www.scmp.com/tech/big-tech/article/3357525/how-deepseeks-landmark-funding-secures-liang-wenfengs-grip-chinas-ai-rivalry-heats?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-18T07:01:09+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Tech Life",
-        "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy0?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Technology",
-        "published_at_utc": "2026-06-16T19:30:00+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-        "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-16T18:00:00+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "‘Dangerous’ AI Models Are Coming No Matter What",
-        "link": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
+        "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+        "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
         "source_name": "Wired",
-        "published_at_utc": "2026-06-16T17:50:52+00:00",
+        "published_at_utc": "2026-06-17T22:52:00+00:00",
         "relevance_score": 17
       },
       {
-        "title": "Entrepreneurs in Nairobi make the case for going solar",
-        "link": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
-        "source_name": "MIT Technology Review",
-        "published_at_utc": "2026-06-17T09:00:00+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "'Growing up too young': Londoners praise under-16s social media ban – video",
-        "link": "https://www.theguardian.com/uk-news/video/2026/jun/15/londoners-praise-under-16-social-media-ban-video",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-15T13:51:05+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "TSMC’s ADRs rank No. 7 in global market cap after SpaceX surge",
-        "link": "https://www.taipeitimes.com/News/biz/archives/2026/06/17/2003859219",
-        "source_name": "Taipei Times",
-        "published_at_utc": "2026-06-17T00:00:00+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-        "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+        "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+        "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-16T22:34:17+00:00",
-        "relevance_score": 13
+        "published_at_utc": "2026-06-17T19:01:19+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Anthropic got hit by export rules nobody understands",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-06-17T18:28:50+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Two-thirds of Americans think AI is advancing too quickly",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-06-17T17:20:24+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Vibe-decoding the White House-Anthropic fight over Fable",
+        "link": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-06-17T16:27:00+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Towers once planned for California shuttle launches leveled for SpaceX rockets",
+        "link": "https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-06-17T15:47:09+00:00",
+        "relevance_score": 16
       }
     ],
     "politics": [
       {
-        "title": "Lammy tells Tory deputy chair to apologise for joking on TV about arson attack on Starmer’s home – UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/jun/17/keir-starmer-labour-leadership-contest-andy-burnham-makerfield-byelection-wes-streeting-latest-news-updates",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-17T11:51:33+00:00",
-        "relevance_score": 24
-      },
-      {
-        "title": "Trump says ‘I am the boss’ at G7 summit as leaders agree ‘new steps to put pressure’ on Russia – Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/jun/17/g7-leaders-evian-donald-trump-ukraine-russia-war-iran-latest-news-updates",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-17T11:46:22+00:00",
-        "relevance_score": 23
-      },
-      {
-        "title": "First Thing: Trump backs G7 statement on Iran deal as domestic criticism grows",
-        "link": "https://www.theguardian.com/us-news/2026/jun/17/first-thing-trump-g7-iran-deal-domestic-criticism",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-17T11:27:22+00:00",
-        "relevance_score": 22
-      },
-      {
-        "title": "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal",
-        "link": "https://www.aljazeera.com/news/2026/6/17/iran-war-day-110-tehran-says-israeli-attacks-on-lebanon-threaten-us-deal?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-17T07:24:12+00:00",
-        "relevance_score": 22
-      },
-      {
-        "title": "G7 leaders back Ukraine, plan greater pressure on Russia",
-        "link": "https://www.thehindu.com/news/international/g7-leaders-back-ukraine-plan-greater-pressure-on-russia/article71112849.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-17T11:00:45+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "U.S. President Donald Trump to wrap G7 summit facing skepticism at home, jitters overseas over his plan to end Iran war",
-        "link": "https://www.thehindu.com/news/international/us-president-donald-trump-to-wrap-g7-summit-facing-skepticism-at-home-jitters-overseas-over-his-plan-to-end-iran-war/article71112465.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-17T09:57:52+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "G7 Summit 2026 begins in Évian: Key leaders, dates, and venue details",
-        "link": "https://www.thehindu.com/news/international/g7-summit-2026-begins-in-evian-key-leaders-countries-dates-and-venue-details/article71104781.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-17T06:28:50+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "World suffers from shortage of trust: PM Modi to G7 leaders",
-        "link": "https://www.thehindu.com/news/national/world-suffers-from-shortage-of-trust-pm-modi-to-g7-leaders/article71110487.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-17T06:28:01+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Cigarettes, football and Greenland: G7 hot mics reveal world leaders’ banter",
-        "link": "https://www.scmp.com/news/world/europe/article/3357376/cigarettes-football-and-greenland-g7-hot-mics-reveal-world-leaders-banter?utm_source=rss_feed",
+        "title": "Malaysia and Asean tap Russia for energy security, defying Western ‘prejudices’",
+        "link": "https://www.scmp.com/week-asia/economics/article/3357524/malaysia-and-asean-tap-russia-energy-security-defying-western-prejudices?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-06-17T04:29:18+00:00",
+        "published_at_utc": "2026-06-18T06:42:54+00:00",
         "relevance_score": 21
       },
       {
-        "title": "PM Modi holds bilateral talks with leaders of U.K., UAE on the sidelines of G7 Summit",
-        "link": "https://www.thehindu.com/news/national/pm-modi-holds-bilateral-talks-with-leaders-of-uk-uae-on-the-sidelines-of-g7-summit/article71110678.ece",
+        "title": "G7 Summit Day 2 highlights: India always on side of peace, places humanity over everything else, says Modi",
+        "link": "https://www.thehindu.com/news/international/g7-summit-france-day-2-leaders-discuss-west-asia-conflict-ukraine-russia-war-live-updates-june-17-2026/article71111954.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-17T02:14:27+00:00",
+        "published_at_utc": "2026-06-17T19:40:04+00:00",
         "relevance_score": 21
+      },
+      {
+        "title": "Polls open in historic byelection in Makerfield that could determine Keir Starmer’s future – UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-polls-open-labour-leadership-andy-burnham-keir-starmer-latest-news-updates",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-18T11:29:34+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Middle East crisis live: US will restart military action if Iran does not uphold deal, says Hegseth",
+        "link": "https://www.theguardian.com/world/live/2026/jun/18/middle-east-crisis-live-us-iran-presidents-sign-peace-deal-mou-trump-tehran-strait-of-hormuz-toll-lebanon-israel",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-18T11:07:26+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Moscow oil refinery struck in Ukraine’s biggest air raid on city since start of war",
+        "link": "https://www.theguardian.com/world/2026/jun/18/moscow-oil-refinery-on-fire-ukraine-drone-stikes",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-18T11:04:50+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Hegseth blasts Nato for not giving US access to European bases during Iran war",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3357573/hegseth-blasts-nato-not-giving-us-access-european-bases-during-iran-war?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-18T09:46:39+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "More in Taiwan favour goodwill to Beijing over defence ties with US, poll shows",
+        "link": "https://www.scmp.com/news/china/politics/article/3357551/more-taiwan-favour-goodwill-beijing-over-defence-ties-us-poll-shows?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-18T09:00:10+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Trump threatens ‘dropping bombs’ if Iran doesn’t ‘behave’",
+        "link": "https://www.thehindu.com/news/international/trump-threatens-dropping-bombs-if-iran-doesnt-behave/article71114967.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-18T07:18:30+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Starmer’s future on the line as Britain holds closely watched vote",
+        "link": "https://www.scmp.com/news/world/europe/article/3357527/starmers-future-line-britain-holds-closely-watched-vote?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-18T06:58:48+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "US and Iran sign Memorandum of Understanding to end war",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-and-iran-sign-memorandum-of-understanding-to-end-war?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-06-18T01:42:10+00:00",
+        "relevance_score": 20
       }
     ],
     "economy": [
       {
-        "title": "What is happening to UK prices?",
-        "link": "https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-06-17T09:24:42+00:00",
-        "relevance_score": 25
+        "title": "Bank of England leaves interest rates on hold and lowers inflation forecast amid Middle East ‘uncertainty’ – business live",
+        "link": "https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-18T11:21:01+00:00",
+        "relevance_score": 27
       },
       {
-        "title": "HSBC China pioneers cross-border fund services for mainland investors",
-        "link": "https://www.scmp.com/business/banking-finance/article/3357411/hsbc-china-pioneers-cross-border-fund-services-mainland-investors?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-17T09:15:04+00:00",
-        "relevance_score": 23
-      },
-      {
-        "title": "China vows new legal shield that could counter US sanctions and protect finance",
-        "link": "https://www.scmp.com/economy/china-economy/article/3357417/china-vows-new-legal-shield-could-counter-us-sanctions-and-protect-finance?utm_source=rss_feed",
+        "title": "Towngas customers face higher bills as tariffs set to rise 4.4% in August",
+        "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3357587/towngas-customers-face-higher-bills-tariffs-set-rise-44-august?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-06-17T09:00:21+00:00",
+        "published_at_utc": "2026-06-18T11:04:44+00:00",
         "relevance_score": 23
       },
       {
-        "title": "Geopolitics is complicating the green transition – and China’s moment",
-        "link": "https://www.scmp.com/opinion/china-opinion/article/3356958/geopolitics-complicating-green-transition-and-chinas-moment?utm_source=rss_feed",
+        "title": "A new golden age for Japanese banks comes with a catch",
+        "link": "https://www.economist.com/finance-and-economics/2026/06/18/a-new-golden-age-for-japanese-banks-comes-with-a-catch",
+        "source_name": "The Economist",
+        "published_at_utc": "2026-06-18T09:23:55+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Hong Kong sets August debut for long-awaited offshore yuan bond futures",
+        "link": "https://www.scmp.com/business/china-business/article/3357568/hong-kong-sets-august-debut-long-awaited-offshore-yuan-bond-futures?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-17T08:30:06+00:00",
+        "published_at_utc": "2026-06-18T09:23:23+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Warsh to review how Fed works after holding US interest rates at first meeting",
+        "link": "https://www.bbc.com/news/articles/cdjkl78vd7lo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-06-17T18:41:12+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "How Hong Kong is helping China’s carmakers road-test their global smart-car strategies",
+        "link": "https://www.scmp.com/business/china-evs/article/3357582/how-hong-kong-helping-chinas-carmakers-road-test-their-global-smart-car-strategies?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-18T10:34:16+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Inflation unexpectedly steady as food price rises slow",
-        "link": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-06-17T09:52:43+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Oil prices continue slide amid hopes for peace, opening of Strait of Hormuz",
-        "link": "https://www.aljazeera.com/economy/2026/6/17/oil-prices-continue-slide-amid-hopes-for-peace-opening-of-strait-of-hormuz?traffic_source=rss",
+        "title": "Oil prices fall, stocks rally as US, Iran sign framework to end war",
+        "link": "https://www.aljazeera.com/economy/2026/6/18/oil-prices-fall-stocks-rally-as-us-iran-sign-framework-to-end-war?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-17T07:44:52+00:00",
+        "published_at_utc": "2026-06-18T03:45:13+00:00",
         "relevance_score": 19
       },
       {
-        "title": "China pledges support for trading of treasury bond futures in Hong Kong",
-        "link": "https://www.scmp.com/business/china-business/article/3357387/china-pledges-support-trading-treasury-bond-futures-hong-kong?utm_source=rss_feed",
+        "title": "Global investors remain in China’s orbit despite SpaceX blockbuster IPO: HKEX chief",
+        "link": "https://www.scmp.com/business/china-business/article/3357483/global-investors-remain-chinas-orbit-despite-spacex-blockbuster-ipo-hkex-chief?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-17T05:53:31+00:00",
+        "published_at_utc": "2026-06-18T00:14:37+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Is it bad that Elon Musk has a trillion dollars? Yes, and here’s why | Ingrid Robeyns",
-        "link": "https://www.theguardian.com/commentisfree/2026/jun/17/is-it-bad-that-elon-musk-has-a-trillion-dollars-yes-and-heres-why",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-17T04:00:21+00:00",
-        "relevance_score": 15
+        "title": "Hang Seng Index hits lowest level in a year on expectations of higher interest rates",
+        "link": "https://www.scmp.com/business/article/3357482/hkma-keeps-rate-unchanged-new-fed-chair-holds-steady-rate-rise-expected-later-year?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-17T23:21:32+00:00",
+        "relevance_score": 19
       },
       {
-        "title": "Starmer vows new sanctions on Russia and nuclear energy support for Ukraine",
-        "link": "https://www.theguardian.com/world/2026/jun/15/starmer-g7-sanctions-russia-nuclear-energy-support-ukraine",
+        "title": "Federal Reserve holds rates steady but signals possible hike before year’s end",
+        "link": "https://www.theguardian.com/business/2026/jun/17/federal-reserve-interest-rates",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-15T21:30:35+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Tallying the global cost of the US-Israel war against Iran",
-        "link": "https://www.theguardian.com/world/2026/jun/15/tallying-the-global-cost-of-the-us-israel-war-against-iran",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-15T13:45:01+00:00",
-        "relevance_score": 15
+        "published_at_utc": "2026-06-17T20:34:11+00:00",
+        "relevance_score": 19
       }
     ]
   },
