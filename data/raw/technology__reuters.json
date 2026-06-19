@@ -3,13 +3,13 @@
     "category": "technology",
     "source_name": "Reuters",
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:reuters.com+technology&ceid=US:en&hl=en-US&gl=US",
-    "feed_title": "\"when:24h allinurl:reuters.com technology\" - Google News",
-    "feed_link": "https://news.google.com/search?q=when:24h+allinurl:reuters.com+technology&ceid=US:en&hl=en-US&gl=US",
-    "fetched_at_utc": "2026-06-18T11:44:13.356976+00:00",
+    "feed_title": "",
+    "feed_link": "",
+    "fetched_at_utc": "2026-06-19T11:58:04.295344+00:00",
     "entry_count": 0,
-    "bozo": false,
+    "bozo": 1,
     "failed": true,
-    "failure_reason": "feed returned zero entries"
+    "failure_reason": "<unknown>:2:252: not well-formed (invalid token)"
   },
   "items": []
 }
