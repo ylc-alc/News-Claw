@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-05-21",
-      "topics": {
-        "technology": [
-          "chips",
-          "chips",
-          "chips"
-        ],
-        "politics": [
-          "us_politics",
-          "diplomacy",
-          "war_and_conflict"
-        ],
-        "economy": [
-          "interest_rates",
-          "inflation",
-          "inflation"
-        ]
-      }
-    },
-    {
       "date": "2026-05-22",
       "topics": {
         "technology": [
@@ -599,13 +579,33 @@
           "supply_chain"
         ]
       }
+    },
+    {
+      "date": "2026-06-21",
+      "topics": {
+        "technology": [
+          "ai",
+          "ai",
+          "space_tech"
+        ],
+        "politics": [
+          "us_politics",
+          "democracy_autocracy",
+          "diplomacy"
+        ],
+        "economy": [
+          "markets",
+          "supply_chain",
+          "general"
+        ]
+      }
     }
   ],
   "rolling_frequency": {
     "technology": {
-      "chips": 25,
-      "ai": 35,
-      "space_tech": 8,
+      "ai": 37,
+      "chips": 22,
+      "space_tech": 9,
       "cybersecurity": 10,
       "social_media": 8,
       "platform_regulation": 2,
@@ -613,25 +613,27 @@
       "general": 1
     },
     "politics": {
-      "us_politics": 34,
+      "war_and_conflict": 11,
       "diplomacy": 36,
-      "war_and_conflict": 12,
+      "us_politics": 34,
       "uk_politics": 2,
       "eu_policy": 2,
-      "social_protests": 4
+      "social_protests": 4,
+      "democracy_autocracy": 1
     },
     "economy": {
-      "interest_rates": 13,
-      "inflation": 23,
+      "inflation": 21,
       "sanctions": 11,
       "energy_markets": 9,
+      "interest_rates": 12,
       "emerging_markets": 1,
       "trade_wars": 8,
-      "markets": 20,
+      "markets": 21,
       "corporate_earnings": 1,
-      "supply_chain": 4
+      "supply_chain": 5,
+      "general": 1
     }
   },
   "window_days": 30,
-  "last_updated": "2026-06-20"
+  "last_updated": "2026-06-21"
 }
