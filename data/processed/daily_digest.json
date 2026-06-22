@@ -1,31 +1,64 @@
 {
-  "generated_at_utc": "2026-06-21T10:59:08.512983+00:00",
+  "generated_at_utc": "2026-06-22T13:26:10.972363+00:00",
   "summary": {
     "total_raw_items": 1074,
-    "total_deduped_items": 1061,
+    "total_deduped_items": 1052,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
+        "chips",
         "ai",
-        "ai",
-        "space_tech"
+        "chips"
       ],
       "politics": [
         "us_politics",
-        "democracy_autocracy",
-        "diplomacy"
+        "uk_politics",
+        "uk_politics"
       ],
       "economy": [
-        "markets",
-        "supply_chain",
-        "general"
+        "inflation",
+        "interest_rates",
+        "markets"
       ]
     },
-    "multi_source_selected_count": 2
+    "multi_source_selected_count": 6
   },
   "sections": {
     "technology": [
+      {
+        "category": "technology",
+        "source_name": "Rest of World",
+        "title": "Chinese universities are cutting language majors to make way for AI",
+        "link": "https://restofworld.org/2026/chinese-universities-drop-humanities-ai/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "summary": "Universities are dropping programs in translation and foreign languages while adding degrees in embodied intelligence, AI, and robotics.",
+        "published": "Mon, 22 Jun 2026 10:00:52 +0000",
+        "updated": "Mon, 22 Jun 2026 10:00:52 +0000",
+        "published_at_utc": "2026-06-22T10:00:52+00:00",
+        "id": "https://restofworld.org/2026/chinese-universities-drop-humanities-ai/",
+        "topic_type": "chips",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "Universities are dropping programs in translation and foreign languages while adding degrees in embodied intelligence, AI, and robotics.",
+          "news_focus_zh": "中國大學正在削減翻譯和外語專業，以便為人工智慧（AI）、機器人技術及具身智能等新興領域的學位課程騰出空間。這一變化反映了教育體系對科技發展的回應，並顯示出對未來職場需求的重新評估。",
+          "background": "隨著人工智慧技術的迅速發展，中國政府和教育機構正積極推動科技教育的轉型。過去幾年，AI和機器人技術在中國的應用越來越廣泛，促使大學調整課程設置以符合市場需求。此舉不僅是對科技進步的回應，也是對全球競爭的適應，尤其是在科技人才的培養上。語言專業的削減可能與中國在國際舞台上日益增強的自信心有關，顯示出對外語需求的相對減少。",
+          "stakeholders": [
+            "中國大學",
+            "科技企業",
+            "學生",
+            "教育政策制定者",
+            "社會大眾"
+          ],
+          "analysis": "這一政策變化可能會引發多方利益關係的調整。首先，科技企業將受益於更多具備AI和機器人技術知識的人才，這有助於推動行業創新與發展。其次，語言專業的學生和教師可能會感受到職業前景的壓力，因為市場需求的轉變使得他們的專業價值受到挑戰。此外，這一變化也可能引發社會對教育多樣性的討論，因為語言能力在全球化背景下仍然具有重要意義。未來，這一趨勢可能會進一步影響中國高等教育的結構，並引發其他國家對其教育政策的反思。"
+        },
+        "topic_priority_score": 10,
+        "event_type": "strategic_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
       {
         "category": "technology",
         "source_name": "TechCrunch",
@@ -37,19 +70,19 @@
         "published_at_utc": "2026-06-19T16:08:17+00:00",
         "id": "https://techcrunch.com/?post_type=tc_video&p=3134608",
         "topic_type": "ai",
-        "relevance_score": 21,
+        "relevance_score": 18,
         "briefing": {
           "news_focus": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
-          "news_focus_zh": "美國政府因國家安全考量，迫使人工智慧公司Anthropic撤回其最新的兩個模型Fable 5和Mythos 5。此舉是因為亞馬遜研究人員發現了繞過Fable 5安全防護的方式。隨後，網路安全研究人員發出公開信，稱此決定危險，並指出其他模型也存在相同的安全漏洞。",
-          "background": "在當前的科技環境中，人工智慧的發展迅速，許多公司都在競爭推出更先進的模型。然而，隨著技術的進步，國家安全的考量也日益重要。美國政府對於AI技術的監管愈加嚴格，特別是在涉及潛在的安全漏洞時。Anthropic作為一家專注於AI安全的公司，其產品的安全性對於市場信任和公司聲譽至關重要。此次事件突顯了政府在科技監管與企業創新之間的緊張關係。",
+          "news_focus_zh": "美國政府要求Anthropic撤回其最新的兩個模型Fable 5和Mythos 5，理由是國家安全考量，因為亞馬遜研究人員發現可以繞過Fable 5的安全防護。此舉引發了網絡安全研究人員的擔憂，他們簽署公開信表示此舉危險，並指出其他模型也存在類似的漏洞。這一事件引發了對Anthropic品牌的討論。",
+          "background": "Anthropic是一家專注於人工智慧的公司，其產品Fable 5和Mythos 5是最新的AI模型。美國政府對於AI技術的監管日益嚴格，尤其是在國家安全的背景下，這使得相關企業面臨更大的挑戰。此次事件反映出政府在保護國家安全與促進科技創新之間的矛盾，並且引發了業界對於AI模型安全性的廣泛討論。",
           "stakeholders": [
             "美國政府",
             "Anthropic",
-            "網路安全研究人員",
-            "競爭對手",
+            "網絡安全研究人員",
+            "AI技術開發者",
             "消費者"
           ],
-          "analysis": "此次美國政府的禁令可能意外地提升了Anthropic的品牌知名度。雖然撤回模型是基於安全考量，但這也引發了廣泛的討論，特別是在網路安全專家中，他們認為這樣的禁令可能會對整個AI行業造成負面影響。根據安全研究人員的觀點，這些漏洞並非Anthropic獨有，其他公司也可能面臨相似的問題。這使得市場對於AI產品的安全性提出了更高的要求，並可能促使業界進一步加強安全措施。未來，若政府持續施加壓力，可能會促使企業在開發新技術時更加謹慎，甚至影響其創新步伐。"
+          "analysis": "此次美國政府的禁令可能意外地提升了Anthropic的品牌知名度，因為這一事件引發了廣泛的媒體關注和討論。網絡安全研究人員的公開信強調了政府行動的潛在危險，這可能使得公眾對AI技術的安全性有了更深的認識。值得注意的是，Anthropic指出其他模型也存在相似的安全漏洞，這可能使政府的行動受到質疑，並引發對於AI監管政策的重新評估。未來，政府可能需要在安全與創新之間找到更好的平衡，以避免對科技發展造成不必要的阻礙。"
         },
         "topic_priority_score": 9,
         "event_type": "regulation_action",
@@ -62,63 +95,30 @@
       },
       {
         "category": "technology",
-        "source_name": "Wired",
-        "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
-        "link": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
-        "summary": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
-        "published": "Sun, 21 Jun 2026 10:30:00 +0000",
-        "updated": "Sun, 21 Jun 2026 10:30:00 +0000",
-        "published_at_utc": "2026-06-21T10:30:00+00:00",
-        "id": "6414b6effd989ed72a05dc47",
-        "topic_type": "ai",
-        "relevance_score": 17,
+        "source_name": "The Hindu International",
+        "title": "Wife of detained ex-Sri Lankan intelligence chief alleges harassment by agencies",
+        "link": "https://www.thehindu.com/news/international/wife-of-detained-ex-sri-lankan-intelligence-chief-alleges-harassment-by-agencies/article71130123.ece",
+        "summary": "I've been informed by my children that upon leaving the hospital premises, a CID officer has entered the lift with them and appeared to follow them, says Manori Sallay, ex- Sri Lanka's State Intelligence Service head Suresh Sallay's wife",
+        "published": "Sun, 21 Jun 2026 21:21:10 +0530",
+        "updated": "Sun, 21 Jun 2026 21:21:10 +0530",
+        "published_at_utc": "2026-06-21T15:51:10+00:00",
+        "id": "article-71130123",
+        "topic_type": "chips",
+        "relevance_score": 13,
         "briefing": {
-          "news_focus": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
-          "news_focus_zh": "本則新聞介紹了28個提升使用OpenAI聊天機器人ChatGPT提示的技巧，強調透過精巧的提示設計，使用者可以獲得更有趣和有價值的結果。這些技巧旨在幫助使用者更有效地與聊天機器人互動，從而提高生成內容的質量和相關性。",
-          "background": "隨著人工智慧技術的快速發展，聊天機器人已成為許多行業中的重要工具，尤其是在客戶服務、教育和創意寫作等領域。OpenAI的ChatGPT作為其中的佼佼者，吸引了大量使用者。然而，許多使用者在使用過程中可能未能充分發揮其潛力，這使得提升提示的技巧變得尤為重要。透過精心設計的提示，使用者能夠引導機器人生成更符合需求的內容，這對於提升工作效率和創造力具有重要意義。",
+          "news_focus": "I've been informed by my children that upon leaving the hospital premises, a CID officer has entered the lift with them and appeared to follow them, says Manori Sallay, ex- Sri Lanka's State Intelligence Service head Suresh Sallay's wife",
+          "news_focus_zh": "斯里蘭卡前情報首長蘇雷什·薩拉伊的妻子馬諾里·薩拉伊指控，當她的孩子們從醫院離開時，遭到刑事調查局（CID）官員的跟蹤。她表示，該官員在電梯內與她的孩子同乘，這一行為讓她感到不安，並懷疑當局對她家庭的騷擾。",
+          "background": "蘇雷什·薩拉伊曾擔任斯里蘭卡國家情報局的負責人，該機構在國內安全和反恐方面扮演重要角色。隨著斯里蘭卡政治局勢的變化，特別是在內戰結束後，情報機構的運作和透明度受到關注。近期，隨著政治緊張局勢的升高，對前官員及其家人的監視行為引發了社會的廣泛討論，尤其是在涉及人權和政府監控的議題上。",
           "stakeholders": [
-            "OpenAI",
-            "使用者",
-            "教育工作者",
-            "企業",
-            "科技開發者"
+            "馬諾里·薩拉伊",
+            "斯里蘭卡政府",
+            "刑事調查局",
+            "人權組織",
+            "前情報官員"
           ],
-          "analysis": "這篇文章的重點在於如何通過優化提示來提升ChatGPT的使用體驗。隨著AI技術的普及，越來越多的使用者希望能夠更有效地利用這些工具來滿足個人或商業需求。不同的使用者可能會對這些技巧有不同的需求，例如教育工作者可能更關注如何利用ChatGPT輔助教學，而企業則可能希望提高客戶互動的質量。這種需求的多樣性促使了對提示設計的深入探討，未來可能會出現更多針對特定領域的提示優化指南。"
+          "analysis": "馬諾里·薩拉伊的指控反映了斯里蘭卡當前政治環境中的緊張局勢，尤其是在前政府官員及其家屬面臨的潛在威脅。這一事件可能引發對政府行為的進一步審視，尤其是在涉及人權和公民自由的問題上。各方可能會對此事件作出不同反應：支持政府的人士可能會認為這是維護國家安全的必要措施，而人權倡導者則可能將其視為對個人自由的侵犯。隨著事件的發展，可能會出現對政府行為的法律挑戰，進一步加劇社會的分歧。"
         },
-        "topic_priority_score": 9,
-        "event_type": "commercial_update",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "SCMP World",
-        "title": "Hong Kong only place in China that can adopt model akin to SpaceX, CY Leung says",
-        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3357807/hong-kong-only-place-china-can-adopt-model-akin-spacex-cy-leung-says?utm_source=rss_feed",
-        "summary": "Hong Kong is the only place in China capable of replicating the financing model of US tech giant SpaceX, which leverages market forces to grow rapidly, former leader Leung Chun-ying has said, urging the city to develop professional services for the emerging aerospace industry. Leung, a vice-chairman of the Chinese People’s Political Consultative Conference, the country’s top political advisory body, also called on Hong Kong to make trade-offs when formulating its first five-year plan,...",
-        "published": "Sun, 21 Jun 2026 04:49:11 +0000",
-        "updated": "Sun, 21 Jun 2026 04:49:11 +0000",
-        "published_at_utc": "2026-06-21T04:49:11+00:00",
-        "id": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3357807/hong-kong-only-place-china-can-adopt-model-akin-spacex-cy-leung-says?utm_source=rss_feed",
-        "topic_type": "space_tech",
-        "relevance_score": 16,
-        "briefing": {
-          "news_focus": "Hong Kong is the only place in China capable of replicating the financing model of US tech giant SpaceX, which leverages market forces to grow rapidly, former leader Leung Chun-ying has said, urging the city to develop professional services for the emerging aerospace industry. Leung, a vice-chairman of the Chinese People’s Political Consultative Conference, the country’s top political advisory body, also called on Hong Kong to make trade-offs when formulating its first five-year plan,...",
-          "news_focus_zh": "香港前特首梁振英表示，香港是中國唯一能夠模仿美國太空科技公司SpaceX融資模式的地方，並呼籲香港發展專業服務以支持新興的航空航天產業。他強調在制定首個五年計劃時，香港應進行必要的取捨，以促進該產業的快速增長。",
-          "background": "香港的航空航天產業尚處於起步階段，然而隨著全球對太空探索和相關技術的需求上升，這一領域潛力巨大。SpaceX的成功模式主要依賴市場力量和創新融資方式，這對於希望在航空航天領域發展的香港來說，提供了可借鑒的範本。梁振英的提議反映出香港在中國經濟體系中的特殊地位，能夠吸引外資和專業人才，並促進本地產業的多元化發展。",
-          "stakeholders": [
-            "香港政府",
-            "航空航天企業",
-            "投資者",
-            "專業服務機構",
-            "中國中央政府"
-          ],
-          "analysis": "梁振英的言論突顯了香港在中國內地與國際市場之間的獨特角色，尤其是在高科技產業的發展上。若香港能夠成功模仿SpaceX的融資模式，將可能吸引更多的投資和專業人才，進一步推動航空航天產業的成長。然而，這也面臨著政策制定和資源配置的挑戰。香港政府需要在推動經濟增長與維護社會穩定之間找到平衡，特別是在制定首個五年計劃時，可能需要考慮各方利益的取捨。此舉也可能引發內部對於資源分配的討論，尤其是在面對其他傳統產業的支持需求時。"
-        },
-        "topic_priority_score": 4,
+        "topic_priority_score": 10,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -131,220 +131,264 @@
       {
         "category": "politics",
         "source_name": "The Guardian World",
-        "title": "US-Iran talks in Switzerland to get under way as strait of Hormuz remains closed",
-        "link": "https://www.theguardian.com/world/2026/jun/21/us-iran-talks-jd-vance-switzerland-strait-of-hormuz-lebanon",
-        "summary": "JD Vance says talks aim to ‘make progress on the nuclear issue, make progress on the Lebanon ceasefire issue’ Middle East crisis – live updates Talks between Iran and the US aimed at building out the fragile interim deal to end the war are due to get under way in Switzerland, beset by difficulties including an Iranian decision to keep the strait of Hormuz closed in protest at Donald Trump’s inability to force Israel to end the fighting in Lebanon. The US vice-president, JD Vance, leading the US delegation, said he was adding Lebanon to the agenda, which had originally been conceived to focus on the opening of the strait, the lifting of US sanctions on Iranian oil exports and the unfreezing of Iranian assets held overseas. Continue reading...",
-        "published": "Sun, 21 Jun 2026 10:04:26 GMT",
-        "updated": "2026-06-21T10:04:26Z",
-        "published_at_utc": "2026-06-21T10:04:26+00:00",
-        "id": "https://www.theguardian.com/world/2026/jun/21/us-iran-talks-jd-vance-switzerland-strait-of-hormuz-lebanon",
+        "title": "First Thing: Iran says there is ‘progress’ in talks despite Trump’s coarse threats",
+        "link": "https://www.theguardian.com/us-news/2026/jun/22/first-thing-iran-us-talks-progress-despite-trump-threats",
+        "summary": "US president threatened Iran over strait of Hormuz in sweary outburst. Plus, Starmer to step down as UK’s PM two years after historic landslide Don’t already get First Thing in your inbox? Sign up here Good morning. Iran’s foreign minister has declared “progress” after the first day of talks between high-ranking officials from Washington and Tehran ended in Switzerland, despite a tense opening marked by Donald Trump’s threats to restart attacks. Abbas Araghchi said Pakistani and Qatari mediation “has delivered major progress to end [the] Lebanon war”. Iran has been adamant that Israeli attacks on Hezbollah in Lebanon must end as part of any deal. The Israelis are not directly participating in the talks. What has been agreed? A joint statement from mediators Qatar and Pakistan said the ⁠US and Iran agreed a roadmap towards⁠ a final deal within 60 days. Technical talks between lower-ranked officials ​will continue for the rest of the week. In a development that is critical to unlocking progress, the US Treasury was also preparing to issue a 60-day waiver lifting sanctions on oil, petrochemicals and derivatives. What threat did Trump issue to the Iranians? Over the weekend, Iran said it had reinstated its blockade in the strait of Hormuz in protest at the continued Israeli strikes on Lebanon. The US president responded on social media, saying: “You close it and you won’t have a country. You won’t even make it back to your fucking country.” What impact has the war had on support within Iran for the government? Saeed Shah reports that the war has triggered a rare moment of solidarity in a country that was reeling from the killing of thousands of protesters by the authorities at the start of the year. Why has Starmer stood down? After months of internal party pressure and plunging poll numbers, his downfall has been triggered by key political misjudgments including appointing the Jeffery Epstein-linked Peter Mandelson as US ambassador despite a failed security vetting. Policy reversals have led to his MPs viewing him as weak, a sentiment reinforced by devastating losses in the May elections that underscored his deep unpopularity with voters. Continue reading...",
+        "published": "Mon, 22 Jun 2026 11:56:47 GMT",
+        "updated": "2026-06-22T11:56:47Z",
+        "published_at_utc": "2026-06-22T11:56:47+00:00",
+        "id": "https://www.theguardian.com/us-news/2026/jun/22/first-thing-iran-us-talks-progress-despite-trump-threats",
         "topic_type": "us_politics",
-        "relevance_score": 22,
+        "relevance_score": 28,
         "briefing": {
-          "news_focus": "JD Vance says talks aim to ‘make progress on the nuclear issue, make progress on the Lebanon ceasefire issue’ Middle East crisis – live updates Talks between Iran and the US aimed at building out the fragile interim deal to end the war are due to get under way in Switzerland, beset by difficulties including an Iranian decision to keep the strait of Hormuz closed in protest at Donald Trump’s inability to force Israel to end the fighting in Lebanon. The US vice-president, JD Vance, leading the US delegation, said he was adding Lebanon to the agenda, which had originally been conceived to focus on the opening of the strait, the lifting of US sanctions on Iranian oil exports and the unfreezing of Iranian assets held overseas. Continue reading...",
-          "news_focus_zh": "美國與伊朗的談判將在瑞士展開，旨在推進脆弱的臨時協議，結束當前的戰爭。美方副總統JD Vance表示，會議將新增黎巴嫩問題，原本的重點是開放霍爾木茲海峽、解除對伊朗石油出口的制裁及解凍海外伊朗資產。伊朗則因美國未能迫使以色列停止在黎巴嫩的攻擊，決定關閉霍爾木茲海峽以示抗議。",
-          "background": "霍爾木茲海峽是全球重要的石油運輸通道，伊朗的關閉行動反映了其對地區局勢的強烈反應。美國與伊朗之間的緊張關係持續，尤其是在核問題及地區衝突方面。此次會議的背景是黎巴嫩的戰爭升級，伊朗希望美方能施壓以色列停止攻擊，這使得談判的議題更加複雜。美方則希望在解決核問題的同時，處理黎巴嫩的安全局勢。",
+          "news_focus": "US president threatened Iran over strait of Hormuz in sweary outburst. Plus, Starmer to step down as UK’s PM two years after historic landslide Don’t already get First Thing in your inbox? Sign up here Good morning. Iran’s foreign minister has declared “progress” after the first day of talks between high-ranking officials from Washington and Tehran ended in Switzerland, despite a tense opening marked by Donald Trump’s threats to restart attacks. Abbas Araghchi said Pakistani and Qatari mediation “has delivered major progress to end [the] Lebanon war”. Iran has been adamant that Israeli attacks on Hezbollah in Lebanon must end as part of any deal. The Israelis are not directly participating in the talks. What has been agreed? A joint statement from mediators Qatar and Pakistan said the ⁠US and Iran agreed a roadmap towards⁠ a final deal within 60 days. Technical talks between lower-ranked officials ​will continue for the rest of the week. In a development that is critical to unlocking progress, the US Treasury was also preparing to issue a 60-day waiver lifting sanctions on oil, petrochemicals and derivatives. What threat did Trump issue to the Iranians? Over the weekend, Iran said it had reinstated its blockade in the strait of Hormuz in protest at the continued Israeli strikes on Lebanon. The US president responded on social media, saying: “You close it and you won’t have a country. You won’t even make it back to your fucking country.” What impact has the war had on support within Iran for the government? Saeed Shah reports that the war has triggered a rare moment of solidarity in a country that was reeling from the killing of thousands of protesters by the authorities at the start of the year. Why has Starmer stood down? After months of internal party pressure and plunging poll numbers, his downfall has been triggered by key political misjudgments including appointing the Jeffery Epstein-linked Peter Mandelson as US ambassador despite a failed security vetting. Policy reversals have led to his MPs viewing him as weak, a sentiment reinforced by devastating losses in the May elections that underscored his deep unpopularity with voters. Continue reading...",
+          "news_focus_zh": "伊朗外長阿巴斯·阿拉赫奇在瑞士的美伊高層會談首日後表示，雙方在談判中取得了進展。儘管美國總統特朗普對伊朗發出威脅，稱若封鎖霍爾木茲海將面臨嚴重後果，會談仍然繼續進行。卡塔爾和巴基斯坦作為調解者，發表聯合聲明指出，美伊雙方同意在60天內達成最終協議的路線圖，並將在接下來的幾天內進行技術性談判。美國財政部也計劃在60天內解除對石油及其衍生品的制裁。",
+          "background": "此次美伊會談是在霍爾木茲海局勢緊張的背景下進行的，伊朗因以色列對黎巴嫩的攻擊而重新封鎖該海域。特朗普的威脅反映了美國對伊朗行為的強烈反應，並可能影響談判的氣氛。伊朗方面則強調，任何協議必須包括結束以色列對真主黨的攻擊。此次會談由卡塔爾和巴基斯坦調解，顯示出這兩國在中東地區的外交影響力。",
           "stakeholders": [
-            "美國政府",
             "伊朗政府",
+            "美國政府",
             "以色列",
-            "黎巴嫩",
-            "國際社會"
+            "卡塔爾",
+            "巴基斯坦"
           ],
-          "analysis": "此次美伊談判的主要焦點在於如何在多重議題上取得進展。美方希望通過談判促進核問題的解決及解除對伊朗的制裁，而伊朗則強調黎巴嫩問題的重要性，要求美方對以色列施加壓力。參考報導指出，美方對伊朗關閉霍爾木茲海峽的說法表示質疑，這顯示出雙方在事實認知上的分歧。未來的談判可能會因為各方的立場不同而面臨挑戰，特別是在如何平衡地區安全與核問題的解決上。"
+          "analysis": "此次會談的進展對伊朗來說是一個重要的外交勝利，特別是在特朗普的威脅下，伊朗依然能夠保持談判的主動權。參考報導1指出，特朗普的威脅實際上可能被視為對伊朗的一種暫時性停火，這在某種程度上增強了伊朗的談判籌碼。參考報導2提供了會談的主要要點，強調了雙方在未來60天內達成協議的可能性，這顯示出各方在尋求穩定局勢的共同利益。然而，若以色列繼續其軍事行動，可能會對談判進程造成影響，並引發新的衝突。"
         },
         "topic_priority_score": 8,
-        "event_type": "security_event",
+        "event_type": "election_move",
         "supporting_sources": [
-          "BBC World",
-          "Al Jazeera"
+          "Taipei Times",
+          "The Hindu International"
         ],
         "supporting_titles": [
-          "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
-          "US-Iran talks in Switzerland: Is Lebanon top of agenda; who is attending?"
+          "Trump’s ceasefire is a victory for Iran",
+          "Key points from the first round of Iran-U.S. talks"
         ],
         "supporting_summaries": [
-          "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
-          "Iran wants the US to pressure Israel to stop the war in Lebanon, which has reeled from renewed attacks."
+          "",
+          "Here are the main points from the joint Qatar-Pakistan statement at the conclusion of first-round talks"
         ],
         "supporting_links": [
-          "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-          "https://www.aljazeera.com/news/2026/6/21/us-iran-talks-in-switzerland-is-lebanon-top-of-agenda-who-is-attending?traffic_source=rss"
+          "https://www.taipeitimes.com/News/editorials/archives/2026/06/22/2003859506",
+          "https://www.thehindu.com/news/international/key-points-from-the-first-round-of-iran-us-talks/article71131649.ece"
         ],
         "source_count": 3
       },
       {
         "category": "politics",
-        "source_name": "SCMP World",
-        "title": "The US town, the Chinese company and the bankrupting battle over a battery plant",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3357820/us-town-chinese-company-and-bankrupting-battle-over-battery-plant?utm_source=rss_feed",
-        "summary": "Less than three years ago, residents of a small rural township in the US state of Michigan packed a community hall to celebrate what many saw as a victory for local democracy over a Chinese-headquartered battery manufacturer. The residents of Green Charter Township prayed, cheered and congratulated one another for overturning a town board that had supported Gotion’s proposed US$2.36 billion electric vehicle battery project. As the new board quickly rescinded the Gotion plan, the residents...",
-        "published": "Sun, 21 Jun 2026 09:00:06 +0000",
-        "updated": "Sun, 21 Jun 2026 09:00:06 +0000",
-        "published_at_utc": "2026-06-21T09:00:06+00:00",
-        "id": "https://www.scmp.com/news/china/diplomacy/article/3357820/us-town-chinese-company-and-bankrupting-battle-over-battery-plant?utm_source=rss_feed",
-        "topic_type": "democracy_autocracy",
+        "source_name": "Al Jazeera",
+        "title": "Political turmoil: UK will see its seventh prime minister in 10 years",
+        "link": "https://www.aljazeera.com/news/2026/6/22/political-turmoil-uk-will-see-its-seventh-prime-minister-in-10-years?traffic_source=rss",
+        "summary": "After less than two years as PM, Keir Starmer announces his resignation amid mounting pressure from own Labour Party.",
+        "published": "Mon, 22 Jun 2026 11:08:46 +0000",
+        "updated": "Mon, 22 Jun 2026 11:08:46 +0000",
+        "published_at_utc": "2026-06-22T11:08:46+00:00",
+        "id": "https://www.aljazeera.com/?t=1782118802",
+        "topic_type": "uk_politics",
         "relevance_score": 20,
         "briefing": {
-          "news_focus": "Less than three years ago, residents of a small rural township in the US state of Michigan packed a community hall to celebrate what many saw as a victory for local democracy over a Chinese-headquartered battery manufacturer. The residents of Green Charter Township prayed, cheered and congratulated one another for overturning a town board that had supported Gotion’s proposed US$2.36 billion electric vehicle battery project. As the new board quickly rescinded the Gotion plan, the residents...",
-          "news_focus_zh": "美國密西根州的格林查特鎮居民在不到三年的時間內，成功推翻了支持中國電池製造商Gotion的計劃，該計劃涉及一項價值23.6億美元的電動車電池項目。居民們在社區大廳慶祝這一勝利，認為這是地方民主的勝利，並對新成立的董事會迅速撤回Gotion計劃表示讚賞。",
-          "background": "Gotion是一家總部位於中國的電池製造公司，專注於電動車電池的生產。隨著全球對電動車需求的增加，許多地方政府積極吸引外資以促進當地經濟發展。然而，這也引發了當地居民對環境影響和外國企業控制資源的擔憂。在密西根州，電動車產業的發展被視為重要的經濟機會，但同時也面臨著社區對外資企業的抵制和擔憂。",
+          "news_focus": "After less than two years as PM, Keir Starmer announces his resignation amid mounting pressure from own Labour Party.",
+          "news_focus_zh": "英國首相基爾·斯塔默（Keir Starmer）在任期不到兩年後宣布辭職，原因是來自工黨內部的壓力與地方選舉的失利。這一決定標誌著英國將迎來第七位首相，反映出當前政治局勢的動盪。",
+          "background": "英國工黨在最近的地方選舉中遭遇重大失利，這使得斯塔默面臨來自黨內的強烈反對聲浪。工黨內部的分歧與不滿情緒加劇，導致斯塔默的領導地位岌岌可危。過去十年，英國經歷了多次政權更迭，政治穩定性受到挑戰，這也使得選民對現任政府的信任度下降。",
           "stakeholders": [
-            "格林查特鎮居民",
-            "Gotion公司",
-            "密西根州政府",
-            "當地企業",
-            "環保團體"
+            "基爾·斯塔默",
+            "工黨",
+            "國王查爾斯三世",
+            "選民",
+            "政治分析人士"
           ],
-          "analysis": "格林查特鎮居民的行動反映了對外資企業進入當地市場的警惕，尤其是在環境和社區影響方面。居民們的成功推翻Gotion計劃，顯示出地方民主在面對大型企業時的力量。然而，這也可能對當地經濟造成影響，因為Gotion的項目本可能帶來就業機會和投資。未來，其他地方政府在考慮引入外資項目時，可能會更加謹慎，並加強與社區的溝通，以避免類似的衝突。"
+          "analysis": "斯塔默的辭職反映了工黨內部的深刻分歧，尤其是在面對選舉失利後，黨內對其領導能力的質疑加劇。根據參考報導，斯塔默在辭職前曾與國王查爾斯三世進行了通報，顯示出其辭職的正式性與嚴重性。未來，工黨將面臨選擇新領導人的挑戰，而這可能會影響到其在即將到來的全國大選中的表現。不同報導中，Fox News特別強調了地方選舉的失利對斯塔默辭職的直接影響，而The Hindu則著重於斯塔默與國王的溝通過程，顯示出其辭職的正式性。"
         },
-        "topic_priority_score": 6,
-        "event_type": "policy_action",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "topic_priority_score": 9,
+        "event_type": "diplomatic_move",
+        "supporting_sources": [
+          "Fox News World",
+          "The Hindu International"
+        ],
+        "supporting_titles": [
+          "Keir Starmer resigns as British prime minister after devastating Labour revolt and local election losses",
+          "Keir Starmer announces his resignation as U.K. Prime Minister"
+        ],
+        "supporting_summaries": [
+          "British PM Keir Starmer announced his resignation after Labour's devastating local election losses and a mounting revolt from within his own party ranks.",
+          "Prime Minister Keir Starmer had informed King Charles III of his decision on Monday morning, following a weekend of deliberation at his official country home, Chequers"
+        ],
+        "supporting_links": [
+          "https://www.foxnews.com/world/keir-starmer-resigns-british-prime-minister-after-devastating-labour-revolt-local-election-losses",
+          "https://www.thehindu.com/news/international/starmer-announces-exit-timetable-as-rival-burnham-heads-to-uk-parliament/article71131866.ece"
+        ],
+        "source_count": 3
       },
       {
         "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "Trump escalates spat over photo at G7 Summit; Meloni hits back at ‘constant, senseless attacks’",
-        "link": "https://www.thehindu.com/news/international/trump-response-italy-pm-meloni-photo-war-of-words/article71125913.ece",
-        "summary": "The President hit out at the Italian PM, alleging that she “wants to be friends again” after U.S. “defeated” Iran militarily",
-        "published": "Sat, 20 Jun 2026 22:10:40 +0530",
-        "updated": "Sat, 20 Jun 2026 22:10:40 +0530",
-        "published_at_utc": "2026-06-20T16:40:40+00:00",
-        "id": "article-71125913",
-        "topic_type": "diplomacy",
-        "relevance_score": 19,
+        "source_name": "Al Jazeera",
+        "title": "UK Prime Minister Keir Starmer announces resignation plan",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/uk-prime-minister-keir-starmer-announces-resignation-plan?traffic_source=rss",
+        "summary": "UK Prime Minister Keir Starmer was visibly emotional as he announced plans to step down.",
+        "published": "Mon, 22 Jun 2026 09:08:30 +0000",
+        "updated": "Mon, 22 Jun 2026 09:08:30 +0000",
+        "published_at_utc": "2026-06-22T09:08:30+00:00",
+        "id": "https://www.aljazeera.com/?t=1782119120",
+        "topic_type": "uk_politics",
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "The President hit out at the Italian PM, alleging that she “wants to be friends again” after U.S. “defeated” Iran militarily",
-          "news_focus_zh": "特朗普在G7峰會上加劇了與意大利總理梅洛尼的爭執，指責她在美國對伊朗的軍事行動後，想要重新建立友好關係。梅洛尼則回應稱，特朗普的攻擊是‘持續且毫無意義的’。",
-          "background": "特朗普與梅洛尼之間的緊張關係反映了美國與意大利之間的外交互動。隨著特朗普在國際舞台上的影響力依然存在，梅洛尼作為意大利的領導者，面臨著如何在保持國家利益與應對外部壓力之間取得平衡的挑戰。G7峰會作為主要經濟體領導人會議，通常是討論全球性議題的場合，然而，個別國家領導人的衝突可能會影響會議的整體氛圍與成果。",
+          "news_focus": "UK Prime Minister Keir Starmer was visibly emotional as he announced plans to step down.",
+          "news_focus_zh": "英國首相基爾·斯塔默（Keir Starmer）在情緒激動的情況下宣布計劃辭職，這一消息震驚了政壇。斯塔默的辭職決定是在經過一周末的深思熟慮後做出的，並已於週一早上通知了查爾斯三世國王。",
+          "background": "斯塔默的辭職決定是在英國工黨面臨重大挑戰的背景下做出的，尤其是最近的地方選舉中遭遇慘敗，這使得他在黨內的支持受到嚴重考驗。工黨內部的反叛聲音日益增強，許多黨員對斯塔默的領導能力表示懷疑，這使得他不得不考慮辭職的選擇。這一事件發生在英國政治氣候不穩定的時期，對未來的選舉和政策方向可能產生深遠影響。",
           "stakeholders": [
-            "唐納德·特朗普",
-            "喬治亞·梅洛尼",
-            "G7成員國",
-            "意大利政府",
-            "美國政府"
+            "基爾·斯塔默",
+            "工黨",
+            "查爾斯三世",
+            "選民",
+            "政界觀察者"
           ],
-          "analysis": "特朗普對梅洛尼的指責顯示出他對於國際關係的強硬立場，尤其是在涉及美國軍事行動的議題上。梅洛尼的反擊則表明她不願意接受這種攻擊，並試圖維護意大利的國際形象。這種爭執可能會影響兩國的外交關係，尤其是在未來的貿易與安全合作上。此外，特朗普的言論可能會在美國國內引發不同的反應，支持者可能會贊同他的強硬立場，而反對者則可能批評其對外政策的衝動性。未來，梅洛尼是否會選擇進一步回應或是尋求緩和關係，將是觀察的重點。"
+          "analysis": "斯塔默的辭職反映了工黨內部的分歧與不滿，尤其是在選舉失利後，黨內對其領導的質疑聲音愈發強烈。根據《福克斯新聞》的報導，斯塔默的辭職與黨內的叛變有關，顯示出他在黨內的支持基礎已經動搖。另一方面，《印度教徒報》則強調了斯塔默在做出辭職決定前的深思熟慮，這可能暗示他對未來的政治生涯仍有考量。隨著工黨尋求新的領導者，未來的政治格局將可能出現變化，尤其是在即將到來的選舉中，工黨需要重新獲得選民的信任。"
         },
-        "topic_priority_score": 7,
-        "event_type": "security_event",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "topic_priority_score": 9,
+        "event_type": "diplomatic_move",
+        "supporting_sources": [
+          "The Hindu International",
+          "Fox News World"
+        ],
+        "supporting_titles": [
+          "Keir Starmer announces his resignation as U.K. Prime Minister",
+          "Keir Starmer resigns as British prime minister after devastating Labour revolt and local election losses"
+        ],
+        "supporting_summaries": [
+          "Prime Minister Keir Starmer had informed King Charles III of his decision on Monday morning, following a weekend of deliberation at his official country home, Chequers",
+          "British PM Keir Starmer announced his resignation after Labour's devastating local election losses and a mounting revolt from within his own party ranks."
+        ],
+        "supporting_links": [
+          "https://www.thehindu.com/news/international/starmer-announces-exit-timetable-as-rival-burnham-heads-to-uk-parliament/article71131866.ece",
+          "https://www.foxnews.com/world/keir-starmer-resigns-british-prime-minister-after-devastating-labour-revolt-local-election-losses"
+        ],
+        "source_count": 3
       }
     ],
     "economy": [
       {
         "category": "economy",
         "source_name": "The Guardian Business",
-        "title": "Burnham must be upfront about tax or risk spooking the bond markets | Heather Stewart",
-        "link": "https://www.theguardian.com/politics/2026/jun/21/andy-burnham-leadership-labour-makerfield-no-10-tax-spooking-bond-markets",
-        "summary": "Victory in Makerfield is propelling him towards No 10 but investors expect to know how he will fund his promises Burnham allies confident of ‘coronation’ Andy Burnham’s thumping victory in the Makerfield byelection came and went without the bond market rout that Rachel Reeves’s backers had warned about. But as he moves towards the premiership, Burnham would be wise to set clear expectations about tax and spend, and to be upfront about the fact that not everyone can be a winner. The yield, or interest rate, on UK government bonds did move up on Friday, but only modestly. That relative calm was partly because a Burnham win was already priced in, and because he took out the insurance policy of loudly promising to stick by Reeves’s budget rules. Continue reading...",
-        "published": "Sun, 21 Jun 2026 10:04:02 GMT",
-        "updated": "2026-06-21T10:04:02Z",
-        "published_at_utc": "2026-06-21T10:04:02+00:00",
-        "id": "https://www.theguardian.com/politics/2026/jun/21/andy-burnham-leadership-labour-makerfield-no-10-tax-spooking-bond-markets",
-        "topic_type": "markets",
-        "relevance_score": 25,
+        "title": "‘Every time you turn around, there’s a new price increase’: US small-business optimism plummets",
+        "link": "https://www.theguardian.com/us-news/2026/jun/22/us-small-business-optimism",
+        "summary": "At the same time, 29% of small-business owners also report having open positions they can’t fill Amid rising fuel prices and inflation across the US, confidence among small-business owners has declined in recent weeks as many continue to grapple with higher costs and economic uncertainty. According to the National Federation of Independent Business, its Small Business Optimism Index fell by 0.6 points to 95.3 in May. At the same time, 29% of small-business owners reported having open positions they could not fill – the lowest level since the Covid-19 pandemic. Continue reading...",
+        "published": "Mon, 22 Jun 2026 12:00:24 GMT",
+        "updated": "2026-06-22T12:00:24Z",
+        "published_at_utc": "2026-06-22T12:00:24+00:00",
+        "id": "https://www.theguardian.com/us-news/2026/jun/22/us-small-business-optimism",
+        "topic_type": "inflation",
+        "relevance_score": 23,
         "briefing": {
-          "news_focus": "Victory in Makerfield is propelling him towards No 10 but investors expect to know how he will fund his promises Burnham allies confident of ‘coronation’ Andy Burnham’s thumping victory in the Makerfield byelection came and went without the bond market rout that Rachel Reeves’s backers had warned about. But as he moves towards the premiership, Burnham would be wise to set clear expectations about tax and spend, and to be upfront about the fact that not everyone can be a winner. The yield, or interest rate, on UK government bonds did move up on Friday, but only modestly. That relative calm was partly because a Burnham win was already priced in, and because he took out the insurance policy of loudly promising to stick by Reeves’s budget rules. Continue reading...",
-          "news_focus_zh": "安迪·伯納姆在Makerfield的補選中獲得壓倒性勝利，這使他向英國首相職位邁進。然而，投資者希望他能清楚說明如何為其承諾的政策提供資金。儘管英國政府債券的收益率在周五略微上升，但市場反應相對平靜，部分原因是伯納姆的勝利已經被市場預期，且他承諾遵循瑞芙斯的預算規則以穩定投資者信心。",
-          "background": "英國的補選通常被視為對執政黨政策的公投，伯納姆的勝利顯示出選民對他政策的支持。隨著他向首相職位邁進，市場對其財政策略的期待也日益增加。伯納姆的勝利未引發預期中的債券市場動盪，顯示出市場對其未來政策的某種程度信心。然而，投資者仍然關注其稅收和支出計劃，因為這將直接影響政府的財政健康和市場信心。",
+          "news_focus": "At the same time, 29% of small-business owners also report having open positions they can’t fill Amid rising fuel prices and inflation across the US, confidence among small-business owners has declined in recent weeks as many continue to grapple with higher costs and economic uncertainty. According to the National Federation of Independent Business, its Small Business Optimism Index fell by 0.6 points to 95.3 in May. At the same time, 29% of small-business owners reported having open positions they could not fill – the lowest level since the Covid-19 pandemic. Continue reading...",
+          "news_focus_zh": "美國小企業主的信心因燃料價格上漲和通脹持續上升而顯著下降。根據全國獨立企業聯盟的數據，小企業樂觀指數在5月份下降了0.6點，降至95.3。此外，29%的小企業主表示有職位空缺無法填補，這是自新冠疫情以來的最低水平，顯示出經濟不確定性對小企業的影響。",
+          "background": "美國小企業在經濟中扮演著重要角色，然而，隨著通脹上升和燃料價格飆升，這些企業面臨著前所未有的挑戰。根據全國獨立企業聯盟的報告，這些小企業的信心指數反映了他們對未來經濟狀況的擔憂。此外，勞動市場的緊張情況也使得小企業難以招聘到合適的人才，進一步加劇了他們的經營困難。這些因素共同影響了小企業的運營和發展前景。",
           "stakeholders": [
-            "安迪·伯納姆",
-            "投資者",
-            "英國政府",
-            "市場分析師",
-            "選民"
+            "小企業主",
+            "全國獨立企業聯盟",
+            "消費者",
+            "政策制定者",
+            "勞動市場"
           ],
-          "analysis": "伯納姆的勝利可能會使他在未來的政策制定中獲得更大權力，但他需要在稅收和支出方面保持透明，以避免引發市場的不安。儘管市場對他的勝利反應平靜，但收益率的上升顯示出投資者仍然對未來的財政策略持謹慎態度。伯納姆若能清楚界定其財政策略，將有助於穩定市場信心，否則可能面臨投資者的質疑和市場的波動。此外，瑞芙斯的預算規則作為一種保險政策，若無法有效執行，將可能影響伯納姆的政治前景和市場反應。"
+          "analysis": "小企業主的信心下降反映了當前經濟環境的挑戰，尤其是通脹和燃料價格的上升。這對於小企業的生存與發展構成了壓力，因為他們通常缺乏大企業的資源來應對成本上升。根據參考報導，全球化的變化可能影響到美國的經濟環境，特別是在國家自主權和經濟整合的背景下，這可能會進一步影響小企業的經營策略和市場定位。未來，小企業可能需要尋求創新和靈活的解決方案來應對這些挑戰，並可能促使政策制定者考慮如何支持這一重要經濟部門。"
         },
-        "topic_priority_score": 4,
-        "event_type": "rate_decision",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "Energy security fears drive global surge in orders for Chinese storage firms",
-        "link": "https://www.scmp.com/business/climate-and-energy/article/3357768/energy-security-fears-drive-global-surge-orders-chinese-storage-firms?utm_source=rss_feed",
-        "summary": "The lingering energy shock is driving overseas orders for China’s energy storage companies, with more than 25 gigawatt-hours (GWh) of capacity to be built in the US and European countries. The global demand for energy storage facilities has been driven by disruptions to oil and gas supply chains stemming from the Middle Eastern conflicts and the urgent need by developed markets to upgrade ageing grids, according to Matty Zhao, co-head of China equity at BofA Global Research. Regardless of the...",
-        "published": "Sun, 21 Jun 2026 07:00:05 +0000",
-        "updated": "Sun, 21 Jun 2026 07:00:05 +0000",
-        "published_at_utc": "2026-06-21T07:00:05+00:00",
-        "id": "https://www.scmp.com/business/climate-and-energy/article/3357768/energy-security-fears-drive-global-surge-orders-chinese-storage-firms?utm_source=rss_feed",
-        "topic_type": "supply_chain",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "The lingering energy shock is driving overseas orders for China’s energy storage companies, with more than 25 gigawatt-hours (GWh) of capacity to be built in the US and European countries. The global demand for energy storage facilities has been driven by disruptions to oil and gas supply chains stemming from the Middle Eastern conflicts and the urgent need by developed markets to upgrade ageing grids, according to Matty Zhao, co-head of China equity at BofA Global Research. Regardless of the...",
-          "news_focus_zh": "由於持續的能源危機，海外對中國能源儲存公司的訂單激增，預計將在美國和歐洲建造超過25吉瓦時（GWh）的儲能容量。根據美國銀行全球研究的中國股權聯合主管Matty Zhao的說法，全球對能源儲存設施的需求主要受到中東衝突導致的石油和天然氣供應鏈中斷，以及發達市場急需升級老舊電網的驅動。",
-          "background": "全球能源市場正面臨前所未有的挑戰，特別是由於中東地區的政治不穩定，導致石油和天然氣供應鏈受到影響。這種情況促使各國尋求更可靠的能源儲存解決方案，以確保能源安全。此外，許多發達國家的電網基礎設施已經老化，急需升級以應對日益增長的能源需求。這使得能源儲存技術的需求迅速上升，尤其是來自中國的儲能產品，因其在成本和技術上具有競爭優勢。",
-          "stakeholders": [
-            "中國能源儲存公司",
-            "美國政府",
-            "歐洲國家",
-            "投資者",
-            "可再生能源企業"
-          ],
-          "analysis": "中國的能源儲存企業正面臨前所未有的機會，隨著全球對能源安全的重視程度提高，這些企業的產品需求大幅上升。美國和歐洲市場的訂單增長，顯示出這些地區對於減少對傳統能源依賴的迫切需求。各國政府可能會加大對可再生能源和儲能技術的投資，以應對未來的能源挑戰。然而，這也可能引發地緣政治的緊張，特別是在技術轉移和市場競爭方面。儘管目前沒有其他報導提供不同的觀點，但未來可能會出現對中國儲能技術的質疑，特別是在安全性和可靠性方面。"
-        },
-        "topic_priority_score": 6,
-        "event_type": "energy_supply_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Condemned to plutocracy? The relentless rise of US inequality",
-        "link": "https://www.theguardian.com/us-news/2026/jun/21/us-inequality-plutocracy",
-        "summary": "Elon Musk is a beneficiary of America’s lopsided prosperity – does the country have any appetite for redistribution? As Barack Obama’s presidency was coming to a close, Jason Furman, then chairman of the president’s council of economic advisers, laid out the strides his administration had made to curb the nation’s exorbitant income inequality in “the largest investments in reducing inequality since the Great Society”. Indeed, by the end of 2016, taxes and transfers cut the share of income accruing to the richest 1% of households by just over a fifth, according to estimates from the congressional budget office (CBO), more than under any government since at least Jimmy Carter’s. They raised the slice of income going to the poorest fifth from 3.9% to 7.9%, the highest share since at least 1979. Eduardo Porter is a journalist focused on economics and politics. He writes the newsletter Being There on Substack Continue reading...",
-        "published": "Sun, 21 Jun 2026 08:00:25 GMT",
-        "updated": "2026-06-21T08:00:25Z",
-        "published_at_utc": "2026-06-21T08:00:25+00:00",
-        "id": "https://www.theguardian.com/us-news/2026/jun/21/us-inequality-plutocracy",
-        "topic_type": "general",
-        "relevance_score": 12,
-        "briefing": {
-          "news_focus": "Elon Musk is a beneficiary of America’s lopsided prosperity – does the country have any appetite for redistribution? As Barack Obama’s presidency was coming to a close, Jason Furman, then chairman of the president’s council of economic advisers, laid out the strides his administration had made to curb the nation’s exorbitant income inequality in “the largest investments in reducing inequality since the Great Society”. Indeed, by the end of 2016, taxes and transfers cut the share of income accruing to the richest 1% of households by just over a fifth, according to estimates from the congressional budget office (CBO), more than under any government since at least Jimmy Carter’s. They raised the slice of income going to the poorest fifth from 3.9% to 7.9%, the highest share since at least 1979. Eduardo Porter is a journalist focused on economics and politics. He writes the newsletter Being There on Substack Continue reading...",
-          "news_focus_zh": "本則新聞探討了美國日益嚴重的收入不平等問題，並指出埃隆·馬斯克等富裕人士是這種不平等的受益者。報導回顧了巴拉克·歐巴馬總統任內的努力，強調其政府在減少收入不平等方面的成就，特別是稅收和轉移支付對於最富有的1%家庭的收入份額的影響，顯示出自吉米·卡特以來最大的減少幅度。",
-          "background": "美國的收入不平等問題由來已久，尤其在過去幾十年中愈演愈烈。根據國會預算辦公室的估算，歐巴馬政府在任內進行了多項政策改革，旨在透過稅收和社會福利措施來縮小貧富差距。這些措施在2016年達到高峰，最富裕的1%家庭的收入份額顯著下降，而最貧困的五分之一家庭的收入份額則上升至1979年以來的最高水平。這一背景凸顯了美國社會對於收入再分配的需求與挑戰。",
-          "stakeholders": [
-            "美國政府",
-            "富裕階層",
-            "低收入家庭",
-            "經濟學家",
-            "社會運動組織"
-          ],
-          "analysis": "報導中提到的收入不平等問題引發了對美國經濟體系的深刻反思。雖然歐巴馬政府的政策在一定程度上緩解了不平等，但隨著馬斯克等富豪的崛起，社會對於進一步再分配的意願仍然不足。這表明，儘管有政策努力，社會對於富裕階層的接受度依然高，可能會影響未來政策的推動。此外，參考報導未涉及美國的收入不平等問題，主要聚焦於新興市場的經濟表現，這顯示出不同報導對於全球經濟的關注重點有所不同，未來可能會影響各國的經濟政策與合作。"
-        },
-        "topic_priority_score": 3,
-        "event_type": "macro_signal",
+        "topic_priority_score": 9,
+        "event_type": "inflation_data",
         "supporting_sources": [
           "The Economist"
         ],
         "supporting_titles": [
-          "Can emerging markets’ stellar run continue?"
+          "The new globalisation paradox"
         ],
         "supporting_summaries": [
-          "There is a lot more going for them than “sell America”"
+          "In the age of Donald Trump, national autonomy requires deeper integration. Brazil shows why"
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2026/02/04/can-emerging-markets-stellar-run-continue"
+          "https://www.economist.com/finance-and-economics/2025/10/30/the-new-globalisation-paradox"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "economy",
+        "source_name": "BBC Business",
+        "title": "Alan Greenspan, architect of the modern American economy, dies aged 100",
+        "link": "https://www.bbc.com/news/articles/cjer7x7yl12o?at_medium=RSS&at_campaign=rss",
+        "summary": "As chairman of the Federal Reserve, Alan Greenspan became the world's most high-profile banker.",
+        "published": "Mon, 22 Jun 2026 11:55:36 GMT",
+        "updated": "Mon, 22 Jun 2026 11:55:36 GMT",
+        "published_at_utc": "2026-06-22T11:55:36+00:00",
+        "id": "https://www.bbc.com/news/articles/cjer7x7yl12o#0",
+        "topic_type": "interest_rates",
+        "relevance_score": 23,
+        "briefing": {
+          "news_focus": "As chairman of the Federal Reserve, Alan Greenspan became the world's most high-profile banker.",
+          "news_focus_zh": "美國聯邦儲備委員會前主席艾倫·格林斯潘（Alan Greenspan）於100歲逝世，成為全球最具影響力的銀行家之一。他在四位總統任內擔任聯儲主席，對美國貨幣政策的制定影響深遠。根據報導，格林斯潘因帕金森病併發症去世，這一消息由他的妻子安德烈亞·米切爾（Andrea Mitchell）透露。",
+          "background": "艾倫·格林斯潘於1987年至2006年擔任美國聯邦儲備委員會主席，期間經歷了多次經濟波動，包括1990年代的經濟繁榮和2008年金融危機的前夕。他的政策被認為是推動美國經濟增長的重要因素，尤其是在科技泡沫時期。格林斯潘的任期內，聯儲的利率政策和通脹控制策略對全球金融市場產生了深遠影響，並使他成為經濟學界的標誌性人物。",
+          "stakeholders": [
+            "美國聯邦儲備委員會",
+            "金融市場投資者",
+            "美國政府",
+            "經濟學界",
+            "媒體"
+          ],
+          "analysis": "格林斯潘的逝世對金融市場的影響尚不明朗，但市場在他去世的消息中顯示出相對穩定，這可能與英國首相基爾·史達默的辭職同時發生有關。根據參考報導，市場對於即將進行的領導競選持謹慎態度，並希望候選人能夠清晰表達其政策立場，以減少不確定性。儘管格林斯潘的影響力無可否認，但當前市場的焦點似乎更集中於英國的政治變局，顯示出不同事件間的相互影響。"
+        },
+        "topic_priority_score": 10,
+        "event_type": "rate_decision",
+        "supporting_sources": [
+          "The Guardian World",
+          "The Guardian Business"
+        ],
+        "supporting_titles": [
+          "Alan Greenspan, longtime head of the US federal reserve, dies aged 100",
+          "Markets steady as prime minister Keir Starmer resigns; ex-Fed chair Alan Greenspan dies at 100 – business live"
+        ],
+        "supporting_summaries": [
+          "Greenspan served under the presidencies of Ronald Reagan, George HW Bush, Bill Clinton and George W Bush Alan Greenspan , the influential economist who ​steered US ⁠monetary policy ⁠during ​his ‌five ‌terms as chair ‌of the Federal Reserve ‌under four presidents, ​has died aged 100, according to the Fed. In a statement that she shared with NBC News , Andrea Mitchell – Greenspan’s wife and a correspondent of the network – said he died from complications of Parkinson’s disease. Continue reading...",
+          "Sterling and gilts avoid major swings amid Starmer’s resignation Markets seem to be appeased by news of a (relatively) standard leadership contest, which will shake out any policy positions from prospective prime minister before they take post. That could help reduce any jitters from some corners of the market ove r Andy Burnham’s potential leadership. according to Richard Carter , head of fixed interest research at Quilter Cheviot . Markets are wary of Burnham’s previous policy positions so they would prefer to see ideas for governing fleshed out via a leadership contest, keeping surprises to a minimum. There are difficult decisions around welfare and defence spending lurking, with each likely to have an impact on gilts and wider UK markets. Continue reading..."
+        ],
+        "supporting_links": [
+          "https://www.theguardian.com/business/2026/jun/22/alan-greenspan-dies-aged-100",
+          "https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live"
+        ],
+        "source_count": 3
+      },
+      {
+        "category": "economy",
+        "source_name": "SCMP Business",
+        "title": "The panda bonds: how China uses assets to boost yuan’s profile, cement partnerships",
+        "link": "https://www.scmp.com/business/banking-finance/article/3357883/panda-bonds-how-china-uses-assets-boost-yuans-profile-cement-partnerships?utm_source=rss_feed",
+        "summary": "Brazil is set to become the latest major economy to issue panda bonds – yuan-denominated debt sold in the Chinese market – joining a growing group of countries that has embraced assets backed by China’s currency as a means of fundraising. According to analysts, the participation of Brazil – a founding member of the Brics (Brazil, Russia, India, China and South Africa) bloc of emerging markets and the world’s 10th-largest economy – marked a milestone for China, which is leveraging the wide...",
+        "published": "Mon, 22 Jun 2026 11:00:09 +0000",
+        "updated": "Mon, 22 Jun 2026 11:00:09 +0000",
+        "published_at_utc": "2026-06-22T11:00:09+00:00",
+        "id": "https://www.scmp.com/business/banking-finance/article/3357883/panda-bonds-how-china-uses-assets-boost-yuans-profile-cement-partnerships?utm_source=rss_feed",
+        "topic_type": "markets",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "Brazil is set to become the latest major economy to issue panda bonds – yuan-denominated debt sold in the Chinese market – joining a growing group of countries that has embraced assets backed by China’s currency as a means of fundraising. According to analysts, the participation of Brazil – a founding member of the Brics (Brazil, Russia, India, China and South Africa) bloc of emerging markets and the world’s 10th-largest economy – marked a milestone for China, which is leveraging the wide...",
+          "news_focus_zh": "巴西即將發行熊貓債，這是以人民幣計價的債務，將在中國市場上銷售。巴西的參與標誌著中國在推動人民幣國際化及加強與新興市場國家的合作方面取得了重要進展，巴西作為金磚國家之一，這一舉措被視為對中國貨幣的信任與支持。",
+          "background": "熊貓債是指外國發行的以人民幣計價的債券，旨在吸引國際資本並促進人民幣的國際化。隨著中國經濟的增長及其在全球市場中的影響力提升，越來越多的國家選擇發行熊貓債作為融資工具。巴西的參與不僅顯示了其對中國市場的重視，也反映出金磚國家之間日益增強的經濟合作關係。這一趨勢可能會進一步促進中國與其他新興市場國家的經濟聯繫。",
+          "stakeholders": [
+            "中國政府",
+            "巴西政府",
+            "投資者",
+            "金磚國家",
+            "國際金融市場"
+          ],
+          "analysis": "巴西發行熊貓債的決定對於中國來說是一次戰略性勝利，因為這不僅增強了人民幣的國際地位，還有助於深化與巴西的經濟合作。巴西作為全球第十大經濟體，其參與可能會激勵其他國家跟進，進一步推動熊貓債的發行熱潮。不同於參考報導中提到的東南亞國家與俄羅斯的能源合作，巴西的熊貓債主要集中在資本市場的融資，顯示出各國在與中國的合作中有著不同的重點與策略。未來，隨著更多國家加入熊貓債的行列，中國可能會在全球金融體系中獲得更大的影響力。"
+        },
+        "topic_priority_score": 4,
+        "event_type": "market_repricing",
+        "supporting_sources": [
+          "Nikkei Asia"
+        ],
+        "supporting_titles": [
+          "ASEAN uses Russia summit to boost energy ties"
+        ],
+        "supporting_summaries": [
+          ""
+        ],
+        "supporting_links": [
+          "https://asia.nikkei.com/politics/international-relations/asean-uses-russia-summit-to-boost-energy-ties"
         ],
         "source_count": 2
       }
@@ -353,218 +397,218 @@
   "further_reading": {
     "technology": [
       {
+        "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+        "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-06-21T15:28:17+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Read this before you vibe-code another app",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-06-22T11:00:00+00:00",
+        "relevance_score": 12
+      },
+      {
         "title": "How the social media ban could reshape how all of us use the internet",
         "link": "https://www.bbc.com/news/articles/c1jy512r19ro?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC Technology",
         "published_at_utc": "2026-06-20T23:18:12+00:00",
-        "relevance_score": 18
+        "relevance_score": 12
       },
       {
-        "title": "Brands using AI-generated influencers to promote products on social media",
-        "link": "https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-21T06:00:23+00:00",
-        "relevance_score": 14
+        "title": "Polymarket reportedly paid people to post fake videos of themselves placing bets",
+        "link": "https://www.theverge.com/tech/953285/polymarket-fake-viral-video-bets",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-06-21T14:19:46+00:00",
+        "relevance_score": 10
       },
       {
         "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
         "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
         "source_name": "TechCrunch",
         "published_at_utc": "2026-06-20T16:39:57+00:00",
-        "relevance_score": 13
+        "relevance_score": 9
       },
       {
         "title": "Every new iOS 27 feature that’s worth knowing about",
         "link": "https://techcrunch.com/2026/06/20/every-new-ios-27-feature-thats-worth-knowing-about/",
         "source_name": "TechCrunch",
         "published_at_utc": "2026-06-20T15:00:00+00:00",
-        "relevance_score": 13
+        "relevance_score": 9
       },
       {
         "title": "The UK’s social media ban for under-16s has just empowered big tech | Taylor Lorenz",
         "link": "https://www.theguardian.com/commentisfree/2026/jun/19/uk-social-media-ban-under-16s-big-tech-age-verification",
         "source_name": "The Guardian Business",
         "published_at_utc": "2026-06-19T13:27:00+00:00",
-        "relevance_score": 12
+        "relevance_score": 9
       },
       {
-        "title": "A Critical Deadline Is Approaching for Windows and Linux Security",
-        "link": "https://www.wired.com/story/a-critical-deadline-is-approaching-for-windows-and-linux-security/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-06-21T09:00:00+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "‘It’s a scam’: Americans express unease over SpaceX’s influence on retirement savings",
-        "link": "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-19T12:00:33+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "China’s trillion-parameter AI race: how developers strive to narrow gap with US rivals",
-        "link": "https://www.scmp.com/tech/big-tech/article/3357449/chinas-trillion-parameter-ai-race-how-developers-strive-narrow-gap-us-rivals?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-19T06:00:10+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "The film about Sam Altman has been dropped by Amazon MGM",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+        "title": "Wyze’s new smart scale can break down your body composition for less than $80",
+        "link": "https://www.theverge.com/tech/952512/wyze-smart-scale-bodyscan-electrodes-handle-body-composition",
         "source_name": "The Verge",
-        "published_at_utc": "2026-06-19T14:15:29+00:00",
-        "relevance_score": 9
+        "published_at_utc": "2026-06-22T13:00:00+00:00",
+        "relevance_score": 8
       },
       {
-        "title": "The Download: AI bottleneck debates, and BCI trials take off",
-        "link": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+        "title": "The Download: record-breaking subsea tunnels and flexible data centers",
+        "link": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
         "source_name": "MIT Technology Review",
-        "published_at_utc": "2026-06-19T12:10:00+00:00",
-        "relevance_score": 9
+        "published_at_utc": "2026-06-22T12:10:00+00:00",
+        "relevance_score": 8
+      },
+      {
+        "title": "World Cup Scams Are Getting Harder to Spot",
+        "link": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-22T09:30:00+00:00",
+        "relevance_score": 8
       }
     ],
     "politics": [
       {
-        "title": "Starmer expected to announce departure on Monday as growing numbers of MPs back Burnham for PM – UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/jun/21/keir-starmer-expected-resign-resignation-monday--andy-burnham-makerfield-labour-uk-politics-latest-news-updates",
+        "title": "Starmer resigns as prime minister as Streeting backs Burnham for leadership - UK politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/jun/22/keir-starmer-resignation-timeable-andy-burnham-labour-leadership-prime-minister-latest-news-updates",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-21T10:37:49+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-06-22T13:13:57+00:00",
+        "relevance_score": 22
       },
       {
-        "title": "Ukraine strikes hit oil facilities in Crimea, Russia’s Krasnodar",
-        "link": "https://www.aljazeera.com/news/2026/6/21/ukraine-strikes-hit-oil-facilities-in-crimea-russias-krasnodar?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-21T10:30:46+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Prediction markets surge in US as public health advocates call for support to combat gambling",
-        "link": "https://www.theguardian.com/us-news/2026/jun/21/prediction-markets-health-advocates-on-gambling",
+        "title": "Iran hails ‘progress’ as first day of talks with US conclude after shaky start",
+        "link": "https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-21T10:00:27+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-06-22T07:33:52+00:00",
+        "relevance_score": 22
       },
       {
-        "title": "The deal with Iran may be imperfect but it is what the American people want",
-        "link": "https://www.aljazeera.com/opinions/2026/6/21/the-deal-with-iran-may-be-imperfect-but-it-is-what-the-american-people-want?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-21T09:17:30+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Keir Starmer expected to announce departure as prime minister on Monday",
-        "link": "https://www.theguardian.com/politics/2026/jun/21/keir-starmer-expected-to-announce-departure-as-prime-minister-on-monday",
+        "title": "Middle East live: US-Iran peace talks underway as strait of Hormuz remains closed",
+        "link": "https://www.theguardian.com/world/live/2026/jun/21/iran-us-israel-war-middle-east-lebanon-peace-talks-switzerland-vance-trump-strait-of-hormuz-latest-news-updates",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-21T09:03:57+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-06-21T17:52:33+00:00",
+        "relevance_score": 22
       },
       {
-        "title": "US and Iranian negotiators arrive in Swiss resort for latest round of peace talks",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3357821/us-and-iranian-negotiators-arrive-swiss-restort-latest-round-peace-talks?utm_source=rss_feed",
+        "title": "Keir Starmer resigns as British prime minister after devastating Labour revolt and local election losses",
+        "link": "https://www.foxnews.com/world/keir-starmer-resigns-british-prime-minister-after-devastating-labour-revolt-local-election-losses",
+        "source_name": "Fox News World",
+        "published_at_utc": "2026-06-22T08:44:07+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "China sanctions 10 U.S. firms over Pentagon blacklist",
+        "link": "https://www.thehindu.com/news/international/china-sanctions-10-us-firms-over-pentagon-blacklist/article71131773.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-22T07:50:34+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Did Myanmar-China talks spawn a more emboldened junta?",
+        "link": "https://www.scmp.com/week-asia/politics/article/3357880/did-myanmar-china-talks-spawn-more-emboldened-junta?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-06-21T08:19:08+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-06-22T05:32:11+00:00",
+        "relevance_score": 19
       },
       {
-        "title": "Condemned to plutocracy? The relentless rise of US inequality",
-        "link": "https://www.theguardian.com/us-news/2026/jun/21/us-inequality-plutocracy",
+        "title": "Middle East crisis live: US-Iran talks laid ‘very good foundation for a successful final deal’, says Vance",
+        "link": "https://www.theguardian.com/world/live/2026/jun/22/middle-east-crisis-iran-us-peace-talks-switzerland-strait-of-hormuz-latest-news-updates",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-21T08:00:25+00:00",
+        "published_at_utc": "2026-06-22T13:15:03+00:00",
         "relevance_score": 18
       },
       {
-        "title": "West Asia war LIVE updates: U.S. Vice President JD Vance arrives in Switzerland for Iran talks",
-        "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-strait-of-hormuz-tehran-washington-peace-talks-in-switzerland-live-updates-june-21-2026/article71128366.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-21T07:44:28+00:00",
+        "title": "New York City House primary emerges as key battleground in ‘AI civil war’",
+        "link": "https://www.theguardian.com/us-news/2026/jun/22/new-york-city-house-primary-race",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-22T13:00:25+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Trump threatens to charge U.S. tolls in Strait of Hormuz if final Iran deal not reached in 60 days",
-        "link": "https://www.thehindu.com/news/international/trump-threatens-to-charge-us-tolls-in-strait-of-hormuz-if-final-iran-deal-not-reached-in-60-days/article71127249.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-21T07:32:32+00:00",
+        "title": "Zelenskyy pledges to ‘bring war back to Russia’ after drones swarm toward Moscow – Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/jun/22/zelenskyy-ukraine-russia-drones-europe-heatwave-trump-meloni-latest-news-updates",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-22T12:55:01+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Trump tries to blame Reflecting Pool woes on vandalism, without offering substantiation",
-        "link": "https://www.thehindu.com/news/international/trump-tries-to-blame-reflecting-pool-woes-on-vandalism-without-offering-substantiation/article71127409.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-21T07:28:05+00:00",
+        "title": "Australian public cooling on Trump’s US while thawing on China, survey finds",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3357928/australian-public-cooling-trumps-us-while-thawing-china-survey-finds?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-22T12:30:08+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "Interest rates held as Bank warns of impact of high energy prices",
-        "link": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
+        "title": "Alan Greenspan, longtime head of the US federal reserve, dies aged 100",
+        "link": "https://www.theguardian.com/business/2026/jun/22/alan-greenspan-dies-aged-100",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-22T12:46:23+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Is Germany looking again at coal-powered electricity?",
+        "link": "https://www.bbc.com/news/articles/cy04ykxrj5eo?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC Business",
-        "published_at_utc": "2026-06-18T12:50:33+00:00",
+        "published_at_utc": "2026-06-21T23:27:11+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Iran hails ‘progress’ as first day of talks with US conclude after shaky start",
+        "link": "https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-22T07:33:52+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "Why a Chinese renewables giant is pondering a majority localisation in Europe",
+        "link": "https://www.scmp.com/business/china-business/article/3357855/why-chinese-renewables-giant-wants-put-over-50-operations-europe?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-22T06:30:00+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "China defends role in global supply chains amid Strait of Hormuz crisis",
+        "link": "https://www.scmp.com/economy/china-economy/article/3357890/china-defends-role-global-supply-chains-amid-strait-hormuz-crisis?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-22T06:20:06+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "South Korean investors leverage Hong Kong to cash in on AI and chips boom",
+        "link": "https://www.scmp.com/business/banking-finance/article/3357851/south-korean-investors-leverage-hong-kong-cash-ai-and-chips-boom?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-22T01:00:17+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Markets steady as prime minister Keir Starmer resigns; ex-Fed chair Alan Greenspan dies at 100 – business live",
+        "link": "https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-22T13:03:09+00:00",
         "relevance_score": 12
       },
       {
-        "title": "Warsh to review how Fed works after holding US interest rates at first meeting",
-        "link": "https://www.bbc.com/news/articles/cdjkl78vd7lo?at_medium=RSS&at_campaign=rss",
+        "title": "The Hotspot | Aramco’s petrodollar backing of World Cup leaves stain of sportswashing",
+        "link": "https://www.theguardian.com/sport/2026/jun/22/aramco-petrodollar-world-cup-football-sportswashing-the-hotspot",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-22T10:39:10+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "EasyJet says US bidder trying to buy it 'on the cheap' as it rejects £4.7bn offer",
+        "link": "https://www.bbc.com/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC Business",
-        "published_at_utc": "2026-06-17T18:41:12+00:00",
-        "relevance_score": 11
+        "published_at_utc": "2026-06-22T10:29:11+00:00",
+        "relevance_score": 12
       },
       {
-        "title": "Japan raises interest rate to highest for 31 years",
-        "link": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-06-16T08:26:30+00:00",
-        "relevance_score": 11
-      },
-      {
-        "title": "Why American bondholders are jumpy about inflation",
-        "link": "https://www.economist.com/finance-and-economics/2025/09/10/why-american-bondholders-are-jumpy-about-inflation",
-        "source_name": "The Economist",
-        "published_at_utc": "2025-09-10T19:05:23+00:00",
-        "relevance_score": 11
-      },
-      {
-        "title": "‘Build Vice City’: the GTA 6 scam that’s hitting gamers worldwide",
-        "link": "https://www.theguardian.com/money/2026/jun/21/gta-6-grand-theft-auto-vi-beta-test-pre-release-scams-fake",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-21T06:00:24+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "‘There’s no jobs’: struggle and regret in a Welsh town that backed Brexit",
-        "link": "https://www.theguardian.com/politics/2026/jun/21/ebbw-vale-wales-struggle-regret-brexit",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-21T05:00:23+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "How Europe’s EV makers shrank their product to challenge the bloated SUVs",
-        "link": "https://www.theguardian.com/environment/2026/jun/21/europe-ev-shrank-challenge-suv-smaller-china",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-21T04:00:20+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "Cross-border biotech deals grow more complex as US targets China investment links",
-        "link": "https://www.scmp.com/business/china-business/article/3357699/cross-border-biotech-deals-grow-more-complex-us-targets-china-investment-links?utm_source=rss_feed",
+        "title": "China touts new finance tools to fend off sanctions",
+        "link": "https://www.scmp.com/plus/economy/china-economy/article/3357561/china-touts-new-finance-tools-fend-sanctions?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-21T01:30:08+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "Burnham's Britain: six days in the place that just changed our politics – video",
-        "link": "https://www.theguardian.com/commentisfree/video/2026/jun/20/burnhams-britain-six-days-in-the-place-that-just-changed-our-politics-video",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-20T11:53:48+00:00",
-        "relevance_score": 10
-      },
-      {
-        "title": "Americans are spending $800 just to cool their homes. We are at a breaking point | Mark Wolfe",
-        "link": "https://www.theguardian.com/commentisfree/2026/jun/18/heat-air-conditioning-costs",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-18T11:00:01+00:00",
-        "relevance_score": 10
+        "published_at_utc": "2026-06-18T09:00:34+00:00",
+        "relevance_score": 11
       }
     ]
   },
