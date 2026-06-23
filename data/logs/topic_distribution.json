@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-05-23",
-      "topics": {
-        "technology": [
-          "space_tech",
-          "chips",
-          "ai"
-        ],
-        "politics": [
-          "diplomacy",
-          "war_and_conflict",
-          "diplomacy"
-        ],
-        "economy": [
-          "inflation",
-          "interest_rates",
-          "inflation"
-        ]
-      }
-    },
-    {
       "date": "2026-05-24",
       "topics": {
         "technology": [
@@ -599,41 +579,61 @@
           "markets"
         ]
       }
+    },
+    {
+      "date": "2026-06-23",
+      "topics": {
+        "technology": [
+          "cybersecurity",
+          "ai",
+          "ai"
+        ],
+        "politics": [
+          "diplomacy",
+          "diplomacy",
+          "diplomacy"
+        ],
+        "economy": [
+          "sanctions",
+          "interest_rates",
+          "markets"
+        ]
+      }
     }
   ],
   "rolling_frequency": {
     "technology": {
-      "space_tech": 9,
-      "chips": 23,
-      "ai": 36,
-      "cybersecurity": 10,
+      "chips": 22,
+      "cybersecurity": 11,
       "social_media": 8,
       "platform_regulation": 2,
+      "space_tech": 8,
+      "ai": 37,
       "quantum_computing": 1,
       "general": 1
     },
     "politics": {
-      "diplomacy": 34,
-      "war_and_conflict": 10,
       "us_politics": 35,
+      "war_and_conflict": 9,
       "uk_politics": 4,
+      "diplomacy": 35,
       "eu_policy": 2,
       "social_protests": 4,
       "democracy_autocracy": 1
     },
     "economy": {
-      "inflation": 21,
-      "interest_rates": 13,
-      "sanctions": 10,
+      "inflation": 19,
+      "sanctions": 11,
       "emerging_markets": 1,
       "trade_wars": 8,
-      "markets": 22,
+      "markets": 23,
       "energy_markets": 8,
+      "interest_rates": 13,
       "corporate_earnings": 1,
       "supply_chain": 5,
       "general": 1
     }
   },
   "window_days": 30,
-  "last_updated": "2026-06-22"
+  "last_updated": "2026-06-23"
 }
