@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-05-24",
-      "topics": {
-        "technology": [
-          "chips",
-          "cybersecurity",
-          "social_media"
-        ],
-        "politics": [
-          "us_politics",
-          "war_and_conflict",
-          "us_politics"
-        ],
-        "economy": [
-          "inflation",
-          "sanctions",
-          "emerging_markets"
-        ]
-      }
-    },
-    {
       "date": "2026-05-25",
       "topics": {
         "technology": [
@@ -599,35 +579,55 @@
           "markets"
         ]
       }
+    },
+    {
+      "date": "2026-06-24",
+      "topics": {
+        "technology": [
+          "ai",
+          "ai",
+          "green_tech"
+        ],
+        "politics": [
+          "war_and_conflict",
+          "us_politics",
+          "eu_policy"
+        ],
+        "economy": [
+          "trade_wars",
+          "energy_markets",
+          "markets"
+        ]
+      }
     }
   ],
   "rolling_frequency": {
     "technology": {
-      "chips": 22,
-      "cybersecurity": 11,
-      "social_media": 8,
+      "cybersecurity": 10,
       "platform_regulation": 2,
       "space_tech": 8,
-      "ai": 37,
+      "chips": 21,
+      "ai": 39,
       "quantum_computing": 1,
-      "general": 1
+      "social_media": 7,
+      "general": 1,
+      "green_tech": 1
     },
     "politics": {
-      "us_politics": 35,
-      "war_and_conflict": 9,
+      "us_politics": 34,
       "uk_politics": 4,
       "diplomacy": 35,
-      "eu_policy": 2,
+      "war_and_conflict": 9,
+      "eu_policy": 3,
       "social_protests": 4,
       "democracy_autocracy": 1
     },
     "economy": {
-      "inflation": 19,
-      "sanctions": 11,
-      "emerging_markets": 1,
-      "trade_wars": 8,
-      "markets": 23,
-      "energy_markets": 8,
+      "inflation": 18,
+      "trade_wars": 9,
+      "markets": 24,
+      "energy_markets": 9,
+      "sanctions": 10,
       "interest_rates": 13,
       "corporate_earnings": 1,
       "supply_chain": 5,
@@ -635,5 +635,5 @@
     }
   },
   "window_days": 30,
-  "last_updated": "2026-06-23"
+  "last_updated": "2026-06-24"
 }
