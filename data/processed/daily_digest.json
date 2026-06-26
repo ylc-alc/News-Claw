@@ -1,25 +1,25 @@
 {
-  "generated_at_utc": "2026-06-25T10:33:03.142080+00:00",
+  "generated_at_utc": "2026-06-26T10:44:04.676509+00:00",
   "summary": {
-    "total_raw_items": 1054,
-    "total_deduped_items": 1035,
+    "total_raw_items": 1060,
+    "total_deduped_items": 1034,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "chips",
         "cybersecurity",
-        "chips"
+        "ai",
+        "social_media"
       ],
       "politics": [
-        "eu_policy",
-        "diplomacy",
-        "us_politics"
+        "uk_politics",
+        "us_politics",
+        "war_and_conflict"
       ],
       "economy": [
-        "markets",
         "energy_markets",
-        "trade_wars"
+        "markets",
+        "markets"
       ]
     },
     "multi_source_selected_count": 2
@@ -28,30 +28,30 @@
     "technology": [
       {
         "category": "technology",
-        "source_name": "SCMP World",
-        "title": "Kuaishou chip spin-off taps new funding for in-house designs amid US export controls",
-        "link": "https://www.scmp.com/tech/tech-trends/article/3358356/kuaishou-chip-spin-taps-new-funding-house-designs-amid-us-export-controls?utm_source=rss_feed",
-        "summary": "Chinese internet giants are increasingly moving beyond software and into semiconductor design, betting that proprietary chips will give them greater control over computing infrastructure as artificial intelligence workloads surge and geopolitical tensions hamper access to advanced foreign technology. Short video giant Kuaishou is the latest to ride the wave, after its chip spin-off TranStreams raised an undisclosed amount in a Series A+ financing round this week led by QF Capital, according to...",
-        "published": "Thu, 25 Jun 2026 10:30:06 +0000",
-        "updated": "Thu, 25 Jun 2026 10:30:06 +0000",
-        "published_at_utc": "2026-06-25T10:30:06+00:00",
-        "id": "https://www.scmp.com/tech/tech-trends/article/3358356/kuaishou-chip-spin-taps-new-funding-house-designs-amid-us-export-controls?utm_source=rss_feed",
-        "topic_type": "chips",
+        "source_name": "BBC Technology",
+        "title": "Teens who hacked TfL were known to police years before cyber-attack",
+        "link": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
+        "summary": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
+        "published": "Thu, 25 Jun 2026 23:19:48 GMT",
+        "updated": "Thu, 25 Jun 2026 23:19:48 GMT",
+        "published_at_utc": "2026-06-25T23:19:48+00:00",
+        "id": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o#0",
+        "topic_type": "cybersecurity",
         "relevance_score": 21,
         "briefing": {
-          "news_focus": "Chinese internet giants are increasingly moving beyond software and into semiconductor design, betting that proprietary chips will give them greater control over computing infrastructure as artificial intelligence workloads surge and geopolitical tensions hamper access to advanced foreign technology. Short video giant Kuaishou is the latest to ride the wave, after its chip spin-off TranStreams raised an undisclosed amount in a Series A+ financing round this week led by QF Capital, according to...",
-          "news_focus_zh": "中國短視頻巨頭快手的晶片子公司TranStreams在本週完成了一輪由QF Capital主導的A+輪融資，具體金額未公開。這一舉措反映出中國互聯網企業正逐步進軍半導體設計領域，旨在在人工智慧需求激增及地緣政治緊張局勢下，增強對計算基礎設施的控制能力。",
-          "background": "隨著人工智慧技術的快速發展，對於高效能計算資源的需求日益增加。中國科技公司面臨來自美國的出口管制，這使得他們在獲取先進外國技術上受到限制。因此，許多企業開始投資於自有晶片的設計，以減少對外部供應鏈的依賴。快手作為短視頻平台的領導者，此次進軍半導體領域，顯示出其在技術自主化方面的決心，並希望在未來的市場競爭中佔據有利位置。",
+          "news_focus": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
+          "news_focus_zh": "Owen Flowers 和 Thalha Jubair 兩名青少年因參與對倫敦交通局（TfL）的駭客攻擊而被定罪，此次攻擊造成了巨大的經濟損失。報導指出，這兩名青少年在進行網路攻擊之前，已經被警方知悉多年，顯示出他們的犯罪行為並非首次出現。",
+          "background": "倫敦交通局（TfL）在近年來面臨多起網路安全事件，這些事件不僅影響了其運營效率，也對公共交通系統的信任度造成了損害。隨著數位化進程的加快，交通系統的網路安全問題日益受到關注。警方對青少年犯罪的監控和預防措施在這種背景下顯得尤為重要，尤其是當這些青少年已經有過犯罪紀錄時，如何有效地介入和預防成為一個挑戰。",
           "stakeholders": [
-            "快手",
-            "TranStreams",
-            "QF Capital",
-            "中國科技公司",
-            "人工智慧產業"
+            "倫敦交通局",
+            "警方",
+            "青少年犯罪預防組織",
+            "公共交通使用者",
+            "網路安全專家"
           ],
-          "analysis": "快手的晶片子公司TranStreams的融資行動，顯示出中國科技企業在面對外部壓力時的應對策略。透過自有晶片的開發，這些公司希望能夠在人工智慧和其他高科技領域中獲得競爭優勢。此舉也可能引發其他中國科技企業的跟進，形成一股自主設計晶片的潮流。然而，這一轉型過程中，企業需要克服技術研發的挑戰以及市場競爭的壓力。此外，隨著中國政府對半導體產業的支持力度加大，未來可能會出現更多類似的融資案例，進一步推動行業的發展。"
+          "analysis": "此次事件突顯了青少年網路犯罪的風險，特別是當他們的行為在警方的監控下仍能持續進行時。Owen Flowers 和 Thalha Jubair 的案例顯示，儘管他們的行為早已引起注意，但缺乏有效的干預措施可能導致更嚴重的後果。此事件可能促使倫敦交通局和警方重新評估其網路安全策略及青少年犯罪的預防措施，並加強對潛在威脅的監控。此外，社會對於青少年犯罪的理解與應對方式也可能因此受到影響，促進更多關於如何平衡法律與教育的討論。"
         },
-        "topic_priority_score": 10,
+        "topic_priority_score": 9,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -62,30 +62,30 @@
       {
         "category": "technology",
         "source_name": "TechCrunch",
-        "title": "Cellebrite said it cut off Russia, but Russia used is tools anyway",
-        "link": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/",
-        "summary": "Security researchers found evidence that Russian authorities hacked the iPhone of a political opponent using a phone-unlocking device made by Cellebrite, even after the company said it would stop selling to Putin’s government.",
-        "published": "Thu, 25 Jun 2026 10:00:00 +0000",
-        "updated": "Thu, 25 Jun 2026 10:00:00 +0000",
-        "published_at_utc": "2026-06-25T10:00:00+00:00",
-        "id": "https://techcrunch.com/?p=3135714",
-        "topic_type": "cybersecurity",
-        "relevance_score": 21,
+        "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+        "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+        "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
+        "published": "Thu, 25 Jun 2026 23:34:39 +0000",
+        "updated": "Thu, 25 Jun 2026 23:34:39 +0000",
+        "published_at_utc": "2026-06-25T23:34:39+00:00",
+        "id": "https://techcrunch.com/?p=3136540",
+        "topic_type": "ai",
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "Security researchers found evidence that Russian authorities hacked the iPhone of a political opponent using a phone-unlocking device made by Cellebrite, even after the company said it would stop selling to Putin’s government.",
-          "news_focus_zh": "Cellebrite公司宣稱已停止向俄羅斯政府銷售其手機解鎖設備，但安全研究人員發現俄方仍然使用該公司的工具來入侵一名政治對手的iPhone。這一發現引發了對Cellebrite承諾的質疑，並突顯出其產品在俄羅斯政府手中的持續影響力。",
-          "background": "Cellebrite是一家以提供數位取證解決方案而聞名的公司，其產品廣泛應用於執法機構和政府機構。隨著全球對於數位隱私和人權的關注增加，許多科技公司開始重新評估與某些國家的商業關係。尤其是在俄烏衝突後，Cellebrite曾公開表示將停止向俄羅斯政府供應產品，以避免其技術被用於打壓政治異議人士。然而，這次事件顯示出即使在公司停止供應後，俄方仍能夠利用其技術，顯示出數位產品的流通性和持久性。",
+          "news_focus": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
+          "news_focus_zh": "白宮要求OpenAI延緩其最新模型GPT 5.6的發布，並將其僅限於與特定合作夥伴分享，而非向大眾公開。這一決定源於特朗普政府對於安全問題的擔憂，顯示出對於人工智慧技術潛在風險的重視。",
+          "background": "隨著人工智慧技術的快速發展，安全性與倫理問題日益受到關注。OpenAI作為領先的AI研究機構，其模型的發布對於市場與社會都可能帶來深遠影響。過去幾年，許多國家與企業開始制定相關政策，以確保AI技術的安全使用，並防範可能的濫用或風險。特朗普政府的介入，反映出美國在科技發展與安全之間的平衡考量，尤其是在AI技術日益普及的背景下。",
           "stakeholders": [
-            "Cellebrite",
-            "俄羅斯政府",
-            "政治對手",
-            "人權組織",
-            "科技產業"
+            "OpenAI",
+            "特朗普政府",
+            "科技業界",
+            "合作夥伴",
+            "消費者"
           ],
-          "analysis": "Cellebrite的聲明與實際情況之間的差距引發了對其商業道德的質疑。儘管Cellebrite試圖與俄羅斯政府保持距離，但其技術仍然被用於侵犯人權，這可能會損害其品牌形象並影響未來的商業機會。另一方面，俄羅斯政府的行為顯示出其對於數位監控技術的需求依然強烈，這可能促使其他科技公司在未來的交易中更加謹慎。此事件也可能引發國際社會對於科技公司在衝突地區的責任和透明度的進一步討論，尤其是在涉及人權的情況下。"
+          "analysis": "白宮的要求顯示出政府對於AI技術潛在風險的高度警覺，尤其是在社會與經濟影響尚不明朗的情況下。OpenAI的決策可能會影響其市場競爭力，因為延遲發布可能讓其他競爭者有機會搶佔市場份額。此外，這一動作也可能引發業界對於政府干預科技發展的討論，特別是在如何平衡創新與安全之間的矛盾方面。未來，若其他科技公司也面臨類似的政府要求，可能會進一步影響整個行業的發展方向與速度。"
         },
         "topic_priority_score": 9,
-        "event_type": "strategic_move",
+        "event_type": "partnership_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -94,31 +94,31 @@
       },
       {
         "category": "technology",
-        "source_name": "SCMP World",
-        "title": "Huawei and Cambricon lead China’s AI server chip surge, piling pressure on Nvidia",
-        "link": "https://www.scmp.com/tech/article/3358322/huawei-and-cambricon-lead-chinas-ai-server-chip-surge-piling-pressure-nvidia?utm_source=rss_feed",
-        "summary": "Chinese chip suppliers led by Huawei Technologies and Cambricon Technologies, together with tech giants developing their own silicon, are set to capture nearly 80 per cent of the domestic AI server market this year, further squeezing global rivals such as Nvidia, according to TrendForce. Geopolitical tensions continue to erode the position of Nvidia, Advanced Micro Devices and other foreign suppliers, whose combined share of China’s AI server market is forecast to fall to 21 per cent in 2026...",
-        "published": "Thu, 25 Jun 2026 07:59:50 +0000",
-        "updated": "Thu, 25 Jun 2026 07:59:50 +0000",
-        "published_at_utc": "2026-06-25T07:59:50+00:00",
-        "id": "https://www.scmp.com/tech/article/3358322/huawei-and-cambricon-lead-chinas-ai-server-chip-surge-piling-pressure-nvidia?utm_source=rss_feed",
-        "topic_type": "chips",
-        "relevance_score": 21,
+        "source_name": "The Hindu International",
+        "title": "WhatsApp still barely makes Meta any money. Can Kunal Shah change that?",
+        "link": "https://www.thehindu.com/sci-tech/technology/whatsapp-still-barely-makes-meta-any-money-can-kunal-shah-change-that/article71145155.ece",
+        "summary": "This week, Meta named Kunal Shah, founder of Indian fintech CRED, as WhatsApp’s new global head, succeeding Will Cathcart after nearly seven years at the helm",
+        "published": "Fri, 26 Jun 2026 10:20:52 +0530",
+        "updated": "Fri, 26 Jun 2026 10:20:52 +0530",
+        "published_at_utc": "2026-06-26T04:50:52+00:00",
+        "id": "article-71145155",
+        "topic_type": "social_media",
+        "relevance_score": 16,
         "briefing": {
-          "news_focus": "Chinese chip suppliers led by Huawei Technologies and Cambricon Technologies, together with tech giants developing their own silicon, are set to capture nearly 80 per cent of the domestic AI server market this year, further squeezing global rivals such as Nvidia, according to TrendForce. Geopolitical tensions continue to erode the position of Nvidia, Advanced Micro Devices and other foreign suppliers, whose combined share of China’s AI server market is forecast to fall to 21 per cent in 2026...",
-          "news_focus_zh": "根據TrendForce的報告，中國的芯片供應商，包括華為和寒武紀，預計在2023年將佔據近80%的國內AI伺服器市場，這使得全球競爭對手如Nvidia面臨更大的壓力。隨著地緣政治緊張局勢的加劇，外國供應商如Nvidia和AMD在中國的市場份額預計將在2026年降至21%。",
-          "background": "在當前的科技環境中，AI伺服器市場正迅速增長，尤其是在中國。隨著政府對半導體產業的支持以及對外國技術依賴的減少，中國本土企業如華為和寒武紀正在加速發展自有的AI芯片。這一趨勢不僅是技術進步的體現，也反映了中國在全球科技競爭中日益增強的自主性。地緣政治因素，尤其是美中貿易緊張關係，進一步促使中國企業加強對外國技術的替代，這使得外國供應商面臨更大的挑戰。",
+          "news_focus": "This week, Meta named Kunal Shah, founder of Indian fintech CRED, as WhatsApp’s new global head, succeeding Will Cathcart after nearly seven years at the helm",
+          "news_focus_zh": "Meta公司本週宣布任命印度金融科技公司CRED創始人Kunal Shah為WhatsApp的新全球負責人，接替在該職位上任職近七年的Will Cathcart。此舉標誌著Meta在提升WhatsApp盈利能力方面的努力，因為WhatsApp目前的盈利能力仍然有限。",
+          "background": "WhatsApp自2014年被Meta收購以來，雖然用戶數量持續增長，但其商業化進程緩慢，尚未為Meta帶來顯著的收入。Meta一直在尋求將WhatsApp轉型為一個更具盈利潛力的平台，特別是在全球數位支付和商業通訊日益增長的背景下。Kunal Shah在金融科技領域的經驗可能為WhatsApp帶來新的商業模式和創新思路，尤其是在推動用戶付費和商業服務方面。",
           "stakeholders": [
-            "華為",
-            "寒武紀",
-            "Nvidia",
-            "AMD",
-            "中國政府"
+            "Meta",
+            "Kunal Shah",
+            "WhatsApp用戶",
+            "企業客戶",
+            "金融科技行業"
           ],
-          "analysis": "華為和寒武紀的崛起對Nvidia等外國企業造成了直接威脅，特別是在AI伺服器市場中。隨著中國市場對本土產品的偏好增加，外國供應商的市場份額預計將持續下降。這一變化不僅影響了市場競爭格局，也可能引發技術供應鏈的重組。Nvidia和AMD等公司需要重新評估其在中國市場的策略，以應對日益激烈的競爭。此外，這一趨勢可能會進一步加劇全球科技領域的地緣政治緊張，因為各國在半導體技術的自主研發上投入更多資源，以減少對外部供應商的依賴。"
+          "analysis": "Kunal Shah的任命可能會引發WhatsApp在商業化策略上的重大變革。Shah在CRED的成功經驗顯示他擅長於用戶增長和金融服務的整合，這對於提升WhatsApp的盈利能力至關重要。Meta的挑戰在於如何平衡用戶體驗與商業利益，避免過度廣告化影響用戶基礎。不同於過去的管理者，Shah的金融背景可能使他更專注於開發支付功能和企業解決方案，這與Meta希望在WhatsApp上實現的增長目標相符。未來，WhatsApp的商業化進程將受到市場反應和用戶接受度的影響，這將是Meta需要密切關注的焦點。"
         },
-        "topic_priority_score": 10,
-        "event_type": "commercial_update",
+        "topic_priority_score": 6,
+        "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -129,72 +129,31 @@
     "politics": [
       {
         "category": "politics",
-        "source_name": "SCMP World",
-        "title": "Philippines foils second planned high school attack in Leyte in days",
-        "link": "https://www.scmp.com/week-asia/people/article/3358311/philippines-foils-second-planned-high-school-attack-leyte-days?utm_source=rss_feed",
-        "summary": "Philippine authorities successfully foiled another possible school attack in Leyte province just two days after Monday’s deadly shooting in Tacloban City, thanks to a timely tip from Senator Bam Aquino. The senator, nephew of former president Corazon Aquino, informed Interior Secretary Jonvic Remulla of the threat on Wednesday night. “At 8 o’clock last night, Senator Bam Aquino called me up and gave me a tip that there was chatter in Tacloban that there was an impending mass shooting that was...",
-        "published": "Thu, 25 Jun 2026 06:55:19 +0000",
-        "updated": "Thu, 25 Jun 2026 06:55:19 +0000",
-        "published_at_utc": "2026-06-25T06:55:19+00:00",
-        "id": "https://www.scmp.com/week-asia/people/article/3358311/philippines-foils-second-planned-high-school-attack-leyte-days?utm_source=rss_feed",
-        "topic_type": "eu_policy",
-        "relevance_score": 22,
+        "source_name": "The Guardian World",
+        "title": "Minister says he ‘won’t be intimidated’ by home secretary as public row escalates",
+        "link": "https://www.theguardian.com/uk-news/2026/jun/26/minister-mike-tapp-row-home-secretary-shabana-mahmood",
+        "summary": "Shabana Mahmood has demanded Mike Tapp be sacked over call for care worker exemption to migration rules UK politics live – latest updates An extraordinary public row between the home secretary, Shabana Mahmood, and one of her junior ministers has escalated after he said he “won’t be intimidated” in response to calls by her for him to be sacked. Mahmood demanded on Thursday that the migration minister, Mike Tapp, should be fired for writing an unauthorised article in the Times calling for overseas care workers to be exempt from controversial changes to the immigration rules. But Keir Starmer has so far not sacked Tapp for apparently breaking the rules around ministerial conduct. Continue reading...",
+        "published": "Fri, 26 Jun 2026 09:30:46 GMT",
+        "updated": "2026-06-26T09:30:46Z",
+        "published_at_utc": "2026-06-26T09:30:46+00:00",
+        "id": "https://www.theguardian.com/uk-news/2026/jun/26/minister-mike-tapp-row-home-secretary-shabana-mahmood",
+        "topic_type": "uk_politics",
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "Philippine authorities successfully foiled another possible school attack in Leyte province just two days after Monday’s deadly shooting in Tacloban City, thanks to a timely tip from Senator Bam Aquino. The senator, nephew of former president Corazon Aquino, informed Interior Secretary Jonvic Remulla of the threat on Wednesday night. “At 8 o’clock last night, Senator Bam Aquino called me up and gave me a tip that there was chatter in Tacloban that there was an impending mass shooting that was...",
-          "news_focus_zh": "菲律賓當局成功阻止了在萊特省計劃中的第二起學校攻擊，這一事件發生在兩天前塔克洛班市發生致命槍擊事件之後。參議員巴姆·阿基諾提供了及時的情報，通知內政部長喬恩維克·雷穆拉，指出塔克洛班有關於即將發生大規模槍擊的討論。",
-          "background": "菲律賓近期發生的槍擊事件引發了全國的關注與恐慌。特別是在塔克洛班市的槍擊事件中，造成三名學生死亡和20人受傷，這是該國罕見的校園暴力事件。政府在此背景下加強了對學校安全的重視，並開始採取措施防範類似事件的再次發生。參議員阿基諾的及時舉報顯示出政治人物在危機中的重要角色，並反映出社會對於校園安全的高度關注。",
+          "news_focus": "Shabana Mahmood has demanded Mike Tapp be sacked over call for care worker exemption to migration rules UK politics live – latest updates An extraordinary public row between the home secretary, Shabana Mahmood, and one of her junior ministers has escalated after he said he “won’t be intimidated” in response to calls by her for him to be sacked. Mahmood demanded on Thursday that the migration minister, Mike Tapp, should be fired for writing an unauthorised article in the Times calling for overseas care workers to be exempt from controversial changes to the immigration rules. But Keir Starmer has so far not sacked Tapp for apparently breaking the rules around ministerial conduct. Continue reading...",
+          "news_focus_zh": "英國內政部長Shabana Mahmood要求移民部長Mike Tapp因為在《泰晤士報》上發表未經授權的文章而被解雇，該文章呼籲對海外護理工作者在移民規則變更中提供豁免。Tapp則回應稱不會被威脅，並表示不會辭職。儘管Mahmood的要求引發了公開爭論，但工黨領袖Keir Starmer至今尚未對Tapp採取解雇行動。",
+          "background": "英國目前正面臨移民政策的重大變革，特別是在護理行業。隨著對護理人力資源的需求增加，政府內部對於如何調整移民規則以吸引海外護理工作者的看法出現分歧。Mahmood的立場強調了政府對移民政策的嚴格性，而Tapp的呼籲則反映了對行業需求的關注。這場爭論不僅涉及個人職位的安全，也反映了工黨內部對於移民政策的不同看法。",
           "stakeholders": [
-            "菲律賓政府",
-            "參議員巴姆·阿基諾",
-            "學校管理者",
-            "學生及家長",
-            "社會安全專家"
+            "Shabana Mahmood",
+            "Mike Tapp",
+            "Keir Starmer",
+            "工黨",
+            "護理行業"
           ],
-          "analysis": "此次事件突顯了菲律賓社會對於校園安全的緊迫感，尤其是在最近的槍擊事件後，政府和公眾對潛在威脅的警覺性提高。參議員阿基諾的舉報顯示出政治人物在預防暴力事件中的關鍵作用，並可能促使政府進一步加強對學校的安全措施。參考報導中提到的槍擊事件後，菲律賓政府已經禁止了與槍擊事件相關的視頻遊戲，這反映出政府在應對校園暴力方面的強硬立場。各方可能會對這些措施的有效性產生不同看法，部分人可能認為這是有效的預防措施，而另一些人則可能質疑其根本性解決問題的能力。"
+          "analysis": "此次爭論突顯了英國政府內部對於移民政策的緊張局勢。Mahmood的要求顯示出她對於遵守內部規範的重視，並希望強調政府在移民問題上的一致性。然而，Tapp的反應則表明他對於護理行業的需求有不同的看法，並不願意因為內部壓力而妥協。工黨領袖Starmer的沉默可能暗示他在這一問題上的猶豫，面對兩位部長的不同立場，他需要考慮到黨內的團結與選民的需求。未來幾天，這一事件可能會進一步影響工黨的內部動態及其在移民政策上的立場。"
         },
         "topic_priority_score": 9,
-        "event_type": "security_event",
-        "supporting_sources": [
-          "BBC World"
-        ],
-        "supporting_titles": [
-          "Philippines bans video game played by alleged high school shooter"
-        ],
-        "supporting_summaries": [
-          "The rare school shooting that left three students killed and 20 others injured has shocked the country."
-        ],
-        "supporting_links": [
-          "https://www.bbc.co.uk/news/articles/c14y7738nm8o?at_medium=RSS&at_campaign=rss"
-        ],
-        "source_count": 2
-      },
-      {
-        "category": "politics",
-        "source_name": "SCMP World",
-        "title": "‘Looming dangers’ under China-US ties: AI and rare earths reveal a fragile floor",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3358351/looming-dangers-under-china-us-ties-ai-and-rare-earths-reveal-fragile-floor?utm_source=rss_feed",
-        "summary": "Deep-seated structural rivalry and lingering regulatory barriers are likely to limit any durable thaw in China-US ties, even as last month’s leaders’ summit placed a temporary floor under the fragile relationship, an expert from China’s top state-affiliated think tank warns. Speaking at the World Economic Forum’s annual meeting in Dalian on Thursday, Zhao Hai, of the Chinese Academy of Social Sciences (CASS), struck a cautious note on the trajectory of the world’s most consequential bilateral...",
-        "published": "Thu, 25 Jun 2026 10:29:02 +0000",
-        "updated": "Thu, 25 Jun 2026 10:29:02 +0000",
-        "published_at_utc": "2026-06-25T10:29:02+00:00",
-        "id": "https://www.scmp.com/news/china/diplomacy/article/3358351/looming-dangers-under-china-us-ties-ai-and-rare-earths-reveal-fragile-floor?utm_source=rss_feed",
-        "topic_type": "diplomacy",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "Deep-seated structural rivalry and lingering regulatory barriers are likely to limit any durable thaw in China-US ties, even as last month’s leaders’ summit placed a temporary floor under the fragile relationship, an expert from China’s top state-affiliated think tank warns. Speaking at the World Economic Forum’s annual meeting in Dalian on Thursday, Zhao Hai, of the Chinese Academy of Social Sciences (CASS), struck a cautious note on the trajectory of the world’s most consequential bilateral...",
-          "news_focus_zh": "中國社會科學院的專家趙海在大連舉行的世界經濟論壇年會上表示，中美關係面臨深層結構性的競爭和持續的監管障礙，這將限制兩國之間任何持久的改善。儘管上個月的領導人峰會為這一脆弱的關係提供了暫時的支持，但專家對未來的發展持謹慎態度。",
-          "background": "中美兩國的關係長期以來受到多方面的影響，包括貿易、科技和地緣政治等議題。近年來，隨著科技競爭的加劇，特別是在人工智慧和稀土資源方面，兩國的摩擦愈發明顯。稀土資源對於高科技產業至關重要，而美國對中國的依賴使得這一問題更加複雜。此外，兩國在監管政策上的差異也進一步加深了彼此的猜忌，導致難以建立穩定的合作關係。",
-          "stakeholders": [
-            "中國政府",
-            "美國政府",
-            "科技企業",
-            "國際市場",
-            "全球經濟"
-          ],
-          "analysis": "趙海的觀點反映了中美兩國在面對結構性競爭時的謹慎態度。儘管最近的領導人峰會可能暫時緩解了緊張局勢，但根本的利益衝突仍然存在，特別是在科技和資源領域。中國希望在全球科技競爭中保持領先，而美國則試圖減少對中國的依賴，這使得雙方的合作空間受到限制。未來，若兩國無法克服這些結構性障礙，則可能會導致更多的摩擦和不確定性。這一分析未引用其他報導，因此未提供不同觀點的補充。"
-        },
-        "topic_priority_score": 7,
-        "event_type": "security_event",
+        "event_type": "diplomatic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -203,30 +162,63 @@
       },
       {
         "category": "politics",
-        "source_name": "Al Jazeera",
-        "title": "ICC judges sue Trump over sanctions, call measures unlawful",
-        "link": "https://www.aljazeera.com/news/2026/6/25/icc-judges-sue-trump-over-sanctions-call-measures-unlawful?traffic_source=rss",
-        "summary": "Judges argue sanctions aimed to punish and coerce ICC decisions on US and Israeli war crimes cases.",
-        "published": "Thu, 25 Jun 2026 07:47:39 +0000",
-        "updated": "Thu, 25 Jun 2026 07:47:39 +0000",
-        "published_at_utc": "2026-06-25T07:47:39+00:00",
-        "id": "https://www.aljazeera.com/?t=1782368114",
+        "source_name": "The Guardian World",
+        "title": "Child malnutrition in Nepal has reached ‘alarming’ levels since aid cuts, survey finds",
+        "link": "https://www.theguardian.com/global-development/2026/jun/26/child-malnutrition-nepal-child-mortality-usaid-funding-nutrition-programmes",
+        "summary": "Fears hard-won gains in reducing child mortality over 20 years are at risk after end of USAID funding for nutrition programmes Child malnutrition in Nepal has reached “alarming” levels, according to the largest ever survey of under-fives in the country. The new figures came just over a year after USAID, the former US flagship agency closed by the Trump administration in 2025, stopped funding work on child nutrition in Nepal. Continue reading...",
+        "published": "Fri, 26 Jun 2026 07:00:13 GMT",
+        "updated": "2026-06-26T07:00:13Z",
+        "published_at_utc": "2026-06-26T07:00:13+00:00",
+        "id": "https://www.theguardian.com/global-development/2026/jun/26/child-malnutrition-nepal-child-mortality-usaid-funding-nutrition-programmes",
         "topic_type": "us_politics",
         "relevance_score": 20,
         "briefing": {
-          "news_focus": "Judges argue sanctions aimed to punish and coerce ICC decisions on US and Israeli war crimes cases.",
-          "news_focus_zh": "國際刑事法院（ICC）的法官對美國前總統特朗普提起訴訟，指控其對ICC施加的制裁措施為非法。法官們認為，這些制裁旨在懲罰和威脅ICC在處理美國及以色列戰爭罪案件時的決策，並且這些行為違反了國際法。",
-          "background": "國際刑事法院成立於2002年，旨在追究戰爭罪、反人類罪和種族滅絕罪的責任。美國在2000年簽署了《羅馬規約》，但從未正式批准，並對ICC的運作持批評態度。特朗普政府曾對ICC官員施加制裁，反映出美國對該機構的強烈反對，特別是在涉及以色列的戰爭罪調查時。這一訴訟的背景是ICC對美國及其盟友的行動進行調查，這引發了美國政府的強烈反彈。",
+          "news_focus": "Fears hard-won gains in reducing child mortality over 20 years are at risk after end of USAID funding for nutrition programmes Child malnutrition in Nepal has reached “alarming” levels, according to the largest ever survey of under-fives in the country. The new figures came just over a year after USAID, the former US flagship agency closed by the Trump administration in 2025, stopped funding work on child nutrition in Nepal. Continue reading...",
+          "news_focus_zh": "尼泊爾的兒童營養不良問題已達到“驚人”水平，這是根據該國有史以來最大的五歲以下兒童調查結果所顯示的。這一數據出現於美國國際開發署（USAID）於2025年停止對尼泊爾兒童營養計劃的資助後不久，這使得過去20年來在降低兒童死亡率方面所取得的成果面臨風險。",
+          "background": "尼泊爾在過去二十年中，通過各種國際援助計劃，特別是來自USAID的資金，顯著改善了兒童健康狀況，降低了兒童死亡率。然而，隨著USAID的資助結束，許多營養計劃的運作受到影響，導致兒童營養不良問題惡化。根據最新調查，兒童營養不良的比例顯著上升，這對尼泊爾的公共衛生構成了重大挑戰，尤其是在疫情後，經濟復甦緩慢的背景下。",
           "stakeholders": [
-            "國際刑事法院",
-            "特朗普",
-            "美國政府",
-            "國際法專家",
-            "人權組織"
+            "尼泊爾政府",
+            "美國國際開發署 (USAID)",
+            "非政府組織",
+            "兒童健康倡導團體",
+            "國際援助機構"
           ],
-          "analysis": "此次訴訟突顯了國際刑事法院與美國之間的緊張關係。ICC法官的行動可能會引發更廣泛的國際法律與外交爭議，尤其是在美國對國際機構的影響力和主權問題上。特朗普的制裁措施被視為對ICC獨立性的威脅，法官們的訴訟意在捍衛國際法的權威。未來，這一事件可能促使其他國家重新評估與ICC的關係，並可能引發對國際法庭的支持或反對聲音的分歧，特別是在涉及戰爭罪的案件上。"
+          "analysis": "各方利益關係在此事件中顯得尤為重要。尼泊爾政府面臨著如何填補USAID資金缺口的壓力，並可能需要尋求其他國際組織或國家的援助來應對兒童營養不良的危機。此外，非政府組織和社會團體也可能會加大對政府的監督，要求其采取行動以改善兒童健康狀況。隨著兒童營養不良問題的加劇，社會對政府的期待和壓力將會增加，這可能促使政府重新評估其公共衛生政策和資金分配策略。"
         },
         "topic_priority_score": 8,
+        "event_type": "political_signal",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "politics",
+        "source_name": "SCMP World",
+        "title": "Chinese translation of Tokyo war trial records fill ‘critical gap’: state media",
+        "link": "https://www.scmp.com/news/china/politics/article/3358517/chinese-translation-tokyo-war-trial-records-fill-critical-gap-state-media?utm_source=rss_feed",
+        "summary": "For the first time, the complete court records from the Tokyo Trial have been published in Chinese, offering the public in China a detailed look at Japanese war crimes, according to state media. The translation, which spans 40 volumes, took a team of hundreds more than a decade to produce. It filled “a critical gap in domestic historical records”, state news agency Xinhua reported on Thursday. The International Military Tribunal for the Far East – also known as the Tokyo Trial – lasted from May...",
+        "published": "Fri, 26 Jun 2026 10:04:18 +0000",
+        "updated": "Fri, 26 Jun 2026 10:04:18 +0000",
+        "published_at_utc": "2026-06-26T10:04:18+00:00",
+        "id": "https://www.scmp.com/news/china/politics/article/3358517/chinese-translation-tokyo-war-trial-records-fill-critical-gap-state-media?utm_source=rss_feed",
+        "topic_type": "war_and_conflict",
+        "relevance_score": 18,
+        "briefing": {
+          "news_focus": "For the first time, the complete court records from the Tokyo Trial have been published in Chinese, offering the public in China a detailed look at Japanese war crimes, according to state media. The translation, which spans 40 volumes, took a team of hundreds more than a decade to produce. It filled “a critical gap in domestic historical records”, state news agency Xinhua reported on Thursday. The International Military Tribunal for the Far East – also known as the Tokyo Trial – lasted from May...",
+          "news_focus_zh": "中國首次發布完整的東京戰犯審判記錄中文翻譯，這些記錄詳細記載了日本的戰爭罪行。根據國家媒體報導，這項翻譯工作耗時十年以上，涉及數百人的團隊，並填補了中國國內歷史記錄中的一個關鍵空白。這一消息由國家新聞機構新華社於週四報導。",
+          "background": "東京戰犯審判是二戰後對日本戰爭罪行進行審判的重要國際法庭，該審判於1946年至1948年間進行，涉及多名日本軍事及政治領導人。隨著時間推移，對於這段歷史的研究與討論在中國逐漸增多，尤其是在近年來中日關係的背景下，對於歷史問題的認識與解讀成為雙方互動的重要議題。此次翻譯的出版，標誌著中國在戰爭歷史研究方面的一個重要進展，並可能影響公眾對於這段歷史的認識。",
+          "stakeholders": [
+            "中國政府",
+            "日本政府",
+            "歷史學者",
+            "中國公眾",
+            "國際社會"
+          ],
+          "analysis": "此次東京戰犯審判記錄的中文翻譯發布，反映了中國在歷史敘事上的努力，旨在強化國內對於日本戰爭罪行的認識與記憶。這一行動可能會引發不同的反應，尤其是在中日兩國之間的歷史認知上。部分學者可能會支持這一舉措，認為它有助於促進對歷史的全面理解，而另一些人則可能擔心這會加劇兩國間的歷史爭議。此外，這也可能成為中國政府在國內強化民族主義與歷史教育的一部分，進一步影響國內外對於中日關係的看法。"
+        },
+        "topic_priority_score": 11,
         "event_type": "security_event",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -238,332 +230,334 @@
     "economy": [
       {
         "category": "economy",
-        "source_name": "SCMP World",
-        "title": "Is investors’ love affair with India ending?",
-        "link": "https://www.scmp.com/opinion/asia-opinion/article/3358283/investors-love-affair-india-ending?utm_source=rss_feed",
-        "summary": "In July 2024, India’s weight in the MSCI Emerging Markets Index, a leading gauge of stocks in developing economies, hit a record high of 19.99 per cent. At the time, this was less than three percentage points below China’s weight, which at one point was as high as 43 per cent. Between 2022 and 2024, India was the darling of emerging market equity investors. The combination of the country’s fast-growing economy, strong corporate earnings, the Covid-19 pandemic-induced boom in retail trading and...",
-        "published": "Thu, 25 Jun 2026 08:30:04 +0000",
-        "updated": "Thu, 25 Jun 2026 08:30:04 +0000",
-        "published_at_utc": "2026-06-25T08:30:04+00:00",
-        "id": "https://www.scmp.com/opinion/asia-opinion/article/3358283/investors-love-affair-india-ending?utm_source=rss_feed",
-        "topic_type": "markets",
-        "relevance_score": 23,
-        "briefing": {
-          "news_focus": "In July 2024, India’s weight in the MSCI Emerging Markets Index, a leading gauge of stocks in developing economies, hit a record high of 19.99 per cent. At the time, this was less than three percentage points below China’s weight, which at one point was as high as 43 per cent. Between 2022 and 2024, India was the darling of emerging market equity investors. The combination of the country’s fast-growing economy, strong corporate earnings, the Covid-19 pandemic-induced boom in retail trading and...",
-          "news_focus_zh": "2024年7月，印度在MSCI新興市場指數中的權重達到19.99%的歷史新高，距離中國的權重僅低於三個百分點。自2022年至2024年，印度成為新興市場股市投資者的寵兒，這主要得益於其快速增長的經濟、強勁的企業盈利以及因疫情引發的零售交易繁榮。",
-          "background": "MSCI新興市場指數是衡量發展中經濟體股票表現的重要指標，印度的權重上升反映出其在全球投資者中的吸引力。自2020年以來，印度經濟持續增長，並在全球供應鏈重組中獲得了更多的關注。此外，隨著疫情期間零售投資的增加，印度股市吸引了大量個人投資者，進一步推高了市場活躍度和企業盈利。這一現象使得印度在新興市場中的地位日益重要，並引發了對其未來增長潛力的廣泛討論。",
-          "stakeholders": [
-            "印度政府",
-            "MSCI指數編制者",
-            "全球投資者",
-            "企業界",
-            "經濟分析師"
-          ],
-          "analysis": "印度在MSCI指數中的權重上升顯示出其在全球投資者眼中的重要性，但這也可能預示著其投資熱潮的結束。隨著全球經濟環境的變化，投資者可能會重新評估對印度的投資策略，尤其是在面對中國經濟復甦的競爭壓力時。儘管印度的經濟增長潛力仍然存在，但若未來出現政策不確定性或經濟增長放緩，可能會影響投資者的信心。此外，投資者的偏好可能轉向其他新興市場，這將對印度的資本流入造成影響。因此，未來幾個月印度的經濟政策和市場表現將成為關鍵觀察點。"
-        },
-        "topic_priority_score": 4,
-        "event_type": "corporate_results",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "economy",
-        "source_name": "BBC Business",
-        "title": "Oil price falls to levels not seen since before Iran war",
-        "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
-        "summary": "Energy prices have been on a wild ride since Iran responded to US and Israeli attacks by effectively closing the Strait of Hormuz.",
-        "published": "Thu, 25 Jun 2026 07:34:55 GMT",
-        "updated": "Thu, 25 Jun 2026 07:34:55 GMT",
-        "published_at_utc": "2026-06-25T07:34:55+00:00",
-        "id": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o#0",
+        "source_name": "The Guardian Business",
+        "title": "Great Britain’s grid operator warns again over power supplies in heatwave",
+        "link": "https://www.theguardian.com/business/2026/jun/26/great-britain-grid-operator-power-supplies-heatwave-neso-electricity",
+        "summary": "Neso asks generators to provide extra electricity on Friday evening to meet demand from fans and air conditioning Business live – latest updates Great Britain’s energy system operator has raised the alarm over electricity supplies for the second time this week as a heatwave continues to disrupt Europe’s energy markets. The National Energy System Operator (Neso) issued a notice late on Thursday asking generators to provide any extra electricity possible to Friday evening to help meet rising demand as households turn on air conditioners and electric fans to cope with the heat. Continue reading...",
+        "published": "Fri, 26 Jun 2026 10:24:28 GMT",
+        "updated": "2026-06-26T10:24:28Z",
+        "published_at_utc": "2026-06-26T10:24:28+00:00",
+        "id": "https://www.theguardian.com/business/2026/jun/26/great-britain-grid-operator-power-supplies-heatwave-neso-electricity",
         "topic_type": "energy_markets",
-        "relevance_score": 23,
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Energy prices have been on a wild ride since Iran responded to US and Israeli attacks by effectively closing the Strait of Hormuz.",
-          "news_focus_zh": "近期，由於伊朗對美國及以色列攻擊的回應，實質上關閉霍爾木茲海峽，能源價格經歷了劇烈波動。根據BBC Business報導，油價已降至自伊朗戰爭前所未見的低點，顯示出市場對於供應鏈安全的擔憂。",
-          "background": "霍爾木茲海峽是全球最重要的石油運輸通道之一，約有五分之一的全球石油需求經此運輸。隨著伊朗與美國及以色列之間的緊張局勢加劇，市場對於未來供應的擔憂也隨之上升。根據The Guardian的報導，英國財相在面對經濟放緩時，將責任部分歸咎於伊朗戰爭的影響，這顯示出此事件對全球經濟的潛在影響。此外，The Economist提到可再生能源在此背景下變得更具吸引力，反映出市場對於能源來源多元化的需求。",
+          "news_focus": "Neso asks generators to provide extra electricity on Friday evening to meet demand from fans and air conditioning Business live – latest updates Great Britain’s energy system operator has raised the alarm over electricity supplies for the second time this week as a heatwave continues to disrupt Europe’s energy markets. The National Energy System Operator (Neso) issued a notice late on Thursday asking generators to provide any extra electricity possible to Friday evening to help meet rising demand as households turn on air conditioners and electric fans to cope with the heat. Continue reading...",
+          "news_focus_zh": "英國的國家能源系統運營商（Neso）再次發出警告，指出在持續的熱浪中，電力供應面臨挑戰。該機構於週四晚間發出通知，要求發電商在週五晚上提供額外的電力，以應對因家庭開啟空調和電風扇而上升的需求。這是本週內第二次發出此類警告，顯示出熱浪對能源市場的影響。",
+          "background": "英國正面臨異常的高溫天氣，這對能源供應造成了壓力。隨著氣溫上升，家庭對電力的需求急劇增加，特別是空調和電風扇的使用量大幅上升。這一情況不僅影響英國，還對整個歐洲的能源市場造成了衝擊，因為多個國家也在應對類似的熱浪問題。Neso作為英國的電網運營商，負責確保電力供應的穩定性，面對這樣的需求挑戰，該機構需要及時調整策略以應對突發情況。",
           "stakeholders": [
-            "伊朗",
-            "美國",
-            "以色列",
-            "能源進口國",
-            "可再生能源企業"
+            "國家能源系統運營商（Neso）",
+            "發電商",
+            "家庭用戶",
+            "政府",
+            "能源政策制定者"
           ],
-          "analysis": "各方利益關係在此事件中顯得尤為複雜。油價的下跌對於依賴石油出口的國家來說是個挑戰，可能導致其經濟增長放緩。另一方面，對於能源進口國，尤其是那些面臨能源危機的國家，油價下跌則可能帶來短期的經濟緩解。參考報導中，The Guardian強調了英國財相對於經濟放緩的擔憂，而The Economist則指出可再生能源的興起可能是長期解決方案，這反映出各方對於未來能源政策的不同看法。隨著局勢的發展，市場可能會持續波動，並影響各國的能源政策及經濟策略。"
+          "analysis": "Neso的警告反映出英國在極端氣候條件下的能源供應脆弱性。隨著氣候變化導致的極端天氣事件日益頻繁，能源供應商面臨的挑戰也在增加。這一情況可能促使政府和企業加速投資可再生能源和儲能技術，以提高未來的供應彈性。此外，這也可能引發對能源政策的重新評估，特別是在應對氣候變化和保障能源安全方面。各方利益相關者，包括政府、發電商和消費者，將需共同面對這一挑戰，並尋求長期解決方案。"
         },
         "topic_priority_score": 8,
         "event_type": "energy_supply_move",
-        "supporting_sources": [
-          "The Guardian Business",
-          "The Economist"
-        ],
-        "supporting_titles": [
-          "Reeves defends record as chancellor and blames Iran war for slowdown; Oil price hits lowest level since before conflict began – business live",
-          "Renewables are shining. The Iran war amplifies their appeal"
-        ],
-        "supporting_summaries": [
-          "Rolling coverage of the latest economic and financial news Q: Some people are backing Andy Burnham because they think he’ll rip up your fiscal rules… Reeves replies that Burnham has been “really explicit” that he backs those fiscal rules [they dictate that day to day spending is funded through tax receipts, and that debt falls as a share of the economy]. So yes, there is more to do, but all of that has to be anchored around that stability, that high return to the economy. Continue reading...",
-          "Two new reports are a must-read of energy-starved governments"
-        ],
-        "supporting_links": [
-          "https://www.theguardian.com/business/live/2026/jun/25/oil-price-lowest-since-us-iran-war-uk-firms-burnham-reeves-haldane-latest-news-updates",
-          "https://www.economist.com/finance-and-economics/2026/04/23/renewables-are-shining-the-iran-war-amplifies-their-appeal"
-        ],
-        "source_count": 3
-      },
-      {
-        "category": "economy",
-        "source_name": "The Hindu International",
-        "title": "Why has India-U.S. trade deal been delayed? | Explained",
-        "link": "https://www.thehindu.com/news/national/why-has-india-us-trade-deal-been-delayed-explained/article71145051.ece",
-        "summary": "From India’s Russian oil purchases to legal battles in Washington, the road to India-U.S. trade deal has become increasingly uncertain, and The Hindu explains why",
-        "published": "Thu, 25 Jun 2026 15:58:44 +0530",
-        "updated": "Thu, 25 Jun 2026 15:58:44 +0530",
-        "published_at_utc": "2026-06-25T10:28:44+00:00",
-        "id": "article-71145051",
-        "topic_type": "trade_wars",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "From India’s Russian oil purchases to legal battles in Washington, the road to India-U.S. trade deal has become increasingly uncertain, and The Hindu explains why",
-          "news_focus_zh": "印度與美國之間的貿易協議因多重因素而延遲，包括印度對俄羅斯石油的購買及華盛頓的法律糾紛。這些因素使得雙方在達成貿易協議的道路上變得越來越不確定。",
-          "background": "印度與美國的貿易關係在過去幾年中逐漸加深，但雙方在某些政策上仍存在分歧。印度對俄羅斯的石油購買引發了美方的擔憂，因為這可能違反美國對俄的制裁政策。此外，印度在貿易政策上也面臨內部法律挑戰，這些挑戰可能影響到雙方的談判進程。美國希望能夠加強與印度的經濟合作，以對抗中國在亞太地區的影響力，但這些障礙使得協議的達成變得複雜。",
-          "stakeholders": [
-            "印度政府",
-            "美國政府",
-            "俄羅斯",
-            "國際貿易組織",
-            "企業界"
-          ],
-          "analysis": "印度與美國之間的貿易協議延遲反映了雙方在地緣政治和經濟利益上的複雜互動。印度購買俄羅斯石油的行為可能被視為對美國制裁政策的挑戰，這使得美方在談判時更加謹慎。另一方面，印度也希望在貿易協議中獲得更多的市場准入和技術轉讓，這可能與美方的要求產生衝突。雙方的法律糾紛也可能導致談判進程的延誤，進一步增加了協議的不確定性。未來，若雙方能在這些問題上找到共識，則貿易協議的達成仍有可能，但目前的情況顯示出雙方在利益上的矛盾。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "energy_supply_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
         "supporting_links": [],
         "source_count": 1
+      },
+      {
+        "category": "economy",
+        "source_name": "SCMP Business",
+        "title": "Indonesia set to issue US$1 billion in panda bonds in China",
+        "link": "https://www.scmp.com/economy/global-economy/article/3358485/indonesia-set-issue-us1-billion-panda-bonds-china?utm_source=rss_feed",
+        "summary": "Indonesia is expected to start issuing at least US$1 billion in yuan-denominated bonds in China within days or weeks, the Southeast Asian country’s national news agency Antara said on Friday, as part of an effort to stabilise domestic finances and reduce dependence on the US dollar. The Ministry of Finance in Jakarta said the planned issuance of panda bonds – debt securities sold in China’s domestic bond markets – could start before mid-July, pending final signoffs in Beijing, Antara...",
+        "published": "Fri, 26 Jun 2026 08:30:10 +0000",
+        "updated": "Fri, 26 Jun 2026 08:30:10 +0000",
+        "published_at_utc": "2026-06-26T08:30:10+00:00",
+        "id": "https://www.scmp.com/economy/global-economy/article/3358485/indonesia-set-issue-us1-billion-panda-bonds-china?utm_source=rss_feed",
+        "topic_type": "markets",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "Indonesia is expected to start issuing at least US$1 billion in yuan-denominated bonds in China within days or weeks, the Southeast Asian country’s national news agency Antara said on Friday, as part of an effort to stabilise domestic finances and reduce dependence on the US dollar. The Ministry of Finance in Jakarta said the planned issuance of panda bonds – debt securities sold in China’s domestic bond markets – could start before mid-July, pending final signoffs in Beijing, Antara...",
+          "news_focus_zh": "印尼計劃在中國發行至少10億美元的人民幣計價債券，這一舉措旨在穩定國內財政並減少對美元的依賴。根據印尼國家新聞機構Antara的報導，這項發行可能在幾天或幾週內啟動，並預計在七月中之前完成最終簽署。",
+          "background": "印尼的經濟在近年來面臨多重挑戰，包括外部經濟環境的不穩定及對美元的過度依賴。為了應對這些挑戰，印尼政府尋求多元化其融資來源，並提升人民幣的使用率，以減少對美國貨幣的依賴。發行熊貓債券是印尼政府的一項策略，這類債券在中國內部市場發行，能夠吸引中國投資者，並促進雙邊貿易與金融合作。",
+          "stakeholders": [
+            "印尼政府",
+            "中國投資者",
+            "國際金融市場"
+          ],
+          "analysis": "印尼發行熊貓債券的決策反映出其希望在全球經濟變化中尋求更大的自主權。這一舉措不僅能夠吸引中國資金，還能夠在一定程度上減少對美元的依賴，這在當前全球經濟不確定性加劇的背景下顯得尤為重要。根據參考報導，印尼的製造業發展也可能受到中國經濟政策的影響，這可能會影響印尼未來的經濟策略及其在區域內的競爭力。各方利益關係中，印尼政府希望透過這一發行增強財政穩定性，而中國投資者則可能尋求在印尼市場的投資機會。"
+        },
+        "topic_priority_score": 4,
+        "event_type": "market_repricing",
+        "supporting_sources": [
+          "The Economist"
+        ],
+        "supporting_titles": [
+          "The other China shock"
+        ],
+        "supporting_summaries": [
+          "Does the country’s manufacturing success leave space for anyone else?"
+        ],
+        "supporting_links": [
+          "https://www.economist.com/finance-and-economics/2026/05/21/the-other-china-shock"
+        ],
+        "source_count": 2
+      },
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "‘Kind of miracle solution’: How Paris is harnessing the Seine to replace air-con",
+        "link": "https://www.theguardian.com/environment/2026/jun/26/underground-revolution-seine-cooling-network-paris-buildings-heat",
+        "summary": "City plans to triple system of underground pipes that distribute chilled river water, reducing need for individual cooling units As heatwaves intensify across Europe, most cities are reaching for a familiar fix of more air conditioning. But in 1990s Paris, planning began for a different kind of solution: one of the world’s largest district cooling networks. The system has 120kms (75-miles) of underground pipes distributing chilled water to museums, offices, hospitals, schools and other public buildings including the Louvre, the Grand Palais, and some luxury hotels and office districts. Instead of thousands of individual air-conditioning units, cooling is produced centrally and shared across the city like a utility. Continue reading...",
+        "published": "Fri, 26 Jun 2026 04:00:08 GMT",
+        "updated": "2026-06-26T04:00:08Z",
+        "published_at_utc": "2026-06-26T04:00:08+00:00",
+        "id": "https://www.theguardian.com/environment/2026/jun/26/underground-revolution-seine-cooling-network-paris-buildings-heat",
+        "topic_type": "markets",
+        "relevance_score": 19,
+        "briefing": {
+          "news_focus": "City plans to triple system of underground pipes that distribute chilled river water, reducing need for individual cooling units As heatwaves intensify across Europe, most cities are reaching for a familiar fix of more air conditioning. But in 1990s Paris, planning began for a different kind of solution: one of the world’s largest district cooling networks. The system has 120kms (75-miles) of underground pipes distributing chilled water to museums, offices, hospitals, schools and other public buildings including the Louvre, the Grand Palais, and some luxury hotels and office districts. Instead of thousands of individual air-conditioning units, cooling is produced centrally and shared across the city like a utility. Continue reading...",
+          "news_focus_zh": "巴黎市計劃擴大其地下冷卻系統，將河流冷卻水的分配管道增加三倍，以應對日益嚴重的熱浪。這一系統自1990年代開始規劃，已經擁有120公里的地下管道，為博物館、辦公室、醫院和學校等公共建築提供冷卻，取代了大量個別空調設備。這種集中式的冷卻方式被視為一種創新的解決方案。",
+          "background": "隨著氣候變化導致的熱浪在歐洲日益頻繁，許多城市選擇增設空調以應對高溫。然而，巴黎的做法卻不同，早在1990年代便開始建設一個大型的區域冷卻網絡。該系統利用塞納河的冷卻水，通過地下管道將冷卻水分配至城市各處，這不僅減少了對個別空調的需求，也降低了能源消耗和碳排放。巴黎的這一創新模式被視為應對氣候變遷的一種可持續解決方案，並且在全球範圍內引起了關注。",
+          "stakeholders": [
+            "巴黎市政府",
+            "當地居民",
+            "公共建築管理單位",
+            "環保組織",
+            "能源供應商"
+          ],
+          "analysis": "巴黎的區域冷卻系統展示了城市在應對氣候變遷方面的前瞻性思維，這一系統的擴展將進一步減少城市的能源需求和碳排放，並可能成為其他城市的借鑒。然而，這種集中式冷卻系統的成功實施仍需克服一些挑戰，包括基礎設施的投資、維護和技術創新。此外，隨著熱浪的加劇，其他城市可能會面臨類似的壓力，迫使他們重新考慮傳統的空調解決方案。參考報導未提供與此事件直接相關的細節，因此未能補充其他觀點。"
+        },
+        "topic_priority_score": 4,
+        "event_type": "market_repricing",
+        "supporting_sources": [
+          "The Economist"
+        ],
+        "supporting_titles": [
+          "How to spot a genius"
+        ],
+        "supporting_summaries": [
+          "In an age of artificial intelligence, the human kind is increasingly important"
+        ],
+        "supporting_links": [
+          "https://www.economist.com/finance-and-economics/2025/09/23/how-to-spot-a-genius"
+        ],
+        "source_count": 2
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
-        "title": "UK to halve tariff-free steel imports to counter glut of cheap Chinese metal",
-        "link": "https://www.theguardian.com/business/2026/jun/25/uk-to-halve-tariff-free-steel-imports-to-counter-glut-of-cheap-chinese-metal",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-25T10:13:34+00:00",
-        "relevance_score": 20
+        "title": "China’s Trip.com faces revenue slowdown, warns of ‘significant fine’ from antitrust probe",
+        "link": "https://www.scmp.com/tech/article/3358354/chinas-tripcom-faces-revenue-slowdown-warns-significant-fine-antitrust-probe?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-25T11:30:05+00:00",
+        "relevance_score": 16
       },
       {
-        "title": "As large language models enter China’s legal profession, which lawyers will lose out?",
-        "link": "https://www.scmp.com/news/china/science/article/3358150/large-language-models-enter-chinas-legal-profession-which-lawyers-will-lose-out?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-25T04:00:08+00:00",
-        "relevance_score": 19
+        "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
+        "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-26T00:49:13+00:00",
+        "relevance_score": 15
       },
       {
-        "title": "Anthropic accuses Chinese rival Alibaba of illicitly extracting AI capabilities",
-        "link": "https://www.bbc.co.uk/news/articles/cwyklykn5dwo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC Business",
-        "published_at_utc": "2026-06-25T03:12:17+00:00",
-        "relevance_score": 19
+        "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-25T23:13:45+00:00",
+        "relevance_score": 15
       },
       {
-        "title": "Anthropic’s Export Control Crackdown Leaves South Korea Caught in Washington’s AI Crossfire",
-        "link": "https://thediplomat.com/2026/06/anthropics-export-control-crackdown-leaves-south-korea-caught-in-washingtons-ai-crossfire/",
-        "source_name": "The Diplomat",
-        "published_at_utc": "2026-06-24T12:58:00+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
-        "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-        "source_name": "MIT Technology Review",
-        "published_at_utc": "2026-06-24T12:00:00+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-        "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+        "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
         "source_name": "The Verge",
-        "published_at_utc": "2026-06-25T09:06:19+00:00",
-        "relevance_score": 14
+        "published_at_utc": "2026-06-25T21:57:06+00:00",
+        "relevance_score": 15
       },
       {
-        "title": "China satellite companies set sights on SpaceX, pushing to ramp up launches",
-        "link": "https://asia.nikkei.com/business/aerospace-defense-industries/china-satellite-companies-set-sights-on-spacex-pushing-to-ramp-up-launches",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 14
-      },
-      {
-        "title": "OpenAI and Broadcom announce chip designed for LLM inference at scale",
-        "link": "https://arstechnica.com/gadgets/2026/06/openai-and-broadcom-announce-chip-designed-for-llm-inference-at-scale/",
+        "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
+        "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
         "source_name": "Ars Technica",
-        "published_at_utc": "2026-06-24T22:28:18+00:00",
+        "published_at_utc": "2026-06-25T18:01:48+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Whistleblower Sarah Wynn-Williams sues Meta over attempts to ‘silence’ her",
+        "link": "https://www.theguardian.com/technology/2026/jun/25/whistleblower-sarah-wynn-williams-sues-meta-attempts-to-silence-her-careless-people",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-25T17:25:32+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "Rewriting the Intelligence Map",
+        "link": "https://www.scmp.com/presented/business/topics/c-suite-content-hub/article/3357881/rewriting-intelligence-map?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-25T21:30:06+00:00",
         "relevance_score": 13
       },
       {
-        "title": "AI researchers continue to leave Google for its rivals",
-        "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+        "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+        "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-24T21:42:07+00:00",
+        "published_at_utc": "2026-06-25T17:38:27+00:00",
         "relevance_score": 13
       },
       {
-        "title": "OpenAI unveils its first custom chip, built by Broadcom",
-        "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+        "title": "Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats",
+        "link": "https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-24T14:54:46+00:00",
+        "published_at_utc": "2026-06-25T16:40:15+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Repositioning retail for the AI era",
+        "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+        "source_name": "MIT Technology Review",
+        "published_at_utc": "2026-06-25T14:22:59+00:00",
         "relevance_score": 13
       }
     ],
     "politics": [
       {
-        "title": "Thursday briefing: Why EU​-Taliban talks have sparked outrage among Afghan women ​",
-        "link": "https://www.theguardian.com/world/2026/jun/25/thursday-briefing-why-eu-taliban-talks-have-sparked-outrage-among-afghan-women",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-25T05:47:17+00:00",
-        "relevance_score": 22
-      },
-      {
-        "title": "Repentant protesters will be given priority case review, minister says",
-        "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3358248/repentant-protesters-will-be-given-priority-case-review-minister-says?utm_source=rss_feed",
+        "title": "Russia reports one of biggest Ukrainian drone attacks, including on Crimea",
+        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3358513/russia-reports-one-biggest-ukrainian-drone-attacks-including-crimea?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-06-25T05:00:05+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "China discovers rare coral reef blue hole in the disputed Scarborough Shoal",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3358352/china-discovers-rare-coral-reef-blue-hole-disputed-scarborough-shoal?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-25T10:06:40+00:00",
+        "published_at_utc": "2026-06-26T09:41:15+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Trump asks Congress for billions for Iran war, after tension with Republicans",
-        "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC World",
-        "published_at_utc": "2026-06-25T09:06:59+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Elizabeth Warren says ‘frenzy’ of mergers under Trump could be reversed",
-        "link": "https://www.theguardian.com/us-news/2026/jun/25/elizabeth-warren-trump-mergers",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-25T09:00:10+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "U.S.-Iran deal may leave Netanyahu as biggest casualty: analysts",
-        "link": "https://www.thehindu.com/news/international/us-iran-deal-may-leave-netanyahu-as-biggest-casualty-analysts/article71145083.ece",
+        "title": "Ukraine hits Russian chemical plant again, reports say, in heavy overnight drone attack",
+        "link": "https://www.thehindu.com/news/international/ukraine-hits-russian-chemical-plant-again-reports-say-in-heavy-overnight-drone-attack/article71149896.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-25T06:42:53+00:00",
+        "published_at_utc": "2026-06-26T08:53:38+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Is Prabowo’s Trump moment a sign that China is losing its favourite partner?",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3358266/prabowos-trump-moment-sign-china-losing-its-favourite-partner?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-25T06:00:07+00:00",
+        "title": "U.S. Supreme Court’s ruling to end protections for Haitian, Syrian immigrants could have broader impact",
+        "link": "https://www.thehindu.com/news/international/us-supreme-courts-ruling-to-end-protections-for-haitian-syrian-immigrants-could-have-broader-impact/article71149683.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-26T08:49:51+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Trump says Venezuela earthquakes left 'devastating number of deaths' as US readies aid",
-        "link": "https://www.foxnews.com/world/trump-venezuela-earthquakes-us-aid",
-        "source_name": "Fox News World",
-        "published_at_utc": "2026-06-25T05:38:20+00:00",
+        "title": "US ends deportation protections (TPS) for Haitians and Syrians",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-06-26T05:25:44+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Trump casts doubt on US striking Iran school on war’s first day",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3358298/trump-casts-doubt-us-striking-iran-school-wars-first-day?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-25T05:37:30+00:00",
+        "title": "Trump allies defend him to Israelis anxious over Iran deal",
+        "link": "https://www.thehindu.com/news/international/trump-allies-defend-him-to-israelis-anxious-over-iran-deal/article71136395.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-26T03:45:29+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Israeli former leaders and security chiefs threaten legal action over ‘Jewish terrorism’",
-        "link": "https://www.theguardian.com/world/2026/jun/24/israeli-former-leaders-security-chiefs-legal-action-jewish-terrorism-west-bank",
+        "title": "Socceroos fans celebrate at city sites – as it happened",
+        "link": "https://www.theguardian.com/australia-news/live/2026/jun/26/australia-news-live-pat-conroy-defence-labor-karl-stefanovic-nine-moira-deeming-matthew-guy-liberals-victoria-coalition-tax-reform-ntwnfb",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-24T10:53:26+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-06-26T07:18:12+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "Breakthrough in US-Iran talks; Japan visa fee hike to affect Chinese: SCMP’s 7 highlights",
+        "link": "https://www.scmp.com/news/china/article/3358412/breakthrough-us-iran-talks-japan-visa-fee-hike-affect-chinese-scmps-7-highlights?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-26T04:12:04+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "Trump forced to drain the reflecting pool swamp – podcast",
+        "link": "https://www.theguardian.com/politics/audio/2026/jun/26/trump-lincoln-memorial-reflective-pool-vandalism-podcast",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-26T04:00:10+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "Venezuela quake response requires ‘massive collective effort’: UN aid chief",
+        "link": "https://www.thehindu.com/news/international/venezuela-quake-response-requires-massive-collective-effort-un-aid-chief/article71146712.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-26T03:29:19+00:00",
+        "relevance_score": 16
+      },
+      {
+        "title": "Venezuela earthquake: Venezuelans in U.S. rush to send aid to earthquake victims, but Caracas airport is closed",
+        "link": "https://www.thehindu.com/news/international/venezuela-earthquake-venezuelans-in-us-rush-to-send-aid-to-earthquake-victims-but-caracas-airport-is-closed/article71148095.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-26T03:27:17+00:00",
+        "relevance_score": 16
       }
     ],
     "economy": [
       {
-        "title": "India, U.S. note ‘substantial progress’ on trade deal talks as U.S. Trade Representative Greer ends two-day visit to Delhi",
-        "link": "https://www.thehindu.com/news/national/india-us-conclude-two-day-trade-talks-review-core-elements-of-bilateral-pact/article71141801.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-25T08:10:12+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Hang Seng Index briefly slips below 23,000 as Alibaba slumps to 16-month low",
-        "link": "https://www.scmp.com/business/china-business/article/3358314/hang-seng-index-briefly-slips-below-23000-alibaba-leads-tech-sell?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-25T07:07:52+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Chinese PCB equipment maker CFMEE tops 1,000-times oversubscription in Hong Kong IPO",
-        "link": "https://www.scmp.com/business/markets/article/3358307/chinese-pcb-equipment-maker-cfmee-tops-1000-times-oversubscription-hong-kong-ipo?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-25T07:00:09+00:00",
-        "relevance_score": 21
-      },
-      {
-        "title": "Reeves defends record as chancellor and blames Iran war for slowdown; Oil price hits lowest level since before conflict began – business live",
-        "link": "https://www.theguardian.com/business/live/2026/jun/25/oil-price-lowest-since-us-iran-war-uk-firms-burnham-reeves-haldane-latest-news-updates",
+        "title": "UK food and drink exports fall as US tariffs and Brexit trade friction bites – business live",
+        "link": "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-25T10:16:21+00:00",
+        "published_at_utc": "2026-06-26T08:18:53+00:00",
+        "relevance_score": 23
+      },
+      {
+        "title": "Hang Seng Index closes out worst week in over a year in renewed tech sell-off",
+        "link": "https://www.scmp.com/business/china-business/article/3358428/hang-seng-index-heads-worst-week-over-year-renewed-sell-engulfs-tech-names?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-26T03:42:12+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Oil prices back to pre-war levels on rising Middle East supply",
-        "link": "https://www.aljazeera.com/news/2026/6/25/oil-prices-back-to-pre-war-levels-on-rising-middle-east-supply?traffic_source=rss",
+        "title": "IPO Connect pitched as Hong Kong’s next move to boost finance hub role. But hurdles loom",
+        "link": "https://www.scmp.com/business/banking-finance/article/3358365/ipo-connect-pitched-hong-kongs-next-move-boost-finance-hub-role-hurdles-loom?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-25T23:00:05+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Oil price falls back to pre-Iran war levels",
+        "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-06-25T15:32:04+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Fossil fuel price surges can lead to worse air quality, study finds",
+        "link": "https://www.theguardian.com/environment/2026/jun/26/fossil-fuel-price-surges-worse-air-quality-study-pollutionwatch",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-26T05:00:09+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Do new Isa rules mean I have to pay tax?",
+        "link": "https://www.theguardian.com/money/2026/jun/26/new-isa-rules-pay-tax-stocks-and-shares",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-26T06:00:10+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Oil prices ease after spiking over halt to Strait of Hormuz evacuation plan",
+        "link": "https://www.aljazeera.com/economy/2026/6/26/oil-prices-climb-after-attack-in-strait-of-hormuz-halts-evacuation-plan?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-25T10:04:43+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Will AI lower interest rates?",
-        "link": "https://www.economist.com/finance-and-economics/2026/06/25/will-ai-lower-interest-rates",
-        "source_name": "The Economist",
-        "published_at_utc": "2026-06-25T09:39:49+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Southbound Stock Connect flows surge to record US$152b driven by Hong Kong’s IPO revival",
-        "link": "https://www.scmp.com/business/banking-finance/article/3358201/southbound-stock-connect-flows-surge-record-us152b-driven-hong-kongs-ipo-revival?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-25T02:00:08+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "2 State-owned Banks in Kyrgyzstan Drop 131 Clients Due to Sanctions Risks",
-        "link": "https://thediplomat.com/2026/06/2-state-owned-banks-in-kyrgyzstan-drop-131-clients-due-to-sanctions-risks/",
-        "source_name": "The Diplomat",
-        "published_at_utc": "2026-06-24T18:10:00+00:00",
+        "published_at_utc": "2026-06-26T02:35:10+00:00",
         "relevance_score": 17
       },
       {
-        "title": "China closes another offshore investing loophole as TRS faces restrictions",
-        "link": "https://www.scmp.com/business/banking-finance/article/3358240/china-closes-another-offshore-investing-loophole-trs-faces-restrictions?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-24T12:35:19+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Iran scrambles to move estimated $8.5bn in oil as US eases sanctions",
-        "link": "https://asia.nikkei.com/business/energy/iran-scrambles-to-move-estimated-8.5bn-in-oil-as-us-eases-sanctions",
+        "title": "Chinese firms brace for new EU rules as trade deficit tops $1bn a day",
+        "link": "https://asia.nikkei.com/economy/trade/chinese-firms-brace-for-new-eu-rules-as-trade-deficit-tops-1bn-a-day",
         "source_name": "Nikkei Asia",
         "published_at_utc": "",
-        "relevance_score": 17
+        "relevance_score": 15
+      },
+      {
+        "title": "Chinese door-to-door logistics networks grow in US to counter trade war",
+        "link": "https://asia.nikkei.com/economy/trade-war/chinese-door-to-door-logistics-networks-grow-in-us-to-counter-trade-war",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
+        "relevance_score": 15
+      },
+      {
+        "title": "EV influx, US rare earth miners blacklisted, China-EU trade talks",
+        "link": "https://www.scmp.com/plus/business/china-business/article/3358477/ev-influx-us-rare-earth-miners-blacklisted-china-eu-trade-talks?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-26T09:00:32+00:00",
+        "relevance_score": 14
       }
     ]
   },
