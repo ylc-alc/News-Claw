@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-05-27",
-      "topics": {
-        "technology": [
-          "chips",
-          "chips",
-          "ai"
-        ],
-        "politics": [
-          "uk_politics",
-          "diplomacy",
-          "us_politics"
-        ],
-        "economy": [
-          "inflation",
-          "energy_markets",
-          "sanctions"
-        ]
-      }
-    },
-    {
       "date": "2026-05-28",
       "topics": {
         "technology": [
@@ -619,14 +599,34 @@
           "markets"
         ]
       }
+    },
+    {
+      "date": "2026-06-27",
+      "topics": {
+        "technology": [
+          "cybersecurity",
+          "ai",
+          "ai"
+        ],
+        "politics": [
+          "war_and_conflict",
+          "us_politics",
+          "us_politics"
+        ],
+        "economy": [
+          "energy_markets",
+          "trade_wars",
+          "markets"
+        ]
+      }
     }
   ],
   "rolling_frequency": {
     "technology": {
-      "chips": 23,
-      "ai": 40,
-      "cybersecurity": 11,
+      "ai": 41,
+      "cybersecurity": 12,
       "quantum_computing": 1,
+      "chips": 21,
       "space_tech": 7,
       "social_media": 8,
       "platform_regulation": 1,
@@ -634,26 +634,26 @@
       "green_tech": 1
     },
     "politics": {
-      "uk_politics": 5,
-      "diplomacy": 36,
-      "us_politics": 33,
-      "war_and_conflict": 10,
+      "us_politics": 34,
+      "war_and_conflict": 11,
+      "diplomacy": 35,
       "eu_policy": 4,
       "social_protests": 4,
+      "uk_politics": 4,
       "democracy_autocracy": 1
     },
     "economy": {
-      "inflation": 17,
       "energy_markets": 11,
-      "sanctions": 10,
       "interest_rates": 13,
+      "inflation": 16,
       "corporate_earnings": 1,
-      "markets": 26,
-      "trade_wars": 9,
+      "markets": 27,
+      "trade_wars": 10,
+      "sanctions": 9,
       "supply_chain": 5,
       "general": 1
     }
   },
   "window_days": 30,
-  "last_updated": "2026-06-26"
+  "last_updated": "2026-06-27"
 }

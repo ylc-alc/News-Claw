@@ -1,58 +1,58 @@
 {
-  "generated_at_utc": "2026-06-26T10:44:04.676509+00:00",
+  "generated_at_utc": "2026-06-27T09:55:37.919209+00:00",
   "summary": {
-    "total_raw_items": 1060,
-    "total_deduped_items": 1034,
+    "total_raw_items": 1047,
+    "total_deduped_items": 1032,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
         "cybersecurity",
         "ai",
-        "social_media"
+        "ai"
       ],
       "politics": [
-        "uk_politics",
+        "war_and_conflict",
         "us_politics",
-        "war_and_conflict"
+        "us_politics"
       ],
       "economy": [
         "energy_markets",
-        "markets",
+        "trade_wars",
         "markets"
       ]
     },
-    "multi_source_selected_count": 2
+    "multi_source_selected_count": 4
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "BBC Technology",
-        "title": "Teens who hacked TfL were known to police years before cyber-attack",
-        "link": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
-        "summary": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
-        "published": "Thu, 25 Jun 2026 23:19:48 GMT",
-        "updated": "Thu, 25 Jun 2026 23:19:48 GMT",
-        "published_at_utc": "2026-06-25T23:19:48+00:00",
-        "id": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o#0",
+        "source_name": "SCMP World",
+        "title": "US eases ban on AI model Mythos feared to aid cyberattacks",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3358579/us-eases-ban-ai-model-mythos-feared-aid-cyberattacks?utm_source=rss_feed",
+        "summary": "The US government has allowed Anthropic to release its powerful Claude Mythos 5 artificial intelligence model to some “trusted” US organisations, partially reversing an order two weeks ago to suspend access over national security risks. More than 100 companies and institutions will now have access to Mythos 5, including many Fortune 500 companies, according to a source familiar with the new directive, declining to be identified due to the sensitivity of the matter. Concern that powerful AI...",
+        "published": "Sat, 27 Jun 2026 02:50:19 +0000",
+        "updated": "Sat, 27 Jun 2026 02:50:19 +0000",
+        "published_at_utc": "2026-06-27T02:50:19+00:00",
+        "id": "https://www.scmp.com/news/world/united-states-canada/article/3358579/us-eases-ban-ai-model-mythos-feared-aid-cyberattacks?utm_source=rss_feed",
         "topic_type": "cybersecurity",
-        "relevance_score": 21,
+        "relevance_score": 25,
         "briefing": {
-          "news_focus": "Owen Flowers and Thalha Jubair were convicted for their roles in the attack, which led to large costs for Transport for London.",
-          "news_focus_zh": "Owen Flowers 和 Thalha Jubair 兩名青少年因參與對倫敦交通局（TfL）的駭客攻擊而被定罪，此次攻擊造成了巨大的經濟損失。報導指出，這兩名青少年在進行網路攻擊之前，已經被警方知悉多年，顯示出他們的犯罪行為並非首次出現。",
-          "background": "倫敦交通局（TfL）在近年來面臨多起網路安全事件，這些事件不僅影響了其運營效率，也對公共交通系統的信任度造成了損害。隨著數位化進程的加快，交通系統的網路安全問題日益受到關注。警方對青少年犯罪的監控和預防措施在這種背景下顯得尤為重要，尤其是當這些青少年已經有過犯罪紀錄時，如何有效地介入和預防成為一個挑戰。",
+          "news_focus": "The US government has allowed Anthropic to release its powerful Claude Mythos 5 artificial intelligence model to some “trusted” US organisations, partially reversing an order two weeks ago to suspend access over national security risks. More than 100 companies and institutions will now have access to Mythos 5, including many Fortune 500 companies, according to a source familiar with the new directive, declining to be identified due to the sensitivity of the matter. Concern that powerful AI...",
+          "news_focus_zh": "美國政府允許Anthropic釋放其強大的Claude Mythos 5人工智慧模型，這一決定部分逆轉了兩週前因國家安全風險而下達的禁令。根據一位不願透露姓名的消息人士，超過100家公司和機構，包括許多《財富》500強公司，現在將能夠訪問Mythos 5。這一變化引發了對強大AI模型可能被用於網絡攻擊的擔憂。",
+          "background": "在過去幾年中，人工智慧技術的迅速發展引發了各國政府對其潛在風險的關注，特別是在國家安全和網絡安全方面。美國政府曾對某些AI模型的使用進行限制，尤其是那些可能被用於網絡攻擊或其他不當用途的模型。Claude Mythos 5是Anthropic公司開發的一款先進AI模型，因其強大的功能而受到關注。此次政策調整顯示出美國政府在促進技術創新與保障國家安全之間的微妙平衡。",
           "stakeholders": [
-            "倫敦交通局",
-            "警方",
-            "青少年犯罪預防組織",
-            "公共交通使用者",
-            "網路安全專家"
+            "美國政府",
+            "Anthropic公司",
+            "科技企業",
+            "國家安全機構",
+            "商業機構"
           ],
-          "analysis": "此次事件突顯了青少年網路犯罪的風險，特別是當他們的行為在警方的監控下仍能持續進行時。Owen Flowers 和 Thalha Jubair 的案例顯示，儘管他們的行為早已引起注意，但缺乏有效的干預措施可能導致更嚴重的後果。此事件可能促使倫敦交通局和警方重新評估其網路安全策略及青少年犯罪的預防措施，並加強對潛在威脅的監控。此外，社會對於青少年犯罪的理解與應對方式也可能因此受到影響，促進更多關於如何平衡法律與教育的討論。"
+          "analysis": "此次美國政府的決策反映出對AI技術的雙重考量。一方面，允許超過100家機構訪問Claude Mythos 5，顯示出對於推動技術創新的重視，尤其是在商業和經濟競爭日益激烈的背景下。另一方面，這一決策也引發了對於AI模型可能被濫用的擔憂，特別是在網絡攻擊的潛在風險方面。各方利益關係的角力可能會影響未來的政策走向，特別是如何在促進技術發展與保障公共安全之間找到平衡。未來，政府可能會進一步加強對AI技術的監管，以防止其被用於不當用途。"
         },
         "topic_priority_score": 9,
-        "event_type": "strategic_move",
+        "event_type": "regulation_action",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -62,161 +62,119 @@
       {
         "category": "technology",
         "source_name": "TechCrunch",
-        "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-        "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-        "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
-        "published": "Thu, 25 Jun 2026 23:34:39 +0000",
-        "updated": "Thu, 25 Jun 2026 23:34:39 +0000",
-        "published_at_utc": "2026-06-25T23:34:39+00:00",
-        "id": "https://techcrunch.com/?p=3136540",
+        "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+        "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+        "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+        "published": "Sat, 27 Jun 2026 01:01:37 +0000",
+        "updated": "Sat, 27 Jun 2026 01:01:37 +0000",
+        "published_at_utc": "2026-06-27T01:01:37+00:00",
+        "id": "https://techcrunch.com/?p=3136944",
         "topic_type": "ai",
         "relevance_score": 19,
         "briefing": {
-          "news_focus": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
-          "news_focus_zh": "白宮要求OpenAI延緩其最新模型GPT 5.6的發布，並將其僅限於與特定合作夥伴分享，而非向大眾公開。這一決定源於特朗普政府對於安全問題的擔憂，顯示出對於人工智慧技術潛在風險的重視。",
-          "background": "隨著人工智慧技術的快速發展，安全性與倫理問題日益受到關注。OpenAI作為領先的AI研究機構，其模型的發布對於市場與社會都可能帶來深遠影響。過去幾年，許多國家與企業開始制定相關政策，以確保AI技術的安全使用，並防範可能的濫用或風險。特朗普政府的介入，反映出美國在科技發展與安全之間的平衡考量，尤其是在AI技術日益普及的背景下。",
+          "news_focus": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+          "news_focus_zh": "特朗普政府已授權超過100家美國公司及政府機構使用Anthropic的AI模型Mythos 5，這些機構甚至可以讓非美國員工使用該技術。這一決定是在經過數週的談判後做出的，標誌著美國對先進人工智慧技術的進一步開放。",
+          "background": "Anthropic是一家專注於人工智慧研究的公司，其開發的Mythos 5被認為是當前最先進的AI模型之一。隨著AI技術的迅速發展，政府與企業對於如何有效利用這些技術的討論愈加頻繁。特朗普政府在此背景下，選擇授權特定機構使用Mythos 5，顯示出對於AI技術在商業及公共服務領域潛力的重視。此外，這一決策也反映了美國在全球科技競爭中的立場，尤其是在面對其他國家在AI領域的快速發展時。",
           "stakeholders": [
-            "OpenAI",
             "特朗普政府",
-            "科技業界",
-            "合作夥伴",
-            "消費者"
+            "Anthropic",
+            "美國公司",
+            "政府機構",
+            "AI倫理監管機構"
           ],
-          "analysis": "白宮的要求顯示出政府對於AI技術潛在風險的高度警覺，尤其是在社會與經濟影響尚不明朗的情況下。OpenAI的決策可能會影響其市場競爭力，因為延遲發布可能讓其他競爭者有機會搶佔市場份額。此外，這一動作也可能引發業界對於政府干預科技發展的討論，特別是在如何平衡創新與安全之間的矛盾方面。未來，若其他科技公司也面臨類似的政府要求，可能會進一步影響整個行業的發展方向與速度。"
+          "analysis": "此次授權的決策可能會引發多方利益的角力。一方面，獲得授權的公司和機構將能夠利用Mythos 5的先進技術，提升其業務效率和創新能力；另一方面，這也可能引發對於AI技術使用的倫理和安全性問題的討論。參考報導指出，這一授權是在經過長達兩週的談判後才獲得的，顯示出政府對於AI技術的審慎態度。此外，報導中提到的「Fable 5」則是Mythos系列的公眾版本，這表明Anthropic可能在考慮如何平衡商業利益與公眾可及性之間的關係。各方對於AI技術的應用及其潛在風險的看法可能會影響未來的政策走向。"
         },
         "topic_priority_score": 9,
-        "event_type": "partnership_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "event_type": "product_launch",
+        "supporting_sources": [
+          "Wired",
+          "The Verge"
+        ],
+        "supporting_titles": [
+          "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
+          "Anthropic’s Mythos 5 is back"
+        ],
+        "supporting_summaries": [
+          "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+          "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class […]"
+        ],
+        "supporting_links": [
+          "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+          "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations"
+        ],
+        "source_count": 3
       },
       {
         "category": "technology",
-        "source_name": "The Hindu International",
-        "title": "WhatsApp still barely makes Meta any money. Can Kunal Shah change that?",
-        "link": "https://www.thehindu.com/sci-tech/technology/whatsapp-still-barely-makes-meta-any-money-can-kunal-shah-change-that/article71145155.ece",
-        "summary": "This week, Meta named Kunal Shah, founder of Indian fintech CRED, as WhatsApp’s new global head, succeeding Will Cathcart after nearly seven years at the helm",
-        "published": "Fri, 26 Jun 2026 10:20:52 +0530",
-        "updated": "Fri, 26 Jun 2026 10:20:52 +0530",
-        "published_at_utc": "2026-06-26T04:50:52+00:00",
-        "id": "article-71145155",
-        "topic_type": "social_media",
-        "relevance_score": 16,
+        "source_name": "Wired",
+        "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
+        "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+        "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+        "published": "Sat, 27 Jun 2026 00:26:14 +0000",
+        "updated": "Sat, 27 Jun 2026 00:26:14 +0000",
+        "published_at_utc": "2026-06-27T00:26:14+00:00",
+        "id": "6a31a50cc9d6ea1d2578b617",
+        "topic_type": "ai",
+        "relevance_score": 19,
         "briefing": {
-          "news_focus": "This week, Meta named Kunal Shah, founder of Indian fintech CRED, as WhatsApp’s new global head, succeeding Will Cathcart after nearly seven years at the helm",
-          "news_focus_zh": "Meta公司本週宣布任命印度金融科技公司CRED創始人Kunal Shah為WhatsApp的新全球負責人，接替在該職位上任職近七年的Will Cathcart。此舉標誌著Meta在提升WhatsApp盈利能力方面的努力，因為WhatsApp目前的盈利能力仍然有限。",
-          "background": "WhatsApp自2014年被Meta收購以來，雖然用戶數量持續增長，但其商業化進程緩慢，尚未為Meta帶來顯著的收入。Meta一直在尋求將WhatsApp轉型為一個更具盈利潛力的平台，特別是在全球數位支付和商業通訊日益增長的背景下。Kunal Shah在金融科技領域的經驗可能為WhatsApp帶來新的商業模式和創新思路，尤其是在推動用戶付費和商業服務方面。",
+          "news_focus": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+          "news_focus_zh": "特朗普政府在經過數週的談判後，允許人工智慧公司Anthropic將其最新的AI模型Mythos提供給美國的部分公司和政府機構使用。這一決定標誌著Anthropic在AI技術推廣方面的一個重要進展。",
+          "background": "Anthropic是一家專注於開發安全和可控的人工智慧技術的公司。Mythos 5是其最新的AI模型，旨在提高AI的效率和安全性。隨著AI技術的迅速發展，各國政府對於AI的監管和應用越來越重視，尤其是在美國，政府機構與企業之間的合作關係日益緊密。特朗普政府的這一決定，反映了對於AI技術潛力的重視，並希望通過與私營部門的合作，推動技術創新和經濟增長。",
           "stakeholders": [
-            "Meta",
-            "Kunal Shah",
-            "WhatsApp用戶",
-            "企業客戶",
-            "金融科技行業"
+            "Anthropic",
+            "特朗普政府",
+            "美國公司",
+            "政府機構",
+            "AI技術使用者"
           ],
-          "analysis": "Kunal Shah的任命可能會引發WhatsApp在商業化策略上的重大變革。Shah在CRED的成功經驗顯示他擅長於用戶增長和金融服務的整合，這對於提升WhatsApp的盈利能力至關重要。Meta的挑戰在於如何平衡用戶體驗與商業利益，避免過度廣告化影響用戶基礎。不同於過去的管理者，Shah的金融背景可能使他更專注於開發支付功能和企業解決方案，這與Meta希望在WhatsApp上實現的增長目標相符。未來，WhatsApp的商業化進程將受到市場反應和用戶接受度的影響，這將是Meta需要密切關注的焦點。"
+          "analysis": "此次特朗普政府允許Anthropic釋放Mythos 5的決定，對於超過100家美國公司和政府機構來說，無疑是一次重要的機會。根據TechCrunch的報導，這些機構甚至可以讓其非美國員工使用該技術，顯示出政府對於AI技術全球化應用的開放態度。然而，The Verge的報導則強調了這一過程的複雜性，指出與政府的談判過程經歷了波折，顯示出政策制定中的不確定性。各方的立場可能會影響未來AI技術的發展方向，特別是在安全性和倫理性方面的考量，未來的政策走向仍需密切關注。"
         },
-        "topic_priority_score": 6,
-        "event_type": "strategic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
+        "topic_priority_score": 9,
+        "event_type": "product_launch",
+        "supporting_sources": [
+          "TechCrunch",
+          "The Verge"
+        ],
+        "supporting_titles": [
+          "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+          "Anthropic’s Mythos 5 is back"
+        ],
+        "supporting_summaries": [
+          "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+          "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organizations, according to a letter from the government to Anthropic that was viewed by The Verge. Fable 5, however - the public-facing Mythos-class […]"
+        ],
+        "supporting_links": [
+          "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+          "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations"
+        ],
+        "source_count": 3
       }
     ],
     "politics": [
       {
         "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "Minister says he ‘won’t be intimidated’ by home secretary as public row escalates",
-        "link": "https://www.theguardian.com/uk-news/2026/jun/26/minister-mike-tapp-row-home-secretary-shabana-mahmood",
-        "summary": "Shabana Mahmood has demanded Mike Tapp be sacked over call for care worker exemption to migration rules UK politics live – latest updates An extraordinary public row between the home secretary, Shabana Mahmood, and one of her junior ministers has escalated after he said he “won’t be intimidated” in response to calls by her for him to be sacked. Mahmood demanded on Thursday that the migration minister, Mike Tapp, should be fired for writing an unauthorised article in the Times calling for overseas care workers to be exempt from controversial changes to the immigration rules. But Keir Starmer has so far not sacked Tapp for apparently breaking the rules around ministerial conduct. Continue reading...",
-        "published": "Fri, 26 Jun 2026 09:30:46 GMT",
-        "updated": "2026-06-26T09:30:46Z",
-        "published_at_utc": "2026-06-26T09:30:46+00:00",
-        "id": "https://www.theguardian.com/uk-news/2026/jun/26/minister-mike-tapp-row-home-secretary-shabana-mahmood",
-        "topic_type": "uk_politics",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "Shabana Mahmood has demanded Mike Tapp be sacked over call for care worker exemption to migration rules UK politics live – latest updates An extraordinary public row between the home secretary, Shabana Mahmood, and one of her junior ministers has escalated after he said he “won’t be intimidated” in response to calls by her for him to be sacked. Mahmood demanded on Thursday that the migration minister, Mike Tapp, should be fired for writing an unauthorised article in the Times calling for overseas care workers to be exempt from controversial changes to the immigration rules. But Keir Starmer has so far not sacked Tapp for apparently breaking the rules around ministerial conduct. Continue reading...",
-          "news_focus_zh": "英國內政部長Shabana Mahmood要求移民部長Mike Tapp因為在《泰晤士報》上發表未經授權的文章而被解雇，該文章呼籲對海外護理工作者在移民規則變更中提供豁免。Tapp則回應稱不會被威脅，並表示不會辭職。儘管Mahmood的要求引發了公開爭論，但工黨領袖Keir Starmer至今尚未對Tapp採取解雇行動。",
-          "background": "英國目前正面臨移民政策的重大變革，特別是在護理行業。隨著對護理人力資源的需求增加，政府內部對於如何調整移民規則以吸引海外護理工作者的看法出現分歧。Mahmood的立場強調了政府對移民政策的嚴格性，而Tapp的呼籲則反映了對行業需求的關注。這場爭論不僅涉及個人職位的安全，也反映了工黨內部對於移民政策的不同看法。",
-          "stakeholders": [
-            "Shabana Mahmood",
-            "Mike Tapp",
-            "Keir Starmer",
-            "工黨",
-            "護理行業"
-          ],
-          "analysis": "此次爭論突顯了英國政府內部對於移民政策的緊張局勢。Mahmood的要求顯示出她對於遵守內部規範的重視，並希望強調政府在移民問題上的一致性。然而，Tapp的反應則表明他對於護理行業的需求有不同的看法，並不願意因為內部壓力而妥協。工黨領袖Starmer的沉默可能暗示他在這一問題上的猶豫，面對兩位部長的不同立場，他需要考慮到黨內的團結與選民的需求。未來幾天，這一事件可能會進一步影響工黨的內部動態及其在移民政策上的立場。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "diplomatic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "Child malnutrition in Nepal has reached ‘alarming’ levels since aid cuts, survey finds",
-        "link": "https://www.theguardian.com/global-development/2026/jun/26/child-malnutrition-nepal-child-mortality-usaid-funding-nutrition-programmes",
-        "summary": "Fears hard-won gains in reducing child mortality over 20 years are at risk after end of USAID funding for nutrition programmes Child malnutrition in Nepal has reached “alarming” levels, according to the largest ever survey of under-fives in the country. The new figures came just over a year after USAID, the former US flagship agency closed by the Trump administration in 2025, stopped funding work on child nutrition in Nepal. Continue reading...",
-        "published": "Fri, 26 Jun 2026 07:00:13 GMT",
-        "updated": "2026-06-26T07:00:13Z",
-        "published_at_utc": "2026-06-26T07:00:13+00:00",
-        "id": "https://www.theguardian.com/global-development/2026/jun/26/child-malnutrition-nepal-child-mortality-usaid-funding-nutrition-programmes",
-        "topic_type": "us_politics",
-        "relevance_score": 20,
-        "briefing": {
-          "news_focus": "Fears hard-won gains in reducing child mortality over 20 years are at risk after end of USAID funding for nutrition programmes Child malnutrition in Nepal has reached “alarming” levels, according to the largest ever survey of under-fives in the country. The new figures came just over a year after USAID, the former US flagship agency closed by the Trump administration in 2025, stopped funding work on child nutrition in Nepal. Continue reading...",
-          "news_focus_zh": "尼泊爾的兒童營養不良問題已達到“驚人”水平，這是根據該國有史以來最大的五歲以下兒童調查結果所顯示的。這一數據出現於美國國際開發署（USAID）於2025年停止對尼泊爾兒童營養計劃的資助後不久，這使得過去20年來在降低兒童死亡率方面所取得的成果面臨風險。",
-          "background": "尼泊爾在過去二十年中，通過各種國際援助計劃，特別是來自USAID的資金，顯著改善了兒童健康狀況，降低了兒童死亡率。然而，隨著USAID的資助結束，許多營養計劃的運作受到影響，導致兒童營養不良問題惡化。根據最新調查，兒童營養不良的比例顯著上升，這對尼泊爾的公共衛生構成了重大挑戰，尤其是在疫情後，經濟復甦緩慢的背景下。",
-          "stakeholders": [
-            "尼泊爾政府",
-            "美國國際開發署 (USAID)",
-            "非政府組織",
-            "兒童健康倡導團體",
-            "國際援助機構"
-          ],
-          "analysis": "各方利益關係在此事件中顯得尤為重要。尼泊爾政府面臨著如何填補USAID資金缺口的壓力，並可能需要尋求其他國際組織或國家的援助來應對兒童營養不良的危機。此外，非政府組織和社會團體也可能會加大對政府的監督，要求其采取行動以改善兒童健康狀況。隨著兒童營養不良問題的加劇，社會對政府的期待和壓力將會增加，這可能促使政府重新評估其公共衛生政策和資金分配策略。"
-        },
-        "topic_priority_score": 8,
-        "event_type": "political_signal",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "politics",
-        "source_name": "SCMP World",
-        "title": "Chinese translation of Tokyo war trial records fill ‘critical gap’: state media",
-        "link": "https://www.scmp.com/news/china/politics/article/3358517/chinese-translation-tokyo-war-trial-records-fill-critical-gap-state-media?utm_source=rss_feed",
-        "summary": "For the first time, the complete court records from the Tokyo Trial have been published in Chinese, offering the public in China a detailed look at Japanese war crimes, according to state media. The translation, which spans 40 volumes, took a team of hundreds more than a decade to produce. It filled “a critical gap in domestic historical records”, state news agency Xinhua reported on Thursday. The International Military Tribunal for the Far East – also known as the Tokyo Trial – lasted from May...",
-        "published": "Fri, 26 Jun 2026 10:04:18 +0000",
-        "updated": "Fri, 26 Jun 2026 10:04:18 +0000",
-        "published_at_utc": "2026-06-26T10:04:18+00:00",
-        "id": "https://www.scmp.com/news/china/politics/article/3358517/chinese-translation-tokyo-war-trial-records-fill-critical-gap-state-media?utm_source=rss_feed",
+        "source_name": "The Hindu International",
+        "title": "Netanyahu says Israel to remain in south Lebanon until Hezbollah disarms",
+        "link": "https://www.thehindu.com/news/international/netanyahu-declares-israel-will-stay-in-southern-lebanon-until-hezbollah-disarms/article71153556.ece",
+        "summary": "“The most important thing is, first of all, that Israel remains in the security zone in southern Lebanon. This is a major achievement, and we will maintain it as long as Hezbollah has not disarmed,” says Mr. Netanyahu",
+        "published": "Sat, 27 Jun 2026 13:44:55 +0530",
+        "updated": "Sat, 27 Jun 2026 13:44:55 +0530",
+        "published_at_utc": "2026-06-27T08:14:55+00:00",
+        "id": "article-71153556",
         "topic_type": "war_and_conflict",
-        "relevance_score": 18,
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "For the first time, the complete court records from the Tokyo Trial have been published in Chinese, offering the public in China a detailed look at Japanese war crimes, according to state media. The translation, which spans 40 volumes, took a team of hundreds more than a decade to produce. It filled “a critical gap in domestic historical records”, state news agency Xinhua reported on Thursday. The International Military Tribunal for the Far East – also known as the Tokyo Trial – lasted from May...",
-          "news_focus_zh": "中國首次發布完整的東京戰犯審判記錄中文翻譯，這些記錄詳細記載了日本的戰爭罪行。根據國家媒體報導，這項翻譯工作耗時十年以上，涉及數百人的團隊，並填補了中國國內歷史記錄中的一個關鍵空白。這一消息由國家新聞機構新華社於週四報導。",
-          "background": "東京戰犯審判是二戰後對日本戰爭罪行進行審判的重要國際法庭，該審判於1946年至1948年間進行，涉及多名日本軍事及政治領導人。隨著時間推移，對於這段歷史的研究與討論在中國逐漸增多，尤其是在近年來中日關係的背景下，對於歷史問題的認識與解讀成為雙方互動的重要議題。此次翻譯的出版，標誌著中國在戰爭歷史研究方面的一個重要進展，並可能影響公眾對於這段歷史的認識。",
+          "news_focus": "“The most important thing is, first of all, that Israel remains in the security zone in southern Lebanon. This is a major achievement, and we will maintain it as long as Hezbollah has not disarmed,” says Mr. Netanyahu",
+          "news_focus_zh": "以色列總理內塔尼亞胡表示，以色列將繼續駐守於南黎巴嫩，直到真主黨解除武裝。他強調，保持在南黎巴嫩的安全區域是重要的成就，並將持續維持這一狀態，直至真主黨不再具備武裝能力。",
+          "background": "以色列與真主黨之間的緊張關係由來已久，真主黨在黎巴嫩南部的影響力使得以色列對該地區的安全形勢感到擔憂。過去幾年，雙方之間的衝突時有發生，尤其是在以色列與哈馬斯的衝突加劇後，南黎巴嫩的安全局勢也變得更加複雜。以色列政府長期以來主張，只有在真主黨解除武裝後，才能確保該地區的穩定與安全。",
           "stakeholders": [
-            "中國政府",
-            "日本政府",
-            "歷史學者",
-            "中國公眾",
+            "以色列政府",
+            "真主黨",
+            "黎巴嫩政府",
+            "聯合國",
             "國際社會"
           ],
-          "analysis": "此次東京戰犯審判記錄的中文翻譯發布，反映了中國在歷史敘事上的努力，旨在強化國內對於日本戰爭罪行的認識與記憶。這一行動可能會引發不同的反應，尤其是在中日兩國之間的歷史認知上。部分學者可能會支持這一舉措，認為它有助於促進對歷史的全面理解，而另一些人則可能擔心這會加劇兩國間的歷史爭議。此外，這也可能成為中國政府在國內強化民族主義與歷史教育的一部分，進一步影響國內外對於中日關係的看法。"
+          "analysis": "內塔尼亞胡的聲明反映出以色列對南黎巴嫩安全局勢的高度重視，並顯示出以色列政府在面對真主黨威脅時的強硬立場。這一政策可能會引發黎巴嫩政府及真主黨的強烈反對，因為他們可能視以色列的駐軍為對主權的侵犯。此外，這也可能使得以色列與國際社會的關係變得更加緊張，特別是在聯合國對於以色列在黎巴嫩的軍事行動持批評態度的背景下。未來，若真主黨未能解除武裝，以色列可能會持續加強其在該地區的軍事存在，進一步惡化雙方的對立局勢。"
         },
         "topic_priority_score": 11,
         "event_type": "security_event",
@@ -225,36 +183,103 @@
         "supporting_summaries": [],
         "supporting_links": [],
         "source_count": 1
+      },
+      {
+        "category": "politics",
+        "source_name": "SCMP World",
+        "title": "Can Andy Burnham fix Britain’s essential services and debt problem?",
+        "link": "https://www.scmp.com/opinion/world-opinion/article/3358339/can-andy-burnham-fix-britains-essential-services-and-debt-problem?utm_source=rss_feed",
+        "summary": "Nowadays, prime ministers and even presidents cower before the mighty bond markets. These have the ability – in democracies, at least – to have leaders ejected from office via the ballot box, as even US President Donald Trump appears to acknowledge. However, it is not enough to simply offer dismissive gestures towards the bond markets, as some political leaders have discovered to their cost. It is much more important to ask why it is that bond markets have become so powerful. It is refreshing in...",
+        "published": "Sat, 27 Jun 2026 08:30:04 +0000",
+        "updated": "Sat, 27 Jun 2026 08:30:04 +0000",
+        "published_at_utc": "2026-06-27T08:30:04+00:00",
+        "id": "https://www.scmp.com/opinion/world-opinion/article/3358339/can-andy-burnham-fix-britains-essential-services-and-debt-problem?utm_source=rss_feed",
+        "topic_type": "us_politics",
+        "relevance_score": 18,
+        "briefing": {
+          "news_focus": "Nowadays, prime ministers and even presidents cower before the mighty bond markets. These have the ability – in democracies, at least – to have leaders ejected from office via the ballot box, as even US President Donald Trump appears to acknowledge. However, it is not enough to simply offer dismissive gestures towards the bond markets, as some political leaders have discovered to their cost. It is much more important to ask why it is that bond markets have become so powerful. It is refreshing in...",
+          "news_focus_zh": "英國大曼徹斯特市市長安迪·伯納姆（Andy Burnham）面臨著解決英國基本服務和債務問題的挑戰。隨著債券市場在民主國家中對政治領導人的影響力日益增強，許多領導者發現，對債券市場的輕視可能會導致他們失去公職。這一情況促使人們重新思考債券市場為何會如此強大，以及政治領導者應如何應對這一挑戰。",
+          "background": "英國的公共服務系統長期以來面臨財政壓力，尤其是在新冠疫情後，政府的債務水平急劇上升。隨著通脹和利率上升，債券市場的反應變得更加敏感，這使得政治領導者必須更加謹慎地制定政策，以避免市場的負面反應。伯納姆作為地方領導者，面臨著如何在有限的預算內改善公共服務的雙重挑戰，同時又要考慮到債務問題的可持續性。",
+          "stakeholders": [
+            "安迪·伯納姆",
+            "英國政府",
+            "債券市場投資者",
+            "公共服務部門",
+            "選民"
+          ],
+          "analysis": "伯納姆的挑戰在於平衡公共服務的需求與財政責任。債券市場的強大影響力意味著，任何不當的財政策略都可能導致市場的不信任，進而影響政府的借貸成本和財政穩定。不同的政治派別對此問題的看法存在分歧，保守派可能會主張減少公共開支以控制債務，而工黨則可能會強調增加投資以改善服務質量。這種分歧可能會在未來的選舉中成為焦點，影響選民的選擇和政府的政策方向。"
+        },
+        "topic_priority_score": 8,
+        "event_type": "security_event",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "politics",
+        "source_name": "The Hindu International",
+        "title": "Thank you, says Trump as Telangana names Hyderabad road after him",
+        "link": "https://www.thehindu.com/news/international/thank-you-says-trump-as-telangana-names-hyderabad-road-after-him/article71152340.ece",
+        "summary": "Mr. Trump's remarks on Truth Social came after the Telangana government named a road adjoining the US Consulate in the southern Indian city as \"Donald Trump Avenue\".",
+        "published": "Sat, 27 Jun 2026 13:10:07 +0530",
+        "updated": "Sat, 27 Jun 2026 13:10:07 +0530",
+        "published_at_utc": "2026-06-27T07:40:07+00:00",
+        "id": "article-71152340",
+        "topic_type": "us_politics",
+        "relevance_score": 18,
+        "briefing": {
+          "news_focus": "Mr. Trump's remarks on Truth Social came after the Telangana government named a road adjoining the US Consulate in the southern Indian city as \"Donald Trump Avenue\".",
+          "news_focus_zh": "印度特倫甘納邦政府將位於海得拉巴的美國領事館附近的一條道路命名為「唐納德·特朗普大道」，此舉引起了特朗普的注意。他在社交媒體平台Truth Social上對此表示感謝，顯示出他對這一榮譽的重視。",
+          "background": "特倫甘納邦是印度南部的一個州，海得拉巴是其首府，擁有多元文化和經濟發展潛力。特朗普在任內曾強調美印關係，並與印度總理莫迪建立了良好的個人關係。這次命名行動可能反映了地方政府對於加強與美國的聯繫及吸引外資的意圖，尤其是在科技和商業領域。",
+          "stakeholders": [
+            "特倫甘納邦政府",
+            "唐納德·特朗普",
+            "美國企業",
+            "印度總理莫迪",
+            "海得拉巴市民"
+          ],
+          "analysis": "這一事件可能對特倫甘納邦的政治和經濟環境產生影響。地方政府的這一舉措不僅是對特朗普個人的致敬，也可能是希望藉此吸引更多美國企業的關注與投資。特朗普的回應則顯示出他對國際支持的重視，這在他未來的政治活動中可能成為一個重要的宣傳點。此外，這一命名行動可能會引發其他州或地區的效仿，進一步加強美印之間的地方合作。"
+        },
+        "topic_priority_score": 8,
+        "event_type": "political_signal",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       }
     ],
     "economy": [
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Great Britain’s grid operator warns again over power supplies in heatwave",
-        "link": "https://www.theguardian.com/business/2026/jun/26/great-britain-grid-operator-power-supplies-heatwave-neso-electricity",
-        "summary": "Neso asks generators to provide extra electricity on Friday evening to meet demand from fans and air conditioning Business live – latest updates Great Britain’s energy system operator has raised the alarm over electricity supplies for the second time this week as a heatwave continues to disrupt Europe’s energy markets. The National Energy System Operator (Neso) issued a notice late on Thursday asking generators to provide any extra electricity possible to Friday evening to help meet rising demand as households turn on air conditioners and electric fans to cope with the heat. Continue reading...",
-        "published": "Fri, 26 Jun 2026 10:24:28 GMT",
-        "updated": "2026-06-26T10:24:28Z",
-        "published_at_utc": "2026-06-26T10:24:28+00:00",
-        "id": "https://www.theguardian.com/business/2026/jun/26/great-britain-grid-operator-power-supplies-heatwave-neso-electricity",
+        "source_name": "BBC Business",
+        "title": "Oil price falls back to pre-Iran war levels",
+        "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+        "summary": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
+        "published": "Thu, 25 Jun 2026 15:32:04 GMT",
+        "updated": "Thu, 25 Jun 2026 15:32:04 GMT",
+        "published_at_utc": "2026-06-25T15:32:04+00:00",
+        "id": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o#1",
         "topic_type": "energy_markets",
-        "relevance_score": 21,
+        "relevance_score": 15,
         "briefing": {
-          "news_focus": "Neso asks generators to provide extra electricity on Friday evening to meet demand from fans and air conditioning Business live – latest updates Great Britain’s energy system operator has raised the alarm over electricity supplies for the second time this week as a heatwave continues to disrupt Europe’s energy markets. The National Energy System Operator (Neso) issued a notice late on Thursday asking generators to provide any extra electricity possible to Friday evening to help meet rising demand as households turn on air conditioners and electric fans to cope with the heat. Continue reading...",
-          "news_focus_zh": "英國的國家能源系統運營商（Neso）再次發出警告，指出在持續的熱浪中，電力供應面臨挑戰。該機構於週四晚間發出通知，要求發電商在週五晚上提供額外的電力，以應對因家庭開啟空調和電風扇而上升的需求。這是本週內第二次發出此類警告，顯示出熱浪對能源市場的影響。",
-          "background": "英國正面臨異常的高溫天氣，這對能源供應造成了壓力。隨著氣溫上升，家庭對電力的需求急劇增加，特別是空調和電風扇的使用量大幅上升。這一情況不僅影響英國，還對整個歐洲的能源市場造成了衝擊，因為多個國家也在應對類似的熱浪問題。Neso作為英國的電網運營商，負責確保電力供應的穩定性，面對這樣的需求挑戰，該機構需要及時調整策略以應對突發情況。",
+          "news_focus": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
+          "news_focus_zh": "近期，霍爾木茲海峽的交通逐漸恢復，這一情況促使油價回落至伊朗戰爭前的水平。這表明該重要航運路線的安全性有所改善，市場對油價的預期也因此發生變化。",
+          "background": "霍爾木茲海峽是全球重要的石油運輸通道，約20%的全球石油供應經此運輸。近期因地緣政治緊張局勢，油價曾出現上漲。然而，隨著局勢的緩解，市場對於供應鏈的信心逐漸回升，油價因此回落。這一變化不僅影響能源市場，也可能對全球經濟復甦產生影響，因為油價的波動直接關係到各國的經濟運行與通脹壓力。",
           "stakeholders": [
-            "國家能源系統運營商（Neso）",
-            "發電商",
-            "家庭用戶",
-            "政府",
-            "能源政策制定者"
+            "石油生產國",
+            "國際貿易公司",
+            "消費國政府",
+            "投資者",
+            "能源市場分析師"
           ],
-          "analysis": "Neso的警告反映出英國在極端氣候條件下的能源供應脆弱性。隨著氣候變化導致的極端天氣事件日益頻繁，能源供應商面臨的挑戰也在增加。這一情況可能促使政府和企業加速投資可再生能源和儲能技術，以提高未來的供應彈性。此外，這也可能引發對能源政策的重新評估，特別是在應對氣候變化和保障能源安全方面。各方利益相關者，包括政府、發電商和消費者，將需共同面對這一挑戰，並尋求長期解決方案。"
+          "analysis": "本次油價回落至伊朗戰爭前的水平，顯示出市場對於霍爾木茲海峽安全的信心回升，這是與先前因地緣政治緊張而導致的油價上漲形成鮮明對比的重大進展。隨著交通恢復，供應鏈的穩定性提高，可能會進一步促進全球經濟的復甦。然而，需注意的是，市場仍然對未來的地緣政治風險保持警惕，油價的波動性可能仍然存在。此外，其他能源供應來源的變化也可能影響油價走勢，未來幾個月內，市場將密切關注相關動態。"
         },
         "topic_priority_score": 8,
         "event_type": "energy_supply_move",
+        "is_major_update": true,
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -263,67 +288,67 @@
       },
       {
         "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "Indonesia set to issue US$1 billion in panda bonds in China",
-        "link": "https://www.scmp.com/economy/global-economy/article/3358485/indonesia-set-issue-us1-billion-panda-bonds-china?utm_source=rss_feed",
-        "summary": "Indonesia is expected to start issuing at least US$1 billion in yuan-denominated bonds in China within days or weeks, the Southeast Asian country’s national news agency Antara said on Friday, as part of an effort to stabilise domestic finances and reduce dependence on the US dollar. The Ministry of Finance in Jakarta said the planned issuance of panda bonds – debt securities sold in China’s domestic bond markets – could start before mid-July, pending final signoffs in Beijing, Antara...",
-        "published": "Fri, 26 Jun 2026 08:30:10 +0000",
-        "updated": "Fri, 26 Jun 2026 08:30:10 +0000",
-        "published_at_utc": "2026-06-26T08:30:10+00:00",
-        "id": "https://www.scmp.com/economy/global-economy/article/3358485/indonesia-set-issue-us1-billion-panda-bonds-china?utm_source=rss_feed",
-        "topic_type": "markets",
-        "relevance_score": 21,
+        "source_name": "Nikkei Asia",
+        "title": "Chinese firms brace for new EU rules as trade deficit tops $1bn a day",
+        "link": "https://asia.nikkei.com/economy/trade/chinese-firms-brace-for-new-eu-rules-as-trade-deficit-tops-1bn-a-day",
+        "summary": "",
+        "published": "",
+        "updated": "",
+        "published_at_utc": "",
+        "id": "https://asia.nikkei.com/economy/trade/chinese-firms-brace-for-new-eu-rules-as-trade-deficit-tops-1bn-a-day",
+        "topic_type": "trade_wars",
+        "relevance_score": 15,
         "briefing": {
-          "news_focus": "Indonesia is expected to start issuing at least US$1 billion in yuan-denominated bonds in China within days or weeks, the Southeast Asian country’s national news agency Antara said on Friday, as part of an effort to stabilise domestic finances and reduce dependence on the US dollar. The Ministry of Finance in Jakarta said the planned issuance of panda bonds – debt securities sold in China’s domestic bond markets – could start before mid-July, pending final signoffs in Beijing, Antara...",
-          "news_focus_zh": "印尼計劃在中國發行至少10億美元的人民幣計價債券，這一舉措旨在穩定國內財政並減少對美元的依賴。根據印尼國家新聞機構Antara的報導，這項發行可能在幾天或幾週內啟動，並預計在七月中之前完成最終簽署。",
-          "background": "印尼的經濟在近年來面臨多重挑戰，包括外部經濟環境的不穩定及對美元的過度依賴。為了應對這些挑戰，印尼政府尋求多元化其融資來源，並提升人民幣的使用率，以減少對美國貨幣的依賴。發行熊貓債券是印尼政府的一項策略，這類債券在中國內部市場發行，能夠吸引中國投資者，並促進雙邊貿易與金融合作。",
+          "news_focus": "Chinese firms brace for new EU rules as trade deficit tops $1bn a day",
+          "news_focus_zh": "中國企業正準備應對歐盟即將實施的新貿易規則，因為中國的貿易赤字已經達到每日超過10億美元的水平。這一情況顯示出中國在與歐盟的貿易關係中面臨的挑戰，尤其是在貿易政策變化的背景下。",
+          "background": "近年來，中國與歐盟之間的貿易關係日益緊張，尤其是在貿易赤字擴大的情況下。歐盟對中國的貿易政策和市場准入問題表達了擔憂，並計劃推出新的規範以保護本地產業。這些新規則可能會影響中國企業的出口策略，並進一步加劇雙方的貿易摩擦。根據報導，中國的貿易赤字不僅反映了與歐盟的經濟互動，也顯示出全球貿易格局的變化，尤其是在美國與中國之間的緊張關係影響下。",
           "stakeholders": [
-            "印尼政府",
-            "中國投資者",
-            "國際金融市場"
+            "中國企業",
+            "歐盟",
+            "全球貿易市場",
+            "美國",
+            "本地產業"
           ],
-          "analysis": "印尼發行熊貓債券的決策反映出其希望在全球經濟變化中尋求更大的自主權。這一舉措不僅能夠吸引中國資金，還能夠在一定程度上減少對美元的依賴，這在當前全球經濟不確定性加劇的背景下顯得尤為重要。根據參考報導，印尼的製造業發展也可能受到中國經濟政策的影響，這可能會影響印尼未來的經濟策略及其在區域內的競爭力。各方利益關係中，印尼政府希望透過這一發行增強財政穩定性，而中國投資者則可能尋求在印尼市場的投資機會。"
+          "analysis": "中國企業面臨的挑戰主要來自於歐盟即將實施的新規則，這可能會限制中國商品的進口，並對其市場准入造成影響。根據參考報導，儘管美國對中國的貿易攻擊持續，但其他國家仍然願意與中國進行貿易，這顯示出中國在全球市場中的韌性。然而，歐盟的政策變化可能會導致中國企業需要重新評估其在歐洲市場的策略，以應對可能的貿易壁壘。各方的利益關係在此情境下顯得尤為複雜，因為中國希望維持其出口增長，而歐盟則希望保護本地產業，這可能導致雙方在未來的貿易談判中出現更大的摩擦。"
         },
-        "topic_priority_score": 4,
-        "event_type": "market_repricing",
+        "topic_priority_score": 9,
+        "event_type": "macro_signal",
         "supporting_sources": [
           "The Economist"
         ],
         "supporting_titles": [
-          "The other China shock"
+          "Chinese trade is thriving despite America’s attacks"
         ],
         "supporting_summaries": [
-          "Does the country’s manufacturing success leave space for anyone else?"
+          "The rest of the world is willing to be “ripped off”"
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2026/05/21/the-other-china-shock"
+          "https://www.economist.com/finance-and-economics/2025/09/09/chinese-trade-is-thriving-despite-americas-attacks"
         ],
         "source_count": 2
       },
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "‘Kind of miracle solution’: How Paris is harnessing the Seine to replace air-con",
-        "link": "https://www.theguardian.com/environment/2026/jun/26/underground-revolution-seine-cooling-network-paris-buildings-heat",
-        "summary": "City plans to triple system of underground pipes that distribute chilled river water, reducing need for individual cooling units As heatwaves intensify across Europe, most cities are reaching for a familiar fix of more air conditioning. But in 1990s Paris, planning began for a different kind of solution: one of the world’s largest district cooling networks. The system has 120kms (75-miles) of underground pipes distributing chilled water to museums, offices, hospitals, schools and other public buildings including the Louvre, the Grand Palais, and some luxury hotels and office districts. Instead of thousands of individual air-conditioning units, cooling is produced centrally and shared across the city like a utility. Continue reading...",
-        "published": "Fri, 26 Jun 2026 04:00:08 GMT",
-        "updated": "2026-06-26T04:00:08Z",
-        "published_at_utc": "2026-06-26T04:00:08+00:00",
-        "id": "https://www.theguardian.com/environment/2026/jun/26/underground-revolution-seine-cooling-network-paris-buildings-heat",
+        "source_name": "SCMP Business",
+        "title": "Hang Seng Index closes out worst week in over a year in renewed tech sell-off",
+        "link": "https://www.scmp.com/business/china-business/article/3358428/hang-seng-index-heads-worst-week-over-year-renewed-sell-engulfs-tech-names?utm_source=rss_feed",
+        "summary": "Stocks in Hong Kong and on mainland China tumbled on Friday, as a fresh bout of sell-offs in technology companies dropped the city’s equity benchmark to its worst weekly performance in more than a year. The Hang Seng Index fell 1.8 per cent to 22,671.86 at the close, rounding out a 5.2 per cent loss this week – the biggest weekly drop since April 11, 2025. The Hang Seng Tech Index dropped 3.4 per cent. On the mainland, technology stocks led the decline, as the Star Market 50 index tracking...",
+        "published": "Fri, 26 Jun 2026 03:42:12 +0000",
+        "updated": "Fri, 26 Jun 2026 03:42:12 +0000",
+        "published_at_utc": "2026-06-26T03:42:12+00:00",
+        "id": "https://www.scmp.com/business/china-business/article/3358428/hang-seng-index-heads-worst-week-over-year-renewed-sell-engulfs-tech-names?utm_source=rss_feed",
         "topic_type": "markets",
-        "relevance_score": 19,
+        "relevance_score": 13,
         "briefing": {
-          "news_focus": "City plans to triple system of underground pipes that distribute chilled river water, reducing need for individual cooling units As heatwaves intensify across Europe, most cities are reaching for a familiar fix of more air conditioning. But in 1990s Paris, planning began for a different kind of solution: one of the world’s largest district cooling networks. The system has 120kms (75-miles) of underground pipes distributing chilled water to museums, offices, hospitals, schools and other public buildings including the Louvre, the Grand Palais, and some luxury hotels and office districts. Instead of thousands of individual air-conditioning units, cooling is produced centrally and shared across the city like a utility. Continue reading...",
-          "news_focus_zh": "巴黎市計劃擴大其地下冷卻系統，將河流冷卻水的分配管道增加三倍，以應對日益嚴重的熱浪。這一系統自1990年代開始規劃，已經擁有120公里的地下管道，為博物館、辦公室、醫院和學校等公共建築提供冷卻，取代了大量個別空調設備。這種集中式的冷卻方式被視為一種創新的解決方案。",
-          "background": "隨著氣候變化導致的熱浪在歐洲日益頻繁，許多城市選擇增設空調以應對高溫。然而，巴黎的做法卻不同，早在1990年代便開始建設一個大型的區域冷卻網絡。該系統利用塞納河的冷卻水，通過地下管道將冷卻水分配至城市各處，這不僅減少了對個別空調的需求，也降低了能源消耗和碳排放。巴黎的這一創新模式被視為應對氣候變遷的一種可持續解決方案，並且在全球範圍內引起了關注。",
+          "news_focus": "Stocks in Hong Kong and on mainland China tumbled on Friday, as a fresh bout of sell-offs in technology companies dropped the city’s equity benchmark to its worst weekly performance in more than a year. The Hang Seng Index fell 1.8 per cent to 22,671.86 at the close, rounding out a 5.2 per cent loss this week – the biggest weekly drop since April 11, 2025. The Hang Seng Tech Index dropped 3.4 per cent. On the mainland, technology stocks led the decline, as the Star Market 50 index tracking...",
+          "news_focus_zh": "香港及中國內地股市在周五出現大幅下跌，科技股的再次拋售使得恒生指數錄得一年多以來最糟糕的一周表現。恒生指數收盤下跌1.8%，至22,671.86點，整週損失達5.2%，為自2025年4月11日以來最大的周跌幅。恒生科技指數則下跌3.4%。",
+          "background": "近期，香港及中國內地的科技股受到多重因素影響，包括市場對經濟增長放緩的擔憂及監管政策的不確定性。隨著全球經濟環境的變化，投資者對科技股的信心受到打擊，導致持續的拋售潮。特別是在中國，科技行業的監管政策變化使得市場情緒更加謹慎，進一步加劇了股市的波動。",
           "stakeholders": [
-            "巴黎市政府",
-            "當地居民",
-            "公共建築管理單位",
-            "環保組織",
-            "能源供應商"
+            "投資者",
+            "科技公司",
+            "監管機構"
           ],
-          "analysis": "巴黎的區域冷卻系統展示了城市在應對氣候變遷方面的前瞻性思維，這一系統的擴展將進一步減少城市的能源需求和碳排放，並可能成為其他城市的借鑒。然而，這種集中式冷卻系統的成功實施仍需克服一些挑戰，包括基礎設施的投資、維護和技術創新。此外，隨著熱浪的加劇，其他城市可能會面臨類似的壓力，迫使他們重新考慮傳統的空調解決方案。參考報導未提供與此事件直接相關的細節，因此未能補充其他觀點。"
+          "analysis": "此次科技股的拋售反映了市場對未來經濟增長的擔憂，尤其是在中國經濟面臨挑戰的背景下。投資者可能會重新評估科技公司的估值，特別是在面對政策風險和市場需求不確定的情況下。根據參考報導，2025年對於投資者而言是充滿波動的一年，這可能暗示未來幾個月內市場仍將面臨不穩定性。各方利益關係中，投資者希望尋找更穩定的回報，而科技公司則需應對市場信心的重建與政策環境的變化。這種動態可能導致市場進一步調整，影響整體經濟表現。"
         },
         "topic_priority_score": 4,
         "event_type": "market_repricing",
@@ -331,13 +356,13 @@
           "The Economist"
         ],
         "supporting_titles": [
-          "How to spot a genius"
+          "The five biggest market developments of 2025"
         ],
         "supporting_summaries": [
-          "In an age of artificial intelligence, the human kind is increasingly important"
+          "Looking back on a rollercoaster year for investors"
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2025/09/23/how-to-spot-a-genius"
+          "https://www.economist.com/finance-and-economics/2025/12/21/the-five-biggest-market-developments-of-2025"
         ],
         "source_count": 2
       }
@@ -346,218 +371,218 @@
   "further_reading": {
     "technology": [
       {
-        "title": "China’s Trip.com faces revenue slowdown, warns of ‘significant fine’ from antitrust probe",
-        "link": "https://www.scmp.com/tech/article/3358354/chinas-tripcom-faces-revenue-slowdown-warns-significant-fine-antitrust-probe?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-25T11:30:05+00:00",
+        "title": "The Pentagon Is Looking Into the Dialog Data Exposure for Unmasking National Security Officials",
+        "link": "https://www.wired.com/story/the-pentagon-is-looking-into-the-dialog-data-exposure-for-unmasking-national-security-officials/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-26T16:30:33+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "OpenAI staggers AI model release after Trump administration request",
+        "link": "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-26T14:06:11+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Teens who hacked TfL were known to police years before cyber-attack",
+        "link": "https://www.bbc.co.uk/news/articles/cx2kx8jr244o?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Technology",
+        "published_at_utc": "2026-06-25T23:19:48+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "How People in China Keep Outsmarting Anthropic’s Geolocation Restrictions",
+        "link": "https://www.wired.com/story/how-people-in-china-keep-outsmarting-anthropics-geolocation-restrictions/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-26T21:02:54+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+        "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-06-26T18:19:36+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
+        "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-26T17:05:40+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+        "link": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+        "source_name": "MIT Technology Review",
+        "published_at_utc": "2026-06-26T12:10:00+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Social media bans go global: big tech faces a reckoning after Australia’s crackdown",
+        "link": "https://www.theguardian.com/news/ng-interactive/2026/jun/27/social-media-bans-go-global-big-tech-reckoning-australia-crackdown",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-27T05:00:31+00:00",
         "relevance_score": 16
       },
       {
-        "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe",
-        "link": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-06-26T00:49:13+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
-        "link": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-06-25T23:13:45+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "OpenAI will delay GPT-5.6 after Trump administration request",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+        "title": "Anthropic’s Mythos 5 is back",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
         "source_name": "The Verge",
-        "published_at_utc": "2026-06-25T21:57:06+00:00",
+        "published_at_utc": "2026-06-27T00:33:44+00:00",
         "relevance_score": 15
       },
       {
-        "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
-        "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
-        "source_name": "Ars Technica",
-        "published_at_utc": "2026-06-25T18:01:48+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Whistleblower Sarah Wynn-Williams sues Meta over attempts to ‘silence’ her",
-        "link": "https://www.theguardian.com/technology/2026/jun/25/whistleblower-sarah-wynn-williams-sues-meta-attempts-to-silence-her-careless-people",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-25T17:25:32+00:00",
+        "title": "Screen time can damage under-twos’ development, landmark study suggests",
+        "link": "https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-27T07:00:34+00:00",
         "relevance_score": 14
-      },
-      {
-        "title": "Rewriting the Intelligence Map",
-        "link": "https://www.scmp.com/presented/business/topics/c-suite-content-hub/article/3357881/rewriting-intelligence-map?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-25T21:30:06+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-        "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-25T17:38:27+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Hacked Klue says criminals are deleting stolen customer data, but now other hackers are making threats",
-        "link": "https://techcrunch.com/2026/06/25/hacked-klue-says-criminals-are-deleting-stolen-customer-data-but-now-other-hackers-are-making-threats/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-25T16:40:15+00:00",
-        "relevance_score": 13
-      },
-      {
-        "title": "Repositioning retail for the AI era",
-        "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-        "source_name": "MIT Technology Review",
-        "published_at_utc": "2026-06-25T14:22:59+00:00",
-        "relevance_score": 13
       }
     ],
     "politics": [
       {
-        "title": "Russia reports one of biggest Ukrainian drone attacks, including on Crimea",
-        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3358513/russia-reports-one-biggest-ukrainian-drone-attacks-including-crimea?utm_source=rss_feed",
+        "title": "West Asia war LIVE: Explosive drone targets Iranian Kurdish opposition camp north of Iraq's Erbil, security sources say",
+        "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-washington-tehran-ceasefire-strait-of-hormuz-israel-lebanon-peace-deal-live-updates-june-27-2026/article71153161.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-27T08:51:43+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "Trump unveils new U.S. passport featuring his image",
+        "link": "https://www.thehindu.com/news/international/trump-unveils-new-us-passport-featuring-his-image/article71153325.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-27T07:19:36+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "China removes 6 generals from legislature as military anti-corruption drive continues",
+        "link": "https://www.scmp.com/news/china/politics/article/3358586/china-removes-6-generals-legislature-military-anti-corruption-drive-continues?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-06-26T09:41:15+00:00",
+        "published_at_utc": "2026-06-27T05:47:41+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Ukraine hits Russian chemical plant again, reports say, in heavy overnight drone attack",
-        "link": "https://www.thehindu.com/news/international/ukraine-hits-russian-chemical-plant-again-reports-say-in-heavy-overnight-drone-attack/article71149896.ece",
+        "title": "Venice protest planned for US ambassador’s superyacht visit",
+        "link": "https://www.theguardian.com/world/2026/jun/27/venice-protest-planned-us-ambassador-superyacht-tour-tilman-fertitta",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-27T05:00:34+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "How Trump’s posts on Iran zigzagged during the war",
+        "link": "https://www.thehindu.com/news/international/how-trumps-posts-on-iran-zigzagged-during-the-war/article71150861.ece",
         "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-26T08:53:38+00:00",
+        "published_at_utc": "2026-06-27T04:12:25+00:00",
         "relevance_score": 18
       },
       {
-        "title": "U.S. Supreme Court’s ruling to end protections for Haitian, Syrian immigrants could have broader impact",
-        "link": "https://www.thehindu.com/news/international/us-supreme-courts-ruling-to-end-protections-for-haitian-syrian-immigrants-could-have-broader-impact/article71149683.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-26T08:49:51+00:00",
+        "title": "As China’s tech firms adapt to AI era, workers worry they’ll be ‘optimised’ out of a job",
+        "link": "https://www.scmp.com/tech/tech-trends/article/3358519/chinas-tech-firms-adapt-ai-era-workers-worry-theyll-be-optimised-out-job?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-27T03:00:09+00:00",
         "relevance_score": 18
       },
       {
-        "title": "US ends deportation protections (TPS) for Haitians and Syrians",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/26/us-ends-deportation-protections-tps-for-haitians-and-syrians?traffic_source=rss",
+        "title": "Trump justifies strikes on Iran amid ceasefire",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-26T05:25:44+00:00",
+        "published_at_utc": "2026-06-27T00:16:58+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Trump allies defend him to Israelis anxious over Iran deal",
-        "link": "https://www.thehindu.com/news/international/trump-allies-defend-him-to-israelis-anxious-over-iran-deal/article71136395.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-26T03:45:29+00:00",
+        "title": "Iran war live: IRGC ‘targets’ US military sites in region after attacks",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-06-27T00:00:04+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Socceroos fans celebrate at city sites – as it happened",
-        "link": "https://www.theguardian.com/australia-news/live/2026/jun/26/australia-news-live-pat-conroy-defence-labor-karl-stefanovic-nine-moira-deeming-matthew-guy-liberals-victoria-coalition-tax-reform-ntwnfb",
+        "title": "US says it struck Iran targets after attack on cargo ship in the strait of Hormuz",
+        "link": "https://www.theguardian.com/world/2026/jun/26/us-says-it-struck-iran-targets-after-attack-on-cargo-ship-on-the-strait-of-hormuz",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-26T07:18:12+00:00",
-        "relevance_score": 16
+        "published_at_utc": "2026-06-26T22:21:03+00:00",
+        "relevance_score": 18
       },
       {
-        "title": "Breakthrough in US-Iran talks; Japan visa fee hike to affect Chinese: SCMP’s 7 highlights",
-        "link": "https://www.scmp.com/news/china/article/3358412/breakthrough-us-iran-talks-japan-visa-fee-hike-affect-chinese-scmps-7-highlights?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-26T04:12:04+00:00",
-        "relevance_score": 16
-      },
-      {
-        "title": "Trump forced to drain the reflecting pool swamp – podcast",
-        "link": "https://www.theguardian.com/politics/audio/2026/jun/26/trump-lincoln-memorial-reflective-pool-vandalism-podcast",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-26T04:00:10+00:00",
-        "relevance_score": 16
-      },
-      {
-        "title": "Venezuela quake response requires ‘massive collective effort’: UN aid chief",
-        "link": "https://www.thehindu.com/news/international/venezuela-quake-response-requires-massive-collective-effort-un-aid-chief/article71146712.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-26T03:29:19+00:00",
-        "relevance_score": 16
-      },
-      {
-        "title": "Venezuela earthquake: Venezuelans in U.S. rush to send aid to earthquake victims, but Caracas airport is closed",
-        "link": "https://www.thehindu.com/news/international/venezuela-earthquake-venezuelans-in-us-rush-to-send-aid-to-earthquake-victims-but-caracas-airport-is-closed/article71148095.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-26T03:27:17+00:00",
-        "relevance_score": 16
+        "title": "Ukraine launches what appears to be one of its largest drone attacks against Russia: report",
+        "link": "https://www.foxnews.com/world/ukraine-launches-largest-drone-attacks-russia-report",
+        "source_name": "Fox News World",
+        "published_at_utc": "2026-06-26T18:24:47+00:00",
+        "relevance_score": 18
       }
     ],
     "economy": [
-      {
-        "title": "UK food and drink exports fall as US tariffs and Brexit trade friction bites – business live",
-        "link": "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-26T08:18:53+00:00",
-        "relevance_score": 23
-      },
-      {
-        "title": "Hang Seng Index closes out worst week in over a year in renewed tech sell-off",
-        "link": "https://www.scmp.com/business/china-business/article/3358428/hang-seng-index-heads-worst-week-over-year-renewed-sell-engulfs-tech-names?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-26T03:42:12+00:00",
-        "relevance_score": 19
-      },
       {
         "title": "IPO Connect pitched as Hong Kong’s next move to boost finance hub role. But hurdles loom",
         "link": "https://www.scmp.com/business/banking-finance/article/3358365/ipo-connect-pitched-hong-kongs-next-move-boost-finance-hub-role-hurdles-loom?utm_source=rss_feed",
         "source_name": "SCMP Business",
         "published_at_utc": "2026-06-25T23:00:05+00:00",
-        "relevance_score": 19
+        "relevance_score": 13
       },
       {
-        "title": "Oil price falls back to pre-Iran war levels",
-        "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+        "title": "India's small and mid-cap stocks draw growth-hunting investors",
+        "link": "https://asia.nikkei.com/business/markets/equities/india-s-small-and-mid-cap-stocks-draw-growth-hunting-investors",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
+        "relevance_score": 13
+      },
+      {
+        "title": "‘Basically you’re trapped’: UK postgraduates burdened with double loan debt",
+        "link": "https://www.theguardian.com/money/2026/jun/27/basically-youre-trapped-uk-postgraduates-burdened-with-double-loan-debt",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-27T06:00:33+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "Parents booking air-conditioned hotels to keep babies safe in UK heatwave",
+        "link": "https://www.theguardian.com/environment/2026/jun/27/parents-air-conditioned-hotels-keep-babies-safe-heatwave",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-27T06:00:32+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "Trump threatens 100% tariff on European nations over tech tax",
+        "link": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC Business",
-        "published_at_utc": "2026-06-25T15:32:04+00:00",
-        "relevance_score": 19
+        "published_at_utc": "2026-06-27T01:37:18+00:00",
+        "relevance_score": 12
       },
       {
-        "title": "Fossil fuel price surges can lead to worse air quality, study finds",
-        "link": "https://www.theguardian.com/environment/2026/jun/26/fossil-fuel-price-surges-worse-air-quality-study-pollutionwatch",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-26T05:00:09+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Do new Isa rules mean I have to pay tax?",
-        "link": "https://www.theguardian.com/money/2026/jun/26/new-isa-rules-pay-tax-stocks-and-shares",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-26T06:00:10+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Oil prices ease after spiking over halt to Strait of Hormuz evacuation plan",
-        "link": "https://www.aljazeera.com/economy/2026/6/26/oil-prices-climb-after-attack-in-strait-of-hormuz-halts-evacuation-plan?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-26T02:35:10+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Chinese firms brace for new EU rules as trade deficit tops $1bn a day",
-        "link": "https://asia.nikkei.com/economy/trade/chinese-firms-brace-for-new-eu-rules-as-trade-deficit-tops-1bn-a-day",
+        "title": "Shareholders in Japan push back against poor earnings, weak governance",
+        "link": "https://asia.nikkei.com/business/markets/equities/shareholders-in-japan-push-back-against-poor-earnings-weak-governance",
         "source_name": "Nikkei Asia",
         "published_at_utc": "",
-        "relevance_score": 15
+        "relevance_score": 12
       },
       {
-        "title": "Chinese door-to-door logistics networks grow in US to counter trade war",
-        "link": "https://asia.nikkei.com/economy/trade-war/chinese-door-to-door-logistics-networks-grow-in-us-to-counter-trade-war",
-        "source_name": "Nikkei Asia",
-        "published_at_utc": "",
-        "relevance_score": 15
+        "title": "Why American bondholders are jumpy about inflation",
+        "link": "https://www.economist.com/finance-and-economics/2025/09/10/why-american-bondholders-are-jumpy-about-inflation",
+        "source_name": "The Economist",
+        "published_at_utc": "2025-09-10T19:05:23+00:00",
+        "relevance_score": 11
       },
       {
-        "title": "EV influx, US rare earth miners blacklisted, China-EU trade talks",
-        "link": "https://www.scmp.com/plus/business/china-business/article/3358477/ev-influx-us-rare-earth-miners-blacklisted-china-eu-trade-talks?utm_source=rss_feed",
+        "title": "CU in China: Why South Korean retail giant is adopting ‘online first’ strategy",
+        "link": "https://www.scmp.com/business/companies/article/3358510/cu-china-why-south-korean-retail-giant-adopting-online-first-strategy?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-26T09:00:32+00:00",
-        "relevance_score": 14
+        "published_at_utc": "2026-06-27T02:00:06+00:00",
+        "relevance_score": 10
+      },
+      {
+        "title": "‘Fork in the road’: CEO of Amazon-backed Rivian on why carmakers need to invest in EVs",
+        "link": "https://www.theguardian.com/business/2026/jun/26/ceo-amazon-backed-rivian-carmakers-evs",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-26T14:00:14+00:00",
+        "relevance_score": 10
+      },
+      {
+        "title": "Revolut pushes new recruits into office in shift from ‘remote-first’ policy",
+        "link": "https://www.theguardian.com/business/2026/jun/26/revolut-recruits-work-in-office-remote-first-policy-graduates-interns",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-26T11:41:10+00:00",
+        "relevance_score": 10
       }
     ]
   },

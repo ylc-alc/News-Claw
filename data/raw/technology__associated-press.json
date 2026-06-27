@@ -3,13 +3,13 @@
     "category": "technology",
     "source_name": "Associated Press",
     "feed_url": "https://news.google.com/rss/search?q=when:24h+allinurl:apnews.com+technology&ceid=US:en&hl=en-US&gl=US",
-    "feed_title": "",
-    "feed_link": "",
-    "fetched_at_utc": "2026-06-26T10:43:04.860180+00:00",
+    "feed_title": "\"when:24h allinurl:apnews.com technology\" - Google News",
+    "feed_link": "https://news.google.com/search?q=when:24h+allinurl:apnews.com+technology&ceid=US:en&hl=en-US&gl=US",
+    "fetched_at_utc": "2026-06-27T09:55:26.463335+00:00",
     "entry_count": 0,
-    "bozo": 1,
+    "bozo": false,
     "failed": true,
-    "failure_reason": "<unknown>:2:252: not well-formed (invalid token)"
+    "failure_reason": "feed returned zero entries"
   },
   "items": []
 }
