@@ -1,26 +1,6 @@
 {
   "entries": [
     {
-      "date": "2026-05-28",
-      "topics": {
-        "technology": [
-          "ai",
-          "cybersecurity",
-          "quantum_computing"
-        ],
-        "politics": [
-          "us_politics",
-          "us_politics",
-          "us_politics"
-        ],
-        "economy": [
-          "energy_markets",
-          "interest_rates",
-          "inflation"
-        ]
-      }
-    },
-    {
       "date": "2026-05-29",
       "topics": {
         "technology": [
@@ -619,41 +599,60 @@
           "markets"
         ]
       }
+    },
+    {
+      "date": "2026-06-28",
+      "topics": {
+        "technology": [
+          "chips",
+          "chips",
+          "social_media"
+        ],
+        "politics": [
+          "us_politics",
+          "us_politics",
+          "us_politics"
+        ],
+        "economy": [
+          "interest_rates",
+          "markets",
+          "supply_chain"
+        ]
+      }
     }
   ],
   "rolling_frequency": {
     "technology": {
-      "ai": 41,
-      "cybersecurity": 12,
-      "quantum_computing": 1,
-      "chips": 21,
+      "chips": 23,
+      "ai": 40,
       "space_tech": 7,
-      "social_media": 8,
+      "social_media": 9,
+      "cybersecurity": 11,
       "platform_regulation": 1,
       "general": 1,
       "green_tech": 1
     },
     "politics": {
-      "us_politics": 34,
       "war_and_conflict": 11,
       "diplomacy": 35,
+      "us_politics": 34,
       "eu_policy": 4,
       "social_protests": 4,
       "uk_politics": 4,
       "democracy_autocracy": 1
     },
     "economy": {
-      "energy_markets": 11,
       "interest_rates": 13,
-      "inflation": 16,
+      "inflation": 15,
       "corporate_earnings": 1,
-      "markets": 27,
+      "markets": 28,
       "trade_wars": 10,
       "sanctions": 9,
-      "supply_chain": 5,
+      "energy_markets": 10,
+      "supply_chain": 6,
       "general": 1
     }
   },
   "window_days": 30,
-  "last_updated": "2026-06-27"
+  "last_updated": "2026-06-28"
 }
