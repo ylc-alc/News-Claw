@@ -1,96 +1,55 @@
 {
-  "generated_at_utc": "2026-06-29T12:22:32.405833+00:00",
+  "generated_at_utc": "2026-06-30T10:48:03.295498+00:00",
   "summary": {
-    "total_raw_items": 1063,
-    "total_deduped_items": 1048,
+    "total_raw_items": 1074,
+    "total_deduped_items": 1052,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
-        "chips",
-        "cybersecurity",
-        "cybersecurity"
+        "ai",
+        "ai",
+        "space_tech"
       ],
       "politics": [
         "us_politics",
-        "war_and_conflict",
-        "war_and_conflict"
+        "us_politics",
+        "diplomacy"
       ],
       "economy": [
-        "markets",
-        "markets",
-        "labour_markets"
+        "inflation",
+        "trade_wars",
+        "trade_wars"
       ]
     },
-    "multi_source_selected_count": 6
+    "multi_source_selected_count": 3
   },
   "sections": {
     "technology": [
       {
         "category": "technology",
-        "source_name": "SCMP World",
-        "title": "China warns popular phone games may provide map data to train foreign military AI models",
-        "link": "https://www.scmp.com/news/china/politics/article/3358749/china-warns-popular-phone-games-may-provide-map-data-train-foreign-military-ai-models?utm_source=rss_feed",
-        "summary": "China’s top anti-espionage agency on Monday warned gamers that a company with overseas defence ties may be obtaining geospatial data via an augmented reality game. The warning quoted media reports about “the militarisation of civilian data” that said billions of environmental scans from a popular mobile phone game were being used to train AI models with potential battlefield applications. In a social media post, Beijing’s Ministry of State Security (MSS) cited reports that said an AI company...",
-        "published": "Mon, 29 Jun 2026 11:00:09 +0000",
-        "updated": "Mon, 29 Jun 2026 11:00:09 +0000",
-        "published_at_utc": "2026-06-29T11:00:09+00:00",
-        "id": "https://www.scmp.com/news/china/politics/article/3358749/china-warns-popular-phone-games-may-provide-map-data-train-foreign-military-ai-models?utm_source=rss_feed",
-        "topic_type": "chips",
-        "relevance_score": 23,
+        "source_name": "MIT Technology Review",
+        "title": "Building tech in the world’s secret R&D hub",
+        "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+        "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world’s most influential technology companies…",
+        "published": "Tue, 30 Jun 2026 10:23:30 +0000",
+        "updated": "Tue, 30 Jun 2026 10:23:30 +0000",
+        "published_at_utc": "2026-06-30T10:23:30+00:00",
+        "id": "https://www.technologyreview.com/?p=1139661",
+        "topic_type": "ai",
+        "relevance_score": 17,
         "briefing": {
-          "news_focus": "China’s top anti-espionage agency on Monday warned gamers that a company with overseas defence ties may be obtaining geospatial data via an augmented reality game. The warning quoted media reports about “the militarisation of civilian data” that said billions of environmental scans from a popular mobile phone game were being used to train AI models with potential battlefield applications. In a social media post, Beijing’s Ministry of State Security (MSS) cited reports that said an AI company...",
-          "news_focus_zh": "中國最高反間諜機構近日警告玩家，某家與海外國防有關的公司可能透過一款增強現實遊戲獲取地理空間數據。該警告引用了媒體報導，指出這種「民用數據的軍事化」現象，可能會使數十億的環境掃描數據被用於訓練具有潛在戰場應用的人工智慧模型。中國國家安全部在社交媒體上發表聲明，提及相關報導。",
-          "background": "中國政府對於數據安全和國家安全的重視日益增加，尤其是在科技迅速發展的背景下。增強現實遊戲的普及使得玩家在遊戲過程中生成大量的地理數據，這些數據如果被不當利用，可能會對國家安全構成威脅。中國的反間諜機構對於外國勢力利用民用數據進行軍事應用的擔憂，反映了當前全球科技競爭的緊張局勢，特別是在人工智慧領域的應用與發展。",
+          "news_focus": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world’s most influential technology companies…",
+          "news_focus_zh": "在全球科技產業中，少數城市能夠吸引多家頂尖公司的研發中心，其中一個例子是位於人口僅超過40萬的城市，這裡聚集了Apple、Google、Meta等科技巨頭的研發機構。這一現象在過去二十年中逐漸形成，顯示出該地區在全球科技創新中的重要性。",
+          "background": "隨著科技產業的快速發展，許多公司開始尋找新的研發基地，以便於吸引人才和資源。傳統上，矽谷是科技創新的核心，但隨著成本上升和市場需求變化，其他城市逐漸崛起成為新的研發中心。這些城市不僅提供相對較低的生活成本，還擁有良好的教育資源和創新氛圍，吸引了包括Apple、Google等在內的多家知名企業設立研發機構。",
           "stakeholders": [
-            "中國國家安全部",
-            "遊戲開發商",
-            "外國國防企業",
-            "玩家",
-            "人工智慧公司"
+            "Apple",
+            "Google",
+            "Meta",
+            "Microsoft",
+            "NVIDIA"
           ],
-          "analysis": "中國的警告顯示出對外國企業利用民用數據的高度警覺，尤其是在國防和軍事應用方面。這一立場可能會引發對於科技公司數據使用的更嚴格監管，並促使遊戲開發商加強數據保護措施。參考報導中提到的Votee AI CEO Pak-Sun Ting，雖然未直接涉及本事件，但其對於AI架構和語言模型的討論，突顯了在全球AI發展中，數據的獲取與使用仍存在盲點，這可能與中國的擔憂相呼應。未來，隨著國際間對於數據安全的關注加劇，各國可能會加強對科技產品的監管，特別是涉及到軍事應用的數據。"
-        },
-        "topic_priority_score": 10,
-        "event_type": "strategic_move",
-        "supporting_sources": [
-          "SCMP Business"
-        ],
-        "supporting_titles": [
-          "Rewriting the Intelligence Map"
-        ],
-        "supporting_summaries": [
-          "Pak-Sun Ting, Co-founder and CEO of Votee AI, outlines how sovereign AI architecture and native language models are reshaping enterprise governance while bringing billions of underserved language speakers into the generative AI era. The AI revolution has a blind spot. While large language models (LLMs) dominate headlines and enterprise adoption accelerates, most of the world’s languages remain functionally invisible to modern AI systems. According to Pak-Sun Ting, Co-founder and CEO of Votee AI,..."
-        ],
-        "supporting_links": [
-          "https://www.scmp.com/presented/business/topics/c-suite-content-hub/article/3357881/rewriting-intelligence-map?utm_source=rss_feed"
-        ],
-        "source_count": 2
-      },
-      {
-        "category": "technology",
-        "source_name": "Wired",
-        "title": "Top Google Security Staff Warn Search Data Could Be Hacked if EU Rules Change",
-        "link": "https://www.wired.com/story/top-google-security-staff-warn-search-data-could-be-hacked-thanks-to-eu-plans/",
-        "summary": "Europe’s pro-competition proposals could see Google Search and Android systems opened up. The company claims there are serious privacy flaws.",
-        "published": "Mon, 29 Jun 2026 10:00:00 +0000",
-        "updated": "Mon, 29 Jun 2026 10:00:00 +0000",
-        "published_at_utc": "2026-06-29T10:00:00+00:00",
-        "id": "6a3e7a65979872ef6f4add9e",
-        "topic_type": "cybersecurity",
-        "relevance_score": 23,
-        "briefing": {
-          "news_focus": "Europe’s pro-competition proposals could see Google Search and Android systems opened up. The company claims there are serious privacy flaws.",
-          "news_focus_zh": "谷歌的安全專家警告，若歐洲的競爭政策提案得以實施，可能會導致其搜索數據面臨被駭的風險。這些提案可能會使谷歌的搜索和安卓系統開放，進而引發嚴重的隱私漏洞問題。",
-          "background": "歐洲聯盟近期提出的競爭政策旨在促進市場公平，特別是針對大型科技公司的壟斷行為。這些提案可能要求谷歌開放其搜索引擎和安卓系統，讓其他公司能夠更容易地進入市場。然而，這樣的變化也引發了對用戶數據安全和隱私的擔憂。谷歌作為市場領導者，對於這些政策的潛在影響表示擔憂，認為開放系統可能會使其用戶數據更容易受到攻擊。",
-          "stakeholders": [
-            "谷歌",
-            "歐洲聯盟",
-            "用戶",
-            "競爭對手",
-            "數據安全專家"
-          ],
-          "analysis": "谷歌的警告反映了科技公司對於新政策的強烈反應，特別是在數據安全和隱私方面。若歐盟的提案得以實施，可能會使得市場競爭加劇，但同時也可能帶來數據安全的隱患。谷歌的立場強調了在推動市場開放的同時，必須考慮到用戶的隱私與安全。其他科技公司可能會支持這些開放政策，但也需面對相似的安全挑戰。未來，歐盟在推動競爭政策時，可能需要在促進市場競爭與保護用戶數據之間找到平衡。"
+          "analysis": "這一現象反映出科技公司在全球範圍內尋求多元化的研發環境，以降低風險並提升創新能力。對於這些公司而言，選擇在新興城市設立研發中心不僅能夠吸引當地人才，還能夠利用當地的資源和政策支持。然而，這也可能引發當地社會對於科技公司影響的擔憂，包括生活成本上升和資源競爭等問題。未來，這些城市的發展將取決於如何平衡科技創新與社會責任之間的關係。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
@@ -102,31 +61,63 @@
       },
       {
         "category": "technology",
-        "source_name": "SCMP World",
-        "title": "‘Queuing gangs’ exploited Hong Kong driving licence ticketing system: ombudsman",
-        "link": "https://www.scmp.com/news/hong-kong/transport/article/3358781/queuing-gangs-exploited-hong-kong-driving-licence-ticketing-system-ombudsman?utm_source=rss_feed",
-        "summary": "The Hong Kong government watchdog has slammed the Transport Department over systemic deficiencies that allowed “queuing gangs” to abuse public resources, along with digital shortcomings that left overseas and mainland Chinese applicants with a negative impression. An investigation by the Office of the Ombudsman, released on Monday, revealed that a group of seven agents exploited the ticketing system to submit 135 applications for the direct issue of Hong Kong full driving licences in a single...",
-        "published": "Mon, 29 Jun 2026 11:30:28 +0000",
-        "updated": "Mon, 29 Jun 2026 11:30:28 +0000",
-        "published_at_utc": "2026-06-29T11:30:28+00:00",
-        "id": "https://www.scmp.com/news/hong-kong/transport/article/3358781/queuing-gangs-exploited-hong-kong-driving-licence-ticketing-system-ombudsman?utm_source=rss_feed",
-        "topic_type": "cybersecurity",
-        "relevance_score": 21,
+        "source_name": "TechCrunch",
+        "title": "Gemini’s personalized AI image generation is now free for US users",
+        "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+        "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+        "published": "Mon, 29 Jun 2026 20:12:59 +0000",
+        "updated": "Mon, 29 Jun 2026 20:12:59 +0000",
+        "published_at_utc": "2026-06-29T20:12:59+00:00",
+        "id": "https://techcrunch.com/?p=3137386",
+        "topic_type": "ai",
+        "relevance_score": 17,
         "briefing": {
-          "news_focus": "The Hong Kong government watchdog has slammed the Transport Department over systemic deficiencies that allowed “queuing gangs” to abuse public resources, along with digital shortcomings that left overseas and mainland Chinese applicants with a negative impression. An investigation by the Office of the Ombudsman, released on Monday, revealed that a group of seven agents exploited the ticketing system to submit 135 applications for the direct issue of Hong Kong full driving licences in a single...",
-          "news_focus_zh": "香港監察機構對運輸署提出批評，指責其系統性缺陷使得所謂的「排隊幫」得以濫用公共資源。根據監察專員辦公室的調查，這些代理商利用票務系統，單日提交了135份香港全駕駛執照的直接申請，並對海外及中國內地申請者造成負面印象。",
-          "background": "香港的駕駛執照申請系統一直以來受到關注，特別是在數位化轉型的過程中。運輸署負責管理駕駛執照的發放，但其系統的漏洞使得某些代理商能夠利用這些缺陷，進行不當操作。這不僅影響了合法申請者的權益，也損害了香港的國際形象，特別是在吸引外國及內地申請者方面。監察專員的調查顯示，這一問題的存在已久，且未能得到有效解決，反映出政府在公共資源管理上的不足。",
+          "news_focus": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+          "news_focus_zh": "Google 宣布將 Gemini 的個性化 AI 圖像生成服務擴展至美國的合格免費用戶，這項功能允許用戶根據其興趣及來自連接的 Google 應用程式的數據創建圖像。這一舉措旨在提升用戶體驗，並進一步推廣其 AI 技術的應用。",
+          "background": "Gemini 是 Google 開發的一款 AI 聊天機器人，旨在提供更個性化的互動體驗。隨著 AI 技術的快速發展，市場上對於個性化內容生成的需求日益增加，許多科技公司都在積極探索此領域。Google 此次將 Gemini 的圖像生成服務免費提供給美國用戶，顯示出其對於擴大用戶基礎及提升產品競爭力的重視。此舉也可能是對於其他競爭者如 OpenAI 的 DALL-E 等產品的回應，旨在吸引更多用戶使用其生態系統。",
           "stakeholders": [
-            "香港運輸署",
-            "監察專員辦公室",
-            "海外申請者",
-            "中國內地申請者",
-            "香港政府"
+            "Google",
+            "美國用戶",
+            "AI 技術開發者",
+            "數據隱私倡導者"
           ],
-          "analysis": "此次事件揭示了香港政府在公共服務數位化過程中的重大缺陷，特別是在監管和系統設計方面的不足。運輸署的失職不僅讓「排隊幫」得以肆無忌憚地操作，也使得海外及內地申請者對香港的駕駛執照申請流程產生負面印象，可能影響未來的申請意願。此事件可能促使政府加強對駕駛執照申請系統的監管，並進行必要的系統升級，以防止類似事件再次發生。此外，這也可能引發更廣泛的公共討論，關於如何改進政府的數位服務，提升透明度和公平性。"
+          "analysis": "Google 擴展 Gemini 的個性化 AI 圖像生成服務，可能會對其用戶增長和市場佔有率產生積極影響。這一策略不僅能吸引新用戶，還可能促進現有用戶對 Google 生態系統的黏著度。從商業角度看，免費服務的推出也可能是為了收集更多用戶數據，以進一步優化其 AI 算法和服務。另一方面，這一舉措也可能引發隱私和數據安全的討論，特別是在用戶數據被用於生成個性化內容的情況下。未來，Google 可能需要在推廣 AI 技術與保護用戶隱私之間找到平衡，以維持用戶信任和市場競爭力。"
         },
         "topic_priority_score": 9,
-        "event_type": "regulation_action",
+        "event_type": "strategic_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "technology",
+        "source_name": "SCMP Business",
+        "title": "Hong Kong IPOs ride China’s tech wave, but Nasdaq leads way with SpaceX tsunami",
+        "link": "https://www.scmp.com/business/banking-finance/article/3358823/hong-kong-ipos-ride-chinas-tech-wave-nasdaq-leads-way-spacex-tsunami?utm_source=rss_feed",
+        "summary": "Hong Kong has surrendered its IPO fundraising crown to Nasdaq following SpaceX’s blockbuster listing earlier this month, but it did so while seeing its IPO proceeds register a year-on-year rise of about 84 per cent in the first half of 2026 – consolidating the region’s position as a primary offshore financial hub for Chinese issuers. A total of 83 companies raised US$26.42 billion on the Hong Kong stock exchange’s main board from January to June, according to LSEG Data & Analytics. The figure,...",
+        "published": "Tue, 30 Jun 2026 02:00:09 +0000",
+        "updated": "Tue, 30 Jun 2026 02:00:09 +0000",
+        "published_at_utc": "2026-06-30T02:00:09+00:00",
+        "id": "https://www.scmp.com/business/banking-finance/article/3358823/hong-kong-ipos-ride-chinas-tech-wave-nasdaq-leads-way-spacex-tsunami?utm_source=rss_feed",
+        "topic_type": "space_tech",
+        "relevance_score": 16,
+        "briefing": {
+          "news_focus": "Hong Kong has surrendered its IPO fundraising crown to Nasdaq following SpaceX’s blockbuster listing earlier this month, but it did so while seeing its IPO proceeds register a year-on-year rise of about 84 per cent in the first half of 2026 – consolidating the region’s position as a primary offshore financial hub for Chinese issuers. A total of 83 companies raised US$26.42 billion on the Hong Kong stock exchange’s main board from January to June, according to LSEG Data & Analytics. The figure,...",
+          "news_focus_zh": "香港在2026年上半年IPO籌資方面表現強勁，總共83家公司在香港主板上籌集了264.2億美元，較去年同期增長約84%。然而，香港的IPO籌資冠軍地位已被納斯達克取代，因為SpaceX在本月的上市引發了市場熱潮。儘管如此，香港仍穩固了其作為中國發行者主要離岸金融中心的地位。",
+          "background": "香港的IPO市場在過去幾年受到多重因素影響，包括中國經濟增長放緩及監管政策變化。隨著中國科技公司尋求在國際市場上籌集資金，香港作為主要的離岸金融中心，其IPO活動逐漸增長。2026年上半年，香港的IPO籌資額顯著上升，顯示出市場對中國科技公司的持續需求。與此同時，納斯達克因SpaceX的成功上市而重新獲得了IPO市場的主導地位，這使得香港面臨更大的競爭壓力。",
+          "stakeholders": [
+            "香港交易所",
+            "中國科技公司",
+            "納斯達克",
+            "投資者",
+            "金融監管機構"
+          ],
+          "analysis": "香港的IPO市場雖然在籌資額上有所增長，但面對納斯達克的競爭，特別是SpaceX的上市，顯示出全球資本市場的動態變化。香港的增長主要來自於中國科技公司的需求，這些公司希望利用香港的市場優勢來獲得資金。然而，隨著納斯達克吸引了大量投資者的注意，香港必須加強自身的市場吸引力，以維持其作為中國企業首選上市地的地位。未來，香港可能需要在監管政策和市場環境上進行調整，以應對來自納斯達克及其他國際市場的挑戰。"
+        },
+        "topic_priority_score": 4,
+        "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -138,74 +129,29 @@
       {
         "category": "politics",
         "source_name": "The Guardian World",
-        "title": "Escalating US-Iran strikes threaten interim peace agreement",
-        "link": "https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement",
-        "summary": "Tehran attacks Bahrain and Kuwait amid efforts to open strait of Hormuz without Iran’s direct oversight Fresh hostilities in Gulf suggest US-Iran memorandum was too broadly worded A new round of escalating strikes between Iran and the US has continued, further undermining the fragile interim peace agreement between the two countries, and prompting Donald Trump to threaten violence that would ensure Iran “will no longer exist”. On Sunday, Tehran launched drone and missile attacks against Bahrain and Kuwait after new US strikes on sites in southern Iran, and threatened a “complete halt” to negotiations to end the war. Trump said that a moment might come soon when he abandoned talks and the US would “militarily finish the job”. Continue reading...",
-        "published": "Mon, 29 Jun 2026 09:55:14 GMT",
-        "updated": "2026-06-29T09:55:14Z",
-        "published_at_utc": "2026-06-29T09:55:14+00:00",
-        "id": "https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement",
+        "title": "Kash Patel draws flak for posting FBI case details on social media ‘to make himself look good’",
+        "link": "https://www.theguardian.com/us-news/2026/jun/30/kash-patel-post-fbi-case-social-media",
+        "summary": "FBI veterans believe director may have flouted legal rules by prematurely divulging details of UFC attack plot inquiry Kash Patel may have flouted legal constraints and the FBI’s disciplinary code in prematurely divulging arrests in an alleged plot to attack this month’s Ultimate Fighting Championship bout at the White House, bureau veterans have alleged. Continue reading...",
+        "published": "Tue, 30 Jun 2026 10:00:03 GMT",
+        "updated": "2026-06-30T10:00:03Z",
+        "published_at_utc": "2026-06-30T10:00:03+00:00",
+        "id": "https://www.theguardian.com/us-news/2026/jun/30/kash-patel-post-fbi-case-social-media",
         "topic_type": "us_politics",
-        "relevance_score": 22,
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "Tehran attacks Bahrain and Kuwait amid efforts to open strait of Hormuz without Iran’s direct oversight Fresh hostilities in Gulf suggest US-Iran memorandum was too broadly worded A new round of escalating strikes between Iran and the US has continued, further undermining the fragile interim peace agreement between the two countries, and prompting Donald Trump to threaten violence that would ensure Iran “will no longer exist”. On Sunday, Tehran launched drone and missile attacks against Bahrain and Kuwait after new US strikes on sites in southern Iran, and threatened a “complete halt” to negotiations to end the war. Trump said that a moment might come soon when he abandoned talks and the US would “militarily finish the job”. Continue reading...",
-          "news_focus_zh": "美國與伊朗之間的衝突再度升級，對兩國之間脆弱的臨時和平協議造成威脅。伊朗對巴林和科威特發動無人機及導彈攻擊，作為對美國在伊朗南部目標進行打擊的報復。特朗普則威脅將會採取軍事行動，確保伊朗「不再存在」，並暗示可能會放棄談判，選擇以武力解決問題。",
-          "background": "美國與伊朗之間的緊張關係持續升級，特別是在霍爾木茲海峽的控制權問題上。近期的和平協議雖然旨在減少衝突，但因為雙方對協議的解讀過於寬泛，導致局勢惡化。美國在該地區的軍事行動以及伊朗的報復性攻擊，使得雙方的敵對行為進一步加劇，並可能導致更大範圍的衝突。特朗普政府的強硬立場也使得談判的可能性降低，增加了地區不穩定的風險。",
+          "news_focus": "FBI veterans believe director may have flouted legal rules by prematurely divulging details of UFC attack plot inquiry Kash Patel may have flouted legal constraints and the FBI’s disciplinary code in prematurely divulging arrests in an alleged plot to attack this month’s Ultimate Fighting Championship bout at the White House, bureau veterans have alleged. Continue reading...",
+          "news_focus_zh": "前美國國防部官員Kash Patel因在社交媒體上發布有關FBI調查UFC攻擊陰謀的細節而受到批評。FBI的資深成員指控他可能違反了法律規定，因為他在調查尚未結束時提前透露了逮捕的相關信息，這可能違反了FBI的紀律規範。",
+          "background": "在美國，FBI負責調查各類犯罪案件，包括恐怖主義和暴力事件。UFC（終極格鬥冠軍賽）是一項受歡迎的綜合格鬥賽事，吸引了大量觀眾和媒體關注。近期，關於UFC賽事的安全問題引起了廣泛關注，特別是在社交媒體上對事件的報導和討論。Kash Patel作為前國防部官員，其言論和行為受到公眾和媒體的高度關注，尤其是在涉及法律和安全的議題上。",
           "stakeholders": [
-            "美國政府",
-            "伊朗政府",
-            "巴林",
-            "科威特",
-            "特朗普"
+            "Kash Patel",
+            "FBI",
+            "UFC",
+            "公眾",
+            "媒體"
           ],
-          "analysis": "此次衝突的升級顯示出美國與伊朗之間的互不信任，雙方都指責對方違反停火協議。根據參考報導，特朗普的警告表明美方可能會採取更激進的軍事行動，這與伊朗的報復行動形成鮮明對比。伊朗的攻擊被視為對美國軍事行動的直接回應，顯示出其在地區的軍事意圖。未來，若雙方無法達成更明確的協議，衝突可能會進一步升級，導致更廣泛的地區安全危機。"
+          "analysis": "Kash Patel的行為引發了FBI內部的強烈反對，資深成員認為他可能違反了法律和紀律規範，這可能會對FBI的聲譽造成損害。這一事件突顯了在社交媒體時代，官員在公開信息時需謹慎考量的必要性。Patel的行為可能被解讀為試圖提升自身形象，這在政治和公共安全的背景下引發了對其動機的質疑。未來，這一事件可能會促使FBI重新評估其內部信息披露的政策，以防止類似情況再次發生。"
         },
         "topic_priority_score": 8,
-        "event_type": "security_event",
-        "supporting_sources": [
-          "The Hindu International",
-          "BBC World"
-        ],
-        "supporting_titles": [
-          "Trump warns Tehran as U.S. military strikes ‘multiple targets’ in Iran",
-          "US and Iran exchange strikes and accuse each other of violating ceasefire"
-        ],
-        "supporting_summaries": [
-          "U.S. President warns of a point where the U.S. may no longer be able to be reasonable “and will be forced to militarily complete the job.\"",
-          "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran."
-        ],
-        "supporting_links": [
-          "https://www.thehindu.com/news/international/trump-warns-tehran-as-us-military-strikes-multiple-targets-in-iran/article71156595.ece",
-          "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss"
-        ],
-        "source_count": 3
-      },
-      {
-        "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "West Asia war updates: U.S., Iran agree to halt attacks and hold talks in Doha on June 30, report says",
-        "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-conflict-israel-lebanon-strikes-tehran-washington-ceasefire-live-updates-june-28-2026/article71156840.ece",
-        "summary": "The two sides anticipate meeting to work ‌out dispute over Strait of Hormuz; Hezbollah says reserves right to 'defend its homeland' after Israeli strikes on Lebanon",
-        "published": "Mon, 29 Jun 2026 12:00:18 +0530",
-        "updated": "Mon, 29 Jun 2026 12:00:18 +0530",
-        "published_at_utc": "2026-06-29T06:30:18+00:00",
-        "id": "article-71156840",
-        "topic_type": "war_and_conflict",
-        "relevance_score": 22,
-        "briefing": {
-          "news_focus": "The two sides anticipate meeting to work ‌out dispute over Strait of Hormuz; Hezbollah says reserves right to 'defend its homeland' after Israeli strikes on Lebanon",
-          "news_focus_zh": "美國與伊朗達成共識，計劃於6月30日在多哈舉行會談，旨在解決霍爾木茲海的爭端。此消息傳出之際，黎巴嫩的真主黨表示有權利為其國家防衛，回應以色列對黎巴嫩的空襲。",
-          "background": "霍爾木茲海是全球最重要的石油運輸通道之一，長期以來美伊之間的緊張關係使該地區局勢複雜。美國對伊朗的制裁政策以及伊朗在該地區的影響力，特別是透過支持真主黨等武裝組織，導致雙方矛盾加劇。近期以色列對黎巴嫩的軍事行動也使得局勢更加緊張，真主黨的回應顯示出其在地區安全中的角色與立場。",
-          "stakeholders": [
-            "美國",
-            "伊朗",
-            "真主黨",
-            "以色列",
-            "霍爾木茲海沿岸國家"
-          ],
-          "analysis": "美國與伊朗的會談可能是雙方尋求緩解緊張局勢的一個重要步驟，尤其是在霍爾木茲海的安全問題上。美方希望透過對話減少地區衝突的風險，並保障石油運輸的安全。而伊朗則可能藉此機會強化其在地區的影響力，並尋求解除部分經濟制裁。真主黨的聲明則顯示出黎巴嫩在此局勢中的重要性，可能會影響會談的結果。各方的利益和立場都將在會談中受到考驗，未來的發展仍需密切關注。"
-        },
-        "topic_priority_score": 11,
         "event_type": "security_event",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -215,395 +161,415 @@
       },
       {
         "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "Five people killed in shooting in northern Germany, police say – Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/jun/29/extreme-heat-europe-germany-poland-czechia-hungary-serbia-heatwave-nato-rutte-starmer-eu-latest-news-updates",
-        "summary": "German police say the main suspect has been apprehended after ‘numerous’ shots were fired Meanwhile, Ukraine is bracing to absorb the impact of the heatwave on its energy network, already pummelled by Russian attacks over more than four years of war, AFP reported. Grid operators in at least five regions – from Ivano-Frankivsk in the west to Zaporizhzhia on the frontline in the south – announced temporary restrictions on energy usage would be in force during parts of Tuesday. Continue reading...",
-        "published": "Mon, 29 Jun 2026 12:19:49 GMT",
-        "updated": "2026-06-29T12:19:49Z",
-        "published_at_utc": "2026-06-29T12:19:49+00:00",
-        "id": "https://www.theguardian.com/world/live/2026/jun/29/extreme-heat-europe-germany-poland-czechia-hungary-serbia-heatwave-nato-rutte-starmer-eu-latest-news-updates",
-        "topic_type": "war_and_conflict",
+        "source_name": "The Hindu International",
+        "title": "Senior U.S. officials frustrated by Machado bid to return to Venezuela after quakes: White House official",
+        "link": "https://www.thehindu.com/news/international/senior-us-officials-frustrated-by-machado-bid-to-return-to-venezuela-after-earthquakes/article71155629.ece",
+        "summary": "Maria Corina Machado ⁠left Venezuela in December, defying a decade-long travel ban to receive the Nobel Peace Prize, after mainly living in hiding for more ​than a year following ‌disputed elections in 2024",
+        "published": "Tue, 30 Jun 2026 07:45:55 +0530",
+        "updated": "Tue, 30 Jun 2026 07:45:55 +0530",
+        "published_at_utc": "2026-06-30T02:15:55+00:00",
+        "id": "article-71155629",
+        "topic_type": "us_politics",
         "relevance_score": 20,
         "briefing": {
-          "news_focus": "German police say the main suspect has been apprehended after ‘numerous’ shots were fired Meanwhile, Ukraine is bracing to absorb the impact of the heatwave on its energy network, already pummelled by Russian attacks over more than four years of war, AFP reported. Grid operators in at least five regions – from Ivano-Frankivsk in the west to Zaporizhzhia on the frontline in the south – announced temporary restrictions on energy usage would be in force during parts of Tuesday. Continue reading...",
-          "news_focus_zh": "德國警方報告，北部城市斯塔德發生槍擊事件，造成五人死亡，主要嫌疑人已被逮捕。警方表示，事件中發射了大量槍聲，並有兩名嫌疑人被拘留。這起事件引發了當地社區的關注與恐慌。",
-          "background": "德國近期面臨多起暴力事件的挑戰，社會對於公共安全的關注日益增加。槍擊事件的頻發使得政府和警方加強了對社會治安的監控。斯塔德位於德國北部，該地區的社會結構和治安狀況在過去幾年中經歷了變化，尤其是在移民問題和社會融合方面的挑戰。此外，烏克蘭的能源網絡因俄羅斯的持續攻擊而受到影響，這一背景可能使得德國在應對內部安全問題時面臨更大的壓力。",
+          "news_focus": "Maria Corina Machado ⁠left Venezuela in December, defying a decade-long travel ban to receive the Nobel Peace Prize, after mainly living in hiding for more ​than a year following ‌disputed elections in 2024",
+          "news_focus_zh": "美國官員對於馬利亞·科琳娜·馬查多在地震後試圖返回委內瑞拉的行動感到沮喪。馬查多於2024年因選舉爭議而主要隱藏生活，並在去年12月違反長達十年的旅行禁令前往接受諾貝爾和平獎。白宮官員指出，馬查多的回國計劃引發了美方的擔憂。",
+          "background": "馬利亞·科琳娜·馬查多是委內瑞拉反對派的主要領導人之一，因其在2024年選舉中的爭議結果而受到國際關注。她的行動受到委內瑞拉政府的強烈抵制，並在過去十年內遭到旅行禁令。馬查多在接受諾貝爾和平獎後，試圖重返委內瑞拉，這一舉動可能會引發當地政治局勢的進一步緊張，尤其是在地震後，國內局勢不穩定的情況下。",
           "stakeholders": [
-            "德國警方",
-            "當地社區",
-            "政府",
-            "烏克蘭",
-            "俄羅斯"
+            "美國政府",
+            "馬利亞·科琳娜·馬查多",
+            "委內瑞拉政府",
+            "國際社會",
+            "委內瑞拉反對派"
           ],
-          "analysis": "此次槍擊事件的發生引發了德國社會對於安全的擔憂，尤其是在移民和社會融合的背景下，可能會加劇對於外來人口的偏見和恐懼。警方的迅速行動，逮捕主要嫌疑人，顯示出當局對於維護公共安全的重視。然而，參考報導中提到的烏克蘭局勢，尤其是俄羅斯的攻擊，可能會對德國的內部安全政策產生影響，因為這些外部衝突可能引發更多的社會不穩定。不同報導中，BBC強調了有兩名嫌疑人被逮捕的細節，而The Guardian則著重於主要嫌疑人的逮捕，這顯示出對事件的不同關注點。"
+          "analysis": "美國官員對馬查多的回國計劃表示不滿，這反映了美方對委內瑞拉政治局勢的高度關注。馬查多的返回可能會被視為對當前政府的挑戰，並可能引發新的政治動盪。美國在此事件中的立場顯示出對反對派的支持，但也顯示出對可能引發的衝突的擔憂。馬查多的行動可能會影響國際社會對委內瑞拉的看法，特別是在人道主義危機和政治改革的背景下。各方可能會密切關注馬查多的動向及其對當地局勢的影響。"
         },
-        "topic_priority_score": 11,
-        "event_type": "security_event",
+        "topic_priority_score": 8,
+        "event_type": "election_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "politics",
+        "source_name": "SCMP World",
+        "title": "Hong Kong positioned to link Asean, Greater Bay Area amid geopolitical shifts: John Lee",
+        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3358826/hong-kong-positioned-link-asean-greater-bay-area-amid-geopolitical-shifts-john-lee?utm_source=rss_feed",
+        "summary": "Hong Kong is uniquely positioned to connect Asean with the Greater Bay Area and build a “powerful and complementary partnership” amid a shifting geopolitical landscape, the city’s leader has said. Chief Executive John Lee Ka-chiu made his remarks at the South China Morning Post’s GBA-Asean Summit 2026 on Tuesday, which also saw the launch of a new chamber of commerce for the 11-member Association of Southeast Asian Nations in the city. The summit brought together government officials, business...",
+        "published": "Tue, 30 Jun 2026 02:02:47 +0000",
+        "updated": "Tue, 30 Jun 2026 02:02:47 +0000",
+        "published_at_utc": "2026-06-30T02:02:47+00:00",
+        "id": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3358826/hong-kong-positioned-link-asean-greater-bay-area-amid-geopolitical-shifts-john-lee?utm_source=rss_feed",
+        "topic_type": "diplomacy",
+        "relevance_score": 19,
+        "briefing": {
+          "news_focus": "Hong Kong is uniquely positioned to connect Asean with the Greater Bay Area and build a “powerful and complementary partnership” amid a shifting geopolitical landscape, the city’s leader has said. Chief Executive John Lee Ka-chiu made his remarks at the South China Morning Post’s GBA-Asean Summit 2026 on Tuesday, which also saw the launch of a new chamber of commerce for the 11-member Association of Southeast Asian Nations in the city. The summit brought together government officials, business...",
+          "news_focus_zh": "香港特首李家超在南華早報舉辦的GBA-Asean峰會上表示，香港在地緣政治變遷中具備獨特優勢，能夠連接東南亞國家聯盟（ASEAN）與大灣區，並建立強大且互補的夥伴關係。此次峰會還啟動了一個新的商會，專注於促進香港與ASEAN成員國之間的商業合作。",
+          "background": "香港作為中國的一個特別行政區，歷來在國際貿易和金融中扮演重要角色。隨著地緣政治的變化，特別是中國與東南亞國家之間的關係日益緊密，香港的地理位置和經濟優勢使其成為連接這兩個地區的橋樑。ASEAN作為一個重要的區域組織，面臨來自中國的影響力擴張的挑戰，這使得香港的角色更加重要。此次峰會的舉辦，反映了香港希望在這一新興的地緣政治環境中，強化其作為貿易和投資中心的地位。",
+          "stakeholders": [
+            "香港特區政府",
+            "東南亞國家聯盟（ASEAN）",
+            "中國政府",
+            "商界",
+            "國際投資者"
+          ],
+          "analysis": "李家超的發言強調了香港在連接ASEAN與大灣區的潛力，這對於促進貿易和投資至關重要。然而，根據參考報導，ASEAN國家對於北京的擴張野心持有警惕態度，這可能使得香港的角色面臨挑戰。各方利益關係複雜，ASEAN成員國在與中國的經濟合作中，必須平衡自身的國家利益與區域安全。未來，香港如何在這種複雜的地緣政治環境中維持其中介角色，將是觀察的重點。"
+        },
+        "topic_priority_score": 7,
+        "event_type": "diplomatic_move",
         "supporting_sources": [
-          "BBC World",
-          "The Hindu International"
+          "Taipei Times"
         ],
         "supporting_titles": [
-          "Five dead following shooting in Stade, northern Germany",
-          "Russian attacks kill five in Ukraine, local officials say"
+          "ASEAN has to stand up to Beijing’s ambitions"
         ],
         "supporting_summaries": [
-          "Two people have been arrested, police said.",
-          "Strikes on the southeastern city of Zaporizhzhia killed two people and injured ‌16, Regional Governor Ivan Fedorov said"
+          ""
         ],
         "supporting_links": [
-          "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
-          "https://www.thehindu.com/news/international/russia-strikes-ukraine-death-toll-updates/article71159214.ece"
+          "https://www.taipeitimes.com/News/editorials/archives/2026/06/30/2003859957"
         ],
-        "source_count": 3
+        "source_count": 2
       }
     ],
     "economy": [
       {
         "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "Bahrain doubles down on Hong Kong to woo mainland China capital amid Middle East tensions",
-        "link": "https://www.scmp.com/business/banking-finance/article/3358707/bahrain-doubles-down-hong-kong-woo-mainland-china-capital-amid-middle-east-tensions?utm_source=rss_feed",
-        "summary": "Bahrain has deepened its presence in Hong Kong to tap mainland China capital, as the Gulf state launches a charm offensive to court foreign investors amid the US-Israel war on Iran. Two major Bahraini investors have already placed bets in Hong Kong to seize rising opportunities in China, while the kingdom’s investment promotion agency has vowed to lure more capital with financial deregulation. “We are here to make sure that we continue the momentum and continue the extensive engagement with...",
-        "published": "Mon, 29 Jun 2026 06:01:03 +0000",
-        "updated": "Mon, 29 Jun 2026 06:01:03 +0000",
-        "published_at_utc": "2026-06-29T06:01:03+00:00",
-        "id": "https://www.scmp.com/business/banking-finance/article/3358707/bahrain-doubles-down-hong-kong-woo-mainland-china-capital-amid-middle-east-tensions?utm_source=rss_feed",
-        "topic_type": "markets",
-        "relevance_score": 21,
+        "source_name": "The Guardian Business",
+        "title": "Sainsbury’s chief says grocery inflation not as bad as feared so far",
+        "link": "https://www.theguardian.com/business/2026/jun/30/sainsburys-grocery-inflation-supermarket-aldi-price-match-world-cup",
+        "summary": "Supermarket has lifted sales with Aldi price match, and has benefited from hot weather and World Cup matches Business live – latest updates Grocery inflation in the UK has not been as bad as feared so far, the boss of Sainsbury’s has said, but “pressure in the system” remains as the industry hopes for a swift resolution to the Middle East conflict. Simon Roberts, the chief executive of the UK’s second-largest supermarket, said it was still early in the year and there was “still uncertainty where inflation will go”, but suggested it could come in well below the Food and Drink Federation’s initial prediction of at least 9% by December . Continue reading...",
+        "published": "Tue, 30 Jun 2026 09:52:20 GMT",
+        "updated": "2026-06-30T09:52:20Z",
+        "published_at_utc": "2026-06-30T09:52:20+00:00",
+        "id": "https://www.theguardian.com/business/2026/jun/30/sainsburys-grocery-inflation-supermarket-aldi-price-match-world-cup",
+        "topic_type": "inflation",
+        "relevance_score": 23,
         "briefing": {
-          "news_focus": "Bahrain has deepened its presence in Hong Kong to tap mainland China capital, as the Gulf state launches a charm offensive to court foreign investors amid the US-Israel war on Iran. Two major Bahraini investors have already placed bets in Hong Kong to seize rising opportunities in China, while the kingdom’s investment promotion agency has vowed to lure more capital with financial deregulation. “We are here to make sure that we continue the momentum and continue the extensive engagement with...",
-          "news_focus_zh": "巴林加強在香港的投資活動，以吸引中國內地資本，並在美國與以色列對伊朗的緊張局勢中展開吸引外資的攻勢。兩位主要的巴林投資者已經在香港進行投資，以抓住中國市場的增長機會，而巴林的投資促進機構則承諾通過金融放鬆管制來吸引更多資本。",
-          "background": "巴林正面臨中東地區的地緣政治緊張局勢，特別是美國與以色列對伊朗的政策影響，這使得該國尋求多元化其經濟並吸引外國投資。香港作為一個重要的金融中心，對於希望進入中國市場的外國投資者來說具有吸引力。巴林的投資促進機構已經開始實施金融放鬆政策，以提高其在香港的競爭力，並吸引中國內地的資本流入。",
+          "news_focus": "Supermarket has lifted sales with Aldi price match, and has benefited from hot weather and World Cup matches Business live – latest updates Grocery inflation in the UK has not been as bad as feared so far, the boss of Sainsbury’s has said, but “pressure in the system” remains as the industry hopes for a swift resolution to the Middle East conflict. Simon Roberts, the chief executive of the UK’s second-largest supermarket, said it was still early in the year and there was “still uncertainty where inflation will go”, but suggested it could come in well below the Food and Drink Federation’s initial prediction of at least 9% by December . Continue reading...",
+          "news_focus_zh": "英國超市Sainsbury's的首席執行官Simon Roberts表示，儘管市場仍面臨壓力，但目前的食品通脹情況並未如預期般嚴重。他指出，超市透過與Aldi的價格匹配提升了銷售，並且受益於熱天氣和世界杯賽事的影響。Roberts強調，儘管目前情況較好，但對於未來的通脹走勢仍存在不確定性，預測可能低於食品和飲料聯合會預測的9%。",
+          "background": "目前英國的食品通脹問題受到多重因素影響，包括全球供應鏈的挑戰和地緣政治的緊張局勢。特別是中東地區的衝突，可能對全球糧食供應造成影響，進而影響英國市場。Sainsbury's作為英國第二大超市，面臨來自競爭對手如Aldi的壓力，必須通過價格策略來吸引消費者。此外，近期的熱天氣和大型體育賽事也為超市帶來了額外的銷售機會，這些因素共同影響了當前的市場狀況。",
           "stakeholders": [
-            "巴林政府",
-            "中國內地投資者",
-            "香港金融機構",
-            "美國政府",
-            "以色列政府"
+            "Sainsbury's",
+            "Aldi",
+            "消費者",
+            "食品和飲料聯合會",
+            "中東地區"
           ],
-          "analysis": "巴林的策略顯示出其希望在中東緊張局勢中尋找經濟增長的機會，特別是透過吸引中國投資者。根據參考報導，中國政府正在加強對境外投資的管控，鼓勵內地投資者專注於國內科技發展，而非美國市場。這可能使巴林的努力面臨挑戰，因為中國投資者可能會受到政策的限制。巴林的金融放鬆措施可能會吸引一些尋求多元化投資的中國資本，但同時也需考慮到中國政府的投資方向與政策限制，這將影響巴林的吸引力。"
+          "analysis": "Sainsbury's的首席執行官Roberts的言論反映出超市業界對於通脹的謹慎樂觀，儘管仍有不確定性。參考報導提到的美伊衝突可能會對中東基礎設施造成破壞，這可能進一步影響全球糧食供應鏈，從而影響英國的食品價格。各方利益關係中，消費者希望價格穩定，而超市則需在競爭中保持利潤。若中東局勢持續緊張，可能會使通脹壓力加大，導致Sainsbury's和其他超市面臨更大的挑戰。未來幾個月，市場將密切關注通脹數據及其對消費者行為的影響。"
         },
-        "topic_priority_score": 4,
-        "event_type": "market_repricing",
+        "topic_priority_score": 9,
+        "event_type": "inflation_data",
         "supporting_sources": [
-          "The Economist"
+          "Nikkei Asia"
         ],
         "supporting_titles": [
-          "China cracks down on rule-bending offshore investments"
+          "How US-Iran conflict devastated infrastructure in the Middle East"
         ],
         "supporting_summaries": [
-          "It wants mainland investors to bet on its own tech dreams not America’s"
+          ""
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2026/06/28/china-cracks-down-on-rule-bending-offshore-investments"
+          "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/how-us-iran-conflict-devastated-infrastructure-in-the-middle-east"
         ],
         "source_count": 2
       },
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "The AI bubble has further to run despite the looming crash",
-        "link": "https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets",
-        "summary": "As tech firms make huge profits and investors fear losing out, both are doing their best to hold off the day of reckoning OpenAI staggers AI model release after White House request Every couple of decades, investors will ask themselves how long can the stock market keep climbing. Is it safe to buy more shares? Is their pension or equity portfolio vulnerable should financial markets, and especially those in the US, come crashing down to earth? When stock markets rise to historically high levels – and beyond the level when normal profits can sustain share prices – a few “experts” typically warn of an impending crash. Continue reading...",
-        "published": "Sat, 27 Jun 2026 15:00:07 GMT",
-        "updated": "2026-06-27T15:00:07Z",
-        "published_at_utc": "2026-06-27T15:00:07+00:00",
-        "id": "https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets",
-        "topic_type": "markets",
-        "relevance_score": 19,
+        "source_name": "SCMP Business",
+        "title": "EU seeks ‘tangible results’ on China trade deficit by October",
+        "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3358895/eu-seeks-tangible-results-china-trade-deficit-october?utm_source=rss_feed",
+        "summary": "The European Union set an October deadline for “tangible results” in tackling its growing trade deficit with China, after the two sides held talks in Brussels in an attempt to avoid a trade war. “Not everything will be solved, not everything will be fixed, but we think that between now and October, our teams have sufficient time to deliver the tangible results,” EU trade chief Maros Sefcovic told reporters on Monday, according to Bloomberg News. He spoke after “intensive, focused and...",
+        "published": "Tue, 30 Jun 2026 09:00:49 +0000",
+        "updated": "Tue, 30 Jun 2026 09:00:49 +0000",
+        "published_at_utc": "2026-06-30T09:00:49+00:00",
+        "id": "https://www.scmp.com/plus/news/china/diplomacy/article/3358895/eu-seeks-tangible-results-china-trade-deficit-october?utm_source=rss_feed",
+        "topic_type": "trade_wars",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "As tech firms make huge profits and investors fear losing out, both are doing their best to hold off the day of reckoning OpenAI staggers AI model release after White House request Every couple of decades, investors will ask themselves how long can the stock market keep climbing. Is it safe to buy more shares? Is their pension or equity portfolio vulnerable should financial markets, and especially those in the US, come crashing down to earth? When stock markets rise to historically high levels – and beyond the level when normal profits can sustain share prices – a few “experts” typically warn of an impending crash. Continue reading...",
-          "news_focus_zh": "隨著科技公司獲利豐厚，投資者對未來市場的擔憂加劇，許多專家開始質疑股市的持續上漲是否安全。儘管市場已經達到歷史高點，且有專家警告即將面臨崩盤，但科技公司仍在努力推遲這一天的到來。OpenAI在白宮的要求下，延遲了其AI模型的發布，顯示出政府對於科技發展的影響力。",
-          "background": "目前，美國的股市正處於歷史高位，投資者對於未來的回報和風險感到矛盾。科技產業，尤其是AI領域，吸引了大量資金流入，並且在市場上表現強勁。白宮對於科技公司的監管和影響力逐漸增強，這使得企業在推出新技術時必須考慮政策環境的變化。此背景下，OpenAI的決策顯示出政府與科技企業之間的互動日益密切，並可能影響未來AI技術的發展方向。",
+          "news_focus": "The European Union set an October deadline for “tangible results” in tackling its growing trade deficit with China, after the two sides held talks in Brussels in an attempt to avoid a trade war. “Not everything will be solved, not everything will be fixed, but we think that between now and October, our teams have sufficient time to deliver the tangible results,” EU trade chief Maros Sefcovic told reporters on Monday, according to Bloomberg News. He spoke after “intensive, focused and...",
+          "news_focus_zh": "歐盟在布魯塞爾舉行會談後，設定了十月份的最後期限，要求在解決與中國之間日益擴大的貿易赤字方面取得“具體成果”。歐盟貿易負責人馬羅斯·塞夫科維奇表示，雖然並非所有問題都能解決，但雙方有足夠的時間來達成具體成果，以避免貿易戰的爆發。",
+          "background": "歐盟與中國之間的貿易關係在過去幾年中變得越來越不平衡，歐盟每年面臨約3600億歐元的貿易赤字。這一情況引發了歐盟內部的擔憂，尤其是在面對中國商品大量進口的背景下。近期，中國對歐盟可能採取的貿易限制措施發出威脅，進一步加劇了雙方緊張的貿易關係。此次會談是雙方七年來首次發表的聯合聲明，顯示出雙方希望通過正式的貿易諮詢來改善雙邊關係。",
           "stakeholders": [
-            "科技公司",
-            "投資者",
-            "政府",
-            "金融市場",
-            "AI開發者"
+            "歐盟",
+            "中國",
+            "歐洲企業",
+            "貿易政策制定者",
+            "消費者"
           ],
-          "analysis": "本次新聞強調了科技公司在面對市場壓力時的應對策略，特別是OpenAI因應白宮要求而延遲AI模型發布的決定，顯示出政府對科技發展的影響力加強。這一變化與先前市場對AI技術的樂觀預期形成對比，可能會導致投資者對科技股的信心動搖。參考報導中提到的美國向國有資本主義的轉變，可能會進一步影響投資者的策略和市場動態，尤其是在科技領域。香港的金融地位問題則提供了另一個視角，顯示出全球金融市場的競爭與不確定性，可能影響資本流向和投資決策。"
+          "analysis": "歐盟希望在十月份之前達成具體成果，顯示出其對改善與中國貿易關係的迫切性。然而，雙方在貿易政策上的分歧仍然存在，特別是在中國對歐盟可能採取的貿易限制措施的反應上。參考報導指出，雙方在會談中同意進行為期三個月的討論，以期達成更平衡的貿易關係，這表明雙方都希望避免貿易戰的升級。與此同時，其他報導提到美國與中國之間的貿易衝突也在加劇，這可能對歐盟的談判策略產生影響，因為美國的貿易政策可能會影響中國的反應和歐盟的立場。"
         },
-        "topic_priority_score": 4,
+        "topic_priority_score": 9,
         "event_type": "corporate_results",
-        "is_major_update": true,
         "supporting_sources": [
-          "The Economist",
-          "SCMP Business"
+          "The Guardian World",
+          "The Economist"
         ],
         "supporting_titles": [
-          "A letter to investors from the White House Opportunities Fund",
-          "Can Hong Kong keep its financial crown?"
+          "EU sets up three months of talks with China over €360bn trade deficit",
+          "America and China return to fierce trade conflict"
         ],
         "supporting_summaries": [
-          "How the shift to state capitalism is panning out for America LLC",
-          ""
+          "Two sides agree to try to make bilateral relationship ‘more balanced’ after weeks of threats The EU and China have agreed to enter three months of talks to try to avoid a trade war over the bloc’s €360bn (£310bn) annual import/export imbalance. In their first joint statement in seven years, the two sides agreed in Brussels to open a formal trade consultation after weeks of threats and recriminations from China if the EU imposed any measures to stop the flood of goods and components into the bloc. Continue reading...",
+          "Donald Trump threatens an extra 100% levy as rare-earth minerals prompt a fresh spat"
         ],
         "supporting_links": [
-          "https://www.economist.com/finance-and-economics/2025/10/29/a-letter-to-investors-from-the-white-house-opportunities-fund",
-          "https://www.scmp.com/business/banking-finance/series/3358277/can-hong-kong-keep-its-financial-crown?utm_source=rss_feed"
+          "https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit",
+          "https://www.economist.com/finance-and-economics/2025/10/11/america-and-china-return-to-fierce-trade-conflict"
         ],
         "source_count": 3
       },
       {
         "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "British American Tobacco to slash 9,000 jobs as it turns to AI",
-        "link": "https://www.theguardian.com/business/2026/jun/29/british-american-tobacco-bat-cut-jobs-ai",
-        "summary": "Dunhill maker to cut about a fifth of workforce, aiming to reduce costs and become more ‘technology enabled’ Business live – latest updates British American Tobacco (BAT) will cut about a fifth of its 47,000-strong workforce this year, as the cigarette-maker looks for ways to push down costs and become more “technology enabled”. BAT, which is one of the biggest tobacco groups in the world , has announced it will cut 5,500 jobs by the end of the year and outsource a further 3,500, affecting a ⁠total of 9,000 employees. Continue reading...",
-        "published": "Mon, 29 Jun 2026 08:53:22 GMT",
-        "updated": "2026-06-29T08:53:22Z",
-        "published_at_utc": "2026-06-29T08:53:22+00:00",
-        "id": "https://www.theguardian.com/business/2026/jun/29/british-american-tobacco-bat-cut-jobs-ai",
-        "topic_type": "labour_markets",
-        "relevance_score": 18,
+        "source_name": "The Hindu International",
+        "title": "Why has India-U.S. trade deal been delayed? | Explained",
+        "link": "https://www.thehindu.com/news/national/why-has-india-us-trade-deal-been-delayed-explained/article71145051.ece",
+        "summary": "From India’s Russian oil purchases to legal battles in Washington, the road to India-U.S. trade deal has become increasingly uncertain, and The Hindu explains why",
+        "published": "Tue, 30 Jun 2026 12:24:07 +0530",
+        "updated": "Tue, 30 Jun 2026 12:24:07 +0530",
+        "published_at_utc": "2026-06-30T06:54:07+00:00",
+        "id": "article-71145051",
+        "topic_type": "trade_wars",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Dunhill maker to cut about a fifth of workforce, aiming to reduce costs and become more ‘technology enabled’ Business live – latest updates British American Tobacco (BAT) will cut about a fifth of its 47,000-strong workforce this year, as the cigarette-maker looks for ways to push down costs and become more “technology enabled”. BAT, which is one of the biggest tobacco groups in the world , has announced it will cut 5,500 jobs by the end of the year and outsource a further 3,500, affecting a ⁠total of 9,000 employees. Continue reading...",
-          "news_focus_zh": "英美煙草公司（BAT）宣布將裁減約9,000名員工，這相當於其47,000名員工的五分之一。此舉旨在降低成本並提升公司在數位及人工智慧（AI）方面的能力。BAT計劃在年底前裁減5,500個職位，並將外包3,500個職位，以達成其目標。",
-          "background": "英美煙草公司是全球最大的煙草集團之一，面臨著日益嚴峻的市場競爭和消費者對健康的關注。隨著全球對煙草產品的需求減少，BAT必須尋找創新方式來維持其市場地位。公司早前已表示，計劃透過數位化和人工智慧來實現成本節約，這一策略反映了傳統行業向現代科技轉型的趨勢。",
+          "news_focus": "From India’s Russian oil purchases to legal battles in Washington, the road to India-U.S. trade deal has become increasingly uncertain, and The Hindu explains why",
+          "news_focus_zh": "印度與美國之間的貿易協議因多重因素而延遲，包括印度對俄羅斯石油的採購及華盛頓的法律糾紛。這些因素使得雙方的貿易談判變得越來越不確定，影響了原本預期的進展。",
+          "background": "印度與美國的貿易關係在過去幾年中逐漸增強，雙方都希望透過貿易協議來進一步擴大經濟合作。然而，印度對俄羅斯石油的購買在國際社會中引發了爭議，特別是在美國對俄羅斯的制裁背景下。此外，華盛頓的法律糾紛也可能影響貿易談判的進程，因為這些法律問題可能涉及貿易政策的調整和執行。",
           "stakeholders": [
-            "英美煙草公司",
-            "員工",
-            "消費者",
-            "投資者",
-            "監管機構"
+            "印度政府",
+            "美國政府",
+            "俄羅斯",
+            "國際市場",
+            "貿易協會"
           ],
-          "analysis": "BAT的裁員計劃顯示出其在轉型過程中的緊迫性，尤其是在全球煙草市場面臨挑戰的背景下。公司希望通過減少人力成本並加強技術應用來提升效率，這可能會引發員工的不滿和社會反響。參考報導中提到，BAT早在今年就已計劃進行數位化和AI的轉型，這表明公司在未來的發展中將更依賴科技。各方可能會關注此舉對公司文化及員工士氣的影響，並可能引發對於煙草行業未來的更廣泛討論。"
+          "analysis": "印度與美國在貿易協議上的延遲反映了兩國之間的複雜關係。印度希望在能源安全方面維持與俄羅斯的合作，而美國則對此表示擔憂，認為這可能削弱其對俄羅斯的制裁效果。此外，法律糾紛可能涉及貿易政策的不同解讀，這使得雙方在談判中面臨更多挑戰。未來，若雙方能在能源政策及法律框架上達成共識，貿易協議的進展將有可能加速，否則，延遲的情況可能會持續。"
         },
-        "topic_priority_score": 7,
-        "event_type": "macro_signal",
-        "supporting_sources": [
-          "BBC Business"
-        ],
-        "supporting_titles": [
-          "British American Tobacco to cut 9,000 jobs"
-        ],
-        "supporting_summaries": [
-          "The company had said earlier this year it was planning savings to make it \"more digital and AI-focused\"."
-        ],
-        "supporting_links": [
-          "https://www.bbc.co.uk/news/articles/c3vyen243dno?at_medium=RSS&at_campaign=rss"
-        ],
-        "source_count": 2
+        "topic_priority_score": 9,
+        "event_type": "energy_supply_move",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
       }
     ]
   },
   "further_reading": {
     "technology": [
       {
-        "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-06-28T21:42:51+00:00",
-        "relevance_score": 19
-      },
-      {
         "title": "As AI pushes data centres to breaking point, some Chinese chipmakers bet on SiC",
         "link": "https://www.scmp.com/tech/tech-war/article/3358492/ai-pushes-data-centres-breaking-point-some-chinese-chipmakers-bet-sic?utm_source=rss_feed",
         "source_name": "SCMP Business",
         "published_at_utc": "2026-06-28T05:00:09+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
-        "link": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-06-29T08:00:00+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
-        "link": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-28T17:03:16+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-        "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-        "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-28T15:00:00+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Chinese tech makes desalinating seawater cheaper than producing bottled water",
-        "link": "https://www.scmp.com/news/china/science/article/3358699/chinese-tech-makes-desalinating-seawater-cheaper-producing-bottled-water?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-29T05:00:05+00:00",
         "relevance_score": 16
       },
       {
-        "title": "AI agents that provide ‘economic value’ are next frontier, says Meta AI research chief",
-        "link": "https://www.scmp.com/tech/tech-trends/article/3358639/ai-agents-provide-economic-value-are-next-frontier-says-meta-ai-research-chief?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-29T03:00:05+00:00",
-        "relevance_score": 16
-      },
-      {
-        "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+        "title": "OpenAI is teasing new hardware… for Codex",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
         "source_name": "The Verge",
-        "published_at_utc": "2026-06-28T14:12:06+00:00",
+        "published_at_utc": "2026-06-29T18:52:03+00:00",
         "relevance_score": 15
       },
       {
-        "title": "The war against ‘woke’ could end US science as we know it",
-        "link": "https://www.theverge.com/science/957630/omb-killing-science-budget-grants-research",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-06-29T11:00:00+00:00",
+        "title": "Is Singapore facing ‘public fatigue’ over ex-MP Raeesah Khan saga?",
+        "link": "https://www.scmp.com/week-asia/politics/article/3358904/singapore-facing-public-fatigue-over-ex-mp-raeesah-khan-saga?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-30T09:45:19+00:00",
         "relevance_score": 14
       },
       {
-        "title": "Holidaymakers warned over social media scams for fake accommodation",
-        "link": "https://www.theguardian.com/money/2026/jun/29/holidaymakers-warned-over-social-media-scams-for-fake-accommodation",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-29T07:00:32+00:00",
+        "title": "Venezuela Earthquake Destruction Revealed in New Satellite Images",
+        "link": "https://www.wired.com/story/satellite-images-damage-caused-by-venezuela-earthquakes/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-30T09:30:00+00:00",
         "relevance_score": 14
+      },
+      {
+        "title": "Screen time calculator: How much of your life is spent on social media?",
+        "link": "https://www.aljazeera.com/news/2026/6/30/social-media-calculator-how-much-of-your-life-is-spent-on-social-media?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-06-30T07:26:49+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "Want to Boost Your Home’s Resale Value? Install a Heat Pump",
+        "link": "https://www.wired.com/story/boost-your-homes-resale-value-install-heat-pump/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-30T06:00:00+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
+        "link": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-06-29T20:18:26+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+        "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-06-29T18:10:26+00:00",
+        "relevance_score": 13
+      },
+      {
+        "title": "Bernie Sanders Saw This Coming",
+        "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-30T10:30:00+00:00",
+        "relevance_score": 12
+      },
+      {
+        "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+        "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-29T21:49:26+00:00",
+        "relevance_score": 10
       }
     ],
     "politics": [
       {
-        "title": "Andy Burnham confirms he will set up ‘No 10 North’ in Manchester in major policy speech – UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/jun/29/andy-burnham-devolution-speech-keir-starmer-labour-latest-news-updates",
+        "title": "Starmer unveils extra £15bn for UK defence, with some road and energy projects scrapped to fund rise – politics live",
+        "link": "https://www.theguardian.com/politics/live/2026/jun/30/defence-investment-plan-keir-starmer-dan-jarvis-labour-andy-burnham-uk-politics-latest-news",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-29T12:04:28+00:00",
+        "published_at_utc": "2026-06-30T10:29:03+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Supreme court nears the end of its term with cases about Donald Trump’s power to be decided – US politics live",
-        "link": "https://www.theguardian.com/us-news/live/2026/jun/29/supreme-court-donald-trump-administration-us-politics-latest-news-updates",
+        "title": "Anger at supreme court ruling on Trump’s power to fire agency chiefs – US politics live",
+        "link": "https://www.theguardian.com/us-news/live/2026/jun/30/birthright-citizenship-supreme-court-donald-trump-us-politics-latest-news",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-29T11:53:35+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Vance Vs Rubio: Is Team Trump divided on Iran and Lebanon?",
-        "link": "https://www.aljazeera.com/news/2026/6/29/vance-vs-rubio-is-team-trump-divided-on-iran-and-lebanon?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-29T11:05:47+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "‘Tit-for-tat US-Iran attacks appear to be over’",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/tit-for-tat-us-iran-attacks-appear-to-be?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-29T09:58:26+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Keir Starmer's attempts to placate big tech were a disaster. Andy Burnham must take a stand | Beeban Kidron",
-        "link": "https://www.theguardian.com/commentisfree/2026/jun/29/keir-starmer-placate-big-tech-disaster-andy-burnham-labour-silicon-valley",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-29T09:00:39+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Israel destroys Hezbollah underground infrastructure in southern Lebanon",
-        "link": "https://www.thehindu.com/news/international/israel-destroys-hezbollah-underground-infrastructure-in-southern-lebanon/article71159206.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-29T01:17:25+00:00",
-        "relevance_score": 20
-      },
-      {
-        "title": "Biden blasts Trump 'vanity projects', calling him a 'loser' at fundraising event",
-        "link": "https://www.bbc.co.uk/news/articles/cy73mvn607do?at_medium=RSS&at_campaign=rss",
-        "source_name": "BBC World",
-        "published_at_utc": "2026-06-29T12:04:30+00:00",
+        "published_at_utc": "2026-06-30T10:16:41+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Trump administration targets California coastal agency in escalation of energy production fight",
-        "link": "https://www.theguardian.com/us-news/2026/jun/29/california-trump-administration-energy-production",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-29T12:00:44+00:00",
+        "title": "Advocacy groups file complaint against Ghana over Trump deportations",
+        "link": "https://www.aljazeera.com/news/2026/6/30/advocacy-groups-file-complaint-against-ghana-over-trump-deportations?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-06-30T10:03:34+00:00",
         "relevance_score": 18
       },
       {
-        "title": "UK’s Andy Burnham, nation’s likely next leader, promises ‘number 10 north’",
-        "link": "https://www.scmp.com/news/world/europe/article/3358783/uks-andy-burnham-nations-likely-next-leader-promises-number-10-north?utm_source=rss_feed",
+        "title": "EU halves duty-free steel quota but UK and other partners given better rate",
+        "link": "https://www.theguardian.com/business/2026/jun/30/eu-duty-free-steel-quota-uk-rate-brexit",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-30T09:51:11+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "UK lays out defence plan with drones, self-flying fighter jets, no-crew submarines",
+        "link": "https://www.scmp.com/news/world/europe/article/3358903/uk-lays-out-defence-plan-drones-self-flying-fighter-jets-no-crew-submarines?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-06-29T11:37:30+00:00",
+        "published_at_utc": "2026-06-30T09:39:24+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?",
-        "link": "https://www.aljazeera.com/news/2026/6/29/russia-ukraine-war-why-has-putin-rejected-limits-on-long-range-strikes?traffic_source=rss",
+        "title": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/video-at-least-two-killed-and-hundreds-displaced-in-israeli-attack-on-gaza?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-29T09:58:08+00:00",
+        "published_at_utc": "2026-06-30T09:10:10+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Alleged Epstein victim and Trump accuser living in fear of retaliation, relative says",
+        "link": "https://www.theguardian.com/us-news/2026/jun/30/alleged-epstein-victim-trump-accuser",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-30T09:00:38+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "U.S.-India relationship at its lowest in 30 years: Indian-American Democrat leader",
+        "link": "https://www.thehindu.com/news/national/us-india-relationship-at-its-lowest-in-30-years-indian-american-democrat-leader/article71164727.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-30T08:22:45+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Europe and US on collision course over next high representative for Bosnia",
+        "link": "https://www.theguardian.com/world/2026/jun/30/europe-us-high-representative-for-bosnia",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-30T08:13:02+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "U.S., India trade deal in final steps: Sergio Gor",
+        "link": "https://www.thehindu.com/news/national/us-india-trade-deal-in-final-steps-sergio-gor/article71164133.ece",
+        "source_name": "The Hindu International",
+        "published_at_utc": "2026-06-30T07:16:26+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
+        "title": "Philippines courts Greater Bay Area investors as gateway to Southeast Asia",
+        "link": "https://www.scmp.com/week-asia/economics/article/3358861/philippines-courts-greater-bay-area-investors-gateway-southeast-asia?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-30T06:00:44+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Millions of Britons urged to submit meter readings before energy price cap rises on Wednesday",
+        "link": "https://www.theguardian.com/money/2026/jun/30/britons-submit-meter-readings-before-energy-price-cap-rise-uk",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-30T06:00:40+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Half-year Hong Kong stocks report card: shares drop 11% on Fed pivot, lack of AI play",
+        "link": "https://www.scmp.com/business/china-business/article/3358887/half-year-hong-kong-stocks-report-card-shares-drop-11-fed-pivot-lack-ai-play?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-06-30T08:19:20+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Ukrainian oligarch among 3 wounded in ‘deliberate’ Monaco explosion",
+        "link": "https://www.scmp.com/news/world/europe/article/3358818/police-hunt-fugitive-monaco-after-3-wounded-deliberate-explosion?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-06-29T22:56:03+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "EU sets up three months of talks with China over €360bn trade deficit",
+        "link": "https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-06-29T18:33:51+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
+        "link": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-06-29T16:51:52+00:00",
+        "relevance_score": 17
+      },
+      {
+        "title": "The AI bubble has further to run despite the looming crash",
+        "link": "https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-06-27T15:00:07+00:00",
+        "relevance_score": 16
+      },
+      {
         "title": "Good for business – or profit at any cost? The controversial side of private equity – a visual explainer",
         "link": "https://www.theguardian.com/business/ng-interactive/2026/jun/29/private-equity-visual-explainer-uk-veterinary-sector",
         "source_name": "The Guardian Business",
         "published_at_utc": "2026-06-29T06:00:33+00:00",
-        "relevance_score": 21
+        "relevance_score": 15
       },
       {
         "title": "Why brokers believe China’s AI-driven stock run will find fresh legs",
         "link": "https://www.scmp.com/business/china-business/article/3358503/why-brokers-believe-chinas-ai-driven-stock-run-will-find-fresh-legs?utm_source=rss_feed",
         "source_name": "SCMP Business",
         "published_at_utc": "2026-06-29T00:00:11+00:00",
-        "relevance_score": 19
-      },
-      {
-        "title": "Victorian premier accused of ‘nonsense’ for blaming inflation amid gangland allegations over cost blowouts",
-        "link": "https://www.theguardian.com/australia-news/2026/jun/29/jacinta-allan-victoria-big-build-royal-commission-calls-corruption-allegations-ntwnfb",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-29T06:15:47+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
-        "link": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-29T03:55:02+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "Shares in chipmakers underpinning AI boom rocket in first half of 2026",
-        "link": "https://www.theguardian.com/business/2026/jun/29/shares-in-chipmakers-underpinning-ai-boom-surge-in-first-half-of-2026",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-29T03:00:26+00:00",
-        "relevance_score": 17
-      },
-      {
-        "title": "‘Buy the haystack’: how tracker funds beat searching for shares",
-        "link": "https://www.theguardian.com/money/2026/jun/29/how-tracker-funds-beat-searching-for-shares",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-29T06:00:31+00:00",
         "relevance_score": 15
       },
       {
-        "title": "Sovereign investors with US$29 trillion pivot to energy assets, flag dollar fears",
-        "link": "https://www.scmp.com/business/banking-finance/article/3358682/sovereign-investors-us29-trillion-pivot-energy-assets-flag-dollar-fears?utm_source=rss_feed",
+        "title": "OTP gives Hong Kong a vote of confidence as European banks look East",
+        "link": "https://www.scmp.com/business/banking-finance/article/3358853/otp-gives-hong-kong-vote-confidence-european-banks-look-east?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-28T23:29:07+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "When it comes to taxing the super rich, there’s no need to reinvent the wheel",
-        "link": "https://www.theguardian.com/us-news/2026/jun/28/wealth-tax-super-rich",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-28T11:00:10+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "UK mortgage approvals hit two and a half-year low as Iran war drive up borrowing costs – business live",
-        "link": "https://www.theguardian.com/business/live/2026/jun/29/bank-of-england-inflation-warning-ai-stock-markets-oil-burnham-bond-yields-live-news-updates",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-29T12:18:49+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "Chinese self-driving firm Momenta eyes US$750m in Hong Kong IPO",
-        "link": "https://www.scmp.com/business/china-evs/article/3358709/chinese-self-driving-firm-momenta-eyes-us750m-hong-kong-ipo?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-29T07:00:05+00:00",
+        "published_at_utc": "2026-06-30T08:00:06+00:00",
         "relevance_score": 14
       }
     ]
