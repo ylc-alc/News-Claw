@@ -1,25 +1,25 @@
 {
-  "generated_at_utc": "2026-06-30T10:48:03.295498+00:00",
+  "generated_at_utc": "2026-07-01T11:16:53.135845+00:00",
   "summary": {
-    "total_raw_items": 1074,
-    "total_deduped_items": 1052,
+    "total_raw_items": 1059,
+    "total_deduped_items": 1037,
     "selected_total": 9,
     "max_topics_per_section": 3,
     "topic_mix": {
       "technology": [
         "ai",
         "ai",
-        "space_tech"
+        "chips"
       ],
       "politics": [
-        "us_politics",
-        "us_politics",
-        "diplomacy"
+        "diplomacy",
+        "diplomacy",
+        "us_politics"
       ],
       "economy": [
-        "inflation",
-        "trade_wars",
-        "trade_wars"
+        "sanctions",
+        "sanctions",
+        "energy_markets"
       ]
     },
     "multi_source_selected_count": 3
@@ -28,28 +28,73 @@
     "technology": [
       {
         "category": "technology",
-        "source_name": "MIT Technology Review",
-        "title": "Building tech in the world’s secret R&D hub",
-        "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-        "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world’s most influential technology companies…",
-        "published": "Tue, 30 Jun 2026 10:23:30 +0000",
-        "updated": "Tue, 30 Jun 2026 10:23:30 +0000",
-        "published_at_utc": "2026-06-30T10:23:30+00:00",
-        "id": "https://www.technologyreview.com/?p=1139661",
+        "source_name": "The Guardian Business",
+        "title": "Anthropic says US has lifted export controls on Fable and Mythos AI models after security fears",
+        "link": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
+        "summary": "AI company was forced last month to suspend access to its Fable 5 and Mythos 5 models for all foreign nationals Business live – latest updates Anthropic has restored customer access to its powerful newest AI model, Fable, after a more than two-week blackout resulting from US government safety concerns that it could be abused to enable serious cyber-attacks. The San Francisco company said export controls had been lifted, citing a social media post from the US commerce secretary, Howard Lutnick, in which he said: “Over the past two weeks, we have worked closely with Anthropic to analyze and approve Fable 5 to ensure alignment across the US Government and strengthen America’s leadership in AI.” Continue reading...",
+        "published": "Wed, 01 Jul 2026 10:07:20 GMT",
+        "updated": "2026-07-01T10:07:20Z",
+        "published_at_utc": "2026-07-01T10:07:20+00:00",
+        "id": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
         "topic_type": "ai",
-        "relevance_score": 17,
+        "relevance_score": 25,
         "briefing": {
-          "news_focus": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world’s most influential technology companies…",
-          "news_focus_zh": "在全球科技產業中，少數城市能夠吸引多家頂尖公司的研發中心，其中一個例子是位於人口僅超過40萬的城市，這裡聚集了Apple、Google、Meta等科技巨頭的研發機構。這一現象在過去二十年中逐漸形成，顯示出該地區在全球科技創新中的重要性。",
-          "background": "隨著科技產業的快速發展，許多公司開始尋找新的研發基地，以便於吸引人才和資源。傳統上，矽谷是科技創新的核心，但隨著成本上升和市場需求變化，其他城市逐漸崛起成為新的研發中心。這些城市不僅提供相對較低的生活成本，還擁有良好的教育資源和創新氛圍，吸引了包括Apple、Google等在內的多家知名企業設立研發機構。",
+          "news_focus": "AI company was forced last month to suspend access to its Fable 5 and Mythos 5 models for all foreign nationals Business live – latest updates Anthropic has restored customer access to its powerful newest AI model, Fable, after a more than two-week blackout resulting from US government safety concerns that it could be abused to enable serious cyber-attacks. The San Francisco company said export controls had been lifted, citing a social media post from the US commerce secretary, Howard Lutnick, in which he said: “Over the past two weeks, we have worked closely with Anthropic to analyze and approve Fable 5 to ensure alignment across the US Government and strengthen America’s leadership in AI.” Continue reading...",
+          "news_focus_zh": "美國政府已解除對Anthropic公司的Fable 5和Mythos 5人工智慧模型的出口管制，這一決定是在該公司因安全擔憂而暫停外國國籍用戶訪問這些模型後做出的。Anthropic表示，解除管制的過程中，與美國政府進行了密切合作，以確保這些模型的安全性和合規性，並強調美國在人工智慧領域的領導地位。",
+          "background": "在過去幾週，Anthropic因為擔心其AI模型可能被濫用以進行網絡攻擊而被迫暫停外國國籍用戶的訪問。這一事件反映了美國政府對於AI技術安全性的高度關注，尤其是在國際安全與競爭日益加劇的背景下。近期的政策變化顯示出美國政府在AI領域的監管策略正在調整，並試圖在促進技術創新與保障國家安全之間取得平衡。",
           "stakeholders": [
-            "Apple",
-            "Google",
-            "Meta",
-            "Microsoft",
-            "NVIDIA"
+            "Anthropic",
+            "美國政府",
+            "外國國籍用戶",
+            "AI產業",
+            "網絡安全專家"
           ],
-          "analysis": "這一現象反映出科技公司在全球範圍內尋求多元化的研發環境，以降低風險並提升創新能力。對於這些公司而言，選擇在新興城市設立研發中心不僅能夠吸引當地人才，還能夠利用當地的資源和政策支持。然而，這也可能引發當地社會對於科技公司影響的擔憂，包括生活成本上升和資源競爭等問題。未來，這些城市的發展將取決於如何平衡科技創新與社會責任之間的關係。"
+          "analysis": "此次解除出口管制的決定顯示出美國政府在AI政策上的靈活性，尤其是在與Anthropic的合作中，強調了政府對於技術安全性的重視。不同於Wired報導中提到的特朗普政府的政策變化，TechCrunch則指出這種不穩定的政策可能使整個AI行業面臨不確定性。各方利益關係中，Anthropic希望能夠在全球市場上保持競爭力，而美國政府則需考量國家安全與技術領導權的平衡。未來，隨著AI技術的發展，相關的政策可能會持續調整，影響整個行業的運作模式。"
+        },
+        "topic_priority_score": 9,
+        "event_type": "strategic_move",
+        "supporting_sources": [
+          "Wired",
+          "TechCrunch"
+        ],
+        "supporting_titles": [
+          "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
+          "Trump drops restrictions on Anthropic’s Mythos and Fable models"
+        ],
+        "supporting_summaries": [
+          "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
+          "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases."
+        ],
+        "supporting_links": [
+          "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+          "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/"
+        ],
+        "source_count": 3
+      },
+      {
+        "category": "technology",
+        "source_name": "Wired",
+        "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
+        "link": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
+        "summary": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose.",
+        "published": "Wed, 01 Jul 2026 10:00:00 +0000",
+        "updated": "Wed, 01 Jul 2026 10:00:00 +0000",
+        "published_at_utc": "2026-07-01T10:00:00+00:00",
+        "id": "6a429a4997df48350cfc3f6c",
+        "topic_type": "ai",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "A researcher found that using Anthropic’s Claude Opus 4.7, he could break into the website of Front Gate—used by every festival from Lollapalooza to Bonnaroo—and freely issue any ticket he chose.",
+          "news_focus_zh": "一名研究人員利用Anthropic的Claude Opus 4.7，成功入侵了Front Gate網站，該網站是多個美國音樂節（如Lollapalooza和Bonnaroo）使用的票務平台。這位黑客能夠隨意發行任何他選擇的票，顯示出該系統的安全漏洞。",
+          "background": "Front Gate是美國主要音樂節的票務平台，負責管理數百萬張門票的銷售與分發。隨著數位票務系統的普及，這些平台的安全性變得至關重要。近年來，針對票務系統的網路攻擊事件屢見不鮮，這不僅影響了音樂節的運營，也對消費者的信任造成了損害。Anthropic的Claude Opus 4.7是一款先進的人工智慧工具，能夠協助用戶進行各種任務，但其潛在的濫用風險也引發了廣泛的關注。",
+          "stakeholders": [
+            "Front Gate",
+            "音樂節主辦方",
+            "消費者",
+            "網路安全專家",
+            "人工智慧開發者"
+          ],
+          "analysis": "此次事件突顯了人工智慧技術在網路安全領域的雙刃劍特性。雖然Claude Opus 4.7能夠協助研究人員進行創新，但其被用於非法活動的潛力也引發了業界的擔憂。Front Gate作為一個重要的票務平台，必須加強其安全措施，以防止類似事件再次發生。此外，這一事件可能促使其他票務平台重新評估其安全策略，並加強對於人工智慧技術的監管。未來，業界可能會看到更多針對這類安全漏洞的討論與立法行動，以保障消費者的權益。"
         },
         "topic_priority_score": 9,
         "event_type": "strategic_move",
@@ -61,62 +106,30 @@
       },
       {
         "category": "technology",
-        "source_name": "TechCrunch",
-        "title": "Gemini’s personalized AI image generation is now free for US users",
-        "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-        "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
-        "published": "Mon, 29 Jun 2026 20:12:59 +0000",
-        "updated": "Mon, 29 Jun 2026 20:12:59 +0000",
-        "published_at_utc": "2026-06-29T20:12:59+00:00",
-        "id": "https://techcrunch.com/?p=3137386",
-        "topic_type": "ai",
-        "relevance_score": 17,
+        "source_name": "SCMP World",
+        "title": "Singapore seizes US$42.4 million bungalow linked to Nvidia chip fraud",
+        "link": "https://www.scmp.com/news/asia/southeast-asia/article/3359020/singapore-seizes-us424-million-bungalow-linked-nvidia-chip-fraud?utm_source=rss_feed",
+        "summary": "Singapore authorities have seized a so-called Good Class Bungalow (GCB) valued at around S$55 million (US$42.4 million) and around S$1 million (US$770,000) of funds in connection with a fraud conspiracy, the police said on Wednesday. The case has been linked to the movement of Nvidia chips in contravention of US export controls. GCBs are among the most prestigious type of housing in Singapore, with authorities imposing key planning constraints. It is understood that the seized GCB is located at...",
+        "published": "Wed, 01 Jul 2026 07:40:10 +0000",
+        "updated": "Wed, 01 Jul 2026 07:40:10 +0000",
+        "published_at_utc": "2026-07-01T07:40:10+00:00",
+        "id": "https://www.scmp.com/news/asia/southeast-asia/article/3359020/singapore-seizes-us424-million-bungalow-linked-nvidia-chip-fraud?utm_source=rss_feed",
+        "topic_type": "chips",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
-          "news_focus_zh": "Google 宣布將 Gemini 的個性化 AI 圖像生成服務擴展至美國的合格免費用戶，這項功能允許用戶根據其興趣及來自連接的 Google 應用程式的數據創建圖像。這一舉措旨在提升用戶體驗，並進一步推廣其 AI 技術的應用。",
-          "background": "Gemini 是 Google 開發的一款 AI 聊天機器人，旨在提供更個性化的互動體驗。隨著 AI 技術的快速發展，市場上對於個性化內容生成的需求日益增加，許多科技公司都在積極探索此領域。Google 此次將 Gemini 的圖像生成服務免費提供給美國用戶，顯示出其對於擴大用戶基礎及提升產品競爭力的重視。此舉也可能是對於其他競爭者如 OpenAI 的 DALL-E 等產品的回應，旨在吸引更多用戶使用其生態系統。",
+          "news_focus": "Singapore authorities have seized a so-called Good Class Bungalow (GCB) valued at around S$55 million (US$42.4 million) and around S$1 million (US$770,000) of funds in connection with a fraud conspiracy, the police said on Wednesday. The case has been linked to the movement of Nvidia chips in contravention of US export controls. GCBs are among the most prestigious type of housing in Singapore, with authorities imposing key planning constraints. It is understood that the seized GCB is located at...",
+          "news_focus_zh": "新加坡當局查獲一棟價值約5500萬新幣（4240萬美元）的優質別墅，並扣押約100萬新幣（770,000美元）的資金，與一起涉及Nvidia晶片的詐騙陰謀有關。警方指出，此案件涉及違反美國出口管制的行為，顯示出該事件的國際性與複雜性。",
+          "background": "新加坡的優質別墅（Good Class Bungalow, GCB）是該國最具聲望的住宅類型之一，受到嚴格的規劃限制。該事件的發生背景與Nvidia晶片的國際貿易有關，特別是在美國對某些高科技產品實施出口管制的情況下。隨著全球對半導體技術的需求增加，各國對於晶片的出口監管也變得愈加嚴格，這使得相關的違法行為風險上升。",
           "stakeholders": [
-            "Google",
-            "美國用戶",
-            "AI 技術開發者",
-            "數據隱私倡導者"
+            "新加坡政府",
+            "Nvidia",
+            "國際貿易監管機構",
+            "科技產業",
+            "金融機構"
           ],
-          "analysis": "Google 擴展 Gemini 的個性化 AI 圖像生成服務，可能會對其用戶增長和市場佔有率產生積極影響。這一策略不僅能吸引新用戶，還可能促進現有用戶對 Google 生態系統的黏著度。從商業角度看，免費服務的推出也可能是為了收集更多用戶數據，以進一步優化其 AI 算法和服務。另一方面，這一舉措也可能引發隱私和數據安全的討論，特別是在用戶數據被用於生成個性化內容的情況下。未來，Google 可能需要在推廣 AI 技術與保護用戶隱私之間找到平衡，以維持用戶信任和市場競爭力。"
+          "analysis": "此次新加坡當局的行動顯示出對於違反出口管制行為的高度重視，尤其是在全球半導體供應鏈緊張的背景下。各方利益關係中，Nvidia作為主要晶片供應商，可能面臨更嚴格的監管壓力，進而影響其市場策略與供應鏈管理。同時，新加坡政府也顯示出其在打擊金融犯罪及維護國際貿易規範方面的決心。未來，若該案件進一步發展，可能會引發更多國際間對於科技產品出口的討論與規範調整，特別是在美國與亞洲市場之間的貿易關係上。"
         },
-        "topic_priority_score": 9,
-        "event_type": "strategic_move",
-        "supporting_sources": [],
-        "supporting_titles": [],
-        "supporting_summaries": [],
-        "supporting_links": [],
-        "source_count": 1
-      },
-      {
-        "category": "technology",
-        "source_name": "SCMP Business",
-        "title": "Hong Kong IPOs ride China’s tech wave, but Nasdaq leads way with SpaceX tsunami",
-        "link": "https://www.scmp.com/business/banking-finance/article/3358823/hong-kong-ipos-ride-chinas-tech-wave-nasdaq-leads-way-spacex-tsunami?utm_source=rss_feed",
-        "summary": "Hong Kong has surrendered its IPO fundraising crown to Nasdaq following SpaceX’s blockbuster listing earlier this month, but it did so while seeing its IPO proceeds register a year-on-year rise of about 84 per cent in the first half of 2026 – consolidating the region’s position as a primary offshore financial hub for Chinese issuers. A total of 83 companies raised US$26.42 billion on the Hong Kong stock exchange’s main board from January to June, according to LSEG Data & Analytics. The figure,...",
-        "published": "Tue, 30 Jun 2026 02:00:09 +0000",
-        "updated": "Tue, 30 Jun 2026 02:00:09 +0000",
-        "published_at_utc": "2026-06-30T02:00:09+00:00",
-        "id": "https://www.scmp.com/business/banking-finance/article/3358823/hong-kong-ipos-ride-chinas-tech-wave-nasdaq-leads-way-spacex-tsunami?utm_source=rss_feed",
-        "topic_type": "space_tech",
-        "relevance_score": 16,
-        "briefing": {
-          "news_focus": "Hong Kong has surrendered its IPO fundraising crown to Nasdaq following SpaceX’s blockbuster listing earlier this month, but it did so while seeing its IPO proceeds register a year-on-year rise of about 84 per cent in the first half of 2026 – consolidating the region’s position as a primary offshore financial hub for Chinese issuers. A total of 83 companies raised US$26.42 billion on the Hong Kong stock exchange’s main board from January to June, according to LSEG Data & Analytics. The figure,...",
-          "news_focus_zh": "香港在2026年上半年IPO籌資方面表現強勁，總共83家公司在香港主板上籌集了264.2億美元，較去年同期增長約84%。然而，香港的IPO籌資冠軍地位已被納斯達克取代，因為SpaceX在本月的上市引發了市場熱潮。儘管如此，香港仍穩固了其作為中國發行者主要離岸金融中心的地位。",
-          "background": "香港的IPO市場在過去幾年受到多重因素影響，包括中國經濟增長放緩及監管政策變化。隨著中國科技公司尋求在國際市場上籌集資金，香港作為主要的離岸金融中心，其IPO活動逐漸增長。2026年上半年，香港的IPO籌資額顯著上升，顯示出市場對中國科技公司的持續需求。與此同時，納斯達克因SpaceX的成功上市而重新獲得了IPO市場的主導地位，這使得香港面臨更大的競爭壓力。",
-          "stakeholders": [
-            "香港交易所",
-            "中國科技公司",
-            "納斯達克",
-            "投資者",
-            "金融監管機構"
-          ],
-          "analysis": "香港的IPO市場雖然在籌資額上有所增長，但面對納斯達克的競爭，特別是SpaceX的上市，顯示出全球資本市場的動態變化。香港的增長主要來自於中國科技公司的需求，這些公司希望利用香港的市場優勢來獲得資金。然而，隨著納斯達克吸引了大量投資者的注意，香港必須加強自身的市場吸引力，以維持其作為中國企業首選上市地的地位。未來，香港可能需要在監管政策和市場環境上進行調整，以應對來自納斯達克及其他國際市場的挑戰。"
-        },
-        "topic_priority_score": 4,
+        "topic_priority_score": 10,
         "event_type": "strategic_move",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -128,30 +141,30 @@
     "politics": [
       {
         "category": "politics",
-        "source_name": "The Guardian World",
-        "title": "Kash Patel draws flak for posting FBI case details on social media ‘to make himself look good’",
-        "link": "https://www.theguardian.com/us-news/2026/jun/30/kash-patel-post-fbi-case-social-media",
-        "summary": "FBI veterans believe director may have flouted legal rules by prematurely divulging details of UFC attack plot inquiry Kash Patel may have flouted legal constraints and the FBI’s disciplinary code in prematurely divulging arrests in an alleged plot to attack this month’s Ultimate Fighting Championship bout at the White House, bureau veterans have alleged. Continue reading...",
-        "published": "Tue, 30 Jun 2026 10:00:03 GMT",
-        "updated": "2026-06-30T10:00:03Z",
-        "published_at_utc": "2026-06-30T10:00:03+00:00",
-        "id": "https://www.theguardian.com/us-news/2026/jun/30/kash-patel-post-fbi-case-social-media",
-        "topic_type": "us_politics",
-        "relevance_score": 20,
+        "source_name": "SCMP World",
+        "title": "Himalayan pass reopens as ‘goodwill’ gesture in China-India thaw",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3359016/himalayan-pass-reopens-goodwill-gesture-china-india-thaw?utm_source=rss_feed",
+        "summary": "China and India resumed cross-border trade through the Lipulekh Pass in the Himalayas last week in the latest sign of a cautious rapprochement between the two countries. The reopening of the pass near the contested India-China-Nepal border after six years came shortly after Chinese Foreign Minister Wang Yi’s visit to New Delhi. It was described by analysts as a goodwill gesture from Beijing, but they warned that the long-standing border dispute and strategic rivalry would continue to weigh on...",
+        "published": "Wed, 01 Jul 2026 08:00:11 +0000",
+        "updated": "Wed, 01 Jul 2026 08:00:11 +0000",
+        "published_at_utc": "2026-07-01T08:00:11+00:00",
+        "id": "https://www.scmp.com/news/china/diplomacy/article/3359016/himalayan-pass-reopens-goodwill-gesture-china-india-thaw?utm_source=rss_feed",
+        "topic_type": "diplomacy",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "FBI veterans believe director may have flouted legal rules by prematurely divulging details of UFC attack plot inquiry Kash Patel may have flouted legal constraints and the FBI’s disciplinary code in prematurely divulging arrests in an alleged plot to attack this month’s Ultimate Fighting Championship bout at the White House, bureau veterans have alleged. Continue reading...",
-          "news_focus_zh": "前美國國防部官員Kash Patel因在社交媒體上發布有關FBI調查UFC攻擊陰謀的細節而受到批評。FBI的資深成員指控他可能違反了法律規定，因為他在調查尚未結束時提前透露了逮捕的相關信息，這可能違反了FBI的紀律規範。",
-          "background": "在美國，FBI負責調查各類犯罪案件，包括恐怖主義和暴力事件。UFC（終極格鬥冠軍賽）是一項受歡迎的綜合格鬥賽事，吸引了大量觀眾和媒體關注。近期，關於UFC賽事的安全問題引起了廣泛關注，特別是在社交媒體上對事件的報導和討論。Kash Patel作為前國防部官員，其言論和行為受到公眾和媒體的高度關注，尤其是在涉及法律和安全的議題上。",
+          "news_focus": "China and India resumed cross-border trade through the Lipulekh Pass in the Himalayas last week in the latest sign of a cautious rapprochement between the two countries. The reopening of the pass near the contested India-China-Nepal border after six years came shortly after Chinese Foreign Minister Wang Yi’s visit to New Delhi. It was described by analysts as a goodwill gesture from Beijing, but they warned that the long-standing border dispute and strategic rivalry would continue to weigh on...",
+          "news_focus_zh": "中國與印度於上週重新開放了位於喜馬拉雅山脈的Lipulekh通道，這是兩國在邊界爭端後的最新和解跡象。該通道在經歷六年的封閉後重新開放，正值中國外交部長王毅訪問新德里之後。分析人士將此舉視為北京的善意表示，但也警告長期的邊界爭端和戰略競爭仍將持續影響雙方關係。",
+          "background": "Lipulekh通道位於印度、尼泊爾和中國的邊界附近，過去曾是重要的貿易路徑。然而，由於邊界爭端，該通道自2017年以來一直處於封閉狀態。中國與印度之間的關係因邊界衝突而緊張，雙方在經濟和軍事上均存在競爭。近期，中國外交部長的訪問被視為兩國關係改善的契機，顯示出雙方在經濟合作上的潛在意願，儘管根本的地緣政治矛盾仍然存在。",
           "stakeholders": [
-            "Kash Patel",
-            "FBI",
-            "UFC",
-            "公眾",
-            "媒體"
+            "中國政府",
+            "印度政府",
+            "邊界地區居民",
+            "國際貿易商",
+            "地緣政治分析師"
           ],
-          "analysis": "Kash Patel的行為引發了FBI內部的強烈反對，資深成員認為他可能違反了法律和紀律規範，這可能會對FBI的聲譽造成損害。這一事件突顯了在社交媒體時代，官員在公開信息時需謹慎考量的必要性。Patel的行為可能被解讀為試圖提升自身形象，這在政治和公共安全的背景下引發了對其動機的質疑。未來，這一事件可能會促使FBI重新評估其內部信息披露的政策，以防止類似情況再次發生。"
+          "analysis": "此次通道的重新開放被視為中國對印度的一種善意姿態，可能旨在緩解雙方的緊張關係。然而，分析人士指出，儘管有這樣的善意舉措，長期的邊界爭端和戰略競爭仍然是雙方關係中的主要障礙。印度在此事件中可能會謹慎應對，因為其國內對中國的懷疑情緒依然強烈。此外，這一動作可能會影響到其他地區的地緣政治格局，特別是在南亞地區的經濟合作與安全問題上。未來，雙方如何在邊界問題上進行談判，將成為觀察兩國關係的重要指標。"
         },
-        "topic_priority_score": 8,
+        "topic_priority_score": 7,
         "event_type": "security_event",
         "supporting_sources": [],
         "supporting_titles": [],
@@ -161,31 +174,31 @@
       },
       {
         "category": "politics",
-        "source_name": "The Hindu International",
-        "title": "Senior U.S. officials frustrated by Machado bid to return to Venezuela after quakes: White House official",
-        "link": "https://www.thehindu.com/news/international/senior-us-officials-frustrated-by-machado-bid-to-return-to-venezuela-after-earthquakes/article71155629.ece",
-        "summary": "Maria Corina Machado ⁠left Venezuela in December, defying a decade-long travel ban to receive the Nobel Peace Prize, after mainly living in hiding for more ​than a year following ‌disputed elections in 2024",
-        "published": "Tue, 30 Jun 2026 07:45:55 +0530",
-        "updated": "Tue, 30 Jun 2026 07:45:55 +0530",
-        "published_at_utc": "2026-06-30T02:15:55+00:00",
-        "id": "article-71155629",
-        "topic_type": "us_politics",
-        "relevance_score": 20,
+        "source_name": "SCMP World",
+        "title": "Pakistan accuses India of water ‘weaponisation’ over Indus treaty suspension",
+        "link": "https://www.scmp.com/news/asia/south-asia/article/3358964/pakistan-accuses-india-water-weaponisation-over-indus-treaty-suspension?utm_source=rss_feed",
+        "summary": "Islamabad has warned that any attempt by India to deprive Pakistan of its share of water under the Indus Waters Treaty would amount to the “weaponisation of water” and could have serious consequences for regional peace and security. Foreign Minister Ishaq Dar and other government officials made the remarks at an international seminar on the 1960 World Bank – brokered treaty, which governs the sharing of water from the Indus River system between the nuclear-armed neighbours. The treaty has come...",
+        "published": "Wed, 01 Jul 2026 00:43:50 +0000",
+        "updated": "Wed, 01 Jul 2026 00:43:50 +0000",
+        "published_at_utc": "2026-07-01T00:43:50+00:00",
+        "id": "https://www.scmp.com/news/asia/south-asia/article/3358964/pakistan-accuses-india-water-weaponisation-over-indus-treaty-suspension?utm_source=rss_feed",
+        "topic_type": "diplomacy",
+        "relevance_score": 21,
         "briefing": {
-          "news_focus": "Maria Corina Machado ⁠left Venezuela in December, defying a decade-long travel ban to receive the Nobel Peace Prize, after mainly living in hiding for more ​than a year following ‌disputed elections in 2024",
-          "news_focus_zh": "美國官員對於馬利亞·科琳娜·馬查多在地震後試圖返回委內瑞拉的行動感到沮喪。馬查多於2024年因選舉爭議而主要隱藏生活，並在去年12月違反長達十年的旅行禁令前往接受諾貝爾和平獎。白宮官員指出，馬查多的回國計劃引發了美方的擔憂。",
-          "background": "馬利亞·科琳娜·馬查多是委內瑞拉反對派的主要領導人之一，因其在2024年選舉中的爭議結果而受到國際關注。她的行動受到委內瑞拉政府的強烈抵制，並在過去十年內遭到旅行禁令。馬查多在接受諾貝爾和平獎後，試圖重返委內瑞拉，這一舉動可能會引發當地政治局勢的進一步緊張，尤其是在地震後，國內局勢不穩定的情況下。",
+          "news_focus": "Islamabad has warned that any attempt by India to deprive Pakistan of its share of water under the Indus Waters Treaty would amount to the “weaponisation of water” and could have serious consequences for regional peace and security. Foreign Minister Ishaq Dar and other government officials made the remarks at an international seminar on the 1960 World Bank – brokered treaty, which governs the sharing of water from the Indus River system between the nuclear-armed neighbours. The treaty has come...",
+          "news_focus_zh": "巴基斯坦指控印度對於印河水條約的暫停行為進行水資源的「武器化」，並警告這樣的行為將對地區和平與安全造成嚴重後果。巴基斯坦外交部長伊沙克·達爾及其他官員在一場國際研討會上發表了這些言論，該研討會聚焦於1960年由世界銀行調解的條約，該條約規範了兩個擁有核武器的鄰國之間的水資源分配。",
+          "background": "印河水條約於1960年簽署，旨在解決印度與巴基斯坦之間的水資源分配問題，特別是印河流域的水資源。該條約在兩國之間的水資源管理中扮演了重要角色，並被視為維持地區穩定的關鍵因素。隨著兩國關係的緊張，特別是在克什米爾問題上，水資源的使用與分配成為了新的爭議焦點。印度與巴基斯坦的水資源糾紛不僅影響兩國的關係，也對周邊地區的環境與經濟發展帶來挑戰。",
           "stakeholders": [
-            "美國政府",
-            "馬利亞·科琳娜·馬查多",
-            "委內瑞拉政府",
+            "巴基斯坦政府",
+            "印度政府",
+            "世界銀行",
             "國際社會",
-            "委內瑞拉反對派"
+            "地區居民"
           ],
-          "analysis": "美國官員對馬查多的回國計劃表示不滿，這反映了美方對委內瑞拉政治局勢的高度關注。馬查多的返回可能會被視為對當前政府的挑戰，並可能引發新的政治動盪。美國在此事件中的立場顯示出對反對派的支持，但也顯示出對可能引發的衝突的擔憂。馬查多的行動可能會影響國際社會對委內瑞拉的看法，特別是在人道主義危機和政治改革的背景下。各方可能會密切關注馬查多的動向及其對當地局勢的影響。"
+          "analysis": "巴基斯坦對印度的指控反映了兩國在水資源管理上的深刻分歧。巴基斯坦擔心印度可能會利用水資源作為政治工具，這在過去的衝突中已經出現過類似情況。印度則可能認為，根據條約的規定，對水資源的控制是其合法權利。這一事件可能會加劇兩國之間的緊張局勢，並引發國際社會的關注。若印度繼續推進對水資源的控制，巴基斯坦可能會尋求國際支持以維護其權益，這可能導致更大範圍的外交衝突。"
         },
-        "topic_priority_score": 8,
-        "event_type": "election_move",
+        "topic_priority_score": 7,
+        "event_type": "security_event",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
@@ -195,382 +208,374 @@
       {
         "category": "politics",
         "source_name": "SCMP World",
-        "title": "Hong Kong positioned to link Asean, Greater Bay Area amid geopolitical shifts: John Lee",
-        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3358826/hong-kong-positioned-link-asean-greater-bay-area-amid-geopolitical-shifts-john-lee?utm_source=rss_feed",
-        "summary": "Hong Kong is uniquely positioned to connect Asean with the Greater Bay Area and build a “powerful and complementary partnership” amid a shifting geopolitical landscape, the city’s leader has said. Chief Executive John Lee Ka-chiu made his remarks at the South China Morning Post’s GBA-Asean Summit 2026 on Tuesday, which also saw the launch of a new chamber of commerce for the 11-member Association of Southeast Asian Nations in the city. The summit brought together government officials, business...",
-        "published": "Tue, 30 Jun 2026 02:02:47 +0000",
-        "updated": "Tue, 30 Jun 2026 02:02:47 +0000",
-        "published_at_utc": "2026-06-30T02:02:47+00:00",
-        "id": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3358826/hong-kong-positioned-link-asean-greater-bay-area-amid-geopolitical-shifts-john-lee?utm_source=rss_feed",
-        "topic_type": "diplomacy",
-        "relevance_score": 19,
+        "title": "‘YMCA’ Village People singer Victor Willis dies at 74",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3359054/ymca-village-people-singer-victor-willis-dies-74?utm_source=rss_feed",
+        "summary": "Victor Willis, lead singer of the disco group Village People whose hit Y.M.C.A. became a fixture at rallies for US President Donald Trump, has died, his spouse said in a Facebook post on Wednesday. “It is with profound sadness that I must announce the death of my husband, VICTOR WILLIS. Victor passed away on Tuesday, June 30, 2026, as a result of a short, but aggressive illness,” the post on Willis’s official page said. The Texas-born musician, who was 74, was a co-founder of the Village People...",
+        "published": "Wed, 01 Jul 2026 11:10:18 +0000",
+        "updated": "Wed, 01 Jul 2026 11:10:18 +0000",
+        "published_at_utc": "2026-07-01T11:10:18+00:00",
+        "id": "https://www.scmp.com/news/world/united-states-canada/article/3359054/ymca-village-people-singer-victor-willis-dies-74?utm_source=rss_feed",
+        "topic_type": "us_politics",
+        "relevance_score": 20,
         "briefing": {
-          "news_focus": "Hong Kong is uniquely positioned to connect Asean with the Greater Bay Area and build a “powerful and complementary partnership” amid a shifting geopolitical landscape, the city’s leader has said. Chief Executive John Lee Ka-chiu made his remarks at the South China Morning Post’s GBA-Asean Summit 2026 on Tuesday, which also saw the launch of a new chamber of commerce for the 11-member Association of Southeast Asian Nations in the city. The summit brought together government officials, business...",
-          "news_focus_zh": "香港特首李家超在南華早報舉辦的GBA-Asean峰會上表示，香港在地緣政治變遷中具備獨特優勢，能夠連接東南亞國家聯盟（ASEAN）與大灣區，並建立強大且互補的夥伴關係。此次峰會還啟動了一個新的商會，專注於促進香港與ASEAN成員國之間的商業合作。",
-          "background": "香港作為中國的一個特別行政區，歷來在國際貿易和金融中扮演重要角色。隨著地緣政治的變化，特別是中國與東南亞國家之間的關係日益緊密，香港的地理位置和經濟優勢使其成為連接這兩個地區的橋樑。ASEAN作為一個重要的區域組織，面臨來自中國的影響力擴張的挑戰，這使得香港的角色更加重要。此次峰會的舉辦，反映了香港希望在這一新興的地緣政治環境中，強化其作為貿易和投資中心的地位。",
+          "news_focus": "Victor Willis, lead singer of the disco group Village People whose hit Y.M.C.A. became a fixture at rallies for US President Donald Trump, has died, his spouse said in a Facebook post on Wednesday. “It is with profound sadness that I must announce the death of my husband, VICTOR WILLIS. Victor passed away on Tuesday, June 30, 2026, as a result of a short, but aggressive illness,” the post on Willis’s official page said. The Texas-born musician, who was 74, was a co-founder of the Village People...",
+          "news_focus_zh": "美國迪斯可樂團體Village People的主唱Victor Willis於2026年6月30日因短期但急性疾病去世，享年74歲。其配偶在Facebook上發表公告，表達對其去世的深切哀悼。Willis是Village People的共同創辦人之一，該樂團的代表作《Y.M.C.A.》在美國總統唐納德·特朗普的集會上廣受歡迎。",
+          "background": "Village People成立於1977年，以其獨特的音樂風格和舞台形象而聞名，尤其是《Y.M.C.A.》這首歌成為了流行文化的象徵。該樂團的音樂不僅在迪斯可時代風靡一時，還在後來的政治活動中被廣泛使用，特別是在特朗普的集會上，象徵著一種特定的社會和政治氛圍。Victor Willis作為主唱，不僅是樂團的音樂靈魂，更是其文化影響力的重要代表。",
           "stakeholders": [
-            "香港特區政府",
-            "東南亞國家聯盟（ASEAN）",
-            "中國政府",
-            "商界",
-            "國際投資者"
+            "Village People樂團",
+            "Victor Willis的家人",
+            "LGBTQ+社群",
+            "音樂產業",
+            "政治活動家"
           ],
-          "analysis": "李家超的發言強調了香港在連接ASEAN與大灣區的潛力，這對於促進貿易和投資至關重要。然而，根據參考報導，ASEAN國家對於北京的擴張野心持有警惕態度，這可能使得香港的角色面臨挑戰。各方利益關係複雜，ASEAN成員國在與中國的經濟合作中，必須平衡自身的國家利益與區域安全。未來，香港如何在這種複雜的地緣政治環境中維持其中介角色，將是觀察的重點。"
+          "analysis": "Victor Willis的去世對於Village People及其粉絲來說是一大損失，尤其是在當前政治氣候中，該樂團的音樂仍然在某些社會運動中被引用。Willis的音樂遺產可能會繼續影響未來的藝術家和社會運動，特別是在LGBTQ+社群中，他們常常將Village People視為自我表達和多樣性的象徵。隨著Willis的離世，未來可能會出現對於Village People音樂及其社會意義的重新評估，尤其是在當前的文化和政治討論中。"
         },
-        "topic_priority_score": 7,
-        "event_type": "diplomatic_move",
-        "supporting_sources": [
-          "Taipei Times"
-        ],
-        "supporting_titles": [
-          "ASEAN has to stand up to Beijing’s ambitions"
-        ],
-        "supporting_summaries": [
-          ""
-        ],
-        "supporting_links": [
-          "https://www.taipeitimes.com/News/editorials/archives/2026/06/30/2003859957"
-        ],
-        "source_count": 2
-      }
-    ],
-    "economy": [
-      {
-        "category": "economy",
-        "source_name": "The Guardian Business",
-        "title": "Sainsbury’s chief says grocery inflation not as bad as feared so far",
-        "link": "https://www.theguardian.com/business/2026/jun/30/sainsburys-grocery-inflation-supermarket-aldi-price-match-world-cup",
-        "summary": "Supermarket has lifted sales with Aldi price match, and has benefited from hot weather and World Cup matches Business live – latest updates Grocery inflation in the UK has not been as bad as feared so far, the boss of Sainsbury’s has said, but “pressure in the system” remains as the industry hopes for a swift resolution to the Middle East conflict. Simon Roberts, the chief executive of the UK’s second-largest supermarket, said it was still early in the year and there was “still uncertainty where inflation will go”, but suggested it could come in well below the Food and Drink Federation’s initial prediction of at least 9% by December . Continue reading...",
-        "published": "Tue, 30 Jun 2026 09:52:20 GMT",
-        "updated": "2026-06-30T09:52:20Z",
-        "published_at_utc": "2026-06-30T09:52:20+00:00",
-        "id": "https://www.theguardian.com/business/2026/jun/30/sainsburys-grocery-inflation-supermarket-aldi-price-match-world-cup",
-        "topic_type": "inflation",
-        "relevance_score": 23,
-        "briefing": {
-          "news_focus": "Supermarket has lifted sales with Aldi price match, and has benefited from hot weather and World Cup matches Business live – latest updates Grocery inflation in the UK has not been as bad as feared so far, the boss of Sainsbury’s has said, but “pressure in the system” remains as the industry hopes for a swift resolution to the Middle East conflict. Simon Roberts, the chief executive of the UK’s second-largest supermarket, said it was still early in the year and there was “still uncertainty where inflation will go”, but suggested it could come in well below the Food and Drink Federation’s initial prediction of at least 9% by December . Continue reading...",
-          "news_focus_zh": "英國超市Sainsbury's的首席執行官Simon Roberts表示，儘管市場仍面臨壓力，但目前的食品通脹情況並未如預期般嚴重。他指出，超市透過與Aldi的價格匹配提升了銷售，並且受益於熱天氣和世界杯賽事的影響。Roberts強調，儘管目前情況較好，但對於未來的通脹走勢仍存在不確定性，預測可能低於食品和飲料聯合會預測的9%。",
-          "background": "目前英國的食品通脹問題受到多重因素影響，包括全球供應鏈的挑戰和地緣政治的緊張局勢。特別是中東地區的衝突，可能對全球糧食供應造成影響，進而影響英國市場。Sainsbury's作為英國第二大超市，面臨來自競爭對手如Aldi的壓力，必須通過價格策略來吸引消費者。此外，近期的熱天氣和大型體育賽事也為超市帶來了額外的銷售機會，這些因素共同影響了當前的市場狀況。",
-          "stakeholders": [
-            "Sainsbury's",
-            "Aldi",
-            "消費者",
-            "食品和飲料聯合會",
-            "中東地區"
-          ],
-          "analysis": "Sainsbury's的首席執行官Roberts的言論反映出超市業界對於通脹的謹慎樂觀，儘管仍有不確定性。參考報導提到的美伊衝突可能會對中東基礎設施造成破壞，這可能進一步影響全球糧食供應鏈，從而影響英國的食品價格。各方利益關係中，消費者希望價格穩定，而超市則需在競爭中保持利潤。若中東局勢持續緊張，可能會使通脹壓力加大，導致Sainsbury's和其他超市面臨更大的挑戰。未來幾個月，市場將密切關注通脹數據及其對消費者行為的影響。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "inflation_data",
-        "supporting_sources": [
-          "Nikkei Asia"
-        ],
-        "supporting_titles": [
-          "How US-Iran conflict devastated infrastructure in the Middle East"
-        ],
-        "supporting_summaries": [
-          ""
-        ],
-        "supporting_links": [
-          "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/how-us-iran-conflict-devastated-infrastructure-in-the-middle-east"
-        ],
-        "source_count": 2
-      },
-      {
-        "category": "economy",
-        "source_name": "SCMP Business",
-        "title": "EU seeks ‘tangible results’ on China trade deficit by October",
-        "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3358895/eu-seeks-tangible-results-china-trade-deficit-october?utm_source=rss_feed",
-        "summary": "The European Union set an October deadline for “tangible results” in tackling its growing trade deficit with China, after the two sides held talks in Brussels in an attempt to avoid a trade war. “Not everything will be solved, not everything will be fixed, but we think that between now and October, our teams have sufficient time to deliver the tangible results,” EU trade chief Maros Sefcovic told reporters on Monday, according to Bloomberg News. He spoke after “intensive, focused and...",
-        "published": "Tue, 30 Jun 2026 09:00:49 +0000",
-        "updated": "Tue, 30 Jun 2026 09:00:49 +0000",
-        "published_at_utc": "2026-06-30T09:00:49+00:00",
-        "id": "https://www.scmp.com/plus/news/china/diplomacy/article/3358895/eu-seeks-tangible-results-china-trade-deficit-october?utm_source=rss_feed",
-        "topic_type": "trade_wars",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "The European Union set an October deadline for “tangible results” in tackling its growing trade deficit with China, after the two sides held talks in Brussels in an attempt to avoid a trade war. “Not everything will be solved, not everything will be fixed, but we think that between now and October, our teams have sufficient time to deliver the tangible results,” EU trade chief Maros Sefcovic told reporters on Monday, according to Bloomberg News. He spoke after “intensive, focused and...",
-          "news_focus_zh": "歐盟在布魯塞爾舉行會談後，設定了十月份的最後期限，要求在解決與中國之間日益擴大的貿易赤字方面取得“具體成果”。歐盟貿易負責人馬羅斯·塞夫科維奇表示，雖然並非所有問題都能解決，但雙方有足夠的時間來達成具體成果，以避免貿易戰的爆發。",
-          "background": "歐盟與中國之間的貿易關係在過去幾年中變得越來越不平衡，歐盟每年面臨約3600億歐元的貿易赤字。這一情況引發了歐盟內部的擔憂，尤其是在面對中國商品大量進口的背景下。近期，中國對歐盟可能採取的貿易限制措施發出威脅，進一步加劇了雙方緊張的貿易關係。此次會談是雙方七年來首次發表的聯合聲明，顯示出雙方希望通過正式的貿易諮詢來改善雙邊關係。",
-          "stakeholders": [
-            "歐盟",
-            "中國",
-            "歐洲企業",
-            "貿易政策制定者",
-            "消費者"
-          ],
-          "analysis": "歐盟希望在十月份之前達成具體成果，顯示出其對改善與中國貿易關係的迫切性。然而，雙方在貿易政策上的分歧仍然存在，特別是在中國對歐盟可能採取的貿易限制措施的反應上。參考報導指出，雙方在會談中同意進行為期三個月的討論，以期達成更平衡的貿易關係，這表明雙方都希望避免貿易戰的升級。與此同時，其他報導提到美國與中國之間的貿易衝突也在加劇，這可能對歐盟的談判策略產生影響，因為美國的貿易政策可能會影響中國的反應和歐盟的立場。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "corporate_results",
-        "supporting_sources": [
-          "The Guardian World",
-          "The Economist"
-        ],
-        "supporting_titles": [
-          "EU sets up three months of talks with China over €360bn trade deficit",
-          "America and China return to fierce trade conflict"
-        ],
-        "supporting_summaries": [
-          "Two sides agree to try to make bilateral relationship ‘more balanced’ after weeks of threats The EU and China have agreed to enter three months of talks to try to avoid a trade war over the bloc’s €360bn (£310bn) annual import/export imbalance. In their first joint statement in seven years, the two sides agreed in Brussels to open a formal trade consultation after weeks of threats and recriminations from China if the EU imposed any measures to stop the flood of goods and components into the bloc. Continue reading...",
-          "Donald Trump threatens an extra 100% levy as rare-earth minerals prompt a fresh spat"
-        ],
-        "supporting_links": [
-          "https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit",
-          "https://www.economist.com/finance-and-economics/2025/10/11/america-and-china-return-to-fierce-trade-conflict"
-        ],
-        "source_count": 3
-      },
-      {
-        "category": "economy",
-        "source_name": "The Hindu International",
-        "title": "Why has India-U.S. trade deal been delayed? | Explained",
-        "link": "https://www.thehindu.com/news/national/why-has-india-us-trade-deal-been-delayed-explained/article71145051.ece",
-        "summary": "From India’s Russian oil purchases to legal battles in Washington, the road to India-U.S. trade deal has become increasingly uncertain, and The Hindu explains why",
-        "published": "Tue, 30 Jun 2026 12:24:07 +0530",
-        "updated": "Tue, 30 Jun 2026 12:24:07 +0530",
-        "published_at_utc": "2026-06-30T06:54:07+00:00",
-        "id": "article-71145051",
-        "topic_type": "trade_wars",
-        "relevance_score": 21,
-        "briefing": {
-          "news_focus": "From India’s Russian oil purchases to legal battles in Washington, the road to India-U.S. trade deal has become increasingly uncertain, and The Hindu explains why",
-          "news_focus_zh": "印度與美國之間的貿易協議因多重因素而延遲，包括印度對俄羅斯石油的採購及華盛頓的法律糾紛。這些因素使得雙方的貿易談判變得越來越不確定，影響了原本預期的進展。",
-          "background": "印度與美國的貿易關係在過去幾年中逐漸增強，雙方都希望透過貿易協議來進一步擴大經濟合作。然而，印度對俄羅斯石油的購買在國際社會中引發了爭議，特別是在美國對俄羅斯的制裁背景下。此外，華盛頓的法律糾紛也可能影響貿易談判的進程，因為這些法律問題可能涉及貿易政策的調整和執行。",
-          "stakeholders": [
-            "印度政府",
-            "美國政府",
-            "俄羅斯",
-            "國際市場",
-            "貿易協會"
-          ],
-          "analysis": "印度與美國在貿易協議上的延遲反映了兩國之間的複雜關係。印度希望在能源安全方面維持與俄羅斯的合作，而美國則對此表示擔憂，認為這可能削弱其對俄羅斯的制裁效果。此外，法律糾紛可能涉及貿易政策的不同解讀，這使得雙方在談判中面臨更多挑戰。未來，若雙方能在能源政策及法律框架上達成共識，貿易協議的進展將有可能加速，否則，延遲的情況可能會持續。"
-        },
-        "topic_priority_score": 9,
-        "event_type": "energy_supply_move",
+        "topic_priority_score": 8,
+        "event_type": "policy_action",
         "supporting_sources": [],
         "supporting_titles": [],
         "supporting_summaries": [],
         "supporting_links": [],
         "source_count": 1
       }
+    ],
+    "economy": [
+      {
+        "category": "economy",
+        "source_name": "The Hindu International",
+        "title": "U.S. removes four Indian companies from Russia-related sanctions list",
+        "link": "https://www.thehindu.com/news/international/us-removes-four-indian-companies-from-russia-related-sanctions-list/article71169202.ece",
+        "summary": "The companies have been deleted from the Office of Foreign Assets Control's (OFAC) Specially Designated Nationals and Blocked Persons (SDN) List",
+        "published": "Wed, 01 Jul 2026 15:09:16 +0530",
+        "updated": "Wed, 01 Jul 2026 15:09:16 +0530",
+        "published_at_utc": "2026-07-01T09:39:16+00:00",
+        "id": "article-71169202",
+        "topic_type": "sanctions",
+        "relevance_score": 23,
+        "briefing": {
+          "news_focus": "The companies have been deleted from the Office of Foreign Assets Control's (OFAC) Specially Designated Nationals and Blocked Persons (SDN) List",
+          "news_focus_zh": "美國將四家印度公司從與俄羅斯相關的制裁名單中移除，這些公司原本被列入美國財政部外國資產控制辦公室（OFAC）的特別指定國民及被封鎖人士名單（SDN List）。此舉可能顯示出美國對於印度在俄烏衝突中的立場有所調整。",
+          "background": "美國對俄羅斯的制裁始於2014年，隨著俄烏衝突的加劇，制裁名單不斷擴大，涵蓋了多個國家和企業。印度在此背景下，雖然與美國保持良好關係，但也試圖在俄羅斯和西方之間保持平衡。印度的能源需求使其在與俄羅斯的經濟合作中扮演重要角色，因此美國的這一決定可能反映出對印度立場的理解與尊重。",
+          "stakeholders": [
+            "美國政府",
+            "印度公司",
+            "俄羅斯市場",
+            "國際貿易界",
+            "能源需求國家"
+          ],
+          "analysis": "美國移除四家印度公司的制裁，可能是為了促進與印度的經濟合作，並減少對其在俄羅斯市場活動的干擾。這一行動可能有助於加強美印之間的戰略夥伴關係，特別是在面對中國崛起的背景下。然而，這也可能引發其他國家對美國制裁政策的質疑，特別是那些仍在制裁名單上的國家和企業。未來，若印度持續在俄羅斯市場上活動，美國可能需要進一步調整其制裁政策，以維持與印度的良好關係。"
+        },
+        "topic_priority_score": 8,
+        "event_type": "macro_signal",
+        "supporting_sources": [],
+        "supporting_titles": [],
+        "supporting_summaries": [],
+        "supporting_links": [],
+        "source_count": 1
+      },
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "Andy Burnham is about to have a crash course in hardcore geopolitics | Rafael Behr",
+        "link": "https://www.theguardian.com/commentisfree/2026/jul/01/andy-burnham-crash-course-hardcore-geopolitics-foreign-policy",
+        "summary": "The likely next prime minister would rather be in Warrington than Washington, but foreign policy will dominate his agenda more than he thinks If Andy Burnham is lucky, he will get some time to adjust to the pace of life as prime minister before dealing with his first international crisis. It won’t be long. Donald Trump is an engine of constant turmoil. Aftershocks from his recent military adventure in the Middle East will be felt for years. None of the declared war aims were achieved. The Iranian regime was not toppled. The terms agreed for a ceasefire promise Tehran more generous sanctions relief with fewer conditions than were imposed under the nuclear containment deal that Barack Obama signed in 2015. It is a worse arrangement than the one Trump discarded in his first term as “one of the worst deals ever”. Stocks of US munitions and credibility have been drained. Rafael Behr is a Guardian columnist Continue reading...",
+        "published": "Wed, 01 Jul 2026 08:00:30 GMT",
+        "updated": "2026-07-01T08:00:30Z",
+        "published_at_utc": "2026-07-01T08:00:30+00:00",
+        "id": "https://www.theguardian.com/commentisfree/2026/jul/01/andy-burnham-crash-course-hardcore-geopolitics-foreign-policy",
+        "topic_type": "sanctions",
+        "relevance_score": 23,
+        "briefing": {
+          "news_focus": "The likely next prime minister would rather be in Warrington than Washington, but foreign policy will dominate his agenda more than he thinks If Andy Burnham is lucky, he will get some time to adjust to the pace of life as prime minister before dealing with his first international crisis. It won’t be long. Donald Trump is an engine of constant turmoil. Aftershocks from his recent military adventure in the Middle East will be felt for years. None of the declared war aims were achieved. The Iranian regime was not toppled. The terms agreed for a ceasefire promise Tehran more generous sanctions relief with fewer conditions than were imposed under the nuclear containment deal that Barack Obama signed in 2015. It is a worse arrangement than the one Trump discarded in his first term as “one of the worst deals ever”. Stocks of US munitions and credibility have been drained. Rafael Behr is a Guardian columnist Continue reading...",
+          "news_focus_zh": "安迪·伯納姆（Andy Burnham）可能成為英國下一任首相，但他將面臨一系列國際政策挑戰，尤其是因唐納德·特朗普（Donald Trump）在中東的軍事行動所引發的後果。這些行動未能實現預期的戰爭目標，伊朗政權依然穩固，且新達成的停火協議對伊朗的制裁條件較之前更為寬鬆。伯納姆可能希望在擔任首相前能有時間適應，但國際危機將很快來臨。",
+          "background": "唐納德·特朗普在其任內對中東的軍事行動引發了持續的地緣政治緊張，尤其是對伊朗的政策轉變。特朗普曾批評奧巴馬簽署的核協議，並在其任期內選擇退出，導致當前的局勢更為複雜。新達成的停火協議雖然暫時緩解了衝突，但卻未能有效解決根本問題，並可能使未來的核談判面臨更大挑戰。伯納姆作為新首相，將不得不在這一背景下制定其外交政策。",
+          "stakeholders": [
+            "安迪·伯納姆",
+            "唐納德·特朗普",
+            "伊朗政府",
+            "英國政府",
+            "國際社會"
+          ],
+          "analysis": "安迪·伯納姆的外交政策將面臨多重挑戰，尤其是如何應對特朗普留下的地緣政治混亂。特朗普的軍事行動未能達成預期的效果，這使得伯納姆在國際舞台上需要迅速調整策略。參考報導提到的伊朗核協議問題，顯示出未來談判的困難，因為現有的協議條件較之前更為寬鬆，可能使得伊朗在國際社會中的地位更加鞏固。伯納姆若不迅速應對，可能會面臨國內外的壓力，影響其執政初期的穩定性。"
+        },
+        "topic_priority_score": 8,
+        "event_type": "energy_supply_move",
+        "supporting_sources": [
+          "The Economist",
+          "Nikkei Asia"
+        ],
+        "supporting_titles": [
+          "China wants more robots but not fewer workers",
+          "Why the last Iran nuclear deal still threatens the next one"
+        ],
+        "supporting_summaries": [
+          "A human-first approach to automation",
+          ""
+        ],
+        "supporting_links": [
+          "https://www.economist.com/finance-and-economics/2026/05/11/china-wants-more-robots-but-not-fewer-workers",
+          "https://asia.nikkei.com/opinion/why-the-last-iran-nuclear-deal-still-threatens-the-next-one"
+        ],
+        "source_count": 3
+      },
+      {
+        "category": "economy",
+        "source_name": "The Guardian Business",
+        "title": "UK house prices flat in June, says Nationwide; higher energy bills cap kicks in – business live",
+        "link": "https://www.theguardian.com/business/live/2026/jul/01/uk-house-prices-flat-june-nationwide-higher-energy-bills-cap-inflation-bank-england-latest-news-updates",
+        "summary": "Annual house price growth accelerates to 2.2%, led by Northern Ireland; analysts say housing market remains weak, but falling mortgage rates pave way for recovery UK manufacturing activity cooled in June despite a boost from ⁠companies stockpiling ahead of price increases and supply chain problems stemming from the Middle East conflict, according to closely ⁠watched industry survey. The final reading of S&P Global’s purchasing managers’ index for June fell to 52.5, ⁠below a preliminary estimate of 53.1, and May’s reading of 53.9. Readings above 50 indicate an expansion in activity. The UK ‌manufacturing sector ended the second quarter of the year on a positive note. Sustaining the upturn is becoming a bigger concern. Manufacturers are currently benefiting from client strategic stockpiling, as they safeguard against supply chain ‌disruptions and expected price rises. A drop in the rate of growth of new work intakes suggests this boost ​is already starting to fade. A further rise in manufacturing output in June adds to signs of encouraging resilience in the eurozone economy. June’s expansion in fact rounds off the strongest calendar quarter for euro area manufacturing production since the opening months of 2022, and will offset the recent decline that’s been recorded in the services economy. This sustained growth was accompanied by a welcome cooling of cost pressures, largely reflecting the sharp drop in oil prices seen during the month, alongside an easing of supply worries. Continue reading...",
+        "published": "Wed, 01 Jul 2026 10:35:03 GMT",
+        "updated": "2026-07-01T10:35:03Z",
+        "published_at_utc": "2026-07-01T10:35:03+00:00",
+        "id": "https://www.theguardian.com/business/live/2026/jul/01/uk-house-prices-flat-june-nationwide-higher-energy-bills-cap-inflation-bank-england-latest-news-updates",
+        "topic_type": "energy_markets",
+        "relevance_score": 21,
+        "briefing": {
+          "news_focus": "Annual house price growth accelerates to 2.2%, led by Northern Ireland; analysts say housing market remains weak, but falling mortgage rates pave way for recovery UK manufacturing activity cooled in June despite a boost from ⁠companies stockpiling ahead of price increases and supply chain problems stemming from the Middle East conflict, according to closely ⁠watched industry survey. The final reading of S&P Global’s purchasing managers’ index for June fell to 52.5, ⁠below a preliminary estimate of 53.1, and May’s reading of 53.9. Readings above 50 indicate an expansion in activity. The UK ‌manufacturing sector ended the second quarter of the year on a positive note. Sustaining the upturn is becoming a bigger concern. Manufacturers are currently benefiting from client strategic stockpiling, as they safeguard against supply chain ‌disruptions and expected price rises. A drop in the rate of growth of new work intakes suggests this boost ​is already starting to fade. A further rise in manufacturing output in June adds to signs of encouraging resilience in the eurozone economy. June’s expansion in fact rounds off the strongest calendar quarter for euro area manufacturing production since the opening months of 2022, and will offset the recent decline that’s been recorded in the services economy. This sustained growth was accompanied by a welcome cooling of cost pressures, largely reflecting the sharp drop in oil prices seen during the month, alongside an easing of supply worries. Continue reading...",
+          "news_focus_zh": "英國的房價在6月保持平穩，年增率達到2.2%，主要由北愛爾蘭推動。儘管分析師認為房市仍然疲弱，但隨著抵押貸款利率的下降，市場復甦的可能性增加。同時，英國製造業活動在6月有所降溫，S&P Global的採購經理人指數最終讀數為52.5，顯示出增長的放緩。製造商正因應供應鏈問題與價格上漲而進行庫存積累，這一策略的有效性正受到考驗。",
+          "background": "英國的房地產市場在過去幾年受到多重因素影響，包括利率上升和能源價格的波動。隨著抵押貸款利率的下降，市場復甦的希望逐漸增強。根據最新數據，北愛爾蘭的房價增長表現突出，顯示出地區間的差異。此外，英國的製造業在面對全球供應鏈挑戰和價格上漲的背景下，仍然顯示出一定的韌性，儘管最新的數據顯示增長勢頭正在減弱。",
+          "stakeholders": [
+            "英國政府",
+            "英國房地產開發商",
+            "英國製造業",
+            "家庭消費者",
+            "能源公司"
+          ],
+          "analysis": "房價的年增率雖然上升，但市場整體仍顯示出疲弱的跡象，這可能與高能源成本有關。根據BBC的報導，英國的家庭能源帳單在7月1日根據Ofgem的新能源上限上升了13%。這一變化可能會進一步壓縮家庭的可支配收入，影響消費者的購房能力。製造業的降溫也反映了市場的不確定性，儘管短期內庫存積累可能提供支持，但長期的增長可持續性仍然令人擔憂。隨著供應鏈問題的持續，製造商面臨的挑戰可能會影響整體經濟復甦的進程。"
+        },
+        "topic_priority_score": 8,
+        "event_type": "rate_decision",
+        "supporting_sources": [
+          "BBC Business"
+        ],
+        "supporting_titles": [
+          "What will the energy cap changes mean for my bills?"
+        ],
+        "supporting_summaries": [
+          "Typical annual household bills rose by 13% under Ofgem's new energy cap which took effect on 1 July."
+        ],
+        "supporting_links": [
+          "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss"
+        ],
+        "source_count": 2
+      }
     ]
   },
   "further_reading": {
     "technology": [
       {
-        "title": "As AI pushes data centres to breaking point, some Chinese chipmakers bet on SiC",
-        "link": "https://www.scmp.com/tech/tech-war/article/3358492/ai-pushes-data-centres-breaking-point-some-chinese-chipmakers-bet-sic?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-28T05:00:09+00:00",
+        "title": "Mainland Chinese tourists pack landmarks as Hong Kong marks 29th anniversary",
+        "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3359050/mainland-chinese-tourists-pack-landmarks-hong-kong-marks-29th-anniversary?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-07-01T10:47:00+00:00",
+        "relevance_score": 20
+      },
+      {
+        "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
+        "link": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+        "source_name": "Wired",
+        "published_at_utc": "2026-06-30T23:23:04+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart",
+        "link": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
+        "source_name": "The Verge",
+        "published_at_utc": "2026-07-01T08:41:26+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Will China build an electric rocket launch pad on the roof of the world?",
+        "link": "https://www.scmp.com/news/china/science/article/3358469/will-china-build-electric-rocket-launch-pad-roof-world?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-07-01T01:00:07+00:00",
         "relevance_score": 16
       },
       {
-        "title": "OpenAI is teasing new hardware… for Codex",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-        "source_name": "The Verge",
-        "published_at_utc": "2026-06-29T18:52:03+00:00",
+        "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+        "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-07-01T02:16:06+00:00",
         "relevance_score": 15
       },
       {
-        "title": "Is Singapore facing ‘public fatigue’ over ex-MP Raeesah Khan saga?",
-        "link": "https://www.scmp.com/week-asia/politics/article/3358904/singapore-facing-public-fatigue-over-ex-mp-raeesah-khan-saga?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-30T09:45:19+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "Venezuela Earthquake Destruction Revealed in New Satellite Images",
-        "link": "https://www.wired.com/story/satellite-images-damage-caused-by-venezuela-earthquakes/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-06-30T09:30:00+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "Screen time calculator: How much of your life is spent on social media?",
-        "link": "https://www.aljazeera.com/news/2026/6/30/social-media-calculator-how-much-of-your-life-is-spent-on-social-media?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-30T07:26:49+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "Want to Boost Your Home’s Resale Value? Install a Heat Pump",
-        "link": "https://www.wired.com/story/boost-your-homes-resale-value-install-heat-pump/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-06-30T06:00:00+00:00",
-        "relevance_score": 14
-      },
-      {
-        "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
-        "link": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
+        "title": "Anthropic’s long-sidelined Fable 5 is greenlit to return",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
         "source_name": "The Verge",
-        "published_at_utc": "2026-06-29T20:18:26+00:00",
-        "relevance_score": 13
+        "published_at_utc": "2026-07-01T00:03:55+00:00",
+        "relevance_score": 15
       },
       {
-        "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-        "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+        "title": "New attack provides one more reason why AI browsers are a bad idea",
+        "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+        "source_name": "Ars Technica",
+        "published_at_utc": "2026-06-30T20:03:14+00:00",
+        "relevance_score": 15
+      },
+      {
+        "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+        "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
         "source_name": "TechCrunch",
-        "published_at_utc": "2026-06-29T18:10:26+00:00",
-        "relevance_score": 13
+        "published_at_utc": "2026-06-30T18:00:00+00:00",
+        "relevance_score": 15
       },
       {
-        "title": "Bernie Sanders Saw This Coming",
-        "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-06-30T10:30:00+00:00",
-        "relevance_score": 12
+        "title": "Almost 60,000 far-right extremists in Germany, intelligence agency says",
+        "link": "https://www.bbc.co.uk/news/articles/crlw4ng79wzo?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC World",
+        "published_at_utc": "2026-06-30T16:12:25+00:00",
+        "relevance_score": 15
       },
       {
-        "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
-        "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
-        "source_name": "Wired",
-        "published_at_utc": "2026-06-29T21:49:26+00:00",
-        "relevance_score": 10
+        "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+        "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+        "source_name": "TechCrunch",
+        "published_at_utc": "2026-06-30T15:00:00+00:00",
+        "relevance_score": 15
       }
     ],
     "politics": [
       {
-        "title": "Starmer unveils extra £15bn for UK defence, with some road and energy projects scrapped to fund rise – politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/jun/30/defence-investment-plan-keir-starmer-dan-jarvis-labour-andy-burnham-uk-politics-latest-news",
+        "title": "Trump’s affordability crisis hits his supporters hardest as he calls housing bill of ‘minor importance’",
+        "link": "https://www.theguardian.com/business/2026/jul/01/trump-voters-housing-affordability-bill",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-30T10:29:03+00:00",
+        "published_at_utc": "2026-07-01T11:00:34+00:00",
         "relevance_score": 20
       },
       {
-        "title": "Anger at supreme court ruling on Trump’s power to fire agency chiefs – US politics live",
-        "link": "https://www.theguardian.com/us-news/live/2026/jun/30/birthright-citizenship-supreme-court-donald-trump-us-politics-latest-news",
+        "title": "Ireland set to take presidency of EU in Dublin opening ceremony – Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/jul/01/ireland-set-to-take-presidency-of-eu-in-dublin-opening-ceremony-europe-live",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-30T10:16:41+00:00",
-        "relevance_score": 18
+        "published_at_utc": "2026-07-01T10:44:28+00:00",
+        "relevance_score": 20
       },
       {
-        "title": "Advocacy groups file complaint against Ghana over Trump deportations",
-        "link": "https://www.aljazeera.com/news/2026/6/30/advocacy-groups-file-complaint-against-ghana-over-trump-deportations?traffic_source=rss",
-        "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-30T10:03:34+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "EU halves duty-free steel quota but UK and other partners given better rate",
-        "link": "https://www.theguardian.com/business/2026/jun/30/eu-duty-free-steel-quota-uk-rate-brexit",
-        "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-30T09:51:11+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "UK lays out defence plan with drones, self-flying fighter jets, no-crew submarines",
-        "link": "https://www.scmp.com/news/world/europe/article/3358903/uk-lays-out-defence-plan-drones-self-flying-fighter-jets-no-crew-submarines?utm_source=rss_feed",
+        "title": "China’s Wang Yi reaffirms support for Mideast talks in meeting with top Saudi diplomat",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3358992/chinas-wang-yi-reaffirms-support-mideast-talks-meeting-top-saudi-diplomat?utm_source=rss_feed",
         "source_name": "SCMP World",
-        "published_at_utc": "2026-06-30T09:39:24+00:00",
+        "published_at_utc": "2026-07-01T04:55:08+00:00",
+        "relevance_score": 19
+      },
+      {
+        "title": "Alarm bells over conflict of interest as filing shows Trump raked in $2bn in 2025",
+        "link": "https://www.theguardian.com/us-news/2026/jun/30/trump-1bn-crypto-businesses-2025",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-07-01T11:04:57+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Video: At least two killed and hundreds displaced in Israeli attack on Gaza",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/video-at-least-two-killed-and-hundreds-displaced-in-israeli-attack-on-gaza?traffic_source=rss",
+        "title": "US labor board more likely to dismiss worker and union charges under Trump, analysis finds",
+        "link": "https://www.theguardian.com/us-news/2026/jul/01/trump-labor-board-dismissals",
+        "source_name": "The Guardian World",
+        "published_at_utc": "2026-07-01T11:00:33+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "How a ‘Chinese heart’ could get US blood pumping despite biotech decoupling",
+        "link": "https://www.scmp.com/news/china/science/article/3359026/how-chinese-heart-could-get-us-blood-pumping-despite-biotech-decoupling?utm_source=rss_feed",
+        "source_name": "SCMP World",
+        "published_at_utc": "2026-07-01T10:00:11+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Russian attacks kill three in Ukraine as Kyiv hits another oil refinery",
+        "link": "https://www.aljazeera.com/news/2026/7/1/russian-attacks-kill-three-in-ukraine-as-kyiv-hits-another-oil-refinery?traffic_source=rss",
         "source_name": "Al Jazeera",
-        "published_at_utc": "2026-06-30T09:10:10+00:00",
+        "published_at_utc": "2026-07-01T09:38:06+00:00",
         "relevance_score": 18
       },
       {
-        "title": "Alleged Epstein victim and Trump accuser living in fear of retaliation, relative says",
-        "link": "https://www.theguardian.com/us-news/2026/jun/30/alleged-epstein-victim-trump-accuser",
+        "title": "Trump official says White House will fight birthright citizenship decision",
+        "link": "https://www.aljazeera.com/video/2026/7/1/trump-official-says-white-house-will-fight-birthright-citizenship-decision?traffic_source=rss",
+        "source_name": "Al Jazeera",
+        "published_at_utc": "2026-07-01T08:20:02+00:00",
+        "relevance_score": 18
+      },
+      {
+        "title": "Call to suspend new EU border system in peak holiday period as planes leave half full",
+        "link": "https://www.theguardian.com/business/2026/jul/01/call-to-suspend-eu-border-system-peak-holiday-period-europe-travel-airport-queues",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-30T09:00:38+00:00",
+        "published_at_utc": "2026-07-01T08:08:19+00:00",
         "relevance_score": 18
       },
       {
-        "title": "U.S.-India relationship at its lowest in 30 years: Indian-American Democrat leader",
-        "link": "https://www.thehindu.com/news/national/us-india-relationship-at-its-lowest-in-30-years-indian-american-democrat-leader/article71164727.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-30T08:22:45+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "Europe and US on collision course over next high representative for Bosnia",
-        "link": "https://www.theguardian.com/world/2026/jun/30/europe-us-high-representative-for-bosnia",
+        "title": "‘Life-saving’ drug for people with opioid dependency to be pulled from Australia by end of year",
+        "link": "https://www.theguardian.com/australia-news/2026/jul/01/life-saving-drug-for-people-with-opioid-dependency-to-be-pulled-from-australia-by-end-of-year",
         "source_name": "The Guardian World",
-        "published_at_utc": "2026-06-30T08:13:02+00:00",
-        "relevance_score": 18
-      },
-      {
-        "title": "U.S., India trade deal in final steps: Sergio Gor",
-        "link": "https://www.thehindu.com/news/national/us-india-trade-deal-in-final-steps-sergio-gor/article71164133.ece",
-        "source_name": "The Hindu International",
-        "published_at_utc": "2026-06-30T07:16:26+00:00",
+        "published_at_utc": "2026-07-01T07:55:42+00:00",
         "relevance_score": 18
       }
     ],
     "economy": [
       {
-        "title": "Philippines courts Greater Bay Area investors as gateway to Southeast Asia",
-        "link": "https://www.scmp.com/week-asia/economics/article/3358861/philippines-courts-greater-bay-area-investors-gateway-southeast-asia?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-30T06:00:44+00:00",
+        "title": "Hong Kong stocks tumble amid first-half global rally",
+        "link": "https://www.scmp.com/plus/business/china-business/article/3359033/hong-kong-stocks-tumble-amid-first-half-global-rally?utm_source=rss_feed",
+        "source_name": "SCMP Business",
+        "published_at_utc": "2026-07-01T09:18:20+00:00",
         "relevance_score": 21
       },
       {
-        "title": "Millions of Britons urged to submit meter readings before energy price cap rises on Wednesday",
-        "link": "https://www.theguardian.com/money/2026/jun/30/britons-submit-meter-readings-before-energy-price-cap-rise-uk",
+        "title": "Anthropic says US lifts export ban on its advanced AI tools",
+        "link": "https://www.bbc.co.uk/news/articles/cdr42623e1do?at_medium=RSS&at_campaign=rss",
+        "source_name": "BBC Business",
+        "published_at_utc": "2026-07-01T03:39:44+00:00",
+        "relevance_score": 21
+      },
+      {
+        "title": "Up to 150 former WH Smith stores to close as high court approves restructure",
+        "link": "https://www.theguardian.com/business/2026/jul/01/150-former-wh-smith-tg-jones-stores-to-close-high-court-approves-restructure",
         "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-30T06:00:40+00:00",
+        "published_at_utc": "2026-07-01T10:57:35+00:00",
         "relevance_score": 19
       },
       {
-        "title": "Half-year Hong Kong stocks report card: shares drop 11% on Fed pivot, lack of AI play",
-        "link": "https://www.scmp.com/business/china-business/article/3358887/half-year-hong-kong-stocks-report-card-shares-drop-11-fed-pivot-lack-ai-play?utm_source=rss_feed",
+        "title": "UK investors sue Binance and founder Zhao Changpeng for US$200 million",
+        "link": "https://www.scmp.com/news/article/3358948/uk-investors-sue-binance-and-founder-zhao-changpeng-us200-million?utm_source=rss_feed",
         "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-30T08:19:20+00:00",
+        "published_at_utc": "2026-06-30T18:06:50+00:00",
         "relevance_score": 17
       },
       {
-        "title": "Ukrainian oligarch among 3 wounded in ‘deliberate’ Monaco explosion",
-        "link": "https://www.scmp.com/news/world/europe/article/3358818/police-hunt-fugitive-monaco-after-3-wounded-deliberate-explosion?utm_source=rss_feed",
-        "source_name": "SCMP World",
-        "published_at_utc": "2026-06-29T22:56:03+00:00",
-        "relevance_score": 17
+        "title": "Halifax to disappear from UK high street as Lloyds axes bank brand after 173 years",
+        "link": "https://www.theguardian.com/business/2026/jul/01/halifax-to-disappear-from-uk-high-street-as-lloyds-axes-bank-brand-after-173-years",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-07-01T11:01:33+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "An Aztec-tinged revamp topped with a crinkle-cut tiara: inside the sparkling £1.3bn Olympia reboot",
+        "link": "https://www.theguardian.com/artanddesign/2026/jul/01/olympia-london-aztec-tiara-miss-world",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-07-01T09:38:01+00:00",
+        "relevance_score": 14
+      },
+      {
+        "title": "Minister and MP ‘furious’ over cuts to road projects to fund defence plan",
+        "link": "https://www.theguardian.com/politics/2026/jul/01/ministers-furious-cuts-road-projects-fund-defence-plan",
+        "source_name": "The Guardian Business",
+        "published_at_utc": "2026-07-01T07:44:48+00:00",
+        "relevance_score": 14
       },
       {
         "title": "EU sets up three months of talks with China over €360bn trade deficit",
         "link": "https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit",
         "source_name": "The Guardian World",
         "published_at_utc": "2026-06-29T18:33:51+00:00",
-        "relevance_score": 17
+        "relevance_score": 13
       },
       {
         "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve Governor Lisa Cook",
         "link": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
         "source_name": "BBC Business",
         "published_at_utc": "2026-06-29T16:51:52+00:00",
-        "relevance_score": 17
+        "relevance_score": 13
       },
       {
-        "title": "The AI bubble has further to run despite the looming crash",
-        "link": "https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-27T15:00:07+00:00",
-        "relevance_score": 16
-      },
-      {
-        "title": "Good for business – or profit at any cost? The controversial side of private equity – a visual explainer",
-        "link": "https://www.theguardian.com/business/ng-interactive/2026/jun/29/private-equity-visual-explainer-uk-veterinary-sector",
-        "source_name": "The Guardian Business",
-        "published_at_utc": "2026-06-29T06:00:33+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "Why brokers believe China’s AI-driven stock run will find fresh legs",
-        "link": "https://www.scmp.com/business/china-business/article/3358503/why-brokers-believe-chinas-ai-driven-stock-run-will-find-fresh-legs?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-29T00:00:11+00:00",
-        "relevance_score": 15
-      },
-      {
-        "title": "OTP gives Hong Kong a vote of confidence as European banks look East",
-        "link": "https://www.scmp.com/business/banking-finance/article/3358853/otp-gives-hong-kong-vote-confidence-european-banks-look-east?utm_source=rss_feed",
-        "source_name": "SCMP Business",
-        "published_at_utc": "2026-06-30T08:00:06+00:00",
-        "relevance_score": 14
+        "title": "Japan retail investors wait with near $100bn in funds in volatile market",
+        "link": "https://asia.nikkei.com/business/markets/equities/japan-retail-investors-wait-with-near-100bn-in-funds-in-volatile-market",
+        "source_name": "Nikkei Asia",
+        "published_at_utc": "",
+        "relevance_score": 13
       }
     ]
   },
